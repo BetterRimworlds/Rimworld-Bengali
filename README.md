@@ -16,6 +16,57 @@ Bring a **full Bengali localization** to RimWorld — built to be **playable, UI
 
 ---
 
+## Autonomous Translation Stats
+
+```
+================ BENGALI TRANSLATION ANALYSIS ================
+Volume: 123,286 English words -> 121,836 Bengali words
+
+--- LLM (ChatGPT 5.1 Equivalent) ---
+Total API Calls           : 16,884
+Total LLM Tokens In       : 4,187,271
+Total LLM Tokens Out      : 255,443
+LLM total cost            : $7.79
+  ├─ Input cost           : $5.23
+  └─ Output cost          : $2.55
+Total runtime             : 6.82 hours
+
+--- Human Translation Team (Dubai) ---
+Project Lead Time         : 73.9 calendar days
+Average Rate              : $35.00/hr
+
+Role            | #  | Total Hrs  | Hrs/Person   | Cost                     
+---------------------------------------------------------------------------
+Translators     | 3  | 913.8      | 304.6        | 117,373.76 AED ($31,981.95)
+Editors         | 1  | 225.4      | 225.4        | 28,952.19 AED ($7,888.88)
+Proofreaders    | 1  | 79.2       | 79.2         | 10,172.39 AED ($2,771.77)
+---------------------------------------------------------------------------
+TOTAL BILLABLE HOURS: 1,218.4  | 156,498.34 AED ($42,642.60)
+
+    [ VS SINGLE HUMAN ]
+    Human Calendar Time   : 341.1 Days (243.7 work + 97.5 wknd)
+    Autonomo Speedup      : 1200.1x FASTER
+
+--- Human Translation Team (USA) ---
+Project Lead Time         : 88.7 calendar days
+Average Rate              : $75.00/hr
+
+Role            | #  | Total Hrs  | Hrs/Person   | Cost                     
+---------------------------------------------------------------------------
+Translators     | 3  | 1,096.5    | 365.5        | $82,239.30               
+Editors         | 1  | 270.5      | 270.5        | $20,285.69               
+Proofreaders    | 1  | 95.0       | 95.0         | $7,127.41                
+---------------------------------------------------------------------------
+TOTAL BILLABLE HOURS: 1,462.0  | $109,652.40
+
+    [ VS SINGLE HUMAN ]
+    Human Calendar Time   : 409.4 Days (292.4 work + 117.0 wknd)
+    Autonomo Speedup      : 1440.1x FASTER
+
+===========================================================
+```
+
+
 ## Installation
 
 ### Option A: Steam Workshop (recommended)
@@ -147,3 +198,4 @@ Built with the **Autonomo AI** localization pipeline (Automated QA Inspection & 
 
 RimWorld is the property of its respective owner(s).
 This translation mod is an independent community project and is not affiliated with or endorsed by Ludeon Studios.
+
