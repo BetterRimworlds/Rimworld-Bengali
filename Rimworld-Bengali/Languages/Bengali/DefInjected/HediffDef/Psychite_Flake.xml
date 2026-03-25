@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on flake -->
+  <FlakeHigh.label>ফ্লেক-এর নেশা</FlakeHigh.label>
+  <!-- EN: Active flake in the bloodstream. Generates a euphoric, debilitating high. -->
+  <FlakeHigh.description>রক্তপ্রবাহে সক্রিয় ফ্লেক বিদ্যমান। এটি আনন্দদায়ক, দুর্বল করে দেওয়া অনুভূতি তৈরি করে।</FlakeHigh.description>
+  <!-- EN: a flake high -->
+  <FlakeHigh.labelNoun>ফ্লেক উচ্চতা</FlakeHigh.labelNoun>
+  
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caves -->
+  <Caves.label>গুহা</Caves.label>
+  <!-- EN: Small cave networks can be found within the rocks. -->
+  <Caves.description>পাথরের মধ্যে ছোট গুহার জাল খুঁজে পাওয়া যেতে পারে।</Caves.description>
+  
+  <!-- EN: coast -->
+  <Coast.label>উপকূল</Coast.label>
+  <!-- EN: This tile borders the coast. -->
+  <Coast.description>এই টাইলটি উপকূলের সাথে সীমানা সংলগ্ন।</Coast.description>
+  
+  <!-- EN: mountain -->
+  <Mountain.label>পাহাড়</Mountain.label>
+  <!-- EN: A mountain fills one side of this tile. -->
+  <Mountain.description>এই টাইলটির একপাশে একটি পর্বত রয়েছে।</Mountain.description>
+  
+  <!-- EN: river -->
+  <River.label>নদী</River.label>
+  <!-- EN: A stream of fresh water flows through here. -->
+  <River.description>এখানে একটি মিষ্টি জলের ধারা বয়ে চলেছে।</River.description>
+  
+  <!-- EN: underground cave -->
+  <UndergroundCave.label>ভূগর্ভস্থ গুহা</UndergroundCave.label>
+  
+</LanguageData>

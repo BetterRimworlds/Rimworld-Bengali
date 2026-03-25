@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal bed -->
+  <AnimalBed.label>পশুর বিছানা</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>প্রাণীদের ঘুমানোর জন্য একটি নরম বিছানা। যেকোনো প্রাণীর জন্য উপযুক্ত।</AnimalBed.description>
+  
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>পশু ঘুমন্ত বাক্স</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>ছোট আকারের বাক্স, যা পশুদের ঘুমানোর জন্য তৈরি করা হয়েছে। এটি মুরগি, বিড়াল অথবা ছোট কুকুরের মতো ছোট প্রাণীদের জন্য উপযুক্ত।</AnimalSleepingBox.description>
+  
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>পশুর ঘুমাবার স্থান</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>এটি প্রাণীদের ঘুমানোর জন্য ভূমিতে একটি নির্দিষ্ট স্থান চিহ্নিত করে।</AnimalSleepingSpot.description>
+  
+  <!-- EN: armchair -->
+  <Armchair.label>আরামকেদারা</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>এটি একটি বড়, নরম এবং আরামদায়ক আসন। বিশ্রাম নেওয়ার জন্য এটি দারুণ। টেবিল, কর্মক্ষেত্র এবং অন্যান্য স্থানে ব্যবহার করা যেতে পারে।</Armchair.description>
+  
+  <!-- EN: bed -->
+  <Bed.label>বিছানা</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>একটি আরামদায়ক তোশক এবং চাদর বিশ্রাম নেওয়ার জন্য একটি ফ্রেমের উপর রাখা।</Bed.description>
+  
+  <!-- EN: bedroll -->
+  <Bedroll.label>বিছানারোল</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>এটি মেঝেতে রাখা একটি সাধারণ খাট, সাধারণত কাপড় বা চামড়া দিয়ে তৈরি, প্রায়শই পশম দিয়ে আস্তরণ করা থাকে। এটি হালকা ও সহজে বহনযোগ্য করার জন্য ভাঁজ করা যায়, তবে এটি সাধারণ খাটের মতো আরামদায়ক নয়। ভ্রমণকালে ভালো ঘুমের জন্য কারভানকারীরা বেডরোল ব্যবহার করতে পারে।</Bedroll.description>
+  
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>ডাবল বেডরোল</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>এটি মেঝেতে রাখা একটি সাধারণ ডাবল-ওয়াইড বিছানা, সাধারণত কাপড় বা চামড়া দিয়ে তৈরি, প্রায়শই পশম দিয়ে লাইনিং করা থাকে। এটি হালকা ও সহজে পরিবহনের জন্য রোল আপ করা যায়, তবে এটি সাধারণ বিছানার মতো আরামদায়ক নয়। ভ্রমণকালে ভালো ঘুমের জন্য কারভানগুলিতে বেডরোল ব্যবহার করা যেতে পারে।</BedrollDouble.description>
+  
+  <!-- EN: bookcase -->
+  <Bookcase.label>বইয়ের তাক</Bookcase.label>
+  <!-- EN: A wide bookcase for storing and displaying up to ten books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
+  <Bookcase.description>এটি দশটি পর্যন্ত বই সংরক্ষণ ও প্রদর্শনের জন্য একটি প্রশস্ত বইয়ের আলমারি। এখানে রাখা বইগুলো কাছাকাছি একাডেমিক কাজে নিষ্ক্রিয়ভাবে সাহায্য করবে এবং আলমারিটির সৌন্দর্য বৃদ্ধি করবে। আলমারিতে রাখা বইগুলো কখনো নষ্ট হবে না।</Bookcase.description>
+  
+  <!-- EN: small bookcase -->
+  <BookcaseSmall.label>ছোট বইয়ের তাক</BookcaseSmall.label>
+  <!-- EN: A narrow bookcase for storing and displaying up to five books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
+  <BookcaseSmall.description>এটি পাঁচটি বই পর্যন্ত সংরক্ষণ ও প্রদর্শনের জন্য একটি সংকীর্ণ বইয়ের আলমারি। এখানে রাখা বইগুলো কাছাকাছি একাডেমিক কাজে নিষ্ক্রিয়ভাবে সাহায্য করবে এবং আলমারিটির সৌন্দর্য বৃদ্ধি করবে। আলমারিতে রাখা বইগুলো কখনো নষ্ট হবে না।</BookcaseSmall.description>
+  
+  <!-- EN: couch -->
+  <Couch.label>সোফা</Couch.label>
+  <!-- EN: A large double-wide seat which is cushioned for maximum comfort. Perfect for a luxurious rec room or a homey reading nook. -->
+  <Couch.description>এটি একটি বড়, ডাবল-ওয়াইড আসন যা সর্বোচ্চ আরামের জন্য কুশনযুক্ত। বিলাসবহুল বিশ্রামাগার অথবা আরামদায়ক পঠনক্ষেত্রের জন্য উপযুক্ত।</Couch.description>
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>ডাইনিং চেয়ার</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>এটি একটি আরামদায়ক এবং আকর্ষণীয় চেয়ার। টেবিল, কাজের স্থান এবং অন্যান্য স্থানে ব্যবহার করা যেতে পারে।</DiningChair.description>
+  
+  <!-- EN: double bed -->
+  <DoubleBed.label>ডাবল বেড</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>এটি দুটি মানুষের জন্য উপযুক্ত একটি সাধারণ ডাবল-ওয়াইড বিছানা।</DoubleBed.description>
+  
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>ডাবল ঘুমের স্থান</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>এটি মাটিতে এমন একটি স্থান চিহ্নিত করে যেখানে দুইজন মানুষ একসাথে ঘুমানোর কথা। আরামদায়ক নয়।</DoubleSleepingSpot.description>
+  
+  <!-- EN: dresser -->
+  <Dresser.label>ড্রেসার</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>এটি একটি ড্রেসার। কাছাকাছি থাকা সমস্ত বিছানায় সামান্য আরাম যোগ করে। একই বিছানার কাছে একের বেশি ড্রেসার রাখলে কোনো প্রভাব পড়ে না।</Dresser.description>
+  
+  <!-- EN: end table -->
+  <EndTable.label>শেষ টেবিল</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>এটি একটি ছোট bedside table যা কাছাকাছি থাকা বিছানাগুলোকে সামান্য আরামদায়ক করে তোলে। এটিকে অবশ্যই বিছানার মাথার কাছে সরাসরি স্থাপন করতে হবে। একই বিছানার কাছে একের বেশি end table রাখলে কোনো প্রভাব পড়ে না।</EndTable.description>
+  
+  <!-- EN: flood light -->
+  <FloodLight.label>ফ্লাড লাইট</FloodLight.label>
+  <!-- EN: A high-intensity light that's good for large outdoor spaces. -->
+  <FloodLight.description>এটি বৃহৎ বহিরাঙ্গন স্থানগুলির জন্য উপযুক্ত একটি উচ্চ-তীব্রতার আলো।</FloodLight.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>হাসপাতাল শয্যা</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>এটি বিশেষভাবে হাসপাতালের ব্যবহারের জন্য ডিজাইন করা একটি খাট। রোগীর সুবিধা অনুযায়ী এটির উচ্চতা পরিবর্তন করা যায় এবং এতে বিল্ট-ইন সরঞ্জাম রয়েছে, যা সাধারণ খাটের চেয়ে ভালো চিকিৎসা প্রদানে সাহায্য করে।</HospitalBed.description>
+  
+  <!-- EN: plant pot -->
+  <PlantPot.label>গাছের টব</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>এখানে কাছাকাছি থাকা মানুষের মেজাজ উন্নত করার জন্য আলংকারিক ফুল গাছ লাগান।</PlantPot.description>
+  
+  <!-- EN: royal bed -->
+  <RoyalBed.label>রাজকীয় শয্যা</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>উচ্চবংশীয়দের জন্য উপযুক্ত একটি বিলাসবহুল সোনার খচিত খাট। এটি খুবই আরামদায়ক এবং সুন্দর, এটি নিজেই একটি শিল্পকর্ম। দু'জনের জন্য উপযুক্ত।</RoyalBed.description>
+  
+  <!-- EN: shelf -->
+  <Shelf.label>তাক</Shelf.label>
+  <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <Shelf.description>তিন স্তরের তাক যা খোলা জায়গার চেয়ে তিনগুণ বেশি জিনিস ধারণ করে। এর ভেতরে রাখা জিনিস কখনো নষ্ট হবে না এবং আশেপাশের সৌন্দর্যকেও প্রভাবিত করবে না।\n\nযেহেতু তাকের স্থান সীমিত, তাই এখানে খণ্ড, কাঠামো, গাছপালা এবং বড় মৃতদেহ রাখা যায় না।</Shelf.description>
+  
+  <!-- EN: small shelf -->
+  <ShelfSmall.label>ছোট তাক</ShelfSmall.label>
+  <!-- EN: A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <ShelfSmall.description>এটি একটি ছোট তিন-স্তরের তাক যা খোলা জায়গার চেয়ে তিনগুণ বেশি জিনিস ধারণ করতে পারে। এর ভেতরে রাখা জিনিস নষ্ট হবে না এবং আশেপাশের সৌন্দর্যকেও প্রভাবিত করবে না।\n\nযেহেতু তাকের স্থান সীমিত, তাই এখানে খণ্ড, কাঠামো, গাছপালা এবং বড় মৃতদেহ রাখা যায় না।</ShelfSmall.description>
+  
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>ঘুমের স্থান</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>এটি মাটিতে একটি স্থান চিহ্নিত করে যেখানে মানুষ ঘুমাবে। আরামদায়ক নয়।</SleepingSpot.description>
+  
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>দাঁড়ানো বাতি</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>বিদ্যুৎচালিত একটি ল্যাম্প যা কোনো স্থান আলোকিত করে। মানুষজনের অবাধে চলাচল এবং সম্পূর্ণ গতিতে কাজ করার জন্য আলোর প্রয়োজন।</StandingLamp.description>
+  
+  <!-- EN: stool -->
+  <Stool.label>স্টুল</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>বসতে একটি সাধারণ প্ল্যাটফর্ম। খুব আরামদায়ক নয়, তবে কিছুই না থাকার চেয়ে অনেক ভালো। টেবিল, কাজের স্থান এবং অন্যান্য স্থানে ব্যবহার করা যেতে পারে।</Stool.description>
+  
+  <!-- EN: sun lamp -->
+  <SunLamp.label>সূর্য বাতি</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>শিল্প যুগের একটি বাতি যা ফসল ফলানোর জন্য যথেষ্ট আলো দেয়, কিন্তু প্রচুর পরিমাণে শক্তি ব্যবহার করে। রাতে স্বয়ংক্রিয়ভাবে বন্ধ হয়ে যায়।</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>উদ্ভিদ বিশ্রাম সময়ের জন্য বন্ধ।</SunLamp.comps.CompSchedule.offMessage>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>টেবিল (১x২)</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>মানুষজন চেয়ারের দিকে মুখ করে বসলে টেবিলের উপর থেকে খাবার খায়।</Table1x2c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>টেবিল (২x২)</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>মানুষজন চেয়ারের দিকে মুখ করে বসলে টেবিলের উপর থেকে খাবার খায়।</Table2x2c.description>
+  
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>টেবিল (২x৪)</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>মানুষজন চেয়ারের দিকে মুখ করে বসলে টেবিল থেকে খাবার খায়।</Table2x4c.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>টেবিল (৩x৩)</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>মানুষজন চেয়ারের দিকে মুখ করে বসলে টেবিলের উপর থেকে খাবার খায়।</Table3x3c.description>
+  
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>মশাল বাতি</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>এটি কোনো এলাকা আলোকিত করার জন্য কাঠের তৈরি মশাল। মানুষজনের স্বাভাবিক গতিতে চলাচল ও কাজ করার জন্য আলোর প্রয়োজন। স্বয়ংক্রিয়ভাবে কাঠ দিয়ে পুনরায় জ্বালানো যায়। অল্প পরিমাণে তাপ উৎপন্ন করে।</TorchLamp.description>
+  
+  <!-- EN: wall torch lamp -->
+  <TorchWallLamp.label>দেয়াল টর্চ বাতি</TorchWallLamp.label>
+  <!-- EN: A wall-mounted wooden torch for lighting an area. It is not as bright as a regular torch lamp, but it can be mounted on walls. Produces a small amount of heat. -->
+  <TorchWallLamp.description>এটি কোনো এলাকা আলোকিত করার জন্য দেওয়াল-মাউন্ট করা কাঠের মশাল। এটি সাধারণ মশাল বাতির চেয়ে কম উজ্জ্বল, তবে এটি দেওয়ালগুলোতে লাগানো যায়। অল্প পরিমাণে তাপ উৎপন্ন করে।</TorchWallLamp.description>
+  
+  <!-- EN: wall lamp -->
+  <WallLamp.label>ওয়াল ল্যাম্প</WallLamp.label>
+  <!-- EN: A wall-mounted lamp that lights an area using electricity. It is less powerful than a standing lamp, but can be mounted on walls. -->
+  <WallLamp.description>বিদ্যুৎ ব্যবহার করে একটি এলাকা আলোকিত করার জন্য দেয়ালের সাথে লাগানো বাতি। এটি একটি স্ট্যান্ডিং বাতির চেয়ে কম শক্তিশালী, তবে দেয়ালের উপর বসানো যেতে পারে।</WallLamp.description>
+  
+</LanguageData>

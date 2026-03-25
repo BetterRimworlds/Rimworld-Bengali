@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agave -->
+  <Plant_Agave.label>আগভে</Plant_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <Plant_Agave.description>এটি বড় পাতাযুক্ত মরুভূমির একটি উদ্ভিদ, যার ফুল ও কাণ্ড খাওয়া যায়।</Plant_Agave.description>
+  
+  <!-- EN: pincushion cactus -->
+  <Plant_PincushionCactus.label>পিনকুশন ক্যাকটাস</Plant_PincushionCactus.label>
+  <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
+  <Plant_PincushionCactus.description>এটি একটি ছোট ক্যাকটাস। এটি পিনকুশন সদৃশ হওয়ার কারণে এইরূপ নামকরণ করা হয়েছে।</Plant_PincushionCactus.description>
+  
+  <!-- EN: saguaro cactus -->
+  <Plant_SaguaroCactus.label>সাগুয়ারো ক্যাকটাস</Plant_SaguaroCactus.label>
+  <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
+  <Plant_SaguaroCactus.description>শুষ্ক পৃথিবীর স্থানীয় একটি বৃহৎ ক্যাকটাস। এটি গাছ না হওয়া সত্ত্বেও, অল্প পরিমাণে তন্তুযুক্ত উপাদান সরবরাহ করে যা কাঠের মতো ব্যবহার করা যেতে পারে।</Plant_SaguaroCactus.description>
+  
+  <!-- EN: drago tree -->
+  <Plant_TreeDrago.label>ড্রাগো গাছ</Plant_TreeDrago.label>
+  <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
+  <Plant_TreeDrago.description>একটি শক্তসমর্থ মরুভূমির গাছ, পুরু, সূঁচালো পাতা দিয়ে আচ্ছাদিত।</Plant_TreeDrago.description>
+  
+</LanguageData>

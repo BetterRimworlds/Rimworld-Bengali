@@ -1,0 +1,1092 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>title(p=3)->[titleNaked]</li>
+    <li>title->[ANYPAWN_nameIndef]'s [titleNaked]</li>
+    <li>title->[Character]'s [story]</li>
+    <li>title->[Character]'s [objectAny]</li>
+    <li>title->[Character] [linkagePlace] [place]</li>
+    <li>title->The [adjective] [Character]</li>
+    <li>title->The [adjective] [objectAny]</li>
+    <li>titleNaked->[ConceptAny]</li>
+    <li>titleNaked->[adjective] [ConceptAny]</li>
+    <li>titleNaked->[ConceptAny] [linkage] [ConceptAny]</li>
+    <li>titleNaked->[ConceptAny] [linkagePlace] [place]</li>
+    <li>titleNaked->[objectAny] [linkage] [ConceptAny]</li>
+    <li>objectAny->[Game]</li>
+    <li>objectAny->[Weapon]</li>
+    <li>linkage->of</li>
+    <li>linkage->by</li>
+    <li>linkage->for</li>
+    <li>linkage->without</li>
+    <li>linkage->with</li>
+    <li>linkagePlace->in the</li>
+    <li>linkagePlace->by the</li>
+    <li>linkagePlace->on the</li>
+    <li>linkagePlace->Near the</li>
+    <li>adjective->[AdjectiveAny]</li>
+    <li>place(p=25)->[TerrainFeature]</li>
+    <li>place->Abyss</li>
+    <li>place->Amphitheater</li>
+    <li>place->Aquarium</li>
+    <li>place->Aqueduct</li>
+    <li>place->Arena</li>
+    <li>place->Asylum</li>
+    <li>place->Barracks</li>
+    <li>place->Base</li>
+    <li>place->Bunker</li>
+    <li>place->Cabin</li>
+    <li>place->Camp</li>
+    <li>place->Castle</li>
+    <li>place->Cathedral</li>
+    <li>place->Cavern</li>
+    <li>place->Citadel</li>
+    <li>place->City</li>
+    <li>place->Coliseum</li>
+    <li>place->Colony</li>
+    <li>place->Depths</li>
+    <li>place->Desert</li>
+    <li>place->Elevator</li>
+    <li>place->Factory</li>
+    <li>place->Festival</li>
+    <li>place->Fortress</li>
+    <li>place->Glade</li>
+    <li>place->Graveyard</li>
+    <li>place->Greenhouse</li>
+    <li>place->Grove</li>
+    <li>place->Harbor</li>
+    <li>place->Heart</li>
+    <li>place->Hive</li>
+    <li>place->Hospital</li>
+    <li>place->Island</li>
+    <li>place->Jungle</li>
+    <li>place->Labor Camp</li>
+    <li>place->Laboratory</li>
+    <li>place->Labyrinth</li>
+    <li>place->Launchpad</li>
+    <li>place->Library</li>
+    <li>place->Lighthouse</li>
+    <li>place->Manor</li>
+    <li>place->Mansion</li>
+    <li>place->Marketplace</li>
+    <li>place->Mine</li>
+    <li>place->Monastery</li>
+    <li>place->Mountain</li>
+    <li>place->Nexus</li>
+    <li>place->Oasis</li>
+    <li>place->Observatory</li>
+    <li>place->Orchard</li>
+    <li>place->Outpost</li>
+    <li>place->Palace</li>
+    <li>place->Plateau</li>
+    <li>place->Prison</li>
+    <li>place->Refinery</li>
+    <li>place->Resort</li>
+    <li>place->Rift</li>
+    <li>place->Ruins</li>
+    <li>place->Sanctuary</li>
+    <li>place->School</li>
+    <li>place->Settlement</li>
+    <li>place->Ship</li>
+    <li>place->Soul</li>
+    <li>place->Space Station</li>
+    <li>place->Spaceport</li>
+    <li>place->Spire</li>
+    <li>place->Swamp</li>
+    <li>place->Tavern</li>
+    <li>place->Temple</li>
+    <li>place->Town</li>
+    <li>place->Tundra</li>
+    <li>place->University</li>
+    <li>place->Village</li>
+    <li>place->Volcano</li>
+    <li>place->Warehouse</li>
+    <li>place->Wasteland</li>
+    <li>place->Wilderness</li>
+    <li>place->Zoo</li>
+    <li>story->Adventure</li>
+    <li>story->Adventures</li>
+    <li>story->Allegory</li>
+    <li>story->Anecdote</li>
+    <li>story->Annals</li>
+    <li>story->Ballad</li>
+    <li>story->Biography</li>
+    <li>story->Chapters</li>
+    <li>story->Chronicle</li>
+    <li>story->Chronicles</li>
+    <li>story->Chronology</li>
+    <li>story->Comedy</li>
+    <li>story->Compendium</li>
+    <li>story->Compilation</li>
+    <li>story->Dialogue</li>
+    <li>story->Diary</li>
+    <li>story->Discourse</li>
+    <li>story->Drama</li>
+    <li>story->Dream</li>
+    <li>story->Enigma</li>
+    <li>story->Epic</li>
+    <li>story->Epiphany</li>
+    <li>story->Epistle</li>
+    <li>story->Fable</li>
+    <li>story->Fables</li>
+    <li>story->Fairy Tale</li>
+    <li>story->Fantasia</li>
+    <li>story->Fantasy</li>
+    <li>story->Fantasy</li>
+    <li>story->Fiction</li>
+    <li>story->Folklore</li>
+    <li>story->History</li>
+    <li>story->Imagination</li>
+    <li>story->Imaginings</li>
+    <li>story->Insight</li>
+    <li>story->Jottings</li>
+    <li>story->Journal</li>
+    <li>story->Journey</li>
+    <li>story->Legacy</li>
+    <li>story->Legend</li>
+    <li>story->Legends</li>
+    <li>story->Literature</li>
+    <li>story->Log</li>
+    <li>story->Memoir</li>
+    <li>story->Memoirs</li>
+    <li>story->Memories</li>
+    <li>story->Mind</li>
+    <li>story->Musical</li>
+    <li>story->Musings</li>
+    <li>story->Myth</li>
+    <li>story->Mythology</li>
+    <li>story->Mythos</li>
+    <li>story->Narration</li>
+    <li>story->Narrative</li>
+    <li>story->Novel</li>
+    <li>story->Observations</li>
+    <li>story->Ode</li>
+    <li>story->Pages</li>
+    <li>story->Papers</li>
+    <li>story->Parable</li>
+    <li>story->Prose</li>
+    <li>story->Recollections</li>
+    <li>story->Recount</li>
+    <li>story->Reflection</li>
+    <li>story->Reflections</li>
+    <li>story->Reminiscences</li>
+    <li>story->Revelation</li>
+    <li>story->Rhapsody</li>
+    <li>story->Saga</li>
+    <li>story->Scribblings</li>
+    <li>story->Script</li>
+    <li>story->Sketch</li>
+    <li>story->Sketches</li>
+    <li>story->Story</li>
+    <li>story->Tale</li>
+    <li>story->Tales</li>
+    <li>story->Testament</li>
+    <li>story->Testimony</li>
+    <li>story->Tragedy</li>
+    <li>story->Tribute</li>
+    <li>story->Verse</li>
+    <li>story->Volume</li>
+    <li>story->Whimsy</li>
+  -->
+  <Namer_Novel.rulePack.rulesStrings>
+    <li>title(p=3)->[titleNaked]</li>
+    <li>title->[titleNaked] এর [ANYPAWN_nameIndef]</li>
+    <li>title->[story] এর [Character]</li>
+    <li>title->[objectAny] এর [Character]</li>
+    <li>title->[Character] [linkagePlace] [place]</li>
+    <li>title->টি [Character] [adjective]</li>
+    <li>title->টি [objectAny] [adjective]</li>
+    <li>titleNaked->[ConceptAny]</li>
+    <li>titleNaked->[ConceptAny] [adjective]</li>
+    <li>titleNaked->[ConceptAny] [linkage] [ConceptAny]</li>
+    <li>titleNaked->[ConceptAny] [linkagePlace] [place]</li>
+    <li>titleNaked->[objectAny] [linkage] [ConceptAnyDef]</li>
+    <li>objectAny->[Game]</li>
+    <li>objectAny->[Weapon]</li>
+    <li>linkage->এর</li>
+    <li>linkage->দ্বারা</li>
+    <li>linkage->জন্য</li>
+    <li>linkage->ছাড়া</li>
+    <li>linkage->সাথে</li>
+    <li>linkagePlace->এ</li>
+    <li>linkagePlace->দ্বারা</li>
+    <li>linkagePlace->উপরে, সম্পর্কে, উপরেই, প্রায়</li>
+    <li>linkagePlace->কাছাকাছি, পাশে, সংলগ্ন</li>
+    <li>adjective->[AdjectiveAny]</li>
+    <li>place(p=25)->[TerrainFeatureAny]</li>
+    <li>place->অবিস্মরণীয় খাদ</li>
+    <li>place->অ্যাম্ফিথিয়েটার</li>
+    <li>place->অ্যাকোয়ারিয়াম</li>
+    <li>place->জলপ্রণালী</li>
+    <li>place->বালি</li>
+    <li>place->আশ্রয়স্থল</li>
+    <li>place->বারাক</li>
+    <li>place->দুর্গ</li>
+    <li>place->বাঙ্কারটি</li>
+    <li>place->ক্যাপ্টেন কেবিন</li>
+    <li>place->শিবিরটি</li>
+    <li>place->দুর্গ</li>
+    <li>place->ঘণ্টাঘর</li>
+    <li>place->গুহাটি</li>
+    <li>place->দুর্গ</li>
+    <li>place->সিটি হল</li>
+    <li>place->কলোসিয়াম</li>
+    <li>place->উপনিবেশটি</li>
+    <li>place->গভীরতাগুলো</li>
+    <li>place->মরুভূমি</li>
+    <li>place->লিফট</li>
+    <li>place->কারখানা</li>
+    <li>place->উৎসব</li>
+    <li>place->দুর্গ</li>
+    <li>place->কালভেরো</li>
+    <li>place->স্মশানঘাট</li>
+    <li>place->গ্রিনহাউস</li>
+    <li>place->উপবন</li>
+    <li>place->বন্দর</li>
+    <li>place->হৃদয়</li>
+    <li>place->মৌচাক</li>
+    <li>place->হাসপাতাল</li>
+    <li>place->দ্বীপটি</li>
+    <li>place->জঙ্গল</li>
+    <li>place->কারাগার</li>
+    <li>place->পরীক্ষাগারটি</li>
+    <li>place->গোলকধাঁধা</li>
+    <li>place->পরিবহনকারী যান</li>
+    <li>place->লাইব্রেরি</li>
+    <li>place->বাতিঘর</li>
+    <li>place->আবাসস্থল</li>
+    <li>place->মহলবাড়ি</li>
+    <li>place->বাজার</li>
+    <li>place->খনন ক্ষেত্রটি</li>
+    <li>place->মঠ</li>
+    <li>place->পাহাড়</li>
+    <li>place->সংযোগ</li>
+    <li>place->মরুদ্যান</li>
+    <li>place->পর্যবেক্ষণাগার</li>
+    <li>place->সবজি বাগান</li>
+    <li>place->প্যাভিলিয়ন</li>
+    <li>place->প্রাসাদ</li>
+    <li>place->প্লাটো</li>
+    <li>place->কারাগার</li>
+    <li>place->রিফাইনারিটি</li>
+    <li>place->জটিলটি</li>
+    <li>place->ফাটল</li>
+    <li>place->ধ্বংসাবশেষ</li>
+    <li>place->তীর্থস্থান</li>
+    <li>place->বিদ্যালয়</li>
+    <li>place->বসতি</li>
+    <li>place->নৌকাটি</li>
+    <li>place->আত্মা</li>
+    <li>place->মহাকাশ স্টেশন</li>
+    <li>place->মহাকাশ বন্দর</li>
+    <li>place->ফountain</li>
+    <li>place->늪ভূমি</li>
+    <li>place->টাভার্নটা</li>
+    <li>place->মন্দিরটি</li>
+    <li>place->শহরটি</li>
+    <li>place->ট tundra</li>
+    <li>place->বিশ্ববিদ্যালয়</li>
+    <li>place->জনগণ</li>
+    <li>place->আগ্নেয়গিরি</li>
+    <li>place->ডিপোজিটটি / ভাণ্ডারটি</li>
+    <li>place->荒野</li>
+    <li>place->প্রকৃতি</li>
+    <li>place->চিড়িয়াখানা</li>
+    <li>story->অভিযান</li>
+    <li>story->অভিযান</li>
+    <li>story->রূপক</li>
+    <li>story->ঘটনা</li>
+    <li>story->আর্কাইভসমূহ</li>
+    <li>story->পালাগান</li>
+    <li>story->জীবনী</li>
+    <li>story->অধ্যায়সমূহ</li>
+    <li>story->কালপঞ্জি</li>
+    <li>story->ক্রনিকলসমূহ</li>
+    <li>story->কালপঞ্জি</li>
+    <li>story->কৌতুক</li>
+    <li>story->সংকলন</li>
+    <li>story->সংকলন</li>
+    <li>story->সংলাপ</li>
+    <li>story->ডায়েরি</li>
+    <li>story->বক্তব্য</li>
+    <li>story->নাটক</li>
+    <li>story->স্বপ্ন</li>
+    <li>story->রহস্য</li>
+    <li>story->মহাকাব্যিক</li>
+    <li>story->দিব্যদৃষ্টি</li>
+    <li>story->পত্রিকা</li>
+    <li>story->রূপকথা</li>
+    <li>story->রূপকথা</li>
+    <li>story->রূপকথা</li>
+    <li>story->ফ্যান্টাসিয়া</li>
+    <li>story->ফ্যান্টাসি</li>
+    <li>story->কল্পনা</li>
+    <li>story->কল্পকাহিনী</li>
+    <li>story->লোককথা</li>
+    <li>story->ইতিহাস</li>
+    <li>story->কল্পনাশক্তি</li>
+    <li>story->কল্পনা​সমূহ</li>
+    <li>story->দৃষ্টিভঙ্গি</li>
+    <li>story->নোটস</li>
+    <li>story->পত্রিকা</li>
+    <li>story->ভ্রমণ</li>
+    <li>story->উত্তরাধিকার</li>
+    <li>story->কিংবদন্তী</li>
+    <li>story->কিংবদন্তী</li>
+    <li>story->সাহিত্য</li>
+    <li>story->রেজিস্টার</li>
+    <li>story->স্মৃতি</li>
+    <li>story->স্মৃতিসমূহ</li>
+    <li>story->স্মৃতিসমূহ</li>
+    <li>story->মন</li>
+    <li>story->সঙ্গীতপূর্ণ</li>
+    <li>story->চিন্তাভাবনা</li>
+    <li>story->পুরাণকথাটি</li>
+    <li>story->পুরাণকথা</li>
+    <li>story->মিথস</li>
+    <li>story->বর্ণনা</li>
+    <li>story->গল্পকথা</li>
+    <li>story->উপন্যাস</li>
+    <li>story->পর্যবেক্ষণসমূহ</li>
+    <li>story->ওডা</li>
+    <li>story->পৃষ্ঠাগুলি</li>
+    <li>story->নথিপত্র</li>
+    <li>story->প্যারাবোলা</li>
+    <li>story->গদ্য</li>
+    <li>story->স্মৃতিসমূহ</li>
+    <li>story->গণনা</li>
+    <li>story->প্রতিফলন</li>
+    <li>story->প্রতিফলনসমূহ</li>
+    <li>story->স্মৃতিচারণ</li>
+    <li>story->প্রকাশনা</li>
+    <li>story->রাпсоডিয়া</li>
+    <li>story->কাহিনী</li>
+    <li>story->গড়বড়ো আঁকা</li>
+    <li>story->স্ক্রিপ্ট</li>
+    <li>story->স্কেচ</li>
+    <li>story->স্কেচসমূহ</li>
+    <li>story->গল্প</li>
+    <li>story->গল্প</li>
+    <li>story->গল্প</li>
+    <li>story->উইল/উত্তরাধিকারপত্র</li>
+    <li>story->সাক্ষ্য</li>
+    <li>story->দুর্ভাগ্য</li>
+    <li>story->শ্রদ্ধাঞ্জলি</li>
+    <li>story->পদ</li>
+    <li>story->ভলিউম</li>
+    <li>story->মেজাজখুশি</li>
+  </Namer_Novel.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>title->The Design of [subject_primary]</li>
+    <li>title->Notes on [subject_primary]</li>
+    <li>title->A Breakthrough in [subject_primary]</li>
+    <li>title->A Study in [subject_primary]</li>
+    <li>title->Novel Applications for [subject_primary]</li>
+    <li>title->Understanding [subject_primary]</li>
+    <li>title->Principles of [subject_primary]</li>
+    <li>title->The Fundamentals of [subject_primary]</li>
+    <li>title->[subject_primary]: Part [volNumeral]</li>
+    <li>title->[subject_primary] Vol. [volNumeral]</li>
+    <li>title->[randAdjective] [subject_primary]</li>
+    <li>title->[randAdjective] [subject_primary] Vol. [volNumeral]</li>
+    <li>title->[maybe_authored_title]</li>
+    <li>title(has_subject_secondary==true)->[studiesStart] [subject_primary] in the [subject_secondary] sector</li>
+    <li>title->[studiesStart] [subject_primary] following [lifeEvent]</li>
+    <li>title->[studiesStart] [subject_primary]: [anecdotes]</li>
+    <li>title->[studiesStart] [subject_primary]: a [randAdjective] [discussionNoun]</li>
+    <li>title->The [randAdjective] [subject_primary] [referenceType]</li>
+    <li>title->The [referenceType] of [randAdjective] [subject_primary], Vol. [volNumeral]</li>
+    <li>title->[studiesStart] [randAdjective] [subject_primary], Vol. [volNumeral]</li>
+    <li>title->The [referenceType] of [studiesStart] [randAdjective] [subject_primary]</li>
+    <li>title->The [lifeEvent] [discussionNoun] and [subject_primary]</li>
+    <li>studiesStart->Studies in</li>
+    <li>studiesStart->Fundamentals of</li>
+    <li>studiesStart->Managing</li>
+    <li>studiesStart->Histories of</li>
+    <li>studiesStart->Working in</li>
+    <li>studiesStart->Representation of</li>
+    <li>studiesStart->Surviving</li>
+    <li>studiesStart->Advances in</li>
+    <li>studiesStart->Applications of</li>
+    <li>studiesStart->Shaping the future of</li>
+    <li>studiesStart->Documenting of</li>
+    <li>referenceType->Encyclopedia</li>
+    <li>referenceType->Dictionary</li>
+    <li>referenceType->Almanac</li>
+    <li>referenceType->Register</li>
+    <li>referenceType->Annal</li>
+    <li>referenceType->Record</li>
+    <li>referenceType->Guidebook</li>
+    <li>referenceType->Chronicle</li>
+    <li>referenceType->Mentor</li>
+    <li>referenceType->Toolbox</li>
+    <li>anecdotes->thoughts</li>
+    <li>anecdotes->anecdotes</li>
+    <li>anecdotes->folk tales</li>
+    <li>anecdotes->hearsay</li>
+    <li>anecdotes->stories</li>
+    <li>anecdotes->narratives</li>
+    <li>discussionNoun->discussion</li>
+    <li>discussionNoun->debate</li>
+    <li>discussionNoun->discourse</li>
+    <li>discussionNoun->dialog</li>
+    <li>discussionNoun->dialectic</li>
+    <li>discussionNoun->examination</li>
+    <li>discussionNoun->consultation</li>
+    <li>discussionNoun->controversy</li>
+    <li>lifeEvent->injury</li>
+    <li>lifeEvent->cloning</li>
+    <li>lifeEvent->trauma</li>
+    <li>lifeEvent->separation</li>
+    <li>lifeEvent->landing</li>
+    <li>lifeEvent->revolution</li>
+    <li>lifeEvent->archotech invocation</li>
+    <li>lifeEvent->Horax</li>
+    <li>lifeEvent->childbirth</li>
+    <li>lifeEvent->accident</li>
+    <li>lifeEvent->fleshmelding</li>
+    <li>lifeEvent->deathrest</li>
+    <li>lifeEvent->uprising</li>
+    <li>lifeEvent->chimera</li>
+    <li>lifeEvent->reverie</li>
+    <li>lifeEvent->ripperfall</li>
+    <li>lifeEvent->lobotomy</li>
+    <li>lifeEvent->archite infection</li>
+    <li>volNumeral->I</li>
+    <li>volNumeral->II</li>
+    <li>volNumeral->III</li>
+    <li>volNumeral->IV</li>
+    <li>volNumeral->V</li>
+    <li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=2)->[titleTwoSubjects]</li>
+    <li>titleTwoSubjects->An Intro to [subjectsTuple]</li>
+    <li>titleTwoSubjects->Analysis of [subjectsTuple]</li>
+    <li>maybe_authored_title->[author_gen]</li>
+    <li>author_gen->[ANYPAWN_nameIndef]'s Studies</li>
+    <li>author_gen->[ANYPAWN_nameIndef]'s Notes</li>
+    <li>author_gen->[ANYPAWN_nameIndef]'s Seminars</li>
+    <li>maybe_authored_title(length_subject_primary[less_than]20,p=2)->[authored_title_gen]</li>
+    <li>maybe_authored_title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[authored_title_gen_two]</li>
+    <li>authored_title_gen->[ANYPAWN_nameIndef]'s Guide to [subject_primary]</li>
+    <li>authored_title_gen->[ANYPAWN_nameIndef]'s Intro to [subject_primary]</li>
+    <li>authored_title_gen_two->[ANYPAWN_nameIndef]'s Guide to [subjectsTuple]</li>
+    <li>authored_title_gen_two->[ANYPAWN_nameIndef]'s Intro to [subjectsTuple]</li>
+    <li>subjectsTuple(has_subject_secondary==true,p=2)->[subject_primary] and [subject_secondary]</li>
+    <li>subjectsTuple(has_subject_secondary==true)->[subject_secondary] and [randTheme]</li>
+    <li>subjectsTuple->[subject_primary] and [randTheme]</li>
+    <li>randAdjective->Basic</li>
+    <li>randAdjective->Best</li>
+    <li>randAdjective->Glitterworld</li>
+    <li>randAdjective->Medieval</li>
+    <li>randAdjective->Archaic</li>
+    <li>randAdjective->Lurid</li>
+    <li>randAdjective->Twilight</li>
+    <li>randAdjective->Deathworld</li>
+    <li>randAdjective->Grotesque</li>
+    <li>randAdjective->Sepulchral</li>
+    <li>randAdjective->Holy</li>
+    <li>randAdjective->Darkest</li>
+    <li>randAdjective->Subworld</li>
+    <li>randAdjective->Primitive</li>
+    <li>randAdjective->Survival</li>
+    <li>randAdjective->Stygian</li>
+    <li>randAdjective->Morose</li>
+    <li>randAdjective->Haunting</li>
+    <li>randAdjective->Cryptic</li>
+    <li>randAdjective->Cursed</li>
+    <li>randTheme->engineering</li>
+    <li>randTheme->folklore</li>
+    <li>randTheme->science fiction</li>
+    <li>randTheme->survival tips</li>
+    <li>randTheme->the rim</li>
+    <li>randTheme->autophagy</li>
+    <li>randTheme->faith</li>
+    <li>randTheme->rights</li>
+    <li>randTheme->ethics</li>
+  -->
+  <Namer_Schematic.rulePack.rulesStrings>
+    <!-- EN: 
+    <li>title->The Design of [subject_primary]</li>
+    <li>title->Notes on [subject_primary]</li>
+    <li>title->A Breakthrough in [subject_primary]</li>
+    <li>title->A Study in [subject_primary]</li>
+    <li>title->Novel Applications for [subject_primary]</li>
+    <li>title->Understanding [subject_primary]</li>
+    <li>title->Principles of [subject_primary]</li>
+    <li>title->The Fundamentals of [subject_primary]</li>
+    <li>title->[subject_primary]: Part [volNumeral]</li>
+    <li>title->[subject_primary] Vol. [volNumeral]</li>
+    <li>title->[randAdjective] [subject_primary]</li>
+    <li>title->[randAdjective] [subject_primary] Vol. [volNumeral]</li>
+    <li>title->[maybe_authored_title]</li>
+    <li>title(has_subject_secondary==true)->[studiesStart] [subject_primary] in the [subject_secondary] sector</li>
+    <li>title->[studiesStart] [subject_primary] following [lifeEvent]</li>
+    <li>title->[studiesStart] [subject_primary]: [anecdotes]</li>
+    <li>title->[studiesStart] [subject_primary]: a [randAdjective] [discussionNoun]</li>
+    <li>title->The [randAdjective] [subject_primary] [referenceType]</li>
+    <li>title->The [referenceType] of [randAdjective] [subject_primary], Vol. [volNumeral]</li>
+    <li>title->[studiesStart] [randAdjective] [subject_primary], Vol. [volNumeral]</li>
+    <li>title->The [referenceType] of [studiesStart] [randAdjective] [subject_primary]</li>
+    <li>title->The [lifeEvent] [discussionNoun] and [subject_primary]</li> -->
+    <li>title->নকশা [subject_primary_def]</li>
+    <li>title->[বিষয়]-এর উপর নোটসমূহ [subject_primary]</li>
+    <li>title->[বিষয়_প্রাথমিক]-এ বড় অগ্রগতি [subject_primary]</li>
+    <li>title->একটি গবেষণা [বিষয়_প্রাথমিক_স্ত্রীলিঙ্গ/পুরুষলিঙ্গ] সম্পর্কে [subject_primary_FemMas]</li>
+    <li>title->[বিষয়_প্রাথমিক_স্ত্রীলিঙ্গ]-এর জন্য নতুন অ্যাপ্লিকেশন [subject_primary_FemMas]</li>
+    <li>title->উপলব্ধি [subject_primary_def]</li>
+    <li>title->নীতিসমূহ [subject_primary_def]</li>
+    <li>title->ভিত্তিসমূহ [subject_primary_def]</li>
+    <li>title->[subject_primary]অংশ [volNumeral]</li>
+    <li>title->[subject_primary_FemMas]অংশ [volNumeral]</li>
+    <li>title->[subject_primary] খণ্ড. [volNumeral]</li>
+    <li>title->[subject_primary_FemMas] খণ্ড. [volNumeral]</li>
+    <li>title->[subject_primary] [randAdjective]</li>
+    <li>title->[subject_primary_FemMas] [randAdjective]</li>
+    <li>title->[subject_primary] [randAdjective] খণ্ড। [volNumeral]</li>
+    <li>title->[subject_primary_FemMas] [randAdjective] খণ্ড। [volNumeral]</li>
+    <li>title->[maybe_authored_title]</li>
+    <li>title(has_subject_secondary==true)->[studiesStart] [subject_primary_def] খাতে [subject_secondary_def]</li>
+    <li>title->[studiesStart] [subject_primary_def] অনুসরণ করে [lifeEvent]</li>
+    <li>title->[anecdotes] এর [studiesStart] [subject_primary_def]</li>
+    <li>title->[studiesStart] [subject_primary_def]একটি [randAdjective] [discussionNoun_indef] [discussionNoun_indef] [randAdjective]</li>
+    <li>title->[referenceType] [subject_primary_def] [randAdjective]</li>
+    <li>title->[referenceType] [subject_primary_def] [randAdjective], খণ্ড [volNumeral]</li>
+    <li>title->[studiesStart] [subject_primary_def] [randAdjective], খণ্ড [volNumeral]</li>
+    <li>title->[referenceType] এর [studiesStart] [subject_primary_def] [randAdjective]</li>
+    <li>title->[lifeEvent], [discussionNoun] সম্পর্কে [subject_primary]</li>
+    <!-- EN:  
+    <li>studiesStart->Studies in</li>
+    <li>studiesStart->Fundamentals of</li>
+    <li>studiesStart->Managing</li>
+    <li>studiesStart->Histories of</li>
+    <li>studiesStart->Working in</li>
+    <li>studiesStart->Representation of</li>
+    <li>studiesStart->Surviving</li>
+    <li>studiesStart->Advances in</li>
+    <li>studiesStart->Applications of</li>
+    <li>studiesStart->Shaping the future of</li>
+    <li>studiesStart->Documenting of</li>-->
+    <li>studiesStart->অধ্যয়নসমূহ</li>
+    <li>studiesStart->ভিত্তিসমূহ</li>
+    <li>studiesStart->ব্যবস্থাপনা</li>
+    <li>studiesStart->গল্পসমূহ</li>
+    <li>studiesStart->কাজ</li>
+    <li>studiesStart->উপস্থাপন</li>
+    <li>studiesStart->টিঁকে থাকা, জীবনধারণ, অস্তিত্ব</li>
+    <li>studiesStart->অগ্রগতি</li>
+    <li>studiesStart->অ্যাপ্লিকেশনসমূহ</li>
+    <li>studiesStart->ভবিষ্যতের সংজ্ঞা</li>
+    <li>studiesStart->নথিপত্র</li>
+    <!-- EN:  
+    <li>referenceType->Encyclopedia</li>
+    <li>referenceType->Dictionary</li>
+    <li>referenceType->Almanac</li>
+    <li>referenceType->Register</li>
+    <li>referenceType->Annal</li>
+    <li>referenceType->Record</li>
+    <li>referenceType->Guidebook</li>
+    <li>referenceType->Chronicle</li>
+    <li>referenceType->Mentor</li>
+    <li>referenceType->Toolbox</li>-->
+    <li>referenceType->এনসাইক্লোপিডিয়া</li>
+    <li>referenceType->অভিধান</li>
+    <li>referenceType->পঞ্জিকা</li>
+    <li>referenceType->রেজিস্টার</li>
+    <li>referenceType->কালানুক্রম</li>
+    <li>referenceType->ফাইলটি</li>
+    <li>referenceType->সংকলনটি</li>
+    <li>referenceType->গল্পটি</li>
+    <li>referenceType->টিউটোরিয়ালটি</li>
+    <li>referenceType->পারদর্শিতা তালিকা</li>
+    <!-- EN:  
+    <li>anecdotes->thoughts</li>
+    <li>anecdotes->anecdotes</li>
+    <li>anecdotes->folk tales</li>
+    <li>anecdotes->hearsay</li>
+    <li>anecdotes->stories</li>
+    <li>anecdotes->narratives</li>-->
+    <li>anecdotes->চিন্তাভাবনা</li>
+    <li>anecdotes->স্মৃতিচারণ</li>
+    <li>anecdotes->জনপ্রিয় গল্পসমূহ</li>
+    <li>anecdotes->গুঞ্জন</li>
+    <li>anecdotes->গল্পসমূহ</li>
+    <li>anecdotes->গল্পসমূহ</li>
+    <!-- EN:  
+    <li>discussionNoun->discussion</li>
+    <li>discussionNoun->debate</li>
+    <li>discussionNoun->discourse</li>
+    <li>discussionNoun->dialog</li>
+    <li>discussionNoun->dialectic</li>
+    <li>discussionNoun->examination</li>
+    <li>discussionNoun->consultation</li>
+    <li>discussionNoun->controversy</li>-->
+    <li>discussionNoun->আলোচনা</li>
+    <li>discussionNoun->বিতর্ক</li>
+    <li>discussionNoun->বক্তব্য</li>
+    <li>discussionNoun->সংলাপ</li>
+    <li>discussionNoun->দ্বান্দ্বিক</li>
+    <li>discussionNoun->পরীক্ষা</li>
+    <li>discussionNoun->অনুসন্ধান</li>
+    <li>discussionNoun->বিতর্ক</li>
+    <li>discussionNoun_indef->একটি আলোচনা</li>
+    <li>discussionNoun_indef->একটি বিতর্ক</li>
+    <li>discussionNoun_indef->একটি বক্তৃতা</li>
+    <li>discussionNoun_indef->একটি সংলাপ</li>
+    <li>discussionNoun_indef->একজন যুক্তিতর্কবিদ</li>
+    <li>discussionNoun_indef->একটি পরীক্ষা</li>
+    <li>discussionNoun_indef->একটি পরামর্শ</li>
+    <li>discussionNoun_indef->একটি বিতর্ক</li>
+    <!-- EN:  
+    <li>lifeEvent->injury</li>
+    <li>lifeEvent->cloning</li>
+    <li>lifeEvent->trauma</li>
+    <li>lifeEvent->separation</li>
+    <li>lifeEvent->landing</li>
+    <li>lifeEvent->revolution</li>
+    <li>lifeEvent->archotech invocation</li>
+    <li>lifeEvent->Horax</li>
+    <li>lifeEvent->childbirth</li>
+    <li>lifeEvent->accident</li>
+    <li>lifeEvent->fleshmelding</li>
+    <li>lifeEvent->deathrest</li>
+    <li>lifeEvent->uprising</li>
+    <li>lifeEvent->chimera</li>
+    <li>lifeEvent->reverie</li>
+    <li>lifeEvent->ripperfall</li>
+    <li>lifeEvent->lobotomy</li>
+    <li>lifeEvent->archite infection</li>-->
+    <li>lifeEvent->আঘাত</li>
+    <li>lifeEvent->ক্লোনিং</li>
+    <li>lifeEvent->আঘাত</li>
+    <li>lifeEvent->বিচ্ছেদ</li>
+    <li>lifeEvent->অবতরণ</li>
+    <li>lifeEvent->বিপ্লব</li>
+    <li>lifeEvent->আর্কোটেক আহ্বান</li>
+    <li>lifeEvent->হোর‍্যাক্স</li>
+    <li>lifeEvent->প্রসব</li>
+    <li>lifeEvent->দুর্ঘটনা</li>
+    <li>lifeEvent->মাংস-বিভ্রান্তি</li>
+    <li>lifeEvent->মর্টিসুইনো</li>
+    <li>lifeEvent->বিদ্রোহ</li>
+    <li>lifeEvent->মোহিনী</li>
+    <li>lifeEvent->স্বপ্ন</li>
+    <li>lifeEvent->জলপ্রপাত</li>
+    <li>lifeEvent->লোবোটমি</li>
+    <li>lifeEvent->আর্কাইটা সংক্রমণ</li>
+    <!-- EN:  
+    <li>volNumeral->I</li>
+    <li>volNumeral->II</li>
+    <li>volNumeral->III</li>
+    <li>volNumeral->IV</li>
+    <li>volNumeral->V</li>-->
+    <li>volNumeral->I</li>
+    <li>volNumeral->II</li>
+    <li>volNumeral->III</li>
+    <li>volNumeral->IV</li>
+    <li>volNumeral->V</li>
+    <li>volNumeral->VI</li>
+    <li>volNumeral->VII</li>
+    <li>volNumeral->VIII</li>
+    <li>volNumeral->IX</li>
+    <li>volNumeral->X</li>
+    <!-- EN:  
+    <li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=2)->[titleTwoSubjects]</li>
+    <li>titleTwoSubjects->An Intro to [subjectsTuple]</li>
+    <li>titleTwoSubjects->Analysis of [subjectsTuple]</li>
+    <li>maybe_authored_title->[author_gen]</li>
+    <li>author_gen->[ANYPAWN_nameIndef]'s Studies</li>
+    <li>author_gen->[ANYPAWN_nameIndef]'s Notes</li>
+    <li>author_gen->[ANYPAWN_nameIndef]'s Seminars</li>
+    <li>maybe_authored_title(length_subject_primary[less_than]20,p=2)->[authored_title_gen]</li>
+    <li>maybe_authored_title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[authored_title_gen_two]</li>-->
+    <li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=2)->[titleTwoSubjects]</li>
+    <li>titleTwoSubjects->[বিষয়বস্তুগুলির] একটি ভূমিকা [subjectsTuple]</li>
+    <li>titleTwoSubjects->বিশ্লেষণ [subjectsTuple_def]</li>
+    <li>maybe_authored_title->[author_gen]</li>
+    <li>author_gen->[ANYPAWN_nameIndef]-এর গবেষণা [ANYPAWN_nameIndef]</li>
+    <li>author_gen->[ANYPAWN_nameIndef]-এর নোট [ANYPAWN_nameIndef]</li>
+    <li>author_gen->সেমিনারসমূহ [ANYPAWN_nameIndef]।</li>
+    <li>maybe_authored_title(length_subject_primary[less_than]20,p=2)->[authored_title_gen]</li>
+    <li>maybe_authored_title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[authored_title_gen_two]</li>
+    <!-- EN:  
+    <li>authored_title_gen->[ANYPAWN_nameIndef]'s Guide to [subject_primary]</li>
+    <li>authored_title_gen->[ANYPAWN_nameIndef]'s Intro to [subject_primary]</li>
+    <li>authored_title_gen_two->[ANYPAWN_nameIndef]'s Guide to [subjectsTuple]</li>
+    <li>authored_title_gen_two->[ANYPAWN_nameIndef]'s Intro to [subjectsTuple]</li>
+    <li>subjectsTuple(has_subject_secondary==true,p=2)->[subject_primary] and [subject_secondary]</li>
+    <li>subjectsTuple(has_subject_secondary==true)->[subject_secondary] and [randTheme]</li>
+    <li>subjectsTuple->[subject_primary] and [randTheme]</li>-->
+    <li>authored_title_gen->গাইড [subject_primary_def] এর [ANYPAWN_nameIndef]</li>
+    <li>authored_title_gen->[ANYPAWN_nameIndef]-এর প্রবর্তন [subject_primary_def2] [ANYPAWN_nameIndef] [subject_primary_def2]</li>
+    <li>authored_title_gen_two->গাইড [ANYPAWN_nameIndef] জন্য [subjectsTuple_FemMas]</li>
+    <li>authored_title_gen_two->[ANYPAWN_nameIndef]-এর প্রবর্তন [subjectsTuple] [ANYPAWN_nameIndef] [subjectsTuple]</li>
+    <li>subjectsTuple_FemMas(has_subject_secondary==true,p=2)->[subject_primary_FemMas] এবং [subject_secondary_FemMas]</li>
+    <li>subjectsTuple_FemMas(has_subject_secondary==true)->[subject_secondary_FemMas] [randTheme]</li>
+    <li>subjectsTuple_FemMas->[subject_primary_FemMas] [randTheme]</li>
+    <li>subjectsTuple(has_subject_secondary==true,p=2)->[subject_primary_def2] এবং [subject_secondary_FemMas]</li>
+    <li>subjectsTuple(has_subject_secondary==true)->[subject_secondary_def2] [randTheme]</li>
+    <li>subjectsTuple->[subject_primary_def2] [randTheme]</li>
+    <!-- EN:  
+    <li>randAdjective->Basic</li>
+    <li>randAdjective->Best</li>
+    <li>randAdjective->Glitterworld</li>
+    <li>randAdjective->Medieval</li>
+    <li>randAdjective->Archaic</li>
+    <li>randAdjective->Lurid</li>
+    <li>randAdjective->Twilight</li>
+    <li>randAdjective->Deathworld</li>
+    <li>randAdjective->Grotesque</li>
+    <li>randAdjective->Sepulchral</li>
+    <li>randAdjective->Holy</li>
+    <li>randAdjective->Darkest</li>
+    <li>randAdjective->Subworld</li>
+    <li>randAdjective->Primitive</li>
+    <li>randAdjective->Survival</li>
+    <li>randAdjective->Stygian</li>
+    <li>randAdjective->Morose</li>
+    <li>randAdjective->Haunting</li>
+    <li>randAdjective->Cryptic</li>
+    <li>randAdjective->Cursed</li>-->
+    <li>randAdjective->উজ্জ্বল</li>
+    <li>randAdjective->আধ্যাত্মিক</li>
+    <li>randAdjective->শান্তিবাদী</li>
+    <li>randAdjective->মধ্যযুগীয়</li>
+    <li>randAdjective->বুদ্ধিজীবী</li>
+    <li>randAdjective->আকর্ষণীয়</li>
+    <li>randAdjective->গোধূলিকালীন</li>
+    <li>randAdjective->মৃতবিশ্বের</li>
+    <li>randAdjective->মারাত্মক</li>
+    <li>randAdjective->সমাধিক্ষেত্রের মতো</li>
+    <li>randAdjective->উপকারী</li>
+    <li>randAdjective->ভয়ঙ্কর</li>
+    <li>randAdjective->বিশ্বের নিচে</li>
+    <li>randAdjective->অস্বস্তিকর</li>
+    <li>randAdjective->bertahan hidupের</li>
+    <li>randAdjective->হাড়হিম করা</li>
+    <li>randAdjective->নমনীয়</li>
+    <li>randAdjective->অতীন্দ্রিয়</li>
+    <li>randAdjective->অনানুষ্ঠানিক</li>
+    <li>randAdjective->নরকী</li>
+    <li>randAdjective->স্বর্গীয়</li>
+    <!-- EN:  
+    <li>randTheme->engineering</li>
+    <li>randTheme->folklore</li>
+    <li>randTheme->science fiction</li>
+    <li>randTheme->survival tips</li>
+    <li>randTheme->the rim</li>
+    <li>randTheme->autophagy</li>
+    <li>randTheme->faith</li>
+    <li>randTheme->rights</li>
+    <li>randTheme->ethics</li>-->
+    <li>randTheme->এবং প্রকৌশলবিদ্যা।</li>
+    <li>randTheme->এবং লোককথা</li>
+    <li>randTheme->এবং বিজ্ঞান কল্পকাহিনী</li>
+    <li>randTheme->এবং বেঁচে থাকার টিপসগুলো</li>
+    <li>randTheme->এবং প্রান্ত</li>
+    <li>randTheme->এবং অটোফ্যাজি</li>
+    <li>randTheme->এবং বিশ্বাস।</li>
+    <li>randTheme->এবং অধিকারসমূহ</li>
+    <li>randTheme->এবং নৈতিকতা</li>
+  </Namer_Schematic.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthored]</li>
+    <li>title(p=2)->[titleAuthoredNoSubject]</li>
+    <li>title(length_subject_primary[less_than]20,p=4)->[titleAuthoredOneSubject]</li>
+    <li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleBasicTwoSubjects]</li>
+    <li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleAuthoredTwoSubjects]</li>
+    <li>titleBasic(p=6)->[randAdjective] [subject_primary]</li>
+    <li>titleBasic(p=6)->[randNoun] and [subject_primary]</li>
+    <li>titleBasic->Lessons in [subject_primary]</li>
+    <li>titleBasic->Thinking About [subject_primary]</li>
+    <li>titleBasic->A Guide to [subject_primary]</li>
+    <li>titleBasic->Introduction to [subject_primary]</li>
+    <li>titleBasic->A Primer on [subject_primary]</li>
+    <li>titleBasic->Essentials of [subject_primary]</li>
+    <li>titleBasic->Mastery in [subject_primary]</li>
+    <li>titleBasic->The Fundamentals of [subject_primary]</li>
+    <li>titleBasic->Navigating [subject_primary]</li>
+    <li>titleBasic->Key Concepts in [subject_primary]</li>
+    <li>titleBasic->The Art of [subject_primary]</li>
+    <li>titleBasic->Masterclass: [subject_primary]</li>
+    <li>titleBasic->Decoding [subject_primary]</li>
+    <li>titleBasic->Advanced Techniques in [subject_primary]</li>
+    <li>titleBasic->Unlocking [subject_primary]</li>
+    <li>titleBasic->Practical Guide to [subject_primary]</li>
+    <li>titleBasic->Exploring [subject_primary]</li>
+    <li>titleBasic->Pro Tips: [subject_primary]</li>
+    <li>titleBasic->Understanding [subject_primary]</li>
+    <li>titleBasic->Journey Through [subject_primary]</li>
+    <li>titleBasic->The Way of [subject_primary]</li>
+    <li>titleBasic->Insights into [subject_primary]</li>
+    <li>titleBasic->Unraveling [subject_primary]</li>
+    <li>titleBasic->Secrets of [subject_primary]</li>
+    <li>titleBasic->Mastering [subject_primary]</li>
+    <li>titleBasic->In-depth Study of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Studies</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s [randAdjective] Studies</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Diary</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Chronicles</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Memoirs</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Journal</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Musings</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Adventures</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Reflections</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Exploration</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Testimonies</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Odyssey</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Journey</li>
+    <li>titleAuthoredNoSubject->The Life of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->The Story of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->The Legacy of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->The Adventures of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->The Diaries of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->The Wanderings of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->The Musings of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->The Testimonies of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->The Chronicles of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->The Memoirs of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] on [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Guide to [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Intro to [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] Explores [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Insights on [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Manual on [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Perspectives on [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Handbook for [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Analysis of [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Approach to [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Discoveries in [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Musings on [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Study of [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Investigation into [subject_primary]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Research on [subject_primary]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] on [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Guide to [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Intro to [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] Explores [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Insights on [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Manual on [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Perspectives on [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Handbook for [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Analysis of [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Approach to [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Discoveries in [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Musings on [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Study of [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Investigation into [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Research on [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->An Intro to [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->The Best of [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Combining [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Lessons on [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Thinking About [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->A Guide to [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Introduction to [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->A Primer on [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Essentials of [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Mastery in [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->The Fundamentals of [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Navigating [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Key Concepts in [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->The Art of [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Masterclass: [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Decoding [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Advanced Techniques in [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Unlocking [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Practical Guide to [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Exploring [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Pro Tips: [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Understanding [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Journey Through [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->The Way of [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Insights into [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Unraveling [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Secrets of [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Mastering [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->In-depth Study of [subjectsTuple]</li>
+    <li>subjectsTuple(has_subject_secondary==true,p=6)->[subject_primary] and [subject_secondary]</li>
+    <li>subjectsTuple->[subject_secondary], [subject_primary], and [randTheme]</li>
+    <li>subjectsTuple->[subject_primary] and [randTheme]</li>
+    <li>randNoun->Death</li>
+    <li>randNoun->Life</li>
+    <li>randNoun->Love</li>
+    <li>randNoun->Growth</li>
+    <li>randNoun->Courage</li>
+    <li>randNoun->Wisdom</li>
+    <li>randNoun->Health</li>
+    <li>randNoun->Boomalopes</li>
+    <li>randNoun->Pirates</li>
+    <li>randAdjective->Basic</li>
+    <li>randAdjective->Efficient</li>
+    <li>randAdjective->Thoughtful</li>
+    <li>randAdjective->Spectacular</li>
+    <li>randAdjective->Sloppy</li>
+    <li>randAdjective->Bad</li>
+    <li>randAdjective->Good</li>
+    <li>randAdjective->Glitterworld</li>
+    <li>randAdjective->Rural</li>
+    <li>randAdjective->Medieval</li>
+    <li>randAdjective->Inspired</li>
+    <li>randAdjective->Healthy</li>
+    <li>randAdjective->Nefarious</li>
+    <li>randAdjective->Chaotic</li>
+    <li>randAdjective->Funny</li>
+    <li>randTheme->knowledge</li>
+    <li>randTheme->self-improvement</li>
+    <li>randTheme->understanding</li>
+  -->
+  <Namer_TextBook.rulePack.rulesStrings>
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthored]</li>
+    <li>title(p=2)->[titleAuthoredNoSubject]</li>
+    <li>title(length_subject_primary[less_than]20,p=4)->[titleAuthoredOneSubject]</li>
+    <li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleBasicTwoSubjects]</li>
+    <li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleAuthoredTwoSubjects]</li>
+    <li>titleBasic(p=6)->[subject_primary]একটি সাহিত্য [randAdjective]</li>
+    <li>titleBasic(p=6)->[randNoun] এবং [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর পাঠ [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর চিন্তা [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর জন্য একটি গাইড [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর ভূমিকা [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক] এর উপর একটি ম্যানুয়াল [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর ভিত্তিপ্রস্তর [subject_primary]</li>
+    <li>titleBasic->মাস্টারি ইন [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর ভিত্তি [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক] নেভিগেট করা হচ্ছে [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এ মূল ধারণাগুলি [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর শিল্পকলা [subject_primary]</li>
+    <li>titleBasic->মাস্টারক্লাস: [subject_primary]</li>
+    <li>titleBasic->ডিকোড করা হচ্ছে: [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এ উন্নত কৌশল [subject_primary]</li>
+    <li>titleBasic->আনলক করা হচ্ছে [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর জন্য ব্যবহারিক গাইড [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক] অনুসন্ধান করা হচ্ছে [subject_primary]</li>
+    <li>titleBasic->পেশাদার পরামর্শ: [subject_primary]</li>
+    <li>titleBasic->[বিষয়]-এর উপলব্ধি [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর মাধ্যমে যাত্রা [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর পথ [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর দৃষ্টিভঙ্গি [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক] থেকে উদ্ঘাটিত [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর গোপনীয়তা [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর মাস্টার [subject_primary]</li>
+    <li>titleBasic->[বিষয়_প্রাথমিক]-এর গভীর অধ্যয়ন [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর গবেষণা [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->অধ্যয়ন [randAdjective] এর [ANYPAWN_nameIndef]গুলো</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর ডায়েরি [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[যেকোনো পন_নাম]-এর ইতিহাস [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর স্মৃতিচারণ [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[যেকোনো পন_নাম] এর ডায়েরি [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর ভাবনা [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->এর অভিযান [ANYPAWN_nameIndef]এর</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর ভাবনা [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর অনুসন্ধান [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->সাক্ষ্য {[ANYPAWN_nameIndef]} [ANYPAWN_nameIndef]।</li>
+    <li>titleAuthoredNoSubject->{[ANYPAWN_nameIndef]} এর যাত্রা [ANYPAWN_nameIndef]।</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর যাত্রা [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[যেকোনো পন]-এর জীবন [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর ইতিহাস [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর উত্তরাধিকার [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর অভিযান [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর ডায়েরি [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর অভিযানসমূহ [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর ভাবনা [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর সাক্ষ্য [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর ইতিহাস [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]-এর স্মৃতিচারণ [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] একাধিক পন [subject_primary]-এ। [subject_primary]</li>
+    <li>titleAuthoredOneSubject->গাইড [subject_primary] এর [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredOneSubject->এর পরিচিতি [ANYPAWN_nameIndef] তে [subject_primary]</li>
+    <li>titleAuthoredOneSubject->এর অনুসন্ধান [ANYPAWN_nameIndef] তে [subject_primary]</li>
+    <li>titleAuthoredOneSubject->মতামত [ANYPAWN_nameIndef] সম্পর্কে [subject_primary]</li>
+    <li>titleAuthoredOneSubject->ম্যানুয়াল [ANYPAWN_nameIndef] উপর [subject_primary]</li>
+    <li>titleAuthoredOneSubject->দৃষ্টিভঙ্গি [ANYPAWN_nameIndef] উপর [subject_primary]</li>
+    <li>titleAuthoredOneSubject->ম্যানুয়াল [ANYPAWN_nameIndef] জন্য [subject_primary]</li>
+    <li>titleAuthoredOneSubject->এর বিশ্লেষণ [subject_primary] দ্বারা [ANYPAWN_nameIndef]।</li>
+    <li>titleAuthoredOneSubject->এর কাছে আসা [ANYPAWN_nameIndef] তে [subject_primary]</li>
+    <li>titleAuthoredOneSubject->আবিষ্কারসমূহ [ANYPAWN_nameIndef] তে [subject_primary]</li>
+    <li>titleAuthoredOneSubject->এর চিন্তা ভাবনা [ANYPAWN_nameIndef] সম্পর্কে [subject_primary]</li>
+    <li>titleAuthoredOneSubject->গবেষণা [ANYPAWN_nameIndef] উপর [subject_primary]</li>
+    <li>titleAuthoredOneSubject->গবেষণা [ANYPAWN_nameIndef] উপর [subject_primary]</li>
+    <li>titleAuthoredOneSubject->গবেষণা [ANYPAWN_nameIndef] উপর [subject_primary]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] এতে [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->গাইড [subjectsTuple] এর [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredTwoSubjects->এর প্রবর্তন [ANYPAWN_nameIndef] তে [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] এতে [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->গাইড [subjectsTuple] এর [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredTwoSubjects->এর প্রবর্তন [ANYPAWN_nameIndef] তে [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->এর অনুসন্ধান [ANYPAWN_nameIndef] তে [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->মতামত [ANYPAWN_nameIndef] সম্পর্কে [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->ম্যানুয়াল [ANYPAWN_nameIndef] উপর [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->দৃষ্টিভঙ্গি [ANYPAWN_nameIndef] উপর [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->ম্যানুয়াল [ANYPAWN_nameIndef] জন্য [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->এর বিশ্লেষণ [subjectsTuple] দ্বারা [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredTwoSubjects->এর কাছে আসা [ANYPAWN_nameIndef] তে [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->আবিষ্কারসমূহ [ANYPAWN_nameIndef] তে [subjectsTuple]।</li>
+    <li>titleAuthoredTwoSubjects->এর চিন্তা ভাবনা [ANYPAWN_nameIndef] নিয়ে [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->গবেষণা [ANYPAWN_nameIndef] উপর [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->গবেষণা [ANYPAWN_nameIndef] তে [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->গবেষণা {[ANYPAWN_nameIndef]} এর [ANYPAWN_nameIndef] উপর [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple]-এর ভূমিকা [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->সেরা [subjectsTuple] [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] এর সমন্বয় [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->বিষয়গুলির উপর পাঠ [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়বস্তুসমূহ]-এর উপর একটি ম্যানুয়াল [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়গুলির] ভিত্তি [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়গুলির সমষ্টি]-এ দক্ষতা [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple]-এর ভিত্তি [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়বস্তুসমূহ] অনুসন্ধান করা হচ্ছে [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple]-এ মূল ধারণাগুলি [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়গুলির টাপল]-এর শিল্পকলা [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->মাস্টারক্লাস: [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়বস্তুসমূহ]-এর উপর ডিকোড করা হচ্ছে [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->উন্নত কৌশলসমূহ [subjectsTuple]-এ [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->আনলক করা হচ্ছে [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়বস্তুগুলির সমষ্টি]-এর জন্য ব্যবহারিক নির্দেশিকা [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়বস্তুগুলি] অনুসন্ধান করা হচ্ছে [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->পেশাদার পরামর্শ: [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়বস্তুসমূহ]-এর উপলব্ধি [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] এর মাধ্যমে যাত্রা [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] এর পথ [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়বস্তুগুলির] উপর দৃষ্টিভঙ্গি [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়বস্তুগুলির] থেকে উদ্ঘাটিত [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়গুলির] গোপনীয়তা [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়গুলির সমষ্টি]-এ দক্ষ [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[বিষয়বস্তুগুলির] গভীর অধ্যয়ন [subjectsTuple]</li>
+    <li>subjectsTuple(has_subject_secondary==true,p=6)->[subject_primary] এবং [subject_secondary]</li>
+    <li>subjectsTuple->[subject_secondary], [subject_primary] এবং [randTheme]</li>
+    <li>subjectsTuple->[subject_primary] এবং [randTheme]</li>
+    <li>randNoun->মৃত্যু</li>
+    <li>randNoun->জীবন</li>
+    <li>randNoun->ভালবাসা</li>
+    <li>randNoun->বৃদ্ধি</li>
+    <li>randNoun->সাহস</li>
+    <li>randNoun->প্রজ্ঞা</li>
+    <li>randNoun->স্বাস্থ্য</li>
+    <li>randNoun->বুমালাপস</li>
+    <li>randNoun->জলদস্যু</li>
+    <li>randAdjective->আদিম</li>
+    <li>randAdjective->দক্ষ</li>
+    <li>randAdjective->বাগ্মী</li>
+    <li>randAdjective->বিস্ময়কর</li>
+    <li>randAdjective->নিয়মিত</li>
+    <li>randAdjective->মাস্টারফুল</li>
+    <li>randAdjective->ভালো</li>
+    <li>randAdjective->মুন্ডোব্রিল্যান্টে থেকে</li>
+    <li>randAdjective->পল্লীজনপদীন</li>
+    <li>randAdjective->মধ্যযুগীয়</li>
+    <li>randAdjective->mediocre</li>
+    <li>randAdjective->নাক্ষত্রিক</li>
+    <li>randAdjective->সাংস্কৃতিক</li>
+    <li>randAdjective->আনন্দিত</li>
+    <li>randAdjective->বিশেষ</li>
+    <li>randTheme->জ্ঞান</li>
+    <li>randTheme->ব্যক্তিগত উন্নতি</li>
+    <li>randTheme->উপলব্ধি</li>
+  </Namer_TextBook.rulePack.rulesStrings>
+  
+</LanguageData>

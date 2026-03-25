@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astragalus -->
+  <Plant_Astragalus.label>অ্যাস্ট্রাগালাস</Plant_Astragalus.label>
+  <!-- EN: A small perennial wildflower that grows in alpine climates. -->
+  <Plant_Astragalus.description>ছোট বহুবার্ষিক বন্যফুল যা আল্পাইন অঞ্চলে জন্মায়।</Plant_Astragalus.description>
+  
+  <!-- EN: berry bush -->
+  <Plant_Berry.label>বেরি ঝোপ</Plant_Berry.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry.description>এটি একটি ঝোপালো বন্য উদ্ভিদ যা সুস্বাদু ফল দেয়। ফলগুলো রান্না করা যায়, তবে কাঁচা অবস্থায় খেতেও ভালো লাগে।</Plant_Berry.description>
+  
+  <!-- EN: dandelions -->
+  <Plant_Dandelion.label>ড্যান্ডেলিয়ন</Plant_Dandelion.label>
+  <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_Dandelion.description>ছোট হলুদ রঙের ফুল যা বড় থোকায় ফোটে। যদিও প্রায়শই একে আগাছা হিসেবে গণ্য করা হয়, ড্যান্ডেলিয়ন ফোটার সময় বেশ সুন্দর দেখায়।</Plant_Dandelion.description>
+  
+  <!-- EN: moss -->
+  <Plant_Moss.label>মস</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
+  <Plant_Moss.description>দুর্বল আলো এবং শীতল তাপমাত্রার অঞ্চলে স্তূপাকারে বাড়ে এমন বুনো শ্যাওলা। শ্যাওলা বাড়তে অনেক সময় নেয়, তবে এটি ঠান্ডার প্রতি খুবই সহনশীল।</Plant_Moss.description>
+  
+  <!-- EN: birch tree -->
+  <Plant_TreeBirch.label>বার্চ গাছ</Plant_TreeBirch.label>
+  <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
+  <Plant_TreeBirch.description>এটি একটি নাতিশীতোষ্ণ-বায়োমীয় গাছ, যা এর পাতলা, সাদা, কাগজের মতো বাকলের জন্য পরিচিত।</Plant_TreeBirch.description>
+  
+  <!-- EN: oak tree -->
+  <Plant_TreeOak.label>ওক গাছ</Plant_TreeOak.label>
+  <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
+  <Plant_TreeOak.description>এটি একটি শক্ত কাঠের গাছ। ওক গাছ বড় হতে অনেক সময় নেয়, তবে এর কাঠ এতটাই শক্তিশালী যে অনেক সংস্কৃতিতে 'ওক' শব্দটি শক্তির রূপক হিসেবে ব্যবহৃত হয়।</Plant_TreeOak.description>
+  
+  <!-- EN: pine tree -->
+  <Plant_TreePine.label>পাইন গাছ</Plant_TreePine.label>
+  <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <Plant_TreePine.description>এটি কাঁটাযুক্ত পাইন কোনে আবৃত একটি বৃহৎ কনিফার গাছ। এটি একটি স্বতন্ত্র শঙ্কু আকৃতিতে বাড়ে।</Plant_TreePine.description>
+  
+  <!-- EN: poplar tree -->
+  <Plant_TreePoplar.label>পপলার গাছ</Plant_TreePoplar.label>
+  <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
+  <Plant_TreePoplar.description>এটি খুব দ্রুত বর্ধনশীল একটি নরম কাঠের গাছ। দুর্ভাগ্যবশত, এর কাঠ দুর্বল এবং তাই এটি শক্ত কাঠের গাছের চেয়ে কম ব্যবহারযোগ্য উপাদান দেয়।</Plant_TreePoplar.description>
+  
+</LanguageData>

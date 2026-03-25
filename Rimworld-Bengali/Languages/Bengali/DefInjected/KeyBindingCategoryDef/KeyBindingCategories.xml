@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: architect -->
+  <Architect.label>স্থাপত্যবিদ</Architect.label>
+  <!-- EN: General-use controls for the architect mode menu. -->
+  <Architect.description>স্থাপত্যক মোড মেনুর সাধারণ ব্যবহারের নিয়ন্ত্রণসমূহ।</Architect.description>
+  
+  <!-- EN: debug menu -->
+  <DebugMenu.label>ডিবাগ মেনু</DebugMenu.label>
+  <!-- EN: Controls used in debug menus. Active in development mode only. -->
+  <DebugMenu.description>ডিবাগ মেনুগুলোতে ব্যবহৃত নিয়ন্ত্রণসমূহ। শুধুমাত্র ডেভেলপমেন্ট মোডে সক্রিয়।</DebugMenu.description>
+  
+  <!-- EN: developer tools -->
+  <Development.label>ডেভেলপার সরঞ্জাম</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
+  <Development.description>ডেভেলপার এবং মড নির্মাতাদের জন্য নিয়ন্ত্রণ। শুধুমাত্র ডেভেলপমেন্ট মোডে সক্রিয়।</Development.description>
+  
+  <!-- EN: in-game global -->
+  <Game.label>ইন-গেম গ্লোবাল</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>বেশিরভাগ পরিস্থিতিতে প্রযোজ্য কলোনি মোড নিয়ন্ত্রণসমূহ।</Game.description>
+  
+  <!-- EN: camera -->
+  <GameMapCamera.label>ক্যামেরা</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>ক্যামেরার নিয়ন্ত্রণসমূহ।</GameMapCamera.description>
+  
+  <!-- EN: main tabs -->
+  <MainTabs.label>প্রধান ট্যাবগুলি</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>প্রধান ট্যাবগুলির নিয়ন্ত্রণসমূহ।</MainTabs.description>
+  
+  <!-- EN: modifiers -->
+  <Modifiers.label>পরিবর্তনকারীসমূহ</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>অন্যান্য কার্যকলাপ পরিবর্তন করতে ব্যবহৃত নিয়ন্ত্রণসমূহ।</Modifiers.description>
+  
+  <!-- EN: misc -->
+  <SelectionMisc.label>বিবিধ</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>গেমের বিভিন্ন আইটেম এবং বস্তুর মধ্যে বহুলভাবে ব্যবহৃত সাধারণ নিয়ন্ত্রণসমূহ।</SelectionMisc.description>
+  
+  <!-- EN: special -->
+  <SelectionSpecial.label>বিশেষ</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>নির্দিষ্ট বস্তুর নির্দিষ্ট কার্যাবলীর জন্য সংরক্ষিত বিশেষ নিয়ন্ত্রণসমূহ।</SelectionSpecial.description>
+  
+</LanguageData>

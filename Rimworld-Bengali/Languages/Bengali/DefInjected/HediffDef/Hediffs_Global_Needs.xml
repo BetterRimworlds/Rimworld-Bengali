@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: malnutrition -->
+  <Malnutrition.label>অপুষ্টি</Malnutrition.label>
+  <!-- EN: Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleasant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death. Upon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal. -->
+  <Malnutrition.description>শারীরিক চর্বি ও ওজন অস্বাভাবিকভাবে কম, যা সাধারণত খাদ্যের অভাবে হয়ে থাকে। অপুষ্টি সবসময়ই খুব কষ্টদায়ক, কিন্তু এর প্রাথমিক প্রভাবগুলো মৃদু হয়। খাবার ছাড়া, অপুষ্টিতে আক্রান্ত সত্তা দুর্বল হয়ে মাংসপেশি ও ক্ষমতা হারাতে থাকে। অপুষ্টির শেষ পরিণতি মৃত্যু। পুনরায় খাবার গ্রহণ করলে অপুষ্টি সময়ের সাথে সাথে প্রাকৃতিকভাবে সেরে যায়। অপুষ্টিতে আক্রান্ত সত্তার স্বাভাবিকের চেয়ে বেশি ক্ষুধা লাগে।</Malnutrition.description>
+  <!-- EN: trivial -->
+  <Malnutrition.stages.trivial.label>তুচ্ছ</Malnutrition.stages.trivial.label>
+  <!-- EN: minor -->
+  <Malnutrition.stages.minor.label>ক্ষুদ্র</Malnutrition.stages.minor.label>
+  <!-- EN: moderate -->
+  <Malnutrition.stages.moderate.label>মাঝারি</Malnutrition.stages.moderate.label>
+  <!-- EN: severe -->
+  <Malnutrition.stages.severe.label>গুরুতর</Malnutrition.stages.severe.label>
+  <!-- EN: extreme -->
+  <Malnutrition.stages.extreme.label>গুরুতর</Malnutrition.stages.extreme.label>
+  
+</LanguageData>

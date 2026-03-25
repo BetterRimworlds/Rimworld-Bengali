@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Blunt -->
+  <ArmorRating_Blunt.label>বর্ম - ভোঁতা</ArmorRating_Blunt.label>
+  <!-- EN: The protection given against blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Blunt.description>মুষ্টি, লাঠি এবং পাথরের পতনের মতো ভোঁতা আঘাত থেকে এই সুরক্ষা প্রদান করা হয়।\n\nক্ষতিগ্রস্ত হওয়ার পরে, এই বর্মের স্তর প্রথমে আক্রমণের বর্ম ভেদ করার মান দ্বারা হ্রাস করা হয়।\n\nঅবশিষ্ট বর্মের স্তরটি তখন 0 থেকে 100-এর মধ্যে একটি র‍্যান্ডম সংখ্যার সাথে তুলনা করা হয়।\n\n    - যদি র‍্যান্ডম সংখ্যাটি বর্মের স্তরের অর্ধেক থেকে কম হয়, তবে ক্ষতি সম্পূর্ণরূপে প্রতিহত হবে।\n    - যদি র‍্যান্ডম সংখ্যাটি বর্মের স্তরের অর্ধেক থেকে বেশি হয়, কিন্তু বর্মের স্তরের চেয়ে বেশি না হয়, তবে ক্ষতি অর্ধেক হয়ে যাবে এবং ভোঁতা আঘাতে রূপান্তরিত হবে।\n    - যদি র‍্যান্ডম সংখ্যাটি বর্মের স্তরের চেয়ে বেশি হয়, তবে বর্মের কোনো প্রভাব থাকবে না।\n\nউদাহরণস্বরূপ, 10% বর্ম ভেদ ক্ষমতা সম্পন্ন কোনো আক্রমণের বিরুদ্ধে 90% বর্মের স্তর থাকলে, আক্রমণটি সম্পূর্ণরূপে প্রতিহত হওয়ার সম্ভাবনা 40%, এবং ক্ষতি কমানোর সম্ভাবনা 40%।\n\nবর্মের প্রতিটি স্তর বাইরের দিক থেকে ভেতরের দিকে আলাদাভাবে প্রয়োগ করা হয়।</ArmorRating_Blunt.description>
+  <!-- EN: Armor - Blunt (armor stat) -->
+  <ArmorRating_Blunt.labelForFullStatList>বর্ম - ভোঁতা (বর্ম পরিসংখ্যান)</ArmorRating_Blunt.labelForFullStatList>
+  
+  <!-- EN: Armor - Heat -->
+  <ArmorRating_Heat.label>বর্ম - তাপ</ArmorRating_Heat.label>
+  <!-- EN: The protection given against temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Heat.description>তাপমাত্রা-সম্পর্কিত ক্ষতি যেমন পোড়া থেকে এটি সুরক্ষা প্রদান করে।\n\nক্ষতিগ্রস্ত হওয়ার পরে, এই বর্মের রেটিং প্রথমে আক্রমণের বর্ম ভেদ মান দ্বারা হ্রাস করা হয়।\n\nঅবশিষ্ট বর্মের রেটিং তারপর ০ থেকে ১০০-এর মধ্যে একটি র‍্যান্ডম নম্বরের সাথে তুলনা করা হয়।\n\n    - যদি র‍্যান্ডম সংখ্যাটি বর্মের রেটিংয়ের অর্ধেক থেকে কম হয়, তবে ক্ষতি নিরাপদে প্রতিহত হবে।\n    - যদি র‍্যান্ডম সংখ্যাটি বর্মের রেটিংয়ের অর্ধেক থেকে বেশি হয়, তবে বর্মের রেটিংয়ের চেয়ে বেশি না হয়, তবে ক্ষতি অর্ধেক হয়ে যাবে এবং ভোঁতা হয়ে যাবে।\n    - যদি র‍্যান্ডম সংখ্যাটি বর্মের রেটিংয়ের চেয়ে বেশি হয়, তবে বর্মের কোনও প্রভাব থাকবে না।\n\nউদাহরণস্বরূপ, ১০% বর্ম ভেদ সহ একটি আক্রমণের বিপরীতে ৯০% বর্মের রেটিং-এ, আক্রমণটি নিরাপদে প্রতিহত হওয়ার ৪০% সম্ভাবনা রয়েছে এবং ক্ষতির তীব্রতা কমানোর ৪০% সম্ভাবনা রয়েছে।\n\nবর্মের প্রতিটি স্তর বাইরের দিক থেকে ভেতরের দিকে আলাদাভাবে প্রয়োগ করা হয়।</ArmorRating_Heat.description>
+  <!-- EN: Armor - Heat (armor stat) -->
+  <ArmorRating_Heat.labelForFullStatList>বর্ম - তাপ (বর্ম পরিসংখ্যান)</ArmorRating_Heat.labelForFullStatList>
+  
+  <!-- EN: Armor - Sharp -->
+  <ArmorRating_Sharp.label>বর্ম - তীক্ষ্ণ</ArmorRating_Sharp.label>
+  <!-- EN: The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Sharp.description>গুলি, ছুরিকাঘাত, বিস্ফোরণ এবং প্রাণীর কামড়ের মতো তীক্ষ্ণ আঘাত থেকে সুরক্ষা প্রদান করে।\n\nক্ষতিগ্রস্ত হওয়ার পরে, এই বর্মের রেটিং প্রথমে আক্রমণের বর্ম ভেদ মান দ্বারা হ্রাস করা হয়।\n\nঅবশিষ্ট বর্ম রেটিং তারপর 0 থেকে 100 এর মধ্যে একটি এলোমেলো সংখ্যার সাথে তুলনা করা হয়।\n\n    - যদি এলোমেলো সংখ্যাটি বর্ম রেটিংয়ের অর্ধেক থেকে কম হয়, তবে ক্ষতি নিরাপদে প্রতিহত হয়।\n    - যদি এলোমেলো সংখ্যাটি বর্ম রেটিংয়ের অর্ধেক থেকে বেশি হয়, তবে বর্ম রেটিংয়ের চেয়ে বেশি না হয়, তবে ক্ষতি অর্ধেক হয়ে যায় এবং ভোঁতা হয়ে যায়।\n    - যদি এলোমেলো সংখ্যাটি বর্ম রেটিংয়ের চেয়ে বেশি হয়, তবে বর্মের কোনও প্রভাব থাকে না।\n\nউদাহরণস্বরূপ, 10% বর্ম ভেদ সহ একটি আক্রমণের বিপরীতে 90% বর্ম রেটিং-এ, আক্রমণটি নিরাপদে প্রতিহত হওয়ার 40% সম্ভাবনা রয়েছে এবং ক্ষতির তীব্রতা কমানোর 40% সম্ভাবনা রয়েছে।\n\nবর্মের প্রতিটি স্তর বাইরে থেকে ভেতরের দিকে আলাদাভাবে প্রয়োগ করা হয়।</ArmorRating_Sharp.description>
+  <!-- EN: Armor - Sharp (armor stat) -->
+  <ArmorRating_Sharp.labelForFullStatList>বর্ম - তীক্ষ্ণ (বর্ম পরিসংখ্যান)</ArmorRating_Sharp.labelForFullStatList>
+  
+  <!-- EN: Shield max energy -->
+  <EnergyShieldEnergyMax.label>শিল্ড সর্বোচ্চ শক্তি</EnergyShieldEnergyMax.label>
+  <!-- EN: The maximum energy a shield can have at one time.\n\nMore energy absorbs more damage. -->
+  <EnergyShieldEnergyMax.description>একটি শিল্ড একই সময়ে ধারণ করতে পারে তার সর্বোচ্চ শক্তি।\n\nআরও বেশি শক্তি আরও বেশি ক্ষতি শোষণ করে।</EnergyShieldEnergyMax.description>
+  
+  <!-- EN: Shield recharge rate -->
+  <EnergyShieldRechargeRate.label>Shield রিচার্জ হার</EnergyShieldRechargeRate.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <EnergyShieldRechargeRate.description>একটি শিল্ড ভাঙা না থাকা পর্যন্ত যে হারে শক্তি অর্জন করে।</EnergyShieldRechargeRate.description>
+  <!-- EN: {0}/s -->
+  <EnergyShieldRechargeRate.formatString>{0}/সেকেন্ড</EnergyShieldRechargeRate.formatString>
+  
+  <!-- EN: equip delay -->
+  <EquipDelay.label>সরঞ্জাম বিলম্ব</EquipDelay.label>
+  <!-- EN: The time it takes to equip and unequip this item. -->
+  <EquipDelay.description>এই সরঞ্জামটি পরিধান করতে এবং খুলতে যে সময় লাগে।</EquipDelay.description>
+  <!-- EN: {0} s -->
+  <EquipDelay.formatString>{0} এর পরিসংখ্যান</EquipDelay.formatString>
+  
+  <!-- EN: Insulation - Cold -->
+  <Insulation_Cold.label>ইনসুলেশন - ঠান্ডা</Insulation_Cold.label>
+  <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
+  <Insulation_Cold.description>এই পোশাক পরিধানকারীর সর্বনিম্ন আরামদায়ক তাপমাত্রা কতটা বাড়ায়।\n\nউচ্চতর মান পরিধানকারীকে শীতল তাপমাত্রায় টিকে থাকতে সাহায্য করে।</Insulation_Cold.description>
+  <!-- EN: Insulation - Cold (armor stat) -->
+  <Insulation_Cold.labelForFullStatList>ইনসুলেশন - ঠান্ডা (বর্ম পরিসংখ্যান)</Insulation_Cold.labelForFullStatList>
+  
+  <!-- EN: Insulation - Heat -->
+  <Insulation_Heat.label>ইনসুলেশন - তাপ</Insulation_Heat.label>
+  <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
+  <Insulation_Heat.description>এই পোশাক পরিধানকারীর সর্বোচ্চ আরামদায়ক তাপমাত্রা কতটা বাড়ায়।\n\nউচ্চতর মান পরিধানকারীকে উষ্ণ তাপমাত্রায় টিকে থাকতে সাহায্য করে।</Insulation_Heat.description>
+  <!-- EN: Insulation - Heat (armor stat) -->
+  <Insulation_Heat.labelForFullStatList>ইনসুলেশন - তাপ (বর্ম পরিসংখ্যান)</Insulation_Heat.labelForFullStatList>
+  
+  <!-- EN: Effect radius -->
+  <PackRadius.label>প্রভাব ব্যাসার্ধ</PackRadius.label>
+  <!-- EN: The area affected when this pack detonates. -->
+  <PackRadius.description>এই প্যাকটি বিস্ফোরিত হলে যে এলাকা প্রভাবিত হবে।</PackRadius.description>
+  <!-- EN: {0} c -->
+  <PackRadius.formatString>{0} সংখ্যা ও বৈশিষ্ট্য</PackRadius.formatString>
+  
+  <!-- EN: Armor - Material effect multiplier -->
+  <StuffEffectMultiplierArmor.label>বর্ম - উপাদান প্রভাব গুণক</StuffEffectMultiplierArmor.label>
+  
+  <!-- EN: Insulation - Cold - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Cold.label>ইনসুলেশন - ঠান্ডা - উপাদান প্রভাব গুণক</StuffEffectMultiplierInsulation_Cold.label>
+  
+  <!-- EN: Insulation - Heat - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Heat.label>ইনসুলেশন - তাপ - উপাদান প্রভাব গুণক</StuffEffectMultiplierInsulation_Heat.label>
+  
+</LanguageData>

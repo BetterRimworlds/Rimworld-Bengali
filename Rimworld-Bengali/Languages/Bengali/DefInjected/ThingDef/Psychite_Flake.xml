@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flake -->
+  <Flake.label>ফ্লেক</Flake.label>
+  <!-- EN: A flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive. Flake is known for destroying lives, communities, and entire societies. -->
+  <Flake.description>ফ্লেকের একটি সাদা, ভঙ্গুর প্রস্তুতি সাইকাইট থেকে তৈরি করা হয়, যা ধোঁয়া দিলে স্বল্পস্থায়ী কিন্তু শক্তিশালী আনন্দদায়ক অনুভূতি হয়। এটি উৎপাদন করা সস্তা এবং ব্যবহার করতে অত্যন্ত আনন্দদায়ক হলেও, এটি অত্যন্ত আসক্তি তৈরি করে। ফ্লেক জীবন, সম্প্রদায় এবং সম্পূর্ণ সমাজ ধ্বংস করার জন্য পরিচিত।</Flake.description>
+  <!-- EN: Smoke {0} -->
+  <Flake.ingestible.ingestCommandString>ধোঁয়া {0}</Flake.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <Flake.ingestible.ingestReportString>ধূমপান করা হচ্ছে {0}।</Flake.ingestible.ingestReportString>
+  
+</LanguageData>

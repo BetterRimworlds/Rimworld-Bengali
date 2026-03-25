@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: firefoam pop pack -->
+  <Apparel_FirefoampopPack.label>ফায়ারফোম পপ প্যাক</Apparel_FirefoampopPack.label>
+  <!-- EN: A utility pack made for firefighters. When triggered, a burst of fire-retardant foam is released, covering a wide circle around its wearer. -->
+  <Apparel_FirefoampopPack.description>অগ্নি নির্বাপকদের জন্য তৈরি একটি ইউটিলিটি প্যাক। সক্রিয় করা হলে, এটি পরিধানকারীর চারপাশে একটি বিস্তৃত বৃত্তজুড়ে অগ্নি-নিরোধক ফোমের একটি বিস্ফোরণ নির্গত করে।</Apparel_FirefoampopPack.description>
+  <!-- EN: firefoam pop -->
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>ফায়ারফোম পপ</Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>কুলডাউন চলছে</Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: pop firefoam -->
+  <Apparel_FirefoampopPack.verbs.pop_firefoam.label>পপ ফায়ারফোম</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
+  
+  <!-- EN: smokepop pack -->
+  <Apparel_SmokepopBelt.label>ধোঁয়া পটলি</Apparel_SmokepopBelt.label>
+  <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
+  <Apparel_SmokepopBelt.description>এটি একটি প্রতিরক্ষামূলক ধোঁয়ার পর্দা। সক্রিয় করা হলে, এটি ধোঁয়ার মেঘ নির্গত করবে, যা আগন্তুক গুলিগুলিকে অস্পষ্ট করবে এবং টারেটসমূহকে লক্ষ্য স্থির করতে বাধা দেবে।</Apparel_SmokepopBelt.description>
+  <!-- EN: smokepop -->
+  <Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>স্মোকপপ</Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>কুলডাউন চলছে</Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: pop smoke -->
+  <Apparel_SmokepopBelt.verbs.pop_smoke.label>ধোঁয়া বোমা</Apparel_SmokepopBelt.verbs.pop_smoke.label>
+  
+</LanguageData>

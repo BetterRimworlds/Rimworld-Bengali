@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>বানর</Monkey.label>
+  <!-- EN: left clavicle -->
+  <Monkey.corePart.parts.left_clavicle.customLabel>বাম ক্লিভিকল</Monkey.corePart.parts.left_clavicle.customLabel>
+  <!-- EN: right clavicle -->
+  <Monkey.corePart.parts.right_clavicle.customLabel>ডান কলারবোন</Monkey.corePart.parts.right_clavicle.customLabel>
+  <!-- EN: left lung -->
+  <Monkey.corePart.parts.left_lung.customLabel>বাম ফুসফুস</Monkey.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Monkey.corePart.parts.right_lung.customLabel>ডান ফুসফুস</Monkey.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Monkey.corePart.parts.left_kidney.customLabel>বাম কিডনি</Monkey.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Monkey.corePart.parts.right_kidney.customLabel>ডান কিডনি</Monkey.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>বাম চোখ</Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ডান চোখ</Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>বাম কান</Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ডান কান</Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Monkey.corePart.parts.left_shoulder.customLabel>বাম কাঁধ</Monkey.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>বাম বাহু</Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>বাম হিউমেরাস</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>বাম রেডিয়াস</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>বাম হাত</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>বাম কনিষ্ঠা আঙুল</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>বাম আংুলির রিং</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>বাম মধ্য আঙুল</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>বাম তর্জনী</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>বাম বুড়ো আঙুল</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Monkey.corePart.parts.right_shoulder.customLabel>ডান কাঁধ</Monkey.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>ডান হাত</Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>ডান হিউমেরাস</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>ডান রেডিয়াস</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>ডান হাত</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>ডান কনিষ্ঠা</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>ডান হাতের অনামিকা</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>ডান মধ্য আঙুল</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>ডান তর্জনী</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>ডান থাম্ব</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Monkey.corePart.parts.left_leg.customLabel>বাম পা</Monkey.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>বাম ফিমার</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>বাম টিবিয়া</Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>বাম পা</Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>বাম কনিষ্ঠ পায়ের আঙুল</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>বাম চতুর্থ পায়ের আঙুল</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>বাম মাঝের পায়ের আঙুল</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>বাম দ্বিতীয় পায়ের আঙুল</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>বাম বুড়ো আঙুল</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Monkey.corePart.parts.right_leg.customLabel>ডান পা</Monkey.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>ডান ফিমার</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>ডান টিবিয়া</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>ডান পা</Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>ডান পায়ের ছোট আঙুল</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>ডান চতুর্থ পায়ের আঙুল</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>ডান মাঝের পায়ের আঙুল</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>ডান পায়ের দ্বিতীয় আঙুল</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>ডান পায়ের বুড়ো আঙুল</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithClawsTailAndJowl.label>চারপদী প্রাণী</QuadrupedAnimalWithClawsTailAndJowl.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>বাম ফুসফুস</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>ডান ফুসফুস</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>বাম কিডনি</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>ডান কিডনি</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>বাম চোখ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ডান চোখ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>বাম কান</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ডান কান</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>সামনের বাম পা</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>সামনের বাম পায়ের প্রথম নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <!-- EN: front left leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>সামনের বাম পা দ্বিতীয় নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <!-- EN: front left leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>সামনের বাম পা তৃতীয় নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <!-- EN: front left leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>সামনের বাম পা চতুর্থ নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>
+  <!-- EN: front left leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>সামনের বাম পা পঞ্চম নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>সামনের ডান পা</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>সামনের ডান পায়ের প্রথম নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <!-- EN: front right leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>সামনের ডান পা দ্বিতীয় নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <!-- EN: front right leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>সামনের ডান পা তৃতীয় নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <!-- EN: front right leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>সামনের ডান পা চতুর্থ নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>
+  <!-- EN: front right leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>সামনের ডান পা পঞ্চম নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>পেছনের বাম পা</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>পেছনের বাম পায়ের প্রথম নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <!-- EN: rear left leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>পেছনের বাম পা দ্বিতীয় নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <!-- EN: rear left leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>পেছনের বাম পা তৃতীয় নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <!-- EN: rear left leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>পেছনের বাম পা চতুর্থ নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>
+  <!-- EN: rear left leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>পেছনের বাম পা পঞ্চম নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>পেছনের ডান পা</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>পেছনের ডান পায়ের প্রথম নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <!-- EN: rear right leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>পেছনের ডান পা দ্বিতীয় নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <!-- EN: rear right leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>পেছনের ডান পা তৃতীয় নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  <!-- EN: rear right leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>পেছনের ডান পা চতুর্থ নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
+  <!-- EN: rear right leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>পেছনের ডান পা পঞ্চম নখর</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHooves.label>চারপদী প্রাণী</QuadrupedAnimalWithHooves.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>বাম ফুসফুস</QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>ডান ফুসফুস</QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>বাম কিডনি</QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>ডান কিডনি</QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>বাম চোখ</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ডান চোখ</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>বাম কান</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ডান কান</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>সামনের বাম পা</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>সামনের বাম ক্ষুর</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>সামনের ডান পা</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>সামনের ডান খুর</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>পেছনের বাম পা</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>পেছনের বাম খুর</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>পেছনের ডান পা</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>পেছনের ডান খুর</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndHorn.label>চারপদী প্রাণী</QuadrupedAnimalWithHoovesAndHorn.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>বাম ফুসফুস</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>ডান ফুসফুস</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>বাম কিডনি</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>ডান কিডনি</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>বাম চোখ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ডান চোখ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>বাম কান</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ডান কান</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>সামনের বাম পা</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>সামনের বাম খুর</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>সামনের ডান পা</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>সামনের ডান খুর</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>পেছনের বাম পা</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>পেছনের বাম খুর</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>পেছনের ডান পা</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>পেছনের ডান খুর</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndHump.label>চারপদী প্রাণী</QuadrupedAnimalWithHoovesAndHump.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>বাম ফুসফুস</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>ডান ফুসফুস</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>বাম কিডনি</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>ডান কিডনি</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>বাম চোখ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ডান চোখ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>বাম কান</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ডান কান</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>সামনের বাম পা</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>সামনের বাম ক্ষুর</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>সামনের ডান পা</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>সামনের ডান খুর</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>পেছনের বাম পা</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>পেছনের বাম খুর</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>পেছনের ডান পা</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>পেছনের ডান খুর</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndTusks.label>চারপদী প্রাণী</QuadrupedAnimalWithHoovesAndTusks.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>বাম ফুসফুস</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>ডান ফুসফুস</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>বাম কিডনি</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>ডান কিডনি</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>বাম চোখ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ডান চোখ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>বাম কান</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ডান কান</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left tusk -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>বাম দাঁত</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>ডান দাঁত</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>সামনের বাম পা</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>সামনের বাম ক্ষুর</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>সামনের ডান পা</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>সামনের ডান খুর</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>পেছনের বাম পা</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>পেছনের বাম খুর</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>পেছনের ডান পা</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>পেছনের ডান খুর</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>চারপদী প্রাণী</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>বাম ফুসফুস</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>ডান ফুসফুস</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>বাম কিডনি</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>ডান কিডনি</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>বাম চোখ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ডান চোখ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>বাম কান</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ডান কান</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left tusk -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>বাম দাঁত</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>ডান দাঁত</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>সামনের বাম পা</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>সামনের বাম খুর</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>সামনের ডান পা</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>সামনের ডান খুর</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>পেছনের বাম পা</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>পেছনের বাম খুর</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>পেছনের ডান পা</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>পেছনের ডান খুর</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPaws.label>চারপদী প্রাণী</QuadrupedAnimalWithPaws.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>বাম ফুসফুস</QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>ডান ফুসফুস</QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>বাম কিডনি</QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>ডান কিডনি</QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>বাম চোখ</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ডান চোখ</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>বাম কান</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ডান কান</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>সামনের বাম পা</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>সামনের বাম থাবা</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>সামনের ডান পা</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>সামনের ডান থাবা</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>পেছনের বাম পা</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>পেছনের বাম থাবা</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>পেছনের ডান পা</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>পেছনের ডান থাবা</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPawsAndTail.label>চারপদী প্রাণী</QuadrupedAnimalWithPawsAndTail.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>বাম ফুসফুস</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>ডান ফুসফুস</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>বাম কিডনি</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>ডান কিডনি</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>বাম চোখ</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ডান চোখ</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>বাম কান</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ডান কান</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>সামনের বাম পা</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>সামনের বাম থাবা</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>সামনের ডান পা</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>সামনের ডান থাবা</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>পেছনের বাম পা</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>পেছনের বাম থাবা</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>পেছনের ডান পা</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>পেছনের ডান থাবা</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+  <!-- EN: turtle-like -->
+  <TurtleLike.label>কচ্ছপ-সদৃশ</TurtleLike.label>
+  <!-- EN: left lung -->
+  <TurtleLike.corePart.parts.left_lung.customLabel>বাম ফুসফুস</TurtleLike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <TurtleLike.corePart.parts.right_lung.customLabel>ডান ফুসফুস</TurtleLike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <TurtleLike.corePart.parts.left_kidney.customLabel>বাম কিডনি</TurtleLike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <TurtleLike.corePart.parts.right_kidney.customLabel>ডান কিডনি</TurtleLike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <TurtleLike.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>বাম চোখ</TurtleLike.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <TurtleLike.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>ডান চোখ</TurtleLike.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>
+  <!-- EN: front left leg -->
+  <TurtleLike.corePart.parts.front_left_leg.customLabel>সামনের বাম পা</TurtleLike.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <TurtleLike.corePart.parts.front_right_leg.customLabel>সামনের ডান পা</TurtleLike.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <TurtleLike.corePart.parts.rear_left_leg.customLabel>পেছনের বাম পা</TurtleLike.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <TurtleLike.corePart.parts.rear_right_leg.customLabel>পেছনের ডান পা</TurtleLike.corePart.parts.rear_right_leg.customLabel>
+  
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is being chased by [enemyFaction_pawnsPlural] from [enemyFaction_name]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, you'll have to fight off [enemyFaction_pawnsPluralDef] on [joiner_possessive] tail. The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
+  -->
+  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription(joiner_gender!=Female)->[introduction], নামক [joiner_nameDef] কাছে থেকে তোমাকে ডাকছে। সে perseguido হচ্ছে [enemyFaction_pawnsPlural] নামক দল থেকে [enemyFaction_name]!\n\nতোমার বসতিতে যোগদানের প্রস্তাব দিচ্ছে বিনিময়ে সুরক্ষা হিসেবে [map_definite]। [joiner_relationInfo]\n\nতুমি যদি রাজি হও, তাহলে তোমাকে মোকাবেলা করতে হবে [enemyFaction_pawnsPlural] তার পিছু নিয়েছে। দল গঠিত [enemyFaction_pawnsPlural] দ্বারা:\n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] অতিরিক্ত উত্তেজিত হওয়ায় আর তথ্য দিতে পারছে না।</li>
+    <li>questDescription(joiner_gender==Female)->[introduction], নামক [joiner_nameDef] কাছে থেকে তোমাকে ডাকছে। সে perseguida হচ্ছে [enemyFaction_pawnsPlural] নামক দল থেকে [enemyFaction_name]!\n\nতোমার বসতিতে যোগদানের প্রস্তাব দিচ্ছে বিনিময়ে সুরক্ষা হিসেবে [map_definite]। [joiner_relationInfo]\n\nতুমি যদি রাজি হও, তাহলে তোমাকে মোকাবেলা করতে হবে [enemyFaction_pawnsPlural] তার পিছু নিয়েছে। দল গঠিত [enemyFaction_pawnsPlural] দ্বারা:\n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] অতিরিক্ত উত্তেজিত হওয়ায় আর তথ্য দিতে পারছে না।</li>
+    <li>introduction(childCount==1,priority=1,joiner_gender!=Female)->একটি শিশু [joiner_age] বছর</li>
+    <li>introduction(childCount==1,priority=1,joiner_gender==Female)->একটি মেয়ে [joiner_age] বছর</li>
+    <li>introduction(joiner_gender==Female)->[joiner_titleIndef] এর [joiner_age] বছর বয়স্ক</li>
+    <li>introduction(joiner_gender!=Female)->[joiner_titleIndef] এর [joiner_age] বছর বয়স্ক</li>
+  </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Saving [runnerIndef]</li>
+    <li>questName->The Salvation of [runnerIndef]</li>
+    <li>questName->Helping [runnerIndef]</li>
+    <li>questName->Accepting [runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural] hunting [runnerIndef]</li>
+    <li>questName->[runnerIndef] on the Run</li>
+    <li>questName->[runnerIndef] Seeks a Home</li>
+    <li>questName->[runnerIndef] Chased by [enemyFaction_pawnsPlural]</li>
+    <li>questName->[runnerIndef] and [enemyFaction_pawnsPlural]</li>
+    <li>runnerIndef->[joiner_titleIndef]</li>
+    <li>runnerIndef->[joiner_nameIndef]</li>
+    <li>runnerIndef->a Refugee</li>
+    <li>runnerIndef(childCount==1,priority=1)->a child</li>
+  -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+    <li>questName->[runnerIndef]-কে বাঁচানো হচ্ছে [runnerIndef]</li>
+    <li>questName->[runnerIndef]-এর পরিত্রাণ [runnerIndef]</li>
+    <li>questName->[runnerIndef]-কে সাহায্য করছে [runnerIndef]</li>
+    <li>questName->গ্রহণ করা হচ্ছে [runnerIndef] [runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural] শিকার করছে [runnerIndef]</li>
+    <li>questName->[runnerIndef] সংকটে</li>
+    <li>questName->[runnerIndef] একটি বাড়ি খুঁজছে।</li>
+    <li>questName->[runnerIndef] থেকে পালিয়ে যাচ্ছে [enemyFaction_pawnsPlural]</li>
+    <li>questName->[runnerIndef] এবং [enemyFaction_pawnsPlural]</li>
+    <li>runnerIndef->[joiner_titleIndef]</li>
+    <li>runnerIndef->[joiner_nameIndef]</li>
+    <li>runnerIndef(joiner_gender!=Female)->একজন উদ্বাস্তু</li>
+    <li>runnerIndef(joiner_gender==Female)->একজন উদ্বাস্তু নারী</li>
+    <li>runnerIndef(childCount==1,priority=1,joiner_gender!=Female)->একটি শিশু</li>
+    <li>runnerIndef(childCount==1,priority=1,joiner_gender==Female)->একটি মেয়ে</li>
+  </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
+  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL} persiguiendo a [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
+  <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
+  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n              \nLos [enemyFaction_pawnsPlural] han venido para capturar a [../joiner_nameDef].</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
+  
+</LanguageData>

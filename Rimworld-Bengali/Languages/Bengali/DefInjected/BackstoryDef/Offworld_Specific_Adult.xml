@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversational abilities. -->
+  <Castaway57.description>[PAWN_nameDef] একটি জনমানবহীন পশু-গ্রহে জাহাজ বিধ্বস্তের একমাত্র জীবিত ব্যক্তি ছিলেন। উদ্ধার হওয়ার আগে বহু বছর ধরে তিনি যা কিছু খুঁজে পেয়েছেন তা দিয়ে জীবনধারণ করেছেন।\n\nদীর্ঘকাল ধরে একা থাকার কারণে কথোপকথনের ক্ষমতা মারাত্মকভাবে হ্রাস পেয়েছে, তবে তাঁর বেঁচে থাকার দক্ষতা অত্যন্ত তীক্ষ্ণ হয়েছে।</Castaway57.description>
+  <!-- EN: castaway -->
+  <Castaway57.title>জাহাজডুবি-গ্রস্ত ব্যক্তি</Castaway57.title>
+  <Castaway57.titleFemale>জাহাজডুবি-গ্রস্ত ব্যক্তি</Castaway57.titleFemale>
+  <!-- EN: castaway -->
+  <Castaway57.titleShort>shipwrecked</Castaway57.titleShort>
+  <Castaway57.titleShortFemale>shipwrecked</Castaway57.titleShortFemale>
+  
+  <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]'s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
+  <CaveworldIlluminator95.description>সুরঙ্গ-বাসীদের মধ্যে, [PAWN_nameDef]'র মতো তীক্ষ্ণ দৃষ্টি সম্পন্ন ব্যক্তিদের ঋষি হিসাবে পূজা করা হয়। তিনি পথ দেখাতেন, বায়োলুমিনেসেন্ট ছত্রাক দিয়ে খনন করার স্থান চিহ্নিত করতেন এবং আসন্ন বিপদ সম্পর্কে অন্যদের সতর্ক করতেন।</CaveworldIlluminator95.description>
+  <!-- EN: caveworld illuminator -->
+  <CaveworldIlluminator95.title>গুহা-বিশ্ব আলোকিতকারী</CaveworldIlluminator95.title>
+  <CaveworldIlluminator95.titleFemale>গুহা-বিশ্ব আলোকিতকারী</CaveworldIlluminator95.titleFemale>
+  <!-- EN: illuminator -->
+  <CaveworldIlluminator95.titleShort>আলোকময়কারী</CaveworldIlluminator95.titleShort>
+  <CaveworldIlluminator95.titleShortFemale>আলোকময়কারী</CaveworldIlluminator95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
+  <ColonySettler53.description>[PAWN_nameDef] ছিলেন একটি নতুন উপনিবেশ বিশ্বে একজন বসতি স্থাপনকারী।\n\nএই ধরনের জীবনযাত্রার জন্য প্রাথমিক হাতে-কলমে কাজের ক্ষেত্রে একজন বহু-গুণ সম্পন্ন ব্যক্তি প্রয়োজন।</ColonySettler53.description>
+  <!-- EN: colony settler -->
+  <ColonySettler53.title>উপনিবেশ স্থাপনকারী বসতি স্থাপনকারী</ColonySettler53.title>
+  <ColonySettler53.titleFemale>উপনিবেশ স্থাপনকারী বসতি স্থাপনকারী</ColonySettler53.titleFemale>
+  <!-- EN: settler -->
+  <ColonySettler53.titleShort>বসতি স্থাপনকারী</ColonySettler53.titleShort>
+  <ColonySettler53.titleShortFemale>বসতি স্থাপনকারী</ColonySettler53.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
+  <DeepSpaceMiner3.description>[PAWN_nameDef] গভীর মহাকাশ রিগে গ্রহাণু থেকে ধাতু উত্তোলনের ঘাম-ভেজা, নোংরা কাজ করতেন। তিনি প্রতিদিন তাঁর হাতে-কলমে শিল্প যুগ-এর দক্ষতা ব্যবহার করতেন - এবং একটি পানশালায় মারামারিতেও খুব একটা খারাপ ছিলেন না।</DeepSpaceMiner3.description>
+  <!-- EN: deep space miner -->
+  <DeepSpaceMiner3.title>গভীর স্থান খনি শ্রমিক</DeepSpaceMiner3.title>
+  <DeepSpaceMiner3.titleFemale>গভীর স্থান খনি শ্রমিক</DeepSpaceMiner3.titleFemale>
+  <!-- EN: miner -->
+  <DeepSpaceMiner3.titleShort>খননকারী</DeepSpaceMiner3.titleShort>
+  <DeepSpaceMiner3.titleShortFemale>খননকারী</DeepSpaceMiner3.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial factory. [PAWN_possessive] job also included caring for the mules and horses which transported the goods. -->
+  <FactoryWorker58.description>[PAWN_nameDef] শিল্প যুগের একটি কারখানায় সামান্য, অদক্ষ কাজ করতেন। এই কাজের মধ্যে মাল পরিবহনের জন্য ব্যবহৃত খচ্চর এবং ঘোড়ার যত্ন নেওয়াও অন্তর্ভুক্ত ছিল।</FactoryWorker58.description>
+  <!-- EN: factory worker -->
+  <FactoryWorker58.title>কারখানা কর্মী</FactoryWorker58.title>
+  <FactoryWorker58.titleFemale>কারখানা কর্মী</FactoryWorker58.titleFemale>
+  <!-- EN: worker -->
+  <FactoryWorker58.titleShort>শ্রমিক</FactoryWorker58.titleShort>
+  <FactoryWorker58.titleShortFemale>শ্রমিক</FactoryWorker58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
+  <HumanComputer83.description>[PAWN_nameDef] এর একটি চমৎকার স্মৃতি ছিল এবং জটিল গণনা মনে মনে করার একটি প্রতিভা ছিল। শিল্প যুগ-এর একজন স্বৈরশাসক [PAWN_nameDef] কে তার রাজ্যের অর্থ এবং ব্যয়ের হিসাব রাখার জন্য নিযুক্ত করার সিদ্ধান্ত নিয়েছিলেন।</HumanComputer83.description>
+  <!-- EN: human computer -->
+  <HumanComputer83.title>মানুষ কম্পিউটার</HumanComputer83.title>
+  <!-- EN: computer -->
+  <HumanComputer83.titleShort>কম্পিউটার</HumanComputer83.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
+  <JoywireArtist8.description>[PAWN_nameDef] শহুরে বিশ্ব-এর একটি ল্যাবে কাজ করতেন, যেখানে ব্যবহারকারীর আনন্দ সর্বাধিক করার জন্য অত্যাধুনিক আনন্দ তার সফটওয়্যার তৈরি করা হতো।\n\nযখন স্থানীয় সরকার আনন্দ তার উৎপাদনের উপর কঠোর বিধিনিষেধ আরোপ করে, তখন তিনি কালো বাজারে তার পণ্য বিক্রি করা শুরু করেন।</JoywireArtist8.description>
+  <!-- EN: joywire artist -->
+  <JoywireArtist8.title>আনন্দ তার শিল্পী</JoywireArtist8.title>
+  <!-- EN: joywirer -->
+  <JoywireArtist8.titleShort>আনন্দ-তারবিদ</JoywireArtist8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
+  <MafiaBoss17.description>[PAWN_nameDef] ছিলেন শহুরে বিশ্ব অপরাধ সিন্ডিকেটের একজন উচ্চপদস্থ সদস্য।\n\nতিনি কর্মকর্তাদের ঘুষ দিতেন, তাঁর অধীনস্থদের আনুগত্য বজায় রাখতেন এবং যেকোনো মূল্যে বকেয়া অর্থ আদায় করতেন।</MafiaBoss17.description>
+  <!-- EN: mafia boss -->
+  <MafiaBoss17.title>মাফিয়া বস</MafiaBoss17.title>
+  <MafiaBoss17.titleFemale>মাফিয়া বস</MafiaBoss17.titleFemale>
+  <!-- EN: boss -->
+  <MafiaBoss17.titleShort>বস</MafiaBoss17.titleShort>
+  <MafiaBoss17.titleShortFemale>বস</MafiaBoss17.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
+  <PsychiatricPatient94.description>[PAWN_nameDef] জীবনের বেশিরভাগ সময় একটি মানসিক হাসপাতালে কাটিয়েছেন। তাঁর শিল্প যুগ গ্রহটিতে মানসিক অসুস্থতা সম্পর্কে দুর্বল ধারণা ছিল, এবং তাঁর সাথে একজন মানুষ হিসেবে নয়, বরং একটি পশু হিসেবে আচরণ করা হতো।\n\nযদিও তিনি শেষ পর্যন্ত সুস্থ হয়ে যান এবং মুক্তি পান, তবুও তাঁর অভিজ্ঞতা তাঁর মৌলিক জীবন দক্ষতাগুলির অনেক কিছুই হ্রাস করে দিয়েছে।</PsychiatricPatient94.description>
+  <!-- EN: psychiatric patient -->
+  <PsychiatricPatient94.title>মানসিক রোগী</PsychiatricPatient94.title>
+  <PsychiatricPatient94.titleFemale>মানসিক রোগী</PsychiatricPatient94.titleFemale>
+  <!-- EN: patient -->
+  <PsychiatricPatient94.titleShort>রোগী</PsychiatricPatient94.titleShort>
+  <PsychiatricPatient94.titleShortFemale>রোগী</PsychiatricPatient94.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
+  <Sheriff52.description>[PAWN_nameDef] একটি নির্জন শিল্প যুগ শহরের আইন প্রয়োগকারী ছিলেন। তিনি ছোটখাটো অপরাধ, বিরোধ নিষ্পত্তি এবং মাঝে মাঝে মাতাল স্যালুনের বন্দুকযুদ্ধের সঙ্গে মোকাবিলা করতেন।</Sheriff52.description>
+  <!-- EN: sheriff -->
+  <Sheriff52.title>শেরিফ</Sheriff52.title>
+  <!-- EN: sheriff -->
+  <Sheriff52.titleShort>শেরিফ</Sheriff52.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the space navy in an unstable system, fraught with large-scale interplanetary wars. [PAWN_pronoun] turned out to have a sharp mind for battle, and became adept at commanding combat units to great effect. -->
+  <SpaceTactician28.description>[PAWN_nameDef] একটি অস্থির সৌরজগতে স্থান নৌবাহিনীতে যোগদান করেন, যা বৃহৎ আকারের আন্তঃগ্রহ যুদ্ধ দ্বারা পরিপূর্ণ ছিল। তিনি খুব দ্রুত যুদ্ধক্ষেত্রে পারদর্শী হয়ে ওঠেন এবং যুদ্ধ ইউনিটগুলিকে দক্ষতার সাথে পরিচালনা করতে সক্ষম হন।</SpaceTactician28.description>
+  <!-- EN: space tactician -->
+  <SpaceTactician28.title>মহাকাশ কৌশলবিদ</SpaceTactician28.title>
+  <SpaceTactician28.titleFemale>মহাকাশ কৌশলবিদ</SpaceTactician28.titleFemale>
+  <!-- EN: tactician -->
+  <SpaceTactician28.titleShort>কৌশলবিদ</SpaceTactician28.titleShort>
+  <SpaceTactician28.titleShortFemale>কৌশলবিদ</SpaceTactician28.titleShortFemale>
+  
+  <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
+  <StarshipJanitor33.description>অন্যান্য যাত্রীরা যেখানে তারকা সিস্টেমগুলোর মধ্যে ক্রিপ্টোস্লিপ কফিনে বছরগুলো কাটায়, সেখানে [PAWN_nameDef] কে পর্যায়ক্রমে জেগে পরিদর্শন করতে হতো, নেভিগেশন সিস্টেমগুলো পরীক্ষা করতে হতো এবং মেকানোইডসমূহে তেল দিতে হতো।</StarshipJanitor33.description>
+  <!-- EN: starship janitor -->
+  <StarshipJanitor33.title>মহাকাশযান পরিচ্ছন্নতাকর্মী</StarshipJanitor33.title>
+  <!-- EN: janitor -->
+  <StarshipJanitor33.titleShort>পরিচ্ছন্নতাকর্মী</StarshipJanitor33.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled between star systems, studying and classifying the plant and animal life [PAWN_pronoun] found in the hopes of creating a complete catalogue. -->
+  <Taxonomist0.description>[PAWN_nameDef] বিভিন্ন নক্ষত্রজগতের মধ্যে ভ্রমণ করেছেন, উদ্ভিদ ও প্রাণিকুলের অধ্যয়ন ও শ্রেণীবিন্যাস করেছেন [[PH:V0]] একটি সম্পূর্ণ তালিকা তৈরির আশায়।</Taxonomist0.description>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.title>শ্রেণীবিন্যাসবিদ</Taxonomist0.title>
+  <Taxonomist0.titleFemale>শ্রেণীবিন্যাসবিদ</Taxonomist0.titleFemale>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.titleShort>শ্রেণীবিন্যাসবিদ</Taxonomist0.titleShort>
+  <Taxonomist0.titleShortFemale>শ্রেণীবিন্যাসবিদ</Taxonomist0.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership. -->
+  <UrbworldDrone32.description>[PAWN_nameDef] একটি বিশাল শহুরে বিশ্বে একজন নির্বোধ নির্মাণ ড্রোন হিসেবে কাজ করত। যদিও এখন তিনি সেই নিষ্ঠুর সামাজিক পরীক্ষা থেকে মুক্তি পেয়েছেন যার শিকার তিনি হয়েছিলেন, তবুও তিনি সৃজনশীল চিন্তা এবং নেতৃত্ব দেওয়ার ক্ষমতা হারিয়ে ফেলেছেন।</UrbworldDrone32.description>
+  <!-- EN: urbworld drone -->
+  <UrbworldDrone32.title>শহুরে বিশ্ব ড্রোন</UrbworldDrone32.title>
+  <UrbworldDrone32.titleFemale>শহুরে বিশ্ব ড্রোন</UrbworldDrone32.titleFemale>
+  <!-- EN: drone -->
+  <UrbworldDrone32.titleShort>ড্রোন</UrbworldDrone32.titleShort>
+  
+  <!-- EN: In the urbworlds, most suffer. But someone has to run the corporations.\n\n[PAWN_nameDef] learned the skills of the trade - greasing palms and technical analysis. [PAWN_pronoun] is a sociointellectual machine. -->
+  <UrbworldEntrepreneur14.description>শহুরে বিশ্বসমূহে, বেশিরভাগ মানুষ কষ্ট পায়। কিন্তু কর্পোরেশনগুলো চালানোর জন্য কারো না কারো তো এগিয়ে আসতে হয়।\n\n[PAWN_nameDef] ব্যবসার কৌশলগুলো শিখেছে— হাতুড়িচাটা করা এবং প্রযুক্তিগত বিশ্লেষণ করা। তিনি একজন সমাজ-বুদ্ধিবৃত্তিক যন্ত্র।</UrbworldEntrepreneur14.description>
+  <!-- EN: urbworld entrepreneur -->
+  <UrbworldEntrepreneur14.title>শহুরে বিশ্ব উদ্যোক্তা</UrbworldEntrepreneur14.title>
+  <UrbworldEntrepreneur14.titleFemale>শহুরে বিশ্ব উদ্যোক্তা</UrbworldEntrepreneur14.titleFemale>
+  <!-- EN: entrepreneur -->
+  <UrbworldEntrepreneur14.titleShort>উদ্যোক্তা</UrbworldEntrepreneur14.titleShort>
+  <UrbworldEntrepreneur14.titleShortFemale>উদ্যোক্তা</UrbworldEntrepreneur14.titleShortFemale>
+  
+  <!-- EN: Most of the people on [PAWN_nameDef]'s world gave up their individuality to join together in an online hivemind. [PAWN_nameDef] joined a rebel faction that rejected technology entirely. -->
+  <UrbworldRebel56.description>[PAWN_nameDef]'র গ্রহের অধিকাংশ মানুষ তাদের স্বাতন্ত্র্য ত্যাগ করে একটি অনলাইন হাইভমাইন্ডে যোগ দিতে পেরেছিল। [PAWN_nameDef] একটি বিদ্রোহী দলের সাথে যোগ দিয়েছিল, যারা সম্পূর্ণরূপে প্রযুক্তি প্রত্যাখ্যান করেছিল।</UrbworldRebel56.description>
+  <!-- EN: urbworld rebel -->
+  <UrbworldRebel56.title>শহুরে বিশ্ব বিদ্রোহী</UrbworldRebel56.title>
+  <UrbworldRebel56.titleFemale>শহুরে বিশ্ব বিদ্রোহী</UrbworldRebel56.titleFemale>
+  <!-- EN: rebel -->
+  <UrbworldRebel56.titleShort>বিদ্রোহী</UrbworldRebel56.titleShort>
+  
+</LanguageData>

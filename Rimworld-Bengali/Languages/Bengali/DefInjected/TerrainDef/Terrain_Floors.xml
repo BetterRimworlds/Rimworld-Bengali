@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>কংক্রিট</Concrete.label>
+  <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
+  <Concrete.description>অমসৃণ কংক্রিট। এটি সস্তা এবং দ্রুত তৈরি করা যায়, তবে এটি দেখতে তেমন সুন্দর নয়।</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>সোনালী টাইলস</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>অতিরিক্ত আড়ম্বর দেখানোর জন্য সোনার টাইলসের চেয়ে ভালো কিছু নেই। এগুলো ব্যতিক্রমীভাবে ব্যয়বহুল, ব্যতিক্রমীভাবে সুন্দর, এবং আপনি যদি সত্যিই এগুলোর উপর বাস করেন তবে লোকেরা আপনাকে ব্যতিক্রমীভাবে অহংকারী ভাববে।</GoldTile.description>
+  
+  <!-- EN: steel tile -->
+  <MetalTile.label>স্টিল টাইল</MetalTile.label>
+  <!-- EN: Steel tiles, for that spaceship look. They are quick to clean and get a bonus to cleanliness for use in medical settings. -->
+  <MetalTile.description>স্টিল টাইলস, যা মহাকাশযানের চেহারা দেয়। এগুলো দ্রুত পরিষ্কার করা যায় এবং চিকিৎসা সংক্রান্ত স্থানে ব্যবহারের জন্য পরিচ্ছন্নতার ক্ষেত্রে একটি বোনাস পাওয়া যায়।</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>পাথরের টাইলস</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>কংক্রিটের টাইলস। সস্তা, তবে দেখতে সাধারণ এবং তৈরি করতে ধীরগতির।</PavedTile.description>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>রূপালী টাইলস</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
+  <SilverTile.description>ভবিষ্যৎমুখী কিন্তু রাজকীয় চেহারার জন্য, রূপালী টাইলস বিলাসবহুল ঘরগুলোর সাথে নিখুঁতভাবে মানানসই। এগুলো দ্রুত পরিষ্কার করা যায় এবং পরিচ্ছন্নতার ক্ষেত্রে একটি অতিরিক্ত সুবিধা পাওয়া যায়।</SilverTile.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>জীবাণুমুক্ত টাইলস</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
+  <SterileTile.description>জীবাণুমুক্ত টাইলস, যেগুলির বিশেষ পরিষ্কার-পরিচ্ছন্নতা বৃদ্ধির বৈশিষ্ট্য রয়েছে। অতিরিক্ত পরিষ্কার ঘরগুলি হাসপাতাল এবং গবেষণাাগারে ভালো ফল দেয়। এই টাইলস তৈরি করতে খুব বেশি সময় লাগে, কিন্তু পরিষ্কার করা দ্রুত হয়।</SterileTile.description>
+  
+  <!-- EN: straw matting -->
+  <StrawMatting.label>খড় ম্যাটিং</StrawMatting.label>
+  <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
+  <StrawMatting.description>পশুর খামার ব্যবহারের জন্য সাধারণ খড় ম্যাটিং। এটি সস্তা এবং খুব কম ময়লা ধরে।</StrawMatting.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>কাঠের মেঝে</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>গরম, আরামদায়ক অনুভূতির জন্য কাঠের প্ল্যাঙ্ক মেঝে। এটি স্থাপন করা দ্রুত হলেও, এটি অত্যন্ত দাহ্য।</WoodPlankFloor.description>
+  
+</LanguageData>

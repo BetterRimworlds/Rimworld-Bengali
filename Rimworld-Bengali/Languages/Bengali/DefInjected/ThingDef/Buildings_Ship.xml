@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ship structural beam -->
+  <Ship_Beam.label>জাহাজ কাঠামোগত বিম</Ship_Beam.label>
+  <!-- EN: A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport. -->
+  <Ship_Beam.description>একটি কাঠামোগত বিম যার চারপাশে একটি মহাকাশযান তৈরি করা যেতে পারে। এর মধ্যে যোগাযোগ, শক্তি এবং উপকরণ পরিবহনের জন্য প্রয়োজনীয় সমস্ত নালী ও পরিবহন পাইপ অন্তর্ভুক্ত রয়েছে।</Ship_Beam.description>
+  
+  <!-- EN: ship computer core -->
+  <Ship_ComputerCore.label>জাহাজ কম্পিউটার কোর</Ship_ComputerCore.label>
+  <!-- EN: A computer core housing a machine persona who can guide a starship through any challenge during a multi-decade starflight. -->
+  <Ship_ComputerCore.description>একটি কম্পিউটার কোর যেখানে একটি যন্ত্র-ব্যক্তিত্ব রয়েছে, যা বহু দশকের মহাকাশযাত্রায় যেকোনো প্রতিকূলতা মোকাবিলা করে একটি নভোজাহাজকে পরিচালনা করতে পারে।</Ship_ComputerCore.description>
+  
+  <!-- EN: ship cryptosleep casket -->
+  <Ship_CryptosleepCasket.label>জাহাজ ক্রিপ্টোস্লিপ কফিন</Ship_CryptosleepCasket.label>
+  <!-- EN: A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry. -->
+  <Ship_CryptosleepCasket.description>মহাকাশের বিপদ থেকে সুরক্ষিত একটি ক্রিপ্টোস্লিপ কফিন। এটি কয়েক শতাব্দী ধরে একজন ব্যক্তিকে ক্রিপ্টোস্লিপে রাখতে এবং বায়ুমণ্ডলীয় পুনঃপ্রবেশে টিকে থাকতে সক্ষম।</Ship_CryptosleepCasket.description>
+  
+  <!-- EN: ship engine -->
+  <Ship_Engine.label>জাহাজ ইঞ্জিন</Ship_Engine.label>
+  <!-- EN: A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars. -->
+  <Ship_Engine.description>একটি জনসন-তানাকা ড্রাইভ যা কোনো প্রতিক্রিয়া ছাড়াই একটি জাহাজকে কক্ষপথে উৎক্ষেপণ করতে এবং বিশাল নক্ষত্রপুঞ্জের মধ্যে দিয়ে চলতে সক্ষম।</Ship_Engine.description>
+  
+  <!-- EN: ship reactor -->
+  <Ship_Reactor.label>জাহাজ রিয়্যাক্টর</Ship_Reactor.label>
+  <!-- EN: Powers a ship on its journey between stars. Takeoff requires a long powerup process that is likely to attract raiders. -->
+  <Ship_Reactor.description>তারাদের মধ্যে জাহাজটিকে যাত্রা করাতে শক্তি যোগায়। উড্ডয়ন একটি দীর্ঘ পাওয়ারআপ প্রক্রিয়ার দাবি রাখে যা সম্ভবত আক্রমণকারীদের আকৃষ্ট করবে।</Ship_Reactor.description>
+  
+  <!-- EN: sensor cluster -->
+  <Ship_SensorCluster.label>সেন্সর ক্লাস্টার</Ship_SensorCluster.label>
+  <!-- EN: A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes. -->
+  <Ship_SensorCluster.description>এটি একটি বহু-কার্যকরী সেন্সর মডিউল। এটি যোগাযোগ, হুমকি সনাক্তকরণ, প্রতারণা, জ্যামিং এবং অন্যান্য উদ্দেশ্যে শূন্যস্থানের মধ্যে স্ক্যান করতে এবং সংকেত পাঠাতে পারে।</Ship_SensorCluster.description>
+  
+</LanguageData>

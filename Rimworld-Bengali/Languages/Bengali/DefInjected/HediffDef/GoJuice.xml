@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: go-juice addiction -->
+  <GoJuiceAddiction.label>গো-জুস আসক্তি</GoJuiceAddiction.label>
+  <!-- EN: A chemical addiction to go-juice. Long-term presence of go-juice has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of go-juice, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <GoJuiceAddiction.description>গো-জুসের প্রতি একটি রাসায়নিক আসক্তি। দীর্ঘ সময় ধরে গো-জুস ব্যবহারের কারণে কোষীয় স্তরে স্নায়ুগত পরিবর্তন ঘটেছে, ফলে মস্তিষ্ক এখন আর ওষুধ ছাড়া স্বাভাবিকভাবে কাজ করতে পারে না।\n\nনিয়মিত গো-জুসের ডোজ না পেলে প্রত্যাহারের লক্ষণ শুরু হবে। তবে, দীর্ঘমেয়াদী বিরত থাকলে মস্তিষ্ক তার স্বাভাবিক অবস্থায় ফিরে যেতে বাধ্য হবে, যা এই আসক্তি নিরাময় করবে।</GoJuiceAddiction.description>
+  <!-- EN: withdrawal -->
+  <GoJuiceAddiction.stages.withdrawal.label>প্রত্যাহার</GoJuiceAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.label>গো-জুস-এর নেশা</GoJuiceHigh.label>
+  <!-- EN: Go-juice in the bloodstream. It supercharges combat-related abilities, and instantly increases psyfocus when first injected. -->
+  <GoJuiceHigh.description>রক্তপ্রবাহে গো-জুস। এটি যুদ্ধ-সম্পর্কিত ক্ষমতাগুলিকে বাড়িয়ে তোলে এবং প্রথমবার ইনজেকশন দেওয়ার সাথে সাথেই সাইকোফোকাস তাৎক্ষণিকভাবে বৃদ্ধি করে।</GoJuiceHigh.description>
+  <!-- EN: a go-juice high -->
+  <GoJuiceHigh.labelNoun>গো-জুস হাই</GoJuiceHigh.labelNoun>
+  
+  <!-- EN: go-juice tolerance -->
+  <GoJuiceTolerance.label>গো-জুস সহনশীলতা</GoJuiceTolerance.label>
+  <!-- EN: A built-up tolerance to go-juice. The more severe this tolerance is, the more go-juice it takes to get the same effect. -->
+  <GoJuiceTolerance.description>গো-জুসের প্রতি সহনশীলতা বৃদ্ধি। এই সহনশীলতা যত বেশি হবে, একই প্রভাব পেতে তত বেশি গো-জুস লাগবে।</GoJuiceTolerance.description>
+  <!-- EN: small -->
+  <GoJuiceTolerance.stages.small.label>ছোট</GoJuiceTolerance.stages.small.label>
+  <!-- EN: large -->
+  <GoJuiceTolerance.stages.large.label>বৃহৎ</GoJuiceTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <GoJuiceTolerance.stages.massive.label>বিশাল</GoJuiceTolerance.stages.massive.label>
+  
+</LanguageData>

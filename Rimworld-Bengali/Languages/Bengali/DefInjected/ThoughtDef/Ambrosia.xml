@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia warmth -->
+  <AmbrosiaHigh.stages.ambrosia_warmth.label>অ্যামব্রোসিয়া উষ্ণতা</AmbrosiaHigh.stages.ambrosia_warmth.label>
+  <!-- EN: That ambrosia makes me feel more relaxed, and gives me energy at the same time. -->
+  <AmbrosiaHigh.stages.ambrosia_warmth.description>সেই অ্যামব্রোসিয়া আমাকে আরও স্বচ্ছন্দ বোধ করায়, এবং একই সাথে শক্তিও যোগায়।</AmbrosiaHigh.stages.ambrosia_warmth.description>
+  
+  <!-- EN: ambrosia withdrawal -->
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>অ্যামব্রোসিয়া প্রত্যাহার</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>
+  <!-- EN: I feel heavy and cold all the time. I never thought I'd want a piece of fruit so much. -->
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>আমার সবসময় ভারী ও ঠান্ডা লাগে। আমি কখনো ভাবিনি যে একটি ফলের টুকরা আমার এত বেশি চাই হতে পারে।</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>
+  
+</LanguageData>

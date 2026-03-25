@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: novel -->
+  <Novel.label>নভেল</Novel.label>
+  <!-- EN: A book containing fictional or true stories for the pleasure and edification of the reader. -->
+  <Novel.description>পাঠকের আনন্দ ও শিক্ষার্থে কল্পকাহিনী অথবা বাস্তবভিত্তিক গল্প সংবলিত একটি বই।</Novel.description>
+  
+  <!-- EN: schematic -->
+  <Schematic.label>নকশা</Schematic.label>
+  <!-- EN: A book which describes technology and methods for using it. Reading schematics can help unlock new technologies. -->
+  <Schematic.description>এটি একটি বই যেখানে প্রযুক্তি এবং এটি ব্যবহারের পদ্ধতি বর্ণিত আছে। নকশা পড়া নতুন প্রযুক্তি আনলক করতে সাহায্য করতে পারে।</Schematic.description>
+  
+  <!-- EN: textbook -->
+  <TextBook.label>পাঠ্যপুস্তক</TextBook.label>
+  <!-- EN: A book which focuses on teaching skills. -->
+  <TextBook.description>দক্ষতা শেখানোর উপর দৃষ্টি নিবদ্ধ করা একটি বই।</TextBook.description>
+  
+</LanguageData>

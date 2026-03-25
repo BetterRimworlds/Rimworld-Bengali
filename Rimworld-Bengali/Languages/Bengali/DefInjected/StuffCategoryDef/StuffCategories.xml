@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fabric -->
+  <Fabric.label>কাপড়</Fabric.label>
+  <!-- EN: fabric -->
+  <Fabric.noun>কাপড়</Fabric.noun>
+  
+  <!-- EN: leathery -->
+  <Leathery.label>চামড়ার মতো</Leathery.label>
+  <!-- EN: leather -->
+  <Leathery.noun>চামড়া</Leathery.noun>
+  
+  <!-- EN: metallic -->
+  <Metallic.label>ধাতব</Metallic.label>
+  <!-- EN: metal -->
+  <Metallic.noun>ধাতু</Metallic.noun>
+  
+  <!-- EN: stony -->
+  <Stony.label>পাথুরে</Stony.label>
+  <!-- EN: stone -->
+  <Stony.noun>পাথর</Stony.noun>
+  
+  <!-- EN: woody -->
+  <Woody.label>উডি</Woody.label>
+  <!-- EN: wood -->
+  <Woody.noun>কাঠ</Woody.noun>
+  
+</LanguageData>

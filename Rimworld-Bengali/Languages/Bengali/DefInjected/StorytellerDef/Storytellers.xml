@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cassandra Classic -->
+  <Cassandra.label>ক্যাসান্ড্রা ক্লাসিক</Cassandra.label>
+  <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
+  <Cassandra.description>ক্যাসান্ড্রা চ্যালেঞ্জ এবং উত্তেজনার একটি চিরায়ত ক্রমবর্ধমান রেখাচিত্রের ওপর ভিত্তি করে গল্পের ঘটনা তৈরি করে। পরিস্থিতি কঠিন করে তুলবে, তারপর কিছুটা স্বস্তি দেবে, এবং এরপর আবার চাপ সৃষ্টি করবে।</Cassandra.description>
+  
+  <!-- EN: Phoebe Chillax -->
+  <Phoebe.label>ফোয়েবি চিল্যাক্স</Phoebe.label>
+  <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
+  <Phoebe.description>ফেবো আপনার কলোনি তৈরি করার জন্য দুর্যোগের মধ্যে অনেক সময় দেয়। তবে সাবধান— উচ্চDifficulটিতে, সে অন্যদের মতোই কঠোরভাবে আঘাত করবে।</Phoebe.description>
+  
+  <!-- EN: Randy Random -->
+  <Randy.label>র‍্যান্ডি র‍্যান্ডম</Randy.label>
+  <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
+  <Randy.description>র‍্যান্ডি কোনো নিয়ম অনুসরণ করে না। র‍্যান্ডি এলোমেলো ঘটনা তৈরি করবে, এবং এই ঘটনাগুলো বিজয়ের গল্প তৈরি করবে নাকি সম্পূর্ণ হতাশার, সে বিষয়ে র‍্যান্ডির কোনো চিন্তা নেই। তার কাছে সবকিছুই নাটকীয়তা।\n\nসতর্কতা: র‍্যান্ডি সম্পূর্ণরূপে এলোমেলো হওয়ায়, মাঝে মাঝে র‍্যান্ডি অত্যন্ত কঠিন বা অন্যায় ঘটনার সমষ্টি আপনার দিকে পাঠাতে পারে। এটি তীব্র নাটকীয়তা—এবং অনিবার্য আত্মত্যাগের কারণ হবে।</Randy.description>
+  
+  <!-- EN: Tutor Hidden -->
+  <Tutor.label>টিউটর লুকানো</Tutor.label>
+  
+</LanguageData>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] designed the construction of buildings. On [PAWN_possessive] glitterworld home, the technical aspect of architecture was handled by an AI, whilst the labour was done by robots. This freed [PAWN_objective] up to push the artistic limits of his craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty. -->
+  <Architect28.description>[PAWN_nameDef] ভবন নির্মাণের নকশা করতেন। [PAWN_nameDef]-এর ঝলমলে বিশ্ব-এ, স্থাপত্যের প্রযুক্তিগত দিকগুলি একটি এআই পরিচালনা করত, যেখানে শ্রমের কাজটি রোবটরা করত। এর ফলে [PAWN_nameDef] তাঁর কাজের শৈল্পিক সীমাগুলি প্রসারিত করতে পেরেছিলেন, কিন্তু এর মানে হল [PAWN_nameDef]-কে কখনই নিজের হাতে কাজ করতে হয়নি।</Architect28.description>
+  <!-- EN: architect -->
+  <Architect28.title>স্থাপত্যবিদ</Architect28.title>
+  <Architect28.titleFemale>স্থাপত্যবিদ</Architect28.titleFemale>
+  <!-- EN: architect -->
+  <Architect28.titleShort>স্থাপত্যবিদ</Architect28.titleShort>
+  <Architect28.titleShortFemale>স্থাপত্যবিদ</Architect28.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots, while the people mostly devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire nature's beauty. -->
+  <BiosphereManager95.description>[PAWN_nameDef] একটি শান্তিপূর্ণ ঝলমলে বিশ্বে বাস করত, যেখানে সমস্ত সাধারণ কাজ রোবট দ্বারা করা হত, এবং লোকেরা মূলত অবসর উপভোগ করত। তিনি একটি বিশাল পার্কের উদ্ভিদ ও প্রাণীজগতের তত্ত্বাবধান করত, যেখানে নাগরিকরা প্রকৃতির সৌন্দর্য উপভোগ করতে আসত।</BiosphereManager95.description>
+  <!-- EN: biosphere manager -->
+  <BiosphereManager95.title>বায়োস্ফিয়ার ব্যবস্থাপক</BiosphereManager95.title>
+  <BiosphereManager95.titleFemale>বায়োস্ফিয়ার ব্যবস্থাপক</BiosphereManager95.titleFemale>
+  <!-- EN: botanist -->
+  <BiosphereManager95.titleShort>উদ্ভিদবিদ</BiosphereManager95.titleShort>
+  <BiosphereManager95.titleShortFemale>উদ্ভিদবিদ</BiosphereManager95.titleShortFemale>
+  
+  <!-- EN: Glitterworlds are havens of comfort for those lucky enough to live there, but [PAWN_nameDef] could not ignore the nearby trashworlds where the people suffered and starved. [PAWN_pronoun] spent [PAWN_possessive] life appealing for donations and supporting those in need. -->
+  <CharityWorker36.description>ঝলমলে বিশ্বসমূহ ভাগ্যবানদের জন্য আরামের আশ্রয়স্থল, কিন্তু [PAWN_nameDef] কাছাকাছি আবর্জনা বিশ্বসমূহের মানুষদের কষ্ট ও ক্ষুধাকে উপেক্ষা করতে পারেননি। তিনি তাঁর জীবন দান চাওয়া এবং অভাবীদের সহায়তায় কাটিয়েছেন।</CharityWorker36.description>
+  <!-- EN: charity worker -->
+  <CharityWorker36.title>দাতব্য কর্মী</CharityWorker36.title>
+  <CharityWorker36.titleFemale>দাতব্য কর্মী</CharityWorker36.titleFemale>
+  <!-- EN: altruist -->
+  <CharityWorker36.titleShort>পরোপকারী</CharityWorker36.titleShort>
+  <CharityWorker36.titleShortFemale>পরোপকারী</CharityWorker36.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] found it easy to relate to others and mediate conflict. [PAWN_pronoun] was selected to train as an empath. The training intensified [PAWN_possessive] natural abilities, but [PAWN_pronoun] became unable to cause others pain. -->
+  <GlitterworldEmpath26.description>[PAWN_nameDef] অন্যের সাথে সহজে মিশতে পারতেন এবং বিরোধ মীমাংসা করতে পারতেন। তাই তাঁকে একজন সহানুভূতিশীল হিসেবে প্রশিক্ষণের জন্য নির্বাচিত করা হয়েছিল। প্রশিক্ষণ তাঁর স্বাভাবিক ক্ষমতাগুলিকে আরও বাড়িয়ে তুলেছিল, কিন্তু তিনি আর কাউকে কষ্ট দিতে পারতেন না।</GlitterworldEmpath26.description>
+  <!-- EN: glitterworld empath -->
+  <GlitterworldEmpath26.title>ঝলমলে বিশ্ব সহানুভূতিশীল</GlitterworldEmpath26.title>
+  <GlitterworldEmpath26.titleFemale>ঝলমলে বিশ্ব সহানুভূতিশীল</GlitterworldEmpath26.titleFemale>
+  <!-- EN: empath -->
+  <GlitterworldEmpath26.titleShort>সহানুভূতিশীল</GlitterworldEmpath26.titleShort>
+  <GlitterworldEmpath26.titleShortFemale>সহানুভূতিশীল</GlitterworldEmpath26.titleShortFemale>
+  
+  <!-- EN: Though glitterworlds are peaceful places, they often remain prepared for war. [PAWN_nameDef]'s unit rarely saw any real action.\n\nThough [PAWN_pronoun] pursued [PAWN_possessive] artistic hobbies, [PAWN_possessive] subordinates preferred to entertain themselves by brawling, so [PAWN_nameDef] got good at breaking up fights. -->
+  <GlitterworldOfficer60.description>যদিও ঝলমলে বিশ্বসমূহ শান্তিপূর্ণ স্থান, তবুও তারা প্রায়শই যুদ্ধের জন্য প্রস্তুত থাকে। [PAWN_nameDef]'s ইউনিট খুব কমই কোনো প্রকৃত অ্যাকশন দেখেছিল।\n\nযদিও তিনি তাঁর শৈল্পিক শখগুলো অনুসরণ করতেন, তাঁর অধীনস্থরা মারামারি করে নিজেদের আনন্দ করত, তাই [PAWN_nameDef] মারামারি থামানোর ব্যাপারে দক্ষ হয়ে উঠেছিলেন।</GlitterworldOfficer60.description>
+  <!-- EN: glitterworld officer -->
+  <GlitterworldOfficer60.title>ঝলমলে বিশ্ব কর্মকর্তা</GlitterworldOfficer60.title>
+  <GlitterworldOfficer60.titleFemale>ঝলমলে বিশ্ব কর্মকর্তা</GlitterworldOfficer60.titleFemale>
+  <!-- EN: officer -->
+  <GlitterworldOfficer60.titleShort>কর্মকর্তা</GlitterworldOfficer60.titleShort>
+  <GlitterworldOfficer60.titleShortFemale>কর্মকর্তা</GlitterworldOfficer60.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a surgeon on a world mostly free of disease and human suffering, so [PAWN_possessive] job focused on elaborate and creative cosmetic surgeries. \n\n[PAWN_pronoun] understands human biology, deeply, but has never had to remove a tumour — or a bullet. -->
+  <GlitterworldSurgeon15.description>[PAWN_nameDef] এমন একটি বিশ্বে একজন সার্জন হিসেবে কাজ করত যেখানে রোগ এবং মানুষের কষ্ট ছিল খুবই কম, তাই তাঁর কাজ মূলত জটিল এবং সৃজনশীল কসমেটিক সার্জারির উপর কেন্দ্র করে আবর্তিত ছিল। \n\nতিনি মানব শরীরবিদ্যা সম্পর্কে গভীরভাবে অবগত, কিন্তু কখনো টিউমার—অথবা বুলেট অপসারণ করতে হয়নি।</GlitterworldSurgeon15.description>
+  <!-- EN: glitterworld surgeon -->
+  <GlitterworldSurgeon15.title>ঝলমলে বিশ্ব সার্জন</GlitterworldSurgeon15.title>
+  <GlitterworldSurgeon15.titleFemale>ঝলমলে বিশ্ব সার্জন</GlitterworldSurgeon15.titleFemale>
+  <!-- EN: surgeon -->
+  <GlitterworldSurgeon15.titleShort>সার্জন</GlitterworldSurgeon15.titleShort>
+  <GlitterworldSurgeon15.titleShortFemale>সার্জন</GlitterworldSurgeon15.titleShortFemale>
+  
+  <!-- EN: Interstellar warfare is won by technology, so glitterworld navies are always at the peak of modern research. Even better, they occasionally find archotechnological artifacts floating in space.\n\n[PAWN_nameDef] worked in a navy lab. -->
+  <NavyScientist52.description>আন্তঃনাক্ষত্রিক যুদ্ধ প্রযুক্তি দ্বারা জয় করা হয়, তাই ঝলমলে বিশ্ব-এর নৌবাহিনী সর্বদা আধুনিক গবেষণার শীর্ষে থাকে। আরও ভালো, তারা মাঝে মাঝে মহাকাশে ভাসমান আর্কোটেকনোলজিক্যাল নিদর্শন খুঁজে পায়।\n\n[PAWN_nameDef] একটি নৌবাহিনীর ল্যাবে কাজ করত।</NavyScientist52.description>
+  <!-- EN: navy scientist -->
+  <NavyScientist52.title>নৌ বিজ্ঞানী</NavyScientist52.title>
+  <NavyScientist52.titleFemale>নৌ বিজ্ঞানী</NavyScientist52.titleFemale>
+  <!-- EN: scientist -->
+  <NavyScientist52.titleShort>বিজ্ঞানী</NavyScientist52.titleShort>
+  <NavyScientist52.titleShortFemale>বিজ্ঞানী</NavyScientist52.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] lived on a glitterworld, penning wildly successful novels. [PAWN_pronoun] lived a carefree lifestyle, spending [PAWN_possessive] days writing and [PAWN_possessive] nights partying - and has never done a day's manual labour in [PAWN_possessive] life. -->
+  <Novelist7.description>[PAWN_nameDef] একটি ঝলমলে বিশ্বে বসবাস করতেন, এবং প্রচুর সফল উপন্যাস লিখেছেন। তিনি একটি নির্ভাবনার জীবনযাপন করতেন, দিন কাটাতেন লেখালেখিতে এবং রাত কাটাতেন পার্টিতে - এবং জীবনে কখনো কোনো manual labour করেননি।</Novelist7.description>
+  <!-- EN: novelist -->
+  <Novelist7.title>উপন্যাসিক</Novelist7.title>
+  <Novelist7.titleFemale>উপন্যাসিক</Novelist7.titleFemale>
+  <!-- EN: novelist -->
+  <Novelist7.titleShort>উপন্যাসিক</Novelist7.titleShort>
+  <Novelist7.titleShortFemale>উপন্যাসিক</Novelist7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] started off sculpting person-sized artworks, but [PAWN_pronoun] soon began to think bigger. With the help of mining robots, [PAWN_pronoun] learned how to carve huge monuments out of cliffsides. Soon the parks of the glitterworld where [PAWN_pronoun] lived were full of giant stone figures. -->
+  <Sculptor63.description>[PAWN_nameDef] প্রথমে মানুষের আকারের শিল্পকর্ম তৈরি করা শুরু করেছিলেন, কিন্তু খুব শীঘ্রই তিনি আরও বড় পরিসরে চিন্তা করতে শুরু করেন। খনি রোবটদের সহায়তায়, তিনি শিখলেন কীভাবে খাড়া পাহাড়ের পাশ থেকে বিশাল স্মৃতিস্তম্ভ খোদাই করতে হয়। শীঘ্রই তিনি যেখানে ঝলমলে বিশ্বে বাস করতেন, সেখানকার পার্কগুলো বিশাল পাথরের মূর্তি দিয়ে ভরে উঠল।</Sculptor63.description>
+  <!-- EN: sculptor -->
+  <Sculptor63.title>ভাস্কর</Sculptor63.title>
+  <Sculptor63.titleFemale>ভাস্কর</Sculptor63.titleFemale>
+  <!-- EN: sculptor -->
+  <Sculptor63.titleShort>ভাস্কর</Sculptor63.titleShort>
+  <Sculptor63.titleShortFemale>ভাস্কর</Sculptor63.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] designed virtual reality simulations for glitterworld citizens. [PAWN_pronoun] put great effort into the details of [PAWN_possessive] virtual worlds, learning all [PAWN_pronoun] could about plant life to make [PAWN_possessive] landscapes as realistic as possible. -->
+  <VRDesigner87.description>[PAWN_nameDef] ঝলমলে বিশ্বের নাগরিকদের জন্য ভার্চুয়াল রিয়েলিটি সিমুলেশন ডিজাইন করতেন। তিনি তাঁর ভার্চুয়াল জগৎগুলির বিস্তারিত বিষয়গুলিতে প্রচুর মনোযোগ দিতেন, এবং তাঁর ল্যান্ডস্কেপগুলিকে যতটা সম্ভব বাস্তবসম্মত করে তোলার জন্য উদ্ভিদ জীবন সম্পর্কে সবকিছু শিখতেন।</VRDesigner87.description>
+  <!-- EN: VR designer -->
+  <VRDesigner87.title>ভার্চুয়াল বাস্তবতা নকশাকারক</VRDesigner87.title>
+  <VRDesigner87.titleFemale>ভার্চুয়াল বাস্তবতা নকশাকারক</VRDesigner87.titleFemale>
+  <!-- EN: game dev -->
+  <VRDesigner87.titleShort>গেম ডেভেলপার</VRDesigner87.titleShort>
+  <VRDesigner87.titleShortFemale>গেম ডেভেলপার</VRDesigner87.titleShortFemale>
+  
+</LanguageData>

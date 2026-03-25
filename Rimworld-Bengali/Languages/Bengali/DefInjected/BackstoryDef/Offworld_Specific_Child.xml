@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] homeworld, as climate change threatened mass starvation and flooding. As [PAWN_pronoun] grew up the situation worsened - billions died and peaceful states descended into anarchy. [PAWN_nameDef] and [PAWN_possessive] parents did whatever they had to do to survive. -->
+  <ApocalypseSurvivor23.description>[PAWN_nameDef] তাঁর নিজের গ্রহে অস্থির সময়ে জন্মগ্রহণ করেন, যখন জলবায়ু পরিবর্তনের কারণে ব্যাপক দুর্ভিক্ষ এবং বন্যার হুমকি দেখা দিয়েছিল। তিনি বড় হওয়ার সাথে সাথে পরিস্থিতি আরও খারাপ হতে থাকে - বিলিয়ন মানুষ মারা যায় এবং শান্তিপূর্ণ রাষ্ট্রগুলি নৈরাজ্যে পরিণত হয়। [PAWN_nameDef] এবং তাঁর বাবা-মা বেঁচে থাকার জন্য যা করার দরকার ছিল তাই করেছিলেন।</ApocalypseSurvivor23.description>
+  <!-- EN: apocalypse survivor -->
+  <ApocalypseSurvivor23.title>অ্যাপোক্যালিপ্স সার্ভাইভার</ApocalypseSurvivor23.title>
+  <ApocalypseSurvivor23.titleFemale>অ্যাপোক্যালিপ্স সার্ভাইভার</ApocalypseSurvivor23.titleFemale>
+  <!-- EN: survivor -->
+  <ApocalypseSurvivor23.titleShort>বেঁচে থাকা ব্যক্তি</ApocalypseSurvivor23.titleShort>
+  <ApocalypseSurvivor23.titleShortFemale>বেঁচে থাকা ব্যক্তি</ApocalypseSurvivor23.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in cave complex deep beneath the surface of an inhospitable world. [PAWN_pronoun] worked with the other children tending the tribe's fungus crops. -->
+  <CaveworldTender26.description>[PAWN_nameDef] একটি প্রতিকূল গ্রহের পৃষ্ঠের গভীরে অবস্থিত একটি গুহা কমপ্লেক্সে বড় হয়েছেন। তিনি অন্যান্য শিশুদের সাথে উপজাতিটির ছত্রাক ফসল দেখাশোনা করতেন।</CaveworldTender26.description>
+  <!-- EN: caveworld tender -->
+  <CaveworldTender26.title>গুহা-বিশ্ব কোমল-হৃদয়</CaveworldTender26.title>
+  <CaveworldTender26.titleFemale>গুহা-বিশ্ব কোমল-হৃদয়</CaveworldTender26.titleFemale>
+  <!-- EN: cave kid -->
+  <CaveworldTender26.titleShort>গুহা শিশু</CaveworldTender26.titleShort>
+  <CaveworldTender26.titleShortFemale>গুহা শিশু</CaveworldTender26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a digger in the massive underground cave complex.\n\n[PAWN_pronoun] knows rock so well that [PAWN_pronoun] can almost navigate caves by smell. -->
+  <CaveworldTunneler48.description>[PAWN_nameDef] বিশাল ভূগর্ভস্থ গুহা কমপ্লেক্সে একজন খননকারী হিসেবে কাজ করত।\n\nএঁরা পাথর সম্পর্কে এতটাই ভালোভাবে জানে যে প্রায় গন্ধ শুঁকেই গুহায় পথ খুঁজে নিতে পারে।</CaveworldTunneler48.description>
+  <!-- EN: caveworld tunneler -->
+  <CaveworldTunneler48.title>গুহা-বিশ্ব সুরঙ্গখনক</CaveworldTunneler48.title>
+  <CaveworldTunneler48.titleFemale>গুহা-বিশ্ব সুরঙ্গখনক</CaveworldTunneler48.titleFemale>
+  <!-- EN: tunneler -->
+  <CaveworldTunneler48.titleShort>খননকারী</CaveworldTunneler48.titleShort>
+  <CaveworldTunneler48.titleShortFemale>খননকারী</CaveworldTunneler48.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_possessive] earliest memories were of drudgery in the mines and workhouses of [PAWN_possessive] industrial world.\n\nBecause of this, [PAWN_pronoun] never received a proper education. -->
+  <IndustrialOrphan13.description>[PAWN_nameDef] এর বাবা-মা-কে তিনি কখনো জানতে পারেননি। শিল্প যুগের তাঁর বিশ্বে খনি এবং কর্মশালায় কঠোর পরিশ্রমের স্মৃতিই তাঁর প্রথম স্মৃতি।\n\nএই কারণে, তিনি কোনো যথাযথ শিক্ষা গ্রহণ করতে পারেননি।</IndustrialOrphan13.description>
+  <!-- EN: industrial orphan -->
+  <IndustrialOrphan13.title>শিল্প যুগ অনাথ শিশু</IndustrialOrphan13.title>
+  <IndustrialOrphan13.titleFemale>শিল্প যুগ অনাথ শিশু</IndustrialOrphan13.titleFemale>
+  <!-- EN: orphan -->
+  <IndustrialOrphan13.titleShort>অনাথ</IndustrialOrphan13.titleShort>
+  <IndustrialOrphan13.titleShortFemale>অনাথ</IndustrialOrphan13.titleShortFemale>
+  
+  <!-- EN: Born to the administrators of a rimworld colony, [PAWN_nameDef] was enrolled in a youth program that taught military scouting skills.\n\n[PAWN_pronoun] learned to survive in the wilderness, to obey, and not to ask questions. -->
+  <Scout44.description>একজন রিমওয়ার্ল্ড কলোনির প্রশাসকদের দ্বারা জন্ম নেওয়া [PAWN_nameDef] একটি যুব প্রোগ্রামে তালিকাভুক্ত হয়েছিলেন, যেখানে সামরিক স্কাউটিং দক্ষতা শেখানো হতো।\n\nতিনি বন্য পরিবেশে টিকে থাকতে, আনুগত্য করতে এবং প্রশ্ন না করতে শিখেছিলেন।</Scout44.description>
+  <!-- EN: scout -->
+  <Scout44.title>স্কাউট</Scout44.title>
+  <Scout44.titleFemale>স্কাউট</Scout44.titleFemale>
+  <!-- EN: scout -->
+  <Scout44.titleShort>স্কাউট</Scout44.titleShort>
+  <Scout44.titleShortFemale>স্কাউট</Scout44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a shelter deep beneath a toxic world. [PAWN_pronoun] received a comprehensive education, but had no opportunity to do physical labour. -->
+  <ShelterChild50.description>[PAWN_nameDef] একটি বিষাক্ত পৃথিবীর গভীরে অবস্থিত একটি আশ্রয়কেন্দ্রে বড় হয়ে উঠেছেন। তাঁদের একটি সম্পূর্ণ শিক্ষা দেওয়া হয়েছিল, কিন্তু শারীরিক পরিশ্রম করার কোনো সুযোগ ছিল না।</ShelterChild50.description>
+  <!-- EN: shelter child -->
+  <ShelterChild50.title>আশ্রয় শিশু</ShelterChild50.title>
+  <ShelterChild50.titleFemale>আশ্রয় শিশু</ShelterChild50.titleFemale>
+  <!-- EN: shelterkid -->
+  <ShelterChild50.titleShort>আশ্রয়প্রাপ্ত শিশু</ShelterChild50.titleShort>
+  <ShelterChild50.titleShortFemale>আশ্রয়প্রাপ্ত শিশু</ShelterChild50.titleShortFemale>
+  
+  <!-- EN: On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. [PAWN_nameDef] was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn [PAWN_objective] into a perfect super-soldier. -->
+  <TestSubject15.description>বিজ্ঞানীবিহীন সবচেয়ে দুর্নীতিগ্রস্ত শহুরে বিশ্বসমূহ-এ, নৈতিক কম্পাস ছাড়া বিজ্ঞানীরা গবেষণার নামে অকথ্য নৃশংসতা করে থাকেন। [PAWN_nameDef] জন্ম থেকে একটি সিল করা ফ্যাসিলিটিতে একা রাখা হয়েছিল এবং তাঁকে একজন নিখুঁত সুপার-সৈনিকে পরিণত করার জন্য বিভিন্ন আচরণগত পরীক্ষার শিকার করা হয়েছিল।</TestSubject15.description>
+  <!-- EN: test subject -->
+  <TestSubject15.title>পরীক্ষামূলক বিষয়</TestSubject15.title>
+  <!-- EN: testee -->
+  <TestSubject15.titleShort>পরীক্ষার্থী</TestSubject15.titleShort>
+  
+  <!-- EN: The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of such a place. [PAWN_pronoun] had to fight for every scrap of food. -->
+  <UrbworldUrchin61.description>শহুরে বিশ্বসমূহ - প্রাচীন এবং গভীর শিল্প যুগ-এর শহরতলি, যা মানবতা এবং বিষে পরিপূর্ণ। [PAWN_nameDef] এমন একটি জায়গার অন্ধকার, অবাঞ্ছিত প্রান্তে বড় হয়েছেন। খাদ্যের প্রতিটি টুকরোর জন্য তাঁকে লড়াই করতে হয়েছে।</UrbworldUrchin61.description>
+  <!-- EN: urbworld urchin -->
+  <UrbworldUrchin61.title>শহুরে বিশ্ব রাস্তার শিশু</UrbworldUrchin61.title>
+  <UrbworldUrchin61.titleFemale>শহুরে বিশ্ব রাস্তার শিশু</UrbworldUrchin61.titleFemale>
+  <!-- EN: urchin -->
+  <UrbworldUrchin61.titleShort>রাস্তার শিশু</UrbworldUrchin61.titleShort>
+  <UrbworldUrchin61.titleShortFemale>রাস্তার শিশু</UrbworldUrchin61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was tasked with watching [PAWN_possessive] family's herds, but often shirked [PAWN_possessive] duties to go exploring the crashed warships scattered around the planet. -->
+  <WreckageExplorer93.description>[PAWN_nameDef] পরিবারে গবাদি পশু দেখাশোনার দায়িত্বে ছিলেন, কিন্তু প্রায়শই গ্রহের চারপাশে ছড়িয়ে ছিটিয়ে থাকা বিধ্বস্ত যুদ্ধজাহাজগুলি ঘুরে দেখার জন্য নিজের দায়িত্ব এড়িয়ে যেতেন।</WreckageExplorer93.description>
+  <!-- EN: wreckage explorer -->
+  <WreckageExplorer93.title>ধ্বংসাবশেষ অনুসন্ধানকারী</WreckageExplorer93.title>
+  <WreckageExplorer93.titleFemale>ধ্বংসাবশেষ অনুসন্ধানকারী</WreckageExplorer93.titleFemale>
+  <!-- EN: explorer -->
+  <WreckageExplorer93.titleShort>অভিযাত্রী</WreckageExplorer93.titleShort>
+  <WreckageExplorer93.titleShortFemale>অভিযাত্রী</WreckageExplorer93.titleShortFemale>
+  
+</LanguageData>

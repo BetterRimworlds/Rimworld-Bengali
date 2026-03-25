@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>নক্ষত্রযাত্রার মৌলিক বিষয়</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>একটি মহাকাশযানের কাঠামোগত ও সহায়ক উপাদান নির্মাণ করুন। এই নক্ষত্রমণ্ডল ত্যাগ করার জন্য জাহাজ তৈরির এটি প্রথম ধাপ।</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nA new Ship category is available in the Architect menu from which you may build ship parts once the appropriate technology is researched. Ships require several different parts in order to launch, including a ship reactor.\n\nShip reactors take 15 days to charge up and many desperate souls want off this planet. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
+  <ShipBasics.discoveredLetterText>এই গ্রহ থেকে পালাতে পারা—অবশেষে স্বাধীনতা, আর হয়তো ঘরে ফেরা।\n\nকিন্তু এটি ভয়াবহভাবে বিপজ্জনকও।\n\nআর্কিটেক্ট মেনুতে একটি নতুন ‘জাহাজ’ বিভাগ খুলেছে। প্রয়োজনীয় প্রযুক্তি গবেষণা করা হলে সেখান থেকে জাহাজের অংশ নির্মাণ করা যাবে। উৎক্ষেপণের জন্য জাহাজে বিভিন্ন অংশ দরকার, যার মধ্যে রয়েছে জাহাজ রিঅ্যাক্টর।\n\nজাহাজের রিঅ্যাক্টর চার্জ হতে ১৫ দিন সময় নেয়, আর বহু মরিয়া মানুষ এই গ্রহ ছাড়তে চায়। প্রক্রিয়া শুরু করলে রিঅ্যাক্টর এমন এক শক্তি-স্বাক্ষর নির্গত করবে যা হাজার হাজার কিলোমিটার দূর থেকেও ধরা পড়ে। আক্রমণকারীরা ঢেউয়ের পর ঢেউয়ে হামলা চালাবে—এমন তীব্রতায় যা আপনি আগে দেখেননি। মেকানয়েডরাও এই ধরনের শক্তি-স্বাক্ষরে আকৃষ্ট হয়।\n\nআপনি রিঅ্যাক্টর সক্রিয় না করা পর্যন্ত কিছু শুরু হবে না—কিন্তু শুরু হলে তা হবে নির্মম। বেঁচে পালাতে চাইলে আক্রমণের জন্য পর্যাপ্ত সম্পদ, অস্ত্র ও প্রতিরক্ষা মজুত করতে হবে।</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>সম্পর্কে: জাহাজ উৎক্ষেপণ</ShipBasics.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->starship structural engineering</li>
+    <li>subject_story->recruited starship engineers for a glitterworld fleet</li>
+    <li>subject_story->was a structural designer in an urbworld skyripper district</li>
+    <li>subject_story->harvested shipwrecks in the debris belt of a deadworld</li>
+    <li>subject_gerund->constructing starship structures</li>
+  -->
+  <ShipBasics.generalRules.rulesStrings>
+    <li>subject->মহাকাশযান প্রকৌশল</li>
+    <li>subject_FemMas->মহাকাশযান প্রকৌশল</li>
+    <li>subject_def->মহাকাশযান প্রকৌশলের</li>
+    <li>subject_def2->মহাকাশযান প্রকৌশলবিদ্যা</li>
+    <li>subject_story->সে একটি উজ্জ্বল বিশ্বের বহরের জন্য মহাকাশযান প্রকৌশলী নিয়োগ করেছিল।</li>
+    <li>subject_story->ছিল {ANYPAWN_gender ? el diseñador : la diseñadora} একটি শহুরে বিশ্বের আকাশচুম্বী জেলার মধ্যে কাঠামোগত</li>
+    <li>subject_story->একটি মৃত গ্রহের ধ্বংসাবশেষের বেল্ট থেকে সে মহাকাশযানের ধ্বংসাবশেষ পুনরুদ্ধার করেছে।</li>
+    <li>subject_gerund->মহাকাশযানের কাঠামো নির্মাণ</li>
+  </ShipBasics.generalRules.rulesStrings>
+  
+  <!-- EN: machine persuasion -->
+  <ShipComputerCore.label>যন্ত্র প্ররোচনা</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>একটি বিদ্যমান পারসোনা কোরকে জাহাজের যান্ত্রিক ক্যাপ্টেন হিসেবে কাজ করাতে প্ররোচিত করার জন্য পুরস্কার-সংকেত ব্যবস্থা নির্মাণ করুন। আন্তঃনাক্ষত্রিক যাত্রায় মানুষ ঘুমিয়ে থাকে, তাই বহু বছরের নক্ষত্রযাত্রার জটিল সিদ্ধান্ত নিতে একটি পারসোনা কোর অপরিহার্য।</ShipComputerCore.description>
+  <!-- EN:
+    <li>subject->persona core incentivization</li>
+    <li>subject->starship AI sanity maintenance</li>
+    <li>subject_story->regained control of an aberrant ship's core with careful reconditioning</li>
+    <li>subject_story->set up colony-management simulations to occupy the ship's core during the many years of interstellar travel</li>
+    <li>subject_story->kept a ship's core company during a 'short' interstellar trip, learning much about cores in the process</li>
+    <li>subject_gerund->incentivizing persona cores</li>
+    <li>subject_gerund->maintaining starship AI sanity</li>
+    <li>subject_gerund->constructing reward-signal systems</li>
+  -->
+  <ShipComputerCore.generalRules.rulesStrings>
+    <li>subject->কেন্দ্রীয় এআই কোর প্রণোদনা</li>
+    <li>subject_FemMas->কেন্দ্রীয় এআই কোরগুলির প্রণোদনা</li>
+    <li>subject->মহাকাশযানের কৃত্রিম বুদ্ধিমত্তা রক্ষণাবেক্ষণ</li>
+    <li>subject_FemMas->মহাকাশযানের কৃত্রিম বুদ্ধিমত্তার রক্ষণাবেক্ষণ</li>
+    <li>subject_def->কেন্দ্রীয় এআই কোর উৎসাহীকরণের</li>
+    <li>subject_def2->কেন্দ্রীয় এআই কোরকে উৎসাহিত করা</li>
+    <li>subject_def->মহাকাশযানের কৃত্রিম বুদ্ধিমত্তার রক্ষণাবেক্ষণ থেকে</li>
+    <li>subject_def2->মহাকাশযানের কৃত্রিম বুদ্ধিমত্তার রক্ষণাবেক্ষণে</li>
+    <li>subject_story->একটি সতর্কতামূলক সংস্কারের মাধ্যমে সে একটি বিপথে যাওয়া জাহাজের কোর পুনরুদ্ধার করেছে।</li>
+    <li>subject_story->আন্তঃনাক্ষত্রিক যাত্রার দীর্ঘ বছরগুলোতে মহাকাশযানের মূল অংশটি ব্যবহারের জন্য সে উপনিবেশ পরিচালনা বিষয়ক সিমুলেশন তৈরি করেছিল।</li>
+    <li>subject_story->সে একটি আন্তঃনাক্ষত্রিক "সংক্ষিপ্ত" যাত্রায় একটি জাহাজের মূল অংশের সাথে ছিল, এবং এই প্রক্রিয়ায় মূল অংশ সম্পর্কে অনেক কিছু শিখেছে।</li>
+    <li>subject_gerund->এআই কোর ইনসেনটিভ</li>
+    <li>subject_gerund->মহাকাশযানের কৃত্রিম বুদ্ধিমত্তা রক্ষণাবেক্ষণ</li>
+    <li>subject_gerund->পুরস্কার সংকেত ব্যবস্থার নির্মাণ</li>
+  </ShipComputerCore.generalRules.rulesStrings>
+  
+  <!-- EN: vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>ভ্যাকুয়াম ক্রিপ্টোঘুমের কফিন</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>শূন্যস্থানে উন্মুক্ত থাকার মতো যথেষ্ট মজবুত ক্রিপ্টোঘুমের কফিন নির্মাণ করুন—তারাদের মধ্যকার বহু বছরের যাত্রায় মানুষ পরিবহনের জন্য।</ShipCryptosleep.description>
+  <!-- EN:
+    <li>subject->starship-grade cryptosleep caskets</li>
+    <li>subject_story->replaced the failed cryptosleep caskets on the CMC Celeste, so the old generation ship could be used again</li>
+    <li>subject_story->was accidentally ejected in deep space, surviving in a self-designed casket for two months</li>
+    <li>subject_story->lectured on the differences between planetary- and starship-grade equipment</li>
+    <li>subject_gerund->constructing hardened cryptosleep caskets</li>
+  -->
+  <ShipCryptosleep.generalRules.rulesStrings>
+    <li>subject->মহাকাশযান-গ্রেডের ক্রিপ্টো-ঘুম কফিন</li>
+    <li>subject_FemMas->মহাকাশযান-গ্রেডের ক্রিপ্টো-ঘুমের কফিন</li>
+    <li>subject_def->মহাকাশযান-গ্রেডের ক্রিপ্টো-ঘুমের কফিন থেকে</li>
+    <li>subject_def2->মহাকাশযান-গ্রেডের ক্রিপ্টো-ঘুমের কফিনটিতে</li>
+    <li>subject_story->সেলestial CMC-তে ব্যর্থ ক্রিপ্টো-ঘুমের কফিনগুলো প্রতিস্থাপন করেছে, যাতে পুরনো প্রজন্মবাহী জাহাজটি আবার ব্যবহার করা যায়।</li>
+    <li>subject_story->দুর্ঘটনাক্রমে বহিষ্কার করা হল{ANYPAWN_gender ? o : a} গভীর স্থানে, নিজের নকশা করা একটি কফিনে টিকে থেকেছে{ANYPAWN_gender ? o : a} দুই মাস ধরে</li>
+    <li>subject_story->গ্রহীয় এবং মহাকাশযানের গ্রেডের সরঞ্জামের মধ্যে পার্থক্য নিয়ে তিনি একটি বক্তৃতা দিয়েছিলেন।</li>
+    <li>subject_gerund->ক্রিপ্টো-ঘুমের কফিন নির্মাণ</li>
+  </ShipCryptosleep.generalRules.rulesStrings>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>জনসন–তানাকা ড্রাইভ</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>একটি জাহাজের জন্য জনসন–তানাকা ড্রাইভ নির্মাণ করুন। এই JT ড্রাইভ কোয়ান্টাম-স্কেল প্রভাব কাজে লাগিয়ে দূরবর্তী তারাদের দিকে গতিবেগ প্রেরণ করে আপনাকে অন্য তারায় পৌঁছাতে সাহায্য করে। অবশ্য, সব নক্ষত্রযানের মতোই কোথাও পৌঁছাতে বহু বছর সময় লাগে।</ShipEngine.description>
+  <!-- EN:
+    <li>subject->Johnson-Tanaka theory</li>
+    <li>subject->exotic momentum transfer</li>
+    <li>subject_story->lectured in the university on Johnson, Tanaka and quantum-scale effects</li>
+    <li>subject_story->constructed a Johnson-Tanaka drive from first principles for a thesis</li>
+    <li>subject_story->maintained a Johnson-Tanaka drive for two decades, as the ship traveled between the stars</li>
+    <li>subject_gerund->constructing starship drives</li>
+  -->
+  <ShipEngine.generalRules.rulesStrings>
+    <li>subject->জনসন-তানাকা তত্ত্ব</li>
+    <li>subject_FemMas->জনসন-তানাকা তত্ত্ব</li>
+    <li>subject->মোমেন্টামের বহিরাগত স্থানান্তর</li>
+    <li>subject_FemMas->মোমেন্টামের বহিরাগত স্থানান্তর</li>
+    <li>subject_def->জনসন-তানাকা তত্ত্বের</li>
+    <li>subject_def2->জনসন-তানাকা তত্ত্ব অনুসারে</li>
+    <li>subject_def->মোমেন্টামের বহিরাগত স্থানান্তরের</li>
+    <li>subject_def2->মোমেন্টামের বহিরাগত স্থানান্তরে</li>
+    <li>subject_story->তিনি জনসন, তানাকা এবং কোয়ান্টাম স্কেলে প্রভাব নিয়ে বিশ্ববিদ্যালয়ে বক্তৃতা দিয়েছিলেন।</li>
+    <li>subject_story->সে একটি থিসিসের জন্য একদম প্রাথমিক পর্যায় থেকে একটি জনসন-তানাকা ইঞ্জিন তৈরি করেছিল।</li>
+    <li>subject_story->দু' দশক ধরে জনসন-তানাকা ইঞ্জিনটি বজায় রেখেছিল, যখন জাহাজটি তারাদের মধ্যে ভ্রমণ করছিল।</li>
+    <li>subject_gerund->মহাকাশযানের ইঞ্জিন নির্মাণ</li>
+  </ShipEngine.generalRules.rulesStrings>
+  
+  <!-- EN: starship reactor -->
+  <ShipReactor.label>মহাকাশযানের রিঅ্যাক্টর</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>একটি মহাকাশযান চালানোর জন্য দীর্ঘস্থায়ী পারমাণবিক রিঅ্যাক্টর নির্মাণ করুন। মনে রাখবেন, রিঅ্যাক্টরের দীর্ঘ স্টার্টআপ প্রক্রিয়া আক্রমণকারীদের আকৃষ্ট করবে।</ShipReactor.description>
+  <!-- EN:
+    <li>subject->starship nuclear reactor</li>
+    <li>subject_story->constructed a new reactor for a colony ship, but never lived to see it lift off</li>
+    <li>subject_story->defended the ship whilst the reactor span up, against raiders desperate to get off-world</li>
+    <li>subject_story->used a starship reactor as the back-up power for a genebank buried beneath the planet's ice-cap</li>
+    <li>subject_gerund->constructing starship reactors</li>
+  -->
+  <ShipReactor.generalRules.rulesStrings>
+    <li>subject->মহাকাশযানের পারমাণবিক চুল্লি</li>
+    <li>subject_FemMas->মহাকাশযানের পারমাণবিক চুল্লিগুলো</li>
+    <li>subject_def->মহাকাশযানের পারমাণবিক চুল্লিগুলির থেকে</li>
+    <li>subject_def2->মহাকাশযানের পারমাণবিক চুল্লিগুলোতে</li>
+    <li>subject_story->সে একটি ঔপনিবেশিক জাহাজের জন্য একটি নতুন রিঅ্যাক্টর তৈরি করেছিল, কিন্তু এটি উড্ডয়ন করার আগে সে মারা যায়।</li>
+    <li>subject_story->গ্রহ থেকে পালানোর জন্য মরিয়া লুটের বিরুদ্ধে তিনি জাহাজটি রক্ষা করেছিলেন যখন রিঅ্যাক্টর চালু হচ্ছিল।</li>
+    <li>subject_story->গ্রহের বরফের স্তরের নিচে চাপা পড়া একটি জিন ব্যাঙ্কের জন্য ব্যাকআপ শক্তি হিসেবে সে একটি মহাকাশযানের চুল্লি ব্যবহার করেছিল।</li>
+    <li>subject_gerund->মহাকাশযানের পারমাণবিক চুল্লি নির্মাণ</li>
+  </ShipReactor.generalRules.rulesStrings>
+  
+  <!-- EN: starflight sensors -->
+  <ShipSensorCluster.label>নক্ষত্রযাত্রার সেন্সর</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>একটি মহাকাশযানের জন্য দীর্ঘ-পাল্লার সেন্সর নির্মাণ করুন। নেভিগেশন, যোগাযোগ ও হুমকি এড়াতে এই সেন্সরগুলো অপরিহার্য।</ShipSensorCluster.description>
+  <!-- EN:
+    <li>subject->interstellar navigation</li>
+    <li>subject_story->used prototype starship sensors to detect an incoming extinction-level asteroid and evacuate the planet</li>
+    <li>subject_story->was employed as navigator and cook on a Glitterworld star-yacht</li>
+    <li>subject_story->refined the design of long-range sensors, improving their utility</li>
+    <li>subject_gerund->navigating interstellar space</li>
+    <li>subject_gerund->constructing starship sensors</li>
+  -->
+  <ShipSensorCluster.generalRules.rulesStrings>
+    <li>subject->আন্তঃনাক্ষত্রিক নেভিগেশন</li>
+    <li>subject_FemMas->আন্তঃনাক্ষত্রিক নেভিগেশন</li>
+    <li>subject_def->আন্তঃনাক্ষত্রিক নৌচালনা থেকে</li>
+    <li>subject_def2->আন্তঃনাক্ষত্রিক নেভিগেশনে</li>
+    <li>subject_story->তারা একটি আসন্ন গ্রহাণু সনাক্ত করতে এবং গ্রহটি খালি করতে স্টারশিপ প্রোটোটাইপ সেন্সর ব্যবহার করেছিল যা বিলুপ্তির কারণ হতে পারত।</li>
+    <li>subject_story->সে একটি উজ্জ্বল বিশ্বের একটি তারকা ইয়টে নাবিক এবং শেফ হিসাবে কাজ করত।</li>
+    <li>subject_story->দীর্ঘ পাল্লার সেন্সরগুলির নকশা উন্নত করেছিলেন, যা তাদের উপযোগিতা বৃদ্ধি করেছে।</li>
+    <li>subject_gerund->আন্তঃনাক্ষত্রিক স্থান-যাত্রা</li>
+    <li>subject_gerund->মহাকাশযানের সেন্সর নির্মাণ</li>
+  </ShipSensorCluster.generalRules.rulesStrings>
+  
+</LanguageData>

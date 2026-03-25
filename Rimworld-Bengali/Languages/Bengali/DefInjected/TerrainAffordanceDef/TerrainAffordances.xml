@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridgeable -->
+  <Bridgeable.label>সেতুযোগ্য</Bridgeable.label>
+  
+  <!-- EN: diggable -->
+  <Diggable.label>খননযোগ্য</Diggable.label>
+  
+  <!-- EN: growable -->
+  <GrowSoil.label>উৎপাদনযোগ্য</GrowSoil.label>
+  
+  <!-- EN: heavy -->
+  <Heavy.label>ভারী</Heavy.label>
+  
+  <!-- EN: light -->
+  <Light.label>আলো</Light.label>
+  
+  <!-- EN: medium -->
+  <Medium.label>মাধ্যম</Medium.label>
+  
+  <!-- EN: moving water -->
+  <MovingFluid.label>চলন্ত জল</MovingFluid.label>
+  
+  <!-- EN: shallow water -->
+  <ShallowWater.label>उथল জল</ShallowWater.label>
+  
+  <!-- EN: smoothable -->
+  <SmoothableStone.label>মসৃণযোগ্য</SmoothableStone.label>
+  
+  <!-- EN: walkable -->
+  <Walkable.label>চলার যোগ্য</Walkable.label>
+  
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduitable.label>জলরোধী নালী</WaterproofConduitable.label>
+  
+</LanguageData>

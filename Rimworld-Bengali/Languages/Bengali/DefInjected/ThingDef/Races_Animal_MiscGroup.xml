@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>আলফাবিভার</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>একটি বৃহৎ উদবিড়াল-সদৃশ প্রাণী, যা কাঠ সংগ্রহের জন্য যন্ত্রের মতো দক্ষতার সাথে জিনগতভাবে তৈরি করা হয়েছে। বিশেষ খাদ্য না পেলে, এই প্রাণীগুলো একটি उन्মত্ত অবস্থায় প্রবেশ করবে যা তাদের সম্পূর্ণ গাছ খেতে বাধ্য করবে, এবং বিরক্ত হলে তারা আক্রমণ করতে পারে।</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>বাম থাবা</Alphabeaver.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.left_claw.labelNoLocation>নখর</Alphabeaver.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>ডান থাবা</Alphabeaver.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.right_claw.labelNoLocation>নখর</Alphabeaver.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>মাথা</Alphabeaver.tools.head.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>কোবরা</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>এটি একটি বৃহৎ শিকারী সাপ। কোবরা উত্তেজিত হলে অত্যন্ত আক্রমণাত্মক হতে পারে এবং এর কামড় শিকারের শরীরে বিষাক্ত venom প্রবেশ করায়।</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>কোবরা মাংস</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>বিষদাঁত</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>মাথা</Cobra.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>থ্রাম্বো</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>একটি বিশাল, কমনীয় প্রাণী যার উৎস অজানা। থ্রাম্বো স্বভাবতই শান্ত, কিন্তু রাগান্বিত হলে অত্যন্ত বিপজ্জনক। এর লম্বা পশম ব্যতিক্রমী সুন্দর হলেও, এর চামড়া অবিশ্বাস্যভাবে ক্ষতিরোধী। এর ধারালো শিং একটি বিশাল মূল্যে বিক্রি হয়।\n\nকিংবদন্তি অনুসারে, একটি বয়স্ক থ্রাম্বো মহাবিশ্বের সবচেয়ে জ্ঞানী প্রাণী—এটি কেবল কথা বলতে না চাওয়ার সিদ্ধান্ত নেয়।</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>শিং</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>বাম পা</Thrumbo.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.left_foot.labelNoLocation>পায়ের অংশ</Thrumbo.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>ডান পা</Thrumbo.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.right_foot.labelNoLocation>পাদ</Thrumbo.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>মাথা</Thrumbo.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>কচ্ছপ</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>এই ভারী বর্মযুক্ত স্থলচর সরীসৃপটি ধীর গতির এবং আশ্চর্যজনকভাবে হিংস্র কামড়ের জন্য পরিচিত। এর স্বাভাবিক বর্মের কারণে, একে হত্যা করা কঠিন এবং দীর্ঘায়িত নিকট যুদ্ধে গুরুতর ক্ষতি করতে সক্ষম।</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>ঠোঁট</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>মাথা</Tortoise.tools.head.label>
+  
+</LanguageData>

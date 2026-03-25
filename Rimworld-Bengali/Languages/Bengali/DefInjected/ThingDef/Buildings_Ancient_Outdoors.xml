@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient air conditioner -->
+  <AncientAirConditioner.label>প্রাচীন শীতাতপ নিয়ন্ত্রণক</AncientAirConditioner.label>
+  <!-- EN: An ancient air conditioning machine. Its internals were smashed long ago and what wasn't looted has rusted away in the time since. -->
+  <AncientAirConditioner.description>এটি একটি প্রাচীন শীতাতপ নিয়ন্ত্রণ যন্ত্র। এর ভেতরের অংশগুলো বহু আগে ভেঙে চুরমার হয়ে গেছে এবং যা লুট করা হয়নি, তা সময়ের সাথে সাথে জং ধরে নষ্ট হয়ে গেছে।</AncientAirConditioner.description>
+  
+  <!-- EN: ancient ruined APC -->
+  <AncientAPC.label>প্রাচীন ধ্বংসপ্রাপ্ত এপিসি</AncientAPC.label>
+  <!-- EN: The remains of an ancient armored troop carrier which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientAPC.description>প্রাচীন সাঁজোয়া সৈন্যবহনকারী যানটির ধ্বংসাবশেষ, যা কোনো ভারী অস্ত্রের দ্বারা ধ্বংস হয়েছিল। বহু আগে থেকেই এর সমস্ত ব্যবহারযোগ্য উপাদান লুট করা হয়েছে অথবা নষ্ট হয়ে গেছে।</AncientAPC.description>
+  
+  <!-- EN: ancient ATM -->
+  <AncientATM.label>প্রাচীন এটিএম</AncientATM.label>
+  <!-- EN: An ancient ATM. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientATM.description>একটি প্রাচীন এটিএম। ভাঙা ও মরিচা ধরায় এটি এখন সম্পূর্ণভাবে অকেজো।\n\nএটি এখানে কীভাবে এল, তা বলা কঠিন।</AncientATM.description>
+  
+  <!-- EN: ancient dropship engine -->
+  <AncientDropshipEngine.label>প্রাচীন ড্রপশিপ ইঞ্জিন</AncientDropshipEngine.label>
+  <!-- EN: An ancient dropship engine. It probably came off a military troop carrier. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <AncientDropshipEngine.description>এটি একটি প্রাচীন ড্রপশিপ ইঞ্জিন। সম্ভবত এটি কোনো সামরিক সৈন্যবহনকারী জাহাজ থেকে খুলে আনা হয়েছে। এর সূক্ষ্ম অভ্যন্তরীণ অংশগুলো মরিচা পড়ে ব্যবহারের অযোগ্য হয়ে গেছে, এবং মূল্যবান অংশগুলো অনেক আগে লুট করা হয়েছে।</AncientDropshipEngine.description>
+  
+  <!-- EN: ancient fence -->
+  <AncientFence.label>প্রাচীন বেড়া</AncientFence.label>
+  <!-- EN: An ancient fence made of reinforced concrete posts joined by concrete panels. -->
+  <AncientFence.description>প্রাচীন কংক্রিট স্তম্ভ এবং কংক্রিট প্যানেল দ্বারা গঠিত একটি বেড়া।</AncientFence.description>
+  
+  <!-- EN: ancient giant wheel -->
+  <AncientGiantWheel.label>প্রাচীন বিশাল চাকা</AncientGiantWheel.label>
+  <!-- EN: A giant wheel which came off some large vehicle many ages ago. The rubber has disintegrated away and the metal is twisted and rusted. -->
+  <AncientGiantWheel.description>বহু যুগ আগে কোনো বৃহৎ যান থেকে খুলে আসা একটি বিশাল চাকা। রাবার সম্পূর্ণরূপে নষ্ট হয়ে গেছে এবং ধাতুটি বাঁকা ও মরিচা ধরা।</AncientGiantWheel.description>
+  
+  <!-- EN: ancient hydrant -->
+  <AncientHydrant.label>প্রাচীন হাইড্রেন্ট</AncientHydrant.label>
+  <!-- EN: An ancient hydrant. Heavily rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientHydrant.description>একটি প্রাচীন হাইড্রেন্ট। মারাত্মকভাবে জং ধরে এটি এখন সম্পূর্ণভাবে অকেজো।\n\nএটি এখানে কীভাবে এল তা বলা কঠিন।</AncientHydrant.description>
+  
+  <!-- EN: ancient jet engine -->
+  <AncientJetEngine.label>প্রাচীন জেট ইঞ্জিন</AncientJetEngine.label>
+  <!-- EN: An ancient jet engine, probably detached from a large airplane. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <AncientJetEngine.description>একটি প্রাচীন জেট ইঞ্জিন, সম্ভবত একটি বড় বিমান থেকে বিচ্ছিন্ন। এর সূক্ষ্ম অভ্যন্তরীণ অংশগুলি মরিচা ধরে ব্যবহারের অযোগ্য হয়ে গেছে, এবং মূল্যবান অংশগুলি অনেক আগে লুট করা হয়েছে।</AncientJetEngine.description>
+  
+  <!-- EN: ancient container -->
+  <AncientLargeContainer.label>প্রাচীন পাত্র</AncientLargeContainer.label>
+  <!-- EN: A shipping container from some ancient freight-carrying vehicle. It has long since deteriorated into uselessness. -->
+  <AncientLargeContainer.description>এটি কোনো প্রাচীন মালবাহী গাড়ির শিপিং কন্টেইনার। এটি বহু আগে থেকেই ব্যবহারের অযোগ্য হয়ে গেছে।</AncientLargeContainer.description>
+  
+  <!-- EN: ancient large crate -->
+  <AncientLargeCrate.label>প্রাচীন বৃহৎ বাক্স</AncientLargeCrate.label>
+  <!-- EN: A large crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <AncientLargeCrate.description>বহু বছর আগে পরিত্যক্ত একটি বড় বাক্স। এটি এতটাই জং ধরেছে যে, এর মধ্যে কিছু রাখা সম্ভব নয়।</AncientLargeCrate.description>
+  
+  <!-- EN: ancient macro-engine block -->
+  <AncientLargeRustedEngineBlock.label>প্রাচীন ম্যাক্রো-ইঞ্জিন ব্লক</AncientLargeRustedEngineBlock.label>
+  <!-- EN: A large, ancient engine block from some giant vehicle or power source. It's rusted through, and all the useful components are gone. No repair could salvage this. -->
+  <AncientLargeRustedEngineBlock.description>এটি কোনো বিশাল যান বা পাওয়ার উৎসের একটি বড়, প্রাচীন ইঞ্জিন ব্লক। এটি মরিচা ধরে গেছে, এবং সমস্ত ব্যবহারযোগ্য উপাদানGone। কোনো মেরামত এটিকে পুনরুদ্ধার করতে পারবে না।</AncientLargeRustedEngineBlock.description>
+  
+  <!-- EN: ancient long crate -->
+  <AncientLongCrate.label>প্রাচীন লম্বা বাক্স</AncientLongCrate.label>
+  <!-- EN: A long, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <AncientLongCrate.description>বহু আগে পরিত্যক্ত একটি লম্বা, খালি বাক্স। এটি এতটাই জং ধরেছে যে, এর মধ্যে আর কিছু সংরক্ষণ করা যায় না।</AncientLongCrate.description>
+  
+  <!-- EN: ancient mega-cannon barrel -->
+  <AncientMegaCannonBarrel.label>প্রাচীন মেগা-ক্যানন ব্যারেল</AncientMegaCannonBarrel.label>
+  <!-- EN: A barrel from a long-range cannon for artillery or anti-ship use. When it was new, it must have been frighteningly powerful. Now, it's far beyond repair and every useful component has been looted. -->
+  <AncientMegaCannonBarrel.description>এটি কামান বা জাহাজ-বিরোধী ব্যবহারের জন্য দূরপাল্লার তোপের একটি ব্যারেল। নতুন অবস্থায়, এটি ভয়ংকর শক্তিশালী ছিল। এখন, এটি মেরামত করার অতীত এবং প্রতিটি দরকারী উপাদান লুট করা হয়েছে।</AncientMegaCannonBarrel.description>
+  
+  <!-- EN: ancient mega-cannon platform -->
+  <AncientMegaCannonTripod.label>প্রাচীন মেগা-ক্যানন প্ল্যাটফর্ম</AncientMegaCannonTripod.label>
+  <!-- EN: A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago. -->
+  <AncientMegaCannonTripod.description>এটি একটি মাউন্টিং প্ল্যাটফর্ম যা একসময় কোনো না কোনো কামান ধরে রাখত। এটি বহু বছর ধরে ভেঙে গেছে এবং এর সমস্ত প্রয়োজনীয় উপাদান অনেক আগে লুট করা হয়েছে।</AncientMegaCannonTripod.description>
+  
+  <!-- EN: ancient warsprinter remains -->
+  <AncientMiniWarwalkerRemains.label>প্রাচীন ওয়ারস্প্রিন্টার অবশেষ</AncientMiniWarwalkerRemains.label>
+  <!-- EN: The shattered remains of an ancient sub-scale warsprinter. Whatever parts weren't ruined when it was destroyed were looted long ago. -->
+  <AncientMiniWarwalkerRemains.description>একটি প্রাচীন, ছোট আকারের ওয়ার্সপ্রিন্টারের ভগ্নাবশেষ। ধ্বংসের সময় যে অংশগুলো ক্ষতিগ্রস্ত হয়নি, সেগুলো বহু আগে লুট করা হয়েছে।</AncientMiniWarwalkerRemains.description>
+  
+  <!-- EN: ancient pipeline section -->
+  <AncientPipelineSection.label>প্রাচীন পাইপলাইন অংশ</AncientPipelineSection.label>
+  <!-- EN: A section from an ancient pipeline. It once carried some valuable fluid over long distances. Now it's been looted and deteriorated to uselessness. -->
+  <AncientPipelineSection.description>প্রাচীন পাইপলাইনের একটি অংশ। এটি একসময় দীর্ঘ দূরত্বে মূল্যবান তরল বহন করত। এখন এটি লুণ্ঠিত হয়েছে এবং ব্যবহারের অযোগ্য হয়ে গেছে।</AncientPipelineSection.description>
+  
+  <!-- EN: ancient pipes -->
+  <AncientPipes.label>প্রাচীন পাইপ</AncientPipes.label>
+  <!-- EN: A bunch of rusted old pipes. It is hard to say how these ended up here. -->
+  <AncientPipes.description>পুরোনো কিছু মরিচা ধরা পাইপ। এগুলো এখানে কীভাবে এল, তা বলা কঠিন।</AncientPipes.description>
+  
+  <!-- EN: ancient pod car -->
+  <AncientPodCar.label>প্রাচীন পড কার</AncientPodCar.label>
+  <!-- EN: An ancient pod car once capable of automated flight. Its valuable parts were looted long ago, and the rest is badly deteriorated. -->
+  <AncientPodCar.description>একসময় স্বয়ংক্রিয়ভাবে উড়তে সক্ষম একটি প্রাচীন পড কার। এর মূল্যবান অংশগুলো বহু আগে লুট করা হয়েছে, এবং বাকিটা মারাত্মকভাবে ক্ষতিগ্রস্ত হয়েছে।</AncientPodCar.description>
+  
+  <!-- EN: ancient postbox -->
+  <AncientPostbox.label>প্রাচীন পোস্টবক্স</AncientPostbox.label>
+  <!-- EN: An ancient postbox, smashed and deteriorated to uselessness. It seems to have been moved here long ago for some unknown reason. -->
+  <AncientPostbox.description>একটি প্রাচীন পোস্টবক্স, যা ভেঙে গেছে এবং ব্যবহারের অযোগ্য হয়ে পড়েছে। মনে হয় কোনো এক অজানা কারণে এটি বহু আগে এখানে সরানো হয়েছিল।</AncientPostbox.description>
+  
+  <!-- EN: ancient razor wire -->
+  <AncientRazorWire.label>প্রাচীন রেজার তার</AncientRazorWire.label>
+  <!-- EN: A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger. -->
+  <AncientRazorWire.description>প্রাচীন রেজার তারের একটি অংশ। এটি বহু বছর ধরে ক্ষয়ক্ষতি হচ্ছে এবং এখন আর কোনো বিপদ সৃষ্টি করে না।</AncientRazorWire.description>
+  
+  <!-- EN: ancient car -->
+  <AncientRustedCar.label>প্রাচীন গাড়ি</AncientRustedCar.label>
+  <!-- EN: An ancient, broken car. Everything that isn't rusted away was looted long ago. -->
+  <AncientRustedCar.description>একটি প্রাচীন, ভাঙা গাড়ি। যা মরিচা ধরেনি, তা অনেক আগে লুট করা হয়েছে।</AncientRustedCar.description>
+  
+  <!-- EN: ancient car frame -->
+  <AncientRustedCarFrame.label>প্রাচীন গাড়ির কাঠামো</AncientRustedCarFrame.label>
+  <!-- EN: An ancient, rusted car frame. The body shell has long since rusted away to nothing. -->
+  <AncientRustedCarFrame.description>একটি প্রাচীন, জং ধরা গাড়ির কাঠামো। গাড়ির কাঠামোটি বহু আগে সম্পূর্ণরূপে জং-এ ক্ষয় হয়ে গেছে।</AncientRustedCarFrame.description>
+  
+  <!-- EN: ancient dropship -->
+  <AncientRustedDropship.label>প্রাচীন ড্রপশিপ</AncientRustedDropship.label>
+  <!-- EN: The remains of an ancient dropship. The valuable parts were looted long ago and the rest has deteriorated to uselessness. -->
+  <AncientRustedDropship.description>প্রাচীন একটি ড্রপশিপের ধ্বংসাবশেষ। মূল্যবান অংশগুলো বহু আগে লুট করা হয়েছে এবং বাকিটা ব্যবহারের অযোগ্য হয়ে গেছে।</AncientRustedDropship.description>
+  
+  <!-- EN: ancient engine block -->
+  <AncientRustedEngineBlock.label>প্রাচীন ইঞ্জিন ব্লক</AncientRustedEngineBlock.label>
+  <!-- EN: An ancient engine block that is rusted through. No repair could salvage this. -->
+  <AncientRustedEngineBlock.description>পুরোনো ইঞ্জিন ব্লকটি মরিচায় ক্ষয়প্রাপ্ত, একে মেরামত করা সম্ভব নয়।</AncientRustedEngineBlock.description>
+  
+  <!-- EN: ancient troop carrier -->
+  <AncientRustedJeep.label>প্রাচীন সৈন্যবাহক যান</AncientRustedJeep.label>
+  <!-- EN: An ancient, broken troop carrier. Everything that isn't rusted away was looted long ago. -->
+  <AncientRustedJeep.description>একটি প্রাচীন, ভাঙা সৈন্য পরিবহনকারী যান। যা মরিচা ধরেনি, সবকিছু বহু আগে লুট করা হয়েছে।</AncientRustedJeep.description>
+  
+  <!-- EN: ancient truck -->
+  <AncientRustedTruck.label>প্রাচীন ট্রাক</AncientRustedTruck.label>
+  <!-- EN: An ancient, broken truck. Everything useful either rusted away or was looted long ago. -->
+  <AncientRustedTruck.description>একটি প্রাচীন, ভাঙা ট্রাক। এর সবকিছুই হয়তো মরিচা পড়ে নষ্ট হয়ে গেছে, অথবা বহু আগে লুটপাট করা হয়েছে।</AncientRustedTruck.description>
+  
+  <!-- EN: ancient nav beacon -->
+  <AncientShipBeacon.label>প্রাচীন নেভিগেশন বাতি</AncientShipBeacon.label>
+  <!-- EN: An ancient, broken ship navigation beacon. Every useful component was looted long ago. -->
+  <AncientShipBeacon.description>একটি প্রাচীন, ভাঙা জাহাজ নেভিগেশন বীকন। এর প্রতিটি প্রয়োজনীয় উপাদান বহু আগে লুট করা হয়েছে।</AncientShipBeacon.description>
+  
+  <!-- EN: ancient shopping cart -->
+  <AncientShoppingCart.label>প্রাচীন শপিং কার্ট</AncientShoppingCart.label>
+  <!-- EN: An ancient, rusted shopping cart. How exactly it got here is a mystery, but the story is long and probably quite sad. -->
+  <AncientShoppingCart.description>একটি প্রাচীন, মরিচা ধরা শপিং কার্ট। এটি ঠিক কীভাবে এখানে এল তা একটি রহস্য, তবে এর পেছনের গল্পটি দীর্ঘ এবং সম্ভবত বেশ দুঃখজনক।</AncientShoppingCart.description>
+  
+  <!-- EN: ancient small crate -->
+  <AncientSmallCrate.label>প্রাচীন ছোট বাক্স</AncientSmallCrate.label>
+  <!-- EN: A small, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <AncientSmallCrate.description>বহু আগে পরিত্যক্ত একটি ছোট, খালি বাক্স। এটি এতটাই জং ধরেছে যে, এর মধ্যে কিছু সংরক্ষণ করা সম্ভব নয়।</AncientSmallCrate.description>
+  
+  <!-- EN: ancient ruined tank -->
+  <AncientTank.label>প্রাচীন ধ্বংসপ্রাপ্ত ট্যাঙ্ক</AncientTank.label>
+  <!-- EN: The remains of an ancient tank which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientTank.description>প্রাচীন একটি ট্যাংকের ধ্বংসাবশেষ, যা কোনো ভারী অস্ত্র দ্বারা ধ্বংস করা হয়েছিল। বহু আগে থেকেই সমস্ত ব্যবহারযোগ্য উপাদান লুট করা হয়েছে অথবা নষ্ট হয়ে গেছে।</AncientTank.description>
+  
+  <!-- EN: ancient tank trap -->
+  <AncientTankTrap.label>প্রাচীন ট্যাঙ্ক ফাঁদ</AncientTankTrap.label>
+  <!-- EN: An defensive fortification for stopping vehicles. It's been deteriorating for many years. -->
+  <AncientTankTrap.description>এটি যানবাহন থামানোর জন্য একটি প্রতিরক্ষামূলক দুর্গ। এটি বহু বছর ধরে ধীরে ধীরে নষ্ট হয়ে যাচ্ছে।</AncientTankTrap.description>
+  
+  <!-- EN: ancient toilet -->
+  <AncientToilet.label>প্রাচীন শৌচাগার</AncientToilet.label>
+  <!-- EN: An ancient toilet. Smashed long ago, it is completely useless now. -->
+  <AncientToilet.description>এটি একটি প্রাচীন শৌচাগার। বহু আগে ভেঙে যাওয়ায় এটি এখন সম্পূর্ণভাবে অকেজো।</AncientToilet.description>
+  
+  <!-- EN: ancient vending machine -->
+  <AncientVendingMachine.label>প্রাচীন ভেন্ডিং মেশিন</AncientVendingMachine.label>
+  <!-- EN: An ancient vending machine. It was smashed ages ago and generations of looters have taken every conceivably useful part. How it ended up here is a mystery. -->
+  <AncientVendingMachine.description>এটি একটি প্রাচীন ভেন্ডিং মেশিন। এটি বহু যুগ আগে ভেঙে ফেলা হয়েছিল এবং প্রজন্মের পর প্রজন্ম ধরে লুটপাটকারীরা এর থেকে সম্ভাব্য প্রতিটি দরকারি অংশ নিয়ে গেছে। এটি এখানে কীভাবে এল, তা এক রহস্য।</AncientVendingMachine.description>
+  
+  <!-- EN: ancient warspider remains -->
+  <AncientWarspiderRemains.label>প্রাচীন যুদ্ধ মাকড়সা অবশেষ</AncientWarspiderRemains.label>
+  <!-- EN: The ruined remains of an ancient mid-scale warspider. It has been picked over many times, and there is nothing valuable left to loot. -->
+  <AncientWarspiderRemains.description>এটি একটি প্রাচীন মধ্যম আকারের ওয়ারস্পাইডারের ধ্বংসাবশেষ, বহুবার লুণ্ঠন করা হয়েছে এবং লুট করার মতো আর কিছুই অবশিষ্ট নেই।</AncientWarspiderRemains.description>
+  
+  <!-- EN: ancient warwalker claw -->
+  <AncientWarwalkerClaw.label>প্রাচীন যুদ্ধকারী নখর</AncientWarwalkerClaw.label>
+  <!-- EN: The assault claw of an ancient mid-scale warwalker. This weapon specialized in tearing through heavy plasteel armor at close range. Its valuable components were looted long ago. -->
+  <AncientWarwalkerClaw.description>প্রাচীন মধ্যম আকারের যুদ্ধযানের একটি আক্রমণকারী নখর। এই অস্ত্রটি স্বল্প পরিসরে ভারী প্লাস্টিল বর্ম ছিঁড়ে ফেলার জন্য বিশেষভাবে তৈরি করা হয়েছিল। এর মূল্যবান উপাদানগুলি অনেক আগে লুট করা হয়েছে।</AncientWarwalkerClaw.description>
+  
+  <!-- EN: ancient warwalker foot -->
+  <AncientWarwalkerFoot.label>প্রাচীন যুদ্ধকারী পদ</AncientWarwalkerFoot.label>
+  <!-- EN: A massive foot from an ancient warwalker. It seems to have been torn free from its owner by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientWarwalkerFoot.description>প্রাচীন ওয়ারওয়াকারের একটি বিশাল পা। মনে হচ্ছে কোনো ভারী অস্ত্রের মাধ্যমে এটি তার মালিক থেকে ছিন্ন হয়ে গেছে। এর সমস্ত প্রয়োজনীয় উপাদান বহু আগে লুট করা হয়েছে অথবা নষ্ট হয়ে গেছে।</AncientWarwalkerFoot.description>
+  
+  <!-- EN: ancient warwalker leg -->
+  <AncientWarwalkerLeg.label>প্রাচীন যুদ্ধকারী অঙ্গ</AncientWarwalkerLeg.label>
+  <!-- EN: The shattered leg of a mid-scale warwalker that fell here long ago. It has been picked clean by looters, and no valuable components remain. -->
+  <AncientWarwalkerLeg.description>বহু আগে এখানে পতিত হওয়া একটি মাঝারি আকারের যুদ্ধযানের ভাঙা পা। এটি সম্পূর্ণরূপে লooter-দের দ্বারা পরিষ্কার করা হয়েছে, এবং মূল্যবান উপাদান কিছুই অবশিষ্ট নেই।</AncientWarwalkerLeg.description>
+  
+  <!-- EN: ancient warwalker shell -->
+  <AncientWarwalkerShell.label>প্রাচীন যুদ্ধযানের খোলস</AncientWarwalkerShell.label>
+  <!-- EN: Most of the armored shell of a warwalker. It appears to have been torn off by some colossal weapon system. All the valuable parts were looted, and the rest is badly deteriorated. -->
+  <AncientWarwalkerShell.description>যুদ্ধচালকের বর্মের বেশিরভাগ অংশ। দেখে মনে হচ্ছে কোনো বিশাল অস্ত্রব্যবস্থা দিয়ে এটি ছিন্ন করা হয়েছে। মূল্যবান সমস্ত অংশ লুট করা হয়েছে, এবং অবশিষ্ট অংশগুলো মারাত্মকভাবে ক্ষতিগ্রস্ত হয়েছে।</AncientWarwalkerShell.description>
+  
+  <!-- EN: ancient warwalker torso -->
+  <AncientWarwalkerTorso.label>প্রাচীন যুদ্ধকারী ধড়</AncientWarwalkerTorso.label>
+  <!-- EN: The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago. -->
+  <AncientWarwalkerTorso.description>বহু প্রাচীনকালে এখানে পতিত হওয়া একটি মধ্যম আকারের যুদ্ধযানের ধড়। মূল্যবান অংশগুলো বহু আগে লুট করা হয়েছে।</AncientWarwalkerTorso.description>
+  
+  <!-- EN: ancient washing machine -->
+  <AncientWashingMachine.label>প্রাচীন ওয়াশিং মেশিন</AncientWashingMachine.label>
+  <!-- EN: An ancient device used for washing textiles. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientWashingMachine.description>প্রাচীন বস্ত্র ধোয়ার জন্য ব্যবহৃত একটি যন্ত্র। ভাঙা ও মরিচা ধরায় এটি এখন সম্পূর্ণভাবে অকেজো।\n\nএটি কীভাবে এখানে এল, তা বলা কঠিন।</AncientWashingMachine.description>
+  
+  <!-- EN: ancient wheel -->
+  <AncientWheel.label>প্রাচীন চাকা</AncientWheel.label>
+  <!-- EN: An ancient wheel from some kind of vehicle. The rubber has deteriorated away and the metal is twisted and rusted. -->
+  <AncientWheel.description>এটি কোনো প্রকার যানবাহনের একটি প্রাচীন চাকা। এর রাবার নষ্ট হয়ে গেছে এবং ধাতুটি বাঁকা ও মরিচা ধরা।</AncientWheel.description>
+  
+  <!-- EN: mechanoid slag chunk -->
+  <ChunkMechanoidSlag.label>মেকানোইড শ্ল্যাগ খণ্ড</ChunkMechanoidSlag.label>
+  <!-- EN: The remains of a smashed mechanoid. While useless in its current form, it can be smelted to recover steel. -->
+  <ChunkMechanoidSlag.description>একটি বিধ্বস্ত মেকানোইডের অবশেষ। বর্তমানে এটি ব্যবহারের অযোগ্য হলেও, ইস্পাত পুনরুদ্ধারের জন্য এটিকে গলানো যেতে পারে।</ChunkMechanoidSlag.description>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Main -->
+  <Main.label>প্রধান</Main.label>
+  <!-- EN: Unlock new technologies by researching at a research bench. You can only have one active project at a time. -->
+  <Main.generalDescription>গবেষণা বেঞ্চে গবেষণা করে নতুন প্রযুক্তি আনলক করা যায়। একই সময়ে শুধুমাত্র একটি প্রকল্প সক্রিয় থাকতে পারে।</Main.generalDescription>
+  <!-- EN: Main research projects -->
+  <Main.generalTitle>প্রধান গবেষণা প্রকল্পসমূহ</Main.generalTitle>
+  
+</LanguageData>

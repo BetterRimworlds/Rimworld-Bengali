@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset. -->
+  <Assassin20.description>[PAWN_nameDef] একজন পেশাদার গুপ্তঘাতক ছিলেন। তিনি ছিলেন ঠান্ডা, হিসাবকষাকারী এবং ভালো লাভ করতেন। এই ব্যবসায়, সম্পূর্ণ সহানুভূতিহীনতা একটি সম্পদ ছিল।</Assassin20.description>
+  <!-- EN: assassin -->
+  <Assassin20.title>ঘাতক assassin</Assassin20.title>
+  <Assassin20.titleFemale>ঘাতক assassin</Assassin20.titleFemale>
+  <!-- EN: assassin -->
+  <Assassin20.titleShort>ঘাতক</Assassin20.titleShort>
+  <Assassin20.titleShortFemale>ঘাতক</Assassin20.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was used for [PAWN_possessive] body by hundreds of customers in brothels on several planets. [PAWN_pronoun] gained some mental marks and a special kind of street smarts. -->
+  <Gigolo30.description>[PAWN_nameDef] বিভিন্ন গ্রহে বেশ কয়েকজন গ্রাহকের দ্বারা যৌনকর্মের জন্য ব্যবহৃত হয়েছিলেন। এতে [PAWN_nameDef] এর মানসিক স্বাস্থ্যের ওপর কিছু আঘাত লেগেছে এবং একইসাথে [PAWN_nameDef] বিশেষ ধরণের বাস্তববুদ্ধি অর্জন করেছেন।</Gigolo30.description>
+  <!-- EN: gigolo -->
+  <Gigolo30.title>গিগোলো</Gigolo30.title>
+  <!-- EN: gigolo -->
+  <Gigolo30.titleFemale>গিগোলো</Gigolo30.titleFemale>
+  <!-- EN: courtesan -->
+  <Gigolo30.titleShort>বেশ্যাবৃত্তি</Gigolo30.titleShort>
+  <!-- EN: courtesan -->
+  <Gigolo30.titleShortFemale>বেশ্যা</Gigolo30.titleShortFemale>
+  
+  <!-- EN: There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. [PAWN_nameDef] discovered that there is great profit to be made, however, from those who are uninterested in these laws. -->
+  <IllegalShipwright76.description>এমন একটি আইন আছে যা বলে কার্গো স্কাউ-তে টেরাওয়াট-রেঞ্জের গ্র্যাসার বসানো যাবে না। বিশেষ করে যদি সেগুলোকে অ্যামবুশের জন্য ভালো অবস্থানে থাকার উদ্দেশ্যে কমিউনিকেশন ডিশের মতো দেখতে কিছুর নিচে লুকানো হয়। [PAWN_nameDef] আবিষ্কার করেছেন যে যারা এই আইনগুলিতে আগ্রহী নন, তাদের কাছ থেকে প্রচুর লাভ করা যেতে পারে।</IllegalShipwright76.description>
+  <!-- EN: illegal shipwright -->
+  <IllegalShipwright76.title>অবৈধ জাহাজwright</IllegalShipwright76.title>
+  <!-- EN: shipwright -->
+  <IllegalShipwright76.titleShort>জাহাজ নির্মাতা</IllegalShipwright76.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was nine years old when [PAWN_pronoun] got in [PAWN_possessive] first fight. [PAWN_pronoun] won, but more important was the enjoyment of [PAWN_possessive] audience. Pit fighting turned out to be a lucrative career for those who could survive it. And it was even mostly legal. -->
+  <PitBrawler76.description>[PAWN_nameDef] যখন neuf বছর বয়সে প্রথম মারামারিতে জড়িয়ে পড়েছিল। সে জিতেছিল, কিন্তু তার দর্শকদের আনন্দ ছিল আরও গুরুত্বপূর্ণ। পিট ফাইটিং তাদের জন্য একটি লাভজনক পেশা হিসেবে প্রমাণিত হয়েছিল যারা এটি থেকে বাঁচতে পারত। এবং এটি বেশিরভাগ ক্ষেত্রেই আইনসম্মত ছিল।</PitBrawler76.description>
+  <!-- EN: pit brawler -->
+  <PitBrawler76.title>গর্তের মারামারি খেলোয়াড়</PitBrawler76.title>
+  <PitBrawler76.titleFemale>গর্তের মারামারি খেলোয়াড়</PitBrawler76.titleFemale>
+  <!-- EN: brawler -->
+  <PitBrawler76.titleShort>মুষ্টিযোদ্ধা</PitBrawler76.titleShort>
+  <PitBrawler76.titleShortFemale>মুষ্টিযোদ্ধা</PitBrawler76.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a warrior in an Imperial navy. [PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it. -->
+  <SpaceMarine16.description>[PAWN_nameDef] ছিলেন একটি সাম্রাজ্যীয় নৌবাহিনীর যোদ্ধা। তাঁদের কাজ ছিল শত্রুদের মহাকাশযানে আক্রমণ করা, নাবিকদের নিকেশ করা এবং অক্ষত অবস্থায় জাহাজটি দখল করা। আর তাঁরা এতে দক্ষ ছিলেন।</SpaceMarine16.description>
+  <!-- EN: space marine -->
+  <SpaceMarine16.title>মহাকাশ মেরিন</SpaceMarine16.title>
+  <!-- EN: marine -->
+  <SpaceMarine16.titleShort>সমুদ্রিক পদাতিক</SpaceMarine16.titleShort>
+  
+  <!-- EN: Piracy appears everywhere that governments are weak and society spread thin. [PAWN_nameDef] was part of this age-old part of human existence, extorting and smashing peaceful trade ships for profit. -->
+  <SpacePirate55.description>দুর্বল সরকার এবং বিক্ষিপ্ত সমাজের সর্বত্রই জলদস্যুতা দেখা যায়। [PAWN_nameDef] এই মানব ইতিহাসের প্রাচীন অংশের একজন ছিলেন, শান্তিপূর্ণ বাণিজ্য জাহাজগুলি থেকে লাভবান হওয়ার জন্য চাঁদাবাজি ও ধ্বংসযজ্ঞ চালাতেন।</SpacePirate55.description>
+  <!-- EN: space pirate -->
+  <SpacePirate55.title>মহাকাশ জলদস্যু</SpacePirate55.title>
+  <SpacePirate55.titleFemale>মহাকাশ জলদস্যু</SpacePirate55.titleFemale>
+  <!-- EN: pirate -->
+  <SpacePirate55.titleShort>জলদস্যু</SpacePirate55.titleShort>
+  <SpacePirate55.titleShortFemale>জলদস্যু</SpacePirate55.titleShortFemale>
+  
+</LanguageData>

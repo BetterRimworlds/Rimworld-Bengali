@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic animal pulser -->
+  <PsychicAnimalPulser.label>মানসিক পশু পালসার</PsychicAnimalPulser.label>
+  <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
+  <PsychicAnimalPulser.description>এটি একবার ব্যবহারযোগ্য বিস্তৃত-তরঙ্গ মানসিক প্রভাব সৃষ্টিকারী যন্ত্র। মানসিক স্পন্দন দুর্বল মনগুলিকে ভীতিকর চিত্র দিয়ে পূর্ণ করে, যা অঞ্চলের সমস্ত প্রাণীকে মানুষ শিকারী রাগে চালিত করে। বর্তমানে আপনার নিয়ন্ত্রণে থাকা প্রাণীগুলি প্রভাবিত হবে না।</PsychicAnimalPulser.description>
+  <!-- EN: Activate {0_label} -->
+  <PsychicAnimalPulser.comps.CompUsable.useLabel>{0_label} সক্রিয় করুন</PsychicAnimalPulser.comps.CompUsable.useLabel>
+  
+  <!-- EN: psychic soothe pulser -->
+  <PsychicSoothePulser.label>মানসিক প্রশমন পালসার</PsychicSoothePulser.label>
+  <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
+  <PsychicSoothePulser.description>এটি একবার ব্যবহারযোগ্য বিস্তৃত-তরঙ্গ মানসিক প্রভাবক। মানসিক স্পন্দন অঞ্চলে সকলের মেজাজ সাময়িকভাবে উন্নত করে আত্ম-তৃপ্তিকর উপলব্ধি বিকৃতি সৃষ্টি করে।</PsychicSoothePulser.description>
+  <!-- EN: Activate {0_label} -->
+  <PsychicSoothePulser.comps.CompUsable.useLabel>{0_label} সক্রিয় করুন</PsychicSoothePulser.comps.CompUsable.useLabel>
+  
+</LanguageData>

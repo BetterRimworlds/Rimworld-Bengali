@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [projectile]</li>
+    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]</li>
+    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [projectile]</li>
+    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]</li>
+    <li>prefix->[INITIATOR_definite]'s [blast]</li>
+    <li>prefix->[INITIATOR_definite]'s [projectile] [blast]</li>
+    <li>prefix->[INITIATOR_definite]'s [WEAPON_label] [blast]</li>
+    <li>prefix->[INITIATOR_definite]'s [projectile]</li>
+    <li>prefix->[INITIATOR_definite]'s [WEAPON_label]</li>
+    <li>r_logentry->[prefix] [injured] [RECIPIENT_definite].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [strikeAdv].</li>
+    <li>r_logentry->[prefix] [strikeAdv] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [RECIPIENT_definite]'s [damaged_targets] [strikeAdv].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [strikeAdv] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry->[RECIPIENT_definite] was [damaged_past] by [INITIATOR_definite].</li>
+    <li>r_logentry->[RECIPIENT_definite] was [damaged_past] [strikeAdv] by [INITIATOR_definite].</li>
+    <li>r_logentry->[RECIPIENT_definite] was [damaged_past].</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_definite] was caught in an explosion.</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_definite] was hit by an explosion.</li>
+    <li>blast->explosion</li>
+    <li>blast->blast</li>
+    <li>blast->shockwave</li>
+    <li>blast->detonation</li>
+    <li>blast->discharge</li>
+    <li>blast->impact</li>
+    <li>fromof->from</li>
+    <li>fromof->of</li>
+  -->
+  <Combat_ExplosionImpact.rulePack.rulesStrings>
+    <li>prefix->[blastDefCap] {replace: de [projectileD]; ">el "-">del "} {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
+    <li>prefix->[blastDefCap] {replace: de [WEAPON_definite]; ">el "-">del "} {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
+    <li>prefix->[blastDefCap] {replace: de [projectileD]; ">el "-">del "} {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
+    <li>prefix->[blastDefCap] {replace: de [WEAPON_definite]; ">el "-">del "} {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
+    <li>prefix->[blastDefCap] {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
+    <li>prefix->[blastDefCap] {replace: de [projectileD]; ">el "-">del "} {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
+    <li>prefix->[blastDefCap] {replace: de [WEAPON_definite]; ">el "-">del "} {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
+    <li>prefix->[projectileD] {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
+    <li>prefix->[WEAPON_definite] {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
+    <li>r_logentry->[prefix] আছে [injured] [RECIPIENT_nameAl]।</li>
+    <li>r_logentry->[prefix] আছে [destroyed_past] [destroyed_targetsDef] [RECIPIENT_nameDel]।</li>
+    <li>r_logentry->[prefix] আছে [destroyed_past] [destroyed_targetsDef] [RECIPIENT_nameDel] [strikeAdv]।</li>
+    <li>r_logentry->[prefix] আছে [destroyed_past] [strikeAdv] [destroyed_targetsDef] [RECIPIENT_nameDel]।</li>
+    <li>r_logentry->[prefix] আছে [destroyed_past] [destroyed_targetsDef] [RECIPIENT_nameDel] এবং এছাড়াও আছে [damaged_past] [RECIPIENT_possessive] [damaged_targets]।</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] আছে [damaged_past] [damaged_targetsDef] [RECIPIENT_nameDel]।</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] আছে [damaged_past] [damaged_targetsDef] [RECIPIENT_nameDel] [strikeAdv]।</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] আছে [damaged_past] [strikeAdv] [damaged_targetsDef] [RECIPIENT_nameDel]।</li>
+    <li>r_logentry->[INITIATOR_definite] আছে [damaged_past] [RECIPIENT_nameAl]।</li>
+    <li>r_logentry->[INITIATOR_definite] আছে [damaged_past] [strikeAdv] [RECIPIENT_nameAl]।</li>
+    <li>r_logentry(RECIPIENT_gender!=Female)->[RECIPIENT_definite] ছিল [damaged_past1]অথবা।</li>
+    <li>r_logentry(p=0.001,RECIPIENT_gender!=Female)->[RECIPIENT_definite] বিস্ফোরণে আটকা পড়েছে।</li>
+    <li>r_logentry(p=0.001,RECIPIENT_gender!=Female)->[RECIPIENT_definite] বিস্ফোরণে [RECIPIENT_definite] আঘাতপ্রাপ্ত হয়েছে।</li>
+    <li>r_logentry(RECIPIENT_gender==Female)->[RECIPIENT_definite] ছিল [damaged_past1]।</li>
+    <li>r_logentry(p=0.001,RECIPIENT_gender==Female)->[RECIPIENT_definite] বিস্ফোরণে আটকা পড়েছিল।</li>
+    <li>r_logentry(p=0.001,RECIPIENT_gender==Female)->[RECIPIENT_definite] বিস্ফোরণে সে আঘাতপ্রাপ্ত হয়েছে।</li>
+    <li>blast->বিস্ফোরণ</li>
+    <li>blastMas->বিস্ফোরণ</li>
+    <li>blast->বিস্ফোরণ তরঙ্গ</li>
+    <li>blast->বিস্ফোরণ</li>
+    <li>blast->ডাউনলোড</li>
+    <li>blastMas->আঘাত</li>
+    <li>blastDefCap->টি [blast]</li>
+    <li>blastDefCap->টি [blastMas]</li>
+    <li>fromof->এর</li>
+    <li>fromof->এর</li>
+    <li>injured->আহত</li>
+    <li>injured->আহত</li>
+    <li>injured->আহত</li>
+    <!--OJO "herid", "Lastimad" No es un error, se complementa con otras reglas para establecer el sexo del colono, damaged_past = herido o herida y así con el resto de damaged_past (zerstrick 16-10-2020) -->
+    <li>damaged_past1->হেরিড</li>
+    <li>damaged_past1->ক্ষতিগ্রস্ত</li>
+    <li>damaged_past1->ছিদ্রযুক্ত</li>
+    <li>damaged_past1->ক্ষতিগ্রস্ত</li>
+    <li>damaged_past1->ব্যালিয়াড</li>
+  </Combat_ExplosionImpact.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>projectile(WEAPON_missing==True, p=3)->[PROJECTILE_label]</li>
+    <li>projectile->[WEAPON_projectile_label]</li>
+  -->
+  <Combat_RangedBase.rulePack.rulesStrings>
+    <li>projectile1(WEAPON_missing==True, p=3)->[PROJECTILE_label]</li>
+    <li>projectile1->[WEAPON_projectile_label]</li>
+    <li>projectile(WEAPON_missing==True, p=3)->[PROJECTILE_indefinite]</li>
+    <li>projectile->[WEAPON_projectile_indefinite]</li>
+    <li>projectileD(WEAPON_missing==True, p=3)->[PROJECTILE_definite]</li>
+    <li>projectileD->[WEAPON_projectile_definite]</li>
+  </Combat_RangedBase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite]'s [projectile] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[INITIATOR_definite]'s [projectile] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [to] [destroyed_suffix].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite] and [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] by [INITIATOR_definite]'s [projectile].</li>
+    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] into [destroyed_suffix] by [INITIATOR_definite]'s [projectile].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite]'s [projectile] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite], [damaged_present] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite]'s [damaged_targets] was [damaged_past] by [INITIATOR_definite]'s [projectile].</li>
+    <li>r_logentry(p=3)->[INITIATOR_definite]'s [projectile] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=6)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [projectile].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [projectile] hit [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite] with a [projectile].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [projectile] intended for [ORIGINALTARGET_definite].</li>
+    <li>projectile(p=0.05)->shot</li>
+    <li>destroyed_past->shattered</li>
+    <li>destroyed_past->crushed</li>
+    <li>destroyed_past->obliterated</li>
+    <li>destroyed_past->annihilated</li>
+    <li>destroyed_past->pierced</li>
+    <li>destroyed_past->perforated</li>
+    <li>destroyed_past->punctured</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->piercing</li>
+    <li>destroyed_present->perforating</li>
+    <li>destroyed_present->puncturing</li>
+    <li>destroyed_suffix->pieces</li>
+    <li>destroyed_suffix->bits</li>
+    <li>destroyed_suffix->a fine mist</li>
+    <li>destroyed_suffix->fragments</li>
+    <li>destroyed_suffix(p=0.5)->a holey mess</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->ground beef</li>
+    <li>damaged_past->wounded</li>
+    <li>damaged_past->injured</li>
+    <li>damaged_past->pierced</li>
+    <li>damaged_past->damaged</li>
+    <li>damaged_past->shot</li>
+    <li>damaged_present->wounding</li>
+    <li>damaged_present->injuring</li>
+    <li>damaged_present->piercing</li>
+    <li>damaged_present->damaging</li>
+    <li>damaged_present->shooting</li>
+    <li>damaged_suffix->in an ugly fashion</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->with visible blood</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->with the flesh visible</li>
+    <li>to->to</li>
+    <li>to->into</li>
+    <li>missed->missed</li>
+    <li>missed->narrowly missed</li>
+  -->
+  <Combat_RangedDamage.rulePack.rulesStrings>
+    <li>r_logentry->[projectile] এর [INITIATOR_definite] আছে [destroyed_past] [destroyed_targetsDef] [RECIPIENT_nameDel]।</li>
+    <li>r_logentry->[projectile] এর [INITIATOR_definite] আছে [destroyed_past] [destroyed_targetsDef] [RECIPIENT_nameDel] [to] [destroyed_suffix]।</li>
+    <li>r_logentry(p=2)->[projectile] এর [INITIATOR_definite] [missed] তে [ORIGINALTARGET_definite] এবং [destroyed_past] [destroyed_targetsDef] [RECIPIENT_nameDel]।</li>
+    <li>r_logentry(p=2)->[projectile] এর [INITIATOR_definite] [missed] তে [ORIGINALTARGET_definite], [destroyed_present] [destroyed_targetsDef] [RECIPIENT_nameDel]।</li>
+    <li>r_logentry->[destroyed_targetsDef1] [RECIPIENT_nameDel] ছিল [destroyed_past] দ্বারা [projectile] এর [INITIATOR_definite]।</li>
+    <li>r_logentry->[destroyed_targetsDef2] [RECIPIENT_nameDel] ছিল [destroyed_past]দ্বারা ক্ষতিগ্রস্ত [projectile] থেকে [INITIATOR_definite]।</li>
+    <li>r_logentry->[destroyed_targetsDef1] [RECIPIENT_nameDel] ছিল [destroyed_past] তে [destroyed_suffix] দ্বারা [projectile] এর [INITIATOR_definite]।</li>
+    <li>r_logentry->[destroyed_targetsDef2] [RECIPIENT_nameDel] ছিল [destroyed_past]তে [destroyed_suffix] দ্বারা [projectile] এর [INITIATOR_definite]।</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[projectile] এর [INITIATOR_definite] আছে [damaged_past] [damaged_targetsDef] [RECIPIENT_nameDel]।</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[projectile] এর [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] এবং ক্ষতিগ্রস্ত করেছে [damaged_past] [damaged_targetsDef] [RECIPIENT_nameDel]।</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[projectile] এর [INITIATOR_definite] [missed] [ORIGINALTARGET_definite], [damaged_present] [damaged_targetsDef] [RECIPIENT_nameDel]।</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_targetsDef1] [RECIPIENT_nameDel] ছিল [damaged_past] দ্বারা [projectile] এর [INITIATOR_definite]।</li>
+    <li>r_logentry(p=3)->[projectile] এর [INITIATOR_definite] আছে [destroyed_past] [destroyed_targetsDef] [RECIPIENT_nameDel] এবং [damaged_past] [RECIPIENT_possessive] [damaged_targets]।</li>
+    <li>r_logentry(p=6)->[projectile] এর [INITIATOR_definite] [missed] তে [ORIGINALTARGET_definite], [destroyed_present] [destroyed_targetsDef] [RECIPIENT_nameDel], [damaged_present] [RECIPIENT_possessive] [damaged_targets]।</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] দিয়েছে [RECIPIENT_nameAl] দিয়ে [projectile]।</li>
+    <li>r_logentry(p=0.2)->[projectile] এর [INITIATOR_definite] আঘাত করেছে [RECIPIENT_nameAl] ।</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] এবং আঘাত করলো [RECIPIENT_nameAl]  দিয়ে [projectile]।</li>
+    <li>r_logentry(p=0.4)->[projectile] এর [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] এবং আঘাত করেছে [RECIPIENT_nameAl] ।</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] আঘাত করেছে [RECIPIENT_nameAl]  সাথে [projectile] যার লক্ষ্য ছিল [ORIGINALTARGET_definite]।</li>
+    <li>WEAPON_projectile_label(p=0.05)->গুলি</li>
+    <!--Dejar WEAPON_projectile_indefinite con este nombre aunque no sea indefinido zerstrick(5/3/2022) -->
+    <li>WEAPON_projectile_indefinite(p=0.05)->গুলি</li>
+    <li>destroyed_past->ধ্বংসপ্রাপ্ত</li>
+    <li>destroyed_past->চ্যাপ্টা করা হয়েছে</li>
+    <li>destroyed_past->মুছে ফেলা হয়েছে</li>
+    <li>destroyed_past->ধ্বংসপ্রাপ্ত</li>
+    <li>destroyed_past->ছিদ্রযুক্ত</li>
+    <li>destroyed_past->ভেদ করা হয়েছে</li>
+    <li>destroyed_past->ছিদ্রযুক্ত</li>
+    <li>destroyed_present->ধ্বংস করে</li>
+    <li>destroyed_present->চূর্ণ করে</li>
+    <li>destroyed_present->মুছে ফেলছে</li>
+    <li>destroyed_present->ধ্বংস করছে</li>
+    <li>destroyed_present->ছিদ্র করা হচ্ছে</li>
+    <li>destroyed_present->পেরিয়ে যাওয়া</li>
+    <li>destroyed_present->ছিদ্র করছে</li>
+    <li>destroyed_suffix->টুকরা</li>
+    <li>destroyed_suffix->টুকরা</li>
+    <li>destroyed_suffix->একটি হালকা কুয়াশা</li>
+    <li>destroyed_suffix->খণ্ডগুলো</li>
+    <li>destroyed_suffix(p=0.5)->ধুলো</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->মাংসের কিমা</li>
+    <li>damaged_past->আহত</li>
+    <li>damaged_past->আহত</li>
+    <li>damaged_past->ছিদ্রযুক্ত</li>
+    <li>damaged_past(p=0.5)->ক্ষতিগ্রস্ত</li>
+    <li>damaged_past(p=0.5)->গুলিবিদ্ধ</li>
+    <li>damaged_present->আহত করে</li>
+    <li>damaged_present->আহত করে</li>
+    <li>damaged_present->ছিদ্র করা হচ্ছে</li>
+    <li>damaged_present->ক্ষতিগ্রস্থ করে</li>
+    <li>damaged_present(p=0.5)->গুলি করা হচ্ছে</li>
+    <li>damaged_suffix->ভীষণভাবে</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->তার শরীরের তরল দেখা যাচ্ছে</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->মাংস উন্মুক্ত হয়ে গেছে</li>
+    <li>to->একটি</li>
+    <li>to->এ</li>
+    <li>missed->ব্যর্থ হয়েছে</li>
+    <li>missed->প্রায় ব্যর্থ হয়েছে।</li>
+  </Combat_RangedDamage.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite]'s [projectile] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] was [damaged_past] by [INITIATOR_definite]'s [projectile] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [projectile] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [projectile] hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [projectile] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [projectile] intended for [ORIGINALTARGET_definite] [deflected_result].</li>
+    <li>projectile(p=0.05)->shot</li>
+    <li>damaged_target_possessive_opt-></li>
+    <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->'s [recipient_part_damaged0_label]</li>
+    <li>deflected_result-> [adverb_deflected]</li>
+    <li>deflected_result->, [deflected_consequence]</li>
+    <li>adverb_deflected_opt(p=4)-></li>
+    <li>adverb_deflected_opt->[adverb_deflected]</li>
+    <li>adverb_deflected->harmlessly</li>
+    <li>adverb_deflected->uselessly</li>
+    <li>deflected_consequence->but it [scraped_past] off [adverb_deflected_opt]</li>
+    <li>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</li>
+    <li>scraped_past->ricocheted</li>
+    <li>scraped_present->ricocheting</li>
+    <li>missed->missed</li>
+    <li>missed->narrowly missed</li>
+  -->
+  <Combat_RangedDeflect.rulePack.rulesStrings>
+    <li>r_logentry->[projectile] এর [INITIATOR_definite] আছে [damaged_past] [RECIPIENT_nameAl]  [damaged_targetsDef][deflected_result]।</li>
+    <li>r_logentry(p=2)->[projectile] এর [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] এবং করেছে [damaged_past] [damaged_target_possessive_opt][RECIPIENT_definite][deflected_result]।</li>
+    <li>r_logentry->[damaged_target_possessive_opt] ছিল [damaged_past] দ্বারা [projectile] এর [INITIATOR_definite][deflected_result]।</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] আঘাত করেছে [damaged_target_possessive_opt] দিয়ে [projectile][deflected_result]।</li>
+    <li>r_logentry(p=0.2)->[projectile] এর [INITIATOR_definite] আঘাত করলো [damaged_target_possessive_opt][deflected_result]।</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [RECIPIENT_nameAl]  এবং আঘাত করলো [damaged_target_possessive_opt] দিয়ে [projectile][deflected_result]।</li>
+    <li>r_logentry(p=0.4)->[projectile] এর [INITIATOR_definite] [missed] [RECIPIENT_nameAl]  এবং আঘাত করলো [damaged_target_possessive_opt][deflected_result]।</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] আঘাত করেছে [damaged_target_possessive_opt] দিয়ে [projectile] উদ্দেশ্য ছিল [ORIGINALTARGET_definite][deflected_result]।</li>
+    <li>WEAPON_projectile_label(p=0.05)->গুলি</li>
+    <li>projectile(p=0.05)->গুলি</li>
+    <li>damaged_target_possessive_opt->[RECIPIENT_nameAl] </li>
+    <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->[recipient_part_damaged0_definite] [RECIPIENT_nameDel]</li>
+    <li>deflected_result-> [adverb_deflected]</li>
+    <li>deflected_result->, [deflected_consequence]</li>
+    <li>adverb_deflected_opt(p=4)-></li>
+    <li>adverb_deflected_opt->[adverb_deflected]</li>
+    <li>adverb_deflected->ক্ষতিকরভাবে নয়</li>
+    <li>adverb_deflected->ঝুঁকি নেই।</li>
+    <li>deflected_consequence->কিন্তু [scraped_past] [adverb_deflected_opt]</li>
+    <li>deflected_consequence->[scraped_present] তার বর্মের উপর [adverb_deflected_opt]</li>
+    <li>scraped_past->튕겨졌다</li>
+    <li>scraped_present->উছলে যাওয়া</li>
+    <li>missed->ব্যর্থ হয়েছে</li>
+    <li>missed->প্রায় ব্যর্থ হচ্ছে</li>
+  </Combat_RangedDeflect.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] with [INITIATOR_possessive] [WEAPON_label].</li>
+    <li>r_logentry->[INITIATOR_definite] [shot] [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [shot_a] [projectile] [burst] at [RECIPIENT_definite].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] [projectile].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot] [INITIATOR_possessive] [WEAPON_label].</li>
+    <li>shot_a(p=2)->[verb_shot] a</li>
+    <li>shot_a->[skillAdv] [verb_shot] a</li>
+    <li>shot(p=2)->[verb_shot]</li>
+    <li>shot->[skillAdv] [verb_shot]</li>
+    <li>shotat->shot [aburst] at</li>
+    <li>shotat->[skillAdv] shot [aburst] at</li>
+    <li>shotat(p=0.5)->tried to shoot [aburst] at</li>
+    <li>shotat(p=0.3)->took a shot at</li>
+    <li>shotat(p=0.2)->[skillAdv] took a shot at</li>
+    <li>shotat->fired [aburst] at</li>
+    <li>shotat->fired [aburst] [skillAdv] at</li>
+    <li>shotat(p=0.5)->aimed and fired [aburst] at</li>
+    <li>shotat(p=0.5)->[skillAdv] aimed and fired [aburst] at</li>
+    <li>shotat(p=0.3)->opened fire at</li>
+    <li>aburst-></li>
+    <li>aburst(BURST==True,p=3)->a burst</li>
+    <li>burst-></li>
+    <li>burst(BURST==True,p=3)->burst</li>
+    <li>verb_shot->shot</li>
+    <li>verb_shot->fired</li>
+    <li>verb_shot(p=0.2)->discharged</li>
+  -->
+  <Combat_RangedFire.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_nameAl]  দিয়ে [INITIATOR_possessive] [WEAPON_label]।</li>
+    <li>r_logentry->[INITIATOR_definite] [shotatC] [RECIPIENT_indefinite] সাথে [INITIATOR_possessive] [WEAPON_label]।</li>
+    <li>r_logentry->[INITIATOR_definite] [shot] [INITIATOR_possessive] [WEAPON_label] বিরুদ্ধে [RECIPIENT_indefinite]।</li>
+    <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_nameAl] [INITIATOR_নির্দিষ্ট] [shotat] [RECIPIENT_নামAl] ।</li>
+    <li>r_logentry->[INITIATOR_definite] [shotatC] [RECIPIENT_indefinite][INITIATOR_নির্দিষ্ট] [shotatC] [RECIPIENT_অনির্দিষ্ট]-কে।</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_definite] [shot_an] বিরুদ্ধে [RECIPIENT_definite] একটি দিয়ে [burst] এর [projectile]।</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] [projectile_indefinite][INITIATOR_নির্দিষ্ট] [shot_a] [projectile_একটি]।</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot] [INITIATOR_possessive] [WEAPON_label][INITIATOR_নির্দিষ্ট] [গুলি] [INITIATOR_এর] [WEAPON_লেবেল]।</li>
+    <li>shot_an(p=2)->[verb_shot]</li>
+    <li>shot_an->[skillAdv] [verb_shot]</li>
+    <li>shot_a(p=2)->[verb_shot]</li>
+    <li>shot_a->[skillAdv] [verb_shot]</li>
+    <li>shot(p=2)->[verb_shot]</li>
+    <li>shot->[skillAdv] [verb_shot]</li>
+    <li>shotat->গুলি চালাল [aburst]</li>
+    <li>shotat->[skillAdv] চালিয়েছিল [aburst]</li>
+    <li>shotat(p=0.5)->গুলি করতে চেষ্টা করেছে [aburst]</li>
+    <li>shotat(p=0.3)->তাকে গুলি করলো।</li>
+    <li>shotat(p=0.2)->[skillAdv] গুলি করলো</li>
+    <li>shotat->গুলি চালাল [aburst]</li>
+    <li>shotat->গুলি চালাল [aburst] [skillAdv]</li>
+    <li>shotat(p=0.5)->লক্ষ্য করে গুলি চালাল। [aburst]</li>
+    <li>shotat(p=0.5)->[skillAdv] লক্ষ্য স্থির করে গুলি চালাল। [aburst]</li>
+    <li>shotatC(p=0.3)->গুলির চালাল দিকে</li>
+    <li>aburst-></li>
+    <li>aburst(BURST==True,p=3)->একটি দমকা</li>
+    <li>burst(BURST==True,p=0.5)->ডাউনলোড</li>
+    <li>burst(BURST==True,p=3)->ঝাঁক</li>
+    <li>verb_shot->গুলি চালাল।</li>
+    <li>verb_shot->আগুন ধরিয়ে দিয়েছে।</li>
+    <li>verb_shot(p=0.2)->ডাউনলোড করলো</li>
+  </Combat_RangedFire.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [projectile] at [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [threw_a] [projectile] at [RECIPIENT_definite].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] [INITIATOR_possessive] [projectile].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [projectile].</li>
+    <li>threw_a->[adverb_threw] [verb_threw] a</li>
+    <li>threw_a(p=2)->[verb_threw] a</li>
+    <li>threw(p=2)->[verb_threw]</li>
+    <li>threw->[adverb_threw] [verb_threw]</li>
+    <li>verb_threw->threw</li>
+    <li>verb_threw->flung</li>
+    <li>verb_threw->launched</li>
+    <li>adverb_threw->carefully</li>
+    <li>adverb_threw->quickly</li>
+    <li>adverb_threw->precisely</li>
+    <li>adverb_threw->deliberately</li>
+    <li>adverb_threw(initiator_flesh!=Mechanoid)->gingerly</li>
+    <li>adverb_threw->precisely</li>
+    <li>adverb_threw(initiator_flesh!=Mechanoid)->warily</li>
+    <li>adjective_threw->careful</li>
+    <li>adjective_threw->quick</li>
+    <li>adjective_threw->deliberate</li>
+    <li>adjective_threw->precise</li>
+    <li>adjective_threw(initiator_flesh!=Mechanoid)->wary</li>
+  -->
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [projectile1] [RECIPIENT_nameAl] [INITIATOR_definite] [projectile1] [RECIPIENT_nameAl]-এর দিকে ছুঁড়ে মারল।</li>
+    <li>r_logentry->[INITIATOR_definite] [threw_a] [projectile] [RECIPIENT_nameAl] [INITIATOR_definite] [threw_a] [projectile] [RECIPIENT_nameAl] ছুঁড়ে মারল।</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] [INITIATOR_possessive] [projectile1][INITIATOR_নির্দিষ্ট] [নিক্ষেপ করলো] [INITIATOR_এর] [প্রজেক্টাইল১]।</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [projectile][INITIATOR_definite] একটি [projectile] ছুঁড়ে মারল।</li>
+    <li>threw_a->[adjective_threw] [verb_threw]</li>
+    <li>threw_a->[adverb_threw] [verb_threw]</li>
+    <li>threw_a(p=2)->[verb_threw]</li>
+    <li>threw(p=2)->[verb_threw]</li>
+    <li>threw->[adverb_threw] [verb_threw]</li>
+    <li>verb_threw->ছুড়েছিল</li>
+    <li>verb_threw->ছুঁড়ে মারল</li>
+    <li>verb_threw->ছুড়েছিল</li>
+    <li>adverb_threw->সাবধানে</li>
+    <li>adverb_threw->দ্রুতভাবে</li>
+    <li>adverb_threw->নি flawlessly</li>
+    <li>adverb_threw->উদ্দেশ্যपूर्वक</li>
+    <li>adverb_threw(initiator_flesh!=Mechanoid)->সতর্কভাবে</li>
+    <li>adverb_threw(initiator_flesh!=Mechanoid)->সাবধানভাবে</li>
+    <li>adjective_threw->সাবধানে</li>
+    <li>adjective_threw->দ্রুতভাবে</li>
+    <li>adjective_threw->উদ্দেশ্যমূলকভাবে</li>
+    <li>adjective_threw->সঠিকভাবে</li>
+    <li>adjective_threw(initiator_flesh!=Mechanoid)->সতর্কতার সাথে</li>
+  </Combat_RangedFire_Thrown.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite]'s [projectile] [missed].</li>
+    <li>r_logentry->[INITIATOR_definite] missed [ORIGINALTARGET_definite].</li>
+    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], [INITIATOR_definite]'s [projectile] [missing].</li>
+    <li>missed(p=4)->missed</li>
+    <li>missed(p=2)->missed by a small margin</li>
+    <li>missed(p=2)->missed by a wide margin</li>
+    <li>missed->went wide</li>
+    <li>missed->flew into the air</li>
+    <li>missed->flew high into the air</li>
+    <li>missed->dug into the ground</li>
+    <li>missed->skipped off the ground and was lost</li>
+    <li>missed->dug a divot out of the ground</li>
+    <li>missed(p=0.2)->passed within millimeters of [ORIGINALTARGET_definite]</li>
+    <li>missed->passed within centimeters of [ORIGINALTARGET_definite]</li>
+    <li>missed->passed within a meter of [ORIGINALTARGET_definite]</li>
+    <li>missed->was blown off course</li>
+    <li>missing->missing</li>
+    <li>missing->missing by a small margin</li>
+    <li>missing->missing by a wide margin</li>
+    <li>missing->going wide</li>
+    <li>missing->flying into the air</li>
+    <li>missing->flying high into the air</li>
+    <li>missing->digging into the ground</li>
+    <li>missing->skipping off the ground and becoming lost</li>
+    <li>missing->digging a divot out of the ground</li>
+    <li>missing(p=0.2)->passing within millimeters of [ORIGINALTARGET_definite]</li>
+    <li>missing->passing within centimeters of [ORIGINALTARGET_definite]</li>
+    <li>missing->passing within a meter of [ORIGINALTARGET_definite]</li>
+    <li>missing->blowing offcourse</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True,p=2)->[moved] aside at the last [moment]</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[ducked] behind [COVER_definite]</li>
+    <li>moved->moved</li>
+    <li>moved->jerked</li>
+    <li>moved->jolted</li>
+    <li>moved->ducked</li>
+    <li>moment->moment</li>
+    <li>moment->second</li>
+    <li>moment->instant</li>
+    <li>ducked->ducked</li>
+    <li>ducked->crouched</li>
+    <li>ducked->bent down</li>
+    <li>ducked->hid</li>
+  -->
+  <Combat_RangedMiss.rulePack.rulesStrings>
+    <li>r_logentry->[projectileD] {replace: de [INITIATOR_definite]; ">el "-">del "} [missed][INITIATOR_definite] এর; ">el "-">del "} [মিস করেছে]।</li>
+    <li>r_logentry->[INITIATOR_definite] ব্যর্থ হল [RECIPIENT_nameAl] ।</li>
+    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], ফলে [projectileD] {replace: de [INITIATOR_definite]; ">el "-">del "} [missing]।</li>
+    <li>missed(p=4)->ব্যর্থ হয়েছে।</li>
+    <li>missed(p=2)->সামান্য ব্যবধানে ব্যর্থ হয়েছে।</li>
+    <li>missed(p=2)->ব্যাপকভাবে ব্যর্থ হয়েছে</li>
+    <li>missed->দূরে চলে গেল।</li>
+    <li>missed->বাতাসে উঁচুতে উড়ে গেল।</li>
+    <li>missed->আকাশে উড়ে গেল।</li>
+    <li>missed->মাটিতে পুঁতে ফেলা হল।</li>
+    <li>missed->সে মাটিতে পড়ে গেল এবং হারিয়ে গেল।</li>
+    <li>missed->মাটিতে গর্ত খুঁড়ল।</li>
+    <li>missed(p=0.2)->কিছু মিলিমিটারের কম দূরত্বে চলে গেছে। {replace: de [ORIGINALTARGET_definite]; ">el "-">del "}</li>
+    <li>missed->কয়েক সেন্টিমিটারের মধ্যে চলে গেছে। {replace: de [ORIGINALTARGET_definite]; ">el "-">del "}</li>
+    <li>missed->এক মিটারের কম দূরত্বে চলে গেছে। {replace: de [ORIGINALTARGET_definite]; ">el "-">del "}</li>
+    <li>missed->তার পথভ্রষ্ট হয়েছে।</li>
+    <li>missing->ফালারা</li>
+    <li>missing->সামান্য ব্যবধানে ব্যর্থ হয়েছে।</li>
+    <li>missing->ব্যাপক ব্যবধানে ব্যর্থ হয়েছে।</li>
+    <li>missing->দূরে চলে যেত</li>
+    <li>missing->বাতাসে উড়ে যাবে</li>
+    <li>missing->আকাশে উড়ে যাবে।</li>
+    <li>missing->মাটিতে জানতে পারবে।</li>
+    <li>missing->মাটিতে পড়ে যেত এবং হারিয়ে যেত।</li>
+    <li>missing->মাটিতে গর্ত খুঁড়ছে।</li>
+    <li>missing(p=0.2)->মিলimetre-এর মধ্যে দিয়ে যাওয়া {replace: de [ORIGINALTARGET_definite]; ">el "-">del "}</li>
+    <li>missing->সেন্টমিটারের চেয়ে কম দূরত্বে চলে যাওয়া {replace: de [ORIGINALTARGET_definite]; ">el "-">del "}</li>
+    <li>missing->এক মিটারের কম দূরত্বে চলে যাওয়া {replace: de [ORIGINALTARGET_definite]; ">el "-">del "}</li>
+    <li>missing->পথভ্রষ্ট হয়ে গেলে</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True,p=2)->[moved] শেষ মুহূর্তে একপাশে সরিয়ে নেওয়া হয়েছে। [moment]</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[ducked] পেছনে [COVER_definite]</li>
+    <li>moved->চলে গিয়েছিল।</li>
+    <li>moved->স্থানান্তরিত হয়েছে</li>
+    <li>moved->নতি স্বীকার করলো</li>
+    <li>moved(p=0.05)->ঝুঁকে পড়ল।</li>
+    <li>moment->মুহূর্ত</li>
+    <li>moment->দ্বিতীয়</li>
+    <li>moment->ಕ್ಷಣিক</li>
+    <li>ducked->ঝুঁকে পড়ল।</li>
+    <li>ducked->ঢেকে গেল।</li>
+    <li>ducked->স্থাপন করা হয়েছিল।</li>
+    <li>ducked->লুকিয়ে গিয়েছিল।</li>
+  </Combat_RangedMiss.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install cochlear implant -->
+  <InstallCochlearImplant.label>ককলিয়ার ইমপ্লান্ট স্থাপন</InstallCochlearImplant.label>
+  <!-- EN: Install a cochlear implant. -->
+  <InstallCochlearImplant.description>একটি কোক্লিয়ার ইমপ্লান্ট স্থাপন করুন।</InstallCochlearImplant.description>
+  <!-- EN: Installing cochlear implant. -->
+  <InstallCochlearImplant.jobString>ককলিয়ার ইমপ্লান্ট স্থাপন করা হচ্ছে।</InstallCochlearImplant.jobString>
+  
+  <!-- EN: install joywire -->
+  <InstallJoywire.label>আনন্দ তার স্থাপন</InstallJoywire.label>
+  <!-- EN: Install a joywire. -->
+  <InstallJoywire.description>একটি আনন্দ তার স্থাপন করুন।</InstallJoywire.description>
+  <!-- EN: Installing joywire. -->
+  <InstallJoywire.jobString>আনন্দ তার স্থাপন করা হচ্ছে।</InstallJoywire.jobString>
+  
+  <!-- EN: install painstopper -->
+  <InstallPainstopper.label>পেইনস্টপার স্থাপন</InstallPainstopper.label>
+  <!-- EN: Install a painstopper. -->
+  <InstallPainstopper.description>বেদনা নিবারক স্থাপন করুন।</InstallPainstopper.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallPainstopper.jobString>ব্যথানাশক স্থাপন করা হচ্ছে।</InstallPainstopper.jobString>
+  
+  <!-- EN: install power claw -->
+  <InstallPowerClaw.label>শক্তি নখর স্থাপন</InstallPowerClaw.label>
+  <!-- EN: Install a power claw. -->
+  <InstallPowerClaw.description>শক্তি নখর স্থাপন করুন।</InstallPowerClaw.description>
+  <!-- EN: Installing power claw. -->
+  <InstallPowerClaw.jobString>শক্তি নখর স্থাপন করা হচ্ছে।</InstallPowerClaw.jobString>
+  
+  <!-- EN: install prosthetic arm -->
+  <InstallSimpleProstheticArm.label>কৃত্রিম অঙ্গ প্রতিস্থাপন</InstallSimpleProstheticArm.label>
+  <!-- EN: Install a prosthetic arm. -->
+  <InstallSimpleProstheticArm.description>Install a prosthetic arm.</InstallSimpleProstheticArm.description>
+  <!-- EN: Installing prosthetic arm. -->
+  <InstallSimpleProstheticArm.jobString>কৃত্রিম অঙ্গ বাহু স্থাপন করা হচ্ছে।</InstallSimpleProstheticArm.jobString>
+  
+  <!-- EN: install prosthetic heart -->
+  <InstallSimpleProstheticHeart.label>install prosthetic heart</InstallSimpleProstheticHeart.label>
+  <!-- EN: Install a prosthetic heart. -->
+  <InstallSimpleProstheticHeart.description>Install a prosthetic heart.</InstallSimpleProstheticHeart.description>
+  <!-- EN: Installing prosthetic heart. -->
+  <InstallSimpleProstheticHeart.jobString>Installing prosthetic heart.</InstallSimpleProstheticHeart.jobString>
+  
+  <!-- EN: install prosthetic leg -->
+  <InstallSimpleProstheticLeg.label>কৃত্রিম অঙ্গ প্রতিস্থাপন</InstallSimpleProstheticLeg.label>
+  <!-- EN: Install a prosthetic leg. -->
+  <InstallSimpleProstheticLeg.description>একটি কৃত্রিম অঙ্গ প্রতিস্থাপন করুন।</InstallSimpleProstheticLeg.description>
+  <!-- EN: Installing prosthetic leg. -->
+  <InstallSimpleProstheticLeg.jobString>কৃত্রিম অঙ্গের পা স্থাপন করা হচ্ছে।</InstallSimpleProstheticLeg.jobString>
+  
+  <!-- EN: remove painstopper -->
+  <RemovePainstopper.label>ব্যথানাশক অপসারণ</RemovePainstopper.label>
+  <!-- EN: Remove the painstopper. -->
+  <RemovePainstopper.description>বেদনানাশক সরিয়ে ফেলুন।</RemovePainstopper.description>
+  <!-- EN: Removing painstopper. -->
+  <RemovePainstopper.jobString>বেদনানাশক সরানো হচ্ছে।</RemovePainstopper.jobString>
+  
+</LanguageData>

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bonded animal {0} died -->
+  <BondedAnimalDied.stages.bonded_animal_died.label>বাঁধা প্রাণী {0} মারা গেছে</BondedAnimalDied.stages.bonded_animal_died.label>
+  <!-- EN: Such a tender, unique animal. This universe is evil! -->
+  <BondedAnimalDied.stages.bonded_animal_died.description>এতই কোমল, অনন্য একটি প্রাণী। এই মহাবিশ্ব নির্দয়!</BondedAnimalDied.stages.bonded_animal_died.description>
+  
+  <!-- EN: colonist died -->
+  <KnowColonistDied.stages.colonist_died.label>উপনিবেশক মৃত্যু</KnowColonistDied.stages.colonist_died.label>
+  <!-- EN: One of our people died. We should be able to take care of our people. -->
+  <KnowColonistDied.stages.colonist_died.description>আমাদের একজন মারা গেছেন। আমাদের নিজেদের লোকজনের যত্ন নিতে পারা উচিত ছিল।</KnowColonistDied.stages.colonist_died.description>
+  
+  <!-- EN: justified execution of colonist -->
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>উপনিবেশকারীর ন্যায়সঙ্গত মৃত্যুদণ্ড</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  <!-- EN: A guilty colonist was executed. It was justified, but still sad. -->
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>একজন দোষী উপনিবেশকারীকে মৃত্যুদণ্ড দেওয়া হয়েছে। এটা ন্যায়সঙ্গত ছিল, কিন্তু তবুও দুঃখজনক।</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  <!-- EN: colonist euthanized -->
+  <KnowColonistExecuted.stages.colonist_euthanized.label>নিবেশকারীকে ব্যথামুক্ত করা হয়েছে</KnowColonistExecuted.stages.colonist_euthanized.label>
+  <!-- EN: A colonist was euthanized. It was humane, but still sad. -->
+  <KnowColonistExecuted.stages.colonist_euthanized.description>একজন উপনিবেশকারীকে ব্যথামুক্তভাবে মেরে ফেলা হয়েছে। এটা মানবিক ছিল, কিন্তু তবুও দুঃখজনক।</KnowColonistExecuted.stages.colonist_euthanized.description>
+  <!-- EN: colonist executed -->
+  <KnowColonistExecuted.stages.colonist_executed.label>উপনিবেশী মৃত্যুদণ্ড</KnowColonistExecuted.stages.colonist_executed.label>
+  <!-- EN: A colonist was killed in cold blood. It seemed a bit evil. -->
+  <KnowColonistExecuted.stages.colonist_executed.description>একজন উপনিবেশকারীকে ঠান্ডা মাথায় হত্যা করা হয়েছে। এটা কিছুটা খারাপ মনে হয়েছে।</KnowColonistExecuted.stages.colonist_executed.description>
+  <!-- EN: colonist organ-harvested -->
+  <KnowColonistExecuted.stages.colonist_organharvested.label>উপনিবেশীর অঙ্গ অপসারণিত</KnowColonistExecuted.stages.colonist_organharvested.label>
+  <!-- EN: A colonist died because someone took body parts from them. It's horrible. -->
+  <KnowColonistExecuted.stages.colonist_organharvested.description>একজন উপনিবেশকারী মারা গেছেন কারণ কেউ তাদের শরীরের অংশ নিয়েছিল। এটা ভয়ংকর।</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <!-- EN: colonist ripscanned -->
+  <KnowColonistExecuted.stages.colonist_ripscanned.label>উপনিবেশক স্ক্যান করা হয়েছে</KnowColonistExecuted.stages.colonist_ripscanned.label>
+  <!-- EN: A colonist died in our ripscanner. Their brain was burned up to feed the machine. It's horrible. -->
+  <KnowColonistExecuted.stages.colonist_ripscanned.description>আমাদের রিপস্ক্যানারে একজন উপনিবেশকারী মারা গেছেন। যন্ত্রটিকে চালানোর জন্য তাঁদের মস্তিষ্ক পুড়িয়ে ফেলা হয়েছিল। এটা ভয়ংকর।</KnowColonistExecuted.stages.colonist_ripscanned.description>
+  
+  <!-- EN: justified execution -->
+  <KnowGuestExecuted.stages.justified_execution.label>ন্যায়সঙ্গত মৃত্যুদণ্ড</KnowGuestExecuted.stages.justified_execution.label>
+  <!-- EN: A guilty prisoner or guest was executed. It was justified, but still sad. -->
+  <KnowGuestExecuted.stages.justified_execution.description>একজন দোষী বন্দী অথবা অতিথির মৃত্যুদণ্ড কার্যকর করা হয়েছে। এটা ন্যায়সঙ্গত ছিল, কিন্তু তবুও দুঃখজনক।</KnowGuestExecuted.stages.justified_execution.description>
+  <!-- EN: someone was euthanized -->
+  <KnowGuestExecuted.stages.someone_was_euthanized.label>সম্মানজনক মৃত্যু</KnowGuestExecuted.stages.someone_was_euthanized.label>
+  <!-- EN: A prisoner or guest was euthanized. It was humane, but still sad. -->
+  <KnowGuestExecuted.stages.someone_was_euthanized.description>একজন বন্দী অথবা অতিথিকে ব্যথাহীনভাবে মেরে ফেলা হয়েছে। এটা মানবিক ছিল, কিন্তু তবুও দুঃখজনক।</KnowGuestExecuted.stages.someone_was_euthanized.description>
+  <!-- EN: someone was executed -->
+  <KnowGuestExecuted.stages.someone_was_executed.label>কারও মৃত্যুদণ্ড কার্যকর করা হয়েছে</KnowGuestExecuted.stages.someone_was_executed.label>
+  <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
+  <KnowGuestExecuted.stages.someone_was_executed.description>একজন বন্দী অথবা অতিথিকে ঠান্ডা মাথায় হত্যা করা হয়েছে। এটা কিছুটা খারাপ মনে হয়েছে।</KnowGuestExecuted.stages.someone_was_executed.description>
+  <!-- EN: someone was organ-murdered -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>অঙ্গ-হত্যা হয়েছে</KnowGuestExecuted.stages.someone_was_organmurdered.label>
+  <!-- EN: A prisoner or guest died because the colony took body parts from them. It's horrible. -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>একজন বন্দী অথবা অতিথি মারা গেছেন কারণ কলোনি তাদের শরীরের অংশ নিয়েছিল। এটা ভয়ংকর।</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  <!-- EN: someone was ripscanned -->
+  <KnowGuestExecuted.stages.someone_was_ripscanned.label>রিপস্ক্যান করা হয়েছে</KnowGuestExecuted.stages.someone_was_ripscanned.label>
+  <!-- EN: A prisoner died in our ripscanner. Their brain was burned up to feed the machine. It's horrible. -->
+  <KnowGuestExecuted.stages.someone_was_ripscanned.description>আমাদের রিপস্ক্যানারে একজন বন্দী মারা গেছেন। যন্ত্রটিকে চালানোর জন্য তাঁদের মস্তিষ্ক পুড়িয়ে ফেলা হয়েছিল। এটা ভয়ংকর।</KnowGuestExecuted.stages.someone_was_ripscanned.description>
+  
+  <!-- EN: innocent prisoner died -->
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>নিরপরাধ বন্দী মৃত্যু</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+  <!-- EN: One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism. -->
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>আমাদের একজন বন্দী নিরীহ হওয়া সত্ত্বেও মারা গেছেন। আমাদের বন্দীদের যত্ন নেওয়ার কথা। যদি আমরা তাদের মৃত দেখতে চাইতাম, তাহলে অন্তত একটি সুষ্ঠু মৃত্যুদণ্ড কার্যকর করতে পারতাম, এই বর্বরতার অনুমতি দেওয়ার চেয়ে।</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+  
+  <!-- EN: my aunt {0} died -->
+  <MyAuntDied.stages.my_aunt_died.label>আমার খালা {0} মারা গেছেন।</MyAuntDied.stages.my_aunt_died.label>
+  <!-- EN: My aunt died. -->
+  <MyAuntDied.stages.my_aunt_died.description>আমার পিসি/কাকিমা মারা গেছেন।</MyAuntDied.stages.my_aunt_died.description>
+  
+  <!-- EN: my brother {0} died -->
+  <MyBrotherDied.stages.my_brother_died.label>আমার ভাই {0} মারা গেছেন</MyBrotherDied.stages.my_brother_died.label>
+  <!-- EN: My brother died. My own flesh and blood... -->
+  <MyBrotherDied.stages.my_brother_died.description>আমার ভাই/বোন মারা গেছে। আমার নিজের রক্ত এবং মাংসের…</MyBrotherDied.stages.my_brother_died.description>
+  
+  <!-- EN: my cousin {0} died -->
+  <MyCousinDied.stages.my_cousin_died.label>আমার কাজিন {0} মারা গেছে</MyCousinDied.stages.my_cousin_died.label>
+  <!-- EN: My cousin died. My own flesh and blood... -->
+  <MyCousinDied.stages.my_cousin_died.description>আমার কাজিন মারা গেছে। আমার নিজের মাংস এবং রক্ত…</MyCousinDied.stages.my_cousin_died.description>
+  
+  <!-- EN: my daughter {0} died -->
+  <MyDaughterDied.stages.my_daughter_died.label>আমার মেয়ে {0} মারা গেছে</MyDaughterDied.stages.my_daughter_died.label>
+  <!-- EN: My daughter is dead. My own flesh and blood... -->
+  <MyDaughterDied.stages.my_daughter_died.description>আমার মেয়ে মারা গেছে। আমার নিজের মাংস এবং রক্ত…</MyDaughterDied.stages.my_daughter_died.description>
+  
+  <!-- EN: my father {0} died -->
+  <MyFatherDied.stages.my_father_died.label>আমার বাবা {0} মারা গেছেন</MyFatherDied.stages.my_father_died.label>
+  <!-- EN: My father died. He's gone forever. -->
+  <MyFatherDied.stages.my_father_died.description>আমার বাবা মারা গেছেন। তিনি চিরতরে চলে গেছেন।</MyFatherDied.stages.my_father_died.description>
+  
+  <!-- EN: my fiance {0} died -->
+  <MyFianceDied.stages.my_fiance_died.label>আমার বাগদত্তা {0} মারা গেছেন</MyFianceDied.stages.my_fiance_died.label>
+  <!-- EN: My fiance died. Such a man... my future is gone. -->
+  <MyFianceDied.stages.my_fiance_died.description>আমার বাগদত্তা মারা গেছেন। এমন একজন মানুষ… আমার ভবিষ্যৎ শেষ হয়ে গেছে।</MyFianceDied.stages.my_fiance_died.description>
+  
+  <!-- EN: my fiancée {0} died -->
+  <MyFianceeDied.stages.my_fiance_died.label>আমার বাগদত্তা {0} মারা গেছেন</MyFianceeDied.stages.my_fiance_died.label>
+  <!-- EN: My fiancée died. Such a woman... my future is gone. -->
+  <MyFianceeDied.stages.my_fiance_died.description>আমার বাগদত্তা মারা গেছেন। কী এমন নারী ছিলেন তিনি… আমার ভবিষ্যৎ শেষ হয়ে গেল।</MyFianceeDied.stages.my_fiance_died.description>
+  
+  <!-- EN: my grandchild {0} died -->
+  <MyGrandchildDied.stages.my_grandchild_died.label>আমার নাতি-নাতনি {0} মারা গেছে</MyGrandchildDied.stages.my_grandchild_died.label>
+  <!-- EN: My grandchild died. My own flesh and blood... -->
+  <MyGrandchildDied.stages.my_grandchild_died.description>আমার নাতি/নাতনি মারা গেছে। আমার নিজের মাংস ও রক্ত…</MyGrandchildDied.stages.my_grandchild_died.description>
+  
+  <!-- EN: my grandparent {0} died -->
+  <MyGrandparentDied.stages.my_grandparent_died.label>আমার দাদা/নানা {0} মারা গেছেন</MyGrandparentDied.stages.my_grandparent_died.label>
+  <!-- EN: My grandparent died. -->
+  <MyGrandparentDied.stages.my_grandparent_died.description>আমার দাদু/দিদা মারা গেছেন।</MyGrandparentDied.stages.my_grandparent_died.description>
+  
+  <!-- EN: my half-sibling {0} died -->
+  <MyHalfSiblingDied.stages.my_halfsibling_died.label>আমার সৎ ভাই/বোন {0} মারা গেছে</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+  <!-- EN: My half-sibling died. My own flesh and blood... -->
+  <MyHalfSiblingDied.stages.my_halfsibling_died.description>আমার সৎ ভাই/বোন মারা গেছে। আমার নিজের মাংস ও রক্ত…</MyHalfSiblingDied.stages.my_halfsibling_died.description>
+  
+  <!-- EN: my husband {0} died -->
+  <MyHusbandDied.stages.my_husband_died.label>আমার স্বামী {0} মারা গেছেন।</MyHusbandDied.stages.my_husband_died.label>
+  <!-- EN: My husband is dead. I am alone. -->
+  <MyHusbandDied.stages.my_husband_died.description>আমার স্বামী মারা গেছেন। আমি একা।</MyHusbandDied.stages.my_husband_died.description>
+  
+  <!-- EN: my kin {0} died -->
+  <MyKinDied.stages.my_kin_died.label>আমার আত্মীয় {0} মারা গেছে</MyKinDied.stages.my_kin_died.label>
+  <!-- EN: My kin died. -->
+  <MyKinDied.stages.my_kin_died.description>আমার আত্মীয় মারা গেছে।</MyKinDied.stages.my_kin_died.description>
+  
+  <!-- EN: my lover {0} died -->
+  <MyLoverDied.stages.my_lover_died.label>আমার প্রিয়জন {0} মারা গেছেন।</MyLoverDied.stages.my_lover_died.label>
+  <!-- EN: My lover died. I am so alone. -->
+  <MyLoverDied.stages.my_lover_died.description>আমার প্রিয়জন মারা গেছেন। আমি খুব একা।</MyLoverDied.stages.my_lover_died.description>
+  
+  <!-- EN: my mother {0} died -->
+  <MyMotherDied.stages.my_mother_died.label>আমার মা {0} মারা গেছেন</MyMotherDied.stages.my_mother_died.label>
+  <!-- EN: My mother died. She's gone forever. -->
+  <MyMotherDied.stages.my_mother_died.description>আমার মা মারা গেছেন। তিনি চিরতরে চলে গেছেন।</MyMotherDied.stages.my_mother_died.description>
+  
+  <!-- EN: my nephew {0} died -->
+  <MyNephewDied.stages.my_nephew_died.label>আমার ভাতিজা {0} মারা গেছে</MyNephewDied.stages.my_nephew_died.label>
+  <!-- EN: My nephew died. Such a wonderful child. -->
+  <MyNephewDied.stages.my_nephew_died.description>আমার ভাগ্নে মারা গেছে। কী চমৎকার শিশু ছিল সে।</MyNephewDied.stages.my_nephew_died.description>
+  
+  <!-- EN: my niece {0} died -->
+  <MyNieceDied.stages.my_niece_died.label>আমার ভাগ্নী {0} মারা গেছে</MyNieceDied.stages.my_niece_died.label>
+  <!-- EN: My niece died. Such a wonderful child. -->
+  <MyNieceDied.stages.my_niece_died.description>আমার ভাগ্নী মারা গেছে। কী চমৎকার একটি শিশু ছিল সে।</MyNieceDied.stages.my_niece_died.description>
+  
+  <!-- EN: my sister {0} died -->
+  <MySisterDied.stages.my_sister_died.label>আমার বোন {0} মারা গেছে</MySisterDied.stages.my_sister_died.label>
+  <!-- EN: My sister died. My own flesh and blood... -->
+  <MySisterDied.stages.my_sister_died.description>আমার বোন মারা গেছে। আমার নিজের মাংস এবং রক্ত…</MySisterDied.stages.my_sister_died.description>
+  
+  <!-- EN: my son {0} died -->
+  <MySonDied.stages.my_son_died.label>আমার সন্তান {0} মারা গেছে</MySonDied.stages.my_son_died.label>
+  <!-- EN: My son is dead. My own flesh and blood... -->
+  <MySonDied.stages.my_son_died.description>আমার সন্তান মারা গেছে। আমার নিজের মাংস এবং রক্ত…</MySonDied.stages.my_son_died.description>
+  
+  <!-- EN: my uncle {0} died -->
+  <MyUncleDied.stages.my_uncle_died.label>আমার চাচা {0} মারা গেছেন</MyUncleDied.stages.my_uncle_died.label>
+  <!-- EN: My uncle died. -->
+  <MyUncleDied.stages.my_uncle_died.description>আমার চাচা/চাচী মারা গেছেন।</MyUncleDied.stages.my_uncle_died.description>
+  
+  <!-- EN: my wife {0} died -->
+  <MyWifeDied.stages.my_wife_died.label>আমার স্ত্রী {0} মারা গেছেন।</MyWifeDied.stages.my_wife_died.label>
+  <!-- EN: My wife is dead. I am alone. -->
+  <MyWifeDied.stages.my_wife_died.description>আমার স্ত্রী মারা গেছেন। আমি একা।</MyWifeDied.stages.my_wife_died.description>
+  
+  <!-- EN: my rival {0} died -->
+  <PawnWithBadOpinionDied.stages.my_rival_died.label>আমার প্রতিপক্ষ {0} মারা গেছে।</PawnWithBadOpinionDied.stages.my_rival_died.label>
+  <!-- EN: Serves them right. At least there's some justice in this world. -->
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>এগুলো তাদের প্রাপ্য। অন্তত এই পৃথিবীতে কিছু ন্যায়বিচার তো আছে।</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  
+  <!-- EN: my friend {0} died -->
+  <PawnWithGoodOpinionDied.stages.my_friend_died.label>আমার বন্ধু {0} মারা গেছে</PawnWithGoodOpinionDied.stages.my_friend_died.label>
+  <!-- EN: Such a wonderful person, gone forever. The universe gets darker every day. -->
+  <PawnWithGoodOpinionDied.stages.my_friend_died.description>এত চমৎকার একজন মানুষ, চিরতরে হারিয়ে গেল। প্রতিদিন মহাবিশ্ব আরও অন্ধকার হয়ে যাচ্ছে।</PawnWithGoodOpinionDied.stages.my_friend_died.description>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: smokeleaf joint -->
+  <SmokeleafJoint.label>স্মোকলিফ জয়েন্ট</SmokeleafJoint.label>
+  <!-- EN: Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency.\n\nJoints can be produced at a crafting spot without equipment, and are a fixture in many traditional low-industriousness cultures. -->
+  <SmokeleafJoint.description>ছোটো রোল আকারে প্রস্তুত করা স্মোকলিফ পাতা, যা ধূমপানের জন্য ব্যবহৃত হয়। এই মাদক দ্রব্যটি মেজাজ উন্নত করে, তবে ক্ষুধা বৃদ্ধি করে, মনোযোগ কমায় এবং গতি ধীর করে দেয়। স্মোকলিফ ব্যবহারের ফলে আসক্তি তৈরি হতে পারে।\n\nজয়েন্টগুলি কোনো সরঞ্জাম ছাড়াই একটি কারুশিল্প স্থানে তৈরি করা যেতে পারে এবং এটি অনেক ঐতিহ্যবাহী কম-শিল্প সংস্কৃতির একটি অংশ।</SmokeleafJoint.description>
+  <!-- EN: Smoke {0} -->
+  <SmokeleafJoint.ingestible.ingestCommandString>ধোঁয়া {0}</SmokeleafJoint.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <SmokeleafJoint.ingestible.ingestReportString>ধূমপান করা হচ্ছে {0}।</SmokeleafJoint.ingestible.ingestReportString>
+  <!-- EN: Consuming {0}. -->
+  <SmokeleafJoint.ingestible.ingestReportStringEat>{0} গ্রহণ করা হচ্ছে।</SmokeleafJoint.ingestible.ingestReportStringEat>
+  
+</LanguageData>

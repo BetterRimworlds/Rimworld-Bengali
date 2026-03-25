@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy -->
+  <Heavy.label>ভারী</Heavy.label>
+  
+  <!-- EN: light -->
+  <Light.label>আলো</Light.label>
+  
+  <!-- EN: medium -->
+  <Medium.label>মাঝারি</Medium.label>
+  
+  <!-- EN: ultraheavy -->
+  <UltraHeavy.label>অতিভারী</UltraHeavy.label>
+  
+</LanguageData>

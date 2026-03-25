@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambush -->
+  <Ambush.label>ছদ্মবেশ</Ambush.label>
+  <!-- EN: Caravan ambushed -->
+  <Ambush.letterLabel>караভান অতর্কিত হামলা</Ambush.letterLabel>
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
+  <Ambush.letterText>{0} এর উপর {2} থেকে আসা {1} দ্বারা অতর্কিত হামলা করা হয়েছে!</Ambush.letterText>
+  
+  <!-- EN: payment demand -->
+  <CaravanDemand.label>অর্থের দাবি</CaravanDemand.label>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>caravansaray সাক্ষাৎ</CaravanMeeting.label>
+  
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>মানুষ শিকারী অতর্কিত আক্রমণ</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>караভান অ্যামবুশ (ম্যানহান্টার)</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
+  <ManhunterAmbush.letterText>{0} স্কারিয়া-সংক্রমিত মানুষ-শিকারী {1} দ্বারা আক্রান্ত হয়েছে!</ManhunterAmbush.letterText>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make granite blocks -->
+  <Make_StoneBlocksGranite.label>গ্রানাইট ব্লক তৈরি করুন</Make_StoneBlocksGranite.label>
+  <!-- EN: Cuts granite chunks into usable blocks. -->
+  <Make_StoneBlocksGranite.description>ব্যবহারযোগ্য ব্লকে গ্রানাইট খণ্ডগুলো কেটে নেওয়া হয়।</Make_StoneBlocksGranite.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksGranite.jobString>খণ্ড থেকে পাথরের ব্লক কাটা।</Make_StoneBlocksGranite.jobString>
+  
+  <!-- EN: make limestone blocks -->
+  <Make_StoneBlocksLimestone.label>চুনাপাথরের ব্লক</Make_StoneBlocksLimestone.label>
+  <!-- EN: Cuts limestone chunks into usable blocks. -->
+  <Make_StoneBlocksLimestone.description>ব্যবহারযোগ্য ব্লকে পরিণত করার জন্য চুনাপাথরের খণ্ডগুলিকে কেটে নেওয়া হয়।</Make_StoneBlocksLimestone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksLimestone.jobString>খন্ড থেকে পাথরের ব্লক কাটা।</Make_StoneBlocksLimestone.jobString>
+  
+  <!-- EN: make marble blocks -->
+  <Make_StoneBlocksMarble.label>মার্বেল ব্লক তৈরি করুন</Make_StoneBlocksMarble.label>
+  <!-- EN: Cuts marble chunks into usable blocks. -->
+  <Make_StoneBlocksMarble.description>ব্যবহারযোগ্য ব্লকে মার্বেল খণ্ডগুলো কেটে নেওয়া হয়।</Make_StoneBlocksMarble.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksMarble.jobString>খণ্ডের পাথর কেটে ব্লক তৈরি করা হচ্ছে।</Make_StoneBlocksMarble.jobString>
+  
+  <!-- EN: make sandstone blocks -->
+  <Make_StoneBlocksSandstone.label>পাথরের ব্লক তৈরি করুন</Make_StoneBlocksSandstone.label>
+  <!-- EN: Cuts sandstone chunks into usable blocks. -->
+  <Make_StoneBlocksSandstone.description>ব্যবহারযোগ্য ব্লকে রূপান্তরিত করে sandstone-এর খণ্ডগুলি।</Make_StoneBlocksSandstone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSandstone.jobString>খন্ড থেকে পাথরের ব্লক কাটা।</Make_StoneBlocksSandstone.jobString>
+  
+  <!-- EN: make slate blocks -->
+  <Make_StoneBlocksSlate.label>স্লেট ব্লক তৈরি করুন</Make_StoneBlocksSlate.label>
+  <!-- EN: Cuts slate chunks into usable blocks. -->
+  <Make_StoneBlocksSlate.description>ব্যবহারযোগ্য ব্লকে কাটার জন্য পাথরের খণ্ডগুলিকে কেটে নেওয়া হয়।</Make_StoneBlocksSlate.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSlate.jobString>খন্ড থেকে পাথরের ব্লক কাটা।</Make_StoneBlocksSlate.jobString>
+  
+</LanguageData>

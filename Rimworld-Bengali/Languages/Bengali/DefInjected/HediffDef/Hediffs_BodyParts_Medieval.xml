@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: denture -->
+  <Denture.label>কৃত্রিম দাঁত</Denture.label>
+  <!-- EN: An installed denture. Allows for some basic functionality like eating and talking. -->
+  <Denture.description>একটি বসানো ডেনচার। এটি খাওয়া এবং কথা বলার মতো কিছু মৌলিক কার্যকারিতা প্রদান করে।</Denture.description>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>দন্তপাতার প্রতিস্থাপন</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>কাঠের পা</PegLeg.label>
+  <!-- EN: An installed peg leg. Allows the user to walk again, albeit not very well. -->
+  <PegLeg.description>একটি প্রতিস্থাপন কাঠের পা। এটি ব্যবহারকারীকে হাঁটতে দেয়, যদিও খুব ভালোভাবে নয়।</PegLeg.description>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>কাঠের পা</PegLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>কাঠের পা</WoodenFoot.label>
+  <!-- EN: An installed wooden foot. Restores some stability to the user, but without finer motor skills. -->
+  <WoodenFoot.description>একটি প্রতিস্থাপিত কাঠের পা। এটি ব্যবহারকারীর কিছু স্থিতিশীলতা পুনরুদ্ধার করে, কিন্তু সূক্ষ্ম মোটর দক্ষতা পুনরুদ্ধার করে না।</WoodenFoot.description>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>কাঠের পা</WoodenFoot.labelNoun>
+  
+  <!-- EN: wooden hand -->
+  <WoodenHand.label>কাঠের হাত</WoodenHand.label>
+  <!-- EN: An installed wooden hand. Better than a stump, but not by much. -->
+  <WoodenHand.description>একটি কাঠামোগত কাঠের হাত প্রতিস্থাপন করা হয়েছে। একটি স্টাম্পের চেয়ে ভালো, তবে খুব বেশি নয়।</WoodenHand.description>
+  <!-- EN: a wooden hand -->
+  <WoodenHand.labelNoun>কাঠের হাত</WoodenHand.labelNoun>
+  
+</LanguageData>

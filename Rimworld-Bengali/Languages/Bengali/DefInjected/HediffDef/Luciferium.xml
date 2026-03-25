@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: luciferium need -->
+  <LuciferiumAddiction.label>লুসিফেরিয়াম প্রয়োজন</LuciferiumAddiction.label>
+  <!-- EN: Luciferium mechanites in the body. Luciferium mechanites decohere over time; only regular doses of fresh luciferium can prevent this process.\n\nWithout luciferium, the mechanite decoherence will reach a critical state, causing the victim to go insane and die. -->
+  <LuciferiumAddiction.description>শরীরে লুসিফেরিয়াম মেকানাইট। সময়ের সাথে সাথে লুসিফেরিয়াম মেকানাইটগুলি বিশৃঙ্খল হয়ে যায়; শুধুমাত্র নিয়মিতভাবে তাজা লুসিফেরিয়ামের ডোজ এই প্রক্রিয়াটি প্রতিরোধ করতে পারে।\n\nলুসিফেরিয়াম ছাড়া, মেকানাইটের বিশৃঙ্খলা একটি গুরুতর অবস্থায় পৌঁছাবে, যার ফলে আক্রান্ত ব্যক্তি মানসিক ভারসাম্য হারাবে এবং মারা যাবে।</LuciferiumAddiction.description>
+  <!-- EN: unmet -->
+  <LuciferiumAddiction.stages.unmet.label>অপূরণ</LuciferiumAddiction.stages.unmet.label>
+  
+  <!-- EN: luciferium -->
+  <LuciferiumHigh.label>লুসিফেরিয়াম</LuciferiumHigh.label>
+  <!-- EN: Active luciferium mechanites in the body. They improve the body's functioning in all respects. However, if they are not regularly replenished with more doses of luciferium, they lose cohesion and drive the user insane. -->
+  <LuciferiumHigh.description>শরীরে সক্রিয় লুসিফেরিয়াম মেকানাইটগুলি রয়েছে। এগুলো শরীরের কার্যকারিতা সব দিক থেকে উন্নত করে। তবে, নিয়মিতভাবে লুসিফেরিয়াম-এর আরও ডোজ দিয়ে পুনরায় পূরণ না করা হলে, এগুলো সংহতি হারায় এবং ব্যবহারকারীকে উন্মাদ করে তোলে।</LuciferiumHigh.description>
+  
+</LanguageData>

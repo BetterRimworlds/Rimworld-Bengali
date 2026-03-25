@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar -->
+  <Cougar.label>কুগার</Cougar.label>
+  <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
+  <Cougar.description>সবচেয়ে বিপজ্জনক বড় বিড়ালগুলির মধ্যে একটি, cougar একা শিকারী এবং এদের লম্বা, ধারালো দাঁত ও নখর রয়েছে। এরা লুকানো স্থান থেকে শিকারের উপর ঝাঁপিয়ে পড়ে।\n\nমানুষ সাধারণত এদের খাদ্য নয়, তবে দুর্বল মানুষের মাংস পেলে এরা তা প্রত্যাখ্যান করবে না।</Cougar.description>
+  <!-- EN: left claw -->
+  <Cougar.tools.left_claw.label>বাম থাবা</Cougar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cougar.tools.left_claw.labelNoLocation>নখর</Cougar.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Cougar.tools.right_claw.label>ডান থাবা</Cougar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cougar.tools.right_claw.labelNoLocation>নখর</Cougar.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Cougar.tools.head.label>মাথা</Cougar.tools.head.label>
+  
+  <!-- EN: lynx -->
+  <Lynx.label>লিঙ্ক্স</Lynx.label>
+  <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories. -->
+  <Lynx.description>একটি বন্য বিড়াল, যা সাধারণ doméstico বিড়ালের চেয়ে বড়, কিন্তু একটি cougar-এর চেয়ে ছোট। Lynx ছোট পাখি এবং প্রাণী খেয়ে জীবন ধারণ করে। এদের খুব উষ্ণ পশম তাদের জমাটবদ্ধ অঞ্চলের তীব্র ঠান্ডা থেকে রক্ষা করে।</Lynx.description>
+  <!-- EN: left claw -->
+  <Lynx.tools.left_claw.label>বাম থাবা</Lynx.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Lynx.tools.left_claw.labelNoLocation>নখর</Lynx.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Lynx.tools.right_claw.label>ডান থাবা</Lynx.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Lynx.tools.right_claw.labelNoLocation>নখর</Lynx.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Lynx.tools.head.label>মাথা</Lynx.tools.head.label>
+  
+  <!-- EN: panther -->
+  <Panther.label>চিতাবাঘ</Panther.label>
+  <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
+  <Panther.description>একটি দ্রুতগামী এবং শক্তিশালী বৃহৎ বিড়াল, যা পুরাতন পৃথিবীর জঙ্গলগুলোতে স্থানীয়। নিঃসঙ্গ চোরা শিকারী হিসাবে, প্যান্থাররা বৃহৎ এবং ছোট উভয় শিকারকে ধরায় পারদর্শী। দর্শকরা সাধারণত এদের সুন্দর নড়াচড়ায় মনোযোগ দেয়, অন্যদিকে যারা ঘনিষ্ঠভাবে পরিচিত তারা এদের করোটি চূর্ণ করার ক্ষমতা লক্ষ্য করে।</Panther.description>
+  <!-- EN: left claw -->
+  <Panther.tools.left_claw.label>বাম থাবা</Panther.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Panther.tools.left_claw.labelNoLocation>নখর</Panther.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Panther.tools.right_claw.label>ডান থাবা</Panther.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Panther.tools.right_claw.labelNoLocation>पंजा</Panther.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Panther.tools.head.label>মাথা</Panther.tools.head.label>
+  
+</LanguageData>

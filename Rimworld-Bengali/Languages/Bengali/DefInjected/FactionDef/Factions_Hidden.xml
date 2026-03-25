@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neutral ancients -->
+  <Ancients.label>নিরপেক্ষ প্রাচীনগণ</Ancients.label>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>প্রাচীনরা</Ancients.fixedName>
+  <!-- EN: leader -->
+  <Ancients.leaderTitle>নেতা</Ancients.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <Ancients.messageDefendersAttacking>প্রাচীন সৈন্যরা আক্রমণ করছে।</Ancients.messageDefendersAttacking>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>প্রাচীন</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>প্রাচীনরা</Ancients.pawnsPlural>
+  
+  <!-- EN: hostile ancients -->
+  <AncientsHostile.label>শত্রু প্রাচীনরা</AncientsHostile.label>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>প্রাচীনরা</AncientsHostile.fixedName>
+  <!-- EN: leader -->
+  <AncientsHostile.leaderTitle>নেতা</AncientsHostile.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <AncientsHostile.messageDefendersAttacking>প্রাচীন সৈন্যরা আক্রমণ করছে।</AncientsHostile.messageDefendersAttacking>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>প্রাচীন</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>প্রাচীনরা</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insect geneline -->
+  <Insect.label>কীট-জিনলাইন</Insect.label>
+  <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
+  <Insect.description>এই বিশাল কীট-সদৃশ প্রাণীগুলো ভূগর্ভে বাস করে এবং শব্দ বা ফেরোমন সংকেত দ্বারা আকৃষ্ট হয়ে আক্রমণ করার জন্য মাটি খুঁড়ে উপরে আসে। originalmente সোর্ণ গ্রহ থেকে আন্তঃনাক্ষত্রিক উদ্যোক্তারা এদের বন্দী করে, জিনগতভাবে পরিবর্তন করে এবং অস্ত্র হিসেবে ব্যবহারের জন্য পরীক্ষাগারে কীট উপনিবেশ তৈরি করত। এই গ্রহে সোর্ণের কীট কারা এনেছে তা স্পষ্ট নয়, তবে তারা এখানে আছে এবং আগের মতোই বিপজ্জনক।</Insect.description>
+  <!-- EN: Sorne Geneline -->
+  <Insect.fixedName>সোর্ন জেনলাইন</Insect.fixedName>
+  <!-- EN: leader -->
+  <Insect.leaderTitle>নেতা</Insect.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Insect.messageDefendersAttacking>{0} থেকে {1} আপনার {2} আক্রমণ করছে।</Insect.messageDefendersAttacking>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>কীটপতঙ্গ</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>কীটপতঙ্গ</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>মেকানোইড হাইভ</Mechanoid.label>
+  <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.description>অজানা উৎস থেকে আসা প্রাণঘাতী যন্ত্র। প্রাচীন কাঠামো, ধুলোর স্তূপের নিচে বা সমুদ্রের গভীরে লুকানো মেকানোইডসমূহ হাজার হাজার বছর ধরে নিজেরাই নিজেদের মেরামত করতে পারে। এই মেকগুলির দল কোনো উদ্দেশ্যে ঐক্যবদ্ধ মনে হলেও, তাদের মধ্যে কাজের সমন্বয় তেমন নেই। স্থানীয় পণ্ডিতরা মনে করেন এগুলি প্রাচীন যুদ্ধের পরিত্যক্ত স্বয়ংক্রিয় অস্ত্র, তবে উপজাতীয় কিংবদন্তীতে এদেরকে ঘুমন্ত ঈশ্বরের শয়তানি সেবক হিসাবে বর্ণনা করা হয়েছে।</Mechanoid.description><!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.fixedName>অজানা উৎসের প্রাণঘাতী যন্ত্র। প্রাচীন কাঠামোতে, ধূলার স্তূপের নিচে বা সমুদ্রের গভীরে লুকানো, মেকানোইডসমূহ হাজার হাজার বছর ধরে নিজেরাই নিজেদের টিকিয়ে রাখতে পারে। এই মেকগুলির দল কোনো উদ্দেশ্যে ঐক্যবদ্ধ মনে হয়, কিন্তু তাদের কর্মে তেমন সমন্বয় নেই। স্থানীয় পণ্ডিতরা মনে করেন এগুলি প্রাচীন যুদ্ধের遗留下来的 স্বয়ংক্রিয় অস্ত্র, কিন্তু উপজাতীয় কিংবদন্তীতে এদেরকে ঘুমন্ত ঈশ্বরের শয়তানি সেবক হিসাবে বর্ণনা করা হয়েছে।</Mechanoid.fixedName>
+  <!-- EN: leader -->
+  <Mechanoid.leaderTitle>নেতা</Mechanoid.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Mechanoid.messageDefendersAttacking>{0} থেকে {1} আপনার {2} আক্রমণ করছে।</Mechanoid.messageDefendersAttacking>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>মেকানোইড</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>মেকানোইডসমূহ</Mechanoid.pawnsPlural>
+  
+</LanguageData>

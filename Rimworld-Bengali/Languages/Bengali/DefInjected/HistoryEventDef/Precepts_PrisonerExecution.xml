@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: executed colonist -->
+  <ExecutedColonist.label>নির্বাহিত কলোনিস্ট</ExecutedColonist.label>
+  
+  <!-- EN: executed guest -->
+  <ExecutedGuest.label>নির্বাহিত অতিথি</ExecutedGuest.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.label>নির্বাহিত বন্দী</ExecutedPrisoner.label>
+  
+  <!-- EN: executed guilty prisoner -->
+  <ExecutedPrisonerGuilty.label>দোষী বন্দী মৃত্যুদণ্ড</ExecutedPrisonerGuilty.label>
+  
+  <!-- EN: executed innocent prisoner -->
+  <ExecutedPrisonerInnocent.label>নির্বাহিত নির্দোষ বন্দী</ExecutedPrisonerInnocent.label>
+  
+</LanguageData>

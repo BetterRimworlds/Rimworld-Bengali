@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warg --><!-- EN: wargo -->
+  <Warg.label>ওয়ার্গো</Warg.label><!-- EN: wargos -->
+  <Warg.labelPlural>ওয়ারগোস</Warg.labelPlural>
+  <!-- EN: warg puppy --><!-- EN: warguezno -->
+  <Warg.lifeStages.warg_puppy.label>ওয়ারগেজনো</Warg.lifeStages.warg_puppy.label><!-- EN: warguezna -->
+  <Warg.lifeStages.warg_puppy.labelFemale>ওয়ারগুয়েজনা</Warg.lifeStages.warg_puppy.labelFemale><!-- EN: wargueznas -->
+  <Warg.lifeStages.warg_puppy.labelFemalePlural>ওয়ারগুযেনাস</Warg.lifeStages.warg_puppy.labelFemalePlural><!-- EN: warguezno -->
+  <Warg.lifeStages.warg_puppy.labelMale>ওয়ারগেজনো</Warg.lifeStages.warg_puppy.labelMale><!-- EN: wargueznos -->
+  <Warg.lifeStages.warg_puppy.labelMalePlural>ওয়ারগুযেনোস</Warg.lifeStages.warg_puppy.labelMalePlural>
+  <!-- EN: warg puppies --><!-- EN: wargueznos -->
+  <Warg.lifeStages.warg_puppy.labelPlural>ওয়ারগুযেনোস</Warg.lifeStages.warg_puppy.labelPlural><!-- EN: wargo joven -->
+  <Warg.lifeStages.1.label>ওয়ার্গো তরুণ</Warg.lifeStages.1.label><!-- EN: wargos jóvenes -->
+  <Warg.lifeStages.1.labelPlural>ওয়ারগোস ইয়ংগেস</Warg.lifeStages.1.labelPlural><!-- EN: wargo -->
+  <Warg.lifeStages.2.label>ওয়ার্গো</Warg.lifeStages.2.label><!-- EN: wargos -->
+  <Warg.lifeStages.2.labelPlural>ওয়ারগোস</Warg.lifeStages.2.labelPlural>
+  
+</LanguageData>

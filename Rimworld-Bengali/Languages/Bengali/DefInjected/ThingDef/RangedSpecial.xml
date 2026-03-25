@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbital bombardment targeter -->
+  <OrbitalTargeterBombardment.label>কক্ষীয় বোমাবর্ষণ লক্ষ্যকারী</OrbitalTargeterBombardment.label>
+  <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
+  <OrbitalTargeterBombardment.description>এটি কক্ষপথে বোমাবর্ষণের জন্য একটি প্রাচীন লক্ষ্য নির্ধারণকারী যন্ত্র। এই ইউনিট একটি লক্ষ্য চিহ্নিত করে এবং স্থানাঙ্কগুলি স্যাটেলাইটের একটি নেটওয়ার্কে প্রেরণ করে, যা পরে গতিশক্তি প্রভাবকের মাধ্যমে লক্ষ্যবস্তু এলাকাটি bombarded করে। ইউনিটটিকে অননুমোদিত ব্যবহারকারীদের গ্রহণ করার জন্য পুনরায় প্রোগ্রাম করা হয়েছে, তবে একবার এটি ব্যবহার করা হলে, নেটওয়ার্কটি অনুপ্রবেশ শনাক্ত করবে এবং সংযোগটি স্থায়ীভাবে বিচ্ছিন্ন করে দেবে।</OrbitalTargeterBombardment.description>
+  <!-- EN: charge -->
+  <OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>চার্জ</OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>কুলডাউন চলছে</OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: orbital bombardment targeter -->
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>কক্ষীয় বোমাবর্ষণ লক্ষ্যকারী</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  
+  <!-- EN: orbital power beam targeter -->
+  <OrbitalTargeterPowerBeam.label>কক্ষীয় শক্তি রশ্মি লক্ষ্যকারী</OrbitalTargeterPowerBeam.label>
+  <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
+  <OrbitalTargeterPowerBeam.description>প্রাচীন পাওয়ার-সংগ্রহকারী স্যাটেলাইটের একটি নেটওয়ার্কের জন্য একটি প্রাচীন লক্ষ্যবস্তু নির্ধারণকারী ইউনিট। একবার কোনো লক্ষ্যবস্তুর দিকে তাক করা হলে, এটি প্রাচীন স্যাটেলাইটগুলিকে একটি বিশাল কলামের তড়িৎচুম্বকীয় শক্তি নির্গত করতে নির্দেশ করে। এই শক্তি একটি বিশাল শোষণ ডিশের মাধ্যমে নিরাপদে সংগ্রহ করা যেতে পারে। যেহেতু আপনার কাছে কোনো শোষণ ডিশ নেই, তাই আপনি এটিকে শত্রুদের দিকে তাক করবেন, যে মুহূর্তে পাওয়ার কলামটি এলাকাটিকে হাজার ডিগ্রি সেলসিয়াসের এক নরকে পরিণত করবে। স্যাটেলাইটগুলি অনিরাপদ লক্ষ্যবস্তু সনাক্ত না করা পর্যন্ত, নিজেদের বন্ধ না করা পর্যন্ত এবং স্থায়ীভাবে লক্ষ্যবস্তু নির্ধারণকারীটিকে নিষ্ক্রিয় না করা পর্যন্ত এটি চলবে।</OrbitalTargeterPowerBeam.description>
+  <!-- EN: charge -->
+  <OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>চার্জ</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>কুলডাউন চলছে</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: orbital power beam targeter -->
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>কক্ষীয় শক্তি বিম লক্ষ্যকারী</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
+  
+  <!-- EN: tornado generator -->
+  <TornadoGenerator.label>টর্নেডো জেনারেটর</TornadoGenerator.label>
+  <!-- EN: An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally. -->
+  <TornadoGenerator.description>এটি আবহাওয়া-নিয়ন্ত্রণকারী স্যাটেলাইটের একটি নেটওয়ার্কের জন্য প্রাচীন নিয়ন্ত্রণ ইউনিট। এই ডিভাইসটির কিছু সুরক্ষা ব্যবস্থা নিষ্ক্রিয় করা হয়েছে; এটি একটি বিশাল বায়ুপ্রবাহের disturbance তৈরি করতে সক্ষম, যা একটি নির্বাচিত স্থানে টর্নেডো তৈরি করবে। আবহাওয়া নেটওয়ার্ক এই অননুমোদিত অনুপ্রবেশ শনাক্ত করবে এবং ব্যবহারের পরে ডিভাইসটি লক করে দেবে, তবে টর্নেডোটি স্বাভাবিকভাবে তার শক্তি খরচ করতে পারবে।</TornadoGenerator.description>
+  <!-- EN: charge -->
+  <TornadoGenerator.comps.CompApparelReloadable.chargeNoun>চার্জ</TornadoGenerator.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>কুলডাউন চলছে</TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: tornado generator -->
+  <TornadoGenerator.verbs.Verb_Spawn.label>টর্নেডো জেনারেটর</TornadoGenerator.verbs.Verb_Spawn.label>
+  
+</LanguageData>

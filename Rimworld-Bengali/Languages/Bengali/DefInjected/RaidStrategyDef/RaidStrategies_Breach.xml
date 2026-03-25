@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way. -->
+  <ImmediateAttackBreaching.arrivalTextEnemy>তাঁরা অবিলম্বে আক্রমণ করছে।\n\nএই আক্রমণকারীরা আপনার দেয়াল ভেঙে প্রবেশ করতে চায়। তাঁরা নিজেদের মতো করে আপনার উপনিবেশে প্রবেশ করবে এবং পথে যা কিছু পাবে ধ্বংস করবে।</ImmediateAttackBreaching.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackBreaching.arrivalTextFriendly>তাঁরা অবিলম্বে সাহায্য করতে আসছেন।</ImmediateAttackBreaching.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackBreaching.letterLabelEnemy>হানা</ImmediateAttackBreaching.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackBreaching.letterLabelFriendly>বান্ধব</ImmediateAttackBreaching.letterLabelFriendly>
+  
+  <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>তাঁরা অবিলম্বে আক্রমণ করছে।\n\nএই আক্রমণকারীরা আপনার দেয়াল ভেঙে প্রবেশ করতে চায়। তাঁরা নিজেদের পথে আপনার উপনিবেশে প্রবেশ করবে এবং পথে যা কিছু পাবে ধ্বংস করবে।\n\nসাবধান থাকুন - তাঁদের কৌশলগুলি অস্বাভাবিকভাবে বুদ্ধিদীপ্ত মনে হচ্ছে। তাঁরাটারেটসমূহের firing field এড়িয়ে যাবে এবং কিছু ফাঁদও চিহ্নিত করতে পারবে।</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>তাঁরা অবিলম্বে সাহায্য করতে আসছেন।</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>হানা</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>বন্ধুত্বপূর্ণ</ImmediateAttackBreachingSmart.letterLabelFriendly>
+  
+</LanguageData>

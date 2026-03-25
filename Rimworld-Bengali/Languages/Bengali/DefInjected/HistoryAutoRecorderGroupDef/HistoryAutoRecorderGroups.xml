@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist mood -->
+  <ColonistMood.label>উপনিবেশকারীর মেজাজ</ColonistMood.label>
+  
+  <!-- EN: debug -->
+  <Debug.label>ডিবাগ</Debug.label>
+  
+  <!-- EN: population -->
+  <Population.label>জনসংখ্যা</Population.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>সম্পদ</Wealth.label>
+  
+</LanguageData>

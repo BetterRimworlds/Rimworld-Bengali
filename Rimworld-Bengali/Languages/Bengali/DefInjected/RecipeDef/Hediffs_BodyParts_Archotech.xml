@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install archotech arm -->
+  <InstallArchotechArm.label>আর্কোটেক বাহু স্থাপন</InstallArchotechArm.label>
+  <!-- EN: Install an archotech arm. -->
+  <InstallArchotechArm.description>একটি আর্কোটেক বাহু প্রতিস্থাপন করুন।</InstallArchotechArm.description>
+  <!-- EN: Installing archotech arm. -->
+  <InstallArchotechArm.jobString>আর্কোটেক বাহু স্থাপন করা হচ্ছে।</InstallArchotechArm.jobString>
+  
+  <!-- EN: install archotech eye -->
+  <InstallArchotechEye.label>আর্কোটেক চোখ প্রতিস্থাপন</InstallArchotechEye.label>
+  <!-- EN: Install an archotech eye. -->
+  <InstallArchotechEye.description>একটি আর্কোটেক চোখ প্রতিস্থাপন করুন।</InstallArchotechEye.description>
+  <!-- EN: Installing archotech eye. -->
+  <InstallArchotechEye.jobString>আর্কোটেক চোখ স্থাপন করা হচ্ছে।</InstallArchotechEye.jobString>
+  
+  <!-- EN: install archotech leg -->
+  <InstallArchotechLeg.label>আর্কোটেক পা স্থাপন</InstallArchotechLeg.label>
+  <!-- EN: Install an archotech leg. -->
+  <InstallArchotechLeg.description>একটি আর্কোটেক পা প্রতিস্থাপন করুন।</InstallArchotechLeg.description>
+  <!-- EN: Installing archotech leg. -->
+  <InstallArchotechLeg.jobString>আর্কোটেক পা স্থাপন করা হচ্ছে।</InstallArchotechLeg.jobString>
+  
+</LanguageData>

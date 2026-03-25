@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: became lover -->
+  <BecameLover.label>নতুন প্রেমের সম্পর্ক</BecameLover.label>
+  <!-- EN:
+    <li>tale_noun->[PURSUER_nameDef] and [ACCEPTER_nameDef] becoming lovers</li>
+    <li>image->[PURSUER_nameFull] whispering sweet nothings into [ACCEPTER_nameFull]'s ear [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] leading [ACCEPTER_nameFull] by the hand into bed [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] gambolling in bed with [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] deeply kissing [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->in an unrealistically large bed</li>
+    <li>circumstance_phrase->between the sheets</li>
+    <li>circumstance_phrase->with few clothes in sight</li>
+    <li>circumstance_phrase->while both are drenched in sweat</li>
+    <li>desc_sentence->[PURSUER_nameDef] is snuggling up against [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is locking eyes with [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is blowing air at [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is stylistically bonded with [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is a near-mirror image of [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is touching [ACCEPTER_nameDef] aggressively.</li>
+  -->
+  <BecameLover.rulePack.rulesStrings>
+    <li>tale_noun->[PURSUER_nameDef] এবং [ACCEPTER_nameDef] প্রণয়ী হয়ে গেল</li>
+    <li>image->[PURSUER_nameFull] কর্ণে মিষ্টি কথা ফিসফিস করে [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] হাত ধরে নিয়ে যাচ্ছে [ACCEPTER_nameFull] বিছানার দিকে [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] বিছানায় লাফিয়ে বেড়াচ্ছে সাথে [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] স্নেহের সাথে চুম্বন করছে [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->একটি অবাস্তবভাবে বড় বিছানায়</li>
+    <li>circumstance_phrase->চাদরের মধ্যে</li>
+    <li>circumstance_phrase->সামান্য পোশাকে দৃশ্যমান</li>
+    <li>circumstance_phrase->দুজনেই ঘামে ভেজা</li>
+    <li>desc_sentence->[PURSUER_nameDef] জড়িয়ে ধরে [ACCEPTER_nameDef]।</li>
+    <li>desc_sentence->[PURSUER_nameDef] এবং [ACCEPTER_nameDef] একে অপরের দিকে তাকায়।</li>
+    <li>desc_sentence->[PURSUER_nameDef] কানে ফুঁ দেয় [ACCEPTER_nameDef]।</li>
+    <li>desc_sentence->[PURSUER_nameDef] আলিঙ্গন করছে [ACCEPTER_nameDef]।</li>
+    <li>desc_sentence->[PURSUER_nameDef] এর চুল শুঁকছে [ACCEPTER_nameDef]।</li>
+    <li>desc_sentence->[PURSUER_nameDef] আক্রমণাত্মকভাবে আলিঙ্গন করে [ACCEPTER_nameDef]।</li>
+  </BecameLover.rulePack.rulesStrings>
+  
+  <!-- EN: bond developed -->
+  <BondedWithAnimal.label>বন্ধন গড়ে উঠেছে</BondedWithAnimal.label>
+  <!-- EN:
+    <li>tale_noun->[HUMAN_nameDef]'s bonding with [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] bonding with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] forming a deep bond with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] realizing [HUMAN_possessive] truly loves [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->while other animals look on</li>
+    <li>circumstance_phrase->while looking into [ANIMAL_nameDef]'s eyes</li>
+    <li>circumstance_phrase->with a sense of satisfaction</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is snuggling up against [HUMAN_nameDef].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks sleepy and drunk with love.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] stands tall and looks noble.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is responding positively.</li>
+  -->
+  <BondedWithAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[HUMAN_nameDef] একটি বন্ধন তৈরি করেছে [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] স্নেহ অনুভব করছে [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] গভীর সম্পর্ক তৈরি করছেন [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] তাদের [ANIMAL_nameFull]-এর প্রতি ভালোবাসা উপলব্ধি করে [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->অন্যান্য প্রাণীগুলো দেখার সময়</li>
+    <li>circumstance_phrase->যখন তাকিয়ে আছে [ANIMAL_nameDef] চোখের দিকে</li>
+    <li>circumstance_phrase->সন্তুষ্টির হাসি মুখে</li>
+    <li>desc_sentence->[ANIMAL_nameDef] ঘষা হচ্ছে [TRAINER_nameDef]।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] মনে হচ্ছে তার ঘুম পাচ্ছে এবং সে ভালোবাসার নেশায় মত্ত।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] হৃদয়ে মহত্ত্ব প্রকাশ পায়।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] ইতিবাচকভাবে সাড়া দেয়।</li>
+  </BondedWithAnimal.rulePack.rulesStrings>
+  
+  <!-- EN: breakup -->
+  <Breakup.label>বিচ্ছেদ</Breakup.label>
+  <!-- EN:
+    <li>tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef]</li>
+    <li>image->[DUMPER_nameFull] sitting [REJECTED_nameFull] down for an unpleasant talk [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] standing at a distance from [REJECTED_nameFull] [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] pushing [REJECTED_nameFull] out of bed [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] rejecting a hug from [REJECTED_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->in a moment of great sadness</li>
+    <li>circumstance_phrase->as others look away awkwardly</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>desc_sentence->[REJECTED_nameDef] is sobbing uncontrollably.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is sneering and crying at the same time.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is stony-faced with shock.</li>
+    <li>desc_sentence->[DUMPER_nameDef] is stylistically separated from [REJECTED_nameDef].</li>
+    <li>desc_sentence->[REJECTED_nameDef] has collapsed on the floor in a quivering heap.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is gesticulating angrily at [DUMPER_nameDef].</li>
+  -->
+  <Breakup.rulePack.rulesStrings>
+    <li>tale_noun->[DUMPER_nameDef] এবং [REJECTED_nameDef] তাদের সম্পর্ক ভেঙে গেছে</li>
+    <li>image->[DUMPER_nameFull] বসিয়ে [REJECTED_nameFull] টেবিলে অপ্রীতিকর আলোচনার জন্য [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] কাছাকাছি দাঁড়িয়ে উঠছে [REJECTED_nameFull] [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] ধাক্কা দিয়ে [REJECTED_nameFull] বিছানা থেকে [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] একটি আলিঙ্গন প্রত্যাখ্যান করে [REJECTED_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->மிகுந்த দুঃখের মুহূর্তে</li>
+    <li>circumstance_phrase->অন্যান্যরা অস্বস্তির সাথে দেখছে যখন</li>
+    <li>circumstance_phrase->অন্যান্যরা দেখছে যখন</li>
+    <li>desc_sentence->[REJECTED_nameDef] অনিয়ন্ত্রিতভাবে কাঁদছে।</li>
+    <li>desc_sentence->[REJECTED_nameDef] একই সাথে উপহাস করে এবং কাঁদে।</li>
+    <li>desc_sentence->[REJECTED_nameDef] বিস্ময়ে তার মুখ পাথরের মতো কঠিন হয়ে গেছে।</li>
+    <li>desc_sentence->[DUMPER_nameDef] শৈলীতে থেকে আলাদা হয় [REJECTED_nameDef]।</li>
+    <li>desc_sentence->[REJECTED_nameDef] মেঝেতে ভেঙে পড়েছে এবং কাঁপছে।</li>
+    <li>desc_sentence->[REJECTED_nameDef] রাগের সাথে ইশারা করছে [DUMPER_nameDef]।</li>
+  </Breakup.rulePack.rulesStrings>
+  
+  <!-- EN: marriage -->
+  <Marriage.label>বিবাহ</Marriage.label>
+  <!-- EN:
+    <li>tale_noun->the marriage of [SPOUSE1_nameDef] and [SPOUSE2_nameDef]</li>
+    <li>image->[SPOUSE1_nameFull] marrying [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] saying [SPOUSE1_possessive] marriage vows to [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] walking down the aisle with [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] holding hands with [SPOUSE2_nameFull] during a marriage ceremony [circumstance_group]</li>
+    <li>circumstance_phrase->in a dignified ceremony</li>
+    <li>circumstance_phrase->while both laugh gaily</li>
+    <li>circumstance_phrase->while others look on solemnly</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is snuggling up against [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is locking eyes with [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is blowing air at [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is stylistically bonded with [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is a near-mirror image of [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is touching [SPOUSE2_nameDef] aggressively.</li>
+  -->
+  <Marriage.rulePack.rulesStrings>
+    <li>tale_noun->[SPOUSE1_nameDef] এবং [SPOUSE2_nameDef] বিবাহ করলো</li>
+    <li>image->[SPOUSE1_nameFull] বিবাহ করছে [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] বিবাহের প্রতিজ্ঞা করছে [SPOUSE2_nameFull]-কে [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] বিবাহ বেদীর দিকে হেঁটে যাওয়া [SPOUSE2_nameFull]-এর সাথে [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] হাত ধরে একসাথে [SPOUSE2_nameFull] বিবাহের অনুষ্ঠানে [circumstance_group]</li>
+    <li>circumstance_phrase->একটি достой অনুষ্ঠানে</li>
+    <li>circumstance_phrase->যখন তারা দুজনেই হাসে।</li>
+    <li>circumstance_phrase->অন্যান্যরা হাসিমুখে দেখছে যখন</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] এর সাথে ঘনিষ্ঠ হয় [SPOUSE2_nameDef]।</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] এবং [SPOUSE2_nameDef] চোখের দিকে তাকায়।</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] কানে ফিসফিস করে [SPOUSE2_nameDef]।</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] শৈলীতে যোগ দেয় [SPOUSE2_nameDef]।</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] চুল স্পর্শ করে [SPOUSE2_nameDef]।</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] তীব্রভাবে চুম্বন করে [SPOUSE2_nameDef]।</li>
+  </Marriage.rulePack.rulesStrings>
+  
+</LanguageData>

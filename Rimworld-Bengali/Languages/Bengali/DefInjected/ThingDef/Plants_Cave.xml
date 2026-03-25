@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agarilux -->
+  <Agarilux.label>আগারিলক্স</Agarilux.label>
+  <!-- EN: An enormous purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at. It dies when exposed to light. -->
+  <Agarilux.description>এটি একটি বিশাল বেগুনি রঙের মাশরুম। এর আকার এবং উজ্জ্বল প্রোট্রুশনগুলি এই ছত্রাকটিকে দেখতে সুন্দর করে তোলে। আলোতে উন্মুক্ত হলে এটি মারা যায়।</Agarilux.description>
+  
+  <!-- EN: bryolux -->
+  <Bryolux.label>ব্রায়োলক্স</Bryolux.label>
+  <!-- EN: A blue moss typically found in deep, dark caves. It is sticky, with tangled fibers, which slows anyone walking over it. Dies when exposed to light. -->
+  <Bryolux.description>গভীর, অন্ধকার গুহায় সাধারণত যে নীল শ্যাওলা পাওয়া যায়। এটি আঠালো, জট পাকানো তন্তুযুক্ত, যা এর উপর দিয়ে হেঁটে গেলে গতি কমিয়ে দেয়। আলোতে উন্মুক্ত হলে এটি মারা যায়।</Bryolux.description>
+  
+  <!-- EN: glowstool -->
+  <Glowstool.label>গ্লোস্টুল</Glowstool.label>
+  <!-- EN: A small brown mushroom typically found in caves. It smells like an old, dirty rag pulled from the stomach of a rotting muffalo - but it tastes surprisingly good when cooked. Dies when exposed to light. -->
+  <Glowstool.description>এটি সাধারণত গুহায় পাওয়া যায় এমন একটি ছোট বাদামী রঙের মাশরুম। এর গন্ধ একটি পচা মাফালোর পেট থেকে তোলা পুরোনো, নোংরা কাপড়ের মতো—কিন্তু রান্না করলে এর স্বাদ আশ্চর্যজনকভাবে ভালো হয়। আলোতে এলে এটি মারা যায়।</Glowstool.description>
+  
+</LanguageData>

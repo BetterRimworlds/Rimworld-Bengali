@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Accuracy (long) -->
+  <AccuracyLong.label>নির্ভুলতা</AccuracyLong.label>
+  <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyLong.description>বন্দুকের ৪০টি ঘর বা তার বেশি দূরত্বের নির্ভুলতা।\n\nএকটি প্রকৃত শট লাগার সম্ভাবনা অন্যান্য কারণ দ্বারাও প্রভাবিত হবে।</AccuracyLong.description>
+  
+  <!-- EN: Accuracy (medium) -->
+  <AccuracyMedium.label>নির্ভুলতা (মধ্যম)</AccuracyMedium.label>
+  <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyMedium.description>২৫টি সেলের দূরত্বে অস্ত্রের নির্ভুলতা।\n\nঅন্যান্য কারণগুলিও একটি প্রকৃত শট লাগার সম্ভাবনাকে প্রভাবিত করবে।</AccuracyMedium.description>
+  
+  <!-- EN: Accuracy (short) -->
+  <AccuracyShort.label>সঠিকতা (সংক্ষিপ্ত)</AccuracyShort.label>
+  <!-- EN: The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyShort.description>১২টি সেলের দূরত্বে অস্ত্রের নির্ভুলতা।\n\nঅন্যান্য কারণগুলিও একটি প্রকৃত শট লাগার সম্ভাবনাকে প্রভাবিত করবে।</AccuracyShort.description>
+  
+  <!-- EN: Accuracy (close) -->
+  <AccuracyTouch.label>নির্ভুলতা (কাছাকাছি)</AccuracyTouch.label>
+  <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyTouch.description>এই অস্ত্রের ৩টি সেল বা তার কম দূরত্বে নির্ভুলতা।\n\nঅন্যান্য কারণগুলিও একটি শট লাগার সম্ভাবনাকে প্রভাবিত করবে।</AccuracyTouch.description>
+  
+  <!-- EN: armor penetration multiplier -->
+  <RangedWeapon_ArmorPenetrationMultiplier.label>বর্ম ভেদ গুণক</RangedWeapon_ArmorPenetrationMultiplier.label>
+  <!-- EN: A multiplier applied to armor penetration. -->
+  <RangedWeapon_ArmorPenetrationMultiplier.description>বর্ম ভেদ করার ক্ষমতা বৃদ্ধিকারী একটি গুণক।</RangedWeapon_ArmorPenetrationMultiplier.description>
+  
+  <!-- EN: ranged cooldown -->
+  <RangedWeapon_Cooldown.label>পালিত পরিসীমা</RangedWeapon_Cooldown.label>
+  <!-- EN: How long it takes to recover after firing this weapon. -->
+  <RangedWeapon_Cooldown.description>এই অস্ত্র ব্যবহারের পর পুনরুদ্ধার করতে কত সময় লাগে।</RangedWeapon_Cooldown.description>
+  <!-- EN: {0} s -->
+  <RangedWeapon_Cooldown.formatString>{0} এর পরিসংখ্যান</RangedWeapon_Cooldown.formatString>
+  
+  <!-- EN: damage multiplier -->
+  <RangedWeapon_DamageMultiplier.label>ক্ষতি গুণক</RangedWeapon_DamageMultiplier.label>
+  <!-- EN: A multiplier applied to this weapon's damage. -->
+  <RangedWeapon_DamageMultiplier.description>এই অস্ত্রের ক্ষতির পরিমাণে যে গুণনীয়ক প্রয়োগ করা হয়।</RangedWeapon_DamageMultiplier.description>
+  
+  <!-- EN: range multiplier -->
+  <RangedWeapon_RangeMultiplier.label>পরিসর গুণক</RangedWeapon_RangeMultiplier.label>
+  <!-- EN: A multiplier applied to this weapon's range. -->
+  <RangedWeapon_RangeMultiplier.description>এই অস্ত্রের পাল্লার উপর প্রয়োগ করা একটি গুণক।</RangedWeapon_RangeMultiplier.description>
+  
+  <!-- EN: aiming time multiplier -->
+  <RangedWeapon_WarmupMultiplier.label>লক্ষ্য নেওয়ার সময় গুণক</RangedWeapon_WarmupMultiplier.label>
+  <!-- EN: A multiplier applied to this weapon's aiming time. -->
+  <RangedWeapon_WarmupMultiplier.description>এই অস্ত্রের লক্ষ্য নেওয়ার সময়ে একটি গুণক প্রয়োগ করা হয়।</RangedWeapon_WarmupMultiplier.description>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arresting worsens faction relations -->
+  <ArrestingCreatesEnemies.label>গ্রেপ্তার করলে দলগত সম্পর্ক খারাপ হয়</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
+  <ArrestingCreatesEnemies.helpText>সতর্কতা: আপনি যাকে গ্রেপ্তার করার চেষ্টা করছেন, তিনি শান্তভাবে যেতে নাও পারেন।\n\nযদি আপনি কোনো অ-উপনিবেশ স্থাপনকারী বা অন্য কোনো দলের উপনিবেশ স্থাপনকারীকে গ্রেপ্তার করেন, তবে তাদের পুরো দল আপনার শত্রু হয়ে যেতে পারে।\n\nএই গ্রেপ্তারের সফল হওয়ার সম্ভাবনা {0}, যা গ্রেপ্তারকারীর সামাজিক দক্ষতার উপর ভিত্তি করে নির্ধারিত হবে।</ArrestingCreatesEnemies.helpText>
+  
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>সর্বোচ্চ কলোনির সংখ্যা</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
+  <MaxNumberOfPlayerSettlements.helpText>সতর্কতা: রিমওয়ার্ল্ড একটি সময়ে একটি খেলোয়াড়ের কলোনি দিয়ে খেলার জন্য তৈরি করা হয়েছে। একাধিক খেলোয়াড়ের কলোনি শুধুমাত্র পরীক্ষামূলক বৈশিষ্ট্য হিসেবে ব্যবহারের জন্য অনুমোদিত।\n\nএকাধিক কলোনি নিয়ে খেললে গেমপ্লেতে ভারসাম্যহীনতা দেখা দিতে পারে এবং আপনার মনোযোগ বিভক্ত হয়ে যেতে পারে, সেই সাথে গেমের পারফরম্যান্স কমে যেতে পারে।\n\nআমরা সুপারিশ করছি যে আপনি গেমটি তৈরির সময় যেভাবে ডিজাইন করা হয়েছে, সেই অনুযায়ী প্রথম কয়েকবার শুধুমাত্র একটি কলোনি নিয়ে খেলুন।</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsGame.label>স্টিম ডেক নিয়ন্ত্রণ</SteamDeckControlsGame.label>
+  <!-- EN: Press X to open the architect menu and {Key:TogglePause} to pause and resume the game. Use triggers for primary and secondary clicks. Zoom in and out and scroll through lists with {Key:MapZoom_In} and {Key:MapZoom_Out}. Press and hold the L5 back button to pan the camera with the touch screen and simulate secondary clicks. -->
+  <SteamDeckControlsGame.helpText>X টিপে আর্কিটেক্ট মেনু খুলুন এবং গেম বিরতি ও পুনরায় শুরু করতে {Key:TogglePause} ব্যবহার করুন। প্রাথমিক এবং মাধ্যমিক ক্লিকের জন্য ট্রিগার ব্যবহার করুন। {Key:MapZoom_In} এবং {Key:MapZoom_Out} দিয়ে জুম ইন ও আউট করুন এবং তালিকা স্ক্রোল করুন। টাচ স্ক্রিনে ক্যামেরা প্যান করতে এবং সেকেন্ডারি ক্লিক অনুকরণ করতে L5 ব্যাক বোতাম টিপুন এবং ধরে রাখুন।</SteamDeckControlsGame.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsMainMenu.label>স্টিম ডেক নিয়ন্ত্রণ</SteamDeckControlsMainMenu.label>
+  <!-- EN: Use the trackpad to move the cursor and the right trigger button to click. Press {Key:Accept} to accept and {Key:Cancel} to go back. -->
+  <SteamDeckControlsMainMenu.helpText>ট্র্যাকপ্যাড ব্যবহার করে কার্সার সরান এবং ক্লিক করার জন্য ডান ট্রিগার বোতাম টিপুন। গ্রহণ করার জন্য {Key:Accept} এবং ফিরে যাওয়ার জন্য {Key:Cancel} চাপুন।</SteamDeckControlsMainMenu.helpText>
+  
+  <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>ফ্লিক নির্ধারণসমূহ শুধুমাত্র নির্ধারণ করে</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>এই নির্দেশকটি শুধুমাত্র একজন উপনিবেশীকে সুইচটি চালু করতে নির্দেশ করে।\n\nকোনো উপনিবেশী এসে হাতে সুইচটি না চালু করা পর্যন্ত কিছুই ঘটবে না।</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>বাণিজ্য পণ্য ও বাণিজ্য বাতি</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>কক্ষীয় ব্যবসায়ীদের কাছে জিনিসপত্র বা রূপা পাঠাতে, আপনাকে একটি কক্ষীয় বাণিজ্য বীকন তৈরি করতে হবে এবং তার কাছে জিনিসপত্রের স্তূপ রাখতে হবে।</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <!-- EN: Trading permit requirements -->
+  <TradingRequiresPermit.label>বাণিজ্য অনুমতি প্রয়োজনাবলী</TradingRequiresPermit.label>
+  <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
+  <TradingRequiresPermit.helpText>{0} উপাধি থাকলে এখানে বাণিজ্য করা যায়।\n\nআপনি যে বাণিজ্য কাফেলা পাঠাচ্ছেন, তার মধ্যে {0} বা তার চেয়ে উচ্চতর উপাধিধারী একজন অবশ্যই থাকতে হবে।</TradingRequiresPermit.helpText>
+  
+</LanguageData>

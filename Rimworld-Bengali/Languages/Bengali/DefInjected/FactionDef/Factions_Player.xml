@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>নতুন আগমনকারী</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
+  <PlayerColony.description>অন্য গ্রহ থেকে সম্প্রতি আসা বসতি স্থাপনকারীদের একটি উপনিবেশ।</PlayerColony.description>
+  <!-- EN: leader -->
+  <PlayerColony.leaderTitle>নেতা</PlayerColony.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerColony.messageDefendersAttacking>{0} থেকে {1} আপনার {2} আক্রমণ করছে।</PlayerColony.messageDefendersAttacking>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>উপনিবেশকারী</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>উপনিবেশবাসী</PlayerColony.pawnsPlural>
+  
+  <!-- EN: New Tribe -->
+  <PlayerTribe.label>নতুন উপজাতি</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
+  <PlayerTribe.description>একটি ছোট উপজাতি।</PlayerTribe.description>
+  <!-- EN: leader -->
+  <PlayerTribe.leaderTitle>নেতা</PlayerTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerTribe.messageDefendersAttacking>{0} থেকে {1} আপনার {2} আক্রমণ করছে।</PlayerTribe.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>উপজাতি সদস্য</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>উপজাতি লোক</PlayerTribe.pawnsPlural>
+  
+</LanguageData>

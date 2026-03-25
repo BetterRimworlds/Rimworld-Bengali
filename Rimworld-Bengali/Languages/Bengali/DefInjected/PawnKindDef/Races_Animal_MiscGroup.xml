@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver --><!-- EN: alfacastor -->
+  <Alphabeaver.label>আলফাকাস্টর</Alphabeaver.label><!-- EN: alfacastores -->
+  <Alphabeaver.labelPlural>আলফাকাস্টোরস</Alphabeaver.labelPlural><!-- EN: cría de alfacastor -->
+  <Alphabeaver.lifeStages.0.label>আলফাকাস্টর চারা</Alphabeaver.lifeStages.0.label><!-- EN: crías de alfacastor -->
+  <Alphabeaver.lifeStages.0.labelPlural>আলফাকাস্টর শাবক</Alphabeaver.lifeStages.0.labelPlural><!-- EN: alfacastor joven -->
+  <Alphabeaver.lifeStages.1.label>আলফাকাস্টর অল্পবয়স্ক</Alphabeaver.lifeStages.1.label><!-- EN: alfacastores jóvenes -->
+  <Alphabeaver.lifeStages.1.labelPlural>আলফাকাস্টোরেস অল্পবয়সী</Alphabeaver.lifeStages.1.labelPlural><!-- EN: alfacastor -->
+  <Alphabeaver.lifeStages.2.label>আলফাকাস্টর</Alphabeaver.lifeStages.2.label><!-- EN: alfacastores -->
+  <Alphabeaver.lifeStages.2.labelPlural>আলফাকাস্টোরস</Alphabeaver.lifeStages.2.labelPlural>
+  
+  <!-- EN: cobra --><!-- EN: cobra -->
+  <Cobra.label>কোবরা</Cobra.label><!-- EN: cobras -->
+  <Cobra.labelPlural>কোবরা</Cobra.labelPlural><!-- EN: cría de cobra -->
+  <Cobra.lifeStages.0.label>কোবরা বাচ্চা</Cobra.lifeStages.0.label><!-- EN: crías de cobra -->
+  <Cobra.lifeStages.0.labelPlural>কোব্রার বাচ্চা</Cobra.lifeStages.0.labelPlural><!-- EN: cobra joven -->
+  <Cobra.lifeStages.1.label>কোবরা বাচ্চা</Cobra.lifeStages.1.label><!-- EN: cobras jóvenes -->
+  <Cobra.lifeStages.1.labelPlural>কোবরা শাবক</Cobra.lifeStages.1.labelPlural><!-- EN: cobra -->
+  <Cobra.lifeStages.2.label>কোবরা</Cobra.lifeStages.2.label><!-- EN: cobras -->
+  <Cobra.lifeStages.2.labelPlural>কোবরা</Cobra.lifeStages.2.labelPlural>
+  
+  <!-- EN: thrumbo --><!-- EN: trumbo -->
+  <Thrumbo.label>ট্রুম্বো</Thrumbo.label><!-- EN: trumbos -->
+  <Thrumbo.labelPlural>ট্রাম্বো</Thrumbo.labelPlural>
+  <!-- EN: thrumbo calf --><!-- EN: cría de trumbo -->
+  <Thrumbo.lifeStages.thrumbo_calf.label>ট্রাম্বো চারা</Thrumbo.lifeStages.thrumbo_calf.label>
+  <!-- EN: thrumbo calves --><!-- EN: crías de trumbo -->
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>ট্রাম্বো চারা</Thrumbo.lifeStages.thrumbo_calf.labelPlural><!-- EN: trumbo joven -->
+  <Thrumbo.lifeStages.1.label>ট্রুম্বো ইয়োভেন</Thrumbo.lifeStages.1.label><!-- EN: trumbos jóvenes -->
+  <Thrumbo.lifeStages.1.labelPlural>ট্রুমবো ইয়ংগেস</Thrumbo.lifeStages.1.labelPlural><!-- EN: trumbo -->
+  <Thrumbo.lifeStages.2.label>ট্রুম্বো</Thrumbo.lifeStages.2.label><!-- EN: trumbos -->
+  <Thrumbo.lifeStages.2.labelPlural>ট্রাম্বো</Thrumbo.lifeStages.2.labelPlural>
+  
+  <!-- EN: tortoise --><!-- EN: tortuga -->
+  <Tortoise.label>টর্টুগা</Tortoise.label><!-- EN: tortugas -->
+  <Tortoise.labelPlural>টর্টুগাস</Tortoise.labelPlural><!-- EN: cría de tortuga -->
+  <Tortoise.lifeStages.0.label>টারটল ক্রিয়ার চারা</Tortoise.lifeStages.0.label><!-- EN: crías de tortuga -->
+  <Tortoise.lifeStages.0.labelPlural>টারটল ক্রিয়া</Tortoise.lifeStages.0.labelPlural><!-- EN: tortuga joven -->
+  <Tortoise.lifeStages.1.label>তরুণ টরটুগা</Tortoise.lifeStages.1.label><!-- EN: tortugas jóvenes -->
+  <Tortoise.lifeStages.1.labelPlural>তরুণ টরটু gas</Tortoise.lifeStages.1.labelPlural><!-- EN: tortuga -->
+  <Tortoise.lifeStages.2.label>টর্টুগা</Tortoise.lifeStages.2.label><!-- EN: tortugas -->
+  <Tortoise.lifeStages.2.labelPlural>টর্টুগাস</Tortoise.lifeStages.2.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] traveled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
+  <Actor72.description>[PAWN_nameDef] একদল অভিনেতার সাথে ভ্রমণ করতেন, যেখানে প্রেক্ষাগৃহগুলো দর্শকদের দ্বারা পরিপূর্ণ থাকত এবং তিনি সর্বত্র দর্শকদের ভালোবাসা পেতেন। তিনি একজন পরিপূর্ণতাবাদী ছিলেন এবং প্রদত্ত জিনিস ব্যবহার না করে নিজের সরঞ্জাম ও পোশাক তৈরি করতেন।</Actor72.description>
+  <!-- EN: actor -->
+  <Actor72.title>অভিনেতা</Actor72.title>
+  <Actor72.titleFemale>অভিনেতা</Actor72.titleFemale>
+  <!-- EN: actor -->
+  <Actor72.titleShort>অভিনেতা</Actor72.titleShort>
+  <Actor72.titleShortFemale>অভিনেতা</Actor72.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather. -->
+  <AnimalFarmer21.description>[PAWN_nameDef] মাংস, দুধ, ডিম এবং চামড়ার জন্য বিভিন্ন ধরনের পশু পালন করতেন।</AnimalFarmer21.description>
+  <!-- EN: animal farmer -->
+  <AnimalFarmer21.title>প্রাণী খামারি</AnimalFarmer21.title>
+  <AnimalFarmer21.titleFemale>প্রাণী খামারি</AnimalFarmer21.titleFemale>
+  <!-- EN: animal farmer -->
+  <AnimalFarmer21.titleShort>পশু খামারি</AnimalFarmer21.titleShort>
+  <AnimalFarmer21.titleShortFemale>পশু খামারি</AnimalFarmer21.titleShortFemale>
+  
+  <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
+  <AsceticPriest84.description>নীরবতার ব্রত নেওয়ার পর, [PAWN_nameDef] একটি মঠের সাথে যুক্ত হন এবং দিনের বেলা শান্তভাবে ধ্যানে মগ্ন থাকতেন।\n\nমঠের বাগানে সবজি চাষ করা এবং মঠের বেসমেন্টে পনির তৈরিতে তিনি আনন্দ খুঁজে পান।</AsceticPriest84.description>
+  <!-- EN: ascetic priest -->
+  <AsceticPriest84.title>তপस्वी পুরোহিত</AsceticPriest84.title>
+  <AsceticPriest84.titleFemale>তপस्वी পুরোহিত</AsceticPriest84.titleFemale>
+  <!-- EN: priest -->
+  <AsceticPriest84.titleShort>পুরোহিত</AsceticPriest84.titleShort>
+  <AsceticPriest84.titleShortFemale>পুরোহিত</AsceticPriest84.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing. -->
+  <Bartender62.description>[PAWN_nameDef] একটি নোংরা প্রতিষ্ঠানে বারটেন্ডার হিসেবে কাজ করত। কাজটি ছিল পানীয় মেশানো, কূটনীতি এবং মাথার ওপর আঘাত করা—এই তিনটি অংশের সংমিশ্রণ।</Bartender62.description>
+  <!-- EN: bartender -->
+  <Bartender62.title>বারটেন্ডার</Bartender62.title>
+  <Bartender62.titleFemale>বারটেন্ডার</Bartender62.titleFemale>
+  <!-- EN: barkeep -->
+  <Bartender62.titleShort>বারটেন্ডার</Bartender62.titleShort>
+  <Bartender62.titleShortFemale>বারটেন্ডার</Bartender62.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]. -->
+  <Bodyguard58.description>[PAWN_nameDef] যে তাঁকে অর্থ দিত, তাঁকে রক্ষা করত। বিভিন্ন প্রকার যুদ্ধ কৌশলে দক্ষতা অর্জন করেছিলেন এবং যারা তাঁর পথে আসত, তাদের প্রতি নিষ্ঠুর ছিলেন বলে পরিচিত।</Bodyguard58.description>
+  <!-- EN: bodyguard -->
+  <Bodyguard58.title>শারীরিকরক্ষী দেহরক্ষী</Bodyguard58.title>
+  <Bodyguard58.titleFemale>শারীরিকরক্ষী দেহরক্ষী</Bodyguard58.titleFemale>
+  <!-- EN: bodyguard -->
+  <Bodyguard58.titleShort>দেহরক্ষী</Bodyguard58.titleShort>
+  <Bodyguard58.titleShortFemale>দেহরক্ষী</Bodyguard58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
+  <CaveExplorer45.description>[PAWN_nameDef] মূল্যবান খনিজ অনুসন্ধানে অন্ধকার সুড়ঙ্গ এবং প্রায় দুর্গম ফাটলগুলোর মানচিত্র তৈরি করে জীবিকা নির্বাহ করতেন। কাজটি অত্যন্ত বিপজ্জনক ছিল, তবে পারিশ্রমিক ভালো ছিল।</CaveExplorer45.description>
+  <!-- EN: cave explorer -->
+  <CaveExplorer45.title>গুহা অনুসন্ধানকারী অভিযাত্রী</CaveExplorer45.title>
+  <CaveExplorer45.titleFemale>গুহা অনুসন্ধানকারী অভিযাত্রী</CaveExplorer45.titleFemale>
+  <!-- EN: cave explorer -->
+  <CaveExplorer45.titleShort>গুহা অনুসন্ধানকারী</CaveExplorer45.titleShort>
+  <CaveExplorer45.titleShortFemale>গুহা অনুসন্ধানকারী</CaveExplorer45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was the star chef at a high-class coreworld restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among the kitchen staff for [PAWN_possessive] casual disdain for grunt work. -->
+  <Chef52.description>[PAWN_nameDef] একটি উচ্চমানের কোরওয়ার্ল্ড রেস্তোরাঁয় প্রধান বাবুর্চি ছিলেন। খাদ্য প্রস্তুতকারণে সৃজনশীলতার জন্য তিনি গ্রাহকদের মধ্যে বিখ্যাত ছিলেন, এবং রান্নাঘরের কর্মীদের কাছে তিনি সাধারণ কাজগুলির প্রতি উদাসীনতার জন্য কুখ্যাত ছিলেন।</Chef52.description>
+  <!-- EN: chef -->
+  <Chef52.title>শেফ</Chef52.title>
+  <Chef52.titleFemale>শেফ</Chef52.titleFemale>
+  <!-- EN: chef -->
+  <Chef52.titleShort>শেফ</Chef52.titleShort>
+  <Chef52.titleShortFemale>শেফ</Chef52.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a low-ranking administrator for a moribund government bureaucracy. [PAWN_pronoun] is most at home filling out complicated paperwork and playing office politics. -->
+  <CivilServant2.description>[PAWN_nameDef] একজন ক্ষয়িষ্ণু সরকারি আমলাতন্ত্রের একজন নিম্নপদস্থ প্রশাসক হিসেবে কাজ করত। জটিল কাগজপত্র পূরণ করা এবং অফিসের রাজনীতি খেলায় [PAWN_nameDef] সবচেয়ে স্বচ্ছন্দ।</CivilServant2.description>
+  <!-- EN: civil servant -->
+  <CivilServant2.title>সরকারি কর্মচারী</CivilServant2.title>
+  <CivilServant2.titleFemale>সরকারি কর্মচারী</CivilServant2.titleFemale>
+  <!-- EN: bureaucrat -->
+  <CivilServant2.titleShort>আমলা</CivilServant2.titleShort>
+  <CivilServant2.titleShortFemale>আমলা</CivilServant2.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never created anything in [PAWN_possessive] life. [PAWN_pronoun] did, however, prove to be a natural at getting others to give [PAWN_objective] what they had created. -->
+  <ConArtist80.description>[PAWN_nameDef] জীবনে কখনো কিছু তৈরি করেননি। তবে, অন্যেরা যা তৈরি করেছে তা আদায় করতে তিনি সহজাত দক্ষতা প্রদর্শন করেছেন।</ConArtist80.description>
+  <!-- EN: con artist -->
+  <ConArtist80.title>প্রতারক শিল্পী</ConArtist80.title>
+  <ConArtist80.titleFemale>প্রতারক শিল্পী</ConArtist80.titleFemale>
+  <!-- EN: con artist -->
+  <ConArtist80.titleShort>ঠকবাজ</ConArtist80.titleShort>
+  <ConArtist80.titleShortFemale>ঠকবাজ</ConArtist80.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was well-known in art circles on [PAWN_possessive] home world for [PAWN_possessive] unique and creative conceptual artworks.\n\nNobody was sure exactly what [PAWN_pronoun] was trying to communicate, but [PAWN_possessive] pieces were highly valued by collectors. -->
+  <ConceptualArtist39.description>[PAWN_nameDef] তাঁর নিজ গ্রহে শিল্পকলায় বিশেষভাবে পরিচিত ছিলেন স্বতন্ত্র এবং সৃজনশীল ধারণাগত শিল্পকর্মের জন্য।\n\nকেউ নিশ্চিতভাবে বলতে পারত না তিনি কী বোঝাতে চাইতেন, তবে তাঁর শিল্পকর্ম সংগ্রাহকদের কাছে অত্যন্ত মূল্যবান ছিল।</ConceptualArtist39.description>
+  <!-- EN: conceptual artist -->
+  <ConceptualArtist39.title>ধারণাগত শিল্পী</ConceptualArtist39.title>
+  <ConceptualArtist39.titleFemale>ধারণাগত শিল্পী</ConceptualArtist39.titleFemale>
+  <!-- EN: artist -->
+  <ConceptualArtist39.titleShort>শিল্পী</ConceptualArtist39.titleShort>
+  <ConceptualArtist39.titleShortFemale>শিল্পী</ConceptualArtist39.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a construction worker. [PAWN_pronoun] lead a team which built everything from office blocks to cathedrals.\n\n[PAWN_possessive] busy job and numerous nearby fast-food outlets meant [PAWN_pronoun] never cooked for [PAWN_objective]self. -->
+  <ConstructionEngineer32.description>[PAWN_nameDef] একজন নির্মাণ কর্মী ছিলেন। তিনি একটি দলের নেতৃত্ব দিতেন যারা অফিস ব্লক থেকে শুরু করে ক্যাথেড্রাল পর্যন্ত সবকিছু তৈরি করত।\n\nব্যস্ত কাজের চাপ এবং আশেপাশে অসংখ্য ফাস্ট-ফুডের দোকানের কারণে তিনি কখনো নিজের জন্য রান্না করতেন না।</ConstructionEngineer32.description>
+  <!-- EN: construction engineer -->
+  <ConstructionEngineer32.title>নির্মাণ প্রকৌশলী</ConstructionEngineer32.title>
+  <ConstructionEngineer32.titleFemale>নির্মাণ প্রকৌশলী</ConstructionEngineer32.titleFemale>
+  <!-- EN: builder -->
+  <ConstructionEngineer32.titleShort>নির্মাণকারী</ConstructionEngineer32.titleShort>
+  <ConstructionEngineer32.titleShortFemale>নির্মাণকারী</ConstructionEngineer32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but [PAWN_pronoun] found it rewarding. -->
+  <ContractMiner86.description>[PAWN_nameDef] বিভিন্ন কাজ থেকে কাজ পরিবর্তন করে சுரঙ্গ ও উন্মুক্ত খনিতে খনিজ এবং প্রাচীন মূল্যবান সম্পদ উত্তোলন করতেন। কাজটি কঠিন ও নোংরা ছিল, কিন্তু তিনি এটিকে ফলপ্রসূ মনে করতেন।</ContractMiner86.description>
+  <!-- EN: contract miner -->
+  <ContractMiner86.title>চুক্তি খনি শ্রমিক</ContractMiner86.title>
+  <ContractMiner86.titleFemale>চুক্তি খনি শ্রমিক</ContractMiner86.titleFemale>
+  <!-- EN: contract miner -->
+  <ContractMiner86.titleShort>চুক্তিভিত্তিক খনি শ্রমিক</ContractMiner86.titleShort>
+  <ContractMiner86.titleShortFemale>চুক্তিভিত্তিক খনি শ্রমিক</ContractMiner86.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone. -->
+  <CorporateManager76.description>[PAWN_nameDef] একটি বিশাল ওপেন-প্ল্যান অফিসে কাজ করত, যেখানে তিনি নিশ্চিত করত তাঁর নিযুক্ত কর্মীদের দল বেশিরভাগ সময় কাজে নিযুক্ত رہے۔\n\nচাকরিটা তীব্রভাবে রাজনৈতিক ছিল। পদোন্নতি পাওয়ার জন্য, [PAWN_nameDef] শিখেছিল কীভাবে এমনভাবে সবকিছু সাজানো যায় যাতে প্রায় যে কারোর কাজকেই নিজের কৃতিত্ব হিসেবে দাবি করা যায়।</CorporateManager76.description>
+  <!-- EN: corporate manager -->
+  <CorporateManager76.title>কর্পোরেট ব্যবস্থাপক</CorporateManager76.title>
+  <CorporateManager76.titleFemale>কর্পোরেট ব্যবস্থাপক</CorporateManager76.titleFemale>
+  <!-- EN: manager -->
+  <CorporateManager76.titleShort>ব্যবস্থাপক</CorporateManager76.titleShort>
+  <CorporateManager76.titleShortFemale>ব্যবস্থাপক</CorporateManager76.titleShortFemale>
+  
+  <!-- EN: A terrifying trauma when [PAWN_nameDef] was a young adult caused [PAWN_objective] to develop a serious eating disorder. With counseling [PAWN_pronoun] learned to have a healthier relationship with food, and decided to put [PAWN_possessive] new skills to use helping others overcome their emotional problems. -->
+  <Counselor26.description>তরুণ বয়সে [PAWN_nameDef] এর জীবনে একটি ভয়ংকর আঘাতমূলক ঘটনা ঘটেছিল, যার কারণে তাঁর মধ্যে গুরুতর খাদ্য গ্রহণের ব্যাধি তৈরি হয়েছিল। কাউন্সেলিংয়ের মাধ্যমে তিনি খাবারের সঙ্গে একটি সুস্থ সম্পর্ক স্থাপন করতে শিখেছিলেন এবং অন্যদের তাঁদের মানসিক সমস্যা কাটিয়ে উঠতে সাহায্য করার জন্য তাঁর নতুন দক্ষতা ব্যবহার করার সিদ্ধান্ত নিয়েছিলেন।</Counselor26.description>
+  <!-- EN: counselor -->
+  <Counselor26.title>পরামর্শদাতা</Counselor26.title>
+  <Counselor26.titleFemale>পরামর্শদাতা</Counselor26.titleFemale>
+  <!-- EN: counselor -->
+  <Counselor26.titleShort>পরামর্শদাতা</Counselor26.titleShort>
+  <Counselor26.titleShortFemale>পরামর্শদাতা</Counselor26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields. -->
+  <CropFarmer17.description>[PAWN_nameDef] একটি শস্য খামার চালাতেন। তিনি মাটি, কৃষি সরঞ্জাম, আবহাওয়ার ধরণ এবং দামের প্রবণতা বিশ্লেষণ করে বিশাল শস্যক্ষেতে ফসল রোপণ ও সংগ্রহের অনুকূলকরণ করতেন।</CropFarmer17.description>
+  <!-- EN: crop farmer -->
+  <CropFarmer17.title>ফসলের কৃষক</CropFarmer17.title>
+  <CropFarmer17.titleFemale>ফসলের কৃষক</CropFarmer17.titleFemale>
+  <!-- EN: farmer -->
+  <CropFarmer17.titleShort>কৃষক</CropFarmer17.titleShort>
+  <CropFarmer17.titleShortFemale>কৃষক</CropFarmer17.titleShortFemale>
+  
+  <!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent out after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run, treating [PAWN_possessive] own wounds so no doctor could betray [PAWN_objective]. The ordeal made [PAWN_objective] bitter and untrusting. -->
+  <Defector78.description>শৈশবে [PAWN_nameDef] কঠোর স্বৈরাচারী শাসন থেকে পালানোর সিদ্ধান্ত নেন। তাঁর এই পদত্যাগ ভালোভাবে নেওয়া হয়নি, এবং তাঁকে ধরার জন্য এজেন্টদের পাঠানো হয়েছিল।\n\nবহু বছর ধরে তিনি পালিয়ে বেড়িয়েছেন, নিজের ক্ষতগুলো নিজেই সারিয়েছেন যাতে কোনো ডাক্তার তাঁকে ধরিয়ে দিতে না পারেন। এই অভিজ্ঞতায় তিনি তিক্ত ও অবিশ্বাসী হয়ে উঠেছেন।</Defector78.description>
+  <!-- EN: defector -->
+  <Defector78.title>পলাতক ব্যক্তি</Defector78.title>
+  <Defector78.titleFemale>পলাতক ব্যক্তি</Defector78.titleFemale>
+  <!-- EN: defector -->
+  <Defector78.titleShort>বিদ্রোহী</Defector78.titleShort>
+  <Defector78.titleShortFemale>বিদ্রোহী</Defector78.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never figured out what to do with [PAWN_possessive] life. [PAWN_pronoun] traveled often, taking up casual work wherever [PAWN_pronoun] found it.\n\n[PAWN_pronoun] also occasionally worked on a novel that [PAWN_pronoun] knew would be a bestseller - just as soon as [PAWN_pronoun] could find a publisher who was interested. -->
+  <Drifter67.description>[PAWN_nameDef] কখনো জীবনের উদ্দেশ্য খুঁজে বের করতে পারেননি। তিনি প্রায়ই ভ্রমণ করতেন, যেখানে কাজ পেতেন সেখানেই কাজ নিতেন।\n\nএছাড়াও তিনি মাঝে মাঝে একটি উপন্যাস নিয়ে কাজ করতেন, যা তিনি জানতেন একটি বেস্টসেলার হবে - যদি তিনি এমন কোনো প্রকাশক খুঁজে পেতেন যিনি আগ্রহী হন।</Drifter67.description>
+  <!-- EN: drifter -->
+  <Drifter67.title>ভাসমান ব্যক্তি</Drifter67.title>
+  <Drifter67.titleFemale>ভাসমান ব্যক্তি</Drifter67.titleFemale>
+  <!-- EN: drifter -->
+  <Drifter67.titleShort>বিচরণকারী</Drifter67.titleShort>
+  <Drifter67.titleShortFemale>বিচরণকারী</Drifter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] denies involvement in the crimes that brought about [PAWN_possessive] incarceration in a brutal penal colony. [PAWN_pronoun] escaped by tunneling beneath the perimeter using modified cutlery. -->
+  <EscapedConvict90.description>[PAWN_nameDef] কঠোর দণ্ডনীয় কলোনিতে তাঁর কারাবাসের কারণ হওয়া অপরাধগুলোতে জড়িত থাকার কথা অস্বীকার করেন। তিনি পরিবর্তিত কাটলারি ব্যবহার করে সীমানাগুলোর নিচ দিয়ে সুড়ঙ্গ খুঁড়ে পালিয়ে যান।</EscapedConvict90.description>
+  <!-- EN: escaped convict -->
+  <EscapedConvict90.title>পলাতক কয়েদি</EscapedConvict90.title>
+  <EscapedConvict90.titleFemale>পলাতক কয়েদি</EscapedConvict90.titleFemale>
+  <!-- EN: escapee -->
+  <EscapedConvict90.titleShort>পলাতক</EscapedConvict90.titleShort>
+  <EscapedConvict90.titleShortFemale>পলাতক</EscapedConvict90.titleShortFemale>
+  
+  <!-- EN: As a youth, [PAWN_nameDef] experienced a religious awakening. [PAWN_pronoun] decided to spend the rest of [PAWN_possessive] life spreading the word of [PAWN_possessive] deity, the beauty of its culture, and its unusual medical tradition. -->
+  <Evangelist39.description>তরুণ বয়সে, [PAWN_nameDef] এর একটি ধর্মীয় জাগরণ হয়েছিল। তিনি তাঁর জীবনের বাকি সময় তাঁর ঈশ্বরের বাণী প্রচার, এর সংস্কৃতির সৌন্দর্য এবং এর অস্বাভাবিক চিকিৎসা ঐতিহ্য ছড়িয়ে দেওয়ার সিদ্ধান্ত নিয়েছিলেন।</Evangelist39.description>
+  <!-- EN: evangelist -->
+  <Evangelist39.title>প্রচারক</Evangelist39.title>
+  <Evangelist39.titleFemale>প্রচারক</Evangelist39.titleFemale>
+  <!-- EN: evangelist -->
+  <Evangelist39.titleShort>প্রচারক</Evangelist39.titleShort>
+  <Evangelist39.titleShortFemale>প্রচারক</Evangelist39.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an explosive engineer employed in mines. [PAWN_pronoun] took [PAWN_possessive] job very seriously and was well-versed in the technicalities - so much so that [PAWN_pronoun] refused to demean [PAWN_objective]self by helping with the clean-up once [PAWN_possessive] carefully-calculated explosion was complete. -->
+  <ExplosivesExpert26.description>[PAWN_nameDef] ছিলেন খনিতে নিযুক্ত একজন বিস্ফোরক প্রকৌশলী। তিনি তাঁর কাজকে অত্যন্ত গুরুত্বের সাথে নিতেন এবং কারিগরি দিক সম্পর্কে খুব ভালোভাবে জানতেন - এতটাই যে, তাঁর নিখুঁতভাবে গণনা করা বিস্ফোরণ সম্পন্ন হওয়ার পরে পরিষ্কার-পরিচ্ছন্নতার কাজে সাহায্য করতে তিনি নিজেকে অপদস্থ করতে অস্বীকার করতেন।</ExplosivesExpert26.description>
+  <!-- EN: explosives expert -->
+  <ExplosivesExpert26.title>বিস্ফোরক বিশেষজ্ঞ</ExplosivesExpert26.title>
+  <ExplosivesExpert26.titleFemale>বিস্ফোরক বিশেষজ্ঞ</ExplosivesExpert26.titleFemale>
+  <!-- EN: blaster -->
+  <ExplosivesExpert26.titleShort>ব্ল্যাস্টার</ExplosivesExpert26.titleShort>
+  <ExplosivesExpert26.titleShortFemale>ব্ল্যাস্টার</ExplosivesExpert26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both the practical challenges of soil types, wind, and rain, as well as the long-term planning of forest growth. -->
+  <Forester96.description>[PAWN_nameDef] বনভূমি বৃদ্ধি ও ফসল সংগ্রহ করতেন। মাটি, বাতাস এবং বৃষ্টির মতো ব্যবহারিক চ্যালেঞ্জগুলো, সেইসাথে বনের দীর্ঘমেয়াদী পরিকল্পনা সম্পর্কে তাঁর ধারণা ছিল।</Forester96.description>
+  <!-- EN: forester -->
+  <Forester96.title>বনরক্ষক</Forester96.title>
+  <Forester96.titleFemale>বনরক্ষক</Forester96.titleFemale>
+  <!-- EN: forester -->
+  <Forester96.titleShort>বনরক্ষক</Forester96.titleShort>
+  <Forester96.titleShortFemale>বনরক্ষক</Forester96.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
+  <FurnitureBuilder83.description>[PAWN_nameDef] বনের কাছাকাছি বেড়ে উঠেছেন। তিনি ধনী ঝলমলে বিশ্ব-এর ক্লায়েন্টদের জন্য সুন্দর আসবাব তৈরি করে সময় কাটাতেন।</FurnitureBuilder83.description>
+  <!-- EN: furniture builder -->
+  <FurnitureBuilder83.title>আসবাবপত্র নির্মাতা</FurnitureBuilder83.title>
+  <FurnitureBuilder83.titleFemale>আসবাবপত্র নির্মাতা</FurnitureBuilder83.titleFemale>
+  <!-- EN: builder -->
+  <FurnitureBuilder83.titleShort>নির্মাণকারী</FurnitureBuilder83.titleShort>
+  <FurnitureBuilder83.titleShortFemale>নির্মাণকারী</FurnitureBuilder83.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked at the mansion of a powerful family, tending the lavish gardens as part of a team of servants. -->
+  <Gardener99.description>[PAWN_nameDef] একজন প্রভাবশালী পরিবারের প্রাসাদে কাজ করতেন, যেখানে সেবাদীদের একটি দলের সাথে জমকালো বাগানগুলোর পরিচর্যা করতেন।</Gardener99.description>
+  <!-- EN: gardener -->
+  <Gardener99.title>উদ্যানপালক</Gardener99.title>
+  <Gardener99.titleFemale>উদ্যানপালক</Gardener99.titleFemale>
+  <!-- EN: gardener -->
+  <Gardener99.titleShort>উদ্যানপালক</Gardener99.titleShort>
+  <Gardener99.titleShortFemale>উদ্যানপালক</Gardener99.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked with miners and cave-diggers, identifying rock types and natural formations.\n\nDuring [PAWN_possessive] years underground [PAWN_pronoun] also gained experience repairing drilling machines and other technical equipment. -->
+  <Geologist66.description>[PAWN_nameDef] খনি শ্রমিক এবং গুহা খননকারীদের সাথে কাজ করত, পাথরের ধরন এবং প্রাকৃতিক গঠন সনাক্ত করত।\n\nভূগর্ভে কাটানো বছরগুলোতে [PAWN_nameDef] ড্রিলিং মেশিন এবং অন্যান্য প্রযুক্তিগত সরঞ্জাম মেরামত করার অভিজ্ঞতাও অর্জন করেছে।</Geologist66.description>
+  <!-- EN: geologist -->
+  <Geologist66.title>ভূ-তত্ত্ববিদ</Geologist66.title>
+  <Geologist66.titleFemale>ভূ-তত্ত্ববিদ</Geologist66.titleFemale>
+  <!-- EN: geologist -->
+  <Geologist66.titleShort>ভূ-তত্ত্ববিদ</Geologist66.titleShort>
+  <Geologist66.titleShortFemale>ভূ-তত্ত্ববিদ</Geologist66.titleShortFemale>
+  
+  <!-- EN: As an adult, [PAWN_nameDef] kept house and cared for [PAWN_possessive] children while [PAWN_possessive] spouse worked. -->
+  <Housemate8.description>প্রাপ্তবয়স্ক হওয়ার পর, [PAWN_nameDef] সংসার সামলেছেন এবং তাঁর জীবনসঙ্গীর কাজের সময় সন্তানদের দেখাশোনা করেছেন।</Housemate8.description>
+  <!-- EN: housemate -->
+  <Housemate8.title>বাড়ি-সহযোগী</Housemate8.title>
+  <!-- EN: housewife -->
+  <Housemate8.titleFemale>গৃহিণী</Housemate8.titleFemale>
+  <!-- EN: housemate -->
+  <Housemate8.titleShort>সহাবসী</Housemate8.titleShort>
+  <!-- EN: housewife -->
+  <Housemate8.titleShortFemale>গৃহিণী</Housemate8.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a domestic servant to wealthy homeowners.\n\n[PAWN_pronoun] got to know the kitchens and basements of [PAWN_possessive] master's mansion well, but never did any work outside. -->
+  <HouseServant63.description>[PAWN_nameDef] ধনী বাড়ির মালিকদের অধীনে একজন গৃহস্থ কর্মী ছিলেন।\n\nতিনি তার প্রভুর প্রাসাদের রান্নাঘর এবং বেসমেন্টগুলি খুব ভালোভাবে জানতে পেরেছিলেন, কিন্তু কখনও বাইরে কোনো কাজ করেননি।</HouseServant63.description>
+  <!-- EN: house servant -->
+  <HouseServant63.title>বাড়ি সেবক</HouseServant63.title>
+  <HouseServant63.titleFemale>বাড়ি সেবক</HouseServant63.titleFemale>
+  <!-- EN: servant -->
+  <HouseServant63.titleShort>সেবক</HouseServant63.titleShort>
+  <HouseServant63.titleShortFemale>সেবক</HouseServant63.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community. When times became tough, others looked to [PAWN_objective] as the one to help people through a tough season. -->
+  <Hunter89.description>[PAWN_nameDef] বন্য পশু শিকার করে তাঁর সম্প্রদায়কে খাবার জোগাতে সাহায্য করতেন। যখন পরিস্থিতি কঠিন হয়ে যেত, তখন অন্যরা কঠিন সময়ে মানুষকে সাহায্য করার জন্য তাঁর দিকে তাকাত।</Hunter89.description>
+  <!-- EN: hunter -->
+  <Hunter89.title>শিকারী</Hunter89.title>
+  <Hunter89.titleFemale>শিকারী</Hunter89.titleFemale>
+  <!-- EN: hunter -->
+  <Hunter89.titleShort>শিকারী</Hunter89.titleShort>
+  <Hunter89.titleShortFemale>শিকারী</Hunter89.titleShortFemale>
+  
+  <!-- EN: On [PAWN_possessive] homeworld, [PAWN_nameDef] worked as a moderately successful inventor. [PAWN_pronoun] developed several minor technologies. -->
+  <Inventor6.description>তাঁদের নিজ গ্রহে, [PAWN_nameDef] একজন মোটামুটি সফল উদ্ভাবক হিসেবে কাজ করতেন। তিনি বেশ কয়েকটি ছোটখাটো প্রযুক্তি তৈরি করেছিলেন।</Inventor6.description>
+  <!-- EN: inventor -->
+  <Inventor6.title>উদ্ভাবক</Inventor6.title>
+  <Inventor6.titleFemale>উদ্ভাবক</Inventor6.titleFemale>
+  <!-- EN: inventor -->
+  <Inventor6.titleShort>উদ্ভাবক</Inventor6.titleShort>
+  <Inventor6.titleShortFemale>উদ্ভাবক</Inventor6.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life in prisons, where [PAWN_pronoun] was put to work in the kitchens. [PAWN_pronoun] had a habit of getting into fights, and developed an aggressive way of speaking. -->
+  <Jailbird40.description>[PAWN_nameDef] জীবনের বেশিরভাগ সময় কারাগারগুলোতে কাটিয়েছেন, যেখানে তাঁকে রান্নাঘরে কাজ করতে দেওয়া হত। তাঁর মারামারি করার একটা অভ্যাস ছিল, এবং কথা বলার ধরনে একটা আক্রমণাত্মক ভাব তৈরি হয়েছে।</Jailbird40.description>
+  <!-- EN: jailbird -->
+  <Jailbird40.title>জেলপাখি</Jailbird40.title>
+  <Jailbird40.titleFemale>জেলপাখি</Jailbird40.titleFemale>
+  <!-- EN: jailbird -->
+  <Jailbird40.titleShort>কারারদণ্ডপ্রাপ্ত</Jailbird40.titleShort>
+  <Jailbird40.titleShortFemale>কারারদণ্ডপ্রাপ্ত</Jailbird40.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
+  <LivestockFarmer8.description>[PAWN_nameDef] একটি পশু খামার চালাতেন। তিনি পশুদের জিনগত বৈশিষ্ট্য, খাদ্যের প্রকার, জন্ম এবং জবাই করার পদ্ধতি এবং দামের প্রবণতা বিশ্লেষণ করে বিশাল পশু পালনের অনুকূলকরণ করতেন।</LivestockFarmer8.description>
+  <!-- EN: livestock farmer -->
+  <LivestockFarmer8.title>পশু পালনকারী কৃষক</LivestockFarmer8.title>
+  <LivestockFarmer8.titleFemale>পশু পালনকারী কৃষক</LivestockFarmer8.titleFemale>
+  <!-- EN: farmer -->
+  <LivestockFarmer8.titleShort>কৃষক</LivestockFarmer8.titleShort>
+  <LivestockFarmer8.titleShortFemale>কৃষক</LivestockFarmer8.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] took down trees and collected wood in hilly passes and ravines. [PAWN_pronoun] learned both how to fell the trees safely, and how to manage the forest to keep it healthy. -->
+  <Logger95.description>[PAWN_nameDef] পাহাড়ি পথ এবং খাদে গাছ কেটে কাঠ সংগ্রহ করতেন। তিনি নিরাপদে গাছ কাটতে এবং বনকে সুস্থ রাখতে কীভাবে পরিচালনা করতে হয় তা শিখেছেন।</Logger95.description>
+  <!-- EN: logger -->
+  <Logger95.title>লগার</Logger95.title>
+  <Logger95.titleFemale>লগার</Logger95.titleFemale>
+  <!-- EN: logger -->
+  <Logger95.titleShort>লগার</Logger95.titleShort>
+  <Logger95.titleShortFemale>লগার</Logger95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked a variety of casual jobs to support [PAWN_possessive] family, gaining a set of basic hands-on skills. -->
+  <LowWageWorker7.description>[PAWN_nameDef] পরিবারের ভরণপোষণের জন্য বিভিন্ন ধরনের সাধারণ কাজ করতেন, যা তাঁকে কিছু প্রাথমিক হাতে-কলমে দক্ষতা অর্জনে সাহায্য করে।</LowWageWorker7.description>
+  <!-- EN: low-wage worker -->
+  <LowWageWorker7.title>কম-বেতন কর্মী</LowWageWorker7.title>
+  <LowWageWorker7.titleFemale>কম-বেতন কর্মী</LowWageWorker7.titleFemale>
+  <!-- EN: grunt -->
+  <LowWageWorker7.titleShort>সাধারণ কর্মী</LowWageWorker7.titleShort>
+  <LowWageWorker7.titleShortFemale>সাধারণ কর্মী</LowWageWorker7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was obsessed with old machines and arcane pieces of technology. [PAWN_pronoun] obtained them wherever [PAWN_pronoun] could, and loved taking them apart to see how they worked.\n\n[PAWN_pronoun] had a habit of talking about [PAWN_possessive] collection long after people around [PAWN_objective] had stopped listening. -->
+  <MachineCollector55.description>[PAWN_nameDef] পুরনো মেশিন এবং জটিল প্রযুক্তির প্রতি আসক্ত ছিলেন। তিনি সেগুলি যেখানেই পেতেন, সংগ্রহ করতেন এবং সেগুলি কীভাবে কাজ করে তা দেখার জন্য খুলে ফেলতেন।\n\nআশেপাশের লোকেরা শুনতে перестаলেও তিনি তাঁর সংগ্রহের বিষয়ে কথা বলতে থাকতেন।</MachineCollector55.description>
+  <!-- EN: machine collector -->
+  <MachineCollector55.title>যন্ত্র সংগ্রাহক</MachineCollector55.title>
+  <MachineCollector55.titleFemale>যন্ত্র সংগ্রাহক</MachineCollector55.titleFemale>
+  <!-- EN: collector -->
+  <MachineCollector55.titleShort>সংগ্রাহক</MachineCollector55.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] did mathematical research at a university.\n\n[PAWN_pronoun] spent much of [PAWN_possessive] spare time immersed in shooting simulations, though [PAWN_pronoun] was frequently ridiculed by other players for [PAWN_possessive] terrible aim. -->
+  <Mathematician6.description>[PAWN_nameDef] একটি বিশ্ববিদ্যালয়ে গাণিতিক গবেষণা করতেন।\n\nতবে, তিনি অবসর সময়ে প্রায়শই শুটিং সিমুলেশনে মগ্ন থাকতেন, যদিও তাঁর দুর্বল নিশানা নিয়ে অন্যান্য খেলোয়াড়রা প্রায়ই তাঁকে উপহাস করত।</Mathematician6.description>
+  <!-- EN: mathematician -->
+  <Mathematician6.title>গণিতবিদ</Mathematician6.title>
+  <Mathematician6.titleFemale>গণিতবিদ</Mathematician6.titleFemale>
+  <!-- EN: math prof -->
+  <Mathematician6.titleShort>গণিত অধ্যাপক</Mathematician6.titleShort>
+  <Mathematician6.titleShortFemale>গণিত অধ্যাপক</Mathematician6.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] modelled clothes and jewellery for advertisers, and was also used as a physical blueprint for characters in virtual reality simulations. -->
+  <Model99.description>[PAWN_nameDef] বিজ্ঞাপনদাতাদের জন্য পোশাক এবং গহনা মডেল করতেন, এবং ভার্চুয়াল রিয়েলিটি সিমুলেশনে চরিত্রগুলির শারীরিক ব্লুপ্রিন্ট হিসাবেও ব্যবহৃত হতেন।</Model99.description>
+  <!-- EN: model -->
+  <Model99.title>গুরুতর পেশা ব্যাকস্টোরি কোর</Model99.title>
+  <!-- EN: model -->
+  <Model99.titleShort>চরিত্রের প্রেক্ষাপট।</Model99.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a hospital, doing routine work such as changing bandages and taking temperatures.\n\nIt was a busy job, but [PAWN_pronoun] could always find time for a chat with a patient. -->
+  <Nurse61.description>[PAWN_nameDef] একটি হাসপাতালে কাজ করতেন, যেখানে ব্যান্ডেজ পরিবর্তন করা ও তাপমাত্রা নেওয়ার মতো নিয়মিত কাজগুলো করতেন।\n\nএটি একটি ব্যস্ততাপূর্ণ কাজ ছিল, তবে তিনি সবসময় রোগীর সাথে কথা বলার জন্য সময় বের করতে পারতেন।</Nurse61.description>
+  <!-- EN: nurse -->
+  <Nurse61.title>নার্স</Nurse61.title>
+  <Nurse61.titleFemale>নার্স</Nurse61.titleFemale>
+  <!-- EN: nurse -->
+  <Nurse61.titleShort>নার্স</Nurse61.titleShort>
+  <Nurse61.titleShortFemale>নার্স</Nurse61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s job was to respond rapidly to medical emergencies. [PAWN_pronoun] is used to dealing with severe injuries with only limited medical supplies.\n\n[PAWN_pronoun] treated so many gunshot wounds over the years that even seeing a gun made [PAWN_objective] uncomfortable. -->
+  <Paramedic45.description>[PAWN_nameDef]'র কাজ ছিল দ্রুততার সাথে চিকিৎসা সংক্রান্ত জরুরি অবস্থার মোকাবিলা করা। সীমিত চিকিৎসা সামগ্রী দিয়ে গুরুতর আঘাতের চিকিৎসা করার অভিজ্ঞতা রয়েছে।\n\nবহু বছর ধরে এতগুলি বন্দুকের ক্ষত দেখেছে যে বন্দুক দেখলেই অস্বস্তি বোধ করেন।</Paramedic45.description>
+  <!-- EN: paramedic -->
+  <Paramedic45.title>প্যারামেডিক</Paramedic45.title>
+  <Paramedic45.titleFemale>প্যারামেডিক</Paramedic45.titleFemale>
+  <!-- EN: paramedic -->
+  <Paramedic45.titleShort>প্যারামেডিক</Paramedic45.titleShort>
+  <Paramedic45.titleShortFemale>প্যারামেডিক</Paramedic45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal social enforcement unit.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
+  <Policeman45.description>[PAWN_nameDef] একজন পৌর সামাজিক প্রয়োগ ইউনিটে লাইন অফিসার হিসেবে শান্তি বজায় রাখতেন।\n\nতাকে ডি-এসকালেশন, শারীরিক নিয়ন্ত্রণ, শুটিং এবং অন্যান্য পুলিশিং দক্ষতা বিষয়ে প্রশিক্ষণ দেওয়া হয়েছিল।</Policeman45.description>
+  <!-- EN: policeman -->
+  <Policeman45.title>পুলিশ অফিসার</Policeman45.title>
+  <!-- EN: policewoman -->
+  <Policeman45.titleFemale>মহিলা পুলিশ অফিসার</Policeman45.titleFemale>
+  <!-- EN: policeman -->
+  <Policeman45.titleShort>পুলিশকর্মী</Policeman45.titleShort>
+  <!-- EN: policewoman -->
+  <Policeman45.titleShortFemale>পুলিশ মহিলা</Policeman45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
+  <QuarryWorker29.description>[PAWN_nameDef] একটি খনিতে কাজ করত, পাহাড়ের ঢাল থেকে মূল্যবান পাথর তুলতে সাহায্য করত। তিনি দৃষ্টি, স্পর্শ এবং স্বজ্ঞাতভাবে পাথরের মধ্যে সুযোগ এবং বিপদ অনুভব করতে শিখেছিলেন।</QuarryWorker29.description>
+  <!-- EN: quarry worker -->
+  <QuarryWorker29.title>খনি শ্রমিক</QuarryWorker29.title>
+  <QuarryWorker29.titleFemale>খনি শ্রমিক</QuarryWorker29.titleFemale>
+  <!-- EN: quarry worker -->
+  <QuarryWorker29.titleShort>পাথর খনি শ্রমিক</QuarryWorker29.titleShort>
+  <QuarryWorker29.titleShortFemale>পাথর খনি শ্রমিক</QuarryWorker29.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.\n\n[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]. -->
+  <Rancher43.description>[PAWN_nameDef] একটি সফল ranch-এর মালিক এবং পরিচালক ছিলেন, যেখানে তিনি মাংস এবং উল-এর জন্য পশু পালন করতেন।\n\nযে কোনো বোকা কাজ অন্যের মাধ্যমে করিয়ে নিতে পারলেই তিনি খুশি হতেন, নিজে তা করতে অস্বীকার করতেন।</Rancher43.description>
+  <!-- EN: rancher -->
+  <Rancher43.title>র‍্যাঞ্চার</Rancher43.title>
+  <Rancher43.titleFemale>র‍্যাঞ্চার</Rancher43.titleFemale>
+  <!-- EN: rancher -->
+  <Rancher43.titleShort>র‍্যাঞ্চার</Rancher43.titleShort>
+  <Rancher43.titleShortFemale>র‍্যাঞ্চার</Rancher43.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tracked animals and people for a wide range of clients. [PAWN_pronoun] became adept at reading spoor, finding food in the wild, and stalking prey. -->
+  <Ranger96.description>[PAWN_nameDef] বিভিন্ন ক্লায়েন্টের জন্য পশু এবং মানুষের খোঁজ রাখতেন। তিনি পদচিহ্ন পড়ে বোঝা, জঙ্গলে খাবার খুঁজে বের করা এবং শিকার অনুসরণ করতে দক্ষ হয়ে উঠেছিলেন।</Ranger96.description>
+  <!-- EN: ranger -->
+  <Ranger96.title>রেঞ্জার</Ranger96.title>
+  <Ranger96.titleFemale>রেঞ্জার</Ranger96.titleFemale>
+  <!-- EN: ranger -->
+  <Ranger96.titleShort>রেঞ্জার</Ranger96.titleShort>
+  <Ranger96.titleShortFemale>রেঞ্জার</Ranger96.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] traveled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
+  <Recruiter14.description>[PAWN_nameDef] এক সম্মানিত মার্শাল আর্টিস্টদের দলের অংশ ছিলেন, যারা তাদের যুদ্ধ দক্ষতা এবং আহতদের চিকিৎসা করতে অস্বীকার করার অনুশীলনের জন্য কুখ্যাত ছিলেন।\n\nতিনি তাঁর নিজ গ্রহে ভ্রমণ করে অল্প বয়সীদের বিচার করতেন, তাঁরা প্রশিক্ষণের জন্য উপযুক্ত কিনা তা নির্ধারণ করার জন্য।</Recruiter14.description>
+  <!-- EN: recruiter -->
+  <Recruiter14.title>নিয়োগকর্তা</Recruiter14.title>
+  <Recruiter14.titleFemale>নিয়োগকর্তা</Recruiter14.titleFemale>
+  <!-- EN: recruiter -->
+  <Recruiter14.titleShort>নিয়োগকারী</Recruiter14.titleShort>
+  <Recruiter14.titleShortFemale>নিয়োগকারী</Recruiter14.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
+  <Slaughterer58.description>[PAWN_nameDef] জীবিকা নির্বাহের জন্য পশু জবাই করতেন। অন্যরা এই কাজকে নোংরা হিসেবে দেখত, কিন্তু প্রচুর পরিমাণে পশু পরিচালনা ও পরিচ্ছন্নভাবে জবাই করার জন্য যে দক্ষতার প্রয়োজন, তা সহজ ছিল না।</Slaughterer58.description>
+  <!-- EN: slaughterer -->
+  <Slaughterer58.title>ঘাতক পশু জবাইকারী</Slaughterer58.title>
+  <Slaughterer58.titleFemale>ঘাতক পশু জবাইকারী</Slaughterer58.titleFemale>
+  <!-- EN: slaughterer -->
+  <Slaughterer58.titleShort>ঘাতক</Slaughterer58.titleShort>
+  <Slaughterer58.titleShortFemale>ঘাতক</Slaughterer58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was educated in the liberal arts and taught at a public school. [PAWN_pronoun] was widely knowledgeable and well-liked by [PAWN_possessive] students. -->
+  <Teacher20.description>[PAWN_nameDef] উদারনৈতিক শিল্পকলায় শিক্ষিত ছিলেন এবং একটি পাবলিক স্কুলে শিক্ষকতা করতেন। তিনি ব্যাপকভাবে জ্ঞানী ছিলেন এবং তাঁর ছাত্রছাত্রীদের কাছে খুব জনপ্রিয় ছিলেন।</Teacher20.description>
+  <!-- EN: teacher -->
+  <Teacher20.title>শিক্ষক</Teacher20.title>
+  <Teacher20.titleFemale>শিক্ষক</Teacher20.titleFemale>
+  <!-- EN: teacher -->
+  <Teacher20.titleShort>শিক্ষক</Teacher20.titleShort>
+  <Teacher20.titleShortFemale>শিক্ষক</Teacher20.titleShortFemale>
+  
+  <!-- EN: Working for a tyrannical dictator, [PAWN_nameDef] earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with [PAWN_nameDef]'s smile scarred permanently into their nightmares. -->
+  <Torturer37.description>একজন স্বৈরাচারী শাসকের অধীনে কাজ করে, [PAWN_nameDef] 'সমবেদনা'র একজন বিশেষজ্ঞ হিসাবে পরিচিতি অর্জন করেছিলেন। যে কোনো বন্দী যে অন্ধকূপে যেত, তারা কোনো গোপনীয়তা নিয়ে ফিরে আসত না - এবং [PAWN_nameDef]'র হাসি তাদের দুঃস্বপ্নে স্থায়ীভাবে খোদাই হয়ে যেত।</Torturer37.description>
+  <!-- EN: torturer -->
+  <Torturer37.title>নির্যাতক</Torturer37.title>
+  <Torturer37.titleFemale>নির্যাতক</Torturer37.titleFemale>
+  <!-- EN: torturer -->
+  <Torturer37.titleShort>নির্যাতক</Torturer37.titleShort>
+  <Torturer37.titleShortFemale>নির্যাতক</Torturer37.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] treated sick and injured animals for a living. Seeing their suffering affected [PAWN_possessive] stance on the practice of eating meat, and for many years [PAWN_pronoun] lived as a vegetarian. -->
+  <Veterinarian99.description>[PAWN_nameDef] জীবন্ত অসুস্থ এবং আহত পশুদের চিকিৎসা করতেন। তাদের কষ্ট দেখে মাংস খাওয়ার প্রথা সম্পর্কে তাঁর ধারণা পরিবর্তিত হয়েছিল, এবং বহু বছর ধরে তিনি নিরামিষাশী জীবনযাপন করতেন।</Veterinarian99.description>
+  <!-- EN: veterinarian -->
+  <Veterinarian99.title>ভেটেরিনারি চিকিৎসক</Veterinarian99.title>
+  <Veterinarian99.titleFemale>ভেটেরিনারি চিকিৎসক</Veterinarian99.titleFemale>
+  <!-- EN: vet -->
+  <Veterinarian99.titleShort>ভেটেরিনারিয়ান</Veterinarian99.titleShort>
+  <Veterinarian99.titleShortFemale>ভেটেরিনারিয়ান</Veterinarian99.titleShortFemale>
+  
+</LanguageData>

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accept -->
+  <Accept.label>গ্রহণ করুন</Accept.label>
+  
+  <!-- EN: cancel -->
+  <Cancel.label>বাতিল করুন</Cancel.label>
+  
+  <!-- EN: draft -->
+  <Command_ColonistDraft.label>মোতায়েন</Command_ColonistDraft.label>
+  
+  <!-- EN: toggle forbidden -->
+  <Command_ItemForbid.label>নিষিদ্ধ টগল</Command_ItemForbid.label>
+  
+  <!-- EN: toggle power -->
+  <Command_TogglePower.label>বিদ্যুৎ টগল</Command_TogglePower.label>
+  
+  <!-- EN: cancel -->
+  <Designator_Cancel.label>বাতিল করুন</Designator_Cancel.label>
+  
+  <!-- EN: deconstruct -->
+  <Designator_Deconstruct.label>ডিসঅ্যাসেম্বল</Designator_Deconstruct.label>
+  
+  <!-- EN: next draw style -->
+  <Designator_NextDrawStyle.label>পরবর্তী অঙ্কন শৈলী</Designator_NextDrawStyle.label>
+  
+  <!-- EN: previous draw style -->
+  <Designator_PreviousDrawStyle.label>আগের অঙ্কন শৈলী</Designator_PreviousDrawStyle.label>
+  
+  <!-- EN: rotate left -->
+  <Designator_RotateLeft.label>বাম ঘোরানো</Designator_RotateLeft.label>
+  
+  <!-- EN: rotate right -->
+  <Designator_RotateRight.label>ডানে ঘোরানো</Designator_RotateRight.label>
+  
+  <!-- EN: force square dimensions -->
+  <Designator_ShapeSnap.label>জোরপূর্বক বর্গাকার মাত্রা</Designator_ShapeSnap.label>
+  
+  <!-- EN: change selected debug action -->
+  <Dev_ChangeSelectedDebugAction.label>নির্বাচিত ডিবাগ ক্রিয়া পরিবর্তন</Dev_ChangeSelectedDebugAction.label>
+  
+  <!-- EN: tick once -->
+  <Dev_TickOnce.label>একবার টিক</Dev_TickOnce.label>
+  
+  <!-- EN: toggle debug actions menu -->
+  <Dev_ToggleDebugActionsMenu.label>ডিবাগ অ্যাকশন মেনু টগল করুন</Dev_ToggleDebugActionsMenu.label>
+  
+  <!-- EN: toggle debug inspector -->
+  <Dev_ToggleDebugInspector.label>ডিবাগ পরিদর্শক টগল করুন</Dev_ToggleDebugInspector.label>
+  
+  <!-- EN: toggle debug log -->
+  <Dev_ToggleDebugLog.label>ডিবাগ লগ টগল করুন</Dev_ToggleDebugLog.label>
+  
+  <!-- EN: toggle debug log menu -->
+  <Dev_ToggleDebugLogMenu.label>ডিবাগ লগ মেনু টগল</Dev_ToggleDebugLogMenu.label>
+  
+  <!-- EN: toggle debug settings menu -->
+  <Dev_ToggleDebugSettingsMenu.label>ডিবাগ সেটিংস মেনু টগল করুন</Dev_ToggleDebugSettingsMenu.label>
+  
+  <!-- EN: toggle dev palette -->
+  <Dev_ToggleDevPalette.label>ডেভ প্যালেট টগল</Dev_ToggleDevPalette.label>
+  
+  <!-- EN: toggle god mode -->
+  <Dev_ToggleGodMode.label>গড মোড টগল</Dev_ToggleGodMode.label>
+  
+  <!-- EN: dolly down -->
+  <MapDolly_Down.label>ডলি ডাউন</MapDolly_Down.label>
+  
+  <!-- EN: dolly left -->
+  <MapDolly_Left.label>ডলি বাম</MapDolly_Left.label>
+  
+  <!-- EN: dolly right -->
+  <MapDolly_Right.label>ডলি ডান</MapDolly_Right.label>
+  
+  <!-- EN: dolly up -->
+  <MapDolly_Up.label>ডলি আপ</MapDolly_Up.label>
+  
+  <!-- EN: zoom in -->
+  <MapZoom_In.label>জুম ইন</MapZoom_In.label>
+  
+  <!-- EN: zoom out -->
+  <MapZoom_Out.label>জুম আউট</MapZoom_Out.label>
+  
+  <!-- EN: Misc 1 -->
+  <Misc1.label>বিবিধ ১</Misc1.label>
+  
+  <!-- EN: Misc 10 -->
+  <Misc10.label>বিবিধ ১০</Misc10.label>
+  
+  <!-- EN: Misc 11 -->
+  <Misc11.label>বিবিধ ১১</Misc11.label>
+  
+  <!-- EN: Misc 12 -->
+  <Misc12.label>বিবিধ ১২</Misc12.label>
+  
+  <!-- EN: Misc 2 -->
+  <Misc2.label>বিবিধ ২</Misc2.label>
+  
+  <!-- EN: Misc 3 -->
+  <Misc3.label>বিবিধ ৩</Misc3.label>
+  
+  <!-- EN: Misc 4 -->
+  <Misc4.label>বিবিধ ৪</Misc4.label>
+  
+  <!-- EN: Misc 5 -->
+  <Misc5.label>বিবিধ ৫</Misc5.label>
+  
+  <!-- EN: Misc 6 -->
+  <Misc6.label>বিবিধ ৬</Misc6.label>
+  
+  <!-- EN: Misc 7 -->
+  <Misc7.label>বিবিধ ৭</Misc7.label>
+  
+  <!-- EN: Misc 8 -->
+  <Misc8.label>বিবিধ ৮</Misc8.label>
+  
+  <!-- EN: Misc 9 -->
+  <Misc9.label>বিবিধ ৯</Misc9.label>
+  
+  <!-- EN: increment 100x -->
+  <ModifierIncrement_100x.label>১০০ গুণ বৃদ্ধি</ModifierIncrement_100x.label>
+  
+  <!-- EN: increment 10x -->
+  <ModifierIncrement_10x.label>১০ গুণ বৃদ্ধি</ModifierIncrement_10x.label>
+  
+  <!-- EN: next colonist -->
+  <NextColonist.label>পরবর্তী কলোনিস্ট</NextColonist.label>
+  
+  <!-- EN: open search window -->
+  <OpenMapSearch.label>অনুসন্ধান উইন্ডো খুলুন</OpenMapSearch.label>
+  
+  <!-- EN: previous colonist -->
+  <PreviousColonist.label>পূর্ববর্তী কলোনিস্ট</PreviousColonist.label>
+  
+  <!-- EN: queue order -->
+  <QueueOrder.label>কাজের ক্রম</QueueOrder.label>
+  
+  <!-- EN: select next in cell -->
+  <SelectNextInCell.label>সেল-এ পরবর্তী নির্বাচন</SelectNextInCell.label>
+  
+  <!-- EN: show cell inspector -->
+  <ShowCellInspector.label>সেল পরিদর্শক দেখান</ShowCellInspector.label>
+  
+  <!-- EN: show eyedropper -->
+  <ShowEyedropper.label>আইড্রপার দেখান</ShowEyedropper.label>
+  
+  <!-- EN: take screenshot -->
+  <TakeScreenshot.label>স্ক্রিনশট নিন</TakeScreenshot.label>
+  
+  <!-- EN: game speed: Fast -->
+  <TimeSpeed_Fast.label>গেমের গতি: দ্রুত</TimeSpeed_Fast.label>
+  
+  <!-- EN: game speed: Faster -->
+  <TimeSpeed_Faster.label>দ্রুত গতির খেলা</TimeSpeed_Faster.label>
+  
+  <!-- EN: game speed: Normal -->
+  <TimeSpeed_Normal.label>গেমের গতি: স্বাভাবিক</TimeSpeed_Normal.label>
+  
+  <!-- EN: game speed: Slower -->
+  <TimeSpeed_Slower.label>গেমের গতি: ধীরতর</TimeSpeed_Slower.label>
+  
+  <!-- EN: game speed: Super fast -->
+  <TimeSpeed_Superfast.label>খেলার গতি: অতি দ্রুত</TimeSpeed_Superfast.label>
+  
+  <!-- EN: game speed: Ultra fast (debug) -->
+  <TimeSpeed_Ultrafast.label>আল্ট্রা যুগ গতি</TimeSpeed_Ultrafast.label>
+  
+  <!-- EN: toggle beauty display -->
+  <ToggleBeautyDisplay.label>সৌন্দর্য প্রদর্শন টগল</ToggleBeautyDisplay.label>
+  
+  <!-- EN: pause/resume game -->
+  <TogglePause.label>গেম বিরতি/পুনরায় শুরু করুন</TogglePause.label>
+  
+  <!-- EN: toggle room stats display -->
+  <ToggleRoomStatsDisplay.label>রুম পরিসংখ্যান প্রদর্শন টগল করুন</ToggleRoomStatsDisplay.label>
+  
+  <!-- EN: toggle screenshot mode -->
+  <ToggleScreenshotMode.label>স্ক্রিনশট মোড টগল করুন</ToggleScreenshotMode.label>
+  
+</LanguageData>

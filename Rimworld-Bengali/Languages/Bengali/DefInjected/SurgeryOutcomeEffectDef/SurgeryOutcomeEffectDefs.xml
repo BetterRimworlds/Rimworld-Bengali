@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <SurgeryOutcomeBase.outcomes.1.letterLabel>{রোগী_নাম}-এর সার্জারি ব্যর্থ হয়েছে</SurgeryOutcomeBase.outcomes.1.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {RECIPE_label}. -->
+  <SurgeryOutcomeBase.outcomes.1.letterText>{সার্জন_লেবেলসংক্ষিপ্ত} {রোগী_লেবেলসংক্ষিপ্ত}-এর উপর অপারেশন করার সময় মারাত্মক ভুল করেছে কারণ {রেসিপি_লেবেল}-এর বিশেষ চ্যালেঞ্জগুলো ছিল।</SurgeryOutcomeBase.outcomes.1.letterText>
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <SurgeryOutcomeBase.outcomes.2.letterLabel>{রোগীর_নাম}-এর সার্জারি ব্যর্থ হয়েছে</SurgeryOutcomeBase.outcomes.2.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <SurgeryOutcomeBase.outcomes.2.letterText>{SURGEON_labelShort} {PATIENT_labelShort}-এর উপর অপারেশন করার সময় মারাত্মকভাবে ব্যর্থ হয়েছে ({RECIPE_label})।</SurgeryOutcomeBase.outcomes.2.letterText>
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <SurgeryOutcomeBase.outcomes.3.letterLabel>{রোগীর_নাম}-এর সার্জারি ব্যর্থ হয়েছে</SurgeryOutcomeBase.outcomes.3.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <SurgeryOutcomeBase.outcomes.3.letterText>{SURGEON_labelShort}, {PATIENT_labelShort} ({RECIPE_label})-এর উপর অস্ত্রোপচার করার সময় হাস্যকরভাবে ব্যর্থ হয়েছে।</SurgeryOutcomeBase.outcomes.3.letterText>
+  <!-- EN: Surgery failed on {PATIENT_labelShort}: Sterilized -->
+  <SurgeryOutcomeBase.outcomes.4.letterLabel>{রোগীর_নাম}: জীবাণুমুক্ত</SurgeryOutcomeBase.outcomes.4.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed while operating on {PATIENT_labelShort} ({RECIPE_label}), leaving {PATIENT_objective} sterile. -->
+  <SurgeryOutcomeBase.outcomes.4.letterText>{SURGEON_labelShort} {PATIENT_labelShort}-এর উপর {RECIPE_label} করার সময় ব্যর্থ হয়েছে, যার ফলে {PATIENT_objective} জীবাণুমুক্ত হয়েছে।</SurgeryOutcomeBase.outcomes.4.letterText>
+  <!-- EN: Surgery failed on {PATIENT_labelShort}: Sterilized -->
+  <SurgeryOutcomeBase.outcomes.5.letterLabel>{রোগীর_নাম}: জীবাণুমুক্ত</SurgeryOutcomeBase.outcomes.5.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed while operating on {PATIENT_labelShort} ({RECIPE_label}), leaving {PATIENT_objective} sterile. -->
+  <SurgeryOutcomeBase.outcomes.5.letterText>{SURGEON_labelShort} {PATIENT_labelShort}-এর উপর {RECIPE_label} করার সময় ব্যর্থ হয়েছে, যার ফলে {PATIENT_objective} বন্ধ্যা হয়ে গেছে।</SurgeryOutcomeBase.outcomes.5.letterText>
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <SurgeryOutcomeBase.outcomes.6.letterLabel>{রোগীর_নাম}-এর সার্জারি ব্যর্থ হয়েছে</SurgeryOutcomeBase.outcomes.6.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <SurgeryOutcomeBase.outcomes.6.letterText>{SURGEON_labelShort} {PATIENT_labelShort}-এর উপর ({RECIPE_label}) করার সময় সামান্য ত্রুটি করেছে।</SurgeryOutcomeBase.outcomes.6.letterText>
+  
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>{রোগীর_নাম}-এর সার্জারি ব্যর্থ হয়েছে</SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterText>{SURGEON_labelShort} {PATIENT_labelShort}-এর উপর অপারেশন করার সময় সামান্য ত্রুটি হয়েছে ({RECIPE_label})।</SurgeryOutcomeMinorFailure.outcomes.1.letterText>
+  
+</LanguageData>

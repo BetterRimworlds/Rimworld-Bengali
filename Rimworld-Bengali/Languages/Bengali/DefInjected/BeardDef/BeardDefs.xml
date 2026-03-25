@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anchor -->
+  <Anchor.label>নোঙর</Anchor.label>
+  
+  <!-- EN: curly -->
+  <BeardCurly.label>চুলকোঁকড়া</BeardCurly.label>
+  
+  <!-- EN: boxed -->
+  <Boxed.label>বাক্সবন্দী</Boxed.label>
+  
+  <!-- EN: braided -->
+  <Braided.label>বেণীযুক্ত</Braided.label>
+  
+  <!-- EN: bushy -->
+  <Bushy.label>ঘন ঝোপ</Bushy.label>
+  
+  <!-- EN: bushy styled -->
+  <BushyStyled.label>ঝোপালো স্টাইল</BushyStyled.label>
+  
+  <!-- EN: circle -->
+  <Circle.label>বৃত্ত</Circle.label>
+  
+  <!-- EN: classy -->
+  <Classy.label>আভিজাত্যপূর্ণ</Classy.label>
+  
+  <!-- EN: curtain -->
+  <Curtain.label>পর্দা</Curtain.label>
+  
+  <!-- EN: ducktail -->
+  <Ducktail.label>ডাকটেইল</Ducktail.label>
+  
+  <!-- EN: fork -->
+  <Fork.label>কাঁটাচামচ</Fork.label>
+  
+  <!-- EN: french -->
+  <French.label>apparence et style</French.label>
+  
+  <!-- EN: full -->
+  <Full.label>সম্পূর্ণ</Full.label>
+  
+  <!-- EN: goatee -->
+  <Goatee.label>দাড়ি-চিন</Goatee.label>
+  
+  <!-- EN: lincoln -->
+  <Lincoln.label>লিঙ্কন</Lincoln.label>
+  
+  <!-- EN: long dutch -->
+  <LongDutch.label>লম্বা ডাচ</LongDutch.label>
+  
+  <!-- EN: machete -->
+  <Machete.label>ম্যাচেট</Machete.label>
+  
+  <!-- EN: moustache -->
+  <Moustache.label>গোঁফ</Moustache.label>
+  
+  <!-- EN: mutton chops -->
+  <MuttonChops.label>মাটন চপস</MuttonChops.label>
+  
+  <!-- EN: no beard -->
+  <NoBeard.label>দাড়ি নেই</NoBeard.label>
+  
+  <!-- EN: norse -->
+  <Norse.label>নর্স</Norse.label>
+  
+  <!-- EN: old dutch -->
+  <OldDutch.label>ওল্ড ডাচ</OldDutch.label>
+  
+  <!-- EN: seer -->
+  <Seer.label>দৃষ্টিদর্শী</Seer.label>
+  
+  <!-- EN: side whiskers -->
+  <SideWhiskers.label>পাশের গোঁফ</SideWhiskers.label>
+  
+  <!-- EN: soul patch -->
+  <SoulPatch.label>আত্মার ছোঁয়া</SoulPatch.label>
+  
+  <!-- EN: stache and chops -->
+  <StacheAndChops.label>গোঁফ ও দাড়ি</StacheAndChops.label>
+  
+  <!-- EN: stubble -->
+  <Stubble.label>দাড়ি গোঁফ</Stubble.label>
+  
+  <!-- EN: tri-braid -->
+  <TriBraid.label>ত্রিশূল বেণী</TriBraid.label>
+  
+  <!-- EN: urist -->
+  <Urist.label>ইউরিস্ট</Urist.label>
+  
+  <!-- EN: VanDyke -->
+  <VanDyke.label>ভ্যান ডাইক</VanDyke.label>
+  
+  <!-- EN: wizard -->
+  <Wizard.label>wizard</Wizard.label>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacking settlement -->
+  <AttackingSettlement.label>আক্রমণকারী বসতি</AttackingSettlement.label>
+  
+  <!-- EN: natural enemy -->
+  <NaturalEnemy.label>প্রাকৃতিক শত্রু</NaturalEnemy.label>
+  
+  <!-- EN: permanently hostile -->
+  <PermanentEnemy.label>স্থায়ীভাবে শত্রুভাবাপন্ন</PermanentEnemy.label>
+  
+</LanguageData>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grenadier --><!-- EN: granadero -->
+  <Grenadier_Destructive.label>গ্রানাডেরো</Grenadier_Destructive.label><!-- EN: granadera -->
+  <Grenadier_Destructive.labelFemale>গ্রানাডেরা</Grenadier_Destructive.labelFemale><!-- EN: granadero -->
+  <Grenadier_Destructive.labelMale>গ্রানাডেরো</Grenadier_Destructive.labelMale><!-- EN: granaderos -->
+  <Grenadier_Destructive.labelPlural>গ্রানাডেরোস</Grenadier_Destructive.labelPlural>
+  
+  <!-- EN: EMP grenadier --><!-- EN: granadero de PEM -->
+  <Grenadier_EMP.label>পিইএম গ্রানাডেরো</Grenadier_EMP.label><!-- EN: granadera de PEM -->
+  <Grenadier_EMP.labelFemale>পিইএম গ্রানাডার‍া</Grenadier_EMP.labelFemale><!-- EN: granadero de PEM -->
+  <Grenadier_EMP.labelMale>PEM গ্রানাডেরো</Grenadier_EMP.labelMale><!-- EN: granaderos de PEM -->
+  <Grenadier_EMP.labelPlural>গ্রানাডেরোস দে পিইএম</Grenadier_EMP.labelPlural>
+  
+  <!-- EN: smoke grenadier --><!-- EN: granadero de humo -->
+  <Grenadier_Smoke.label>ধোঁয়া গ্রেনেডিয়ার</Grenadier_Smoke.label><!-- EN: granadera de humo -->
+  <Grenadier_Smoke.labelFemale>স্মোক গ্রেনেড</Grenadier_Smoke.labelFemale><!-- EN: granadero de humo -->
+  <Grenadier_Smoke.labelMale>ধোঁয়া গ্রানাডেরো</Grenadier_Smoke.labelMale><!-- EN: granaderos de humo -->
+  <Grenadier_Smoke.labelPlural>স্মোক গ্রানাডেরোস</Grenadier_Smoke.labelPlural>
+  
+  <!-- EN: elite mercenary --><!-- EN: mercenario de élite -->
+  <Mercenary_Elite.label>অভিজাত ভাড়াটে</Mercenary_Elite.label><!-- EN: mercenaria de élite -->
+  <Mercenary_Elite.labelFemale>elite মার্সেনারিয়া</Mercenary_Elite.labelFemale><!-- EN: mercenario de élite -->
+  <Mercenary_Elite.labelMale>অভিজাত ভাড়াটে</Mercenary_Elite.labelMale>
+  <!-- EN: elite mercenaries --><!-- EN: mercenarios de élite -->
+  <Mercenary_Elite.labelPlural>elite মার্সেনারিও</Mercenary_Elite.labelPlural>
+  
+  <!-- EN: elite mercenary --><!-- EN: mercenario de élite -->
+  <Mercenary_Elite_Acidifier.label>অভিজাত ভাড়াটে</Mercenary_Elite_Acidifier.label><!-- EN: mercenaria de élite -->
+  <Mercenary_Elite_Acidifier.labelFemale>মার্সেনারিয়া ডি’এলিট</Mercenary_Elite_Acidifier.labelFemale><!-- EN: mercenario de élite -->
+  <Mercenary_Elite_Acidifier.labelMale>অভিজাত ভাড়াটে</Mercenary_Elite_Acidifier.labelMale>
+  <!-- EN: elite mercenaries --><!-- EN: mercenarios de élite -->
+  <Mercenary_Elite_Acidifier.labelPlural>এলিট ভাড়াটে</Mercenary_Elite_Acidifier.labelPlural>
+  
+  <!-- EN: mercenary gunner --><!-- EN: mercenario artillero -->
+  <Mercenary_Gunner.label>মার্সেনারিও আর্টিলেরো</Mercenary_Gunner.label><!-- EN: mercenaria artillera -->
+  <Mercenary_Gunner.labelFemale>মার্সেনারিয়া আর্টিলেরা</Mercenary_Gunner.labelFemale><!-- EN: mercenario artillero -->
+  <Mercenary_Gunner.labelMale>মার্সেনারিও আর্টিলেরো</Mercenary_Gunner.labelMale><!-- EN: mercenarios artilleros -->
+  <Mercenary_Gunner.labelPlural>মার্সেনারিও আর্টিলারোস</Mercenary_Gunner.labelPlural>
+  
+  <!-- EN: mercenary gunner --><!-- EN: mercenario artillero -->
+  <Mercenary_Gunner_Acidifier.label>মার্সেনারিও আর্টিলেরো</Mercenary_Gunner_Acidifier.label><!-- EN: mercenaria artillera -->
+  <Mercenary_Gunner_Acidifier.labelFemale>মার্সেনারিয়া আর্টিলেরা</Mercenary_Gunner_Acidifier.labelFemale><!-- EN: mercenario artillero -->
+  <Mercenary_Gunner_Acidifier.labelMale>মার্সেনারিও আর্টিলেরো</Mercenary_Gunner_Acidifier.labelMale><!-- EN: mercenarios artilleros -->
+  <Mercenary_Gunner_Acidifier.labelPlural>মার্সেনারিও আর্টিলেরোস</Mercenary_Gunner_Acidifier.labelPlural>
+  
+  <!-- EN: heavy mercenary --><!-- EN: mercenario pesado -->
+  <Mercenary_Heavy.label>ভারী ভাড়াটে</Mercenary_Heavy.label><!-- EN: mercenaria pesada -->
+  <Mercenary_Heavy.labelFemale>মার্সেনারিয়া পেসাডা</Mercenary_Heavy.labelFemale><!-- EN: mercenario pesado -->
+  <Mercenary_Heavy.labelMale>ভারী ভাড়াটে</Mercenary_Heavy.labelMale>
+  <!-- EN: heavy mercenaries --><!-- EN: mercenarios pesados -->
+  <Mercenary_Heavy.labelPlural>মার্সেনারিওস পেসাডোস</Mercenary_Heavy.labelPlural>
+  
+  <!-- EN: mercenary slasher --><!-- EN: mercenario asesino -->
+  <Mercenary_Slasher.label>মার্সেনারিও ঘাতক</Mercenary_Slasher.label><!-- EN: mercenaria asesina -->
+  <Mercenary_Slasher.labelFemale>মার্সেনারিয়া আসেসিনা</Mercenary_Slasher.labelFemale><!-- EN: mercenario asesino -->
+  <Mercenary_Slasher.labelMale>মার্সেনারিও অ্যাসেসিনো</Mercenary_Slasher.labelMale><!-- EN: mercenarios asesinos -->
+  <Mercenary_Slasher.labelPlural>মার্সেনারিও আসেসিনোস</Mercenary_Slasher.labelPlural>
+  
+  <!-- EN: mercenary slasher --><!-- EN: mercenario asesino -->
+  <Mercenary_Slasher_Acidifier.label>মার্সেনারিও ঘাতক</Mercenary_Slasher_Acidifier.label><!-- EN: mercenaria asesina -->
+  <Mercenary_Slasher_Acidifier.labelFemale>মার্সেনারিয়া আসাসিনা</Mercenary_Slasher_Acidifier.labelFemale><!-- EN: mercenario asesino -->
+  <Mercenary_Slasher_Acidifier.labelMale>মার্সেনারিও অ্যাসেসিনো</Mercenary_Slasher_Acidifier.labelMale><!-- EN: mercenarios asesinos -->
+  <Mercenary_Slasher_Acidifier.labelPlural>মার্সেনারিও আসেসিনোস</Mercenary_Slasher_Acidifier.labelPlural>
+  
+  <!-- EN: mercenary sniper --><!-- EN: mercenario francotirador -->
+  <Mercenary_Sniper.label>মার্সেনারিও ফ্রাঙ্কোটিরাডর</Mercenary_Sniper.label><!-- EN: mercenaria francotiradora -->
+  <Mercenary_Sniper.labelFemale>মার্সেনারিয়া ফ্রাঙ্কোতিরাদোরা</Mercenary_Sniper.labelFemale><!-- EN: mercenario francotirador -->
+  <Mercenary_Sniper.labelMale>মার্সেনারিও ফ্রাঙ্কোটিরাডর</Mercenary_Sniper.labelMale><!-- EN: mercenarios francotiradores -->
+  <Mercenary_Sniper.labelPlural>মার্সেনারিও ফ্রাঙ্কোটিরাডোরেস</Mercenary_Sniper.labelPlural>
+  
+  <!-- EN: mercenary sniper --><!-- EN: mercenario francotirador -->
+  <Mercenary_Sniper_Acidifier.label>মার্সেনারিও ফ্রাঙ্কোটিরাডর</Mercenary_Sniper_Acidifier.label><!-- EN: mercenaria francotiradora -->
+  <Mercenary_Sniper_Acidifier.labelFemale>মার্সেনারিয়া ফ্রাঙ্কোতিরাদোরা</Mercenary_Sniper_Acidifier.labelFemale><!-- EN: mercenario francotirador -->
+  <Mercenary_Sniper_Acidifier.labelMale>মার্সেনারিও ফ্রাঙ্কোটিরাডর</Mercenary_Sniper_Acidifier.labelMale><!-- EN: mercenarios francotiradores -->
+  <Mercenary_Sniper_Acidifier.labelPlural>মার্সেনারিও ফ্রাঙ্কোটিরাডোরেস</Mercenary_Sniper_Acidifier.labelPlural>
+  
+  <!-- EN: boss --><!-- EN: jefe -->
+  <PirateBoss.label>জেফে</PirateBoss.label><!-- EN: jefa -->
+  <PirateBoss.labelFemale>জীবনচক্র ও প্রজাতিসমূহ</PirateBoss.labelFemale>
+  <!-- EN: bosses --><!-- EN: jefes -->
+  <PirateBoss.labelPlural>জেফেস</PirateBoss.labelPlural>
+  
+</LanguageData>

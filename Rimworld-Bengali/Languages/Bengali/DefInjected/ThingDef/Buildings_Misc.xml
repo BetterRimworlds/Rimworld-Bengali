@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient cryptosleep casket -->
+  <AncientCryptosleepCasket.label>প্রাচীন ক্রিপ্টোস্লিপ কফিন</AncientCryptosleepCasket.label>
+  <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
+  <AncientCryptosleepCasket.description>এই ক্রিপ্টোস্লিপ কফিনটি দেখে মনে হচ্ছে এটি অনেক দিন ধরে এখানে রয়েছে। কে জানে এর মধ্যে কী থাকতে পারে?</AncientCryptosleepCasket.description>
+  
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>বহর বাঁধার স্থান</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>এটি পশুদের বেঁধে রাখার এবং কাফেলা গঠনের স্থান নির্দিষ্ট করে। উপনিবেশ স্থাপনকারীরা কাফেলা লোড করার সময় এখানে পশুদের বাঁধবে। এছাড়াও, আবাসস্থল থেকে দূরে থাকাকালীন পশুদের অবাধ বিচরণ রোধ করতে এটি ব্যবহার করা যেতে পারে।</CaravanPackingSpot.description>
+  
+  <!-- EN: cave exit -->
+  <CaveExit.label>গুহার প্রস্থান</CaveExit.label>
+  <!-- EN: A rope line which links to the surface above. -->
+  <CaveExit.description>একটি দড়ি যা উপরের পৃষ্ঠের সাথে যুক্ত।</CaveExit.description>
+  
+  <!-- EN: comms console -->
+  <CommsConsole.label>যোগাযোগ কনসোল</CommsConsole.label>
+  <!-- EN: Allows radio contact with other factions and orbital traders. -->
+  <CommsConsole.description>অন্যান্য দল এবং কক্ষপথে থাকা ব্যবসায়ীদের সাথে রেডিও যোগাযোগ করার অনুমতি দেয়।</CommsConsole.description>
+  <!-- EN: Summon diabolus threat -->
+  <CommsConsole.comps.CompUsable.useLabel>ডায়াবোলাস হুমকি আহ্বান</CommsConsole.comps.CompUsable.useLabel>
+  
+  <!-- EN: crater -->
+  <CraterLarge.label>ক্র্যাটার</CraterLarge.label>
+  <!-- EN: A small pit formed by a powerful impact or explosion. -->
+  <CraterLarge.description>শক্তিশালী প্রভাব বা বিস্ফোরণের ফলে গঠিত একটি ছোট গর্ত।</CraterLarge.description>
+  
+  <!-- EN: crater -->
+  <CraterMedium.label>ক্র্যাটার</CraterMedium.label>
+  <!-- EN: A small pit formed by a powerful impact or explosion. -->
+  <CraterMedium.description>শক্তিশালী প্রভাব বা বিস্ফোরণের ফলে গঠিত একটি ছোট গর্ত।</CraterMedium.description>
+  
+  <!-- EN: crater -->
+  <CraterSmall.label>ক্র্যাটার</CraterSmall.label>
+  <!-- EN: A small pit formed by a powerful impact or explosion. -->
+  <CraterSmall.description>শক্তিশালী প্রভাব বা বিস্ফোরণের কারণে গঠিত একটি ছোট গর্ত।</CraterSmall.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <CryptosleepCasket.label>ক্রিপ্টোস্লিপ কফিন</CryptosleepCasket.label>
+  <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
+  <CryptosleepCasket.description>বহু বছর ধরে একজন ব্যক্তিকে অ্যানিমেশন-স্থগিত অবস্থায় রাখার জন্য ডিজাইন করা একটি স্বয়ংক্রিয় কফিন।</CryptosleepCasket.description>
+  
+  <!-- EN: delayed effecter spawner -->
+  <DelayedEffecterSpawner.label>বিলম্বিত প্রভাব স্পনার</DelayedEffecterSpawner.label>
+  
+  <!-- EN: egg box -->
+  <EggBox.label>ডিমের বাক্স</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>ডিমের সুরক্ষার জন্য নরম উপাদান দিয়ে তৈরি একটি বাক্স। ডিম পাড়া প্রাণী, সুযোগ পেলে এই বাক্সে ডিম পাড়বে। বাক্সটি পূর্ণ হয়ে গেলে আপনার মালবাহকেরা একবারে সমস্ত ডিম সরিয়ে নেবে, যাতে সময় বাঁচে। এই বাক্সটি ডিমকে বাইরের পরিবেশে নষ্ট হওয়া থেকে বাঁচায়, তবে তাপমাত্রার কারণে ডিম ক্ষতিগ্রস্ত হওয়া থেকে রক্ষা করে না।</EggBox.description>
+  
+  <!-- EN: firefoam popper -->
+  <FirefoamPopper.label>ফায়ারফোম পপার</FirefoamPopper.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
+  <FirefoamPopper.description>আগুন শনাক্ত করলে এই নিরাপত্তা সরঞ্জামটি বিস্ফোরিত হয়ে এর চারপাশে বৃত্তাকার অঞ্চলে অগ্নি-নিরোধক ফোম স্প্রে করে। এটি manualmente সক্রিয় করাও যেতে পারে।</FirefoamPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <FirefoamPopper.comps.CompUsable.useLabel>ট্রিগার {0_label}</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: grave -->
+  <Grave.label>কবর</Grave.label>
+  <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
+  <Grave.description>এটি একটি উপযুক্ত শেষ বিশ্রামস্থল। কলোনিস্টরা ধ্যানমূলক আনন্দ লাভের জন্য সম্পূর্ণ কবরগুলিতে পরিদর্শন করবে।</Grave.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>ভূগর্ভ-অনুসন্ধান স্ক্যানার</GroundPenetratingScanner.label>
+  <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
+  <GroundPenetratingScanner.description>গবেষকেরা মাটির নিচে লুকানো সম্পদ অনুসন্ধানের জন্য এই সেন্সর ইউনিট ব্যবহার করেন। কোনো সম্পদ খুঁজে পাওয়ার সম্ভাবনা অপারেটরের গবেষণার দক্ষতার উপর নির্ভরশীল। এটি প্রচুর বিদ্যুৎ ব্যবহার করে। যদি কোনো লুকানো সম্পদ খুঁজে পাওয়া যায়, তবে তা উত্তোলনের জন্য ডিপ ড্রিল ব্যবহার করতে হবে। এটি ছাদের নিচে কাজ করে না।</GroundPenetratingScanner.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>দীর্ঘ-পাল্লার খনিজ স্ক্যানার</LongRangeMineralScanner.label>
+  <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
+  <LongRangeMineralScanner.description>গবেষকেরা গ্রহের মধ্যে একটি নির্দিষ্ট খনিজ সনাক্ত করতে এই ল্যাটেরাল সেন্সর ইউনিট ব্যবহার করেন। রিসোর্স খুঁজে পাওয়ার সম্ভাবনা অপারেটরের গবেষণার দক্ষতার উপর নির্ভর করে। এই সেন্সরটিকে একটি নির্দিষ্ট রিসোর্স টাইপের জন্য টিউন করা যেতে পারে। এটি প্রচুর পরিমাণে বিদ্যুৎ ব্যবহার করে। আপনি যদি কোনো রিসোর্স খুঁজে পান, তবে সেটি সংগ্রহ করার জন্য আপনাকে ভ্রমণ করতে হবে।</LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot -->
+  <MarriageSpot.label>বিবাহ স্থান</MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <MarriageSpot.description>এটি বিবাহের অনুষ্ঠানের জন্য একটি স্থান নির্দিষ্ট করে। দর্শকরা উভয় পাশ থেকে দেখতে পারে।</MarriageSpot.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>আর্দ্রতা পাম্প</MoisturePump.label>
+  <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
+  <MoisturePump.description>আশেপাশের ভূখণ্ডের আর্দ্রতা খুব ধীরে ধীরে সমান করে, জলাভূমি বা অগভীর জলকে শুকনো জমিতে এবং নরম বালিকে সাধারণ বালিতে রূপান্তরিত করে। গভীর জলের উপর কোনো প্রভাব ফেলে না।</MoisturePump.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>মাল্টি-অ্যানালাইজার</MultiAnalyzer.label>
+  <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
+  <MultiAnalyzer.description>হাই-টেক গবেষণা বেঞ্চের কাছে স্থাপন করা হলে গবেষণার গতি বৃদ্ধি করে এবং নতুন গবেষণা প্রকল্পগুলি আনলক করে। প্রতিটি গবেষণা বেঞ্চে শুধুমাত্র একটি মাল্টি-অ্যানালাইজার ব্যবহার করা যেতে পারে।</MultiAnalyzer.description>
+  
+  <!-- EN: orbital trade beacon -->
+  <OrbitalTradeBeacon.label>কক্ষীয় বাণিজ্য বাতি</OrbitalTradeBeacon.label>
+  <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <OrbitalTradeBeacon.description>কক্ষপথে ব্যবসার জন্য প্রয়োজনীয়। কক্ষপথে ব্যবসায়ীদের কাছে পণ্য বিক্রি করতে হলে সেগুলি অবশ্যই একটি কক্ষপথ বাণিজ্য বীকনের কাছাকাছি থাকতে হবে। এটি ঘরের ভিতরে স্থাপন করা যেতে পারে।</OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot -->
+  <PartySpot.label>পার্টি স্থান</PartySpot.label>
+  <!-- EN: Designates a spot for throwing parties. -->
+  <PartySpot.description>পার্টি করার জন্য একটি স্থান নির্দিষ্ট করে।</PartySpot.description>
+  
+  <!-- EN: pen marker -->
+  <PenMarker.label>পেন মার্কার</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>এটি একটি খুঁটি, যেখানে একটি সাইন লাগানো থাকে যা একটি পশু রাখার স্থান চিহ্নিত করে। এটি বেড়া, ব্যারিকেড, দেওয়াল এবং দরজা দিয়ে ঘেরা স্থানে স্থাপন করতে হবে। প্রতিটি পেন মার্কারের জন্য কী কী প্রাণী গ্রহণ করা হবে, তা নির্ধারণ করা যেতে পারে এবং হ্যান্ডলাররা উপযুক্ত পেনে প্রাণী নিয়ে আসবে।</PenMarker.description>
+  
+  <!-- EN: pod launcher -->
+  <PodLauncher.label>পড উৎক্ষেপক</PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <PodLauncher.description>একটি ট্রান্সপোর্ট পড উৎক্ষেপণের জন্য ফুয়েলিং পোর্ট। পড লঞ্চারগুলি দলবদ্ধভাবে উৎক্ষেপণ করতে পারে—তবে লঞ্চারগুলি একে অপরের সংলগ্ন স্থানে স্থাপন করতে হবে।</PodLauncher.description>
+  
+  <!-- EN: sarcophagus -->
+  <Sarcophagus.label>sarcophagus</Sarcophagus.label>
+  <!-- EN: An ornamented burial receptacle for the honored dead. -->
+  <Sarcophagus.description>সম্মানিত মৃতদের জন্য অলঙ্কৃত সমাধি receptacle।</Sarcophagus.description>
+  
+  <!-- EN: grand stele -->
+  <SteleGrand.label>গ্র্যান্ড স্টিল</SteleGrand.label>
+  <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleGrand.description>এটি পাশে বিস্তৃত খোদাই সহ একটি উঁচু স্ল্যাব। প্রাচীনকাল থেকে স্টিলগুলি ব্যক্তি, যুদ্ধ এবং অন্যান্য গুরুত্বপূর্ণ ঘটনা স্মরণ করার জন্য ব্যবহৃত হয়ে আসছে।</SteleGrand.description>
+  
+  <!-- EN: large stele -->
+  <SteleLarge.label>বৃহৎ স্মৃতিস্তম্ভ</SteleLarge.label>
+  <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleLarge.description>লম্বা, পুরু একটি পাথরের চাঁপা, যার চারপাশে খোদাই করা নকশা রয়েছে। প্রাচীনকাল থেকে স্মৃতিস্তম্ভগুলি ব্যক্তি, যুদ্ধ এবং অন্যান্য গুরুত্বপূর্ণ ঘটনা স্মরণ করার জন্য ব্যবহৃত হয়ে আসছে।</SteleLarge.description>
+  
+  <!-- EN: tool cabinet -->
+  <ToolCabinet.label>সরঞ্জাম ক্যাবিনেট</ToolCabinet.label>
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
+  <ToolCabinet.description>ওয়ার্কবেঞ্চের কাছাকাছি স্থাপন করা হলে কাজের গতি বৃদ্ধি করে। একটি ওয়ার্কবেঞ্চে সর্বোচ্চ দুটি টুল ক্যাবিনেট ব্যবহার করা যেতে পারে।</ToolCabinet.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>পরিবহন পড</TransportPod.label>
+  <!-- EN: A launchable cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>এটি মানুষ, জিনিসপত্র বা পশু বহনে সক্ষম একটি উৎক্ষেপণযোগ্য কার্গো পড। উপহার পাঠানো, মানুষ বা সরবরাহ পরিবহন, আকস্মিক আক্রমণ বা যুদ্ধ জোরদার করার জন্য এটি ব্যবহার করা যেতে পারে।</TransportPod.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>ভাইটাল মনিটর</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>হাসপাতালের খাট-এর ঠিক পাশে রাখলে চিকিৎসা সেবার মান, সার্জারির সাফল্যের সম্ভাবনা এবং রোগ প্রতিরোধ ক্ষমতা অর্জনের গতি বৃদ্ধি করে। এটি শুধুমাত্র হাসপাতালের খাটের জন্যই প্রযোজ্য—সাধারণ খাটের ক্ষেত্রে কোনো সুবিধা পাওয়া যাবে না। একই খাটের সাথে একাধিক ভাইটাল মনিটর যুক্ত করলে কোনো প্রভাব পড়বে না।</VitalsMonitor.description>
+  
+</LanguageData>

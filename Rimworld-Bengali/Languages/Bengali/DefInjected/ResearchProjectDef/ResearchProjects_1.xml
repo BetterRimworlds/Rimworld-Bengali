@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer brewing -->
+  <Brewing.label>বিয়ার গাঁজন</Brewing.label>
+  <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
+  <Brewing.description>হপসকে সুস্বাদু বিয়ারে রূপান্তর করতে একটি ব্রুয়ারি টেবিল তৈরি করুন।</Brewing.description>
+  <!-- EN:
+    <li>subject->brewing</li>
+    <li>subject_story->brewed a unique stout that became famous across the system</li>
+    <li>subject_story->retired to run a public house on an animal world</li>
+    <li>subject_story->specialized in climate-controlled fermentation techniques</li>
+    <li>subject_gerund->constructing breweries</li>
+    <li>subject_gerund->brewing beer</li>
+  -->
+  <Brewing.generalRules.rulesStrings>
+    <li>subject->বিয়ার তৈরি</li>
+    <li>subject_femMas->বিয়ার তৈরি</li>
+    <li>subject_def->বিয়ার তৈরির থেকে</li>
+    <li>subject_def2->বিয়ার তৈরিতে</li>
+    <li>subject_story->সে একটি অনন্য স্টাউট তৈরি করেছিল যা পুরো সিস্টেমে বিখ্যাত হয়েছিল।</li>
+    <li>subject_story->সে একটি পশু-ভিত্তিক বিশ্বে একটি পানশালা চালানোর জন্য অবসর নিয়েছিল।</li>
+    <li>subject_story->সে আবহাওয়া-নিয়ন্ত্রিত গাঁজন কৌশলগুলিতে বিশেষজ্ঞতা অর্জন করেছিল।</li>
+    <li>subject_gerund->ব্রুয়ারি নির্মাণ</li>
+    <li>subject_gerund->বিয়ার তৈরি</li>
+  </Brewing.generalRules.rulesStrings>
+  
+  <!-- EN: carpet-making -->
+  <CarpetMaking.label>গালিচা তৈরি</CarpetMaking.label>
+  <!-- EN: Weave beautiful carpets from cloth. -->
+  <CarpetMaking.description>কাপড় থেকে সুন্দর গালিচা বুনুন।</CarpetMaking.description>
+  <!-- EN:
+    <li>subject->carpet-making</li>
+    <li>subject_story->learned to weave carpets from hair, for a distant Emperor</li>
+    <li>subject_story->left behind an unparalleled collection of carpets and tapestries</li>
+    <li>subject_story->settled on a medieval moon, where the carpetweaving craft was truly appreciated</li>
+    <li>subject_gerund->weaving carpets</li>
+  -->
+  <CarpetMaking.generalRules.rulesStrings>
+    <li>subject->गलीচা তৈরি</li>
+    <li>subject_FemMas->गलीচা তৈরি</li>
+    <li>subject_def->আলংকারিক কার্পেট তৈরির</li>
+    <li>subject_def2->गलीচা তৈরিতে</li>
+    <li>subject_story->সে দূরবর্তী একজন সম্রাটের জন্য চুল দিয়ে কার্পেট বুনতে শিখেছিল।</li>
+    <li>subject_story->সে অতুলনীয় কার্পেট ও টেপেস্ট্রির সংগ্রহ পিছনে ফেলে গেছে।</li>
+    <li>subject_story->সে একটি মধ্যযুগীয় চাঁদে বসতি স্থাপন করেছিল, যেখানে কার্পেট বোনার কাজ সত্যিই মূল্যবান ছিল।</li>
+    <li>subject_gerund->আলংকারিক কার্পেট বুনন</li>
+  </CarpetMaking.generalRules.rulesStrings>
+  
+  <!-- EN: cocoa -->
+  <Cocoa.label>কাকাও</Cocoa.label>
+  <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation and it's a valuable trade good too. -->
+  <Cocoa.description>নিজস্ব সুস্বাদু চকলেট তৈরির জন্য কাকাও গাছ রোপণ করুন। চকলেট খাওয়া বিনোদনের চাহিদা পূরণ করে এবং এটি একটি মূল্যবান বাণিজ্যপণ্য।</Cocoa.description>
+  <!-- EN:
+    <li>subject->cocoa</li>
+    <li>subject->chocolate</li>
+    <li>subject_story->became obsessed with chocolate and had to be restrained</li>
+    <li>subject_story->studied the fermentation process of cocoa for a thesis</li>
+    <li>subject_story->set up the best chocolate shop in the sector</li>
+    <li>subject_gerund->producing chocolate</li>
+    <li>subject_gerund->cultivating cocoa</li>
+  -->
+  <Cocoa.generalRules.rulesStrings>
+    <li>subject->কাকাও</li>
+    <li>subject_def->কাকাও থেকে</li>
+    <li>subject_def2->কাকাও-এর কাছে</li>
+    <li>subject_FemMas->কাকao</li>
+    <li>subject->চকলেট</li>
+    <li>subject_def->চকলেটের থেকে</li>
+    <li>subject_def2->চকলেটে</li>
+    <li>subject_FemMas->চকলেট</li>
+    <li>subject_story->সে চকোলেটের প্রতি আসক্ত হয়ে পড়েছিল এবং তাকে আটকাতে হয়েছিল।</li>
+    <li>subject_story->কোকোর গাঁজন প্রক্রিয়া নিয়ে একটি থিসিসের জন্য তিনি গবেষণা করেছিলেন।</li>
+    <li>subject_story->সে এই অঞ্চলে সেরা চকোলেট দোকানটি স্থাপন করেছিল।</li>
+    <li>subject_gerund->চকলেট উৎপাদন</li>
+    <li>subject_gerund->কোকো চাষ</li>
+  </Cocoa.generalRules.rulesStrings>
+  
+  <!-- EN: complex clothing -->
+  <ComplexClothing.label>জটিল পোশাক</ComplexClothing.label>
+  <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
+  <ComplexClothing.description>প্যান্ট, ডাস্টার ও কাউবয় টুপির মতো জটিল পোশাক সেলাই করুন।</ComplexClothing.description>
+  <!-- EN:
+    <li>subject->complex tailoring</li>
+    <li>subject_story->tailored hard-wearing clothes for urbworld cityfolk</li>
+    <li>subject_story->would relax by sewing and telling stories to the village children</li>
+    <li>subject_story->learned to craft clothing to be worn at [ANYPAWN_possessive] troupe's grand performances</li>
+    <li>subject_gerund->tailoring complex clothes</li>
+  -->
+  <ComplexClothing.generalRules.rulesStrings>
+    <li>subject->জটিল নির্মাণ</li>
+    <li>subject_FemMas->জটিল নির্মাণ</li>
+    <li>subject_def2->জটিল নির্মাণে</li>
+    <li>subject_def->জটিল নির্মাণের</li>
+    <li>subject_story->শহরের বাসিন্দাদের জন্য তিনি টেকসই পোশাক তৈরি করেছিলেন।</li>
+    <li>subject_story->সে সেলাই করে এবং গ্রামের বাচ্চাদের গল্প বলে বিশ্রাম নিত।</li>
+    <li>subject_story->সে তার দলের বড় পারফরম্যান্সে পরার জন্য পোশাক তৈরি করতে শিখেছে।</li>
+    <li>subject_gerund->জটিল পোশাক তৈরি</li>
+  </ComplexClothing.generalRules.rulesStrings>
+  
+  <!-- EN: complex furniture -->
+  <ComplexFurniture.label>জটিল আসবাবপত্র</ComplexFurniture.label>
+  <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiards tables, and poker tables, vents, sarcophagi, and more. -->
+  <ComplexFurniture.description>বিছানা, ছোট টেবিল, ডাইনিং চেয়ার, আর্মচেয়ার, ড্রেসার, টুল ক্যাবিনেট, বিলিয়ার্ড ও পোকার টেবিল, ভেন্ট, সারকোফাগাসসহ নানা জটিল আসবাব তৈরি করুন।</ComplexFurniture.description>
+  <!-- EN:
+    <li>subject->carpentry</li>
+    <li>subject_story->studied woodcarving under a master carpenter</li>
+    <li>subject_story->built a town of log-cabins singlehandedly</li>
+    <li>subject_story->established a factory, selling high-quality furniture to passing traders</li>
+    <li>subject_gerund->building complex furniture</li>
+  -->
+  <ComplexFurniture.generalRules.rulesStrings>
+    <li>subject->কাঠমিশ্রি</li>
+    <li>subject_FemMas->কাঠমিশ্ৰীৰ কাৰ্যালয়</li>
+    <li>subject_def->কার্পেন্টারির থেকে</li>
+    <li>subject_def2->কার্পেন্টারির দিকে</li>
+    <li>subject_story->একজন দক্ষ কাঠমিস্ত্রি শিক্ষকের তত্ত্বাবধানে সে কাঠের খোদাইবিদ্যা অধ্যয়ন করেছিল।</li>
+    <li>subject_story->সে একা কাঠের কুঁড়েঘরের একটি গ্রাম তৈরি করেছিল।</li>
+    <li>subject_story->সে একটি কারখানা স্থাপন করেছিল, যা পথচারী বণিকদের কাছে উচ্চ মানের আসবাব বিক্রি করত।</li>
+    <li>subject_gerund->জটিল আসবাবপত্র নির্মাণ</li>
+  </ComplexFurniture.generalRules.rulesStrings>
+  
+  <!-- EN: devilstrand -->
+  <Devilstrand.label>ডেভিলস্ট্র্যান্ড</Devilstrand.label>
+  <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
+  <Devilstrand.description>ডেভিলস্ট্র্যান্ড রোপণ করুন—এটি ধীরে বেড়ে ওঠা এক ধরনের ছত্রাক, যা থেকে অত্যন্ত মজবুত ও তাপ-প্রতিরোধী তন্তু পাওয়া যায়।</Devilstrand.description>
+  <!-- EN:
+    <li>subject->devilstrand cultivation</li>
+    <li>subject_story->used devilstrand as a natural firebreak</li>
+    <li>subject_story->established the techniques for cultivating devilstrand easily</li>
+    <li>subject_story->became obsessed with mushrooms and became the self-declared Princess of [ANYPAWN_possessive] kingdom</li>
+    <li>subject_gerund->cultivating devilstrand</li>
+  -->
+  <Devilstrand.generalRules.rulesStrings>
+    <li>subject->হিলোডায়াবল চাষ</li>
+    <li>subject_FemMas->হিলোডায়াবল চাষ</li>
+    <li>subject_def->হিলোডায়াবল চাষের</li>
+    <li>subject_def2->হিলোডায়াবল চাষের জন্য</li>
+    <li>subject_story->আগুন প্রতিরোধের প্রাকৃতিক বাধা হিসেবে সে হিলোডিয়াবলো ব্যবহার করেছিল।</li>
+    <li>subject_story->সহজে হিলোডায়াবল চাষ করার কৌশল স্থাপন করেছে।</li>
+    <li>subject_story->সে ছত্রাক নিয়ে আচ্ছন্ন হয়ে গিয়েছিল এবং নিজেকে তাদের রাজ্যের রাজকুমারী ঘোষণা করেছিল।</li>
+    <li>subject_gerund->হিলোডায়াবল চাষ</li>
+  </Devilstrand.generalRules.rulesStrings>
+  
+  <!-- EN: drug production -->
+  <DrugProduction.label>মাদক উৎপাদন</DrugProduction.label>
+  <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
+  <DrugProduction.description>মৌলিক মাদক সংশ্লেষণের জন্য একটি ড্রাগ ল্যাব তৈরি করুন। নির্দিষ্ট মাদক তৈরির জন্য আরও গবেষণা প্রয়োজন।</DrugProduction.description>
+  <!-- EN:
+    <li>subject->drug production</li>
+    <li>subject->drug synthesis</li>
+    <li>subject_story->worked in an asteroid lab on the edge of populated space</li>
+    <li>subject_story->learned how to craft drugs from recycled chemicals, leading to many years spent in prison</li>
+    <li>subject_story->worked as a chemist, but slipped into peddling illegal drugs on the side</li>
+    <li>subject_gerund->building drug labs</li>
+    <li>subject_gerund->producing drugs</li>
+  -->
+  <DrugProduction.generalRules.rulesStrings>
+    <li>subject->মাদক উৎপাদন</li>
+    <li>subject->ড্রাগ সংশ্লেষণ</li>
+    <li>subject_FemMas->মাদক উৎপাদন</li>
+    <li>subject_def->মাদক উৎপাদনের থেকে</li>
+    <li>subject_def2->মাদক দ্রব্য উৎপাদনে</li>
+    <li>subject_FemMas->ড্রাগ সংশ্লেষণ</li>
+    <li>subject_def->ড্রাগ সংশ্লেষণ থেকে</li>
+    <li>subject_def2->মাদক সংশ্লেষণে</li>
+    <li>subject_story->সে জনবসিতপূর্ণ স্থানের প্রান্তে একটি গ্রহাণু ল্যাবরেটরিতে কাজ করত।</li>
+    <li>subject_story->সে পুনর্ব্যবহৃত রাসায়নিক থেকে মাদক তৈরি করতে শিখেছিল, যার ফলে বহু বছর কারাদণ্ড হয়।</li>
+    <li>subject_story->সে একজন রসায়নবিদ হিসেবে কাজ করত, কিন্তু একটি পার্শ্ববর্তী কার্যকলাপ হিসেবে অবৈধ মাদক দ্রব্য পাচারে জড়িয়ে পড়েছিল।</li>
+    <li>subject_gerund->মাদক পরীক্ষাগার নির্মাণ</li>
+    <li>subject_gerund->মাদক উৎপাদন</li>
+  </DrugProduction.generalRules.rulesStrings>
+  
+  <!-- EN: go-juice production -->
+  <GoJuiceProduction.label>গো-জুস উৎপাদন</GoJuiceProduction.label>
+  <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
+  <GoJuiceProduction.description>গো-জুস তৈরি করুন—একটি কৃত্রিম যুদ্ধ-ক্ষমতা বৃদ্ধিকারী মাদক, যা নিশানা, নিকটযুদ্ধ, চলাচল ক্ষমতা বাড়ায় এবং ব্যথা কমায়।</GoJuiceProduction.description>
+  <!-- EN:
+    <li>subject->go-juice production</li>
+    <li>subject_story->was expelled for taking go-juice during team sports matches</li>
+    <li>subject_story->found go-juice massively increased productivity in mines and lumberyards</li>
+    <li>subject_story->never went on a mission without go-juice or juggernaut in a pocket</li>
+    <li>subject_gerund->synthesizing go-juice</li>
+  -->
+  <GoJuiceProduction.generalRules.rulesStrings>
+    <li>subject->জুস-গো উৎপাদন</li>
+    <li>subject_FemMas->জুস-গো উৎপাদন</li>
+    <li>subject_def->জুস-গো উৎপাদনের থেকে</li>
+    <li>subject_def2->জুগো-গো উৎপাদনের দিকে</li>
+    <li>subject_story->তাকে খেলার সময় জুগো-গো পান করার জন্য বহিষ্কার করা হয়েছিল।</li>
+    <li>subject_story->তিনি আবিষ্কার করলেন যে জুগো-গো খনি এবং করাতকলে উৎপাদনশীলতা ব্যাপকভাবে বৃদ্ধি করে।</li>
+    <li>subject_story->সে কখনো জুগো-গো বা জাগার্নট পকেটে ছাড়া কোনো অভিযানে যায়নি।</li>
+    <li>subject_gerund->জুস-গো সংশ্লেষণ</li>
+  </GoJuiceProduction.generalRules.rulesStrings>
+  
+  <!-- EN: greatbow -->
+  <Greatbow.label>বড় ধনুক</Greatbow.label>
+  <!-- EN: Craft greatbows for killing enemies at great range. -->
+  <Greatbow.description>দূরপাল্লায় শত্রু হত্যা করার জন্য বড় ধনুক তৈরি করুন।</Greatbow.description>
+  <!-- EN:
+    <li>subject->greatbows</li>
+    <li>subject_story->fired an arrow right through the iron helmet of a feudal king</li>
+    <li>subject_story->hunted muffalos for their fur on a feral world</li>
+    <li>subject_story->lived alone in the greenwood, a hail of arrows greeting anyone who approached within a mile of its edge</li>
+    <li>subject_gerund->crafting greatbows</li>
+  -->
+  <Greatbow.generalRules.rulesStrings>
+    <li>subject->বড় তোরণ</li>
+    <li>subject_FemMas->বড় তোরণ</li>
+    <li>subject_def->বড় তোরণগুলির থেকে</li>
+    <li>subject_def2->বড় তোরণগুলিতে</li>
+    <li>subject_story->একজন সামন্ত রাজার লোহার হেলমেটের মধ্যে দিয়ে একটি তীর ছুঁড়ে মারলো।</li>
+    <li>subject_story->বন্য বিশ্বে তাদের চামড়ার জন্য মুফালো শিকার করেছিল।</li>
+    <li>subject_story->সে জঙ্গলে একা বাস করত, এবং যে কেউ তার অঞ্চলের এক মাইলের মধ্যে কাছে এলে তীরের বৃষ্টি দিয়ে অভ্যর্থনা জানানো হতো।</li>
+    <li>subject_gerund->বড় ধনুক তৈরি</li>
+  </Greatbow.generalRules.rulesStrings>
+  
+  <!-- EN: long blades -->
+  <LongBlades.label>দীর্ঘ ধারালো অস্ত্র</LongBlades.label>
+  <!-- EN: Craft longswords and spears. -->
+  <LongBlades.description>লংসোর্ড ও বর্শা তৈরি করুন।</LongBlades.description>
+  <!-- EN:
+    <li>subject->medieval weaponry</li>
+    <li>subject_story->rode with the Betaduke's Fifth Light Cavalry as they conquered the sector</li>
+    <li>subject_story->was enslaved as a weaponsmith beneath the arena on an iron age planet</li>
+    <li>subject_story->trained the hoplites on a warworld to use their weapons' reach</li>
+    <li>subject_gerund->smithing medieval weapons</li>
+  -->
+  <LongBlades.generalRules.rulesStrings>
+    <li>subject->মধ্যযুগীয় অস্ত্রশস্ত্র</li>
+    <li>subject_FemMas->মধ্যযুগীয় অস্ত্রশস্ত্র</li>
+    <li>subject_def->মধ্যযুগীয় অস্ত্রশস্ত্রের</li>
+    <li>subject_def2->মধ্যযুগীয় অস্ত্রশস্ত্রের কাছে</li>
+    <li>subject_story->বেটাডুক-এর পঞ্চম হালকা অশ্বারোহী বাহিনীর সাথে তিনি সেক্টরটি জয় করার সময় ঘোড়ায় চড়েছিলেন।</li>
+    <li>subject_story->ছিল {ANYPAWN_gender ? esclavizado como armero : esclavizada como armera} বালি নিচে একটি লোহার যুগের গ্রহে কামার হিসাবে</li>
+    <li>subject_story->হপলাইটদেরকে একটি বিশ্বযুদ্ধে তাদের অস্ত্রের পাল্লা ব্যবহার করার জন্য প্রশিক্ষণ দিয়েছিল।</li>
+    <li>subject_gerund->মধ্যযুগীয় অস্ত্রেরForged</li>
+  </LongBlades.generalRules.rulesStrings>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>নিষ্ক্রিয় কুলার</PassiveCooler.label>
+  <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
+  <PassiveCooler.description>বিদ্যুৎ ছাড়াই ঘরের ভেতর ঠান্ডা রাখার জন্য নিষ্ক্রিয় কুলার তৈরি করুন।</PassiveCooler.description>
+  <!-- EN:
+    <li>subject->evaporation</li>
+    <li>subject->passive coolers</li>
+    <li>subject_story->moved to a sweltering tropical world and developed unique techniques for staying cool</li>
+    <li>subject_story->researched primitive techniques for cooling areas in the comfort of a coreworld's libraries</li>
+    <li>subject_story->noticed, on the shores of an oceanic planet, that it was cooler where the sea spray settled</li>
+    <li>subject_gerund->building passive coolers</li>
+  -->
+  <PassiveCooler.generalRules.rulesStrings>
+    <li>subject->বাষ্পীভবন</li>
+    <li>subject_FemMas->বাষ্পীভবন</li>
+    <li>subject->প্যাসিভ কুলার</li>
+    <li>subject_FemMas->প্যাসিভ কুলার</li>
+    <li>subject_def->বাষ্পীভবন থেকে</li>
+    <li>subject_def2->বাষ্পীভবনের মাধ্যমে</li>
+    <li>subject_def->প্যাসিভ কুলারগুলোর থেকে</li>
+    <li>subject_def2->প্যাসিভ কুলারগুলোতে</li>
+    <li>subject_story->সে একটি প্রখর গ্রীষ্মমণ্ডলীয় বিশ্বে স্থানান্তরিত হয়েছিল এবং ঠান্ডা থাকার জন্য অনন্য কৌশল তৈরি করেছিল।</li>
+    <li>subject_story->সে একটি ওয়ার্ল্ডকোর লাইব্রেরির আরামদায়ক পরিবেশে এলাকা ঠান্ডা করার আদিম কৌশল অধ্যয়ন করেছিল।</li>
+    <li>subject_story->সে একটি মহাসাগরীয় গ্রহের তীরে লক্ষ্য করলো, যেখানে সমুদ্রের কুয়াশা বসত, সেখানে শীতল ছিল।</li>
+    <li>subject_gerund->প্যাসিভ কুলার নির্মাণ</li>
+  </PassiveCooler.generalRules.rulesStrings>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>পেমিকান</Pemmican.label>
+  <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
+  <Pemmican.description>পেমিকান তৈরি করুন—মাংস ও উদ্ভিজ্জ উপাদানের সংরক্ষিত মিশ্রণ, যা দীর্ঘদিন নষ্ট হয় না। ভ্রমণের জন্য আদর্শ।</Pemmican.description>
+  <!-- EN:
+    <li>subject->pemmican production</li>
+    <li>subject_story->mastered pemmican production during a long pilgrimage to the planet's Spire</li>
+    <li>subject_story->survived solely on pemmican when a passenger liner crashed on a glassworld</li>
+    <li>subject_story->taught pemmican production to feral tribes</li>
+    <li>subject_gerund->making pemmican</li>
+  -->
+  <Pemmican.generalRules.rulesStrings>
+    <li>subject->পেমিকান উৎপাদন</li>
+    <li>subject_FemMas->পেমিকান উৎপাদন</li>
+    <li>subject_def->পেমিকান উৎপাদনের থেকে</li>
+    <li>subject_def2->পেমিকান উৎপাদনে</li>
+    <li>subject_story->গ্রহের স্পাইরাল পর্যন্ত দীর্ঘ যাত্রায় সে পেমিকান উৎপাদন আয়ত্ত করেছিল।</li>
+    <li>subject_story->যখন একটি ট্রান্সআটলান্টিক জাহাজ একটি ক্রিস্টাল বিশ্বে বিধ্বস্ত হয়েছিল, তখন সে শুধুমাত্র জার্কি খেয়ে বেঁচে ছিল।</li>
+    <li>subject_story->বন্য উপজাতিদের পেমিকান তৈরি করা শিখিয়েছিল।</li>
+    <li>subject_gerund->পেমিকান উৎপাদন</li>
+  </Pemmican.generalRules.rulesStrings>
+  
+  <!-- EN: penoxycyline production -->
+  <PenoxycylineProduction.label>পেনক্সিসিলিন উৎপাদন</PenoxycylineProduction.label>
+  <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <PenoxycylineProduction.description>পেনক্সিসিলিন তৈরি করুন—একটি রোগ প্রতিরোধক ওষুধ, যা প্লেগ, ম্যালেরিয়া ও আরও অনেক রোগ শুরু হওয়ার আগেই প্রতিরোধ করে।</PenoxycylineProduction.description>
+  <!-- EN:
+    <li>subject->penoxycyline production</li>
+    <li>subject_story->lectured to the United Planets about preventative medicine</li>
+    <li>subject_story->was driven out of Dawn Falls as a quack, for selling a medicine that "doesn't do anything"</li>
+    <li>subject_story->prevented an outbreak of malaria from spreading through careful penoxycyline dosage</li>
+    <li>subject_gerund->synthesizing penoxycyline</li>
+  -->
+  <PenoxycylineProduction.generalRules.rulesStrings>
+    <li>subject->পেনক্সিসিলিন উৎপাদন</li>
+    <li>subject_FemMas->পেনক্সিসিলিনের উৎপাদন</li>
+    <li>subject_def->পেনক্সিসিলিন উৎপাদনের থেকে</li>
+    <li>subject_def2->পেনক্সিসিলিন উৎপাদনে</li>
+    <li>subject_story->জাতিসংঘে প্রতিরোধমূলক ঔষধ নিয়ে একটি বক্তৃতা দিয়েছিল।</li>
+    <li>subject_story->বহিষ্কার করা হয়েছিল{ANYPAWN_gender ? o : a} ডন ফলস থেকে একজন প্রতারক হিসেবে, এমন একটি ওষুধ বিক্রির জন্য যা "কিছুই করে না</li>
+    <li>subject_story->আমি সতর্কতামূলক ব্যবস্থা নিয়েছিলাম যাতে ম্যালেরিয়ার প্রাদুর্ভাব পেনক্সিসিলিনের সঠিক ডোজের মাধ্যমে ছড়াতে না পারে।</li>
+    <li>subject_gerund->পেনক্সিসিলিন সংশ্লেষণ</li>
+  </PenoxycylineProduction.generalRules.rulesStrings>
+  
+  <!-- EN: plate armor -->
+  <PlateArmor.label>প্লেট বর্ম</PlateArmor.label>
+  <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
+  <PlateArmor.description>ধাতু বা কাঠ দিয়ে প্লেট বর্ম তৈরি করুন। এই ভারী বর্ম চলাচল ধীর করে, তবে অত্যন্ত কার্যকর সুরক্ষা দেয়।</PlateArmor.description>
+  <!-- EN:
+    <li>subject->plate armor</li>
+    <li>subject_story->crafted armor from scrap, when the authorities surrounded [ANYPAWN_possessive] family's shack</li>
+    <li>subject_story->became known as the Green Smith, when moss grew on the wooden armor</li>
+    <li>subject_story->started the first armorworker's collective on an urbworld</li>
+    <li>subject_gerund->smithing plate armor</li>
+  -->
+  <PlateArmor.generalRules.rulesStrings>
+    <li>subject->প্লেট আর্মার</li>
+    <li>subject_FemMas->প্লেট আর্মার</li>
+    <li>subject_def->প্লেট আর্মারের থেকে</li>
+    <li>subject_def2->প্লেট আর্মারের কাছে</li>
+    <li>subject_story->যখন কর্তৃপক্ষ তার পরিবারের কুঁড়েঘর ঘিরে ফেলেছিল, তখন সে আবর্জনা দিয়ে বর্ম তৈরি করেছিল।</li>
+    <li>subject_story->সে পরিণত হয়েছিল {ANYPAWN_gender ? conocido como el Herrero Verde : conocida como la Herrera Verde}, যখন শৈবাল কাঠের বর্মের উপর বৃদ্ধি পেয়েছিল</li>
+    <li>subject_story->সে প্রথম বর্ম শ্রমিকদের দল একটি শহুরে বিশ্বে শুরু করেছিল।</li>
+    <li>subject_gerund->প্লেট আর্মারের তৈরি</li>
+  </PlateArmor.generalRules.rulesStrings>
+  
+  <!-- EN: psychite refining -->
+  <PsychiteRefining.label>সাইকাইট পরিশোধন</PsychiteRefining.label>
+  <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
+  <PsychiteRefining.description>সাইকয়েড পাতা পরিশোধন করে ফ্লেক ও ইয়ায়ো তৈরি করুন—সাইকাইট মাদকের বিভিন্ন উচ্ছ্বাসকর রূপ।</PsychiteRefining.description>
+  <!-- EN:
+    <li>subject->psychite production</li>
+    <li>subject_story->used [ANYPAWN_possessive] university job as cover for [ANYPAWN_possessive] drug-dealing</li>
+    <li>subject_story->started a commune where low-dose flake was mixed into the food</li>
+    <li>subject_story->campaigned for the legalisation of yayo on a nearby urbworld</li>
+    <li>subject_gerund->refining psychite</li>
+  -->
+  <PsychiteRefining.generalRules.rulesStrings>
+    <li>subject->সাইকিটা উৎপাদন</li>
+    <li>subject_FemMas->সাইকিটা উৎপাদন</li>
+    <li>subject_def->সাইকিটা উৎপাদনের থেকে</li>
+    <li>subject_def2->সাইকিটা উৎপাদনে</li>
+    <li>subject_story->সে তার মাদক ব্যবসার আড়ালে বিশ্ববিদ্যালয়ের কাজ ব্যবহার করেছিল।</li>
+    <li>subject_story->সে একটি কমিউন প্রতিষ্ঠা করেছিল যেখানে অল্প পরিমাণে মাদক দ্রব্য খাবারের সাথে মেশানো হত।</li>
+    <li>subject_story->সে একটি নিকটবর্তী শহুরে বিশ্বে ইয়ায়োকে বৈধ করার জন্য প্রচারণা চালিয়েছিল।</li>
+    <li>subject_gerund->সাইকিটা পরিশোধিত</li>
+  </PsychiteRefining.generalRules.rulesStrings>
+  
+  <!-- EN: psychoid brewing -->
+  <PsychoidBrewing.label>সাইকয়েড প্রস্তুতকরণ</PsychoidBrewing.label>
+  <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
+  <PsychoidBrewing.description>ক্যাম্পফায়ার বা চুলায় সাইকয়েড পাতা দিয়ে হালকা উচ্ছ্বাসকর ও আসক্তিকর চা প্রস্তুত করুন।</PsychoidBrewing.description>
+  <!-- EN:
+    <li>subject->psychoid</li>
+    <li>subject_story->joined a short-lived psychoid commune on a cult world</li>
+    <li>subject_story->experimented with psychoid to help traumatized soldiers</li>
+    <li>subject_story->legalized psychoid for mass production across several coreworlds, when [ANYPAWN_pronoun] had the power to do so</li>
+    <li>subject_gerund->brewing psychoid</li>
+  -->
+  <PsychoidBrewing.generalRules.rulesStrings>
+    <li>subject->সাইকোয়েড</li>
+    <li>subject_FemMas->সাইকোয়েডস</li>
+    <li>subject_def->সাইকয়েডদের থেকে</li>
+    <li>subject_def2->সাইকোয়েডদের কাছে</li>
+    <li>subject_story->সে একটি বিভেদপূর্ণ বিশ্বে স্বল্পস্থায়ী সাইকোয়েড কমিউনে যোগ দিয়েছিল।</li>
+    <li>subject_story->traumatized সৈন্যদের সাহায্য করার জন্য সাইকোয়েড নিয়ে পরীক্ষা করেছিল।</li>
+    <li>subject_story->যখন তার ক্ষমতা ছিল, তখন সে বিভিন্ন কোর ওয়ার্ল্ডে ব্যাপক উৎপাদনের জন্য সাইকোয়েডগুলিকে বৈধ করে তুলেছিল।</li>
+    <li>subject_gerund->সাইকয়েড তৈরি</li>
+  </PsychoidBrewing.generalRules.rulesStrings>
+  
+  <!-- EN: recurve bow -->
+  <RecurveBow.label>রিকর্ভ ধনুক</RecurveBow.label>
+  <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
+  <RecurveBow.description>রিকর্ভ ধনুক তৈরি করুন—একটি কার্যকর ও সাশ্রয়ী দূরপাল্লার অস্ত্র।</RecurveBow.description>
+  <!-- EN:
+    <li>subject->bowyery</li>
+    <li>subject->bow-making</li>
+    <li>subject_story->tracked a rabid boomalope for four days before killing it with a single arrow</li>
+    <li>subject_story->settled near a yew forest to secure the perfect materials for bows</li>
+    <li>subject_story->raised the colony children as hunter-gatherers, with every one a master archer</li>
+    <li>subject_gerund->crafting bows</li>
+  -->
+  <RecurveBow.generalRules.rulesStrings>
+    <li>subject->ধনুক তৈরি</li>
+    <li>subject_FemMas->ধনুক তৈরি</li>
+    <li>subject->চাপ তৈরি করা</li>
+    <li>subject_FemMas->আর্ক তৈরি করা</li>
+    <li>subject_def->ধনুক তৈরির থেকে</li>
+    <li>subject_def2->ধনুক তৈরিতে</li>
+    <li>subject_def->আর্ক তৈরির সময় থেকে</li>
+    <li>subject_def2->আর্ক তৈরির উদ্দেশ্যে</li>
+    <li>subject_story->সে একটি উন্মত্ত বুমালাপকে চার দিন ধরে অনুসরণ করেছিল, তারপর একটি মাত্র তীর দিয়ে হত্যা করে।</li>
+    <li>subject_story->তারা ধনুকের জন্য নিখুঁত উপকরণ নিশ্চিত করতে একটি ট্যাক্সাসের অরণ্যের কাছে বসতি স্থাপন করেছিল।</li>
+    <li>subject_story->উপনিবেশের শিশুদের শিকারী-সংগ্রাহক হিসেবে বড় করে তুলল, এবং তাদের প্রত্যেকজন ছিল একজন দক্ষ তীরন্দাজ।</li>
+    <li>subject_gerund->ধনুক তৈরি</li>
+  </RecurveBow.generalRules.rulesStrings>
+  
+  <!-- EN: smithing -->
+  <Smithing.label>লোহার কাজ</Smithing.label>
+  <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
+  <Smithing.description>ছুরি, গ্লাডিয়াস ও গদার মতো ধাতব অস্ত্র তৈরির জন্য কামারশালা তৈরি করুন। ধাতু দিয়ে পরিষ্কার ও সুন্দর মেঝের টাইল বানান।</Smithing.description>
+  <!-- EN:
+    <li>subject->blacksmithing</li>
+    <li>subject_story->settled in a medieval hamlet and mastered simple metal crafting</li>
+    <li>subject_story->built glitterworld smithies for the Renaissance reenactment guilds</li>
+    <li>subject_gerund->smithing</li>
+  -->
+  <Smithing.generalRules.rulesStrings>
+    <li>subject->লোহার কর্মশালা</li>
+    <li>subject_FemMas->লোহার কর্মশালা</li>
+    <li>subject_def->ইস্পাত কর্মশালা থেকে</li>
+    <li>subject_def2->লোহার কামড়ায়</li>
+    <li>subject_story->সে একটি মধ্যযুগীয় গ্রামে বসতি স্থাপন করে এবং সাধারণ ধাতু তৈরি করায় দক্ষতা অর্জন করে।</li>
+    <li>subject_story->সে রেনেসাঁসের বিনোদন গিল্ডগুলির জন্য ওয়ার্ল্ডগ্লিটার স্মিথারি তৈরি করেছিল।</li>
+    <li>subject_gerund->কারুকার্যখচিত</li>
+  </Smithing.generalRules.rulesStrings>
+  
+  <!-- EN: stonecutting -->
+  <Stonecutting.label>পাথর কাটা</Stonecutting.label>
+  <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
+  <Stonecutting.description>নির্মাণের জন্য পাথরের খণ্ড কেটে ব্লক বানান। সুন্দর পাথরের টাইল মেঝে বা কুৎসিত কংক্রিটের পথ তৈরি করুন।</Stonecutting.description>
+  <!-- EN:
+    <li>subject->masonry</li>
+    <li>subject_story->was the first in a line of temple designers, all sharing the same name</li>
+    <li>subject_story->developed unique techniques for cutting the hardest rock with basic tools</li>
+    <li>subject_story->tiled the entirety of the viceroy's palace on a medieval world</li>
+    <li>subject_gerund->stonecutting</li>
+    <li>subject_gerund->cutting stones</li>
+  -->
+  <Stonecutting.generalRules.rulesStrings>
+    <li>subject->রাজমিস্ত্রি কাজ</li>
+    <li>subject_FemMas->রাজমিস্ত্রিবিদ্যা</li>
+    <li>subject_def->ইটmasonry কাজের</li>
+    <li>subject_def2->ইটmasonry কাজে</li>
+    <li>subject_story->সে ছিল মন্দির নকশাকারদের প্রথম ব্যক্তি, যাদের সকলের নাম একই ছিল।</li>
+    <li>subject_story->সাধারণ সরঞ্জাম দিয়ে সবচেয়ে কঠিন পাথর কাটার জন্য সে অনন্য কৌশল তৈরি করেছে।</li>
+    <li>subject_story->ভাইসরয়ের পুরো প্রাসাদটি একটি মধ্যযুগীয় বিশ্বে সজ্জিত করেছিলেন।</li>
+    <li>subject_gerund->পাথর খোদাই করা</li>
+    <li>subject_gerund->পাথর খোদাইবিদ্যা</li>
+  </Stonecutting.generalRules.rulesStrings>
+  
+  <!-- EN: tree sowing -->
+  <TreeSowing.label>গাছ বপন</TreeSowing.label>
+  <!-- EN: Sow the local biome's natural trees in your fields. -->
+  <TreeSowing.description>আপনার ক্ষেতেতে স্থানীয় বায়োমের প্রাকৃতিক গাছ রোপণ করুন।</TreeSowing.description>
+  <!-- EN:
+    <li>subject->tree sowing</li>
+    <li>subject_story->propagated trees across a long-dead planetoid, trying to bring life back</li>
+    <li>subject_story->published a paper about maintaining natural ecosystems</li>
+    <li>subject_story->worked in a tree nursery on an animal world</li>
+    <li>subject_gerund->sowing trees</li>
+  -->
+  <TreeSowing.generalRules.rulesStrings>
+    <li>subject->গাছ রোপণ</li>
+    <li>subject_FemMas->গাছ লাগানো</li>
+    <li>subject_def->গাছ লাগানোর থেকে</li>
+    <li>subject_def2->গাছ লাগানোর উদ্দেশ্যে</li>
+    <li>subject_story->সে একটি মৃত গ্রহাণুতে গাছপালা রোপণ করে, সেটিকে আবার বাঁচানোর চেষ্টা করছিল।</li>
+    <li>subject_story->প্রাকৃতিক বাস্তুতন্ত্রের রক্ষণাবেক্ষণ নিয়ে একটি নিবন্ধ প্রকাশ করেছেন।</li>
+    <li>subject_story->সে একটি পশু বিশ্বে গাছের নার্সারিতে কাজ করত।</li>
+    <li>subject_gerund->গাছ রোপণ</li>
+  </TreeSowing.generalRules.rulesStrings>
+  
+  <!-- EN: wake-up production -->
+  <WakeUpProduction.label>ওয়েক-আপ উৎপাদন</WakeUpProduction.label>
+  <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
+  <WakeUpProduction.description>ওয়েক-আপ সংশ্লেষণ করুন—একটি কাজের সক্ষমতা বৃদ্ধিকারী মাদক, যা ঘুমের প্রয়োজনীয়তা প্রতিস্থাপন করে।</WakeUpProduction.description>
+  <!-- EN:
+    <li>subject->wake-up production</li>
+    <li>subject_story->tried to overcome caffeine addiction by taking wake-up</li>
+    <li>subject_story->treated narcoleptics and sleepwalkers with carefully timed wake-up doses</li>
+    <li>subject_story->moved everyone to the dark side of an asteroid and used wake-up to maintain their biorhythms</li>
+    <li>subject_gerund->synthesizing wake-up</li>
+  -->
+  <WakeUpProduction.generalRules.rulesStrings>
+    <li>subject->জাগ্রত উৎপাদন</li>
+    <li>subject_FemMas->জাগ্রত উৎপাদন</li>
+    <li>subject_def->জাগ্রত উৎপাদনের থেকে</li>
+    <li>subject_def2->জাগ্রত উৎপাদনের দিকে</li>
+    <li>subject_story->ক্যাফেইনের আসক্তি কাটিয়ে ওঠার জন্য সে উদ্দীপক গ্রহণ করার চেষ্টা করেছিল।</li>
+    <li>subject_story->তিনি ঘুমকাতুরে এবং ঘুম-চালিত ব্যক্তিদের সতর্ক করার জন্য সতর্কতার সাথে সময়মতো ডোজ দিয়ে চিকিৎসা করেছেন।</li>
+    <li>subject_story->সে সবাইকে একটি গ্রহাণুর অন্ধকার দিকে স্থানান্তরিত করলো এবং তাদের জৈব ছন্দ বজায় রাখার জন্য জাগরণ ব্যবহার করলো।</li>
+    <li>subject_gerund->জাগ্রত সংশ্লেষণ</li>
+  </WakeUpProduction.generalRules.rulesStrings>
+  
+</LanguageData>

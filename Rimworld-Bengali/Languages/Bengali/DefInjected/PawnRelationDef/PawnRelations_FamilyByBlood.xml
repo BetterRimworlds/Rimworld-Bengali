@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son -->
+  <Child.label>পুত্র</Child.label>
+  <!-- EN: daughter -->
+  <Child.labelFemale>কন্যা</Child.labelFemale>
+  
+  <!-- EN: cousin -->
+  <Cousin.label>cousins</Cousin.label>
+  <Cousin.labelFemale>cousins</Cousin.labelFemale>
+  
+  <!-- EN: cousin once removed -->
+  <CousinOnceRemoved.label>দূরীয় জ্ঞাতি</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>দূরীয় জ্ঞাতি</CousinOnceRemoved.labelFemale>
+  
+  <!-- EN: grandson -->
+  <Grandchild.label>নাতী</Grandchild.label>
+  <!-- EN: granddaughter -->
+  <Grandchild.labelFemale>নাতনি</Grandchild.labelFemale>
+  
+  <!-- EN: grandnephew -->
+  <GrandnephewOrGrandniece.label>প্রপৌত্র</GrandnephewOrGrandniece.label>
+  <!-- EN: grandniece -->
+  <GrandnephewOrGrandniece.labelFemale>ভাগ্নী-নাতনী</GrandnephewOrGrandniece.labelFemale>
+  
+  <!-- EN: grandfather -->
+  <Grandparent.label>দাদাঠাকুর</Grandparent.label>
+  <!-- EN: grandmother -->
+  <Grandparent.labelFemale>দাদী/নানী</Grandparent.labelFemale>
+  
+  <!-- EN: granduncle -->
+  <GranduncleOrGrandaunt.label>দাদাতো ভাই</GranduncleOrGrandaunt.label>
+  <!-- EN: grandaunt -->
+  <GranduncleOrGrandaunt.labelFemale>দাদীর বোন</GranduncleOrGrandaunt.labelFemale>
+  
+  <!-- EN: great grandson -->
+  <GreatGrandchild.label>প্রপৌত্র</GreatGrandchild.label>
+  <!-- EN: great granddaughter -->
+  <GreatGrandchild.labelFemale>প্রপৌত্রী</GreatGrandchild.labelFemale>
+  
+  <!-- EN: great grandfather -->
+  <GreatGrandparent.label>প্রপিতামহ</GreatGrandparent.label>
+  <!-- EN: great grandmother -->
+  <GreatGrandparent.labelFemale>প্রপিতামহী</GreatGrandparent.labelFemale>
+  
+  <!-- EN: brother -->
+  <HalfSibling.label>ভাই</HalfSibling.label>
+  <!-- EN: sister -->
+  <HalfSibling.labelFemale>বোন</HalfSibling.labelFemale>
+  
+  <!-- EN: kin -->
+  <Kin.label>আত্মীয়তা</Kin.label>
+  <Kin.labelFemale>আত্মীয়তা</Kin.labelFemale>
+  
+  <!-- EN: nephew -->
+  <NephewOrNiece.label>ভাগ্নে</NephewOrNiece.label>
+  <!-- EN: niece -->
+  <NephewOrNiece.labelFemale>ভাগ্নী/ভাতিজী</NephewOrNiece.labelFemale>
+  
+  <!-- EN: father -->
+  <Parent.label>পিতা</Parent.label>
+  <!-- EN: mother -->
+  <Parent.labelFemale>মা</Parent.labelFemale>
+  
+  <!-- EN: second cousin -->
+  <SecondCousin.label>দ্বিতীয় কাজিন</SecondCousin.label>
+  <SecondCousin.labelFemale>দ্বিতীয় কাজিন</SecondCousin.labelFemale>
+  
+  <!-- EN: brother -->
+  <Sibling.label>ভাই</Sibling.label>
+  <!-- EN: sister -->
+  <Sibling.labelFemale>বোন</Sibling.labelFemale>
+  
+  <!-- EN: uncle -->
+  <UncleOrAunt.label>চাচা</UncleOrAunt.label>
+  <!-- EN: aunt -->
+  <UncleOrAunt.labelFemale>কাকি</UncleOrAunt.labelFemale>
+  
+</LanguageData>

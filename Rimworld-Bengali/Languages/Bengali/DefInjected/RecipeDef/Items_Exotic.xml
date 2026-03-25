@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administer healer mech serum -->
+  <AdministerMechSerumHealer.label>হিলার মেক সিরাম প্রয়োগ</AdministerMechSerumHealer.label>
+  <!-- EN: Administer a healer mech serum. -->
+  <AdministerMechSerumHealer.description>একজন নিরাময়কারী মেক সিরাম পরিচালনা করুন।</AdministerMechSerumHealer.description>
+  <!-- EN: Administering healer mech serum. -->
+  <AdministerMechSerumHealer.jobString>হিলার মেক সিরাম প্রয়োগ করা হচ্ছে।</AdministerMechSerumHealer.jobString>
+  
+</LanguageData>

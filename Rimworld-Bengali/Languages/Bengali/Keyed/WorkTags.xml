@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: none -->
+  <WorkTagNone>গুরুত্বপূর্ণ নিয়ম</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>বুদ্ধিজীবী</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>সাধারণ শ্রম</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>দক্ষ শ্রম</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>হিংস্র</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>গুলি করা</WorkTagShooting>
+  <!-- EN: caring -->
+  <WorkTagCaring>যত্নশীল</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>সামাজিক</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>প্রাণী</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>শিল্পসম্মত</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>তৈরি করা</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>রান্না</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>অগ্নি নির্বাপণ</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>পরিষ্কার করা</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>বহন করা</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>উদ্ভিদ কাজ</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>খনন</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>শিকার</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>নির্মাণ চলছে।</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>সাধারণ কাজ</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>সমস্ত কাজ</WorkTagAllWork>
+
+</LanguageData>

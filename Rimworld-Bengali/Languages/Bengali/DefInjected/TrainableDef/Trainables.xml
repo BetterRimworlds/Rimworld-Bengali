@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: haul -->
+  <Haul.label>মাল পরিবহন</Haul.label>
+  <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
+  <Haul.description>প্রাণীটি সময়ে সময়ে এলোমেলোভাবে জিনিসপত্র বহন করবে (তবে নির্দিষ্ট জিনিসপত্র বহন করার জন্য একে নির্দেশ করা যায় না)।</Haul.description>
+  
+  <!-- EN: guard -->
+  <Obedience.label>রক্ষী</Obedience.label>
+  <!-- EN: The animal can be assigned a master whom it will follow and defend. -->
+  <Obedience.description>এই প্রাণীটিকে একজন মালিক নির্ধারণ করা যেতে পারে, যার নির্দেশ এটি অনুসরণ করবে এবং যার সুরক্ষায় এটি কাজ করবে।</Obedience.description>
+  
+  <!-- EN: attack -->
+  <Release.label>আক্রমণ</Release.label>
+  <!-- EN: The animal can be released to attack distant targets instead of just guarding its master. -->
+  <Release.description>প্রাণীটিকে দূরের লক্ষ্যবস্তুতে আক্রমণ করার জন্য ছেড়ে দেওয়া যেতে পারে, শুধু মালিককে পাহারা দেওয়ার পরিবর্তে।</Release.description>
+  
+  <!-- EN: rescue -->
+  <Rescue.label>উদ্ধার</Rescue.label>
+  <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
+  <Rescue.description>প্রাণীটি আহত মিত্রদের উদ্ধার করবে এবং তাদের নিরাপদ স্থানে টেনে নিয়ে যাবে।</Rescue.description>
+  
+  <!-- EN: tameness -->
+  <Tameness.label>পোষ মানা</Tameness.label>
+  <!-- EN: The animal can learn to consider itself a member of your colony. -->
+  <Tameness.description>প্রাণীটি আপনার কলোনির সদস্য হিসেবে নিজেকে ভাবতে শিখতে পারে।</Tameness.description>
+  
+</LanguageData>

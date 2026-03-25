@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decent dining room -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.label>ভালো খাবার ঘর</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
+  <!-- EN: I ate my meal in a decent dining room. -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.description>আমি একটি সুন্দর ডাইনিং রুমে খাবার খেয়েছি।</AteInImpressiveDiningRoom.stages.decent_dining_room.description>
+  <!-- EN: slightly impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>সামান্য চিত্তাকর্ষক খাবার ঘর</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a slightly impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>আমি সামান্য চিত্তাকর্ষক একটি ডাইনিং রুমে খাবার খেয়েছি।</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>
+  <!-- EN: somewhat impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>কিছুটা চিত্তাকর্ষক খাবার ঘর</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>আমি একটি চিত্তাকর্ষক খাবার ঘরে আমার খাবার খেয়েছি।</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>
+  <!-- EN: very impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>খুবই চিত্তাকর্ষক খাবার ঘর</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a very impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>আমি একটি খুবই চমৎকার ডাইনিং রুমে আমার খাবার খেয়েছি।</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>
+  <!-- EN: extremely impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>অত্যন্ত চিত্তাকর্ষক খাবার ঘর</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an extremely impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>আমি একটি অত্যন্ত চমৎকার ডাইনিং রুমে আমার খাবার খেয়েছি। সেখানে চিরকাল থাকা যেত।</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>
+  <!-- EN: unbelievably impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>অবিশ্বাস্য সুন্দর খাবার ঘর</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an unbelievably impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>আমি একটি অবিশ্বাস্যভাবে চিত্তাকর্ষক ডাইনিং রুমে আমার খাবার খেয়েছি। আমি সেখানে চিরকাল থাকতে পারতাম।</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>
+  <!-- EN: wondrously impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>বিস্ময়কর ডাইনিং রুম</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a wonderful dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>আমি একটি চমৎকার ডাইনিং রুমে খাবার খেয়েছি। সেখানে চিরকাল থাকা যেত।</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
+  
+  <!-- EN: decent rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>ভালো বিশ্রামাগার</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
+  <!-- EN: I had fun in a decent rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>আমি একটি ভালো বিশ্রামাগারে আনন্দ করেছি।</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>
+  <!-- EN: slightly impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>সামান্য চিত্তাকর্ষক বিশ্রামাগার</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>
+  <!-- EN: I had fun in a nice rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>আমি একটি সুন্দর বিশ্রামাগারে আনন্দ করেছি।</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>
+  <!-- EN: somewhat impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>কিছুটা চিত্তাকর্ষক বিশ্রামাগার</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>
+  <!-- EN: I had a great time in an impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>আমি একটি চমৎকার বিশ্রামাগারে খুব ভালো সময় কাটিয়েছি।</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>
+  <!-- EN: very impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>অত্যন্ত চিত্তাকর্ষক বিশ্রামাগার</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>
+  <!-- EN: I had a great time in a very impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>আমি একটি অত্যন্ত চিত্তাকর্ষক বিশ্রামাগারে খুব ভালো সময় কাটিয়েছি।</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>
+  <!-- EN: extremely impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>অত্যন্ত চিত্তাকর্ষক বিশ্রামাগার</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>
+  <!-- EN: I had a great time in an extremely impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>আমি একটি অসাধারণ বিশ্রামাগারে খুব ভালো সময় কাটিয়েছি। সেখানে চিরকাল থাকতে পারতাম।</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>
+  <!-- EN: unbelievably impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>অবিশ্বাস্য চিত্তাকর্ষক বিশ্রামাগার</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>
+  <!-- EN: I had a great time in an unbelievably impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>আমি একটি অবিশ্বাস্যভাবে চিত্তাকর্ষক বিশ্রামাগারে দারুণ সময় কাটিয়েছি। সেখানে চিরকাল থাকা যেত।</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>
+  <!-- EN: wondrously impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>বিস্ময়কর বিনোদন কক্ষ</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
+  <!-- EN: I had a great time in a wonderful rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>আমি একটি চমৎকার বিশ্রামাগারে দারুণ সময় কাটিয়েছি। সেখানে চিরকাল থাকতে পারতাম।</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
+  
+  <!-- EN: awful barracks -->
+  <SleptInBarracks.stages.awful_barracks.label>খারাপ ব্যারাক</SleptInBarracks.stages.awful_barracks.label>
+  <!-- EN: I had to sleep in an awful barracks. Not only was it a horrible room, but I also had to share it! -->
+  <SleptInBarracks.stages.awful_barracks.description>আমি একটি ভয়ানক ব্যারাকে ঘুমাতে বাধ্য হয়েছিলাম। ঘরটি কেবলই জঘন্য ছিল না, বরং সেটি অন্যদের সাথে ভাগ করে নিতেও হয়েছিল!</SleptInBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <SleptInBarracks.stages.dull_barracks.label>মলিন ব্যারাক</SleptInBarracks.stages.dull_barracks.label>
+  <!-- EN: I had to sleep in a dull barracks. Not only that, but I also had to share it with other people. -->
+  <SleptInBarracks.stages.dull_barracks.description>আমাকে একটি নিস্তেজ ব্যারাকে ঘুমাতে হয়েছিল। শুধু তাই নয়, আমাকে অন্যান্য মানুষের সাথে সেটি ভাগ করে নিতেও হয়েছিল।</SleptInBarracks.stages.dull_barracks.description>
+  <!-- EN: mediocre barracks -->
+  <SleptInBarracks.stages.mediocre_barracks.label>সাধারণ ব্যারাক</SleptInBarracks.stages.mediocre_barracks.label>
+  <!-- EN: I had to sleep in a mediocre barracks with other people around. I really don't like this. -->
+  <SleptInBarracks.stages.mediocre_barracks.description>আমাকে অন্যের আশেপাশে একটি মাঝারি মানের ব্যারাকে ঘুমাতে হয়েছে। এটা আমার একদম ভালো লাগেনি।</SleptInBarracks.stages.mediocre_barracks.description>
+  <!-- EN: decent barracks -->
+  <SleptInBarracks.stages.decent_barracks.label>ভালো ব্যারাক</SleptInBarracks.stages.decent_barracks.label>
+  <!-- EN: I slept in a decent barracks, but I really dislike sharing a sleeping space. -->
+  <SleptInBarracks.stages.decent_barracks.description>আমি একটি মোটামুটি ভালো ব্যারাক্সে ঘুমিয়েছিলাম, কিন্তু সত্যি বলতে গেলে, শোবার জায়গা ভাগ করে নিতে আমার অপছন্দ।</SleptInBarracks.stages.decent_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.label>সামান্য চিত্তাকর্ষক ব্যারাক</SleptInBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: I got to sleep in a pretty nice barracks. But I really don't like sharing a room with others. -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.description>আমি বেশ সুন্দর একটি ব্যারাকে ঘুমাতে পেরেছিলাম। কিন্তু অন্যদের সাথে ঘর ভাগ করে থাকাটা আমার ভালো লাগে না।</SleptInBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: impressive barracks -->
+  <SleptInBarracks.stages.impressive_barracks.label>আকর্ষণীয় ব্যারাক</SleptInBarracks.stages.impressive_barracks.label>
+  <!-- EN: I got to sleep in an impressive barracks. It sucks that I had to share it, though. -->
+  <SleptInBarracks.stages.impressive_barracks.description>আমি একটি চিত্তাকর্ষক ব্যারাকে ঘুমাতে পেরেছিলাম। তবে, এটি ভাগ করে নিতে হয়েছে, যা খারাপ লেগেছে।</SleptInBarracks.stages.impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <SleptInBarracks.stages.very_impressive_barracks.label>অত্যন্ত চিত্তাকর্ষক ব্যারাক</SleptInBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: I slept in a very impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.very_impressive_barracks.description>আমি একটি খুব চমৎকার ব্যারাকে ঘুমিয়েছিলাম। এটি ভাগ করে নিতে আমার কোনো আপত্তি নেই।</SleptInBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.label>অত্যন্ত চিত্তাকর্ষক ব্যারাক</SleptInBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: I slept in an extremely impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.description>আমি একটি অত্যন্ত চিত্তাকর্ষক ব্যারাকে ঘুমিয়েছিলাম। এটি ভাগ করে নিতে আমার কোনো আপত্তি নেই।</SleptInBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.label>অবিশ্বাস্যভাবে চিত্তাকর্ষক ব্যারাক</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: The barracks I slept in was so impressive that I don't even mind sharing it. -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.description>আমি যে ব্যারাকে ঘুমিয়েছিলাম, সেটি এতটাই চিত্তাকর্ষক যে এটি ভাগ করে নিতে আমার কোনো আপত্তি নেই।</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.label>বিস্ময়কর ব্যারাঙ্ক</SleptInBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: I slept in a barracks that was simply wondrous. Even sharing such a space makes me happy. -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.description>আমি একটি ব্যারাকে ঘুমিয়েছিলাম যা কেবলই চমৎকার ছিল। এমনকি এমন একটি স্থান ভাগ করে নেওয়াও আমাকে আনন্দ দেয়।</SleptInBarracks.stages.wondrously_impressive_barracks.description>
+  
+  <!-- EN: awful bedroom -->
+  <SleptInBedroom.stages.awful_bedroom.label>ভীষণ শোবার ঘর</SleptInBedroom.stages.awful_bedroom.label>
+  <!-- EN: I had to sleep in an awful room. -->
+  <SleptInBedroom.stages.awful_bedroom.description>আমার একটি ভয়ানক ঘরে ঘুমাতে হয়েছিল।</SleptInBedroom.stages.awful_bedroom.description>
+  <!-- EN: mediocre bedroom -->
+  <SleptInBedroom.stages.mediocre_bedroom.label>সাধারণ শোবার ঘর</SleptInBedroom.stages.mediocre_bedroom.label>
+  <!-- EN: I slept in a mediocre bedroom. Better than the alternative. -->
+  <SleptInBedroom.stages.mediocre_bedroom.description>আমি একটি মাঝারি মানের বেডরুমে ঘুমিয়েছিলাম। বিকল্পের চেয়ে ভালো ছিল।</SleptInBedroom.stages.mediocre_bedroom.description>
+  <!-- EN: decent bedroom -->
+  <SleptInBedroom.stages.decent_bedroom.label>যথেষ্ট শোবার ঘর</SleptInBedroom.stages.decent_bedroom.label>
+  <!-- EN: I got to sleep in a pretty decent bedroom. -->
+  <SleptInBedroom.stages.decent_bedroom.description>আমি বেশ ভালো একটি বেডরুমে ঘুমাতে পেরেছিলাম।</SleptInBedroom.stages.decent_bedroom.description>
+  <!-- EN: slightly impressive bedroom -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.label>কিছুটা চিত্তাকর্ষক বেডরুম</SleptInBedroom.stages.slightly_impressive_bedroom.label>
+  <!-- EN: I got to sleep in a slightly impressive bedroom. I like it. -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.description>আমি সামান্য চিত্তাকর্ষক একটি বেডরুমে ঘুমাতে পেরেছি। এটা আমার ভালো লেগেছে।</SleptInBedroom.stages.slightly_impressive_bedroom.description>
+  <!-- EN: impressive bedroom -->
+  <SleptInBedroom.stages.impressive_bedroom.label>আকর্ষণীয় শয়নকক্ষ</SleptInBedroom.stages.impressive_bedroom.label>
+  <!-- EN: I slept in an impressive bedroom. It was great. -->
+  <SleptInBedroom.stages.impressive_bedroom.description>আমি একটি চমৎকার বেডরুমে ঘুমিয়েছিলাম। এটা দারুণ ছিল।</SleptInBedroom.stages.impressive_bedroom.description>
+  <!-- EN: very impressive bedroom -->
+  <SleptInBedroom.stages.very_impressive_bedroom.label>বিস্ময়কর শোবার ঘর</SleptInBedroom.stages.very_impressive_bedroom.label>
+  <!-- EN: I slept in a very impressive bedroom. I love it. -->
+  <SleptInBedroom.stages.very_impressive_bedroom.description>আমি একটি খুব চমৎকার বেডরুমে ঘুমিয়েছিলাম। এটা আমার খুব ভালো লেগেছে।</SleptInBedroom.stages.very_impressive_bedroom.description>
+  <!-- EN: extremely impressive bedroom -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.label>অত্যন্ত চিত্তাকর্ষক শয়নকক্ষ</SleptInBedroom.stages.extremely_impressive_bedroom.label>
+  <!-- EN: I slept in an extremely impressive bedroom. It was marvelous. -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.description>আমি একটি অত্যন্ত চমৎকার বেডরুমে ঘুমিয়েছিলাম। এটা চমৎকার ছিল।</SleptInBedroom.stages.extremely_impressive_bedroom.description>
+  <!-- EN: unbelievably impressive bedroom -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>অবিশ্বাস্য সুন্দর শোবার ঘর</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
+  <!-- EN: I slept in an unbelievably impressive bedroom. It was truly astounding. -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>আমি একটি অবিশ্বাস্যভাবে চিত্তাকর্ষক বেডরুমে ঘুমিয়েছিলাম। এটা সত্যিই বিস্ময়কর ছিল।</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
+  <!-- EN: wondrously impressive bedroom -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>বিস্ময়কর শোবার ঘর</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
+  <!-- EN: I slept in a heavenly bedroom. It was wondrous. -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>আমি একটি স্বর্গীয় বেডরুমে ঘুমিয়েছিলাম। এটা চমৎকার ছিল।</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
+  
+</LanguageData>

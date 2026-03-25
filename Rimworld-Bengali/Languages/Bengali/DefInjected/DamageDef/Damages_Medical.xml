@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: execution cut -->
+  <ExecutionCut.label>কার্যকরী ছেদ</ExecutionCut.label>
+  <!-- EN: {0} has been executed by cutting. -->
+  <ExecutionCut.deathMessage>{0} কেটে বিচ্ছিন্ন করা হয়েছে।</ExecutionCut.deathMessage>
+  
+  <!-- EN: surgical cut -->
+  <SurgicalCut.label>সার্জিক্যাল কাট</SurgicalCut.label>
+  <!-- EN: {0} has died during surgery. -->
+  <SurgicalCut.deathMessage>{0} অস্ত্রোপচারের সময় মারা গেছেন।</SurgicalCut.deathMessage>
+  
+</LanguageData>

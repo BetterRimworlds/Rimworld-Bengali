@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breach axe -->
+  <MeleeWeapon_BreachAxe.label>ভঙ্গুর কুঠার</MeleeWeapon_BreachAxe.label>
+  <!-- EN: A combined blade and tool-head attached to a sturdy haft. While slightly less effective than other weapons against human enemies, it excels at tearing down walls, doors, and other structures thanks to its integrated tool-head. -->
+  <MeleeWeapon_BreachAxe.description>একটি সম্মিলিত ব্লেড এবং টুল-হেড একটি মজবুত শাফটের সাথে সংযুক্ত। মানুষের শত্রুদের বিরুদ্ধে অন্যান্য অস্ত্রের তুলনায় এটি সামান্য কম কার্যকর হলেও, এর সমন্বিত টুল-হেডের কারণে দেয়াল, দরজা এবং অন্যান্য কাঠামো ভেঙে ফেলতে এটি excels।</MeleeWeapon_BreachAxe.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_BreachAxe.tools.handle.label>হ্যান্ডেল</MeleeWeapon_BreachAxe.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_BreachAxe.tools.head.label>মাথা</MeleeWeapon_BreachAxe.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
+  -->
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] গ্রহন করেছে এবং এখন তারা দুজনেই বাগদত্ত।</li>
+  </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
+  -->
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] প্রস্তাবটি প্রত্যাখ্যান করেছে।</li>
+  </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
+  -->
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+    <li>sent->সম্পর্কটি আর కొనసాగানো সম্ভব ছিল না এবং এটি শেষ হয়ে গেছে।</li>
+  </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
+  -->
+  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] আকর্ষণ অনুভব করলো [INITIATOR_nameDef] এবং এখন তারা জুটিবদ্ধ।</li>
+    <li>sent->[RECIPIENT_nameDef] ভালো সাড়া দিয়েছে এবং এখন {[INITIATOR_nameDef]} এর সঙ্গী [INITIATOR_nameDef]।</li>
+    <li>sent->[RECIPIENT_nameDef] লাল হয়ে রাজি হলো {[INITIATOR_nameDef]} এর সাথে সম্পর্ক স্থাপন করতে [INITIATOR_nameDef]।</li>
+  </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] ignored the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</li>
+    <li>sent->[RECIPIENT_nameDef] turned away.</li>
+    <li>sent->[RECIPIENT_nameDef] gave a minimal response.</li>
+    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
+  -->
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] ফ্লার্ট প্রত্যাখ্যান করেছে।</li>
+    <li>sent->[RECIPIENT_nameDef] ফ্লার্ট উপেক্ষা করেছে।</li>
+    <li>sent->[RECIPIENT_nameDef] পিঠ ফিরিয়ে দিয়েছে।</li>
+    <li>sent->[RECIPIENT_nameDef] ঘুরল।</li>
+    <li>sent->[RECIPIENT_nameDef] কষ্ট করে উত্তর দিল।</li>
+    <li>sent->[RECIPIENT_nameDef] উত্তর দেননি।</li>
+    <li>sent->[RECIPIENT_nameDef] [INITIATOR_objective] প্রত্যাখ্যান করলো।</li>
+  </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

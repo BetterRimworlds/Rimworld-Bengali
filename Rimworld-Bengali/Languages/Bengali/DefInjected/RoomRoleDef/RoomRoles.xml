@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barn -->
+  <Barn.label>barn\nবার্ন</Barn.label>
+  
+  <!-- EN: barracks -->
+  <Barracks.label>বারাক</Barracks.label>
+  
+  <!-- EN: bedroom -->
+  <Bedroom.label>শোবার ঘর</Bedroom.label>
+  
+  <!-- EN: dining room -->
+  <DiningRoom.label>ডাইনিং রুম</DiningRoom.label>
+  
+  <!-- EN: hospital -->
+  <Hospital.label>হাসপাতাল</Hospital.label>
+  
+  <!-- EN: kitchen -->
+  <Kitchen.label>রান্নাঘর</Kitchen.label>
+  
+  <!-- EN: laboratory -->
+  <Laboratory.label>ল্যাবরেটরি</Laboratory.label>
+  
+  <!-- EN: none -->
+  <None.label>গুরুত্বপূর্ণ আঘাত</None.label>
+  
+  <!-- EN: prison barracks -->
+  <PrisonBarracks.label>কারাগার ব্যারাক</PrisonBarracks.label>
+  
+  <!-- EN: prison cell -->
+  <PrisonCell.label>কারাগার কক্ষ</PrisonCell.label>
+  
+  <!-- EN: rec room -->
+  <RecRoom.label>বিনোদন কক্ষ</RecRoom.label>
+  
+  <!-- EN: room -->
+  <Room.label>ঘর</Room.label>
+  
+  <!-- EN: storeroom -->
+  <Storeroom.label>সংরক্ষণাগার</Storeroom.label>
+  
+  <!-- EN: tomb -->
+  <Tomb.label>সমাধি</Tomb.label>
+  
+  <!-- EN: workshop -->
+  <Workshop.label>ওয়ার্কশপ</Workshop.label>
+  
+</LanguageData>

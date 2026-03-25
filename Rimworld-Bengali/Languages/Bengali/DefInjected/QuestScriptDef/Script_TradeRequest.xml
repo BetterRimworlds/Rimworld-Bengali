@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A nearby settlement, [settlement_label], has a special trade request. They would like to purchase:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](worth [requestedThingMarketValue_money])\n\nIf you want to make the trade, send a caravan with the requested items.[travelTime]</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
+    <li>qualityInfo-></li>
+    <li>travelTime(canCaravan==True,priority=1)-> The estimated travel time is [estimatedTravelTime_duration].</li>
+    <li>travelTime-></li>
+  -->
+  <TradeRequest.questDescriptionRules.rulesStrings>
+    <li>questDescription->একটি কাছাকাছি বসতি [settlement_label], একটি বিশেষ বাণিজ্য অনুরোধ আছে তারা কিনতে চায়:\n\n  [requestedThingCount]× [requestedThing_label] [qualityInfo](মূল্য [requestedThingMarketValue_money])\n\nআপনি যদি বিনিময় করতে চান তবে অনুরোধ করা জিনিসপত্র সহ একটি বহর পাঠান।[travelTime]</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->সাধারণ মানের+</li>
+    <li>qualityInfo-></li>
+    <li>travelTime(canCaravan==True,priority=1)->আনুমানিক ভ্রমণের সময় হল [estimatedTravelTime_duration]।</li>
+    <li>travelTime-></li>
+  </TradeRequest.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Caravan to [settlement_label]</li>
+    <li>questName->Trade with [settlement_label]</li>
+    <li>questName->Selling to [settlement_label]</li>
+    <li>questName->Supplies for [settlement_label]</li>
+    <li>questName->A [special] [trade]</li>
+    <li>special->Special</li>
+    <li>special->Unique</li>
+    <li>special->Non-traditional</li>
+    <li>trade->Trade</li>
+    <li>trade->Exchange</li>
+    <li>trade->Deal</li>
+    <li>trade->Offer</li>
+  -->
+  <TradeRequest.questNameRules.rulesStrings>
+    <li>questName->[বসতির_নাম]-এর উদ্দেশ্যে কাফেলা [settlement_label]</li>
+    <li>questName->[বসতির নাম]-এর সাথে বাণিজ্য [settlement_label]</li>
+    <li>questName->[বসতি_লেবেল]-এর সাথে বাণিজ্য করা হচ্ছে [settlement_label]</li>
+    <li>questName->[বসতির_নাম]-এর জন্য সরবরাহ [settlement_label]</li>
+    <li>questName->[trade] [special]</li>
+    <li>questName->[trade_fem] [special_fem]</li>
+    <li>special->বিশেষ</li>
+    <li>special_fem->বিশেষ</li>
+    <li>special->অদ্বিতীয়</li>
+    <li>special_fem->অদ্বিতীয়</li>
+    <li>special->প্রচলিত নয়</li>
+    <li>special_fem->প্রচলিত নয়</li>
+    <li>trade->একটি বাণিজ্য</li>
+    <li>trade->একটি বিনিময়</li>
+    <li>trade->একটি চুক্তি</li>
+    <li>trade_fem->একটি প্রস্তাব</li>
+  </TradeRequest.questNameRules.rulesStrings>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <TradeRequest.LetterLabelQuestFailed.slateRef>Misión fallida: [resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <!-- EN: [faction_name] became hostile to you. -->
+  <TradeRequest.LetterTextQuestFailed.slateRef>La facción [faction_name] se ha vuelto hostil.</TradeRequest.LetterTextQuestFailed.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
+  <TradeRequest.LetterTextFavorReceiver.slateRef>¿A quién se le debe acreditar con [asker_faction_royalFavorLabel] por cumplir con la solicitud de intercambio?</TradeRequest.LetterTextFavorReceiver.slateRef>
+  
+</LanguageData>

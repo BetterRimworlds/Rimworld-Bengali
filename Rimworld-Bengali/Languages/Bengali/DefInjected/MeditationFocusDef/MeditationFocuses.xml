@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>শিল্পকলা</Artistic.label>
+  
+  <!-- EN: dignified -->
+  <Dignified.label>মর্যাদাপূর্ণ</Dignified.label>
+  
+  <!-- EN: flame -->
+  <Flame.label>শিখা</Flame.label>
+  
+  <!-- EN: minimal -->
+  <Minimal.label>ন্যূনতম</Minimal.label>
+  
+  <!-- EN: morbid -->
+  <Morbid.label>অসুস্থ</Morbid.label>
+  
+  <!-- EN: natural -->
+  <Natural.label>প্রাকৃতিক</Natural.label>
+  
+</LanguageData>

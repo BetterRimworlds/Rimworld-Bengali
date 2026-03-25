@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extremely low -->
+  <ExtremelyLow.label>অত্যন্ত নিম্ন</ExtremelyLow.label>
+  
+  <!-- EN: high -->
+  <High.label>উচ্চ</High.label>
+  
+  <!-- EN: low -->
+  <Low.label>কম</Low.label>
+  
+  <!-- EN: moderate -->
+  <Moderate.label>সাধারণ</Moderate.label>
+  
+  <!-- EN: noble -->
+  <Noble.label>অভিজাত</Noble.label>
+  
+  <!-- EN: royal -->
+  <Royal.label>রয়েল</Royal.label>
+  
+  <!-- EN: sky high -->
+  <SkyHigh.label>আকাশ উচ্চ</SkyHigh.label>
+  
+  <!-- EN: very low -->
+  <VeryLow.label>খুব কম</VeryLow.label>
+  
+</LanguageData>

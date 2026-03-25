@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
+  <ChildSpy47.description>শিশুগণ নিষ্পাপ বলে বিবেচিত হয়, যা তাদের চমৎকার গুপ্তচর করে তোলে। [PAWN_nameDef] শৈশবে থাকাকালীনই অনুপ্রবেশের শিল্পে প্রশিক্ষিত ছিলেন।\n\nদীর্ঘ বছর ধরে ছদ্মবেশে থাকার কারণে তিনি সামাজিক manipulation এবং মিথ্যা বলার অভিজ্ঞতা অর্জন করেছেন, তবে তিনি কখনও স্বাভাবিক শিক্ষা লাভ করেননি।</ChildSpy47.description>
+  <!-- EN: child spy -->
+  <ChildSpy47.title>শিশু গুপ্তচর</ChildSpy47.title>
+  <ChildSpy47.titleFemale>শিশু গুপ্তচর</ChildSpy47.titleFemale>
+  <!-- EN: spy -->
+  <ChildSpy47.titleShort>গুপ্তচর</ChildSpy47.titleShort>
+  <ChildSpy47.titleShortFemale>গুপ্তচর</ChildSpy47.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
+  <ChildStar74.description>[PAWN_nameDef] তাঁর নিজ গ্রহে শৈশবে চলচ্চিত্র ও টিভি অনুষ্ঠানে শিশু অভিনেতা হিসেবে সুপরিচিত ছিলেন। তাঁর খ্যাতি তাঁকে বিভিন্ন ধরণের মানুষের সংস্পর্শে এনেছিল, কিন্তু প্রায়শই এটি তাঁর শিক্ষায় বাধা দিত।</ChildStar74.description>
+  <!-- EN: child star -->
+  <ChildStar74.title>শিশু তারকা</ChildStar74.title>
+  <ChildStar74.titleFemale>শিশু তারকা</ChildStar74.titleFemale>
+  <!-- EN: star -->
+  <ChildStar74.titleShort>তারকা</ChildStar74.titleShort>
+  <ChildStar74.titleShortFemale>তারকা</ChildStar74.titleShortFemale>
+  
+  <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
+  <ComaChild93.description>একটি শৈশবের দুর্ঘটনা [PAWN_nameDef]-কে কোমায় ফেলেছিল। তিনি তাঁর দেরিতে টিনএজ হওয়া পর্যন্ত জেগে ওঠেননি। বছরের পর বছর ধরে নিষ্ক্রিয় থাকার কারণে তাঁর শরীর আর পুনরুদ্ধার হয়নি, তবে মানুষ তাঁর গল্প শুনলে তাঁর প্রতি সহানুভূতি দেখায়।</ComaChild93.description>
+  <!-- EN: coma child -->
+  <ComaChild93.title>কোমা শিশু</ComaChild93.title>
+  <ComaChild93.titleFemale>কোমা শিশু</ComaChild93.titleFemale>
+  <!-- EN: coma child -->
+  <ComaChild93.titleShort>কোমা শিশু</ComaChild93.titleShort>
+  <ComaChild93.titleShortFemale>কোমা শিশু</ComaChild93.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.\n\nAfter [PAWN_possessive] first glimpse of the outside world, [PAWN_pronoun] decided to run away. -->
+  <CultChild3.description>[PAWN_nameDef] এমন একটি শক্তিশালী কাল্টের মধ্যে জন্মগ্রহণ করেন যা উন্নত প্রযুক্তিকে ঘৃণা করত এবং বিশ্বাস করত যে পবিত্র শিল্পের মাধ্যমে আত্মাকে পরিশুদ্ধ করে সমস্ত রোগ নিরাময় করা যেতে পারে।\n\nবহির্জগতের প্রথম ঝলক দেখার পর, তিনি পালিয়ে যাওয়ার সিদ্ধান্ত নেন।</CultChild3.description>
+  <!-- EN: cult child -->
+  <CultChild3.title>কাল্ট শিশু</CultChild3.title>
+  <CultChild3.titleFemale>কাল্ট শিশু</CultChild3.titleFemale>
+  <!-- EN: cult kid -->
+  <CultChild3.titleShort>কাল্ট শিশু</CultChild3.titleShort>
+  <CultChild3.titleShortFemale>কাল্ট শিশু</CultChild3.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up with a laundry list of phobias and neuroses. [PAWN_pronoun] feared, among other things, doctors and foodborne pathogens.\n\nAs a result, [PAWN_pronoun] learned to cook and care for [PAWN_objective]self, but many of [PAWN_possessive] fears dog [PAWN_objective] in adulthood. -->
+  <FrightenedChild43.description>[PAWN_nameDef] ছোটবেলা থেকেই অসংখ্য ফোবিয়া ও নিউরোসিসে ভুগছিলেন। তিনি ডাক্তার এবং খাদ্যবাহিত রোগ সৃষ্টিকারী জীবাণু সহ আরও অনেক কিছুর প্রতি ভীত ছিলেন।\n\nএর ফলস্বরূপ, তিনি রান্না করতে এবং নিজের যত্ন নিতে শিখেছিলেন, কিন্তু তাঁর অনেক ভয় প্রাপ্তবয়স্ক জীবনেও তাঁকে তাড়া করে ফেরে।</FrightenedChild43.description>
+  <!-- EN: frightened child -->
+  <FrightenedChild43.title>ভীত শিশু</FrightenedChild43.title>
+  <FrightenedChild43.titleFemale>ভীত শিশু</FrightenedChild43.titleFemale>
+  <!-- EN: scared -->
+  <FrightenedChild43.titleShort>ভীত</FrightenedChild43.titleShort>
+  <FrightenedChild43.titleShortFemale>ভীত</FrightenedChild43.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
+  <MedicalAssistant12.description>[PAWN_nameDef] একটি বিধ্বংসী যুদ্ধের সময় জন্মগ্রহণ করেন, যেখানে উভয় পক্ষই দাহ্য অস্ত্র ব্যবহার করেছিল। শৈশবে, তিনি যুদ্ধক্ষেত্র থেকে আসা ভয়াবহ পোড়া রোগীদের চিকিৎসায় তাঁর বাবা-মায়ের একটি ইনফার্মারিতে সাহায্য করতেন। সেই অভিজ্ঞতা তাঁকে সারা জীবনের জন্য আগুনের প্রতি ভয় পাইয়ে দিয়েছে।</MedicalAssistant12.description>
+  <!-- EN: medical assistant -->
+  <MedicalAssistant12.title>চিকিৎসা সহকারী</MedicalAssistant12.title>
+  <!-- EN: medic -->
+  <MedicalAssistant12.titleShort>চিকিৎসক</MedicalAssistant12.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] had a talent for playing musical instruments and singing. [PAWN_pronoun] was given expert training and loved to perform in recitals and concerts, though the lavish praise [PAWN_pronoun] received made [PAWN_objective] a little self-obsessed. -->
+  <MusicalKid86.description>ছোটবেলায়, [PAWN_nameDef] বাদ্যযন্ত্র বাজানো এবং গান গাওয়ায় প্রতিভাবান ছিলেন। তাঁকে বিশেষজ্ঞ প্রশিক্ষণ দেওয়া হয়েছিল এবং তিনি রিসাইটাল ও কনসার্টে পারফর্ম করতে ভালোবাসতেন, যদিও তিনি যে প্রচুর প্রশংসা পেতেন, তা তাঁকে কিছুটা আত্ম-অহংকারী করে তুলেছিল।</MusicalKid86.description>
+  <!-- EN: musical kid -->
+  <MusicalKid86.title>সঙ্গীতময় শিশু</MusicalKid86.title>
+  <MusicalKid86.titleFemale>সঙ্গীতময় শিশু</MusicalKid86.titleFemale>
+  <!-- EN: musician -->
+  <MusicalKid86.titleShort>সঙ্গীতশিল্পী</MusicalKid86.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
+  <Mute34.description>[PAWN_nameDef] শৈশবে একটি মর্মান্তিক ঘটনার দ্বারা গভীরভাবে প্রভাবিত হয়েছিলেন। বহু বছর ধরে তিনি মানুষের সাথে কথা বলতে অস্বীকার করেছিলেন, বরং পরিবারের অসংখ্য পোষা প্রাণীর সাথে খেলতে পছন্দ করতেন।</Mute34.description>
+  <!-- EN: mute -->
+  <Mute34.title>মূক</Mute34.title>
+  <Mute34.titleFemale>মূক</Mute34.titleFemale>
+  <!-- EN: mute -->
+  <Mute34.titleShort>মূক</Mute34.titleShort>
+  <Mute34.titleShortFemale>মূক</Mute34.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was raised in an illegal underground organ farm. [PAWN_possessive] body was used to grow organic implants for wounded mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] haunted, it has also given [PAWN_objective] a unique understanding of human biology. -->
+  <OrganFarm67.description>[PAWN_nameDef] একটি অবৈধ আন্ডারগ্রাউন্ড অঙ্গ farm-এ বড় হয়েছেন। আহত ভাড়াটে সৈন্যদের জন্য জৈব প্রতিস্থাপন তৈরি করতে তাঁর শরীর ব্যবহার করা হয়েছিল। যদিও তাঁর শৈশব তাঁকে তাড়া করে ফেরে, এটি তাঁকে মানব জীববিজ্ঞান সম্পর্কে একটি অনন্য ধারণা দিয়েছে।</OrganFarm67.description>
+  <!-- EN: organ farm -->
+  <OrganFarm67.title>অঙ্গ খামার</OrganFarm67.title>
+  <OrganFarm67.titleFemale>অঙ্গ খামার</OrganFarm67.titleFemale>
+  <!-- EN: organ farm -->
+  <OrganFarm67.titleShort>অঙ্গ খামার</OrganFarm67.titleShort>
+  <OrganFarm67.titleShortFemale>অঙ্গ খামার</OrganFarm67.titleShortFemale>
+  
+  <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
+  <Pyromaniac18.description>ছোটবেলা থেকেই, [PAWN_nameDef] আগুনের প্রতি একটি অস্বাস্থ্যকর আকর্ষণ অনুভব করত। সে আবর্জনা স্তূপগুলোতে আগুন ধরিয়ে দিত এবং আগুনের শিখায় এতটাই মগ্ন হয়ে যেত যে অসাবধানতাবশত নিজেকেও পুড়িয়ে ফেলত।\n\nএকদিন ম্যাচের সাথে খেলনা করার সময়, সে অসাবধানতাবশত নিজের বাড়ি পুড়িয়ে ফেলে।</Pyromaniac18.description>
+  <!-- EN: pyromaniac -->
+  <Pyromaniac18.title>আগুন-পাগল ব্যক্তি</Pyromaniac18.title>
+  <Pyromaniac18.titleFemale>আগুন-পাগল ব্যক্তি</Pyromaniac18.titleFemale>
+  <!-- EN: pyro -->
+  <Pyromaniac18.titleShort>অগ্নিসংযোগকারী</Pyromaniac18.titleShort>
+  <Pyromaniac18.titleShortFemale>অগ্নিসংযোগকারী</Pyromaniac18.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
+  <ShopKid36.description>[PAWN_nameDef]'র মা প্রায়শই অসুস্থ থাকতেন, এবং তাঁদের একমাত্র আয়ের উৎস দোকানটি পরিচালনা করার দায়িত্ব তাঁর উপর পড়েছিল। তিনি যে বিদেশী নিদর্শনগুলি বিক্রি করতেন সে সম্পর্কে সামান্য জ্ঞান অর্জন করেছিলেন, এবং দর কষাকষির শিল্প সম্পর্কে অনেক কিছু শিখেছিলেন।</ShopKid36.description>
+  <!-- EN: shop kid -->
+  <ShopKid36.title>দোকান শিশু</ShopKid36.title>
+  <ShopKid36.titleFemale>দোকান শিশু</ShopKid36.titleFemale>
+  <!-- EN: shopkid -->
+  <ShopKid36.titleShort>দোকান কর্মচারী</ShopKid36.titleShort>
+  <ShopKid36.titleShortFemale>দোকান কর্মচারী</ShopKid36.titleShortFemale>
+  
+  <!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
+  <SicklyChild55.description>ছোটবেলায়, [PAWN_nameDef] একটি বিরল রোগে আক্রান্ত হয়েছিলেন। হাসপাতালে কোয়ারেন্টিনে থাকার কারণে মানুষের সাথে তাঁর সামান্যই যোগাযোগ হতো এবং শারীরিক ব্যায়াম করার সুযোগও কম ছিল। তবে, সেই জীবাণুমুক্ত হাসপাতালের পরিবেশে তিনি বিজ্ঞান এবং ওষুধ সম্পর্কে খুব ভালোভাবে জানতে পেরেছিলেন।</SicklyChild55.description>
+  <!-- EN: sickly child -->
+  <SicklyChild55.title>দুর্বল শিশু</SicklyChild55.title>
+  <SicklyChild55.titleFemale>দুর্বল শিশু</SicklyChild55.titleFemale>
+  <!-- EN: patient -->
+  <SicklyChild55.titleShort>রোগী</SicklyChild55.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
+  <StoryWriter67.description>ছোটবেলায়, [PAWN_nameDef] বই পড়তে আসক্ত ছিল। লোকাল লাইব্রেরিতে সারাদিন নাক গুঁজে বই পড়তেই ভালোবাসত। যখন বাজেট কাটার কারণে লাইব্রেরিটি বন্ধ হয়ে যায়, তখন [PAWN_nameDef] ভেঙে পড়েছিল। এরপর সে নিজের গল্প লেখার মাধ্যমে সেই শূন্যতা পূরণ করার সিদ্ধান্ত নেয়।</StoryWriter67.description>
+  <!-- EN: story writer -->
+  <StoryWriter67.title>গল্প লেখক</StoryWriter67.title>
+  <StoryWriter67.titleFemale>গল্প লেখক</StoryWriter67.titleFemale>
+  <!-- EN: writer -->
+  <StoryWriter67.titleShort>লেখক</StoryWriter67.titleShort>
+  <StoryWriter67.titleShortFemale>লেখক</StoryWriter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during [PAWN_possessive] accelerated growth, [PAWN_nameDef] still has a proclivity for combat of all kinds and an aversion to human contact. -->
+  <VatgrownSoldier8.description>[PAWN_nameDef] একজন ব্যক্তি হিসেবে তৈরি হননি, বরং ধ্বংসের একটি হাতিয়ার হিসেবে তৈরি হয়েছিলেন। জৈবঅস্ত্র কেন্দ্রে বেড়ে ওঠা এবং দ্রুত বর্ধনশীল সময়ে যুদ্ধবিদ্যা শেখানো [PAWN_nameDef]-এর মধ্যে যেকোনো ধরনের যুদ্ধ করার প্রবণতা এবং মানুষের সংস্পর্শে আসার বিষয়ে বিতৃষ্ণা এখনো বিদ্যমান।</VatgrownSoldier8.description>
+  <!-- EN: vatgrown soldier -->
+  <VatgrownSoldier8.title>ভ্যাট-পালিত সৈন্য</VatgrownSoldier8.title>
+  <!-- EN: vatgrown -->
+  <VatgrownSoldier8.titleShort>ভ্যাট-পালিত</VatgrownSoldier8.titleShort>
+  
+  <!-- EN: War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. [PAWN_possessive] parents fled with [PAWN_objective], seeking safety wherever they could find it. [PAWN_nameDef]'s earliest memories are of being taught how to defend [PAWN_objective]self.\n\nThe violence and destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life. -->
+  <WarRefugee51.description>[PAWN_nameDef]'র যখন শিশুকালে, তখন তাঁর गृহে যুদ্ধ শুরু হয়েছিল। তাঁর माता-पिता তাঁকে নিয়ে পালিয়ে যান, যেখানেই সম্ভব নিরাপত্তা খুঁজছিলেন। [PAWN_nameDef]'র প্রথম দিকের স্মৃতিগুলো হলো নিজেকে রক্ষা করার প্রশিক্ষণ নেওয়ার।\n\nতাঁকে যে সহিংসতা ও ধ্বংসের সাক্ষী থাকতে হয়েছে, তা তাঁকে সারাজীবনের জন্য traumatized করে তুলেছে।</WarRefugee51.description>
+  <!-- EN: war refugee -->
+  <WarRefugee51.title>যুদ্ধ শরণার্থী</WarRefugee51.title>
+  <WarRefugee51.titleFemale>যুদ্ধ শরণার্থী</WarRefugee51.titleFemale>
+  <!-- EN: refugee -->
+  <WarRefugee51.titleShort>শরণার্থী</WarRefugee51.titleShort>
+  <WarRefugee51.titleShortFemale>শরণার্থী</WarRefugee51.titleShortFemale>
+  
+</LanguageData>

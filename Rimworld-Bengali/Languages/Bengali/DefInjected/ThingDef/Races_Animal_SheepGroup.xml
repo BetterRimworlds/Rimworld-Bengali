@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpaca -->
+  <Alpaca.label>আলপাকা</Alpaca.label>
+  <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America. -->
+  <Alpaca.description>আলপাকা হলো মাঝারি আকারের একটি স্তন্যপায়ী প্রাণী, যা লামার সাথে ঘনিষ্ঠভাবে সম্পর্কিত; এদের সাধারণত বিশেষভাবে নরম এবং উষ্ণ পশমের জন্য পালন করা হয়। প্রাচীন দক্ষিণ আমেরিকার বন্ধুর পার্বত্য পথে মাল বহনের জন্য আলপাকা ব্যবহার করা হতো।</Alpaca.description>
+  <!-- EN: left hoof -->
+  <Alpaca.tools.left_hoof.label>বাম খুর</Alpaca.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Alpaca.tools.left_hoof.labelNoLocation>খুর</Alpaca.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Alpaca.tools.right_hoof.label>ডান খুর</Alpaca.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Alpaca.tools.right_hoof.labelNoLocation>খুর</Alpaca.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Alpaca.tools.head.label>মাথা</Alpaca.tools.head.label>
+  
+  <!-- EN: capybara -->
+  <Capybara.label>ক্যাপিবারা</Capybara.label>
+  <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
+  <Capybara.description>সবচেয়ে বড় প্রাকৃতিক ইঁদুর, ক্যাপিবারা, গরম এবং ভেজা জঙ্গলের পরিবেশে ভালোভাবে মানানসই।</Capybara.description>
+  <!-- EN: left claw -->
+  <Capybara.tools.left_claw.label>বাম থাবা</Capybara.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Capybara.tools.left_claw.labelNoLocation>নখর</Capybara.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Capybara.tools.right_claw.label>ডান থাবা</Capybara.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Capybara.tools.right_claw.labelNoLocation>पंजा</Capybara.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Capybara.tools.head.label>মাথা</Capybara.tools.head.label>
+  
+  <!-- EN: megasloth -->
+  <Megasloth.label>মেগাস্লোথ</Megasloth.label>
+  <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
+  <Megasloth.description>বিশাল, নিঃসঙ্গ তৃণভোজী প্রাণী, যার দুটি বিশাল থাবা আছে যা বিপদ থেকে রক্ষা করে। পৃথিবীর আমেরিকান মহাদেশের আদিবাসীরা নিশ্চিহ্ন করে দেওয়ার পরে এটি দীর্ঘকাল বিলুপ্ত ছিল, পরে উন্নত ক্লোনিং এবং কৃত্রিম গর্ভাধারকের মাধ্যমে ফিরিয়ে আনা হয়। এর পুরু চামড়া ব্যতিক্রমীভাবে শক্তিশালী এবং অন্তরক, যা ঠান্ডা আবহাওয়ার পোশাকের জন্য দারুণ চামড়া তৈরি করে। একে একা ছেড়ে দিলে এটি শান্ত থাকে, তবে এর বিশাল থাবা দিয়ে যে কেউ বিরক্ত করলে ছিন্নভিন্ন করে দেবে।</Megasloth.description>
+  <!-- EN: left claw -->
+  <Megasloth.tools.left_claw.label>বাম থাবা</Megasloth.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Megasloth.tools.left_claw.labelNoLocation>নখর</Megasloth.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Megasloth.tools.right_claw.label>ডান থাবা</Megasloth.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Megasloth.tools.right_claw.labelNoLocation>নখর</Megasloth.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Megasloth.tools.head.label>মাথা</Megasloth.tools.head.label>
+  
+  <!-- EN: sheep -->
+  <Sheep.label>ভেড়া</Sheep.label>
+  <!-- EN: Sheep husbandry is practiced throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
+  <Sheep.description>ভেড়া পালন বেশিরভাগ বসতিপূর্ণ বিশ্বে প্রচলিত, তবে সম্প্রতি এটি রিমওয়ার্ল্ডে প্রবর্তিত হয়েছে। গৃহপালিত ভেড়া সাধারণত মাঝারি আকারের শিংযুক্ত, হলুদ পশমের ছোট তৃণভোজী প্রাণী।</Sheep.description>
+  <!-- EN: head -->
+  <Sheep.tools.head.label>মাথা</Sheep.tools.head.label>
+  <!-- EN: left hoof -->
+  <Sheep.tools.left_hoof.label>বাম খুর</Sheep.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Sheep.tools.left_hoof.labelNoLocation>খুর</Sheep.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Sheep.tools.right_hoof.label>ডান খুর</Sheep.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Sheep.tools.right_hoof.labelNoLocation>খুর</Sheep.tools.right_hoof.labelNoLocation>
+  
+</LanguageData>

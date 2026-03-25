@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear --><!-- EN: oso grizzly -->
+  <Bear_Grizzly.label>গ্রিজলি ভালুক</Bear_Grizzly.label><!-- EN: osa grizzly -->
+  <Bear_Grizzly.labelFemale>ওসা গ্রিজলি</Bear_Grizzly.labelFemale><!-- EN: osas grizzly -->
+  <Bear_Grizzly.labelFemalePlural>ওসাস গ্রিজলি</Bear_Grizzly.labelFemalePlural><!-- EN: oso grizzly -->
+  <Bear_Grizzly.labelMale>ওসো গ্রিজলি</Bear_Grizzly.labelMale><!-- EN: osos grizzly -->
+  <Bear_Grizzly.labelMalePlural>ওসোস গ্রিজলি</Bear_Grizzly.labelMalePlural><!-- EN: osos grizzly -->
+  <Bear_Grizzly.labelPlural>গ্রিজলি ভালুক</Bear_Grizzly.labelPlural><!-- EN: cría de oso grizzly -->
+  <Bear_Grizzly.lifeStages.0.label>গ্রিজলি ভালুকের বাচ্চা</Bear_Grizzly.lifeStages.0.label><!-- EN: cría de oso grizzly -->
+  <Bear_Grizzly.lifeStages.0.labelFemale>গ্রিজলি ভাল্লুকের বাচ্চা</Bear_Grizzly.lifeStages.0.labelFemale><!-- EN: crías de osa grizzly -->
+  <Bear_Grizzly.lifeStages.0.labelFemalePlural>গ্রিজলি ভালুকের বাচ্চা</Bear_Grizzly.lifeStages.0.labelFemalePlural><!-- EN: crías de oso grizzly -->
+  <Bear_Grizzly.lifeStages.0.labelPlural>গ্রিজলি ভাল্লুকের বাচ্চা</Bear_Grizzly.lifeStages.0.labelPlural><!-- EN: osezno grizzly -->
+  <Bear_Grizzly.lifeStages.1.label>ওসেজনো গ্রিজলি</Bear_Grizzly.lifeStages.1.label><!-- EN: osezna grizzly -->
+  <Bear_Grizzly.lifeStages.1.labelFemale>ওসেজনা গ্রিজলি</Bear_Grizzly.lifeStages.1.labelFemale><!-- EN: oseznas grizzly -->
+  <Bear_Grizzly.lifeStages.1.labelFemalePlural>ওসেজناس গ্রিজলি</Bear_Grizzly.lifeStages.1.labelFemalePlural><!-- EN: osezno grizzly -->
+  <Bear_Grizzly.lifeStages.1.labelMale>ওসেজনো গ্রিজলি</Bear_Grizzly.lifeStages.1.labelMale><!-- EN: oseznos grizzly -->
+  <Bear_Grizzly.lifeStages.1.labelMalePlural>ওসেজনোস গ্রিজলি</Bear_Grizzly.lifeStages.1.labelMalePlural><!-- EN: oseznos grizzly -->
+  <Bear_Grizzly.lifeStages.1.labelPlural>ওসেজনোস গ্রিজলি</Bear_Grizzly.lifeStages.1.labelPlural><!-- EN: oso grizzly -->
+  <Bear_Grizzly.lifeStages.2.label>গ্রিজলি ভালুক</Bear_Grizzly.lifeStages.2.label><!-- EN: osa grizzly -->
+  <Bear_Grizzly.lifeStages.2.labelFemale>ওসা গ্রিজলি</Bear_Grizzly.lifeStages.2.labelFemale><!-- EN: osas grizzly -->
+  <Bear_Grizzly.lifeStages.2.labelFemalePlural>ওसास গ্রিজলি</Bear_Grizzly.lifeStages.2.labelFemalePlural><!-- EN: oso grizzly -->
+  <Bear_Grizzly.lifeStages.2.labelMale>ওসো গ্রিজলি</Bear_Grizzly.lifeStages.2.labelMale><!-- EN: osos grizzly -->
+  <Bear_Grizzly.lifeStages.2.labelMalePlural>ওসোস গ্রিজলি</Bear_Grizzly.lifeStages.2.labelMalePlural><!-- EN: osos grizzly -->
+  <Bear_Grizzly.lifeStages.2.labelPlural>ওসোস গ্রিজলি</Bear_Grizzly.lifeStages.2.labelPlural>
+  
+  <!-- EN: polar bear --><!-- EN: oso polar -->
+  <Bear_Polar.label>মেরু ভালুক</Bear_Polar.label><!-- EN: osa polar -->
+  <Bear_Polar.labelFemale>ওসা পোলার</Bear_Polar.labelFemale><!-- EN: osas polares -->
+  <Bear_Polar.labelFemalePlural>ওসা পোলারস</Bear_Polar.labelFemalePlural><!-- EN: oso polar -->
+  <Bear_Polar.labelMale>মেরু ভালুক</Bear_Polar.labelMale><!-- EN: osos polares -->
+  <Bear_Polar.labelMalePlural>ওসোস পোলারেস</Bear_Polar.labelMalePlural><!-- EN: osos polares -->
+  <Bear_Polar.labelPlural>ওসোস পোলারেস</Bear_Polar.labelPlural><!-- EN: cría de oso polar -->
+  <Bear_Polar.lifeStages.0.label>পোলার বিয়ার শাবক</Bear_Polar.lifeStages.0.label><!-- EN: cría de osa polar -->
+  <Bear_Polar.lifeStages.0.labelFemale>স্নো বিয়ারের বাচ্চা</Bear_Polar.lifeStages.0.labelFemale><!-- EN: crías de osa polar -->
+  <Bear_Polar.lifeStages.0.labelFemalePlural>সাদা ভালুকের বাচ্চা</Bear_Polar.lifeStages.0.labelFemalePlural><!-- EN: crías de oso polar -->
+  <Bear_Polar.lifeStages.0.labelPlural>স্নো বিয়ার চারা</Bear_Polar.lifeStages.0.labelPlural><!-- EN: osezno polar -->
+  <Bear_Polar.lifeStages.1.label>ওসেজনো পোলার</Bear_Polar.lifeStages.1.label><!-- EN: osezna polar -->
+  <Bear_Polar.lifeStages.1.labelFemale>ওসেজনা পোলার</Bear_Polar.lifeStages.1.labelFemale><!-- EN: oseznas polares -->
+  <Bear_Polar.lifeStages.1.labelFemalePlural>ওসেজناس পোলারিস</Bear_Polar.lifeStages.1.labelFemalePlural><!-- EN: osezno polar -->
+  <Bear_Polar.lifeStages.1.labelMale>ওসেজনো পোলার</Bear_Polar.lifeStages.1.labelMale><!-- EN: oseznos polares -->
+  <Bear_Polar.lifeStages.1.labelMalePlural>ওসেজনোস পোলারিস</Bear_Polar.lifeStages.1.labelMalePlural><!-- EN: oseznos polares -->
+  <Bear_Polar.lifeStages.1.labelPlural>ওসেজনোস পোলারিস</Bear_Polar.lifeStages.1.labelPlural><!-- EN: oso polar -->
+  <Bear_Polar.lifeStages.2.label>মেরু ভালুক</Bear_Polar.lifeStages.2.label><!-- EN: osa polar -->
+  <Bear_Polar.lifeStages.2.labelFemale>ওসা পোলার</Bear_Polar.lifeStages.2.labelFemale><!-- EN: osas polares -->
+  <Bear_Polar.lifeStages.2.labelFemalePlural>ওসা পোলারস</Bear_Polar.lifeStages.2.labelFemalePlural><!-- EN: oso polar -->
+  <Bear_Polar.lifeStages.2.labelMale>মেরু ভালুক</Bear_Polar.lifeStages.2.labelMale><!-- EN: osos polares -->
+  <Bear_Polar.lifeStages.2.labelMalePlural>মেরু ভালুক</Bear_Polar.lifeStages.2.labelMalePlural><!-- EN: osos polares -->
+  <Bear_Polar.lifeStages.2.labelPlural>মেরু ভালুক</Bear_Polar.lifeStages.2.labelPlural>
+  
+</LanguageData>

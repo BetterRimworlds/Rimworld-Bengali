@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bandit camp -->
+  <BanditCamp.label>ডাকাতদের ঘাঁটি</BanditCamp.label>
+  <!-- EN: A bandit camp. -->
+  <BanditCamp.description>ডাকাতদের ঘাঁটি।</BanditCamp.description>
+  <!-- EN: Attacking {0}. -->
+  <BanditCamp.approachingReportString>আক্রমণ করা হচ্ছে {0}।</BanditCamp.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <BanditCamp.approachOrderString>আক্রমণ {0}</BanditCamp.approachOrderString>
+  <!-- EN: There is an enemy outpost in this area. -->
+  <BanditCamp.arrivedLetter>এই এলাকায় শত্রু ঘাঁটি আছে।</BanditCamp.arrivedLetter>
+  
+</LanguageData>

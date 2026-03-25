@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Worn out by the pressures of social interaction, [PAWN_nameDef] left [PAWN_possessive] crowded city to live a simple life in the wilderness. There, [PAWN_pronoun] spent [PAWN_possessive] days alone, tending [PAWN_possessive] garden and crafting the simple tools [PAWN_pronoun] needed to survive. -->
+  <Hermit82.description>সামাজিক যোগাযোগের চাপ不堪 করে [PAWN_nameDef] তাঁর জনাকীর্ণ শহর ছেড়ে প্রকৃতির মাঝে একটি সরল জীবন যাপন করতে আসেন। সেখানে, তিনি দিনগুলি একা কাটাতেন, নিজের বাগান পরিচর্যা করতেন এবং বেঁচে থাকার জন্য প্রয়োজনীয় সাধারণ সরঞ্জাম তৈরি করতেন।</Hermit82.description>
+  <!-- EN: hermit -->
+  <Hermit82.title>একাকীত্বপরায়ণ ব্যক্তি</Hermit82.title>
+  <Hermit82.titleFemale>একাকীত্বপরায়ণ ব্যক্তি</Hermit82.titleFemale>
+  <!-- EN: hermit -->
+  <Hermit82.titleShort>একা সন্ন্যাসী</Hermit82.titleShort>
+  <Hermit82.titleShortFemale>একা সন্ন্যাসী</Hermit82.titleShortFemale>
+  
+</LanguageData>

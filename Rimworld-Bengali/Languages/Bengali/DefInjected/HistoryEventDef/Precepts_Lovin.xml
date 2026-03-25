@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: got some lovin' -->
+  <GotLovin.label>স্নেহ লাভ</GotLovin.label>
+  
+  <!-- EN: lovin' outside marriage -->
+  <GotLovin_NonSpouse.label>বৈবাহ্যিক সম্পর্ক</GotLovin_NonSpouse.label>
+  
+  <!-- EN: lovin' with spouse -->
+  <GotLovin_Spouse.label>দাম্পত্য প্রেম</GotLovin_Spouse.label>
+  
+  <!-- EN: initiated lovin' -->
+  <InitiatedLovin.label>আবেগ শুরু</InitiatedLovin.label>
+  
+  <!-- EN: shared bed -->
+  <SharedBed.label>যৌথ বিছানা</SharedBed.label>
+  
+  <!-- EN: shared bed outside marriage -->
+  <SharedBed_NonSpouse.label>বৈবাহিক সম্পর্ক বহির্ভূত বিছানা</SharedBed_NonSpouse.label>
+  
+  <!-- EN: shared bed with spouse -->
+  <SharedBed_Spouse.label>দাম্পত্য শয্যা</SharedBed_Spouse.label>
+  
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: town councilman --><!-- EN: concejal de la ciudad -->
+  <Town_Councilman.label>নগর पार्षद</Town_Councilman.label>
+  <!-- EN: town councilmen --><!-- EN: concejales de la ciudad -->
+  <Town_Councilman.labelPlural>শহরের কাউন্সিলরগণ</Town_Councilman.labelPlural>
+  
+  <!-- EN: town guard --><!-- EN: guardia de la ciudad -->
+  <Town_Guard.label>শহরের প্রহরী</Town_Guard.label><!-- EN: guardias de la ciudad -->
+  <Town_Guard.labelPlural>শহরের রক্ষী</Town_Guard.labelPlural>
+  
+  <!-- EN: town trader --><!-- EN: comerciante de la ciudad -->
+  <Town_Trader.label>শহরের বণিক</Town_Trader.label><!-- EN: comerciantes de la ciudad -->
+  <Town_Trader.labelPlural>শহরের বণিকেরা</Town_Trader.labelPlural>
+  
+  <!-- EN: villager --><!-- EN: aldeano -->
+  <Villager.label>গ্রামবাসী</Villager.label><!-- EN: aldeanos -->
+  <Villager.labelPlural>আলদেয়ানোস</Villager.labelPlural>
+  
+</LanguageData>

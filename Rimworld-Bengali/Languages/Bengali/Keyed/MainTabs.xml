@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <!-- EN: Manual priorities -->
+  <ManualPriorities>ম্যানুয়াল অগ্রাধিকার</ManualPriorities>
+  <!-- EN: higher priority -->
+  <HigherPriority>উচ্চ অগ্রাধিকার</HigherPriority>
+  <!-- EN: lower priority -->
+  <LowerPriority>নিম্ন অগ্রাধিকার</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
+  <RelevantSkills>সংশ্লিষ্ট দক্ষতা: {0}\nসংশ্লিষ্ট দক্ষতার গড়: {1}</RelevantSkills>
+  <!-- EN: Click to jump to: -->
+  <ClickToJumpTo>ক্লিক করে যান:</ClickToJumpTo>
+  <!-- EN: {1_labelShort} cannot do this kind of work. -->
+  <CannotDoThisWork>{1_labelShort} এই ধরনের কাজ করতে পারবে না।</CannotDoThisWork>
+  <!-- EN: (none) -->
+  <NoneBrackets>(কিছুই না)</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of their health condition. -->
+  <IncapableOfWorkTypeBecauseOfCapacities>এই উপনিবেশকারী স্বাস্থ্য পরিস্থিতির কারণে এই ধরনের কোনো কাজ করতে অক্ষম।</IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- EN: E -->
+  <EmergencyWorkMarker>গুরুত্বপূর্ণ নিয়ম</EmergencyWorkMarker>
+  <!-- EN: Warning: The average of relevant skills is very low. -->
+  <SelectedWorkTypeWithVeryBadSkill>সতর্কতা: প্রাসঙ্গিক দক্ষতার গড় খুবই কম।</SelectedWorkTypeWithVeryBadSkill>
+  <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
+  <PriorityOneDoneFirst>অগ্রাধিকার ১ প্রথমে সম্পন্ন করা হবে। অগ্রাধিকার ৪ সবশেষে সম্পন্ন করা হবে।</PriorityOneDoneFirst>
+  <!-- EN: Will not do -->
+  <Priority0>করবে না</Priority0>
+  <!-- EN: Top priority -->
+  <Priority1>সর্বোচ্চ অগ্রাধিকার</Priority1>
+  <!-- EN: High priority -->
+  <Priority2>উচ্চ অগ্রাধিকার</Priority2>
+  <!-- EN: Normal priority -->
+  <Priority3>সাধারণ অগ্রাধিকার</Priority3>
+  <!-- EN: Low priority -->
+  <Priority4>নিম্ন অগ্রাধিকার</Priority4>
+  <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
+  <PawnFactionInfo>{0}\n\n{1_nameDef} নামক দলের বর্তমান সদস্য।\n\nদলটি দেখতে ক্লিক করুন।</PawnFactionInfo>
+  <!-- EN: Disabled by {0} backstory -->
+  <WorkDisabledByBackstory>{0} ব্যাকস্টোরি দ্বারা নিষ্ক্রিয় করা হয়েছে।</WorkDisabledByBackstory>
+  <!-- EN: Disabled by {0} trait -->
+  <WorkDisabledByTrait>{0} বৈশিষ্ট্য দ্বারা অক্ষম করা হয়েছে।</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest '{0}' -->
+  <WorkDisabledByQuest>'{0}' অনুসন্ধানের কারণে নিষ্ক্রিয় করা হয়েছে।</WorkDisabledByQuest>
+  
+  <!-- Assign tab -->
+  <!-- EN: Unchangeable -->
+  <Unchangeable>অপরিবর্তনযোগ্য</Unchangeable>
+  <!-- EN: Clr. forced -->
+  <ClearForcedApparel>Clr. বাধ্য</ClearForcedApparel>
+  <!-- EN: forced -->
+  <ApparelForcedLower>জোরপূর্বক</ApparelForcedLower>
+  <!-- EN: locked -->
+  <ApparelLockedLower>লক করা</ApparelLockedLower>
+  <!-- EN: Forced apparel -->
+  <ForcedApparel>জোরপূর্বক পোশাক</ForcedApparel>
+  <!-- EN: Edit -->
+  <AssignTabEdit>সম্পাদনা করুন</AssignTabEdit>
+  <!-- EN: Manage apparel policies -->
+  <ManageApparelPolicies>পোশাক নীতি পরিচালনা করুন</ManageApparelPolicies>
+  <!-- EN: Manage drug policies -->
+  <ManageDrugPolicies>মাদক নীতি পরিচালনা করুন</ManageDrugPolicies>
+  <!-- EN: Manage food policies -->
+  <ManageFoodPolicies>খাদ্য নীতি পরিচালনা করুন</ManageFoodPolicies>
+  <!-- EN: Manage reading policies -->
+  <ManageReadingPolicies>পঠন নীতি পরিচালনা করুন</ManageReadingPolicies>
+  
+  <!-- Restrictions tab -->
+  <!-- EN: Copy -->
+  <Copy>কপি করুন</Copy>
+  <!-- EN: Paste -->
+  <Paste>পেস্ট</Paste>
+  <!-- EN: Allowed area -->
+  <AllowedArea>অনুমোদিত এলাকা</AllowedArea>
+  
+  <!-- Animals tab -->
+  <!-- EN: Master -->
+  <Master>মাস্টার</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
+  <PregnantIconDesc>গর্ভবতী ({0} / {1})</PregnantIconDesc>
+  <!-- EN: Bonded to -->
+  <BondedTo>বদ্ধ</BondedTo>
+  <!-- EN: Sterilize animal. -->
+  <SterilizeAnimal>পশু জীবাণুমুক্ত করুন।</SterilizeAnimal>
+  <!-- EN: Animal sterile. -->
+  <AnimalAlreadySterile>প্রাণী বন্ধ্যা।</AnimalAlreadySterile>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>এই প্রাণীটি একটি শিকারী। ক্ষুধার্ত হলে, এটি ছোট প্রাণী শিকার করবে - সম্ভবত মানুষও এর মধ্যে অন্তর্ভুক্ত।</IsPredator>
+  <!-- EN: This creature is currently in mental state: {0} -->
+  <IsInMentalState>এই প্রাণীটি বর্তমানে মানসিক অবস্থায় রয়েছে: {0}</IsInMentalState>
+  
+  <!-- Factions tab -->
+  <!-- EN: Hostile -->
+  <Hostile>শত্রুভাবাপন্ন</Hostile>
+  <!-- EN: Ally -->
+  <Ally>মিত্র</Ally>
+  <!-- EN: hostile -->
+  <HostileLower>বৈরী</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>মিত্র</AllyLower>
+  <!-- EN: defeated -->
+  <DefeatedLower>পরাজিত</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
+  <HostileTo>{0}-এর শত্রু</HostileTo>
+  <!-- EN: Enemy of: -->
+  <EnemyOf>শত্রু:</EnemyOf>
+  <!-- EN: Recent events -->
+  <RecentEvents>সাম্প্রতিক ঘটনাগুলি</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>চলমান ঘটনা</OngoingEvents>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>এই দল স্থায়ীভাবে শত্রুভাবাপন্ন। তারা আপনার বসতি এবং বহরগুলোতে হানা দেবে। কোনো কারণে তাদের সাথে সম্পর্ক উন্নত হবে না।</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>এই দল মিত্র। তারা যখন পারবে, তখন আপনাকে সাহায্য করার জন্য যোদ্ধা পাঠাবে। যদি সম্পর্ক {0}-এর নিচে নেমে যায়, তবে তারা নিরপেক্ষ হয়ে যাবে।</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>এই দল নিরপেক্ষ। তারা আপনার সাথে অবাধে বাণিজ্য করবে এবং কথা বলবে। যদি সম্পর্ক {0}-এর নিচে নেমে যায়, তবে তারা শত্রুভাবাপন্ন হয়ে উঠবে। যদি সম্পর্ক {1}-এর উপরে উঠে যায়, তবে তারা মিত্র হবে এবং আপনাকে সাহায্য করার জন্য সক্রিয়ভাবে কাজ শুরু করবে।</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>এই দল শত্রুভাবাপন্ন। তারা আপনার বসতি এবং বহরগুলোতে হানা দেবে। যদি সম্পর্ক {0}-এর উপরে বৃদ্ধি পায়, তবে তারা নিরপেক্ষ হয়ে যাবে।</CurrentGoodwillTip_Hostile>
+
+  <!-- Social tab -->
+  <!-- EN: Friend -->
+  <Friend>বন্ধু</Friend>
+  <!-- EN: Rival -->
+  <Rival>প্রতিদ্বন্দ্বী</Rival>
+  <!-- EN: Acquaintance -->
+  <Acquaintance>পরিচিতজন</Acquaintance>
+  
+  <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
+  <Graph>গ্রাফ</Graph>
+  <!-- EN: Messages -->
+  <Messages>বার্তা</Messages>
+  <!-- EN: Statistics -->
+  <Statistics>পরিসংখ্যান</Statistics>
+  
+  <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
+  <SelectGraph>গ্রাফ নির্বাচন করুন</SelectGraph>
+  <!-- EN: Last 30 days -->
+  <Last30Days>গত ৩০ দিন</Last30Days>
+  <!-- EN: Last 100 days -->
+  <Last100Days>গত ১০০ দিন</Last100Days>
+  <!-- EN: Last 300 days -->
+  <Last300Days>শেষ ৩০০ দিন</Last300Days>
+  <!-- EN: All -->
+  <AllDays>সবকিছু</AllDays>
+  <!-- EN: Value -->
+  <Value>মান</Value>
+  <!-- EN: External -->
+  <External>বাহ্যিক</External>
+
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>অক্ষর দেখান</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>বার্তা দেখান</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>এই বার্তাটি পিন করুন অথবা আনপিন করুন।\n\n{0} সংখ্যক বার্তার সীমা অতিক্রম করার পরে তালিকা থেকে প্রাচীনতম আনপিন করা বার্তাগুলি স্বয়ংক্রিয়ভাবে মুছে ফেলা হবে।</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>কোন বার্তা নেই</NoMessages>
+
+  <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
+  <Playtime>খেলার সময়</Playtime>
+  <!-- EN: Storyteller -->
+  <Storyteller>গল্পকথক</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
+  <ThisMapColonyWealthTotal>উপনিবেশ সম্পদ (এই মানচিত্র)</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
+  <ThisMapColonyWealthItems>উপনিবেশ সম্পদ (বস্তু) (এই মানচিত্র)</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
+  <ThisMapColonyWealthBuildings>উপনিবেশ সম্পদ (স্থাপনা) (এই মানচিত্র)</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>উপনিবেশের সম্পদ (মানুষ এবং প্রাণী) (এই মানচিত্র)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <!-- EN: Major threats -->
+  <NumThreatBigs>গুরুতর বিপদ</NumThreatBigs>
+  <!-- EN: Enemy raids -->
+  <NumEnemyRaids>শত্রুর হানাসমূহ</NumEnemyRaids>
+  <!-- EN: Damage taken (this map) -->
+  <ThisMapDamageTaken>ক্ষতিগ্রস্ত (এই মানচিত্র)</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
+  <ColonistsKilled>বসতি স্থাপনকারী নিহত</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
+  <ColonistsLaunched>উপনিবেশ স্থাপনকারীরা মহাকাশে উৎক্ষেপিত।</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <!-- EN: Research -->
+  <Research>গবেষণা</Research>
+  <!-- EN: Study -->
+  <Study>অধ্যয়ন</Study>
+  <!-- EN: Study {0} -->
+  <StudyThing>{0} অধ্যয়ন করুন</StudyThing>
+  <!-- EN: Unresearched -->
+  <Unresearched>অগবেষণা</Unresearched>
+  <!-- EN: Finished -->
+  <Finished>সম্পন্ন।</Finished>
+  <!-- EN: In Progress -->
+  <InProgress>চলমান।</InProgress>
+  <!-- EN: Locked -->
+  <Locked>লক করা</Locked>
+  <!-- EN: Prerequisites -->
+  <Prerequisites>পূর্বশর্তসমূহ</Prerequisites>
+  <!-- EN: Techprints required {0} / {1} -->
+  <ResearchTechprintRequirement>প্রযুক্তি নকশা প্রয়োজন {0} / {1}</ResearchTechprintRequirement>
+  <!-- EN: Insufficient techprints applied ({0} / {1}) -->
+  <InsufficientTechprintsApplied>অপর্যাপ্ত প্রযুক্তি নকশা প্রয়োগ করা হয়েছে ({0} / {1})</InsufficientTechprintsApplied>
+  <!-- EN: Prerequisite(s) not completed -->
+  <PrerequisitesNotCompleted>পূর্বশর্ত পূরণ হয়নি।</PrerequisitesNotCompleted>
+  <!-- EN: No project active. -->
+  <NoProjectSelected>কোনো প্রকল্প সক্রিয় নেই।</NoProjectSelected>
+  <!-- EN: Active projects -->
+  <ActiveProjectPlural>সক্রিয় প্রকল্পসমূহ</ActiveProjectPlural>
+  <!-- EN: Active project -->
+  <ActiveProject>সক্রিয় প্রকল্প</ActiveProject>
+  <!-- EN: Stop research -->
+  <StopResearch>গবেষণা বন্ধ করুন।</StopResearch>
+  <!-- EN: Missing required research facilities -->
+  <MissingRequiredResearchFacilities>প্রয়োজনীয় গবেষণা সুবিধা অনুপস্থিত।</MissingRequiredResearchFacilities>
+  <!-- EN: Required research bench -->
+  <RequiredResearchBench>প্রয়োজনীয় গবেষণা বেঞ্চ</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
+  <RequiredResearchBenchFacilities>প্রয়োজনীয় গবেষণা বেঞ্চ সুবিধা।</RequiredResearchBenchFacilities>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
+  <ResearchCostComparison>প্রকল্পের ভিত্তি খরচ {0} আপনার প্রযুক্তি স্তরের কারণে {1} হবে।</ResearchCostComparison>
+  <!-- EN: Techprints are available from these factions via trade and quests: -->
+  <ResearchTechprintsFromFactions>প্রযুক্তি নকশা এই দলগুলির মাধ্যমে বাণিজ্য এবং অনুসন্ধানের মাধ্যমে পাওয়া যায়:</ResearchTechprintsFromFactions>
+  <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
+  <TechLevelTooLow>আপনার গোষ্ঠীর প্রযুক্তি স্তর {0}, কিন্তু এই প্রকল্পের প্রযুক্তি স্তর {1}। গবেষণার গতি {2} দ্বারা গুণ করা হবে।</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>আনলক করা হয়েছে</UnlockedWith>
+  <!-- EN: Research one or more of this project's prerequisites to discover it. -->
+  <UnknownResearchDescription>এই প্রকল্পের পূর্বশর্তগুলির মধ্যে একটি বা একাধিক গবেষণা করে এটি আবিষ্কার করুন।</UnknownResearchDescription>
+  <!-- EN: unknown -->
+  <UnknownResearch>অজানা</UnknownResearch>
+
+  <!-- Factions tab -->
+  <!-- EN: Factions -->
+  <FactionsTab>গোষ্ঠীসমূহ</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>অজানা দলসমূহ</NoFactions>
+
+  <!-- Quests tab -->
+  <!-- EN: Available -->
+  <AvailableQuests>উপলব্ধ</AvailableQuests>
+  <!-- EN: Active -->
+  <ActiveQuests>সক্রিয়</ActiveQuests>
+  <!-- EN: Historical -->
+  <HistoricalQuests>ঐতিহাসিক</HistoricalQuests>
+  <!-- EN: no quest selected -->
+  <NoQuestSelected>কোনো অনুসন্ধান নির্বাচন করা হয়নি।</NoQuestSelected>
+  <!-- EN: Appeared {0} days ago -->
+  <AppearedDaysAgo>{0} দিন আগে দেখা গেছে</AppearedDaysAgo>
+  <!-- EN: Appeared on {0} -->
+  <AppearedOn>{0} এ দেখা গেছে</AppearedOn>
+  <!-- EN: Accepted {0} ago -->
+  <AcceptedAgo>{0} আগে গৃহীত</AcceptedAgo>
+  <!-- EN: Accepted on {0} -->
+  <AcceptedOn>{0}-এ গৃহীত</AcceptedOn>
+  <!-- EN: Accepted {0} ago by {1} -->
+  <AcceptedAgoBy>{0} আগে {1} দ্বারা গৃহীত</AcceptedAgoBy>
+  <!-- EN: Accepted on {0} by {1} -->
+  <AcceptedOnBy>{0}-এ {1} দ্বারা গৃহীত</AcceptedOnBy>
+  <!-- EN: Expires in {0} -->
+  <QuestExpiresIn>{0}-এ শেষ হবে</QuestExpiresIn>
+  <!-- EN: Expires on {0} -->
+  <QuestExpiresOn>{0} এ শেষ হবে।</QuestExpiresOn>
+  <!-- EN: Average guest mood (previous {0}): {1} -->
+  <QuestAveragePawnMood>অতিথিদের গড় মেজাজ (পূর্ববর্তী {0}): {1}</QuestAveragePawnMood>
+  <!-- EN: The average mood of {0} over the previous {1} -->
+  <QuestAveragePawnMoodTargets>আগের {1} সময়ের মধ্যে {0} এর গড় মেজাজ</QuestAveragePawnMoodTargets>
+  <!-- EN: Shuttle arrives in {0} -->
+  <ShuttleArrivesIn>{0} এ শাটল এসে পড়েছে।</ShuttleArrivesIn>
+  <!-- EN: Shuttle arrives on {0} -->
+  <ShuttleArrivesOn>{0} তে শাটল এসে পৌঁছেছে।</ShuttleArrivesOn>
+  <!-- EN: Shuttle departs in {0} -->
+  <ShuttleDepartsIn>{0}-এ শাটল যাত্রা শুরু করবে।</ShuttleDepartsIn>
+  <!-- EN: Shuttle departs on {0} -->
+  <ShuttleDepartsOn>{0} তারিখে শাটল যাত্রা করবে।</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>অতিথিগণ {0}-এ প্রস্থান করছেন।</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>অতিথিগণ {0}-এ প্রস্থান করছেন।</GuestsDepartsOn>
+  <!-- EN: Finished {0} ago -->
+  <QuestFinishedAgo>{0} আগে শেষ হয়েছে</QuestFinishedAgo>
+  <!-- EN: Accept quest -->
+  <AcceptQuest>অনুসন্ধান গ্রহণ করুন</AcceptQuest>
+  <!-- EN: Accept with {0_labelShort} -->
+  <AcceptWith>{0_labelShort} সহ গ্রহণ করুন</AcceptWith>
+  <!-- EN: Accept for -->
+  <AcceptQuestFor>গ্রহণ করুন</AcceptQuestFor>
+  <!-- EN: Click to accept this quest for this reward. -->
+  <AcceptQuestForTip>পুরস্কারের জন্য এই অনুসন্ধানে ক্লিক করে গ্রহণ করুন।</AcceptQuestForTip>
+  <!-- EN: The offer expired. -->
+  <QuestOutcomeInfo_OfferExpired>সময়সীমা উত্তীর্ণ।</QuestOutcomeInfo_OfferExpired>
+  <!-- EN: You completed this quest. -->
+  <QuestOutcomeInfo_UnknownOrSuccess>আপনি এই অনুসন্ধানটি সম্পন্ন করেছেন।</QuestOutcomeInfo_UnknownOrSuccess>
+  <!-- EN: You failed this quest. -->
+  <QuestOutcomeInfo_Failed>আপনি এই অনুসন্ধানে ব্যর্থ হয়েছেন।</QuestOutcomeInfo_Failed>
+  <!-- EN: This quest became invalid before it was accepted. -->
+  <QuestOutcomeInfo_Invalid>এই অনুসন্ধানটি গ্রহণ করার আগে বাতিল হয়ে গেছে।</QuestOutcomeInfo_Invalid>
+  <!-- EN: Jump to {0} -->
+  <JumpToTargetCustom>{0}-এ যান</JumpToTargetCustom>
+  <!-- EN: Select hives -->
+  <SelectHiveTargets>মৌচাক নির্বাচন করুন</SelectHiveTargets>
+  <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
+  <QuestChallengeRatingTip>চ্যালেঞ্জ রেটিং। এটি আপনার বর্তমান শক্তির সাপেক্ষে অনুসন্ধানটি কতটা কঠিন তার একটি সাধারণ রেটিং। আরও কঠিন অনুসন্ধানে বৃহত্তর পুরস্কার দেওয়া হয়।\n\n১: স্বাভাবিক\n২: কঠিন\n৩: চরম\n৪: চূড়ান্ত</QuestChallengeRatingTip>
+  <!-- EN: To accept this quest, you need -->
+  <QuestAcceptanceRequirementsDescription>এই অনুসন্ধানটি গ্রহণ করতে, আপনার প্রয়োজন।</QuestAcceptanceRequirementsDescription>
+  <!-- EN: free bedrooms that satisfy the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfied>শিরোনামের প্রয়োজনীয়তা পূরণ করে বিনামূল্যে শয়নকক্ষ যা</QuestBedroomRequirementsUnsatisfied>
+  <!-- EN: a free bedroom that satisfies the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfiedSingle>একটি বিনামূল্যে শোবার ঘর যা শিরোনামের প্রয়োজনীয়তা পূরণ করে।</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>{PAWN_definite}-এর {TITLE} উপাধি পূরণের জন্য উপযুক্ত একটি সিংহাসন কক্ষ।</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: assign a throne for {PAWN_definite} -->
+  <QuestNoThroneRoom>{PAWN_নির্দিষ্ট}-এর জন্য একটি সিংহাসন নির্ধারণ করুন।</QuestNoThroneRoom>
+  <!-- EN: a colonist with the title of {0} -->
+  <QuestNoColonistWithTitle>{0} উপাধিধারী একজন উপনিবেশবাসী</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} to be in your home colony -->
+  <QuestPawnNotOnColonyMap>আপনার বসতিতে {PAWN_definite} থাকার জন্য।</QuestPawnNotOnColonyMap>
+  <!-- EN: the map clear of enemies of the bestower's faction -->
+  <QuestRequiresNoDangerOnMap>দাতার দলের শত্রুমুক্ত মানচিত্র।</QuestRequiresNoDangerOnMap>
+  <!-- EN: that {PROJECT_label} has been researched. -->
+  <QuestRequiresResearch>সেই {PROJECT_label} গবেষণা করা হয়েছে।</QuestRequiresResearch>
+  <!-- EN: to finish the ongoing bestowing ceremony quest -->
+  <QuestCanNotStartUntilBestowingCeremonyFinished>চলমান শ্রেষ্ঠত্ব প্রদান অনুষ্ঠান সম্পন্ন করতে।</QuestCanNotStartUntilBestowingCeremonyFinished>
+  <!-- EN: Reward preferences -->
+  <ChooseRewards>পুরস্কার পছন্দ</ChooseRewards>
+  <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
+  <ChooseRewardsDesc>ভবিষ্যতের অনুসন্ধানে আপনি কী ধরনের পুরস্কার পেতে চান, তা অন্যান্য দলগুলোকে জানান। এটি ইতিমধ্যেই প্রস্তাবিত অনুসন্ধানগুলোকে প্রভাবিত করবে না।</ChooseRewardsDesc>
+  <!-- EN: Accept {FACTION_royalFavorLabel} -->
+  <AcceptRoyalFavor>রাজকীয় অনুগ্রহ</AcceptRoyalFavor>
+  <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
+  <AcceptRoyalFavorDesc>আপনি {FACTION_royalFavorLabel} পুরস্কার হিসেবে {FACTION_name} থেকে পেতে চান কিনা।\n\nযদি এটি নিষ্ক্রিয় করা হয়, তাহলে {FACTION_name} অন্য ধরনের পুরস্কার প্রস্তাব করবে।\n\nএই সেটিংসটি শুধুমাত্র নতুন আসা অনুসন্ধানের উপর প্রভাব ফেলবে।</AcceptRoyalFavorDesc>
+  <!-- EN: Accept goodwill -->
+  <AcceptGoodwill>goodwill গ্রহণ করুন</AcceptGoodwill>
+  <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
+  <AcceptGoodwillDesc>আপনি {FACTION_name}-এর সাথে উন্নত সম্পর্ক স্থাপনের মাধ্যমে পুরস্কৃত হতে চান কিনা।\n\nযদি এটি নিষ্ক্রিয় করা হয়, তবে {FACTION_name} অন্য ধরনের পুরস্কার প্রস্তাব করবে।\n\nএই সেটিংসটি শুধুমাত্র নতুনভাবে তৈরি হওয়া অনুসন্ধানের উপর প্রভাব ফেলবে।</AcceptGoodwillDesc>
+  <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOn>আপনি বর্তমানে {FACTION_royalFavorLabel} গ্রহণ করতে সম্মতি জানাচ্ছেন।</RoyalFavorOn>
+  <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOff>আপনি বর্তমানে {FACTION_royalFavorLabel} গ্রহণ করা থেকে বিরত আছেন।</RoyalFavorOff>
+  <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
+  <GoodwillTip>{0_name}-এর সাথে আপনার সম্পর্ক {1} দ্বারা উন্নত হবে।\n\nবর্তমান সম্পর্ক: {4} ({5})।\n\nসম্পর্ক বিভিন্ন দলের মধ্যে সাধারণ সম্পর্ক পরিমাপ করে। এটি {2}-এর নিচে নেমে গেলে, দলটি শত্রুভাবাপন্ন হয়ে যাবে এবং আপনার বসতি ও বহরগুলোতে হানা দেবে। যদি এটি {3}-এর উপরে উঠে যায়, তবে দলটি আপনার মিত্র হয়ে উঠবে এবং সুযোগ পেলে আপনাকে সাহায্য করতে যোদ্ধা পাঠাবে। অন্যথায়, দলটি নিরপেক্ষ থাকবে এবং আপনার সাথে অবাধে বাণিজ্য ও আলোচনা করবে।</GoodwillTip>
+  <!-- EN: {0_labelShort} joins -->
+  <PawnQuestReward>{0} যোগদান করছে</PawnQuestReward>
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>বিশ্বাসঘাতকতার প্রস্তাব: {0} লক্ষ্যবস্তু অবশিষ্ট আছে</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>{0} আপনাকে {1} এর সকল সদস্যকে হত্যা করার জন্য একটি পুরস্কার দেবে।</QuestBetrayalOfferTip>
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>অন্তত {0} মূল্যের একটি উপনিবেশের সম্পদ</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>{0}-এর সাথে জোট</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>{0}-এর প্রতি বিরূপ</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>নিরপেক্ষ থেকে {0}</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>অধ্যয়ন করা {0_labelShort}</QuestRequiredThingStudied>
+  <!-- EN: cannot accept {GERUND} {LAYER} -->
+  <QuestRequiredLayer>গ্রহণযোগ্য নয় {GERUND} {LAYER}</QuestRequiredLayer>
+  <!-- EN: cannot accept in space -->
+  <QuestNotSpace>মহাকাশে গ্রহণ করা যায় না।</QuestNotSpace>
+
+  <!-- Health tab -->
+  <!-- EN: Creates need -->
+  <CreatesNeed>প্রয়োজন তৈরি করে</CreatesNeed>
+  <!-- EN: Change defaults... -->
+  <ChangeDefaults>ডিফল্ট পরিবর্তন করুন…</ChangeDefaults>
+
+  <!-- Misc -->
+  <!-- EN: Click to edit -->
+  <ClickToEdit>পরিবর্তন করুন ক্লিক করুন</ClickToEdit>
+  <!-- EN: Assign -->
+  <AssignButton>অর্পিত করুন</AssignButton>
+  <!-- EN: Unassign -->
+  <UnassignButton>অ্যাসাইনমেন্ট বাতিল করুন</UnassignButton>
+  
+  <!-- Books -->
+  <!-- EN: Mental break chance -->
+  <BookMentalBreakChance>মানসিক ভাঙনের সম্ভাবনা</BookMentalBreakChance>
+  
+  <!-- EN: Recreation gain multiplier -->
+  <BookJoyFactor>পুনরুদ্ধার লাভ গুণক</BookJoyFactor>
+  
+</LanguageData>

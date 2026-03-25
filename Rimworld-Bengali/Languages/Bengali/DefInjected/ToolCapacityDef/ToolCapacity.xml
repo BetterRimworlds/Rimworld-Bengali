@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>কামড়</Bite.label>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>钝 আঘাত</Blunt.label>
+  
+  <!-- EN: cut -->
+  <Cut.label>গুরুতর আঘাতের ধরন</Cut.label>
+  
+  <!-- EN: demolish -->
+  <Demolish.label>ভাঙচুর করা</Demolish.label>
+  
+  <!-- EN: kick material in eyes -->
+  <KickMaterialInEyes.label>চোখের লাথি উপাদান</KickMaterialInEyes.label>
+  
+  <!-- EN: poke -->
+  <Poke.label>ঠোকর</Poke.label>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>ক্ষতধরন</Scratch.label>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>বিষাক্ত আঁচড়</ScratchToxic.label>
+  
+  <!-- EN: stab -->
+  <Stab.label>ছুরিকাঘাত</Stab.label>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>বিষাক্ত কামড়</ToxicBite.label>
+  
+</LanguageData>

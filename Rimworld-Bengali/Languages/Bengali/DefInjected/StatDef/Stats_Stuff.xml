@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Blunt -->
+  <StuffPower_Armor_Blunt.label>বর্ম - ভোঁতা</StuffPower_Armor_Blunt.label>
+  <!-- EN: Armor against blunt damage like club impacts, rock falls, and explosions. -->
+  <StuffPower_Armor_Blunt.description>钝 আঘাত, যেমন ক্লাবের আঘাত, পাথরের পতন এবং বিস্ফোরণের বিরুদ্ধে বর্ম।</StuffPower_Armor_Blunt.description>
+  <!-- EN: Armor - Blunt (material factor) -->
+  <StuffPower_Armor_Blunt.labelForFullStatList>বর্ম - ভোঁতা (উপাদান গুণক)</StuffPower_Armor_Blunt.labelForFullStatList>
+  
+  <!-- EN: Armor - Heat -->
+  <StuffPower_Armor_Heat.label>বর্ম - তাপ</StuffPower_Armor_Heat.label>
+  <!-- EN: Armor against temperature-related damage like burns. -->
+  <StuffPower_Armor_Heat.description>তাপমাত্রা-সম্পর্কিত ক্ষতি, যেমন পোড়া থেকে সুরক্ষার জন্য বর্ম।</StuffPower_Armor_Heat.description>
+  <!-- EN: Armor - Heat (material factor) -->
+  <StuffPower_Armor_Heat.labelForFullStatList>বর্ম - তাপ (উপাদান গুণক)</StuffPower_Armor_Heat.labelForFullStatList>
+  
+  <!-- EN: Armor - Sharp -->
+  <StuffPower_Armor_Sharp.label>বর্ম - তীক্ষ্ণ</StuffPower_Armor_Sharp.label>
+  <!-- EN: Armor against sharp damage like bullets, knife stabs, and animal bites. -->
+  <StuffPower_Armor_Sharp.description>গুলি, ছুরিকাঘাত এবং প্রাণীর কামড়ের মতো তীক্ষ্ণ আঘাত থেকে বর্ম।</StuffPower_Armor_Sharp.description>
+  <!-- EN: Armor - Sharp (material factor) -->
+  <StuffPower_Armor_Sharp.labelForFullStatList>বর্ম - তীক্ষ্ণ (উপাদান গুণক)</StuffPower_Armor_Sharp.labelForFullStatList>
+  
+  <!-- EN: Insulation - Cold -->
+  <StuffPower_Insulation_Cold.label>ইনসুলেশন - ঠান্ডা</StuffPower_Insulation_Cold.label>
+  <!-- EN: How much an apparel made of this material improves a wearer's minimum comfortable temperature when worn. -->
+  <StuffPower_Insulation_Cold.description>এই উপাদান দিয়ে তৈরি পোশাক পরিধান করলে একজন ব্যক্তির সর্বনিম্ন আরামদায়ক তাপমাত্রা কতটা বৃদ্ধি পায়।</StuffPower_Insulation_Cold.description>
+  <!-- EN: Insulation - Cold (material factor) -->
+  <StuffPower_Insulation_Cold.labelForFullStatList>ইনসুলেশন - ঠান্ডা (উপাদান গুণক)</StuffPower_Insulation_Cold.labelForFullStatList>
+  
+  <!-- EN: Insulation - Heat -->
+  <StuffPower_Insulation_Heat.label>তাপ নিরোধক - তাপ</StuffPower_Insulation_Heat.label>
+  <!-- EN: How much an apparel made of this material improves a wearer's maximum comfortable temperature when worn. -->
+  <StuffPower_Insulation_Heat.description>এই উপাদান দিয়ে তৈরি পোশাক পরিধান করলে ব্যবহারকারীর সর্বোচ্চ আরামদায়ক তাপমাত্রা কতটা বৃদ্ধি পায়।</StuffPower_Insulation_Heat.description>
+  <!-- EN: Insulation - Heat (material factor) -->
+  <StuffPower_Insulation_Heat.labelForFullStatList>ইনসুলেশন - তাপ (উপাদান গুণক)</StuffPower_Insulation_Heat.labelForFullStatList>
+  
+</LanguageData>

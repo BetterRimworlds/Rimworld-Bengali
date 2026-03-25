@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: billiards table -->
+  <BilliardsTable.label>বিলিয়ার্ডস টেবিল</BilliardsTable.label>
+  <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
+  <BilliardsTable.description>বিভিন্ন বিলিয়ার্ডস-ধরণের খেলা খেলার জন্য নরম উপরিভাগযুক্ত একটি আবদ্ধ টেবিল। এটি শুটিং দক্ষতা উন্নত করে।</BilliardsTable.description>
+  
+  <!-- EN: chess table -->
+  <ChessTable.label>দাবা টেবিল</ChessTable.label>
+  <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.\n\nThis building requires adjacent chairs or stools to use. -->
+  <ChessTable.description>রাজাদের প্রাচীন খেলা। মাঝে মাঝে কয়েক ঘণ্টার জন্য মজাদার, এমনকি একা খেললেও চলে। এটি বুদ্ধিবৃত্তিক দক্ষতা বৃদ্ধি করে।\n\nএই কাঠামোটি ব্যবহার করার জন্য কাছাকাছি চেয়ার বা স্টুল প্রয়োজন।</ChessTable.description>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>ফ্ল্যাটস্ক্রিন টেলিভিশন</FlatscreenTelevision.label>
+  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <FlatscreenTelevision.description>একটি অত্যাধুনিক ফ্ল্যাট-স্ক্রিন টেলিভিশন, যেখানে স্ফটিক-স্পষ্ট ছবি এবং সমৃদ্ধ রং রয়েছে। এটি প্রাচীন স্যাটেলাইট এবং সর্বত্র বিরাজমান ডেটা কার্ড থেকে সম্প্রচার গ্রহণ করে।</FlatscreenTelevision.description>
+  
+  <!-- EN: Game-of-Ur board -->
+  <GameOfUrBoard.label>ইউআর বোর্ড</GameOfUrBoard.label>
+  <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
+  <GameOfUrBoard.description>খ্রিস্টপূর্ব ২৫০০ অব্দ থেকে প্রচলিত এই উত্তেজনাপূর্ণ কিন্তু বিরক্তির উদ্রেককারী বোর্ড গেমটি এক বা দুইজন ব্যক্তি খেলতে পারে। এটি বুদ্ধিবৃত্তিক দক্ষতা বৃদ্ধি করে।</GameOfUrBoard.description>
+  
+  <!-- EN: hoopstone ring -->
+  <HoopstoneRing.label>হুপস্টোন রিং</HoopstoneRing.label>
+  <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
+  <HoopstoneRing.description>এটি পাথর এবং মাটিতে একটি বড় বৃত্ত ব্যবহার করে খেলা একটি সাধারণ প্রাচীন খেলা। খেলোয়াড়রা দূর থেকে বৃত্তের মধ্যে পাথর ছুঁড়তে চেষ্টা করে। এটি আরামদায়ক, এবং শুটিং দক্ষতা উন্নত করে।</HoopstoneRing.description>
+  
+  <!-- EN: horseshoes pin -->
+  <HorseshoesPin.label>ঘোড়ার খুর পিন</HorseshoesPin.label>
+  <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
+  <HorseshoesPin.description>এটি একটি সাধারণ প্রাচীন খেলা যা ঘোড়ার नाल এবং মাটিতে পুঁতে রাখা একটি বড় পিন দিয়ে খেলা হয়। খেলোয়াড়রা नाल ছুঁড়ে পিনের উপর অবতরণ করার চেষ্টা করে। এটি আরামদায়ক, এবং শুটিং দক্ষতা উন্নত করে।</HorseshoesPin.description>
+  
+  <!-- EN: megascreen television -->
+  <MegascreenTelevision.label>মেগাস্ক্রিন টেলিভিশন</MegascreenTelevision.label>
+  <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <MegascreenTelevision.description>একটি বিশাল, অত্যাধুনিক টেলিভিশন। বিশাল, অতি-উজ্জ্বল ছবিগুলো প্রায় স্ক্রিন থেকে লাফিয়ে বের হয়ে আসে। খুবই মনোরঞ্জনকর। প্রাচীন স্যাটেলাইট এবং সর্বত্র বিরাজমান ডেটা কার্ড থেকে সম্প্রচার গ্রহণ করে।</MegascreenTelevision.description>
+  
+  <!-- EN: poker table -->
+  <PokerTable.label>পোকার টেবিল</PokerTable.label>
+  <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.\n\nThis building requires adjacent chairs or stools to use. -->
+  <PokerTable.description>জুয়া খেলার তাস বিষয়ক খেলা, যেমন পোকার খেলার জন্য তৈরি একটি টেবিল। কৌশলগত দক্ষতা এবং ভাগ্যের পরীক্ষা নেওয়ার এটি একটি চমৎকার উপায়।\n\nএই কাঠামোটি ব্যবহারের জন্য কাছাকাছি চেয়ার অথবা স্টুল থাকতে হবে।</PokerTable.description>
+  
+  <!-- EN: telescope -->
+  <Telescope.label>দূরবীক্ষণ যন্ত্র</Telescope.label>
+  <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
+  <Telescope.description>এটি অপেশাদার জ্যোতির্বিদ্যা করার জন্য একটি দূরবীক্ষণ যন্ত্র। এটি এক ধরণের মানুষের জন্য একটি আরামদায়ক শখ। এটি শুধুমাত্র বাইরে ব্যবহার করা যেতে পারে।</Telescope.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>টিউব টেলিভিশন</TubeTelevision.label>
+  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+  <TubeTelevision.description>একটি ক্যাথোড রে টিউব ডিসপ্লে চলমান ছবি ও শব্দ দেখানোর জন্য। এমনকি প্রান্তিক জগৎগুলোতেও প্রায়শই একটি পুরনো ট্রান্সমিটার কিছু না কিছু অন্তত সামান্য আকর্ষণীয় জিনিস সম্প্রচার করে।</TubeTelevision.description>
+  
+</LanguageData>

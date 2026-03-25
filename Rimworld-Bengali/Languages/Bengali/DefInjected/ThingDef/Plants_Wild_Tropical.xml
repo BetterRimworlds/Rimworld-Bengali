@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alocasia -->
+  <Plant_Alocasia.label>অ্যালোকেশিয়া</Plant_Alocasia.label>
+  <!-- EN: A tropical plant. Its extremely broad leaves are a commonly-recognized signifier of tropical forests. -->
+  <Plant_Alocasia.description>এটি একটি গ্রীষ্মমণ্ডলীয় উদ্ভিদ। এর বিশাল পাতাগুলো গ্রীষ্মমণ্ডলীয় অরণ্যের একটি বহুল পরিচিত বৈশিষ্ট্য।</Plant_Alocasia.description>
+  
+  <!-- EN: clivia -->
+  <Plant_Clivia.label>ক্লিভিয়া</Plant_Clivia.label>
+  <!-- EN: An unusual plant with tall, pretty flowers. Some call it the 'bush lily'. -->
+  <Plant_Clivia.description>লম্বা, সুন্দর ফুলযুক্ত একটি অস্বাভাবিক উদ্ভিদ। কেউ কেউ একে 'বুশ লিলি' বলে ডাকে।</Plant_Clivia.description>
+  
+  <!-- EN: giant rafflesia -->
+  <Plant_Rafflesia.label>বিশাল র‍্যাফেলসিয়া</Plant_Rafflesia.label>
+  <!-- EN: A rare, giant flower which can be found deep in steaming jungles. You would think a giant flower would be beautiful, but this one looks and smells like rotting flesh. -->
+  <Plant_Rafflesia.description>গভীর, উষ্ণ, আর্দ্র জঙ্গলে পাওয়া যায় এমন একটি বিরল, বিশাল ফুল। একটি বিশাল ফুল সুন্দর হওয়া উচিত, কিন্তু এই ফুল দেখতে এবং গন্ধ শুঁকতে পচা মাংসের মতো।</Plant_Rafflesia.description>
+  
+  <!-- EN: low shrubs -->
+  <Plant_ShrubLow.label>ছোট গুল্ম</Plant_ShrubLow.label>
+  <!-- EN: Various low broadleaf shrubs. These grow in clusters and slow down movement. -->
+  <Plant_ShrubLow.description>বিভিন্ন চওড়া পাতার ছোট গুল্ম। এগুলো ঝোপের মতো করে জন্মায় এবং চলাচল ধীর করে দেয়।</Plant_ShrubLow.description>
+  
+  <!-- EN: bamboo tree -->
+  <Plant_TreeBamboo.label>বাঁশ গাছ</Plant_TreeBamboo.label>
+  <!-- EN: A fast-growing tree-like plant that grows in dense groves. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful. -->
+  <Plant_TreeBamboo.description>দ্রুত বর্ধনশীল গাছ-সদৃশ উদ্ভিদ যা ঘন ঝোপে জন্মায়। বাঁশ কাঠ-সদৃশ উপাদানের জন্য সংগ্রহ করা যেতে পারে। উদ্ভিদটি নিজে সুন্দর নয়।</Plant_TreeBamboo.description>
+  
+  <!-- EN: cecropia tree -->
+  <Plant_TreeCecropia.label>সেক্রোপিয়া গাছ</Plant_TreeCecropia.label>
+  <!-- EN: One of the most common rainforest trees. Cecropia grows very fast, but yields little usable wood. -->
+  <Plant_TreeCecropia.description>এটি সবচেয়ে সাধারণ গ্রীষ্মমণ্ডলীয় রেইনফরেস্টের গাছগুলির মধ্যে একটি। সেক্রোপিয়া খুব দ্রুত বাড়ে, কিন্তু ব্যবহারযোগ্য কাঠ কম দেয়।</Plant_TreeCecropia.description>
+  
+  <!-- EN: palm tree -->
+  <Plant_TreePalm.label>পাম গাছ</Plant_TreePalm.label>
+  <!-- EN: A tropical tree with a tall, naked trunk topped by a cluster of very broad leaves. Unfortunately, this variety doesn't produce any edible coconuts. -->
+  <Plant_TreePalm.description>এটি একটি গ্রীষ্মমণ্ডলীয় গাছ, যার লম্বা, নগ্ন কাণ্ডের উপরে খুব বড় পাতার একটি ঝাঁক রয়েছে। দুর্ভাগ্যবশত, এই জাতের কোনো ভোজ্য নারকেল উৎপাদন করে না।</Plant_TreePalm.description>
+  
+  <!-- EN: teak tree -->
+  <Plant_TreeTeak.label>সেগুন গাছ</Plant_TreeTeak.label>
+  <!-- EN: An exceptionally strong hardwood tree that grows in warm climates. Because teak wood is so durable and water-resistant, it was used to form the keel of wooden sailing ships in ancient times. -->
+  <Plant_TreeTeak.description>এটি একটি ব্যতিক্রমী শক্তিশালী শক্ত কাঠের গাছ যা উষ্ণ জলবায়ুতে জন্মায়। টেক কাঠ এতটাই টেকসই এবং জলরোধী যে প্রাচীনকালে কাঠের পালতোলা জাহাজের কিল তৈরি করতে এটি ব্যবহার করা হতো।</Plant_TreeTeak.description>
+  
+</LanguageData>

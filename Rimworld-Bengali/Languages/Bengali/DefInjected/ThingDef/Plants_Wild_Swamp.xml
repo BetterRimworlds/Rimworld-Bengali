@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chokevine -->
+  <Plant_Chokevine.label>চোকেভাইন</Plant_Chokevine.label>
+  <!-- EN: Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatly slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark. -->
+  <Plant_Chokevine.description>জট পাকানো দড়ির মতো কাঁটাযুক্ত লতা, যা ভূমির উপর বিশাল স্তূপে পেঁচিয়ে থাকে। চকভাইন এর উপর দিয়ে চলাচল করা যে কাউকে মারাত্মকভাবে ধীর করে দেয়। অনেক উপজাতি চকভাইন রাতের বেলা শিশুদের শ্বাসরোধ করে মেরে ফেলার গল্প তৈরি করেছে, যাতে বাচ্চাদের অন্ধকার হওয়ার আগে বাড়ি ফিরতে উৎসাহিত করা যায়।</Plant_Chokevine.description>
+  
+  <!-- EN: cypress tree -->
+  <Plant_TreeCypress.label>সাইপ্রেস গাছ</Plant_TreeCypress.label>
+  <!-- EN: A tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood. -->
+  <Plant_TreeCypress.description>লম্বা সরলবর্গীয় গাছ, যা প্রায়শই জলাভূমিতে পাওয়া যায়। ধীরে ধীরে বাড়লেও এই গাছ রোপণ করা লাভজনক হতে পারে, কারণ এটি একটি স্বল্প-পরিশ্রমের দীর্ঘমেয়াদী বিনিয়োগ এবং প্রচুর ব্যবহারযোগ্য কাঠ সরবরাহ করে।</Plant_TreeCypress.description>
+  
+  <!-- EN: maple tree -->
+  <Plant_TreeMaple.label>মেপেল গাছ</Plant_TreeMaple.label>
+  <!-- EN: A common medium-sized tree, easily identifiable by its distinct three-pointed leaf. -->
+  <Plant_TreeMaple.description>এটি একটি সাধারণ মাঝারি আকারের গাছ, যা এর স্বতন্ত্র তিন-প্রান্তযুক্ত পাতা দ্বারা সহজে সনাক্ত করা যায়।</Plant_TreeMaple.description>
+  
+  <!-- EN: willow tree -->
+  <Plant_TreeWillow.label>উইলো গাছ</Plant_TreeWillow.label>
+  <!-- EN: One of the fastest growing shade trees, willows provide a beautiful, leafy canopy. It doesn't yield much usable wood. -->
+  <Plant_TreeWillow.description>উইলো খুব দ্রুত বর্ধনশীল ছায়াদায়ক গাছগুলির মধ্যে অন্যতম, যা সুন্দর সবুজ পাতার ছাউনি প্রদান করে। এটি তেমন ব্যবহারযোগ্য কাঠ উৎপাদন করে না।</Plant_TreeWillow.description>
+  
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drifter --><!-- EN: errante -->
+  <Drifter.label>এর্যান্টে</Drifter.label><!-- EN: errantes -->
+  <Drifter.labelPlural>এরান্টেস</Drifter.labelPlural>
+  
+  <!-- EN: pirate gunner --><!-- EN: artillero pirata -->
+  <Pirate.label>পাইরেট আর্টিলেরো</Pirate.label><!-- EN: artillera pirata -->
+  <Pirate.labelFemale>আর্টিলেরা পাইরাটা</Pirate.labelFemale><!-- EN: artillero pirata -->
+  <Pirate.labelMale>আর্টিলেরো পাইরাটা</Pirate.labelMale><!-- EN: artilleros piratas -->
+  <Pirate.labelPlural>আর্টিলেরোস পাইরাটা</Pirate.labelPlural>
+  
+  <!-- EN: scavenger gunner --><!-- EN: artillero carroñero -->
+  <Scavenger.label>আর্টিলেরো ক্যারোনেরো</Scavenger.label><!-- EN: artillera carroñera -->
+  <Scavenger.labelFemale>আর্টিলেরা ক্যারোনেরা</Scavenger.labelFemale><!-- EN: artillero carroñero -->
+  <Scavenger.labelMale>আর্টিলেরো ক্যারোনেরো জীবনচক্র</Scavenger.labelMale><!-- EN: artilleros carroñeros -->
+  <Scavenger.labelPlural>আর্টিলেরোস ক্যারোনেরোস</Scavenger.labelPlural>
+  
+  <!-- EN: scavenger thrasher --><!-- EN: carroñero de la basura -->
+  <Thrasher.label>আবর্জনা শ্যেনদৃষ্টি</Thrasher.label><!-- EN: carroñera de la basura -->
+  <Thrasher.labelFemale>আবর্জনা খাদায়ক ক্যারোনেরা</Thrasher.labelFemale><!-- EN: carroñero de la basura -->
+  <Thrasher.labelMale>আবর্জনা কুড়ানো প্রাণী</Thrasher.labelMale><!-- EN: carroñeros de la basura -->
+  <Thrasher.labelPlural>আবর্জনা scavengers</Thrasher.labelPlural>
+  
+</LanguageData>

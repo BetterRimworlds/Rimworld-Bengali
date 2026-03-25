@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warg -->
+  <Warg.label>ওয়ার্গ</Warg.label>
+  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
+  <Warg.description>শক্তিশালী পেশীবহুল নেকড়ে-সদৃশ প্রাণী, যাদের ভয়ংকর неестествен claws এবং অবিশ্বাস্য শক্তিশালী কামড় রয়েছে। এরা কেবল মাংস বা মৃতদেহ খায়। বন্য পরিবেশে বিরক্ত করলে, এরা আক্রমণ করার সম্ভাবনা অনেক বেশি।\n\nবিজ্ঞানীরা বলেন ওয়ার্গরা জনসংখ্যা নিয়ন্ত্রণের জন্য তৈরি করা সামরিক পশুদের বংশধর। কুসংস্কারাচ্ছন্ন লোকেরা এদেরকে রাগান্বিত ঈশ্বরের হাতিয়ার হিসেবে দেখে।</Warg.description>
+  <!-- EN: left claw -->
+  <Warg.tools.left_claw.label>বাম থাবা</Warg.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Warg.tools.left_claw.labelNoLocation>নখর</Warg.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Warg.tools.right_claw.label>ডান থাবা</Warg.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Warg.tools.right_claw.labelNoLocation>নখর</Warg.tools.right_claw.labelNoLocation>
+  <!-- EN: razorfangs -->
+  <Warg.tools.razorfangs.label>রেজারফ্যাং</Warg.tools.razorfangs.label>
+  <!-- EN: head -->
+  <Warg.tools.head.label>মাথা</Warg.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tropical rainforest -->
+  <TropicalRainforest.label>ক্রান্তীয় রেইনফরেস্ট</TropicalRainforest.label>
+  <!-- EN: A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell". -->
+  <TropicalRainforest.description>ঘন, আর্দ্র জঙ্গল, যা পশুপ্রাণে পরিপূর্ণ এবং রোগে সংক্রমিত। এর দৃশ্যগত সৌন্দর্যের সত্ত্বেও, এটি একটি অত্যন্ত বিপজ্জনক বায়োম। শ্বাসরুদ্ধকর ঘন গাছপালা, আক্রমণাত্মক প্রাণী এবং ক্রমাগত অসুস্থতা—এগুলোই কিছু অভিযাত্রীকে এটি "সবুজ নরক" বলতে প্ররোচিত করে।</TropicalRainforest.description>
+  
+  <!-- EN: tropical swamp -->
+  <TropicalSwamp.label>ক্রান্তীয় জলাভূমি</TropicalSwamp.label>
+  <!-- EN: A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare. -->
+  <TropicalSwamp.description>উদ্ভিদ দ্বারা পরিপূর্ণ, বাষ্পীয় জলাভূমি পরজীবী ও রোগজীবাণু দ্বারা পরিপূর্ণ। অধিকাংশ ভূমি এতটাই জলাশয়পূর্ণ যে সেখানে নির্মাণ করা কঠিন। কঠিন চলাচল, আক্রমণাত্মক প্রাণী এবং দ্রুত ছড়ানো রোগ এটিকে বসবাসের জন্য দুঃস্বপ্নে পরিণত করে।</TropicalSwamp.description>
+  
+</LanguageData>

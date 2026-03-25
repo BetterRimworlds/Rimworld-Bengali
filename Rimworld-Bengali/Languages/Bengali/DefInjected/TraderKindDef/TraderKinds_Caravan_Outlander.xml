@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bulk goods trader -->
+  <Caravan_Outlander_BulkGoods.label>বাল্ক পণ্য ব্যবসায়ী</Caravan_Outlander_BulkGoods.label>
+  
+  <!-- EN: combat supplier -->
+  <Caravan_Outlander_CombatSupplier.label>যুদ্ধ সরবরাহকারী</Caravan_Outlander_CombatSupplier.label>
+  
+  <!-- EN: exotic goods trader -->
+  <Caravan_Outlander_Exotic.label>বিদেশী পণ্য বিক্রেতা</Caravan_Outlander_Exotic.label>
+  
+  <!-- EN: slaver -->
+  <Caravan_Outlander_PirateMerchant.label>দাস ব্যবসায়ী</Caravan_Outlander_PirateMerchant.label>
+  
+</LanguageData>

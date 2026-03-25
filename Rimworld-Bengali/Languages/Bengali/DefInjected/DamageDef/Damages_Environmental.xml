@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn -->
+  <Burn.label>পোড়া</Burn.label>
+  <!-- EN: {0} has burned to death. -->
+  <Burn.deathMessage>{0} পুড়ে মারা গেছে।</Burn.deathMessage>
+  
+  <!-- EN: flame -->
+  <Flame.label>আগুন</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} আগুনে পুড়ে মারা গেছে।</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
+  <Frostbite.label>ফ্রস্টবাইট</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
+  <Frostbite.deathMessage>{0} ঠান্ডায় জমে গেছে।</Frostbite.deathMessage>
+  
+  <!-- EN: scratch -->
+  <TornadoScratch.label>ক্ষতধরন</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage>{0} একটি ঘূর্ণিঝড়ে নিহত হয়েছে।</TornadoScratch.deathMessage>
+  
+</LanguageData>

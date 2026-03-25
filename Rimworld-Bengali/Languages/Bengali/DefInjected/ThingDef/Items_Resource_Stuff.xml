@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cloth -->
+  <Cloth.label>কাপড়</Cloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <Cloth.description>জৈব তন্তু থেকে বোনা কাপড়।</Cloth.description><!-- EN: Cloth woven from organic fibers. -->
+  <Cloth.stuffProps.stuffAdjective>জৈব তন্তু থেকে বোনা কাপড়।</Cloth.stuffProps.stuffAdjective>
+  
+  <!-- EN: devilstrand -->
+  <DevilstrandCloth.label>ডেভিলস্ট্র্যান্ড</DevilstrandCloth.label>
+  <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
+  <DevilstrandCloth.description>ডেভিলস্ট্র্যান্ড ছত্রাক থেকে নিষ্কাশিত মাইক্রোফাইবার দিয়ে তৈরি কাপড়। এটি খুবই টেকসই, ভালোভাবে তাপ নিরোধক এবং আগুনের বিরুদ্ধে অসাধারণ সুরক্ষা প্রদান করে।</DevilstrandCloth.description><!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
+  <DevilstrandCloth.stuffProps.stuffAdjective>ডেভিলস্ট্র্যান্ড ছত্রাক থেকে আহরিত মাইক্রোফাইবার দিয়ে তৈরি কাপড়। এটি খুবই টেকসই, ভালোভাবে তাপ নিরোধক এবং আগুনের বিরুদ্ধে অসাধারণ সুরক্ষা প্রদান করে।</DevilstrandCloth.stuffProps.stuffAdjective>
+  
+  <!-- EN: gold -->
+  <Gold.label>সোনা</Gold.label>
+  <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
+  <Gold.description>এগুলো সবথেকে আকর্ষণীয় ধাতু। এটি খুব নরম হওয়ার কারণে তেমন ব্যবহারিক নয়, তবে এর সৌন্দর্য খুবই আকর্ষণীয় এবং এটি কখনো বিবর্ণ হয় না। সোনা পাওয়ার জন্য মানুষের সীমাহীন আকাঙ্ক্ষায় লক্ষ লক্ষ মানুষ মারা গেছে।</Gold.description>
+  <!-- EN: golden -->
+  <Gold.stuffProps.stuffAdjective>সোনালী</Gold.stuffProps.stuffAdjective>
+  
+  <!-- EN: hyperweave -->
+  <Hyperweave.label>হাইপারউইভ</Hyperweave.label>
+  <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
+  <Hyperweave.description>বিশেষায়িত উৎপাদন মেকানাইট ব্যবহার করে আণবিক স্তরে সুতা দিয়ে বোনা হয় এই ন্যানো-ফাইবার শীট। সাধারণত এটি অবাধে নমনীয় থাকে, তবে আঘাত লাগলে শক্ত হয়ে গিয়ে আঘাত শোষণ করে এবং এটি ভাঙা অত্যন্ত কঠিন। এর উৎপাদন কৌশল শুধুমাত্র সবচেয়ে উন্নত ঝলমলে বিশ্ব-এর সংস্কৃতিগুলিতেই পরিচিত।</Hyperweave.description><!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
+  <Hyperweave.stuffProps.stuffAdjective>বিশেষায়িত উৎপাদন মেকানাইট ব্যবহার করে অণু-দ্বারা-অণু পদ্ধতিতে বুনন করা ন্যানো-ফাইবারগুলির শীট। এটি বেশিরভাগ সময় অবাধে নমনীয় থাকে, তবে আঘাত লাগার সাথে সাথে শক্ত হয়ে আঘাত শোষণ করে এবং ভাঙা অত্যন্ত কঠিন। এর উৎপাদনের রহস্য শুধুমাত্র সবচেয়ে উন্নত ঝলমলে বিশ্ব সংস্কৃতিগুলির কাছেই পরিচিত।</Hyperweave.stuffProps.stuffAdjective>
+  
+  <!-- EN: jade -->
+  <Jade.label>জেড</Jade.label>
+  <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
+  <Jade.description>এটি একটি কঠিন, সবুজ পাথর। এর সৌন্দর্য এবং বিরলতার কারণে, জেড প্রায়শই অলঙ্কার এবং সজ্জা তৈরিতে ব্যবহৃত হয়। এর কাঠিন্য এবং ঘনত্ব এটিকে ভোঁতা অস্ত্রের জন্য একটি ভালো উপাদান করে তোলে।</Jade.description><!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
+  <Jade.stuffProps.stuffAdjective>একটি কঠিন, সবুজ পাথর। এর সৌন্দর্য এবং বিরলতার কারণে, জেড প্রায়শই অলঙ্কার এবং সজ্জার জন্য ব্যবহৃত হয়। এর কাঠিন্য এবং ঘনত্ব এটিকে ভোঁতা অস্ত্রের জন্য একটি ভাল উপাদান করে তোলে।</Jade.stuffProps.stuffAdjective>
+  
+  <!-- EN: plasteel -->
+  <Plasteel.label>প্লাস্টিল</Plasteel.label>
+  <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
+  <Plasteel.description>উন্নত মহাকাশ যুগ প্রযুক্তিগত কাঠামোগত উপাদান। প্লাস্টিল এর অনন্য আণবিক গঠনের কারণে অত্যন্ত শক্তিশালী।</Plasteel.description><!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
+  <Plasteel.stuffProps.stuffAdjective>উন্নত মহাকাশ যুগ প্রযুক্তিগত কাঠামোগত উপাদান। প্লাস্টিল এর অনন্য আণবিক কাঠামোর কারণে অত্যন্ত শক্তিশালী।</Plasteel.stuffProps.stuffAdjective>
+  
+  <!-- EN: silver -->
+  <Silver.label>রূপা</Silver.label>
+  <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
+  <Silver.description>এই ধাতু সাধারণত পণ্য হিসেবে মুদ্রা হিসেবে ব্যবহৃত হয়। এটি অলঙ্কার তৈরির কাজেও ব্যবহার করা যেতে পারে।</Silver.description><!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
+  <Silver.stuffProps.stuffAdjective>এই ধাতু প্রধানত পণ্য মুদ্রা হিসেবে ব্যবহৃত হয়। এটি অলঙ্কার তৈরির জন্যও ব্যবহার করা যেতে পারে।</Silver.stuffProps.stuffAdjective>
+  
+  <!-- EN: steel -->
+  <Steel.label>স্টিল</Steel.label>
+  <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
+  <Steel.description>লোহা-কার্বন ধাতব সংকর যা বিভিন্ন প্রকার কাঠামো, অস্ত্র এবং যন্ত্রপাতি তৈরির জন্য ব্যবহৃত হয়।</Steel.description><!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
+  <Steel.stuffProps.stuffAdjective>লোহা-কার্বন ধাতব সংকর যা বিভিন্ন প্রকার কাঠামো, অস্ত্র এবং যন্ত্র তৈরিতে ব্যবহৃত হয়।</Steel.stuffProps.stuffAdjective>
+  
+  <!-- EN: synthread -->
+  <Synthread.label>সিনথ সুতো</Synthread.label>
+  <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
+  <Synthread.description>মহাকাশ যুগ-প্রযুক্তিগত সিনথেটিক কাপড় যা সাধারণ পোশাক তৈরির জন্য ডিজাইন করা হয়েছে। এটি নরম, হালকা, শক্তিশালী এবং ভালোভাবে তাপ নিরোধক।</Synthread.description><!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
+  <Synthread.stuffProps.stuffAdjective>মহাকাশ যুগ-প্রযুক্তিগত সিনথেটিক কাপড় সাধারণ পোশাক তৈরির জন্য ডিজাইন করা হয়েছে। এটি নরম, হালকা, শক্তিশালী এবং ভালোভাবে তাপ নিরোধক।</Synthread.stuffProps.stuffAdjective>
+  
+  <!-- EN: uranium -->
+  <Uranium.label>ইউরেনিয়াম</Uranium.label>
+  <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
+  <Uranium.description>এটি একটি গাঢ়, ভারী ধাতু। যদিও এটি পারমাণবিক ডিভাইসের জ্বালানি হিসেবে সবচেয়ে বেশি পরিচিত, এর চরম ঘনত্ব এবং কাঠিন্য এটিকে নির্দিষ্ট কিছু অস্ত্র, বর্ম এবং গোলাবারুদ তৈরিতেও উপযুক্ত করে তোলে।</Uranium.description><!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
+  <Uranium.stuffProps.stuffAdjective>একটি গাঢ়, ভারী ধাতু। যদিও এটি পারমাণবিক ডিভাইসের জ্বালানি হিসাবে সবচেয়ে বেশি পরিচিত, এর চরম ঘনত্ব এবং কাঠিন্য এটিকে নির্দিষ্ট অস্ত্র, বর্ম এবং গোলাবারুদ তৈরিতেও উপযুক্ত করে তোলে।</Uranium.stuffProps.stuffAdjective>
+  
+  <!-- EN: wood -->
+  <WoodLog.label>কাঠ</WoodLog.label>
+  <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
+  <WoodLog.description>গাছ বা অন্যান্য তন্তুযুক্ত উদ্ভিদ থেকে প্রাপ্ত কাঠ। কাঠামো এবং অস্ত্র তৈরি করার জন্য এটি উপযোগী। এটি ক্যাম্পফায়ার এবং জেনারেটরের জন্য ভালো জ্বালানি, এবং রাসায়নিক জ্বালানিতে পরিশোধন করা যেতে পারে। প্রয়োজনে, কাঠের একটি টুকরা অস্ত্র বা পা হিসেবে ব্যবহার করা যেতে পারে।</WoodLog.description>
+  <!-- EN: wooden -->
+  <WoodLog.stuffProps.stuffAdjective>কাঠের</WoodLog.stuffProps.stuffAdjective>
+  <!-- EN: log -->
+  <WoodLog.tools.log.label>লগ</WoodLog.tools.log.label>
+  
+  <!-- EN: alpaca wool -->
+  <WoolAlpaca.label>আলপাকা উল</WoolAlpaca.label>
+  <!-- EN: The remarkably soft wool of an alpaca. It is warm, protects well from heat, and fetches a high price. -->
+  <WoolAlpaca.description>একটি আলপাকার ব্যতিক্রমী নরম উল। এটি উষ্ণ, ভালোভাবে তাপ থেকে রক্ষা করে এবং উচ্চ মূল্যে বিক্রি হয়।</WoolAlpaca.description><!-- EN: The remarkably soft wool of an alpaca. It is warm, protects well from heat, and fetches a high price. -->
+  <WoolAlpaca.stuffProps.stuffAdjective>আলপাকার ব্যতিক্রমী নরম উল। এটি উষ্ণ, ভালোভাবে তাপ থেকে রক্ষা করে এবং বেশি দামে বিক্রি হয়।</WoolAlpaca.stuffProps.stuffAdjective>
+  
+  <!-- EN: bison wool -->
+  <WoolBison.label>বাইসন উল</WoolBison.label>
+  <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
+  <WoolBison.description>একটি বাইসনের পুরু এবং অমসৃণ পশম। বেশ উষ্ণ।</WoolBison.description>
+  
+  <!-- EN: megasloth wool -->
+  <WoolMegasloth.label>মেগাস্লোথ পশম</WoolMegasloth.label>
+  <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
+  <WoolMegasloth.description>মেগাস্লোথের পশম কিছুটা রুক্ষ হলেও এর লম্বা তন্তু এটিকে খুব শক্তিশালী করে তোলে। এটি বিশেষভাবে উষ্ণ।</WoolMegasloth.description><!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
+  <WoolMegasloth.stuffProps.stuffAdjective>মেগাস্লোথ উল কিছুটা রুক্ষ হলেও, এর লম্বা তন্তু এটিকে খুব শক্তিশালী করে তোলে। এটি ব্যতিক্রমী উষ্ণ।</WoolMegasloth.stuffProps.stuffAdjective>
+  
+  <!-- EN: muffalo wool -->
+  <WoolMuffalo.label>মাফালো উল</WoolMuffalo.label>
+  <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
+  <WoolMuffalo.description>নরম, হালকা এবং খুব ভালো নিরোধক প্রদান করে। মাফালো উল দিয়ে তৈরি পোশাক খুব ঠান্ডা পরিস্থিতিতেও শরীরকে গরম রাখতে পারে।</WoolMuffalo.description><!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
+  <WoolMuffalo.stuffProps.stuffAdjective>নরম, হালকা এবং খুব ভালো নিরোধক প্রদান করে। মাফালো উল দিয়ে তৈরি পোশাক খুব ঠান্ডা পরিস্থিতিতেও শরীর গরম রাখতে পারে।</WoolMuffalo.stuffProps.stuffAdjective>
+  
+  <!-- EN: sheep wool -->
+  <WoolSheep.label>ভেড়া পশম</WoolSheep.label>
+  <!-- EN: Sheep's wool. It provides good insulation. -->
+  <WoolSheep.description>ভেড়ার পশম। এটি ভালো অন্তরক সরবরাহ করে।</WoolSheep.description><!-- EN: Sheep's wool. It provides good insulation. -->
+  <WoolSheep.stuffProps.stuffAdjective>ভেড়ার পশম। এটি ভালো নিরোধক সরবরাহ করে।</WoolSheep.stuffProps.stuffAdjective>
+  
+</LanguageData>

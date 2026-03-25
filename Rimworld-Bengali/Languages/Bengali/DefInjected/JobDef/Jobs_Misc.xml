@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: applying TargetB. -->
+  <ApplyTechprint.reportString>শ্রম, কাজ এবং পন দায়িত্ব targetb।</ApplyTechprint.reportString>
+  
+  <!-- EN: melee attacking TargetA. -->
+  <AttackMelee.reportString>নিকট যুদ্ধ targeta আক্রমণ করছে।</AttackMelee.reportString>
+  
+  <!-- EN: attacking TargetA. -->
+  <AttackStatic.reportString>TargetA আক্রমণ করছে।</AttackStatic.reportString>
+  
+  <!-- EN: beating fire out. -->
+  <BeatFire.reportString>আগুন নেভানো।</BeatFire.reportString>
+  
+  <!-- EN: Doing something. -->
+  <Carried.reportString>কিছু করা হচ্ছে।</Carried.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThing.reportString>কিছু করা হচ্ছে।</CastAbilityOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>কিছু করা হচ্ছে।</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>কিছু করা হচ্ছে।</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>কিছু করা হচ্ছে।</CastAbilityOnWorldTile.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>কিছু করা হচ্ছে।</CastAbilityTouch.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>কিছু করা হচ্ছে।</CastJump.reportString>
+  
+  <!-- EN: clearing snow. -->
+  <ClearSnow.reportString>বরফ পরিষ্কার করা।</ClearSnow.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <DeliverToBed.reportString>targeta প্রদান করা হচ্ছে।</DeliverToBed.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>targeta প্রদান করা।</DeliverToCell.reportString>
+  
+  <!-- EN: dismissing trader. -->
+  <DismissTrader.reportString>বণিক বরখাস্ত করা হচ্ছে।</DismissTrader.reportString>
+  
+  <!-- EN: dropping TargetA. -->
+  <DropEquipment.reportString>TargetA ত্যাগ করা হচ্ছে।</DropEquipment.reportString>
+  
+  <!-- EN: Ejecting fuel from TargetA. -->
+  <EjectFuel.reportString>TargetA থেকে জ্বালানি অপসারণ করা হচ্ছে।</EjectFuel.reportString>
+  
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>targeta খালি করা হচ্ছে।</EmptyThingContainer.reportString>
+  
+  <!-- EN: entering cryptosleep casket. -->
+  <EnterCryptosleepCasket.reportString>ক্রিপ্টোস্লিপ কফিনে প্রবেশ করা হচ্ছে।</EnterCryptosleepCasket.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterPortal.reportString>শ্রম, কাজ এবং পন দায়িত্ব – targeta</EnterPortal.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterTransporter.reportString>শ্রম, কাজ, এবং পন দায়িত্ব targeta।</EnterTransporter.reportString>
+  
+  <!-- EN: equipping TargetA. -->
+  <Equip.reportString>targeta সজ্জিত করা হচ্ছে।</Equip.reportString>
+  
+  <!-- EN: extinguishing fires nearby. -->
+  <ExtinguishFiresNearby.reportString>কাছাকাছি আগুন নেভানো।</ExtinguishFiresNearby.reportString>
+  
+  <!-- EN: extinguishing self. -->
+  <ExtinguishSelf.reportString>নিজেকে নিভানো।</ExtinguishSelf.reportString>
+  
+  <!-- EN: filling TargetA. -->
+  <FillFermentingBarrel.reportString>Targeta পূরণ করা হচ্ছে।</FillFermentingBarrel.reportString>
+  
+  <!-- EN: fleeing. -->
+  <Flee.reportString>পালানো।</Flee.reportString>
+  
+  <!-- EN: fleeing. -->
+  <FleeAndCower.reportString>পালানো।</FleeAndCower.reportString>
+  
+  <!-- EN: flicking switch. -->
+  <Flick.reportString>ফ্লিকিং সুইচ।</Flick.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <Follow.reportString>শ্রম, কাজ, এবং পন ডিউটি targeta।</Follow.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowClose.reportString>শ্রম, কাজ এবং পন ডিউটি targeta।</FollowClose.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>শ্রম, কাজ, এবং পন ডিউটি targeta।</FollowRoper.reportString>
+  
+  <!-- EN: making TargetA wear TargetB. -->
+  <ForceTargetWear.reportString>TargetA-কে TargetB পরানো হচ্ছে।</ForceTargetWear.reportString>
+  
+  <!-- EN: taking TargetA. -->
+  <GiveToPackAnimal.reportString>Targeta গ্রহণ করা হচ্ছে।</GiveToPackAnimal.reportString>
+  
+  <!-- EN: moving. -->
+  <Goto.reportString>স্থানান্তর।</Goto.reportString>
+  
+  <!-- EN: moving. -->
+  <GotoMindControlled.reportString>স্থানান্তর করা হচ্ছে।</GotoMindControlled.reportString>
+  
+  <!-- EN: seeking safe temperature. -->
+  <GotoSafeTemperature.reportString>নিরাপদ তাপমাত্রা খুঁজছে।</GotoSafeTemperature.reportString>
+  
+  <!-- EN: wandering. -->
+  <GotoWander.reportString>বিচরণশীল।</GotoWander.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulCorpseToPublicPlace.reportString>targeta পরিবহন।</HaulCorpseToPublicPlace.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToPortal.reportString>targeta পরিবহন।</HaulToPortal.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToTransporter.reportString>targeta পরিবহন।</HaulToTransporter.reportString>
+  
+  <!-- EN: idling. -->
+  <IdleWhileDespawned.reportString>অলসতা।</IdleWhileDespawned.reportString>
+  
+  <!-- EN: igniting TargetA. -->
+  <Ignite.reportString>targeta প্রজ্বলন করা হচ্ছে।</Ignite.reportString>
+  
+  <!-- EN: inducing TargetA to escape. -->
+  <InducePrisonerToEscape.reportString>targeta-কে পালাতে প্ররোচিত করা।</InducePrisonerToEscape.reportString>
+  
+  <!-- EN: consuming TargetA. -->
+  <Ingest.reportString>targeta গ্রহণ করা হচ্ছে।</Ingest.reportString>
+  
+  <!-- EN: installing TargetB in TargetA. -->
+  <InstallImplant.reportString>TargetA-তে TargetB স্থাপন করা হচ্ছে।</InstallImplant.reportString>
+  
+  <!-- EN: insulting TargetA. -->
+  <Insult.reportString>targeta-কে অপমান করা।</Insult.reportString>
+  
+  <!-- EN: activating TargetA. -->
+  <InteractThing.reportString>activating TargetA.</InteractThing.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDown.reportString>শুয়ে থাকা।</LayDown.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>শুয়ে থাকা।</LayDownAwake.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>শুয়ে থাকা।</LayDownResting.reportString>
+  
+  <!-- EN: lovin'. -->
+  <Lovin.reportString>স্নেহ।</Lovin.reportString>
+  
+  <!-- EN: operating turret. -->
+  <ManTurret.reportString>টারেট পরিচালনা।</ManTurret.reportString>
+  
+  <!-- EN: helping TargetA. -->
+  <OfferHelp.reportString>TargetA-কে সাহায্য করা।</OfferHelp.reportString>
+  
+  <!-- EN: opening TargetA. -->
+  <Open.reportString>TargetA খোলা হচ্ছে।</Open.reportString>
+  
+  <!-- EN: picking up TargetA. -->
+  <PickupToHold.reportString>TargetA সংগ্রহ করা হচ্ছে।</PickupToHold.reportString>
+  
+  <!-- EN: reading TargetA -->
+  <Reading.reportString>শ্রম, কাজ এবং পন ডিউটি targeta</Reading.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <RearmTurret.reportString>targeta পুনরায় সজ্জিত করা হচ্ছে।</RearmTurret.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <RearmTurretAtomic.reportString>targeta পুনরায় সজ্জিত করা হচ্ছে।</RearmTurretAtomic.reportString>
+  
+  <!-- EN: refueling TargetA. -->
+  <Refuel.reportString>TargetA রিফুয়েলিং।</Refuel.reportString>
+  
+  <!-- EN: refueling TargetA. -->
+  <RefuelAtomic.reportString>TargetA রিফুয়েলিং করা হচ্ছে।</RefuelAtomic.reportString>
+  
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>TargetA রিলোড হচ্ছে।</Reload.reportString>
+  
+  <!-- EN: removing TargetA. -->
+  <RemoveApparel.reportString>removing TargetA.</RemoveApparel.reportString>
+  
+  <!-- EN: resurrecting TargetA. -->
+  <Resurrect.reportString>TargetA পুনরুজ্জীবিত করা হচ্ছে।</Resurrect.reportString>
+  
+  <!-- EN: fighting with TargetA. -->
+  <SocialFight.reportString>TargetA-এর সাথে যুদ্ধ।</SocialFight.reportString>
+  
+  <!-- EN: staring. -->
+  <StandAndStare.reportString>তাকানো।</StandAndStare.reportString>
+  
+  <!-- EN: stripping TargetA. -->
+  <Strip.reportString>TargetA নিষ্কাশন।</Strip.reportString>
+  
+  <!-- EN: taking beer out of TargetA. -->
+  <TakeBeerOutOfFermentingBarrel.reportString>TargetA থেকে বিয়ার বের করা হচ্ছে।</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeCountToInventory.reportString>targeta কে ইনভেন্টরিতে নেওয়া হচ্ছে।</TakeCountToInventory.reportString>
+  
+  <!-- EN: grabbing TargetA from TargetB. -->
+  <TakeFromOtherInventory.reportString>TargetB থেকে TargetA গ্র্যাবিং করা হচ্ছে।</TakeFromOtherInventory.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeInventory.reportString>targeta ইনভেন্টরিতে নেওয়া হচ্ছে।</TakeInventory.reportString>
+  
+  <!-- EN: trading with TargetA. -->
+  <TradeWithPawn.reportString>TargetA-এর সাথে বাণিজ্য।</TradeWithPawn.reportString>
+  
+  <!-- EN: triggering TargetA. -->
+  <TriggerObject.reportString>শ্রম, কাজ, এবং পন দায়িত্ব targeta।</TriggerObject.reportString>
+  
+  <!-- EN: unloading TargetA. -->
+  <UnloadInventory.reportString>TargetA আনলোড করা হচ্ছে।</UnloadInventory.reportString>
+  
+  <!-- EN: unloading inventory. -->
+  <UnloadYourInventory.reportString>ইনভেন্টরি খালাস।</UnloadYourInventory.reportString>
+  
+  <!-- EN: activating artifact. -->
+  <UseArtifact.reportString>সক্রিয় নিদর্শন।</UseArtifact.reportString>
+  
+  <!-- EN: using TargetA. -->
+  <UseItem.reportString>শ্রম, কাজ এবং পন ডিউটি targeta।</UseItem.reportString>
+  
+  <!-- EN: using neurotrainer. -->
+  <UseNeurotrainer.reportString>নিউরো প্রশিক্ষক ব্যবহার হচ্ছে।</UseNeurotrainer.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThing.reportString>কিছু করা হচ্ছে।</UseVerbOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>কিছু করা হচ্ছে।</UseVerbOnThingStatic.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStaticReserve.reportString>কিছু করা হচ্ছে।</UseVerbOnThingStaticReserve.reportString>
+  
+  <!-- EN: vomiting. -->
+  <Vomit.reportString>বমি করা।</Vomit.reportString>
+  
+  <!-- EN: standing. -->
+  <Wait.reportString>দাঁড়ানো।</Wait.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_Asleep.reportString>ঘুমন্ত।</Wait_Asleep.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_AsleepDormancy.reportString>ঘুমন্ত।</Wait_AsleepDormancy.reportString>
+  
+  <!-- EN: watching for targets. -->
+  <Wait_Combat.reportString>লক্ষ্য নিরীক্ষণ চলছে।</Wait_Combat.reportString>
+  
+  <!-- EN: downed. -->
+  <Wait_Downed.reportString>অক্ষম।</Wait_Downed.reportString>
+  
+  <!-- EN: standing. -->
+  <Wait_MaintainPosture.reportString>দাঁড়ানো।</Wait_MaintainPosture.reportString>
+  
+  <!-- EN: waiting in safe temperature. -->
+  <Wait_SafeTemperature.reportString>নিরাপদ তাপমাত্রায় অপেক্ষা করা হচ্ছে।</Wait_SafeTemperature.reportString>
+  
+  <!-- EN: wandering. -->
+  <Wait_Wander.reportString>বিচরণশীল।</Wait_Wander.reportString>
+  
+  <!-- EN: wearing TargetA. -->
+  <Wear.reportString>TargetA পরিধান করছে।</Wear.reportString>
+  
+</LanguageData>

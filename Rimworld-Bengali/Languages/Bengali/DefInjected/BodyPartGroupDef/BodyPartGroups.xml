@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arms -->
+  <Arms.label>বাহু</Arms.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>ঠোঁট</Beak.label>
+  
+  <!-- EN: eyes -->
+  <Eyes.label>চোখ</Eyes.label>
+  
+  <!-- EN: feet -->
+  <Feet.label>পা</Feet.label>
+  
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>সামনের বাম নখর</FrontLeftClaws.label>
+  <!-- EN: claws -->
+  <FrontLeftClaws.labelShort>নখর</FrontLeftClaws.labelShort>
+  
+  <!-- EN: front left leg -->
+  <FrontLeftLeg.label>সামনের বাম পা</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>পা</FrontLeftLeg.labelShort>
+  
+  <!-- EN: front left paw -->
+  <FrontLeftPaw.label>সামনের বাম থাবা</FrontLeftPaw.label>
+  <!-- EN: paw -->
+  <FrontLeftPaw.labelShort>पंजा</FrontLeftPaw.labelShort>
+  
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>সামনের ডান নখর</FrontRightClaws.label>
+  <!-- EN: claws -->
+  <FrontRightClaws.labelShort>নখর</FrontRightClaws.labelShort>
+  
+  <!-- EN: front right leg -->
+  <FrontRightLeg.label>সামনের ডান পা</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>পা</FrontRightLeg.labelShort>
+  
+  <!-- EN: front right paw -->
+  <FrontRightPaw.label>সামনের ডান থাবা</FrontRightPaw.label>
+  <!-- EN: paw -->
+  <FrontRightPaw.labelShort>पंजा</FrontRightPaw.labelShort>
+  
+  <!-- EN: full head -->
+  <FullHead.label>পূর্ণ মাথা</FullHead.label>
+  
+  <!-- EN: hands -->
+  <Hands.label>হাত</Hands.label>
+  
+  <!-- EN: head -->
+  <HeadAttackTool.label>মাথা</HeadAttackTool.label>
+  
+  <!-- EN: claw -->
+  <HeadClaw.label>নখর</HeadClaw.label>
+  
+  <!-- EN: horn -->
+  <HornAttackTool.label>শিং</HornAttackTool.label>
+  
+  <!-- EN: left blade -->
+  <LeftBlade.label>বাম ব্লেড</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>ব্লেড</LeftBlade.labelShort>
+  
+  <!-- EN: left fist -->
+  <LeftHand.label>বাম মুষ্টি</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>মুষ্টি</LeftHand.labelShort>
+  
+  <!-- EN: legs -->
+  <Legs.label>পা</Legs.label>
+  
+  <!-- EN: middle finger -->
+  <MiddleFingers.label>মধ্যমা আঙুল</MiddleFingers.label>
+  <!-- EN: finger -->
+  <MiddleFingers.labelShort>আঙুল</MiddleFingers.labelShort>
+  
+  <!-- EN: mouth -->
+  <Mouth.label>মুখ</Mouth.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>গলা</Neck.label>
+  
+  <!-- EN: right blade -->
+  <RightBlade.label>ডান ফলক</RightBlade.label>
+  <!-- EN: blade -->
+  <RightBlade.labelShort>ব্লেড</RightBlade.labelShort>
+  
+  <!-- EN: right fist -->
+  <RightHand.label>ডান মুষ্টি</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>মুষ্টি</RightHand.labelShort>
+  
+  <!-- EN: shoulders -->
+  <Shoulders.label>কাঁধ</Shoulders.label>
+  
+  <!-- EN: teeth -->
+  <Teeth.label>দাঁত</Teeth.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>ধড়</Torso.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeakAttackTool.label>ঠোঁট</TurtleBeakAttackTool.label>
+  
+  <!-- EN: tusks -->
+  <TuskAttackTool.label>দন্ত</TuskAttackTool.label>
+  
+  <!-- EN: upper head -->
+  <UpperHead.label>উপরের মাথা</UpperHead.label>
+  
+  <!-- EN: utility slot -->
+  <Waist.label>ইউটিলিটি স্লট</Waist.label>
+  
+</LanguageData>

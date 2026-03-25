@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flu -->
+  <Animal_Flu.label>ফ্লু</Animal_Flu.label>
+  <!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
+  <Animal_Flu.description>এটি ইনফ্লুয়েঞ্জা ভাইরাস দ্বারা সৃষ্ট একটি সংক্রামক রোগ; এই স্ট্রেইনটি অ-মানব প্রজাতিকে সংক্রমিত করার জন্য অভিযোজিত।</Animal_Flu.description><!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
+  <Animal_Flu.labelNoun>ইনফ্লুয়েঞ্জা ভাইরাস দ্বারা সৃষ্ট একটি সংক্রামক রোগ। এই স্ট্রেইনটি অ-মানব প্রজাতিকে সংক্রমিত করার জন্য অভিযোজিত।</Animal_Flu.labelNoun>
+  <!-- EN: minor -->
+  <Animal_Flu.stages.minor.label>ক্ষুদ্র</Animal_Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Flu.stages.major.label>গুরুতর</Animal_Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Flu.stages.extreme.label>গুরুতর</Animal_Flu.stages.extreme.label>
+  
+  <!-- EN: plague -->
+  <Animal_Plague.label>প্লেগ</Animal_Plague.label>
+  <!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
+  <Animal_Plague.description>ব্যাকটেরিয়া দ্বারা সৃষ্ট একটি সংক্রামক রোগ। এই স্ট্রেইনটি অ-মানব প্রজাতিকে সংক্রমিত করার জন্য অভিযোজিত।</Animal_Plague.description><!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
+  <Animal_Plague.labelNoun>ব্যাকটেরিয়া দ্বারা সৃষ্ট একটি সংক্রামক রোগ। এই স্ট্রেইনটি অ-মানব প্রজাতিকে সংক্রমিত করার জন্য অভিযোজিত।</Animal_Plague.labelNoun>
+  <!-- EN: minor -->
+  <Animal_Plague.stages.minor.label>ক্ষুদ্র</Animal_Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Plague.stages.major.label>গুরুতর</Animal_Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-0.label>গুরুতর</Animal_Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-1.label>চূড়ান্ত</Animal_Plague.stages.extreme-1.label>
+  
+  <!-- EN: fibrous mechanites -->
+  <FibrousMechanites.label>ফাইব্রাস মেকানাইট</FibrousMechanites.label>
+  <!-- EN: Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites. -->
+  <FibrousMechanites.description>অসংলগ্ন মেকানাইট যা পেশী টিস্যুতে আঁশযুক্ত সংযোগ তৈরি করে। এগুলো আক্রান্ত ব্যক্তির শক্তি বৃদ্ধি করে, তবে তীব্র ব্যথাও সৃষ্টি করে। সম্ভবত এগুলো শক্তি-বর্ধক মেকানাইটের একটি পরিবর্তিত প্রজাতি।</FibrousMechanites.description>
+  <!-- EN: mild pain -->
+  <FibrousMechanites.stages.mild_pain.label>হালকা ব্যথা</FibrousMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <FibrousMechanites.stages.intense_pain.label>তীব্র ব্যথা</FibrousMechanites.stages.intense_pain.label>
+  
+  <!-- EN: flu -->
+  <Flu.label>ফ্লু</Flu.label>
+  <!-- EN: An infectious disease caused by the influenza virus. -->
+  <Flu.description>এটি ইনফ্লুয়েঞ্জা ভাইরাস দ্বারা সৃষ্ট একটি সংক্রামক রোগ।</Flu.description><!-- EN: An infectious disease caused by the influenza virus. -->
+  <Flu.labelNoun>ইনফ্লুয়েঞ্জা ভাইরাস দ্বারা সৃষ্ট একটি সংক্রামক রোগ।</Flu.labelNoun>
+  <!-- EN: minor -->
+  <Flu.stages.minor.label>ক্ষুদ্র</Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Flu.stages.major.label>গুরুতর</Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Flu.stages.extreme.label>তীব্র</Flu.stages.extreme.label>
+  
+  <!-- EN: gut worms -->
+  <GutWorms.label>পেটের কৃমি</GutWorms.label>
+  <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
+  <GutWorms.description>পেটের মধ্যে পরজীবী কৃমি। এটি বমি উদ্রেক করে। এছাড়াও, এটি আক্রান্ত ব্যক্তির খাবার গ্রহণ করে, যা ক্ষুধার মাত্রা বৃদ্ধি করে।</GutWorms.description><!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
+  <GutWorms.labelNoun>পেটের মধ্যে পরজীবী কৃমি। এটি বমি ঘটায়। এছাড়াও, এটি আক্রান্ত ব্যক্তির খাবার গ্রহণ করে, যা ক্ষুধা বৃদ্ধি করে।</GutWorms.labelNoun>
+  
+  <!-- EN: lung rot -->
+  <LungRot.label>ফুসফুসের পচন</LungRot.label>
+  <!-- EN: A bacterial disease that targets an individual's lungs. Minor cases are little more than an irritation, but if left unchecked the bacterial growth results in an increasing amount of fluid buildup in the victim's lungs, eventually resulting in death.\n\nIf treated properly, the body's immune system will eventually clear lung rot. -->
+  <LungRot.description>এটি একটি ব্যাকটেরিয়াজনিত রোগ যা একজন ব্যক্তির ফুসফুসকে আক্রমণ করে। ছোটখাটো ক্ষেত্রে এটি সামান্য জ্বালাতনের বেশি কিছু নয়, তবে নিয়ন্ত্রণ করা না গেলে ব্যাকটেরিয়ার বৃদ্ধি ভুক্তভোগীর ফুসফুসে ক্রমবর্ধমান পরিমাণে তরল জমা করে, যা শেষ পর্যন্ত মৃত্যুর কারণ হতে পারে।\n\nসঠিকভাবে চিকিৎসা করা হলে, শরীরের রোগ প্রতিরোধ ক্ষমতা ফুসফুসের পচন শেষ পর্যন্ত সারিয়ে তুলবে।</LungRot.description>
+  <!-- EN: A painful bacterial disease caused by exposure to rot stink gas. Upon reaching full saturation, it will kill the affected individual. -->
+  <LungRot.descriptionShort>পচা দুর্গন্ধ গ্যাসের সংস্পর্শে আসা থেকে সৃষ্ট একটি বেদনাদায়ক ব্যাকটেরিয়া সংক্রমণ। সম্পূর্ণ সম্পৃক্ত হলে এটি আক্রান্ত ব্যক্তিকে হত্যা করবে।</LungRot.descriptionShort>
+  <!-- EN: minor -->
+  <LungRot.stages.minor.label>ক্ষুদ্র</LungRot.stages.minor.label>
+  <!-- EN: major -->
+  <LungRot.stages.major.label>গুরুতর</LungRot.stages.major.label>
+  <!-- EN: extreme -->
+  <LungRot.stages.extreme.label>গুরুতর</LungRot.stages.extreme.label>
+  
+  <!-- EN: rot stink exposure -->
+  <LungRotExposure.label>পচন দুর্গন্ধ দূষণ</LungRotExposure.label>
+  <!-- EN: Long-term exposure to rot stink gas. Rot stink exposure has no direct health effects. However, serious rot stink exposure has a chance to result in a painful bacterial infection known as lung rot. When not exposed to rot stink gas, rot stink exposure will slowly decrease. -->
+  <LungRotExposure.description>দীর্ঘমেয়াদী পচনশীল গ্যাসের সংস্পর্শ। পচনশীল গ্যাসের সংস্পর্শের সরাসরি কোনো স্বাস্থ্যগত প্রভাব নেই। তবে, গুরুতর পচনশীল গ্যাসের সংস্পর্শের ফলে ফুসফুসের পচন নামক বেদনাদায়ক ব্যাকটেরিয়াল সংক্রমণ হওয়ার সম্ভাবনা থাকে। পচনশীল গ্যাসের সংস্পর্শে আসা বন্ধ হলে, পচনশীল গ্যাসের প্রভাব ধীরে ধীরে কমতে থাকবে।</LungRotExposure.description>
+  <!-- EN: {PAWN_nameDef} is beginning to suffer from exposure to rot stink gas. Keep {PAWN_objective} away from rotting corpses and other sources of rot stink. -->
+  <LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} পচনশীল গ্যাসের দূষণে অসুস্থ হতে শুরু করেছে। {PAWN_objective} কে পচনশীল মৃতদেহ এবং পচনশীল গ্যাসের অন্যান্য উৎস থেকে দূরে রাখুন।</LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: minor -->
+  <LungRotExposure.stages.minor.label>ক্ষুদ্র</LungRotExposure.stages.minor.label>
+  <!-- EN: major -->
+  <LungRotExposure.stages.major.label>গুরুতর</LungRotExposure.stages.major.label>
+  <!-- EN: serious -->
+  <LungRotExposure.stages.serious.label>গুরুতর</LungRotExposure.stages.serious.label>
+  
+  <!-- EN: malaria -->
+  <Malaria.label>ম্যালেরিয়া</Malaria.label>
+  <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
+  <Malaria.description>মশার মাধ্যমে ছড়ানো পরজীবী দ্বারা সৃষ্ট একটি সংক্রামক রোগ।</Malaria.description>
+  <!-- EN: minor -->
+  <Malaria.stages.minor.label>ক্ষুদ্র</Malaria.stages.minor.label>
+  <!-- EN: major -->
+  <Malaria.stages.major.label>গুরুতর</Malaria.stages.major.label>
+  <!-- EN: extreme -->
+  <Malaria.stages.extreme.label>গুরুতর</Malaria.stages.extreme.label>
+  
+  <!-- EN: muscle parasites -->
+  <MuscleParasites.label>পেশী পরজীবী</MuscleParasites.label>
+  <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
+  <MuscleParasites.description>পেশীতে পরজীবী প্রাণী। এগুলো দুর্বলতা এবং সমন্বয়ের অভাব সৃষ্টি করে।</MuscleParasites.description><!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
+  <MuscleParasites.stages.0.label>পেশীতে পরজীবী প্রাণী।</MuscleParasites.stages.0.label>
+  
+  <!-- EN: plague -->
+  <Plague.label>প্লেগ</Plague.label>
+  <!-- EN: An infectious disease caused by bacteria. -->
+  <Plague.description>ব্যাকটেরিয়া দ্বারা সৃষ্ট একটি সংক্রামক রোগ।</Plague.description><!-- EN: An infectious disease caused by bacteria. -->
+  <Plague.labelNoun>ব্যাকটেরিয়া দ্বারা সৃষ্ট একটি সংক্রামক রোগ।</Plague.labelNoun>
+  <!-- EN: minor -->
+  <Plague.stages.minor.label>ক্ষুদ্র</Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Plague.stages.major.label>গুরুতর</Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-0.label>তীব্র</Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-1.label>গুরুতর</Plague.stages.extreme-1.label>
+  
+  <!-- EN: scaria infection -->
+  <ScariaInfection.label>স্কারিয়া সংক্রমণ</ScariaInfection.label>
+  <!-- EN: An infection caused by scaria bacterium. If not treated, the infection will eventually drive the host into a berserk rage. -->
+  <ScariaInfection.description>স্কারিয়া ব্যাকটেরিয়ার কারণে সৃষ্ট সংক্রমণ। চিকিৎসা না করা হলে, এই সংক্রমণ শেষ পর্যন্ত হোস্টকে উন্মত্ত রাগে চালিত করবে।</ScariaInfection.description>
+  <!-- EN: Scaria: {PAWN_nameDef} -->
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>স্কারিয়া: {PAWN_nameDef}</ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>
+  <!-- EN: {PAWN_nameDef} has developed scaria from {PAWN_possessive} infection, driving {PAWN_objective} into a berserk rage. Scaria can be cured with a special medical operation, but {PAWN_nameDef} must first be downed. -->
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterText>{PAWN_nameDef} এর শরীরে {PAWN_possessive} সংক্রমণের কারণে স্কেরিয়া হয়েছে, যার ফলে {PAWN_objective} উন্মত্ত ক্রোধে চালিত হচ্ছে। স্কেরিয়া একটি বিশেষ চিকিৎসা অপারেশনের মাধ্যমে নিরাময় করা যেতে পারে, তবে প্রথমে {PAWN_nameDef} কে কাবু করতে হবে।</ScariaInfection.comps.HediffComp_GiveHediff.letterText>
+  <!-- EN: a scaria infection -->
+  <ScariaInfection.labelNoun>স্কারিয়া সংক্রমণ</ScariaInfection.labelNoun>
+  <!-- EN: minor -->
+  <ScariaInfection.stages.minor.label>ক্ষুদ্র আঘাত</ScariaInfection.stages.minor.label>
+  <!-- EN: major -->
+  <ScariaInfection.stages.major.label>গুরুতর</ScariaInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <ScariaInfection.stages.extreme.label>গুরুতর</ScariaInfection.stages.extreme.label>
+  
+  <!-- EN: sensory mechanites -->
+  <SensoryMechanites.label>সংবেদী মেকানাইট</SensoryMechanites.label>
+  <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->
+  <SensoryMechanites.description>স্নায়ুতন্ত্রে বসবাসকারী অসংলগ্ন মেকানাইট, যা শিকারের সংবেদী অঙ্গগুলিকে উন্নত করে, কিন্তু তীব্র ব্যথাও সৃষ্টি করে। সম্ভবত এগুলো সংবেদী অঙ্গ-উন্নতকারী মেকানাইটের একটি পরিবর্তিত প্রজাতি।</SensoryMechanites.description>
+  <!-- EN: mild pain -->
+  <SensoryMechanites.stages.mild_pain.label>হালকা ব্যথা</SensoryMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <SensoryMechanites.stages.intense_pain.label>তীব্র ব্যথা</SensoryMechanites.stages.intense_pain.label>
+  
+  <!-- EN: sleeping sickness -->
+  <SleepingSickness.label>ঘুমন্ত রোগ</SleepingSickness.label>
+  <!-- EN: An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection. -->
+  <SleepingSickness.description>কীটপতঙ্গবাহিত পরজীবীর কারণে সৃষ্ট একটি সংক্রামক রোগ। স্লিপিং সিকনেস অন্যান্য কিছু রোগের চেয়ে মারাত্মক না হলেও, এটি ধীরে ধীরে অগ্রসর হয়। সংক্রমণ দূর করতে শরীর দীর্ঘ সময় নেয়।</SleepingSickness.description>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-0.label>ক্ষুদ্র</SleepingSickness.stages.minor-0.label>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-1.label>ক্ষুদ্র</SleepingSickness.stages.minor-1.label>
+  <!-- EN: major -->
+  <SleepingSickness.stages.major.label>গুরুতর</SleepingSickness.stages.major.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-0.label>তীব্র</SleepingSickness.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-1.label>তীব্র</SleepingSickness.stages.extreme-1.label>
+  
+  <!-- EN: infection -->
+  <WoundInfection.label>সংক্রমণ</WoundInfection.label>
+  <!-- EN: Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves. -->
+  <WoundInfection.description>ক্ষতের মধ্যে ব্যাকটেরিয়ার সংক্রমণ। চিকিৎসা না করা হলে, ব্যাকটেরিয়া সংখ্যাবৃদ্ধি পাবে, স্থানীয় টিস্যু ধ্বংস করবে এবং শেষ পর্যন্ত রক্ত দূষণ ও মৃত্যুর কারণ হবে।\n\nবহু যুগ ধরে মানুষের যুদ্ধগুলোতে, সংক্রমণের কারণে প্রায়শই আঘাতের চেয়ে বেশি মানুষের প্রাণহানি ঘটেছে।</WoundInfection.description>
+  <!-- EN: an infection -->
+  <WoundInfection.labelNoun>সংক্রমণ</WoundInfection.labelNoun>
+  <!-- EN: minor -->
+  <WoundInfection.stages.minor.label>ক্ষুদ্র</WoundInfection.stages.minor.label>
+  <!-- EN: major -->
+  <WoundInfection.stages.major.label>গুরুতর</WoundInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-0.label>গুরুতর</WoundInfection.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-1.label>তীব্র</WoundInfection.stages.extreme-1.label>
+  
+</LanguageData>

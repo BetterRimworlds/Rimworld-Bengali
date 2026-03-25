@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allow adult-only apparel -->
+  <AllowAdultOnlyApparel.label>পূর্ণবয়স্ক পোশাক অনুমোদন করুন</AllowAdultOnlyApparel.label>
+  <!-- EN: Allow clothing that can only be worn by adults. -->
+  <AllowAdultOnlyApparel.description>শুধুমাত্র প্রাপ্তবয়স্করাই পরতে পারবে এমন পোশাকের অনুমতি দিন।</AllowAdultOnlyApparel.description>
+  
+  <!-- EN: allow biocoded apparel -->
+  <AllowBiocodedApparel.label>বায়োকোডিত পোশাক অনুমোদন করুন</AllowBiocodedApparel.label>
+  
+  <!-- EN: allow biocoded weapons -->
+  <AllowBiocodedWeapons.label>বায়োকোডিত অস্ত্র অনুমোদন করুন</AllowBiocodedWeapons.label>
+  
+  <!-- EN: animals -->
+  <AllowBookAnimals.label>প্রাণী</AllowBookAnimals.label>
+  <!-- EN: Allow books which teach animal-related skills. -->
+  <AllowBookAnimals.description>প্রাণী-সম্পর্কিত দক্ষতা শেখায় এমন বইয়ের অনুমতি দিন।</AllowBookAnimals.description>
+  
+  <!-- EN: artistic -->
+  <AllowBookArtistic.label>শিল্পকলা</AllowBookArtistic.label>
+  <!-- EN: Allow books which teach art skills. -->
+  <AllowBookArtistic.description>শিল্প দক্ষতা শেখায় এমন বইয়ের অনুমতি দিন।</AllowBookArtistic.description>
+  
+  <!-- EN: construction -->
+  <AllowBookConstruction.label>নির্মাণ</AllowBookConstruction.label>
+  <!-- EN: Allow books which teach construction skills. -->
+  <AllowBookConstruction.description>নির্মাণ দক্ষতা শেখায় এমন বইয়ের অনুমতি দিন।</AllowBookConstruction.description>
+  
+  <!-- EN: cooking -->
+  <AllowBookCooking.label>রান্না</AllowBookCooking.label>
+  <!-- EN: Allow books which teach cooking skills. -->
+  <AllowBookCooking.description>রান্নার দক্ষতা শেখায় এমন বই ব্যবহারের অনুমতি দিন।</AllowBookCooking.description>
+  
+  <!-- EN: crafting -->
+  <AllowBookCrafting.label>তৈরি করা</AllowBookCrafting.label>
+  <!-- EN: Allow books which teach crafting skills. -->
+  <AllowBookCrafting.description>কারুশিল্প দক্ষতা শেখায় এমন বই ব্যবহারের অনুমতি দিন।</AllowBookCrafting.description>
+  
+  <!-- EN: intellectual -->
+  <AllowBookIntellectual.label>বুদ্ধিবৃত্তিক</AllowBookIntellectual.label>
+  <!-- EN: Allow books which teach intellectual skills. -->
+  <AllowBookIntellectual.description>বুদ্ধিবৃত্তিক দক্ষতা শেখায় এমন বইয়ের অনুমতি দিন।</AllowBookIntellectual.description>
+  
+  <!-- EN: medical -->
+  <AllowBookMedicine.label>চিকিৎসা</AllowBookMedicine.label>
+  <!-- EN: Allow books which teach medical skills. -->
+  <AllowBookMedicine.description>চিকিৎসা বিষয়ক দক্ষতা শেখায় এমন বই ব্যবহারের অনুমতি দিন।</AllowBookMedicine.description>
+  
+  <!-- EN: melee -->
+  <AllowBookMelee.label>নিকট যুদ্ধ</AllowBookMelee.label>
+  <!-- EN: Allow books which teach melee skills. -->
+  <AllowBookMelee.description>নিকট যুদ্ধ দক্ষতা শেখায় এমন বইয়ের অনুমতি দিন।</AllowBookMelee.description>
+  
+  <!-- EN: mining -->
+  <AllowBookMining.label>খনন</AllowBookMining.label>
+  <!-- EN: Allow books which teach mining skills. -->
+  <AllowBookMining.description>খনির দক্ষতা শেখায় এমন বইয়ের অনুমতি দিন।</AllowBookMining.description>
+  
+  <!-- EN: plants -->
+  <AllowBookPlants.label>উদ্ভিদ</AllowBookPlants.label>
+  <!-- EN: Allow books which teach plant-related skills. -->
+  <AllowBookPlants.description>উদ্ভিদ-সম্পর্কিত দক্ষতা শেখায় এমন বইয়ের অনুমতি দিন।</AllowBookPlants.description>
+  
+  <!-- EN: shooting -->
+  <AllowBookShooting.label>গুলি করা</AllowBookShooting.label>
+  <!-- EN: Allow books which teach shooting skills. -->
+  <AllowBookShooting.description>গুলি করার দক্ষতা শেখায় এমন বইয়ের অনুমতি দিন।</AllowBookShooting.description>
+  
+  <!-- EN: social -->
+  <AllowBookSocial.label>সামাজিক</AllowBookSocial.label>
+  <!-- EN: Allow books which teach social skills. -->
+  <AllowBookSocial.description>সামাজিক দক্ষতা শেখায় এমন বইয়ের অনুমতি দিন।</AllowBookSocial.description>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableApparel.label>দাহ্য অনুমতি</AllowBurnableApparel.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableWeapons.label>দাহ্য অনুমতি</AllowBurnableWeapons.label>
+  
+  <!-- EN: allow child-only apparel -->
+  <AllowChildOnlyApparel.label>শিশু-শুধুমাত্র পোশাক</AllowChildOnlyApparel.label>
+  <!-- EN: Allow clothing that can only be worn by children. -->
+  <AllowChildOnlyApparel.description>শিশুদের জন্য বিশেষভাবে তৈরি পোশাক পরার অনুমতি দিন।</AllowChildOnlyApparel.description>
+  
+  <!-- EN: allow colonist corpses -->
+  <AllowCorpsesColonist.label>বসতি স্থাপনকারীর মৃতদেহ</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
+  <AllowCorpsesColonist.description>উপনিবেশ স্থাপনকারীদের মৃতদেহ রাখার অনুমতি দিন।</AllowCorpsesColonist.description>
+  
+  <!-- EN: allow stranger corpses -->
+  <AllowCorpsesStranger.label>অপরিচিত মৃতদেহ অনুমোদন করুন</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
+  <AllowCorpsesStranger.description>অপরিচিত এবং শত্রুদের মৃতদেহ রাখার অনুমতি দিন।</AllowCorpsesStranger.description>
+  
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>দূষিত পোশাক অনুমোদন করুন</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>মৃতদেহের পোশাকে পূর্বে ব্যবহৃত বস্ত্র পরিধান করার অনুমতি দিন। অধিকাংশ মানুষ মৃতদেহের সংস্পর্শে আসা পোশাককে বিরক্তিকর মনে করে, এবং ব্যবসায়ীরা এগুলো গ্রহণ করবে না।</AllowDeadmansApparel.description>
+  
+  <!-- EN: allow females -->
+  <AllowFemaleGender.label>মহিলাদের অনুমতি</AllowFemaleGender.label>
+  <!-- EN: Allow female individuals. -->
+  <AllowFemaleGender.description>ক্রিটিক্যাল রুলস:\n- কোনো ব্যাখ্যা, নোট বা বন্ধনীর মধ্যে মন্তব্য নয়।\n- শুধুমাত্র একটি অনুবাদ - কোনো বিকল্প নয় [শুধুমাত্র ১টি, কোনো ‘অপশন ১ / অপশন ২’ নয়]।\n- সমস্ত বিরামচিহ্ন হুবহু সংরক্ষণ করুন।\n\nউদাহরণস্বরূপ পছন্দের শব্দভাণ্ডার এবং শৈলী:\n- ‘টেকপ্রফ সাবপার্সোনা কোর’ → ‘প্রযুক্তিগত উপ-ব্যক্তিত্ব কোর’\n- ‘জনসন-তানাকা ড্রাইভ’ → ‘জনসন-তানাকা ড্রাইভ’\n- ‘শিপ স্ট্রাকচারাল বিম’ → ‘জাহাজ কাঠামোগত বিম’\n- ‘ক্রিপ্টোস</AllowFemaleGender.description>
+  
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>তাজা করার অনুমতি দিন</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>যে জৈব জিনিসগুলো এখনো পচতে শুরু করেনি, সেগুলোকে অনুমতি দিন।</AllowFresh.description>
+  
+  <!-- EN: allow large corpses -->
+  <AllowLargeCorpses.label>বৃহৎ মৃতদেহ অনুমোদন করুন</AllowLargeCorpses.label>
+  <!-- EN: Allow large, dead bodies. -->
+  <AllowLargeCorpses.description>বড়, মৃতদেহগুলিকে অনুমতি দিন।</AllowLargeCorpses.description>
+  
+  <!-- EN: normal research -->
+  <AllowMainResearch.label>সাধারণ গবেষণা</AllowMainResearch.label>
+  <!-- EN: Allow books which advance research of normal research projects. -->
+  <AllowMainResearch.description>সাধারণ গবেষণা প্রকল্পের অগ্রগতিতে সহায়ক বই ব্যবহারের অনুমতি দিন।</AllowMainResearch.description>
+  
+  <!-- EN: allow males -->
+  <AllowMaleGender.label>পুরুষদের অনুমতি</AllowMaleGender.label>
+  <!-- EN: Allow male individuals. -->
+  <AllowMaleGender.description>ক্রিপ্টোস্लीप কফিনগুলোতে শুয়ে থাকলে কলোনির সদস্যরা দীর্ঘ সময় ধরে নিরাপদে থাকতে পারে, কিন্তু এটি মানসিক চাপ সৃষ্টি করতে পারে।</AllowMaleGender.description>
+  
+  <!-- EN: allow non-biocoded apparel -->
+  <AllowNonBiocodedApparel.label>নন-বায়োকোডিত পোশাক অনুমোদন করুন</AllowNonBiocodedApparel.label>
+  
+  <!-- EN: allow non-biocoded weapons -->
+  <AllowNonBiocodedWeapons.label>অ-বায়োকোডিত অস্ত্র</AllowNonBiocodedWeapons.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableApparel.label>অদাহ্য অনুমতি</AllowNonBurnableApparel.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableWeapons.label>অদাহ্য অনুমতি</AllowNonBurnableWeapons.label>
+  
+  <!-- EN: allow clean apparel -->
+  <AllowNonDeadmansApparel.label>পরিষ্কার পোশাক অনুমোদন করুন</AllowNonDeadmansApparel.label>
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>এমন পোশাক ব্যবহারের অনুমতি দিন যা কোনো মৃতদেহের দ্বারা আগে পরা হয়নি। অধিকাংশ মানুষ মৃতদেহের সংস্পর্শে আসা পোশাককে বিরক্তিকর মনে করে, এবং ব্যবসায়ীরা এটি গ্রহণ করবে না।</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableApparel.label>গলানো-অযোগ্য</AllowNonSmeltableApparel.label>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>গলানো-অযোগ্য অনুমতি</AllowNonSmeltableWeapons.label>
+  
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>উদ্ভিদ খাদ্য অনুমোদন করুন</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>কাঁচা উদ্ভিদের সমতুল্য গুণমানের খাবার, যেমন খড়, গ্রহণ করার অনুমতি দিন।</AllowPlantFood.description>
+  
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>гниющий অনুমোদন</AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>জৈব জিনিসগুলি পচতে শুরু করলে অনুমতি দিন।</AllowRotten.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>গলানো যায়</AllowSmeltable.label>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltableApparel.label>গলানো যায়</AllowSmeltableApparel.label>
+  
+  <!-- EN: allow unfinished -->
+  <AllowUnfinished.label>অসম্পূর্ণ অনুমতি</AllowUnfinished.label>
+  <!-- EN: Allow unfinished items. -->
+  <AllowUnfinished.description>অসম্পূর্ণ আইটেমগুলোর অনুমতি দেওয়া হলো।</AllowUnfinished.description>
+  
+</LanguageData>

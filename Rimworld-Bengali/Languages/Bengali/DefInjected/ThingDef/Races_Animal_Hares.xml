@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hare -->
+  <Hare.label>খরগোশ</Hare.label>
+  <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
+  <Hare.description>এই ছোট, নিঃসঙ্গ তৃণভোজী প্রাণী দ্রুত বিপদ থেকে লাফিয়ে পালাতে পারে।</Hare.description>
+  <!-- EN: head -->
+  <Hare.tools.head.label>মাথা</Hare.tools.head.label>
+  
+  <!-- EN: snowhare -->
+  <Snowhare.label>স্নোহার</Snowhare.label>
+  <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
+  <Snowhare.description>এই কষ্টসহিষ্ণু প্রাণীটি নিজেদের আদিবাসের চরম শীতকালে বরফের মধ্যে গর্ত করে খাবার উপযোগী উদ্ভিদ খুঁজে নিয়ে বেঁচে থাকে।</Snowhare.description>
+  <!-- EN: head -->
+  <Snowhare.tools.head.label>মাথা</Snowhare.tools.head.label>
+  
+</LanguageData>

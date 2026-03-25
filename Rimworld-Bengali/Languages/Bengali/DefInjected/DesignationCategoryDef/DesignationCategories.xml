@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: floors -->
+  <Floors.label>মেঝে</Floors.label>
+  
+  <!-- EN: furniture -->
+  <Furniture.label>আসবাবপত্র</Furniture.label>
+  
+  <!-- EN: recreation -->
+  <Joy.label>বিনোদন</Joy.label>
+  
+  <!-- EN: misc -->
+  <Misc.label>বিবিধ</Misc.label>
+  
+  <!-- EN: orders -->
+  <Orders.label>নির্দেশাবলী</Orders.label>
+  
+  <!-- EN: power -->
+  <Power.label>বিদ্যুৎ</Power.label>
+  
+  <!-- EN: production -->
+  <Production.label>উৎপাদন</Production.label>
+  
+  <!-- EN: security -->
+  <Security.label>নিরাপত্তা</Security.label>
+  
+  <!-- EN: ship -->
+  <Ship.label>জাহাজ</Ship.label>
+  
+  <!-- EN: structure -->
+  <Structure.label>গঠনশৈলী</Structure.label>
+  
+  <!-- EN: temperature -->
+  <Temperature.label>তাপমাত্রা</Temperature.label>
+  
+  <!-- EN: zone -->
+  <Zone.label>অঞ্চল</Zone.label>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>HopeSeekr.BetterRimworlds.RimworldBengali</packageId>
+    <name>RimWorld Bengali</name>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <author>HopeSeekr</author>
+    <url>https://github.com/BetterRimworlds/Rimworld-Bengali</url>
+    <description>
+Version 1.0: 2026-03-24
+
+This is an autonomously-translated Bengali translation done via the Autonomo AI Translation platform.
+
+Total time: 45 minutes
+Total cost: $0.53
+    </description>
+</ModMetaData>

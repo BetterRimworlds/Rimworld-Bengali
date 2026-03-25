@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abrasive -->
+  <Abrasive.degreeDatas.abrasive.label>ক্ষতিকারক</Abrasive.degreeDatas.abrasive.label>
+  <!-- EN: {PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way. -->
+  <Abrasive.degreeDatas.abrasive.description>{PAWN_nameDef} সবসময় মনের কথা স্পষ্টভাবে বলে, বিশেষ করে যদি কিছু {PAWN_possessive} মনে খারাপ লাগে। সাধারণত এর ফলে অন্যরা বিরক্ত হয়।</Abrasive.degreeDatas.abrasive.description>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.degreeDatas.annoying_voice.label>বিরক্তিকর কণ্ঠস্বর</AnnoyingVoice.degreeDatas.annoying_voice.label>
+  <!-- EN: {PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}. -->
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef}-এর কণ্ঠস্বর বিশেষভাবে কর্কশ এবং নাসিক্য, এবং {PAWN_pronoun} সাধারণত খসখসে, অস্পষ্ট বাক্যাংশ ব্যবহার করে কথা বলে। এটি অন্যদের {PAWN_objective} অপছন্দ করতে উৎসাহিত করে।</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  
+  <!-- EN: ascetic -->
+  <Ascetic.degreeDatas.ascetic.label>সংযমী বৈশিষ্ট্য</Ascetic.degreeDatas.ascetic.label>
+  <Ascetic.degreeDatas.ascetic.labelFemale>সংযমী বৈশিষ্ট্য</Ascetic.degreeDatas.ascetic.labelFemale>
+  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
+  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} শারীরিক আরাম এবং আনন্দ ত্যাগ করেছেন(ছেন) একটি সরল, বিশুদ্ধ জীবনযাত্রার পক্ষে। {PAWN_pronoun} অসন্তুষ্ট হবেন(হবেন) যদি {PAWN_pronoun}-এর শোবার ঘরটি খুব বেশি জমকালো হয়। {PAWN_pronoun} পছন্দ করেন(করেন) না জটিল খাবার, এবং কাঁচা খাবার খেতে বেশি পছন্দ করেন(করেন)। {PAWN_pronoun} কখনোই অন্যের বাহ্যিক রূপ দেখে বিচার করেন(করেন) না।</Ascetic.degreeDatas.ascetic.description>
+  
+  <!-- EN: asexual -->
+  <Asexual.degreeDatas.asexual.label>অযৌন প্রবৃত্তি</Asexual.degreeDatas.asexual.label>
+  <!-- EN: {PAWN_nameDef} has no sexual attraction to anyone at all. -->
+  <Asexual.degreeDatas.asexual.description>{PAWN_nameDef} এর কারো প্রতি যৌন আকর্ষণ নেই।</Asexual.degreeDatas.asexual.description>
+  
+  <!-- EN: bisexual -->
+  <Bisexual.degreeDatas.bisexual.label>দ্বিকামী</Bisexual.degreeDatas.bisexual.label>
+  <!-- EN: {PAWN_nameDef} is romantically attracted to both men and women. -->
+  <Bisexual.degreeDatas.bisexual.description>{PAWN_nameDef} নারী এবং পুরুষ উভয়ের প্রতি রোমান্টিকভাবে আকৃষ্ট।</Bisexual.degreeDatas.bisexual.description>
+  
+  <!-- EN: bloodlust -->
+  <Bloodlust.degreeDatas.bloodlust.label>রক্তপিপাসা</Bloodlust.degreeDatas.bloodlust.label>
+  <Bloodlust.degreeDatas.bloodlust.labelFemale>রক্তপিপাসা</Bloodlust.degreeDatas.bloodlust.labelFemale>
+  <!-- EN: {PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others. -->
+  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef} অন্যের ক্ষতি করে আনন্দ পান, এবং রক্ত বা মৃত্যু দেখে 전혀 বিচলিত হন না। {PAWN_pronoun} অন্যদের তুলনায় চারগুণ বেশি সামাজিক ঝগড়া শুরু করার সম্ভাবনা রাখেন।</Bloodlust.degreeDatas.bloodlust.description>
+  
+  <!-- EN: body purist -->
+  <BodyPurist.degreeDatas.body_purist.label>শারীরিক বিশুদ্ধতাবাদী</BodyPurist.degreeDatas.body_purist.label>
+  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts and xenogenes are unethical and disgusting. -->
+  <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef} মনে করেন মানুষের শরীর একটি নির্দিষ্ট কারণে সীমাবদ্ধ। {PAWN_objective} এর কাছে, কৃত্রিম অঙ্গ-প্রত্যঙ্গ এবং জেনোগেনেস অনৈতিক এবং বিতৃষ্ণাজনক।</BodyPurist.degreeDatas.body_purist.description>
+  
+  <!-- EN: brawler -->
+  <Brawler.degreeDatas.brawler.label>কুস্তিগীর</Brawler.degreeDatas.brawler.label>
+  <Brawler.degreeDatas.brawler.labelFemale>কুস্তিগীর</Brawler.degreeDatas.brawler.labelFemale>
+  <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
+  <Brawler.degreeDatas.brawler.description>{PAWN_nameDef} খুব কাছ থেকে এবং ব্যক্তিগতভাবে যুদ্ধ করতে পছন্দ করেন। {PAWN_possessive} নির্ভুলতা নিকট যুদ্ধে অনেক বেড়ে যায়, তবে {PAWN_pronoun} যদি দূরপাল্লার অস্ত্র বহন করতে বলা হয় তবে খুবই অসন্তুষ্ট হবেন।</Brawler.degreeDatas.brawler.description>
+  
+  <!-- EN: cannibal -->
+  <Cannibal.degreeDatas.cannibal.label>নরখাদক</Cannibal.degreeDatas.cannibal.label>
+  <!-- EN: {PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it. -->
+  <Cannibal.degreeDatas.cannibal.description>{PAWN_nameDef} কে শেখানো হয়েছিল যে মানুষের মাংস খাওয়া ভুল এবং ভয়ংকর। কিন্তু এক সময়, অনেক আগে, {PAWN_pronoun} এটি চেষ্টা করেছিল… এবং {PAWN_pronoun} এর ভালো লেগেছিল।</Cannibal.degreeDatas.cannibal.description>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.degreeDatas.creepy_breathing.label>অস্বস্তিকর শ্বাস-প্রশ্বাস</CreepyBreathing.degreeDatas.creepy_breathing.label>
+  <!-- EN: {PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy. -->
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_nameDef} সবসময় ভারী শ্বাস নেয় এবং ক্রমাগত ঘামে। মানুষ এটিকে Creepy মনে করে।</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  
+  <!-- EN: misandrist -->
+  <DislikesMen.degreeDatas.misandrist.label>পুরুষবিদ্বেষী</DislikesMen.degreeDatas.misandrist.label>
+  <DislikesMen.degreeDatas.misandrist.labelFemale>পুরুষবিদ্বেষী</DislikesMen.degreeDatas.misandrist.labelFemale>
+  <!-- EN: {PAWN_nameDef} really dislikes and distrusts men. -->
+  <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} পুরুষদের প্রতি তীব্র অপছন্দ ও অবিশ্বাস পোষণ করেন।</DislikesMen.degreeDatas.misandrist.description>
+  
+  <!-- EN: misogynist -->
+  <DislikesWomen.degreeDatas.misogynist.label>নারীবীরোধী</DislikesWomen.degreeDatas.misogynist.label>
+  <DislikesWomen.degreeDatas.misogynist.labelFemale>নারীবীরোধী</DislikesWomen.degreeDatas.misogynist.labelFemale>
+  <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
+  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} নারীদের প্রতি তীব্র অপছন্দ ও অবিশ্বাস পোষণ করেন।</DislikesWomen.degreeDatas.misogynist.description>
+  
+  <!-- EN: fast learner -->
+  <FastLearner.degreeDatas.fast_learner.label>দ্রুত শিক্ষণকারী</FastLearner.degreeDatas.fast_learner.label>
+  <FastLearner.degreeDatas.fast_learner.labelFemale>দ্রুত শিক্ষণকারী</FastLearner.degreeDatas.fast_learner.labelFemale>
+  <!-- EN: {PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others. -->
+  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} শেখার ক্ষেত্রে পারদর্শী। {PAWN_pronoun} অন্যদের তুলনায় দ্রুত জিনিসগুলি আয়ত্ত করে।</FastLearner.degreeDatas.fast_learner.description>
+  
+  <!-- EN: gay -->
+  <Gay.degreeDatas.gay.label>সমকামী</Gay.degreeDatas.gay.label>
+  <!-- EN: {PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender. -->
+  <Gay.degreeDatas.gay.description>{PAWN_nameDef} একই লিঙ্গের মানুষের প্রতি রোমান্টিকভাবে আকৃষ্ট।</Gay.degreeDatas.gay.description>
+  
+  <!-- EN: gourmand -->
+  <Gourmand.degreeDatas.gourmand.label>খাদ্যরসিক</Gourmand.degreeDatas.gourmand.label>
+  <Gourmand.degreeDatas.gourmand.labelFemale>খাদ্যরসিক</Gourmand.degreeDatas.gourmand.labelFemale>
+  <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
+  <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef}'s জীবন খাদ্যের চারিদিকে ঘোরে। {PAWN_pronoun} দ্রুত ক্ষুধার্ত হয়ে ওঠে, এবং মাঝে মাঝে তীব্রভাবে খাবার খাওয়ার আকাঙ্ক্ষায় পেয়ে বসে, এমনকি যখন ক্ষুধার্ত থাকে না তখনও।</Gourmand.degreeDatas.gourmand.description>
+  
+  <!-- EN: great memory -->
+  <GreatMemory.degreeDatas.great_memory.label>অসাধারণ স্মৃতি</GreatMemory.degreeDatas.great_memory.label>
+  <!-- EN: {PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people. -->
+  <GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef} এর বিস্তারিত বিষয় মনে রাখার অসাধারণ ক্ষমতা রয়েছে। {PAWN_pronoun} অন্যদের তুলনায় অর্ধেক হারে অব্যবহৃত দক্ষতা হারাবে।</GreatMemory.degreeDatas.great_memory.description>
+  
+  <!-- EN: greedy -->
+  <Greedy.degreeDatas.greedy.label>লোভী</Greedy.degreeDatas.greedy.label>
+  <Greedy.degreeDatas.greedy.labelFemale>লোভী</Greedy.degreeDatas.greedy.labelFemale>
+  <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
+  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef}-এর একটি সত্যিই চিত্তাকর্ষক শোবার ঘর প্রয়োজন। {PAWN_pronoun} খারাপ মেজাজে ভুগবে যদি {PAWN_pronoun} যা চায় তা না পায়।</Greedy.degreeDatas.greedy.description>
+  
+  <!-- EN: jealous -->
+  <Jealous.degreeDatas.jealous.label>ঈর্ষান্বিত</Jealous.degreeDatas.jealous.label>
+  <Jealous.degreeDatas.jealous.labelFemale>ঈর্ষান্বিত</Jealous.degreeDatas.jealous.labelFemale>
+  <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
+  <Jealous.degreeDatas.jealous.description>{PAWN_nameDef} এর জন্য, অন্য কারো চেয়ে কম আকর্ষণীয় বেডরুম থাকা অপমানজনক। যদি অন্য কোনো কলোনিস্টের বেডরুম বেশি আকর্ষণীয় হয়, তাহলে {PAWN_pronoun} মেজাজ খারাপ করে।</Jealous.degreeDatas.jealous.description>
+  
+  <!-- EN: kind -->
+  <Kind.degreeDatas.kind.label>গুণাবলী ও ব্যক্তিত্ব</Kind.degreeDatas.kind.label>
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef} একজন ব্যতিক্রমীভাবে মিশুক এবং দানশীল ব্যক্তি। {PAWN_pronoun} খুব কমই অন্যকে অপমান করেন এবং প্রায়শই আশেপাশের লোকেদের মন ভালো করার জন্য সদয় কথা বলেন। {PAWN_pronoun} কখনোই মানুষের বাহ্যিক রূপ দেখে বিচার করেন না। {PAWN_possessive} মিশুক স্বভাবের কারণে {PAWN_objective} প্রচলিত মতামতের সাথে সঙ্গতি রাখতে বেশি আগ্রহী হন।</Kind.degreeDatas.kind.description>
+  
+  <!-- EN: masochist -->
+  <Masochist.degreeDatas.masochist.label>ব্যথাপ্রিয়</Masochist.degreeDatas.masochist.label>
+  <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
+  <Masochist.degreeDatas.masochist.description>{PAWN_nameDef}-এর আহত হওয়া নিয়ে এক ধরনের উত্তেজনা রয়েছে। {PAWN_pronoun} জানেন না কেন, সম্ভবত {PAWN_pronoun}-এর মস্তিষ্কের গঠন অন্যরকম।</Masochist.degreeDatas.masochist.description>
+  
+  <!-- EN: night owl -->
+  <NightOwl.degreeDatas.night_owl.label>রাতের পাখি</NightOwl.degreeDatas.night_owl.label>
+  <NightOwl.degreeDatas.night_owl.labelFemale>রাতের পাখি</NightOwl.degreeDatas.night_owl.labelFemale>
+  <!-- EN: {PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark. -->
+  <NightOwl.degreeDatas.night_owl.description>{PAWN_nameDef} রাতে জেগে থাকতে এবং দিনে ঘুমাতে পছন্দ করেন।\n\n{PAWN_pronoun} রাতে (২৩টা-৬টা) জেগে থাকলে একটি মেজাজের বোনাস পান এবং দিনে (১১টা-১৮টা) জেগে থাকলে মেজাজ খারাপ হয়।\n\n{PAWN_pronoun} অন্ধকারে থাকার জন্য মেজাজের পেনাল্টি পান না।</NightOwl.degreeDatas.night_owl.description>
+  
+  <!-- EN: nimble -->
+  <Nimble.degreeDatas.nimble.label>নমনীয়</Nimble.degreeDatas.nimble.label>
+  <!-- EN: {PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace. -->
+  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef} এর অসাধারণ কাইনেস্থেটিক বুদ্ধিমত্তা রয়েছে। {PAWN_pronoun} বিপদ থেকে স্বাভাবিকভাবেই সুন্দরভাবে সরে যেতে পারে।</Nimble.degreeDatas.nimble.description>
+  
+  <!-- EN: nudist -->
+  <Nudist.degreeDatas.nudist.label>নগ্নতাবাদী</Nudist.degreeDatas.nudist.label>
+  <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
+  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef} নগ্ন থাকার যে স্বাধীনতা পাওয়া যায়, তা উপভোগ করেন। {PAWN_pronoun} পোশাক পরতে পারলেও, পোশাক ছাড়া বেশি খুশি থাকবেন।</Nudist.degreeDatas.nudist.description>
+  
+  <!-- EN: psychopath -->
+  <Psychopath.degreeDatas.psychopath.label>সাইকোপ্যাথ</Psychopath.degreeDatas.psychopath.label>
+  <!-- EN: {PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing. -->
+  <Psychopath.degreeDatas.psychopath.description>{PAWN_nameDef} এর অন্যের প্রতি সহানুভূতি নেই। অন্যের কষ্ট {PAWN_objective} কে একেবারেই বিচলিত করে না। {PAWN_pronoun} অন্যদের জবাই করা, কবর না দেওয়া, বন্দী করা বা দাসত্বের জন্য বিক্রি করা নিয়ে চিন্তিত নয় - যতক্ষণ না এটি {PAWN_objective} কে প্রভাবিত করে। {PAWN_pronoun} সামাজিকতা থেকে কোনো মানসিক উন্নতিও অনুভব করে না।</Psychopath.degreeDatas.psychopath.description>
+  
+  <!-- EN: pyromaniac -->
+  <Pyromaniac.degreeDatas.pyromaniac.label>অগ্নিসংযোগ প্রবণতা</Pyromaniac.degreeDatas.pyromaniac.label>
+  <Pyromaniac.degreeDatas.pyromaniac.labelFemale>অগ্নিসংযোগ প্রবণতা</Pyromaniac.degreeDatas.pyromaniac.labelFemale>
+  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when wielding an incendiary weapon. -->
+  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} আগুন ভালোবাসে। {PAWN_pronoun} কখনই আগুন নেভাবে না, এবং মাঝে মাঝে এলোমেলোভাবে আগুন লাগানোর উৎসবে মেতে উঠবে। {PAWN_pronoun} শিখার আশেপাশে খুশি থাকবে, এবং কোনো দাহ্য অস্ত্র ধারণ করলে আরও বেশি খুশি হবে।</Pyromaniac.degreeDatas.pyromaniac.description>
+  
+  <!-- EN: quick sleeper -->
+  <QuickSleeper.degreeDatas.quick_sleeper.label>দ্রুত ঘুমন্ত</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} একজন সাধারণ মানুষের চেয়ে কম ঘুমালেই যথেষ্ট। {PAWN_pronoun} বিছানায় বা মাটিতে ঘুমালেও, স্বাভাবিক সময়ের প্রায় দুই-তৃতীয়াংশে বিশ্রাম নেবে।</QuickSleeper.degreeDatas.quick_sleeper.description>
+  
+  <!-- EN: slow learner -->
+  <SlowLearner.degreeDatas.slow_learner.label>ধীর শিক্ষণকারী</SlowLearner.degreeDatas.slow_learner.label>
+  <SlowLearner.degreeDatas.slow_learner.labelFemale>ধীর শিক্ষণকারী</SlowLearner.degreeDatas.slow_learner.labelFemale>
+  <!-- EN: {PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others. -->
+  <SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef}-এর বুঝতে কিছুটা সময় লাগে। {PAWN_pronoun} অন্যদের তুলনায় অনেক ধীরে শেখে।</SlowLearner.degreeDatas.slow_learner.description>
+  
+  <!-- EN: too smart -->
+  <TooSmart.degreeDatas.too_smart.label>অত্যন্ত বুদ্ধিমান</TooSmart.degreeDatas.too_smart.label>
+  <TooSmart.degreeDatas.too_smart.labelFemale>অত্যন্ত বুদ্ধিমান</TooSmart.degreeDatas.too_smart.labelFemale>
+  <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} নিজের ভালোর জন্য খুব বুদ্ধিমান। {PAWN_pronoun} অন্যদের চেয়ে অনেক দ্রুত সবকিছু শিখে, তবে কিছুটা অদ্ভুত হতে পারে।</TooSmart.degreeDatas.too_smart.description>
+  
+  <!-- EN: tortured artist -->
+  <TorturedArtist.degreeDatas.tortured_artist.label>tortured শিল্পী</TorturedArtist.degreeDatas.tortured_artist.label>
+  <TorturedArtist.degreeDatas.tortured_artist.labelFemale>tortured শিল্পী</TorturedArtist.degreeDatas.tortured_artist.labelFemale>
+  <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
+  <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} মানুষের কাছ থেকে বিচ্ছিন্ন এবং ভুল বোঝা অনুভব করেন। {PAWN_pronoun} ক্রমাগত মেজাজের অবনতি অনুভব করবেন, তবে মানসিক অবসানের পরে সৃজনশীলতার অনুপ্রেরণা পাওয়ার একটি সুযোগ (৫০%) পাবেন।</TorturedArtist.degreeDatas.tortured_artist.description>
+  <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>একজন দুঃখী, নিপীড়িত শিল্পী হিসেবে, [PAWN_nameIndef] একটি অনুপ্রেরণা লাভ করেছে।</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: tough -->
+  <Tough.degreeDatas.tough.label>কঠিন</Tough.degreeDatas.tough.label>
+  <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
+  <Tough.degreeDatas.tough.description>{PAWN_nameDef} এর ত্বক পুরু, মাংস ঘন এবং হাড় টেকসই। {PAWN_pronoun} একই আঘাত থেকে অন্যদের তুলনায় অনেক কম ক্ষতিগ্রস্থ হন। {PAWN_pronoun} কে হত্যা করা অত্যন্ত কঠিন।</Tough.degreeDatas.tough.description>
+  
+  <!-- EN: body modder -->
+  <Transhumanist.degreeDatas.body_modder.label>শারীরিক পরিবর্তনকারী</Transhumanist.degreeDatas.body_modder.label>
+  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced with artificial body parts or xenogenetics. -->
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} এর দুর্বল মানব শরীরে সীমাবদ্ধ বোধ হয়। {PAWN_pronoun} প্রায়শই কৃত্রিম অঙ্গ-প্রত্যঙ্গ বা জেনো জেনেটিক্স দিয়ে উন্নত হওয়ার স্বপ্ন দেখে।</Transhumanist.degreeDatas.body_modder.description>
+  
+  <!-- EN: undergrounder -->
+  <Undergrounder.degreeDatas.undergrounder.label>ভূগর্ভবাসী</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.labelFemale>ভূগর্ভবাসী</Undergrounder.degreeDatas.undergrounder.labelFemale>
+  <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever and is not bothered by darkness. However, {PAWN_nameDef} will be unhappy while outdoors. -->
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef}-এর বাইরে বা আলো অনুভব করার প্রয়োজন নেই। {PAWN_pronoun} কখনও বদ্ধ অবস্থায় অনুভব করবে না বা ক্লস্ট্রোফোবিয়ায় ভুগবে না এবং অন্ধকারেও বিচলিত হবে না। তবে, {PAWN_nameDef} বাইরে থাকলে অসুখী হবে।</Undergrounder.degreeDatas.undergrounder.description>
+  
+  <!-- EN: wimp -->
+  <Wimp.degreeDatas.wimp.label>ভীরু</Wimp.degreeDatas.wimp.label>
+  <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
+  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} দুর্বল এবং ভীরু। সামান্য ব্যথাও {PAWN_objective}-কে স্থবির করে দেবে।</Wimp.degreeDatas.wimp.description>
+  
+</LanguageData>

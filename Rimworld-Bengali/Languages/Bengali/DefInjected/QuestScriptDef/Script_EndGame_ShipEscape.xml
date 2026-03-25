@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A friendly AI from your past named (*Name)Charlon Whitestone(/Name) has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes. It will be a long, difficult series of battles.\n\nIf you can get the ship off the ground, (*Name)Charlon Whitestone(/Name) will take you off this rimworld, to the stars.</li>
+  -->
+  <EndGame_ShipEscape.questDescriptionRules.rulesStrings>
+    <li>questDescription->তোমার অতীতের এক বন্ধুত্বপূর্ণ এআই যার নাম (*Name)চার্লন হোয়াইটস্টোন(/Name) তোমাকে একটি বার্তা পাঠিয়েছে!\n\nসে প্রকাশ করে যে তার এই গ্রহে একটি লুকানো মহাকাশযান আছে এবং তোমাকে এর স্থানাঙ্ক পাঠায়।\n\nমহাকাশযানটি গভীর শীতনিদ্রা মোডে আছে। তোমাকে এটি অবতরণ করার পরে চালু করতে হবে, তারপর তোমাকে আক্রমণকারীদের থেকে রক্ষা করতে হবে যারা এটি চুরি করার চেষ্টা করবে, যতক্ষণ না পাওয়ার-আপ সিকোয়েন্স সম্পন্ন হয়। তুমি দীর্ঘ এবং কঠিন যুদ্ধের একটি সিরিজ সম্মুখীন হবে।\n\nযদি তুমি এটিকে উড্ডয়ন করাতে পারো, (*Name)চার্লন হোয়াইটস্টোন(/Name) তোমাকে এই বিশ্বসীমা থেকে তার সাথে নিয়ে যাবে, তারাদের দিকে।</li>
+  </EndGame_ShipEscape.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Ship to the Stars</li>
+  -->
+  <EndGame_ShipEscape.questNameRules.rulesStrings>
+    <li>questName->তারাদের যাত্রা</li>
+  </EndGame_ShipEscape.questNameRules.rulesStrings>
+  
+</LanguageData>

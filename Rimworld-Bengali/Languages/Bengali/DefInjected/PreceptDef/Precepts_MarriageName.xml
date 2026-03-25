@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: usually man's -->
+  <MarriageName_UsuallyMans.label>সাধারণত পুরুষের</MarriageName_UsuallyMans.label>
+  <!-- EN: Most couples share the man's name. -->
+  <MarriageName_UsuallyMans.description>বেশিরভাগ দম্পতি তাঁদের সঙ্গীর নাম ব্যবহার করেন।</MarriageName_UsuallyMans.description>
+  
+</LanguageData>

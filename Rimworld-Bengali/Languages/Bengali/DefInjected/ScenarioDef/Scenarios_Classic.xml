@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Crashlanded -->
+  <Crashlanded.label>ক্র্যাশল্যান্ডেড</Crashlanded.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Crashlanded.description>আপনারা তিনজন ক্রিপ্টোস্লিপ কফিনে সাইরেন এবং ধাতুর ছিন্নভিন্ন হওয়ার শব্দে জেগে ওঠেন। জাহাজটি সম্পূর্ণরূপে ধ্বংস হওয়ার আগে আপনারা কোনোমতে ইস্কেপ পডে পৌঁছাতে পারেন। কিছু সময় পর, আপনারা এই অজানা রিমওয়ার্ল্ডে অবতরণ করেন।</Crashlanded.description>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Crashlanded.scenario.description>আপনারা তিনজন ক্রিপ্টোস্লিপ কফিনে সাইরেন এবং ধাতুর ছিন্নভিন্ন হওয়ার শব্দে জেগে ওঠেন। জাহাজটি টুকরো টুকরো হওয়ার আগে আপনারা কোনোমতে ইস্কেপ পডে পৌঁছাতে পারেন। কিছু সময় পর, আপনারা এই অজানা প্রান্তিক বিশ্বে অবতরণ করেন।</Crashlanded.scenario.description>
+  <!-- EN: Crashlanded -->
+  <Crashlanded.scenario.name>ক্র্যাশল্যান্ডেড</Crashlanded.scenario.name>
+  <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
+  <Crashlanded.scenario.summary>তিনজন বিধ্বস্ত supervivor - ক্লাসিক RimWorld অভিজ্ঞতা।</Crashlanded.scenario.summary>
+  
+  <!-- EN: Lost Tribe -->
+  <LostTribe.label>হারানো উপজাতি</LostTribe.label>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
+  <LostTribe.description>আপনার উপজাতিটি দেবতাদের পাঠানো বিশাল রক্ত মেশিনের দ্বারা ধ্বংস হয়ে গেছে। আপনাদের মধ্যে পাঁচজন পালাতে পেরেছেন। এখন, একটি নতুন আবাস তৈরি করার সময় এসেছে।\n\nউল্লেখ্য: আপনারা দরিদ্র অবস্থায় শুরু করবেন এবং প্রযুক্তির অভাব থাকবে, তাই এটি একটি কঠিন পরিস্থিতি।</LostTribe.description>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
+  <LostTribe.scenario.description>আপনার উপজাতিকে দেবতাদের পাঠানো বিশাল রক্ত মেশিনের দ্বারা ধ্বংস করা হয়েছে। আপনাদের মধ্যে পাঁচজন পালাতে পেরেছেন। এখন, একটি নতুন আবাস তৈরি করার সময় এসেছে।\n\nউল্লেখ্য: আপনারা দরিদ্র অবস্থায় শুরু করবেন এবং প্রযুক্তির অভাব থাকবে, তাই এটি একটি কঠিন পরিস্থিতি।</LostTribe.scenario.description>
+  <!-- EN: Lost Tribe -->
+  <LostTribe.scenario.name>হারানো উপজাতি</LostTribe.scenario.name>
+  <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
+  <LostTribe.scenario.parts.GameStartDialog.text>দেবতারা অত্যন্ত ক্রুদ্ধ ছিলেন। রক্ত মেশিনগুলো রাতে এসেছিল। তারা আপনার গ্রাম ভেদ করে গিয়েছিল, তাদের ধারালো অস্ত্র ও নরকের আগুন দিয়ে আপনার লোকেদের কেটে পুড়িয়েছিল।\n\nআপনারা অল্প কয়েকজন পালাতে পেরেছেন।\n\nএখন, এক ভয়ঙ্কর যাত্রার পর, কোনো বন্ধু ছাড়াই, আপনাকে বন্যভূমিতে একটি নতুন ঘর তৈরি করতে হবে - যেমন আপনার পূর্বপুরুষরা করেছিলেন।</LostTribe.scenario.parts.GameStartDialog.text>
+  <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
+  <LostTribe.scenario.summary>পাঁচজন পথভ্রষ্ট উপজাতি সদস্য পুনর্গঠন করার চেষ্টা করছে। কঠিন।</LostTribe.scenario.summary>
+  
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.label>নগ্ন নিষ্ঠুরতা</NakedBrutality.label>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.description>আপনি একটি ছোটখাটো অস্ত্রোপচারের জন্য অ্যানেস্থেশিয়ার অধীনে ছিলেন। এখন আপনি একটি দূরবর্তী গ্রহে বিধ্বস্ত হওয়া ড্রপ পডে জেগে উঠেছেন। আপনি নগ্ন, একা এবং সম্পূর্ণরূপে অপ্রস্তুত। আপনি কি বেঁচে থাকতে পারবেন?\n\nসতর্কতা: এই পরিস্থিতিতে কিছুই ন্যায্য নয় - এটি অত্যন্ত কঠিন এবং যেকোনো কারণে মৃত্যু ঘটতে পারে।</NakedBrutality.description>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.scenario.description>আপনি একটি ছোটখাটো অস্ত্রোপচারের জন্য অ্যানেস্থেশিয়ার অধীনে ছিলেন। এখন আপনি একটি দূরবর্তী গ্রহে বিধ্বস্ত হওয়া ড্রপ পডে জেগে উঠেছেন। আপনি নগ্ন, একা এবং সম্পূর্ণরূপে অপ্রস্তুত। আপনি কি বেঁচে থাকতে পারবেন?\n\nসতর্কতা: এই পরিস্থিতিতে কিছুই ন্যায্য নয়—এটি অত্যন্ত কঠিন এবং যেকোনো কারণে মৃত্যু ঘটতে পারে।</NakedBrutality.scenario.description>
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.scenario.name>নগ্ন নিষ্ঠুরতা</NakedBrutality.scenario.name>
+  <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
+  <NakedBrutality.scenario.parts.GameStartDialog.text>এটা একটা সাধারণ অস্ত্রোপচার হওয়ার কথা ছিল। অ্যানেস্থেসিয়ার নিচে মাত্র এক ঘণ্টা। আপনি সম্পূর্ণ নিরাপদ অনুভব করেছিলেন।\n\nএখন আপনি একটি রিমওয়ার্ল্ডের বায়ুমণ্ডলের মধ্যে দিয়ে ছিঁড়ে আসা ড্রপ পডের ভিতরে জেগে উঠেছেন।\n\nআপনার সারা শরীরে রহস্যময় পিচ্ছিল পদার্থ লেগে আছে, এবং আপনি সম্পূর্ণ নগ্ন। কোনো প্রস্তুতি, সরবরাহ বা সরঞ্জাম ছাড়া, আপনি কি বেঁচে থাকতে পারবেন?</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
+  <NakedBrutality.scenario.summary>নগ্ন, একা এবং সম্পূর্ণভাবে অপ্রস্তুত। আপনি কি টিকে থাকতে পারবেন? অত্যন্ত কঠিন এবং অন্যায্য।</NakedBrutality.scenario.summary>
+  
+  <!-- EN: The Rich Explorer -->
+  <TheRichExplorer.label>ধনী অভিযাত্রী</TheRichExplorer.label>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.description>আপনার ঝলমলে বিশ্ব ত্যাগ করার জন্য লোকে আপনাকে পাগল বলেছিল, কিন্তু আপনি সবসময় নিউরোসিমুলেটরের বাইরে নক্ষত্রগুলো অন্বেষণ করতে আকাঙ্ক্ষা করতেন। এখন আপনি দীর্ঘ যাত্রার শেষে ক্রিপ্টোস্লিপে, একটি অজানা রিমওয়ার্ল্ডে অবতরণ করে দেখতে চান এটি কেমন।\n\nউল্লেখ্য: আপনার শুরুর চরিত্র কিছু দক্ষতা ছাড়াই শুরু করবে, তাই গেমের প্রথম দিকে এটি বিশেষভাবে কঠিন একটি পরিস্থিতি।</TheRichExplorer.description>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.scenario.description>আপনার ঝলমলে বিশ্ব ত্যাগ করার জন্য লোকে আপনাকে পাগল বলেছিল, কিন্তু আপনি সবসময় নিউরোসিমুলেটরের বাইরে তারাগুলো অন্বেষণ করতে আকাঙ্ক্ষা করতেন। এখন আপনি দীর্ঘ যাত্রার শেষে ক্রিপ্টোস্লিপে, একটি অজানা রিমওয়ার্ল্ডে অবতরণ করে দেখতে চান এটি কেমন।\n\nউল্লেখ্য: আপনার শুরুর চরিত্র কিছু দক্ষতা থেকে বঞ্চিত থাকবে, তাই এই পরিস্থিতি প্রাথমিক পর্যায়ে বিশেষভাবে কঠিন।</TheRichExplorer.scenario.description>
+  <!-- EN: The Rich Explorer -->
+  <TheRichExplorer.scenario.name>ধনী অভিযাত্রী</TheRichExplorer.scenario.name>
+  <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>নিউরোসিমুলেশন, হলো-গেমস, আর অবাধ যৌনতা আপনার জন্য কখনো যথেষ্ট ছিল না। আপনি আরও চেয়েছিলেন—বাস্তব জীবনের কঠিন বাস্তবতা ও পরিণতি, যেমন ইতিহাসের বইগুলোতে আলোচনা করা হয়। আপনি জানতে চেয়েছিলেন প্রকৃত চ্যালেঞ্জ ও পরিণতির অনুভূতি কেমন।\n\nএখন, কয়েক দশকের ক্রিপ্টোস্লিপে ভ্রমণের পর, আপনি এই অজানা প্রান্তিক বিশ্বে অবতরণ করছেন। বাস্তব পরিণতি আপনার জন্য অপেক্ষা করছে।</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
+  <TheRichExplorer.scenario.summary>একজন ধনী অভিযাত্রী মহাবিশ্বের অভিজ্ঞতা অর্জনে যাত্রা শুরু করেছে। অতিরিক্ত কঠিন।</TheRichExplorer.scenario.summary>
+  
+  <!-- EN: tutorial -->
+  <Tutorial.label>টিউটোরিয়াল</Tutorial.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Tutorial.description>আপনারা তিনজন ক্রিপ্টোস্লিপ কফিনে সাইরেন এবং ধাতুর ছিন্নভিন্ন হওয়ার শব্দে জেগে ওঠেন। জাহাজটি টুকরো টুকরো হওয়ার আগে আপনারা কোনোমতে ইস্কেপ পডে পৌঁছান। কিছু সময় পর, আপনারা এই অজানা রিমওয়ার্ল্ডে অবতরণ করেন।</Tutorial.description>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Tutorial.scenario.description>আপনারা তিনজন ক্রিপ্টোস্লিপ কফিনে সাইরেন এবং ধাতুর ছিন্নভিন্ন হওয়ার শব্দে জেগে ওঠেন। জাহাজটি সম্পূর্ণরূপে ধ্বংস হওয়ার আগে আপনারা কোনোমতে ইস্কেপ পডে পৌঁছাতে পারেন। কিছু সময় পর, আপনারা এই অজানা রিমওয়ার্ল্ডে অবতরণ করেন।</Tutorial.scenario.description>
+  <!-- EN: tutorial -->
+  <Tutorial.scenario.name>টিউটোরিয়াল</Tutorial.scenario.name>
+  <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
+  <Tutorial.scenario.summary>তিনজন বিধ্বস্ত supervivor - ক্লাসিক RimWorld অভিজ্ঞতা।</Tutorial.scenario.summary>
+  
+</LanguageData>

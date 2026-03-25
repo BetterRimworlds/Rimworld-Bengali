@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>পশু প্রাণী</Animals.label>
+  <!-- EN: Configure how the colony's tame animals should be treated. -->
+  <Animals.description>উপনিবেশের পোষা প্রাণীদের কীভাবে আচরণ করা উচিত তা কনফিগার করুন।</Animals.description>
+  
+  <!-- EN: architect -->
+  <Architect.label>স্থাপত্যবিদ</Architect.label>
+  <!-- EN: Designate where to build, farm, store items, and so on. -->
+  <Architect.description>নির্মাণ, চাষাবাদ, জিনিসপত্র সংরক্ষণ এবং অন্যান্য কাজের জন্য স্থান নির্ধারণ করুন।</Architect.description>
+  
+  <!-- EN: assign -->
+  <Assign.label>অর্পণ করুন</Assign.label>
+  <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
+  <Assign.description>উপনিবেশ স্থাপনকারীদের আচরণ নির্ধারণ করুন, যেমন তাদের কী পরা উচিত, কী ওষুধ সেবন করা উচিত, অথবা শত্রুদের কীভাবে প্রতিক্রিয়া জানাতে হবে।</Assign.description>
+  
+  <!-- EN: factions -->
+  <Factions.label>গোষ্ঠীসমূহ</Factions.label>
+  <!-- EN: Review the other factions on this world and their relationships. -->
+  <Factions.description>এই বিশ্বের অন্যান্য দল এবং তাদের পারস্পরিক সম্পর্ক পর্যালোচনা করুন।</Factions.description>
+  
+  <!-- EN: history -->
+  <History.label>ইতিহাস</History.label>
+  <!-- EN: Review historical records. -->
+  <History.description>ঐতিহাসিক রেকর্ড পর্যালোচনা করুন।</History.description>
+  
+  <!-- EN: inspect -->
+  <Inspect.label>পরিদর্শন করুন</Inspect.label>
+  
+  <!-- EN: menu -->
+  <Menu.label>মেনু</Menu.label>
+  <!-- EN: Change options, save, load, or quit the game. -->
+  <Menu.description>পরিবর্তন অপশন, সংরক্ষণ করুন, লোড করুন অথবা গেম থেকে প্রস্থান করুন।</Menu.description>
+  
+  <!-- EN: quests -->
+  <Quests.label>অনুসন্ধানসমূহ</Quests.label>
+  <!-- EN: View available, active, and historical quests. -->
+  <Quests.description>উপলব্ধ, সক্রিয় এবং ঐতিহাসিক অনুসন্ধানগুলো দেখুন।</Quests.description>
+  
+  <!-- EN: research -->
+  <Research.label>গবেষণা</Research.label>
+  <!-- EN: Examine and decide on research projects. -->
+  <Research.description>গবেষণা প্রকল্পগুলি পরীক্ষা করুন এবং সিদ্ধান্ত নিন।</Research.description>
+  
+  <!-- EN: schedule -->
+  <Schedule.label>সময়সূচী</Schedule.label>
+  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
+  <Schedule.description>দিনের নির্দিষ্ট সময়ে কলোনিস্টদের কার্যকলাপের সময়সূচী তৈরি করুন এবং তাদের অনুমোদিত এলাকা নির্ধারণ করুন।</Schedule.description>
+  
+  <!-- EN: wildlife -->
+  <Wildlife.label>বন্যপ্রাণী</Wildlife.label>
+  <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
+  <Wildlife.description>এলাকার বন্য প্রাণীগুলোর তালিকা করুন এবং সেগুলোকে শিকার বা পোষ মানানোর জন্য চিহ্নিত করুন।</Wildlife.description>
+  
+  <!-- EN: work -->
+  <Work.label>কাজ</Work.label>
+  <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
+  <Work.description>কোন বসতি স্থাপনকারী কী ধরনের কাজ করবে, এবং কোন ক্রমে করবে, তা নির্বাচন করুন।</Work.description>
+  
+  <!-- EN: world -->
+  <World.label>বিশ্ব</World.label>
+  <!-- EN: Examine the world map, form, and manage caravans. -->
+  <World.description>বিশ্ব মানচিত্র দেখুন, বহর তৈরি করুন এবং পরিচালনা করুন।</World.description>
+  
+</LanguageData>

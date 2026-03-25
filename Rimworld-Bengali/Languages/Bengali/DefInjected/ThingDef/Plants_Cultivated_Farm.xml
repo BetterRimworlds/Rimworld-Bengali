@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corn plant -->
+  <Plant_Corn.label>ভূট্টা গাছ</Plant_Corn.label>
+  <!-- EN: A tall grain plant which produces ears of soft, edible seeds. While corn takes a long time to grow, it yields lots of food compared to other crops. Harvested corn takes a long time to spoil. -->
+  <Plant_Corn.description>এটি একটি লম্বা শস্য গাছ যা নরম, ভোজ্য বীজ উৎপন্ন করে। ভুট্টা ধীরে ধীরে বাড়ে, তবে অন্যান্য ফসলের তুলনায় অনেক বেশি খাদ্য সরবরাহ করে। কাটা ভুট্টা দীর্ঘ সময় ধরে নষ্ট হয় না।</Plant_Corn.description>
+  
+  <!-- EN: cotton plant -->
+  <Plant_Cotton.label>তুলা গাছ</Plant_Cotton.label>
+  <!-- EN: A mid-size crop that yields fine white cotton fibers. These are used to make cloth. -->
+  <Plant_Cotton.description>এটি মাঝারি আকারের একটি ফসল যা সূক্ষ্ম সাদা তুলার তন্তু উৎপাদন করে। এগুলো কাপড় তৈরিতে ব্যবহৃত হয়।</Plant_Cotton.description>
+  
+  <!-- EN: devilstrand -->
+  <Plant_Devilstrand.label>ডেভিলস্ট্র্যান্ড</Plant_Devilstrand.label>
+  <!-- EN: This fragile mushroom was genetically engineered to produce a silk net that is both difficult to tear and soft to the touch. While the mushroom takes a very long time to grow, only exotic ultra-tech fabrics outperform its devilstrand fibers.\n\nSome say it's called devilstrand because of its red color. Others think it owes its name to the greed it inspires in people. -->
+  <Plant_Devilstrand.description>এই ভঙ্গুর মাশরুমটিকে জেনেটিক্যালি ইঞ্জিনিয়ার করা হয়েছে এমন একটি রেশম জাল তৈরি করার জন্য যা ছেঁড়া কঠিন এবং স্পর্শে নরম। মাশরুমটি সম্পূর্ণরূপে বড় হতে অনেক সময় নেয়, তবে এর ডেভিলস্ট্র্যান্ড ফাইবারগুলির চেয়ে ভালো পারফর্মেন্স শুধুমাত্র আল্ট্রা যুগ-এর অত্যাধুনিক কাপড়েই পাওয়া যায়।\n\nকেউ কেউ বলে এর নাম ডেভিলস্ট্র্যান্ড এর লাল রঙের জন্য। অন্যরা মনে করে এটি মানুষের মধ্যে যে লোভ জাগায়, তার কারণেই এই নামকরণ করা হয়েছে।</Plant_Devilstrand.description>
+  
+  <!-- EN: haygrass -->
+  <Plant_Haygrass.label>ঘাস</Plant_Haygrass.label>
+  <!-- EN: A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans. -->
+  <Plant_Haygrass.description>এটি পুষ্টিগুণে সমৃদ্ধ ঘাসের একটি মিশ্রণ যা প্রচুর পরিমাণে খড় উৎপাদন করে। খড় পশুদের জন্য খাদ্য হিসেবে উপযুক্ত, তবে মানুষের জন্য নয়।</Plant_Haygrass.description>
+  
+  <!-- EN: healroot -->
+  <Plant_Healroot.label>হিলরুট</Plant_Healroot.label>
+  <!-- EN: A slow-growing plant which yields herbal medicine when harvested. Sowing and harvesting healroot are both very labor-intensive tasks because of its delicate shoots.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues. -->
+  <Plant_Healroot.description>ধীরে ধীরে বর্ধনশীল একটি উদ্ভিদ যা সংগ্রহ করলে ওষুধ পাওয়া যায়। এর সূক্ষ্ম চারাগুলির কারণে হিলরুট বীজ বপন এবং সংগ্রহ করা উভয়ই অত্যন্ত শ্রমসাধ্য কাজ।\n\n settler-রা শতাব্দীর পর শতাব্দী ধরে হিলরুটকে বিশেষভাবে প্রজনন করেছেন। উপজাতিরা এটিকে মাঝে মাঝে "হিলার্স হ্যান্ড" নামেও ডাকে - এটি পাঁচটি প্রধান ঔষধি গুণের কারণে এই নামে পরিচিত।</Plant_Healroot.description>
+  
+  <!-- EN: hop plant -->
+  <Plant_Hops.label>হপ গাছ</Plant_Hops.label>
+  <!-- EN: A flowering crop that yields hops, an essential ingredient in beer. -->
+  <Plant_Hops.description>একটি ফুলদানকারী ফসল যা হপস উৎপাদন করে, বিয়ারের একটি অপরিহার্য উপাদান।</Plant_Hops.description>
+  
+  <!-- EN: potato plant -->
+  <Plant_Potato.label>আলু গাছ</Plant_Potato.label>
+  <!-- EN: A highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil. -->
+  <Plant_Potato.description>এটি একটি অত্যন্ত পুষ্টিকর কন্দ। আলু সামান্য খারাপ মাটিতেও ভালোভাবে জন্মায় এবং তেলে ভাজলে এর বাইরের দিকটা সুস্বাদু ও মচমচে হয়।</Plant_Potato.description>
+  
+  <!-- EN: psychoid plant -->
+  <Plant_Psychoid.label>সাইকয়েড উদ্ভিদ</Plant_Psychoid.label>
+  <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->
+  <Plant_Psychoid.description>এটি একটি পাতাযুক্ত উদ্ভিদ যা সাইকাইট নামক রাসায়নিক যৌগ তৈরি করে। মূলত, এটি উদ্ভিদভোজী প্রাণীদের দূরে রাখতে উদ্ভূত হয়েছিল, যা তাদের অতিরিক্ত উদ্দীপনা ও অসুস্থ করে তোলে; তবে, এই সাইকাইট ড্রাগ নিষ্কাশন করে বিভিন্ন রূপে বিনোদনের জন্য ব্যবহার করা যেতে পারে। এটি আসক্তি তৈরি করে।</Plant_Psychoid.description>
+  
+  <!-- EN: rice plant -->
+  <Plant_Rice.label>ধান গাছ</Plant_Rice.label>
+  <!-- EN: A short, fast-growing crop that yields small edible grains. Its great nutritional output and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil. -->
+  <Plant_Rice.description>এটি একটি স্বল্পমেয়াদী, দ্রুত বর্ধনশীল ফসল যা ছোট, ভোজ্য শস্য উৎপাদন করে। এর উচ্চ পুষ্টিগুণ এবং সহজ চাষাবাদ অনেক বৃহৎ সভ্যতাকে অর্থনৈতিকভাবে শক্তিশালী করেছে। চাল দ্রুত বাড়ে, তবে এটি মাটির উর্বরতার প্রতি সংবেদনশীল এবং অনুর্বর মাটিতে ভালো ফলন দেয় না।</Plant_Rice.description>
+  
+  <!-- EN: smokeleaf plant -->
+  <Plant_Smokeleaf.label>স্মোকলিফ গাছ</Plant_Smokeleaf.label>
+  <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
+  <Plant_Smokeleaf.description>পাতার মধ্যে রাসায়নিকের কারণে মানসিক প্রভাব ফেলে এমন একটি শস্য স্মোকলিফ। কারুশিল্পের স্থানে স্মোকলিফ পাতা গাঁজা হিসেবে প্রস্তুত করা যেতে পারে। স্মোকলিফ ব্যবহারকারীকে শিথিল অনুভব করায়, কিন্তু এটি প্রেরণা কমিয়ে দিতে পারে এবং আসক্তি তৈরি করতে পারে।</Plant_Smokeleaf.description>
+  
+  <!-- EN: strawberry plant -->
+  <Plant_Strawberry.label>স্ট্রবেরি গাছ</Plant_Strawberry.label>
+  <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
+  <Plant_Strawberry.description>এটি একটি ছোট গুল্মের মতো উদ্ভিদ যা ভঙ্গুর কিন্তু সুস্বাদু স্ট্রবেরি উৎপাদন করে। অন্যান্য ফসলের তুলনায় ক্যালোরি উৎপাদনের পরিমাণে এটি খুব বেশি না হলেও, স্ট্রবেরি কাঁচা অবস্থায়ও সুস্বাদু।</Plant_Strawberry.description>
+  
+  <!-- EN: cocoa tree -->
+  <Plant_TreeCocoa.label>কোকো গাছ</Plant_TreeCocoa.label>
+  <!-- EN: A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates. -->
+  <Plant_TreeCocoa.description>একটি গ্রীষ্মমণ্ডলীয় গাছ যা চকলেট উৎপাদন করে, জেনেটিক্যালি ইঞ্জিনিয়ারড করা হয়েছে এর নিজস্ব পণ্যকে মিষ্টি করার জন্য, এবং সামান্য কম উষ্ণ আবহাওয়ায় টিকে থাকতে পারে।</Plant_TreeCocoa.description>
+  
+</LanguageData>

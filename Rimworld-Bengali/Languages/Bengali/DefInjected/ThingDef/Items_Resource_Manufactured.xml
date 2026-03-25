@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemfuel -->
+  <Chemfuel.label>রাসায়নিক জ্বালানি</Chemfuel.label>
+  <!-- EN: A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
+  <Chemfuel.description>এটি একটি উদ্বায়ী তরল রাসায়নিক। ইঞ্জিন ও রকেট জ্বালানির জন্য, অথবা প্রজেক্টাইলের জন্য প্রোপেলেন্টে রূপান্তরিত করতে, অথবা অগ্নিসংযোগকারী অস্ত্র হিসেবে এটি ব্যবহৃত হয়।</Chemfuel.description>
+  
+  <!-- EN: component -->
+  <ComponentIndustrial.label>উপাদান</ComponentIndustrial.label>
+  <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
+  <ComponentIndustrial.description>বিভিন্ন গিয়ার, ক্যাপাসিটর, সার্কিট বোর্ড, টিউব, চাকা, সেন্সর, তার, চিপ, প্রসেসর এবং অন্যান্য ইলেকট্রনিক ও শিল্প যুগ-এর যন্ত্রাংশ। জটিল মেশিন বা ইলেকট্রনিক্স একত্রিত করার জন্য প্রয়োজনীয়।</ComponentIndustrial.description>
+  
+  <!-- EN: advanced component -->
+  <ComponentSpacer.label>উন্নত উপাদান</ComponentSpacer.label>
+  <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
+  <ComponentSpacer.description>উন্নত গণনা এবং শক্তি-নির্দেশক যন্ত্রাংশ, ক্ষুদ্রাকৃতির এবং সবচেয়ে কঠিন প্রয়োগের জন্য প্রস্তুত।</ComponentSpacer.description>
+  
+  <!-- EN: herbal medicine -->
+  <MedicineHerbal.label>herbal ওষুধ</MedicineHerbal.label>
+  <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
+  <MedicineHerbal.description>এটি হিলরুট গাছ থেকে নিষ্কাশিত ভেষজ মিশ্রণের একটি প্যাকেট। এটি শিল্প যুগের ওষুধপত্রের চেয়ে কম শক্তিশালী, তবে কিছুই না থাকার চেয়ে অনেক ভালো।</MedicineHerbal.description>
+  
+  <!-- EN: medicine -->
+  <MedicineIndustrial.label>ওষুধ</MedicineIndustrial.label>
+  <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
+  <MedicineIndustrial.description>এটি শিল্প যুগের চিকিৎসা সরঞ্জামের একটি কিট। এর মধ্যে প্রাথমিক ওষুধ, সেলাই এবং হাড় জোড়া লাগানোর সরঞ্জাম, রোগ নির্ণয়ের সরঞ্জাম এবং বিভিন্ন প্যাড ও তরল রয়েছে।</MedicineIndustrial.description>
+  
+  <!-- EN: glitterworld medicine -->
+  <MedicineUltratech.label>ঝলমলে বিশ্ব ওষুধ</MedicineUltratech.label>
+  <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
+  <MedicineUltratech.description>এটি একটি অত্যাধুনিক আল্ট্রা যুগ প্রযুক্তির চিকিৎসা সামগ্রীর কিট, সম্ভবত একটি দূরবর্তী ঝলমলে বিশ্বে তৈরি। এর মধ্যে উন্নত পলিমরফিক ওষুধ, ন্যানাইট ডায়াগনস্টিক ও নিরাময় সহায়ক, একটি মিনি-ইমেজার এবং বিভিন্ন বহু-ব্যবহারের সরঞ্জাম রয়েছে।</MedicineUltratech.description>
+  
+  <!-- EN: neutroamine -->
+  <Neutroamine.label>নিউট্রোঅ্যামিন</Neutroamine.label>
+  <!-- EN: A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
+  <Neutroamine.description>এটি একটি কৃত্রিম অগ্রদূত রাসায়নিক। এটি নিজে ব্যবহারের জন্য অকেজো, তবে অনেক ওষুধ তৈরিতে নিউট্রোঅ্যামিন একটি উপাদান হিসেবে প্রয়োজন।</Neutroamine.description>
+  
+  <!-- EN: reinforced barrel -->
+  <ReinforcedBarrel.label>শক্তিশালী ব্যারেল</ReinforcedBarrel.label>
+  <!-- EN: A large barrel for projectile-based weapons like mortars. In order to hold the high launch pressures, it is specially reinforced and cannot be manufactured at a small scale. -->
+  <ReinforcedBarrel.description>এটি মর্টারের মতো প্রজেক্টাইল-ভিত্তিক অস্ত্রের জন্য একটি বড় ব্যারেল। উচ্চ উৎক্ষেপণ চাপ সহ্য করার জন্য এটি বিশেষভাবে শক্তিশালী করা হয়েছে এবং ছোট পরিসরে তৈরি করা যায় না।</ReinforcedBarrel.description>
+  
+</LanguageData>

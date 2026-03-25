@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient concrete -->
+  <AncientConcrete.label>প্রাচীন কংক্রিট</AncientConcrete.label>
+  <!-- EN: Ancient concrete flooring. -->
+  <AncientConcrete.description>প্রাচীন কংক্রিট মেঝে।</AncientConcrete.description>
+  
+  <!-- EN: ancient tile -->
+  <AncientTile.label>প্রাচীন টাইলস</AncientTile.label>
+  <!-- EN: Ancient metal tiles. -->
+  <AncientTile.description>প্রাচীন ধাতব টাইলস।</AncientTile.description>
+  
+  <!-- EN: ancient wood floor -->
+  <AncientWoodPlankFloor.label>প্রাচীন কাঠের মেঝে</AncientWoodPlankFloor.label>
+  
+  <!-- EN: underwall -->
+  <Underwall.label>দেওয়ালের নিচে</Underwall.label>
+  
+</LanguageData>

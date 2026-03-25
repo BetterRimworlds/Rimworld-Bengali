@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.label>স্বয়ংক্রিয় মর্টার</Artillery_AutoMortar.label>
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.verbs.Verb_Shoot.label>স্বয়ংক্রিয় মর্টার</Artillery_AutoMortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.label>আলো চার্জ ব্ল্যাস্টার</Gun_ChargeBlasterHeavyTurret.label>
+  <!-- EN: A pulse-charged rapid-fire blaster for area fire. -->
+  <Gun_ChargeBlasterHeavyTurret.description>একটি পালস-চার্জড দ্রুত-আগুন সম্পন্ন ব্লাস্টার, এলাকাভিত্তিক আক্রমণের জন্য।</Gun_ChargeBlasterHeavyTurret.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeBlasterHeavyTurret.tools.barrel.label>ব্যারেল</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>আলো চার্জ ব্ল্যাস্টার</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.label>ইনফার্নো কামান</Gun_InfernoCannonTurret.label>
+  <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
+  <Gun_InfernoCannonTurret.description>এটি একটি অগ্নিসংযোগকারী ছোট কামান। এটি একটি বৃহৎ অগ্নিসংযোগকারী ওয়ারহেড নিক্ষেপ করে।</Gun_InfernoCannonTurret.description>
+  <!-- EN: barrel -->
+  <Gun_InfernoCannonTurret.tools.barrel.label>ব্যারেল</Gun_InfernoCannonTurret.tools.barrel.label>
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>ইনফার্নো কামান</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: auto charge turret -->
+  <Turret_AutoChargeBlaster.label>স্বয়ংক্রিয় চার্জিং টারেট</Turret_AutoChargeBlaster.label>
+  <!-- EN: A self-powered turret mounted with a charge blaster. It cannot sense targets at very short ranges. -->
+  <Turret_AutoChargeBlaster.description>এটি চার্জ ব্ল্যাস্টারযুক্ত একটি স্বয়ংক্রিয় টারেট। এটি খুব কম দূরত্বের লক্ষ্যবস্তু সনাক্ত করতে পারে না।</Turret_AutoChargeBlaster.description>
+  
+  <!-- EN: auto inferno turret -->
+  <Turret_AutoInferno.label>অটো ইনফার্নো টারেট</Turret_AutoInferno.label>
+  <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
+  <Turret_AutoInferno.description>এটি একটি স্বয়ংক্রিয়ভাবে চালিতটারেট, যেখানে একটিInferno কামান বসানো আছে। এটি খুব কাছ থেকে লক্ষ্যবস্তু সনাক্ত করতে পারে না।</Turret_AutoInferno.description>
+  
+  <!-- EN: auto mortar -->
+  <Turret_AutoMortar.label>স্বয়ংক্রিয় মর্টার</Turret_AutoMortar.label>
+  <!-- EN: A self-powered, self-loading, automatic mortar. It can hit targets at any distance, over walls, but is quite inaccurate. -->
+  <Turret_AutoMortar.description>এটি স্বয়ংক্রিয় মর্টার, যা স্বয়ং-চালিত এবং স্বয়ংক্রিয়ভাবে লোড করা যায়। এটি যেকোনো দূরত্বে, দেওয়ালের ওপর দিয়ে লক্ষ্যে আঘাত করতে পারে, তবে এর নির্ভুলতা কম।</Turret_AutoMortar.description>
+  
+</LanguageData>

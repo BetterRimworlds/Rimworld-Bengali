@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Autosaving -->
+  <Autosaving>স্বয়ংক্রিয়ভাবে সংরক্ষণ করা হচ্ছে</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>আপনারা তিনজন ক্রিপ্টোস্লিপ কফিনে সাইরেন ও ধাতুর ছিন্নভিন্ন শব্দে জেগে উঠলেন। জাহাজটি খণ্ড খণ্ড হওয়ার আগে আপনারা কোনোমতে পালানোর পডগুলোতে পৌঁছাতে পারলেন।\n\nকিছুক্ষণ পর, আপনারা একটি অজানা রিমওয়ার্ল্ডে অবতরণ করলেন।\n\nআপনার চারপাশে ছিন্নভিন্ন মহাকাশযানের টুকরোগুলো পড়তে থাকার সাথে সাথে, আপনারা বেঁচে থাকার পরিকল্পনা শুরু করলেন।</GameStartDialog>
+  <!-- EN: Colony -->
+  <Colony>উপনিবেশ</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>আপনি শুধুমাত্র প্রধান মেনু থেকে ভাষার বিকল্প পরিবর্তন করতে পারবেন।</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
+  <AndLower>এবং</AndLower>
+  <!-- EN: disabled -->
+  <DisabledLower>অক্ষম করা হয়েছে</DisabledLower>
+
+  <!-- EN: Version {0} -->
+  <VersionIndicator>সংস্করণ {0}</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>গেম সংস্করণ</GameVersionIndicator>
+  <!-- EN: development build -->
+  <DevelopmentBuildLower>উন্নয়ন বিল্ড</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
+  <CompiledOn>সংকলিত {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
+  <LoggedIntoSteamAs>{0} হিসাবে স্টিমে লগ ইন করা হয়েছে।</LoggedIntoSteamAs>
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>{0} এবং {1}</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>{0} অথবা {1}</ToCommaListOr>
+  
+  <!-- General-use words -->
+  <!-- EN: Yes -->
+  <Yes>হ্যাঁ</Yes>
+  <!-- EN: No -->
+  <No>না</No>
+  <!-- EN: No {0} -->
+  <NoSubject>কোনো {0} নেই।</NoSubject>
+  <!-- EN: new -->
+  <New>নতুন</New>
+  <!-- EN: Gender -->
+  <Gender>লিঙ্গ</Gender>
+  <!-- EN: Sex -->
+  <Sex>লিঙ্গ</Sex>
+  <!-- EN: min -->
+  <min>ন্যূনতম</min>
+  <!-- EN: max -->
+  <max>সর্বোচ্চ</max>
+  <!-- EN: chance -->
+  <chance>সম্ভাবনা</chance>
+  <!-- EN: context -->
+  <context>গুরুতর নিয়ম:</context>
+  <!-- EN: multiplier -->
+  <multiplier>গুণক</multiplier>
+  <!-- EN: damage -->
+  <damage>ক্ষতি</damage>
+  <!-- EN: radius -->
+  <radius>ব্যাসার্ধ</radius>
+  <!-- EN: expired -->
+  <expired>মেয়াদোত্তীর্ণ</expired>
+  <!-- EN: duration (days) -->
+  <durationDays>সময় (দিন)</durationDays>
+  <!-- EN: interval (days) -->
+  <intervalDays>সময়কাল (দিন)</intervalDays>
+  <!-- EN: delay (days) -->
+  <delayDays>বিলম্ব (দিন)</delayDays>
+  <!-- EN: repeat -->
+  <repeat>পুনরাবৃত্তি</repeat>
+  <!-- EN: default -->
+  <default>ডিফল্ট</default>
+  <!-- EN: distance -->
+  <distance>দূরত্ব</distance>
+  <!-- EN: YES -->
+  <YesUppercase>গুরুতর নিয়ম:</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>না</NoUppercase>
+  <!-- EN: kg -->
+  <kg>কেজি</kg>
+  <!-- EN: Day -->
+  <Day>দিন</Day>
+  <!-- EN: day -->
+  <day>দিন</day>
+  <!-- EN: Default -->
+  <Default>ডিফল্ট</Default>
+  <!-- EN: Average -->
+  <Average>গড়</Average>
+  <!-- EN: Cause -->
+  <Cause>কারণ</Cause>
+  <!-- EN: etc -->
+  <Etc>ইত্যাদি</Etc>
+  <!-- EN: ${0} -->
+  <MoneyFormat>${0}</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>উপাদানসমূহ</Factors>
+  <!-- EN: Uses -->
+  <Uses>ব্যবহারবিধি</Uses>
+  <!-- EN: Translation -->
+  <Translation>গুরুতর নিয়ম:</Translation>
+  <!-- EN: min(days) -->
+  <minDays>ন্যূনতম (দিন)</minDays>
+  <!-- EN: max(days) -->
+  <maxDays>সর্বোচ্চ দিন</maxDays>
+  <!-- EN: Processing -->
+  <Processing>গুরুতর নিয়ম:</Processing>
+  <!-- EN: Inspect -->
+  <Inspect>পরিদর্শন করুন</Inspect>
+  <!-- EN: Edit -->
+  <Edit>সম্পাদনা করুন</Edit>
+
+  <!-- Content generation-->
+  
+  <!-- EN: {0} meat -->
+  <MeatLabel>{0} মাংস</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>কাঁচা, জবাই করা মাংস। এটি রান্না করে খাবার তৈরি করা যেতে পারে, অথবা কাঁচাও খাওয়া যায়।</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>কাঁচা, টুকরো করা মাংস। প্রয়োজনে, এটি খাবার হিসেবে রান্না করা যেতে পারে, অথবা কাঁচাও খাওয়া যেতে পারে। অত্যন্ত অরুচিকর।</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>কাঁচা, টুকরো করা মাংস। এটি রান্না করে খাবার তৈরি করা যেতে পারে অথবা কাঁচাও খাওয়া যেতে পারে, যদিও বেশিরভাগ মানুষ এই ধারণা পছন্দ করে না।</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>প্রযুক্তি নকশা ({PROJECT_label})</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>Datos sobre la tecnología "{PROJECT_label}".\nLa forma física de los tecnoplanos va desde trozos de papel con diagramas, hasta avanzadas máquinas de aprendizaje autónomas. Independientemente de su forma, juegan el mismo papel: darle a tus investigadores la confianza de que una idea es factible, y una aproximación a los diseños utilizados por sociedades más avanzadas.\n\nTus investigadores necesitan el conocimiento fundamental dado por estos tecnoplanos para saber cómo enfrentarse a una nueva tecnología. Solo cuando tengas suficientes datos tus investigadores sabrán como usar dicha tecnología en tu situación particular.\n\nAplicar tecnoplanos a proyectos en curso proporciona la mitad del progreso restante. Además, usar tecnoplanos le da un empujón intelectual a tus investigadores, incluso con tecnologías ya conocidas.</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>আনলক করে</Unlocks>
+
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>{0} মৃতদেহ</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>{0} এর মৃতদেহ।</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
+  <DeadLabel>মৃত</DeadLabel>
+
+  <!-- EN: rough {0} -->
+  <RoughStoneTerrainLabel>অমসৃণ {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc>অমসৃণ, প্রাকৃতিক {0} ভূমি।</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel>অমসৃণ {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc>মোটামুটিভাবে কাটা প্রাকৃতিক {0} মেঝে।</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
+  <SmoothStoneTerrainLabel>মসৃণ {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc>মসৃণ প্রাকৃতিক {0} মেঝে।</SmoothStoneTerrainDesc>
+
+  <!-- EN: (blueprint) -->
+  <BlueprintLabelExtra>ব্লুপ্রিন্ট</BlueprintLabelExtra>
+  <!-- EN: (building) -->
+  <FrameLabelExtra>বিল্ডিং</FrameLabelExtra>
+
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>অসংযুক্ত</FactionUnaffiliated>
+
+  <!-- EN: Continue anyway? -->
+  <StillWishContinue>তবুও চালিয়ে যাবেন?</StillWishContinue>
+  
+  <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
+  <BabyTalk>বা,বা,বু,বাহ্,গা,গা,গু,ন্যা,না,না,নু,উ,ওয়া,ওয়াহ্,মা,মা</BabyTalk>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>'{PAWN_labelShort}' এর {1}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>{PAWN1_labelShort} এবং {PAWN2_labelShort} এর {2}</CouplesRoom>
+  
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>গুরুত্বপূর্ণ এই ধরনের ঘরের জন্য।</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>এখানে {COUNT} {RESOURCE_label} ভূগর্ভে।</DeepResourceRemaining>
+  
+  <!-- EN: (various) -->
+  <VariousLabel>গুরুত্বপূর্ণ</VariousLabel>
+
+  <!-- History events -->
+  <!-- EN: Colonist died -->
+  <ColonistDied>উপনিবেশকারী মারা গেছেন।</ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>উত্তর</North>
+  <!-- EN: South -->
+  <South>দক্ষিণ</South>
+  <!-- EN: West -->
+  <West>পশ্চিম</West>
+  <!-- EN: East -->
+  <East>পূর্ব</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>প্রযুক্তি নকশা ({0}) প্রয়োগ করা হচ্ছে</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>ভেরিয়েন্ট অফ</VariantOf>
+  
+  <!-- Familial relationships -->
+  <!-- EN: born to {0} -->
+  <BornOfParents>{0}-এর ঔরসে জন্ম</BornOfParents>
+  <!-- EN: unknown parents -->
+  <ParentsUnknown>অজানা অভিভাবক</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <!-- EN: colonist -->
+  <Colonist>উপনিবেশকারী</Colonist>
+
+</LanguageData>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: affair -->
+  <Affair.stages.affair.label>বিষগ্ন সম্পর্ক</Affair.stages.affair.label>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.stages.annoying_voice.label>বিরক্তিকর কণ্ঠ</AnnoyingVoice.stages.annoying_voice.label>
+  
+  <!-- EN: ate raw humanlike meat -->
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>কাঁচা মানব-সদৃশ মাংস খাওয়া</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>শারীরিক বিশুদ্ধতাবাদী বিতৃষ্ণা</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>শারীরিক বিশুদ্ধতাবাদী বিতৃষ্ণা</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>শারীরিক বিশুদ্ধতাবাদী বিতৃষ্ণা</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>শারীরিক বিশুদ্ধতাবাদী বিতৃষ্ণা</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>শারীরিক বিশুদ্ধতাবাদী বিতৃষ্ণা</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  
+  <!-- EN: {0}'s master -->
+  <BondedAnimalMaster.stages.s_master.label>{0} এর প্রধান</BondedAnimalMaster.stages.s_master.label>
+  <!-- EN: Being together with my bonded animal makes me feel better. -->
+  <BondedAnimalMaster.stages.s_master.description>আমার বন্ধনযুক্ত প্রাণীর সাথে থাকলে আমি ভালো বোধ করি।</BondedAnimalMaster.stages.s_master.description>
+  <!-- EN: master of {0} -->
+  <BondedAnimalMaster.stages.master_of.label>{0}-এর গুরু</BondedAnimalMaster.stages.master_of.label>
+  <!-- EN: Being together with my bonded animals makes me feel better. -->
+  <BondedAnimalMaster.stages.master_of.description>আমার বন্ধনে আবদ্ধ পশুদের সাথে থাকলে আমি ভালো অনুভব করি।</BondedAnimalMaster.stages.master_of.description>
+  
+  <!-- EN: chemical interest vs teetotaler -->
+  <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>রাসায়নিক আগ্রহ বনাম নিরামিষভোজী</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.stages.creepy_breathing.label>অস্বস্তিকর শ্বাস-প্রশ্বাস</CreepyBreathing.stages.creepy_breathing.label>
+  
+  <!-- EN: disfigured -->
+  <Disfigured.stages.disfigured.label>বিকৃত</Disfigured.stages.disfigured.label>
+  
+  <!-- EN: drunk -->
+  <Drunk.stages.drunk.label>মদগ্রস্ত</Drunk.stages.drunk.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.stages.executed_prisoner.label>বন্দী মৃত্যুদণ্ড</ExecutedPrisoner.stages.executed_prisoner.label>
+  
+  <!-- EN: hard worker vs lazy -->
+  <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>কঠোর শ্রমিক বনাম অলস</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
+  
+  <!-- EN: holding me prisoner -->
+  <HoldingMePrisoner.stages.holding_me_prisoner.label>বন্দী করা হচ্ছে</HoldingMePrisoner.stages.holding_me_prisoner.label>
+  
+  <!-- EN: incestuous -->
+  <Incestuous.stages.incestuous.label>কুদৃষ্টিপূর্ণ</Incestuous.stages.incestuous.label>
+  
+  <!-- EN: killed colonist -->
+  <KilledColonist.stages.killed_colonist.label>নিহত কলোনিস্ট</KilledColonist.stages.killed_colonist.label>
+  
+  <!-- EN: killed colony animal -->
+  <KilledColonyAnimal.stages.killed_colony_animal.label>колоনি পশু হত্যা</KilledColonyAnimal.stages.killed_colony_animal.label>
+  
+  <!-- EN: man -->
+  <Man.stages.man.label>মানুষ</Man.stages.man.label>
+  
+  <!-- EN: not {0}'s master -->
+  <NotBondedAnimalMaster.stages.not_s_master.label>{0}-এর প্রভু নয়</NotBondedAnimalMaster.stages.not_s_master.label>
+  <!-- EN: I should be together with my bonded animal. -->
+  <NotBondedAnimalMaster.stages.not_s_master.description>আমার বন্ধনযুক্ত প্রাণীর সাথে আমার থাকা উচিত।</NotBondedAnimalMaster.stages.not_s_master.description>
+  <!-- EN: not master of {0} -->
+  <NotBondedAnimalMaster.stages.not_master_of.label>{0}-এর অধিকারী নন</NotBondedAnimalMaster.stages.not_master_of.label>
+  <!-- EN: I should be together with my bonded animals. -->
+  <NotBondedAnimalMaster.stages.not_master_of.description>আমার বন্ধনে আবদ্ধ পশুদের সাথে আমার থাকা উচিত।</NotBondedAnimalMaster.stages.not_master_of.description>
+  
+  <!-- EN: opinion of my {0} {1} -->
+  <OpinionOfMyLover.stages.opinion_of_my.label>{0} {1} সম্পর্কে ধারণা</OpinionOfMyLover.stages.opinion_of_my.label>
+  <!-- EN: Being with them makes me feel this way. -->
+  <OpinionOfMyLover.stages.opinion_of_my.description>তাদের সাথে থাকলে আমি এভাবেই অনুভব করি।</OpinionOfMyLover.stages.opinion_of_my.description>
+  
+  <!-- EN: physically appealing -->
+  <Pretty.stages.physically_appealing.label>শারীরিকভাবে আকর্ষণীয়</Pretty.stages.physically_appealing.label>
+  <!-- EN: physically stunning -->
+  <Pretty.stages.physically_stunning.label>শারীরিকভাবে আকর্ষণীয়</Pretty.stages.physically_stunning.label>
+  
+  <!-- EN: sold prisoner to slavery -->
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>দাসত্বের জন্য বন্দী বিক্রি</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  
+  <!-- EN: teetotaler vs addict -->
+  <TeetotalerVsAddict.stages.teetotaler_vs_addict.label>মদ্যপান বনাম আসক্তি</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
+  
+  <!-- EN: teetotaler vs chemical interest -->
+  <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>মদ্যপান বনাম রাসায়নিক আগ্রহ</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
+  
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-0.label>শারীরিক পরিবর্তন উৎসাহ</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-1.label>শারীরিক পরিবর্তনকারী প্রশংসা</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-2.label>শারীরিক পরিবর্তনকারী মূল্যায়ন</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-3.label>শারীরিক পরিবর্তনকারী মূল্যায়ন</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>শারীরিক পরিবর্তনকারী প্রশংসা</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
+  
+  <!-- EN: physically unsightly -->
+  <Ugly.stages.physically_unsightly.label>শারীরিকভাবে কুৎসিত</Ugly.stages.physically_unsightly.label>
+  <!-- EN: physically hideous -->
+  <Ugly.stages.physically_hideous.label>শারীরিকভাবে কুৎসিত</Ugly.stages.physically_hideous.label>
+  
+  <!-- EN: sleeping alone -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>একা ঘুম</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+  <!-- EN: I should be sleeping with a lover or spouse. -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>আমার একজন প্রিয়জন বা জীবনসঙ্গীর সাথে ঘুমানো উচিত।</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
+  
+  <!-- EN: woman -->
+  <Woman.stages.woman.label>নারী</Woman.stages.woman.label>
+  
+</LanguageData>

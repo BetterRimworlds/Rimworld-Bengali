@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal flap -->
+  <AnimalFlap.label>প্রাণী ফ্ল্যাপ</AnimalFlap.label>
+  <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
+  <AnimalFlap.description>ঘনাকার কাপড় বা চামড়ারoverlapping টুকরা দিয়ে ঝুলন্ত একটি দরজা। এটি পশুদের যাতায়াত করার অনুমতি দেয় এবং একই সাথে তাপমাত্রা নিয়ন্ত্রণ করে। পশুদের জন্য আশ্রয়স্থল তৈরি করতে খামারবাড়ির দরজার মতো জায়গায় পশু ফ্ল্যাপগুলি সাধারণত ব্যবহৃত হয়।</AnimalFlap.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoor.label>স্বয়ংক্রিয় দরজা</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <Autodoor.description>ঘরগুলিকে বিভক্ত করে। বিদ্যুতের মাধ্যমে চালিত হওয়ায় মানুষজন দরজা দিয়ে কোনো রকম বেগ ছাড়াই চলাচল করতে পারে।</Autodoor.description>
+  
+  <!-- EN: column -->
+  <Column.label>স্তম্ভ</Column.label>
+  <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
+  <Column.description>ছাদ ধরে রাখার উপযোগী একটি স্তম্ভ। এটি দৃষ্টি বা চলাচলকে বাধা দেয় না এবং দেখতে বেশ সুন্দর।</Column.description>
+  
+  <!-- EN: door -->
+  <Door.label>দরজা</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>ঘরগুলিকে বিভক্ত করে। সাধারণ দরজাগুলি manualmente খুলতে হয়, যা লোকেদের ধীর করে দেয়। ধীরগতির পরিমাণ দরজার উপাদান কী তার উপর নির্ভর করে।</Door.description>
+  
+  <!-- EN: fence -->
+  <Fence.label>বেড়া</Fence.label>
+  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <Fence.description>ক্রসবার দ্বারা যুক্ত পোস্ট দিয়ে তৈরি একটি বেড়া, যা নির্দিষ্ট ধরণের প্রাণীর জন্য ঘেরা তৈরি করতে ব্যবহৃত হয়। কিছু প্রাণী বেড়া পেরোতে পারে। শিকারীরা বেড়ার অন্য পাশে থাকা প্রাণীদের শিকার করবে না, তবে ভেতরে ঘুরে বেড়াতে পারে।</Fence.description>
+  
+  <!-- EN: fence gate -->
+  <FenceGate.label>বেড়া গেট</FenceGate.label>
+  <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
+  <FenceGate.description>এটি খুঁটি এবং ক্রসবার দিয়ে তৈরি একটি সাধারণ গেট। এটি বেড়ার মতো কিছু প্রাণীকে আটকাতে পারে। হ্যান্ডলাররা এই গেট দিয়ে কলম থেকে প্রাণীদের ভেতরে ও বাইরে নিয়ে যেতে পারে।</FenceGate.description>
+  
+  <!-- EN: ornate door -->
+  <OrnateDoor.label>অলঙ্কৃত দরজা</OrnateDoor.label>
+  <!-- EN: Divides rooms. An intricately-carved door, decorated with gold. This large, heavy door requires adjacent walls to function. -->
+  <OrnateDoor.description>ঘরগুলিকে বিভক্ত করে। এটি সোনার অলঙ্করণে সজ্জিত একটি জটিল খোদাই করা দরজা। এই বিশাল, ভারী দরজার কার্যকারিতার জন্য সংলগ্ন দেওয়াল প্রয়োজন।</OrnateDoor.description>
+  
+  <!-- EN: wall -->
+  <Wall.label>দেওয়াল</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
+  <Wall.description>একটি দুর্ভেদ্য প্রাচীর। এটি ছাদ ধরে রাখতে সক্ষম।</Wall.description>
+  
+</LanguageData>

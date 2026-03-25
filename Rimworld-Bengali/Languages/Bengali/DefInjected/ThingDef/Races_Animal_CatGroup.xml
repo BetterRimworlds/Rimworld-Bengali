@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat -->
+  <Cat.label>বিড়াল</Cat.label>
+  <!-- EN: One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their independence, calm disposition, and fine, pettable fur. -->
+  <Cat.description>মানুষের প্রথম দিকের পোষা প্রাণীগুলোর মধ্যে বিড়াল একটি ছোট স্তন্যপায়ী প্রাণী যা ইঁদুর ও অন্যান্য ক্ষতিকর প্রাণী শিকার করে। নিজেদের মধ্যে দূরত্ব বজায় রাখার জন্য পরিচিত হওয়া সত্ত্বেও, বিড়াল তার স্বাধীনতা, শান্ত স্বভাব এবং মসৃণ, আদরযোগ্য লোমের কারণে জনপ্রিয় সঙ্গী।</Cat.description>
+  <!-- EN: left claw -->
+  <Cat.tools.left_claw.label>বাম থাবা</Cat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cat.tools.left_claw.labelNoLocation>নখর</Cat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Cat.tools.right_claw.label>ডান থাবা</Cat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cat.tools.right_claw.labelNoLocation>पंजा</Cat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Cat.tools.head.label>মাথা</Cat.tools.head.label>
+  
+  <!-- EN: guinea pig -->
+  <GuineaPig.label>গিনিপিগ</GuineaPig.label>
+  <!-- EN: Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner. -->
+  <GuineaPig.description>এগুলি শূকর বা গিনি থেকে আসা প্রাণী নয়, বরং এই ছোট ইঁদুরগুলি পোষা প্রাণী এবং সুস্বাদু ভোজ হিসেবে পালিত হয়।</GuineaPig.description>
+  <!-- EN: left claw -->
+  <GuineaPig.tools.left_claw.label>বাম থাবা</GuineaPig.tools.left_claw.label>
+  <!-- EN: claw -->
+  <GuineaPig.tools.left_claw.labelNoLocation>নখর</GuineaPig.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <GuineaPig.tools.right_claw.label>ডান থাবা</GuineaPig.tools.right_claw.label>
+  <!-- EN: claw -->
+  <GuineaPig.tools.right_claw.labelNoLocation>নখর</GuineaPig.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <GuineaPig.tools.head.label>মাথা</GuineaPig.tools.head.label>
+  
+  <!-- EN: husky -->
+  <Husky.label>হাস্কি</Husky.label>
+  <!-- EN: A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments. -->
+  <Husky.description>একটি বৃহৎ, কর্মশক্তিসম্পন্ন কুকুর, যার পুরু পশমের আবরণ আর্কটিক পরিবেশে আরামদায়ক থাকতে সাহায্য করে।</Husky.description>
+  <!-- EN: left claw -->
+  <Husky.tools.left_claw.label>বাম থাবা</Husky.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Husky.tools.left_claw.labelNoLocation>নখর</Husky.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Husky.tools.right_claw.label>ডান থাবা</Husky.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Husky.tools.right_claw.labelNoLocation>নখর</Husky.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Husky.tools.head.label>মাথা</Husky.tools.head.label>
+  
+  <!-- EN: labrador retriever -->
+  <LabradorRetriever.label>ল্যাব্রাডর রিট্রিভার</LabradorRetriever.label>
+  <!-- EN: A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend. -->
+  <LabradorRetriever.description>এটি একটি অত্যন্ত বহুমুখী, মাঝারি আকারের কুকুর। মূলত শিকারের সময় গুলি করা পাখি পুনরুদ্ধারের জন্য প্রজনন করা হলেও, ল্যাবরেডর একটি চমৎকার পাহারাদার কুকুর, খেলার সঙ্গী এবং পরিবারের বন্ধু।</LabradorRetriever.description>
+  <!-- EN: left claw -->
+  <LabradorRetriever.tools.left_claw.label>বাম থাবা</LabradorRetriever.tools.left_claw.label>
+  <!-- EN: claw -->
+  <LabradorRetriever.tools.left_claw.labelNoLocation>নখর</LabradorRetriever.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <LabradorRetriever.tools.right_claw.label>ডান থাবা</LabradorRetriever.tools.right_claw.label>
+  <!-- EN: claw -->
+  <LabradorRetriever.tools.right_claw.labelNoLocation>पंजा</LabradorRetriever.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <LabradorRetriever.tools.head.label>মাথা</LabradorRetriever.tools.head.label>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>বানর</Monkey.label>
+  <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
+  <Monkey.description>ছোট একটি প্রাইমেট, বানর তার পেঁচানো লেজ ব্যবহার করে ডালে আঁকড়ে ধরতে পারে, ফলে অন্য কাজ করার জন্য তার হাত খালি থাকে। বানরেরা স্বার্থপর কিন্তু বুদ্ধিমান, এবং এদের বেশ জটিল কাজগুলি করার জন্য প্রশিক্ষণ দেওয়া যেতে পারে।</Monkey.description>
+  <!-- EN: left fist -->
+  <Monkey.tools.left_fist.label>বাম মুষ্টি</Monkey.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Monkey.tools.left_fist.labelNoLocation>মুষ্টি</Monkey.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Monkey.tools.right_fist.label>ডান মুষ্টি</Monkey.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Monkey.tools.right_fist.labelNoLocation>মুষ্টিবদ্ধ হাত</Monkey.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Monkey.tools.head.label>মাথা</Monkey.tools.head.label>
+  
+  <!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>यॉर्कশায়ার টেরিয়ার</YorkshireTerrier.label>
+  <!-- EN: A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweigh the cost of feeding it. -->
+  <YorkshireTerrier.description>এটি একটি ছোট, শান্ত স্বভাবের কুকুর। মূলত ইঁদুর শিকারের জন্য প্রজনন করা হলেও, পরবর্তীতে এটি প্রদর্শনী এবং সঙ্গী হিসেবে পরিচিতি লাভ করে। কেউ কেউ একে অপ্রয়োজনীয় মনে করেন, তবে এটি আদর করে গা ঘেঁষে ধরলে যে মানসিক আনন্দ পাওয়া যায়, তা এর খাদ্য খরচকে ছাপিয়ে যেতে পারে।</YorkshireTerrier.description>
+  <!-- EN: left claw -->
+  <YorkshireTerrier.tools.left_claw.label>বাম থাবা</YorkshireTerrier.tools.left_claw.label>
+  <!-- EN: claw -->
+  <YorkshireTerrier.tools.left_claw.labelNoLocation>নখর</YorkshireTerrier.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <YorkshireTerrier.tools.right_claw.label>ডান থাবা</YorkshireTerrier.tools.right_claw.label>
+  <!-- EN: claw -->
+  <YorkshireTerrier.tools.right_claw.labelNoLocation>নখর</YorkshireTerrier.tools.right_claw.labelNoLocation>
+  <!-- EN: cute little teeth -->
+  <YorkshireTerrier.tools.cute_little_teeth.label>ছোট দাঁত</YorkshireTerrier.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <YorkshireTerrier.tools.head.label>মাথা</YorkshireTerrier.tools.head.label>
+  
+</LanguageData>

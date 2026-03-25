@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced -->
+  <Advanced.label>উন্নত</Advanced.label>
+  
+  <!-- EN: intermediate -->
+  <Intermediate.label>মধ্যবর্তী</Intermediate.label>
+  
+  <!-- EN: none -->
+  <None.label>কিছুই না</None.label>
+  
+</LanguageData>

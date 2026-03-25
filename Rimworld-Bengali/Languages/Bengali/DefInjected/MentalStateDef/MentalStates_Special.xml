@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aggression judgement scramble -->
+  <BerserkMechanoid.label>আক্রমণাত্মক বিচার বিভ্রান্তি</BerserkMechanoid.label>
+  <!-- EN: Aggression judgment scrambled -->
+  <BerserkMechanoid.baseInspectLine>আক্রমণাত্মক বিচার এলোমেলো</BerserkMechanoid.baseInspectLine>
+  
+  <!-- EN: cocoon disturbed -->
+  <CocoonDisturbed.label>কোকুন বিক্ষিপ্ত</CocoonDisturbed.label>
+  <!-- EN: Enraged: Cocoon disturbed -->
+  <CocoonDisturbed.baseInspectLine>ক্ষিপ্ত: কোকুন বিক্ষিপ্ত</CocoonDisturbed.baseInspectLine>
+  
+  <!-- EN: manhunter -->
+  <Manhunter.label>মানুষ শিকারী</Manhunter.label>
+  <!-- EN: Maddened: Manhunter -->
+  <Manhunter.baseInspectLine>মানসিক অবসাদ: মানুষ শিকারী</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetter>{0} একজন মানুষ শিকারীতে পরিণত হয়েছে!</Manhunter.beginLetter><!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetterLabel>{0} একজন মানুষ শিকারী হয়েছে!</Manhunter.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <Manhunter.recoveryMessage>{0}-এর মানুষ শিকারের রক্তপিপাসা শেষ হয়েছে।</Manhunter.recoveryMessage>
+  
+  <!-- EN: manhunter -->
+  <ManhunterPermanent.label>মানুষ শিকারী</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>মানসিক অবসাদ: মানুষ শিকারী</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetter>{0} একজন মানুষ শিকারীতে পরিণত হয়েছে!</ManhunterPermanent.beginLetter><!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetterLabel>: {0} একজন মানুষ শিকারী হয়েছে!</ManhunterPermanent.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterPermanent.recoveryMessage>{0}-এর রক্তপিপাসা-চালিত শিকার শেষ হয়েছে।</ManhunterPermanent.recoveryMessage>
+  
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>আতঙ্কিত পলায়ন</PanicFlee.label>
+  <!-- EN: Mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>মানসিক অবস্থা: আতঙ্কিত হয়ে পালানো।</PanicFlee.baseInspectLine>
+  <!-- EN: {0} is fleeing in panic. -->
+  <PanicFlee.beginLetter>{0} আতঙ্কিত হয়ে পালাচ্ছে।</PanicFlee.beginLetter>
+  <!-- EN: flee -->
+  <PanicFlee.beginLetterLabel>পালানো</PanicFlee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in panic. -->
+  <PanicFlee.recoveryMessage>{0} আর আতঙ্কিত হয়ে পালানোর চেষ্টা করছে না।</PanicFlee.recoveryMessage>
+  
+  <!-- EN: roaming -->
+  <Roaming.label>বিচরণ</Roaming.label>
+  <!-- EN: Mental state: Roaming -->
+  <Roaming.baseInspectLine>মানসিক অবস্থা: ঘুরে বেড়ানো</Roaming.baseInspectLine>
+  
+  <!-- EN: social fighting -->
+  <SocialFighting.label>সামাজিক সংঘাত</SocialFighting.label>
+  <!-- EN: Mental state: Social fighting -->
+  <SocialFighting.baseInspectLine>মানসিক অবস্থা: সামাজিক সংঘর্ষ।</SocialFighting.baseInspectLine>
+  
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>বিচলিত বিচরণ</WanderConfused.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>মানসিক অবস্থা: বিভ্রান্ত এবং ঘুরে বেড়াচ্ছে।</WanderConfused.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around confused. -->
+  <WanderConfused.beginLetter>{0} ভেঙে পড়েছে এবং বিভ্রান্ত হয়ে ঘুরে বেড়াচ্ছে।</WanderConfused.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfused.beginLetterLabel>বিভ্রান্তি</WanderConfused.beginLetterLabel>
+  <!-- EN: {0} is no longer confused. -->
+  <WanderConfused.recoveryMessage>{0} আর বিভ্রান্ত নয়।</WanderConfused.recoveryMessage>
+  
+</LanguageData>

@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bison --><!-- EN: bisonte -->
+  <Bison.label>বিসোনটে</Bison.label>
+  <!-- EN: bison --><!-- EN: bisontes -->
+  <Bison.labelPlural>বিসোনটেস</Bison.labelPlural>
+  <!-- EN: bison calf --><!-- EN: ternero de bisonte -->
+  <Bison.lifeStages.bison_calf.label>বাইসন বাছুরের বাচ্চা</Bison.lifeStages.bison_calf.label><!-- EN: ternera de bisonte -->
+  <Bison.lifeStages.bison_calf.labelFemale>বাইসনটের বাছুরের মাংস</Bison.lifeStages.bison_calf.labelFemale><!-- EN: terneras de bisonte -->
+  <Bison.lifeStages.bison_calf.labelFemalePlural>বাইসন বাছুরের দল</Bison.lifeStages.bison_calf.labelFemalePlural><!-- EN: ternero de bisonte -->
+  <Bison.lifeStages.bison_calf.labelMale>বাইসন টেরনেরো</Bison.lifeStages.bison_calf.labelMale><!-- EN: terneros de bisonte -->
+  <Bison.lifeStages.bison_calf.labelMalePlural>বাইসন টেরনেরো</Bison.lifeStages.bison_calf.labelMalePlural>
+  <!-- EN: bison calves --><!-- EN: terneros de bisontes -->
+  <Bison.lifeStages.bison_calf.labelPlural>বাইসন বাছুরের দল</Bison.lifeStages.bison_calf.labelPlural><!-- EN: novillo de bisonte -->
+  <Bison.lifeStages.1.label>বাইসন নবিলো</Bison.lifeStages.1.label><!-- EN: novilla de bisonte -->
+  <Bison.lifeStages.1.labelFemale>বাইসন নোভিলা</Bison.lifeStages.1.labelFemale><!-- EN: novillas de bisonte -->
+  <Bison.lifeStages.1.labelFemalePlural>বাইসনট নোভিলাস</Bison.lifeStages.1.labelFemalePlural><!-- EN: novillo de bisonte -->
+  <Bison.lifeStages.1.labelMale>বিসনটোর নবিলো</Bison.lifeStages.1.labelMale><!-- EN: novillos de bisonte -->
+  <Bison.lifeStages.1.labelMalePlural>বিসনটেল নবিলো</Bison.lifeStages.1.labelMalePlural><!-- EN: novillos de bisonte -->
+  <Bison.lifeStages.1.labelPlural>বিসোনটে নভিলো</Bison.lifeStages.1.labelPlural><!-- EN: bisonte -->
+  <Bison.lifeStages.2.label>বাইসন্তে</Bison.lifeStages.2.label><!-- EN: bisontes -->
+  <Bison.lifeStages.2.labelPlural>বিসোনটেস</Bison.lifeStages.2.labelPlural>
+  
+  <!-- EN: boomalope --><!-- EN: bumalope -->
+  <Boomalope.label>বুমালাপ</Boomalope.label><!-- EN: bumalopes -->
+  <Boomalope.labelPlural>বুমালাপস</Boomalope.labelPlural>
+  <!-- EN: boomalope calf --><!-- EN: cría de bumalope -->
+  <Boomalope.lifeStages.boomalope_calf.label>বুমালাপে বাচ্চা</Boomalope.lifeStages.boomalope_calf.label>
+  <!-- EN: boomalope calves --><!-- EN: crías de bumalope -->
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>বুমালাপে বাচ্চা</Boomalope.lifeStages.boomalope_calf.labelPlural><!-- EN: bumalope joven -->
+  <Boomalope.lifeStages.1.label>বুমালাপ অল্পবয়সী</Boomalope.lifeStages.1.label><!-- EN: bumalope jóvenes -->
+  <Boomalope.lifeStages.1.labelPlural>বুমালাপ অল্পবয়স্ক</Boomalope.lifeStages.1.labelPlural><!-- EN: bumalope -->
+  <Boomalope.lifeStages.2.label>বুমালাপ</Boomalope.lifeStages.2.label><!-- EN: bumalopes -->
+  <Boomalope.lifeStages.2.labelPlural>বুমালাপস</Boomalope.lifeStages.2.labelPlural>
+  
+  <!-- EN: caribou --><!-- EN: caribú -->
+  <Caribou.label>কেরিবু</Caribou.label>
+  <!-- EN: caribou --><!-- EN: caribúes -->
+  <Caribou.labelPlural>কারিবু</Caribou.labelPlural>
+  <!-- EN: caribou calf --><!-- EN: cría de caribú -->
+  <Caribou.lifeStages.caribou_calf.label>ক্যারিibou শাবক</Caribou.lifeStages.caribou_calf.label>
+  <!-- EN: caribou calves --><!-- EN: crías de caribú -->
+  <Caribou.lifeStages.caribou_calf.labelPlural>ক্যারিibou শাবক</Caribou.lifeStages.caribou_calf.labelPlural><!-- EN: caribú joven -->
+  <Caribou.lifeStages.1.label>কেরিবু শাবক</Caribou.lifeStages.1.label><!-- EN: caribúes jóvenes -->
+  <Caribou.lifeStages.1.labelPlural>কারিবু অল্পবয়সী</Caribou.lifeStages.1.labelPlural><!-- EN: caribú -->
+  <Caribou.lifeStages.2.label>কেরিবু</Caribou.lifeStages.2.label><!-- EN: caribúes -->
+  <Caribou.lifeStages.2.labelPlural>কারিবু</Caribou.lifeStages.2.labelPlural>
+  
+  <!-- EN: cow --><!-- EN: vaca -->
+  <Cow.label>ভাকা</Cow.label><!-- EN: vaca -->
+  <Cow.labelFemale>ভাকা</Cow.labelFemale><!-- EN: vacas -->
+  <Cow.labelFemalePlural>ভাকাস</Cow.labelFemalePlural>
+  <!-- EN: bull --><!-- EN: toro -->
+  <Cow.labelMale>টোরো</Cow.labelMale><!-- EN: toros -->
+  <Cow.labelMalePlural>তোрос-এর জীবনচক্র</Cow.labelMalePlural><!-- EN: vacas -->
+  <Cow.labelPlural>ভাকাস</Cow.labelPlural>
+  <!-- EN: calf --><!-- EN: ternero -->
+  <Cow.lifeStages.calf.label>টারনেরো</Cow.lifeStages.calf.label><!-- EN: ternera -->
+  <Cow.lifeStages.calf.labelFemale>টার্নেরা</Cow.lifeStages.calf.labelFemale><!-- EN: terneras -->
+  <Cow.lifeStages.calf.labelFemalePlural>টারনারাস</Cow.lifeStages.calf.labelFemalePlural><!-- EN: ternero -->
+  <Cow.lifeStages.calf.labelMale>টারনেরো</Cow.lifeStages.calf.labelMale><!-- EN: terneros -->
+  <Cow.lifeStages.calf.labelMalePlural>টারনেরোস</Cow.lifeStages.calf.labelMalePlural>
+  <!-- EN: calves --><!-- EN: terneros -->
+  <Cow.lifeStages.calf.labelPlural>টারনেরোস</Cow.lifeStages.calf.labelPlural><!-- EN: novillo -->
+  <Cow.lifeStages.1.label>নোভিলো</Cow.lifeStages.1.label><!-- EN: novilla -->
+  <Cow.lifeStages.1.labelFemale>নোভিলা</Cow.lifeStages.1.labelFemale><!-- EN: novillas -->
+  <Cow.lifeStages.1.labelFemalePlural>নোভিলাস</Cow.lifeStages.1.labelFemalePlural><!-- EN: novillo -->
+  <Cow.lifeStages.1.labelMale>নোভিলো</Cow.lifeStages.1.labelMale><!-- EN: novillos -->
+  <Cow.lifeStages.1.labelMalePlural>নোভিলোস</Cow.lifeStages.1.labelMalePlural><!-- EN: novillos -->
+  <Cow.lifeStages.1.labelPlural>নোভিলোস</Cow.lifeStages.1.labelPlural><!-- EN: vaca -->
+  <Cow.lifeStages.2.label>ভাকা</Cow.lifeStages.2.label><!-- EN: vaca -->
+  <Cow.lifeStages.2.labelFemale>ভাকা</Cow.lifeStages.2.labelFemale><!-- EN: vacas -->
+  <Cow.lifeStages.2.labelFemalePlural>ভাকাস</Cow.lifeStages.2.labelFemalePlural><!-- EN: toro -->
+  <Cow.lifeStages.2.labelMale>টোরো</Cow.lifeStages.2.labelMale><!-- EN: toros -->
+  <Cow.lifeStages.2.labelMalePlural>টোরোস</Cow.lifeStages.2.labelMalePlural><!-- EN: vacas -->
+  <Cow.lifeStages.2.labelPlural>ভাকাস</Cow.lifeStages.2.labelPlural>
+  
+  <!-- EN: donkey --><!-- EN: asno -->
+  <Donkey.label>আসনো</Donkey.label><!-- EN: asna -->
+  <Donkey.labelFemale>আসনা</Donkey.labelFemale><!-- EN: asnas -->
+  <Donkey.labelFemalePlural>আসনাশ</Donkey.labelFemalePlural><!-- EN: asno -->
+  <Donkey.labelMale>জীবনের পর্যায় ও প্রজাতি</Donkey.labelMale><!-- EN: asnos -->
+  <Donkey.labelMalePlural>আসনোস</Donkey.labelMalePlural><!-- EN: asnos -->
+  <Donkey.labelPlural>আসনোস</Donkey.labelPlural>
+  <!-- EN: donkey foal --><!-- EN: potrillo de asno -->
+  <Donkey.lifeStages.donkey_foal.label>গাধার বাচ্চা</Donkey.lifeStages.donkey_foal.label><!-- EN: potrilla de asno -->
+  <Donkey.lifeStages.donkey_foal.labelFemale>পোত্রিলা দে আসনো</Donkey.lifeStages.donkey_foal.labelFemale><!-- EN: potrillas de asno -->
+  <Donkey.lifeStages.donkey_foal.labelFemalePlural>পোত্রিয়াস দে আসনো</Donkey.lifeStages.donkey_foal.labelFemalePlural><!-- EN: potrillo de asno -->
+  <Donkey.lifeStages.donkey_foal.labelMale>পোত্রিলো দে আসনো</Donkey.lifeStages.donkey_foal.labelMale><!-- EN: potrillos de asno -->
+  <Donkey.lifeStages.donkey_foal.labelMalePlural>পোত্রিলো দে আসনো</Donkey.lifeStages.donkey_foal.labelMalePlural><!-- EN: potrillos de asno -->
+  <Donkey.lifeStages.donkey_foal.labelPlural>পোত্রিলো দে আসনো</Donkey.lifeStages.donkey_foal.labelPlural><!-- EN: asno joven -->
+  <Donkey.lifeStages.1.label>আসনো ইয়োভেন</Donkey.lifeStages.1.label><!-- EN: asna joven -->
+  <Donkey.lifeStages.1.labelFemale>আসনা অল্পবয়স্ক</Donkey.lifeStages.1.labelFemale><!-- EN: asnas jóvenes -->
+  <Donkey.lifeStages.1.labelFemalePlural>আসনাস অল্পবয়স্ক</Donkey.lifeStages.1.labelFemalePlural><!-- EN: asno joven -->
+  <Donkey.lifeStages.1.labelMale>আসনো ইয়োভেন</Donkey.lifeStages.1.labelMale><!-- EN: asnos jóvenes -->
+  <Donkey.lifeStages.1.labelMalePlural>আসনোস অল্পবয়সী</Donkey.lifeStages.1.labelMalePlural><!-- EN: asnos jóvenes -->
+  <Donkey.lifeStages.1.labelPlural>আসনোস অল্পবয়সী</Donkey.lifeStages.1.labelPlural><!-- EN: asno -->
+  <Donkey.lifeStages.2.label>আসনো</Donkey.lifeStages.2.label><!-- EN: asna -->
+  <Donkey.lifeStages.2.labelFemale>আসনা</Donkey.lifeStages.2.labelFemale><!-- EN: asnas -->
+  <Donkey.lifeStages.2.labelFemalePlural>আসনাশ</Donkey.lifeStages.2.labelFemalePlural><!-- EN: asno -->
+  <Donkey.lifeStages.2.labelMale>জীবনের পর্যায় ও প্রজাতি</Donkey.lifeStages.2.labelMale><!-- EN: asnos -->
+  <Donkey.lifeStages.2.labelMalePlural>আসনোস</Donkey.lifeStages.2.labelMalePlural><!-- EN: asnos -->
+  <Donkey.lifeStages.2.labelPlural>আসনোস</Donkey.lifeStages.2.labelPlural>
+  
+  <!-- EN: dromedary --><!-- EN: dromedario -->
+  <Dromedary.label>দ্রোমেদারিও</Dromedary.label>
+  <!-- EN: dromedaries --><!-- EN: dromedarios -->
+  <Dromedary.labelPlural>ড্রোমেদারিওস</Dromedary.labelPlural>
+  <!-- EN: dromedary calf --><!-- EN: cría de dromedario -->
+  <Dromedary.lifeStages.dromedary_calf.label>উট শাবক</Dromedary.lifeStages.dromedary_calf.label>
+  <!-- EN: dromedary calves --><!-- EN: crías de dromedario -->
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>ড্রোমেডারি শাবক</Dromedary.lifeStages.dromedary_calf.labelPlural><!-- EN: dromedario joven -->
+  <Dromedary.lifeStages.1.label>তরুণ ড্রোমেদারিও</Dromedary.lifeStages.1.label><!-- EN: dromedarios jóvenes -->
+  <Dromedary.lifeStages.1.labelPlural>ড্রোমেদারিওস অল্পবয়স্ক</Dromedary.lifeStages.1.labelPlural><!-- EN: dromedario -->
+  <Dromedary.lifeStages.2.label>দ্রোমেডারিয়ো</Dromedary.lifeStages.2.label><!-- EN: dromedarios -->
+  <Dromedary.lifeStages.2.labelPlural>ড্রোমেদারিওস</Dromedary.lifeStages.2.labelPlural>
+  
+  <!-- EN: elephant --><!-- EN: elefante -->
+  <Elephant.label>এলefান্তে</Elephant.label><!-- EN: elefantes -->
+  <Elephant.labelPlural>এলefান্তেস</Elephant.labelPlural>
+  <!-- EN: elephant calf --><!-- EN: cría de elefante -->
+  <Elephant.lifeStages.elephant_calf.label>হাতির বাচ্চা</Elephant.lifeStages.elephant_calf.label><!-- EN: crías de elefante -->
+  <Elephant.lifeStages.elephant_calf.labelPlural>হাতির শাবক</Elephant.lifeStages.elephant_calf.labelPlural><!-- EN: elefante joven -->
+  <Elephant.lifeStages.1.label>তরুণ এলিফ্যান্টে</Elephant.lifeStages.1.label><!-- EN: elefantes jóvenes -->
+  <Elephant.lifeStages.1.labelPlural>তরুণ এলিফ্যান্টেস</Elephant.lifeStages.1.labelPlural><!-- EN: elefante -->
+  <Elephant.lifeStages.2.label>এলefান্তে</Elephant.lifeStages.2.label><!-- EN: elefantes -->
+  <Elephant.lifeStages.2.labelPlural>হাতিসমূহ</Elephant.lifeStages.2.labelPlural>
+  
+  <!-- EN: elk --><!-- EN: uapití -->
+  <Elk.label>উাপিতী</Elk.label>
+  <!-- EN: elk --><!-- EN: uapitíes -->
+  <Elk.labelPlural>উাপিতিস</Elk.labelPlural>
+  <!-- EN: elk calf --><!-- EN: cría de uapití -->
+  <Elk.lifeStages.elk_calf.label>ওয়াপিতি শাবক</Elk.lifeStages.elk_calf.label>
+  <!-- EN: elk calves --><!-- EN: crías de uapití -->
+  <Elk.lifeStages.elk_calf.labelPlural>ওয়াপিতি শাবক</Elk.lifeStages.elk_calf.labelPlural><!-- EN: uapití joven -->
+  <Elk.lifeStages.1.label>উাপিতী অল্পবয়সী</Elk.lifeStages.1.label><!-- EN: uapitíes jóvenes -->
+  <Elk.lifeStages.1.labelPlural>উাপিতিস অল্পবয়সী</Elk.lifeStages.1.labelPlural><!-- EN: uapití -->
+  <Elk.lifeStages.2.label>উাপিতী</Elk.lifeStages.2.label><!-- EN: uapitíes -->
+  <Elk.lifeStages.2.labelPlural>উাপিতিস</Elk.lifeStages.2.labelPlural>
+  
+  <!-- EN: goat --><!-- EN: cabra -->
+  <Goat.label>ক্যাব্রা</Goat.label>
+  <!-- EN: goat doe --><!-- EN: cabra -->
+  <Goat.labelFemale>ক্যাব্রা</Goat.labelFemale><!-- EN: cabras -->
+  <Goat.labelFemalePlural>ক্যাব্রাস</Goat.labelFemalePlural><!-- EN: cabrito -->
+  <Goat.labelMale>ক্যাব্রিটো</Goat.labelMale><!-- EN: cabritos -->
+  <Goat.labelMalePlural>ক্যাব্রিটোস</Goat.labelMalePlural><!-- EN: cabras -->
+  <Goat.labelPlural>ক্যাব্রাস</Goat.labelPlural>
+  <!-- EN: baby goat --><!-- EN: cría de cabra -->
+  <Goat.lifeStages.baby_goat.label>ছাগলের বাচ্চা</Goat.lifeStages.baby_goat.label><!-- EN: crías de cabra -->
+  <Goat.lifeStages.baby_goat.labelPlural>ছাগলের বাচ্চা</Goat.lifeStages.baby_goat.labelPlural><!-- EN: cabra joven -->
+  <Goat.lifeStages.1.label>তরুণ ক্যাবরা</Goat.lifeStages.1.label><!-- EN: cabra joven -->
+  <Goat.lifeStages.1.labelFemale>ক্যাব্রা ইয়ং</Goat.lifeStages.1.labelFemale><!-- EN: cabras jóvenes -->
+  <Goat.lifeStages.1.labelFemalePlural>তরুণী কাব্রা</Goat.lifeStages.1.labelFemalePlural><!-- EN: cabrito joven -->
+  <Goat.lifeStages.1.labelMale>ক্যাব্রিটো ইয়ং</Goat.lifeStages.1.labelMale><!-- EN: cabritos jóvenes -->
+  <Goat.lifeStages.1.labelMalePlural>ক্যাব্রিটোস অল্পবয়সী</Goat.lifeStages.1.labelMalePlural><!-- EN: cabras jóvenes -->
+  <Goat.lifeStages.1.labelPlural>ক্যাব্রাস অল্পবয়সী</Goat.lifeStages.1.labelPlural><!-- EN: cabra -->
+  <Goat.lifeStages.2.label>ক্যাব্রা</Goat.lifeStages.2.label><!-- EN: cabra -->
+  <Goat.lifeStages.2.labelFemale>ক্যাব্রা</Goat.lifeStages.2.labelFemale><!-- EN: cabras -->
+  <Goat.lifeStages.2.labelFemalePlural>ক্যাব্রাস</Goat.lifeStages.2.labelFemalePlural><!-- EN: cabrito -->
+  <Goat.lifeStages.2.labelMale>ক্যাব্রিটো</Goat.lifeStages.2.labelMale><!-- EN: cabritos -->
+  <Goat.lifeStages.2.labelMalePlural>ক্যাব্রিটোস</Goat.lifeStages.2.labelMalePlural><!-- EN: cabras -->
+  <Goat.lifeStages.2.labelPlural>ক্যাব্রাস</Goat.lifeStages.2.labelPlural>
+  
+  <!-- EN: horse --><!-- EN: caballo -->
+  <Horse.label>ক্যাবাallo</Horse.label>
+  <!-- EN: mare --><!-- EN: yegua -->
+  <Horse.labelFemale>ইয়েগুয়া</Horse.labelFemale><!-- EN: yeguas -->
+  <Horse.labelFemalePlural>ইয়েগুয়াস</Horse.labelFemalePlural>
+  <!-- EN: stallion --><!-- EN: semental -->
+  <Horse.labelMale>সেমেন্টাল</Horse.labelMale><!-- EN: sementales -->
+  <Horse.labelMalePlural>সেমেন্টালেস</Horse.labelMalePlural><!-- EN: caballos -->
+  <Horse.labelPlural>ক্যাবাযোস</Horse.labelPlural>
+  <!-- EN: foal --><!-- EN: potro -->
+  <Horse.lifeStages.foal.label>বাছুর</Horse.lifeStages.foal.label><!-- EN: potra -->
+  <Horse.lifeStages.foal.labelFemale>পোত্রা</Horse.lifeStages.foal.labelFemale><!-- EN: potras -->
+  <Horse.lifeStages.foal.labelFemalePlural>পোত্রাস</Horse.lifeStages.foal.labelFemalePlural><!-- EN: potro -->
+  <Horse.lifeStages.foal.labelMale>বাচ্চা রিমওয়ার্ল্ড প্রাণী</Horse.lifeStages.foal.labelMale><!-- EN: potros -->
+  <Horse.lifeStages.foal.labelMalePlural>পোট্রোস</Horse.lifeStages.foal.labelMalePlural><!-- EN: potros -->
+  <Horse.lifeStages.foal.labelPlural>পোট্রোস</Horse.lifeStages.foal.labelPlural><!-- EN: caballo joven -->
+  <Horse.lifeStages.1.label>ক্যাবাallo অল্পবয়স্ক</Horse.lifeStages.1.label><!-- EN: yegua joven -->
+  <Horse.lifeStages.1.labelFemale>ইয়েগুয়া অল্পবয়স্ক</Horse.lifeStages.1.labelFemale><!-- EN: yeguas jóvenes -->
+  <Horse.lifeStages.1.labelFemalePlural>তরুণী ইয়েগুয়াস</Horse.lifeStages.1.labelFemalePlural><!-- EN: semental joven -->
+  <Horse.lifeStages.1.labelMale>সেমেন্টাল ইয়ং</Horse.lifeStages.1.labelMale><!-- EN: sementales jóvenes -->
+  <Horse.lifeStages.1.labelMalePlural>তরুণ সেমেন্টালস</Horse.lifeStages.1.labelMalePlural><!-- EN: caballos jóvenes -->
+  <Horse.lifeStages.1.labelPlural>তরুণ ক্যাballোস</Horse.lifeStages.1.labelPlural><!-- EN: caballo -->
+  <Horse.lifeStages.2.label>ক্যাবাallo</Horse.lifeStages.2.label><!-- EN: yegua -->
+  <Horse.lifeStages.2.labelFemale>ইয়েগুয়া</Horse.lifeStages.2.labelFemale><!-- EN: yeguas -->
+  <Horse.lifeStages.2.labelFemalePlural>ইয়েগুয়াস</Horse.lifeStages.2.labelFemalePlural><!-- EN: semental -->
+  <Horse.lifeStages.2.labelMale>সেমেন্টাল</Horse.lifeStages.2.labelMale><!-- EN: sementales -->
+  <Horse.lifeStages.2.labelMalePlural>সেমেন্টালেস</Horse.lifeStages.2.labelMalePlural><!-- EN: caballos -->
+  <Horse.lifeStages.2.labelPlural>ক্যাballোস</Horse.lifeStages.2.labelPlural>
+  
+  <!-- EN: muffalo --><!-- EN: múfalo -->
+  <Muffalo.label>মুফালো</Muffalo.label><!-- EN: múfalo -->
+  <Muffalo.labelFemale>মুফালো</Muffalo.labelFemale><!-- EN: múfalos -->
+  <Muffalo.labelFemalePlural>মুফালোস</Muffalo.labelFemalePlural><!-- EN: múfalo -->
+  <Muffalo.labelMale>মুফালো</Muffalo.labelMale><!-- EN: múfalos -->
+  <Muffalo.labelMalePlural>মুফালোস</Muffalo.labelMalePlural>
+  <!-- EN: muffalo --><!-- EN: múfalos -->
+  <Muffalo.labelPlural>মুফালোস</Muffalo.labelPlural>
+  <!-- EN: muffalo calf --><!-- EN: ternero de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.label>মুফালো বাছুর</Muffalo.lifeStages.muffalo_calf.label><!-- EN: ternera de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelFemale>মুফালো বাছুরের বাচ্চা</Muffalo.lifeStages.muffalo_calf.labelFemale><!-- EN: terneras de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>মুফালো বাছুর</Muffalo.lifeStages.muffalo_calf.labelFemalePlural><!-- EN: ternero de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelMale>মুফালো বাছুর</Muffalo.lifeStages.muffalo_calf.labelMale><!-- EN: terneros de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>মুফালো বাছুর</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
+  <!-- EN: muffalo calves --><!-- EN: terneros de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>মুফালো বাছুর</Muffalo.lifeStages.muffalo_calf.labelPlural><!-- EN: novillo de múfalo -->
+  <Muffalo.lifeStages.1.label>মুফালো বাছুর</Muffalo.lifeStages.1.label><!-- EN: novilla de múfalo -->
+  <Muffalo.lifeStages.1.labelFemale>মুফালো বাছুরের বাচ্চা</Muffalo.lifeStages.1.labelFemale><!-- EN: novillas de múfalo -->
+  <Muffalo.lifeStages.1.labelFemalePlural>মুফালো বাছুর</Muffalo.lifeStages.1.labelFemalePlural><!-- EN: novillo de múfalo -->
+  <Muffalo.lifeStages.1.labelMale>মুফালো বাছুর</Muffalo.lifeStages.1.labelMale><!-- EN: novillos de múfalo -->
+  <Muffalo.lifeStages.1.labelMalePlural>মুফালো নভিলোস</Muffalo.lifeStages.1.labelMalePlural><!-- EN: novillos de múfalo -->
+  <Muffalo.lifeStages.1.labelPlural>মুফালো ষাঁড়ছানা</Muffalo.lifeStages.1.labelPlural><!-- EN: múfalo -->
+  <Muffalo.lifeStages.2.label>মুফালো</Muffalo.lifeStages.2.label><!-- EN: múfalos -->
+  <Muffalo.lifeStages.2.labelPlural>মুফালোস</Muffalo.lifeStages.2.labelPlural>
+  
+  <!-- EN: rhinoceros --><!-- EN: rinoceronte -->
+  <Rhinoceros.label>রাইনোসেরোস</Rhinoceros.label>
+  <!-- EN: rhinoceroses --><!-- EN: rinocerontes -->
+  <Rhinoceros.labelPlural>রাইনোসেরোস</Rhinoceros.labelPlural><!-- EN: cría de rinoceronte -->
+  <Rhinoceros.lifeStages.0.label>রাইনো বাছুর প্রজনন</Rhinoceros.lifeStages.0.label><!-- EN: crías de rinoceronte -->
+  <Rhinoceros.lifeStages.0.labelPlural>রাইনো শাবক</Rhinoceros.lifeStages.0.labelPlural><!-- EN: rinoceronte joven -->
+  <Rhinoceros.lifeStages.1.label>রিনোসেরোন্টে ইয়োভেন</Rhinoceros.lifeStages.1.label><!-- EN: rinocerontes jóvenes -->
+  <Rhinoceros.lifeStages.1.labelPlural>রিনোসেরোস তরুণ</Rhinoceros.lifeStages.1.labelPlural><!-- EN: rinoceronte -->
+  <Rhinoceros.lifeStages.2.label>রাইনোসেরোস</Rhinoceros.lifeStages.2.label><!-- EN: rinocerontes -->
+  <Rhinoceros.lifeStages.2.labelPlural>রাইনোসেরোস</Rhinoceros.lifeStages.2.labelPlural>
+  
+  <!-- EN: yak --><!-- EN: yak -->
+  <Yak.label>ইয়াক</Yak.label>
+  <!-- EN: yak --><!-- EN: yak -->
+  <Yak.labelMale>ইয়াক</Yak.labelMale><!-- EN: yaks -->
+  <Yak.labelPlural>ইয়াক</Yak.labelPlural>
+  <!-- EN: yak calf --><!-- EN: ternero de yak -->
+  <Yak.lifeStages.yak_calf.label>ইয়াক বাছুরের বাচ্চা</Yak.lifeStages.yak_calf.label><!-- EN: ternera de yak -->
+  <Yak.lifeStages.yak_calf.labelFemale>ইয়াক বাছুরের বাচ্চা</Yak.lifeStages.yak_calf.labelFemale><!-- EN: terneras de yak -->
+  <Yak.lifeStages.yak_calf.labelFemalePlural>ইয়াক টার্নেরাস</Yak.lifeStages.yak_calf.labelFemalePlural><!-- EN: ternero de yak -->
+  <Yak.lifeStages.yak_calf.labelMale>ইয়াক টার্নেরো</Yak.lifeStages.yak_calf.labelMale><!-- EN: terneros de yak -->
+  <Yak.lifeStages.yak_calf.labelMalePlural>ইয়াক টার্নেরো</Yak.lifeStages.yak_calf.labelMalePlural>
+  <!-- EN: yak calves --><!-- EN: terneros de yak -->
+  <Yak.lifeStages.yak_calf.labelPlural>ইয়াক টার্নেরো</Yak.lifeStages.yak_calf.labelPlural><!-- EN: novillo de yak -->
+  <Yak.lifeStages.1.label>ইয়াক বাছুর</Yak.lifeStages.1.label><!-- EN: novilla de yak -->
+  <Yak.lifeStages.1.labelFemale>ইয়াক নোভিলা</Yak.lifeStages.1.labelFemale><!-- EN: novillas de yak -->
+  <Yak.lifeStages.1.labelFemalePlural>ইয়াক নোভিলাস</Yak.lifeStages.1.labelFemalePlural><!-- EN: novillo de yak -->
+  <Yak.lifeStages.1.labelMale>ইয়াক নভিলো</Yak.lifeStages.1.labelMale><!-- EN: novillos de yak -->
+  <Yak.lifeStages.1.labelMalePlural>ইয়াক নভিলো</Yak.lifeStages.1.labelMalePlural><!-- EN: novillos de yak -->
+  <Yak.lifeStages.1.labelPlural>ইয়াক নভিলো</Yak.lifeStages.1.labelPlural><!-- EN: yak -->
+  <Yak.lifeStages.2.label>ইয়াক</Yak.lifeStages.2.label><!-- EN: yaks -->
+  <Yak.lifeStages.2.labelPlural>ইয়াক</Yak.lifeStages.2.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: carpet ({0}) -->
+  <Carpet.label>{0} কার্পেট</Carpet.label>
+  <!-- EN: Soft carpet made from fibers dyed a single color. It's welcoming, cozy, and boosts the beauty of the room it's in. It's also quite flammable, and cleaning it is a laborious process. -->
+  <Carpet.description>একক রঙে রঞ্জিত তন্তু থেকে তৈরি নরম কার্পেট। এটি আরামদায়ক, উষ্ণ এবং যে ঘরে থাকে তার সৌন্দর্য বৃদ্ধি করে। এটি বেশ দাহ্য, এবং এটি পরিষ্কার করা একটি কঠিন প্রক্রিয়া।</Carpet.description>
+  
+</LanguageData>

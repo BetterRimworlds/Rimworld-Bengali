@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn apparel -->
+  <BurnApparel.label>পোড়া পোশাক</BurnApparel.label>
+  <!-- EN: Burn unwanted apparel to completely destroy it. -->
+  <BurnApparel.description>অপ্রয়োজনীয় পোশাক সম্পূর্ণরূপে ধ্বংস করার জন্য পুড়িয়ে ফেলুন।</BurnApparel.description>
+  <!-- EN: Burning apparel. -->
+  <BurnApparel.jobString>পোশাক পোড়ানো।</BurnApparel.jobString>
+  
+  <!-- EN: burn drugs -->
+  <BurnDrugs.label>পোড়া ওষুধ</BurnDrugs.label>
+  <!-- EN: Burn unwanted drugs to completely destroy them. -->
+  <BurnDrugs.description>অপ্রয়োজনীয় ওষুধ সম্পূর্ণরূপে ধ্বংস করার জন্য পুড়িয়ে ফেলুন।</BurnDrugs.description>
+  <!-- EN: Burning drugs. -->
+  <BurnDrugs.jobString>ড্রাগ পোড়ানো।</BurnDrugs.jobString>
+  
+  <!-- EN: burn weapon -->
+  <BurnWeapon.label>পোড়া অস্ত্র</BurnWeapon.label>
+  <!-- EN: Burn unwanted weapon to completely destroy it. -->
+  <BurnWeapon.description>অवांछিত অস্ত্র সম্পূর্ণরূপে ধ্বংস করার জন্য পুড়িয়ে ফেলুন।</BurnWeapon.description>
+  <!-- EN: Burning weapon. -->
+  <BurnWeapon.jobString>পোড়ানো অস্ত্র।</BurnWeapon.jobString>
+  
+  <!-- EN: cremate corpse -->
+  <CremateCorpse.label>Corpses দাহ করুন</CremateCorpse.label>
+  <!-- EN: Cremate a corpse to completely destroy it. -->
+  <CremateCorpse.description>একটি মৃতদেহ সম্পূর্ণরূপে ধ্বংস করার জন্য সেটিকে পুড়িয়ে ফেলুন।</CremateCorpse.description>
+  <!-- EN: Cremating. -->
+  <CremateCorpse.jobString>দাহ করা।</CremateCorpse.jobString>
+  
+</LanguageData>

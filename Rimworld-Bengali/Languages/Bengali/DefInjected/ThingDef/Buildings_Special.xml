@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: infinite chemreactor -->
+  <InfiniteChemreactor.label>অসীম রাসায়নিক রিঅ্যাক্টর</InfiniteChemreactor.label>
+  <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
+  <InfiniteChemreactor.description>বায়ু থেকে পরমাণু নিষ্কাশন করে জটিল রাসায়নিক বিক্রিয়ার মাধ্যমে ধীরে ধীরে রাসায়নিক জ্বালানি তৈরি করে।</InfiniteChemreactor.description>
+  
+  <!-- EN: psychic emanator -->
+  <PsychicEmanator.label>মানসিক বিকিরণকারী</PsychicEmanator.label>
+  <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
+  <PsychicEmanator.description>এটি একটি প্রাচীন যন্ত্র যা এর চারপাশে একটি প্রশান্তিদায়ক মানসিক ক্ষেত্র তৈরি করে। এটি কাছাকাছি থাকা যে কারও মেজাজ উন্নত করে। দেয়ালের মধ্য দিয়েও কাজ করে।</PsychicEmanator.description>
+  
+  <!-- EN: vanometric power cell -->
+  <VanometricPowerCell.label>ভ্যানোমেট্রিক পাওয়ার সেল</VanometricPowerCell.label>
+  <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  <VanometricPowerCell.description>এটি কোনো জ্বালানি ব্যবহার না করে চিরকাল বিনামূল্যে শক্তি উৎপাদন করে। এই প্রযুক্তিটি আর্কোটেক দ্বারা উদ্ভাবিত, এবং এটি এমনকি অধিকাংশ ঝলমলে বিশ্ব-এর সমাজকেও ছাড়িয়ে যায়। যদিও ঠিক কীভাবে এটি কাজ করে তা কেউ জানে না, বিজ্ঞানীরা মনে করেন এটি কোনোভাবে কোয়ান্টাম ফোমের ওঠানামা থেকে সরাসরি শক্তি আহরণ করে।</VanometricPowerCell.description>
+  
+</LanguageData>

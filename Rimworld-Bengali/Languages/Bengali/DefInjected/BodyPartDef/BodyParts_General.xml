@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brain -->
+  <Brain.label>মস্তিষ্ক</Brain.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>কান</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>চোখ</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>পা</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>মাথা</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>চোয়াল</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>পা</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>ঘাড়</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>নাক</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>পঁজরের খাঁচা</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>খুলি</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>মেরুদণ্ড</Spine.label>
+  
+  <!-- EN: tongue -->
+  <Tongue.label>জিভ</Tongue.label>
+  <!-- EN: remove -->
+  <Tongue.removeRecipeLabelOverride>শারীরিক গঠন</Tongue.removeRecipeLabelOverride>
+  
+</LanguageData>

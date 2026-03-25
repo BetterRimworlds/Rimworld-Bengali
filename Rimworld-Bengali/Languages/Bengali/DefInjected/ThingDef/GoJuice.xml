@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: go-juice -->
+  <GoJuice.label>গো-জুস</GoJuice.label>
+  <!-- EN: A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities. For psycasters, the drug also instantly increases psyfocus without meditation.\n\nThe military chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit. -->
+  <GoJuice.description>আন্তঃগ্রহ যুদ্ধের প্রাথমিক দিকে স্পেস মেরিনদের জন্য তৈরি একটি সিনথেটিক কর্মক্ষমতা-বর্ধক ওষুধ। গো-জুস ব্যথা কমায়, গতির উন্নতি ঘটায় এবং ব্যবহারকারীর নিকট যুদ্ধ ও শুটিংয়ের ক্ষমতা বাড়ায়। সাইক্যাস্টারদের জন্য, এই ওষুধ ধ্যান ছাড়াই তাৎক্ষণিকভাবে সাইফোকাশ বৃদ্ধি করে।\n\nযে সামরিক রসায়নবিদরা এটি তৈরি করেছিলেন, তারা কখনই এর আসক্তি দূর করতে পারেননি। কেউ এটিকে একটি অসুবিধা হিসেবে দেখত; আবার কেউ এটিকে একটি সুবিধা হিসেবে দেখত।</GoJuice.description>
+  <!-- EN: Inject {0} -->
+  <GoJuice.ingestible.ingestCommandString>{0} প্রবেশ করানো হচ্ছে</GoJuice.ingestible.ingestCommandString>
+  <!-- EN: Injecting {0}. -->
+  <GoJuice.ingestible.ingestReportString>{0} প্রবেশ করানো হচ্ছে।</GoJuice.ingestible.ingestReportString>
+  
+</LanguageData>

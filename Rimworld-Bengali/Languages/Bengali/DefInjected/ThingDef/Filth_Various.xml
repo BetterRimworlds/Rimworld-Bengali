@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>অ্যামনিওটিক তরল</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>পশুর ময়লা</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>ছাই</Filth_Ash.label>
+  
+  <!-- EN: blast mark -->
+  <Filth_BlastMark.label>বিস্ফোরণ চিহ্ন</Filth_BlastMark.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>রক্ত</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>পোকার রক্ত</Filth_BloodInsect.label>
+  
+  <!-- EN: blood smear -->
+  <Filth_BloodSmear.label>রক্তের নমুনা</Filth_BloodSmear.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>পিত্তরস</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>মাটি</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>ফায়ারফোম</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>রাসায়নিক জ্বালানি पोखर</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>দাহ্য রাসায়নিক জ্বালানির একটি पोखर।</Filth_Fuel.description>
+  
+  <!-- EN: gestation fluid -->
+  <Filth_GestationFluid.label>ভ্রূণ তরল</Filth_GestationFluid.label>
+  
+  <!-- EN: hair -->
+  <Filth_Hair.label>চুল</Filth_Hair.label>
+  
+  <!-- EN: loose ground -->
+  <Filth_LooseGround.label>ছেঁড়া মাটি</Filth_LooseGround.label>
+  
+  <!-- EN: machine bits -->
+  <Filth_MachineBits.label>যন্ত্রাংশ বিট</Filth_MachineBits.label>
+  
+  <!-- EN: ragged uniform -->
+  <Filth_MoldyUniform.label>ক্ষতিগ্রস্ত পোশাক</Filth_MoldyUniform.label>
+  
+  <!-- EN: oil smear -->
+  <Filth_OilSmear.label>তেল দাগ</Filth_OilSmear.label>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>ভবন ধ্বংসাবশেষ</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>পাথরের ধ্বংসাবশেষ</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>বালু</Filth_Sand.label>
+  
+  <!-- EN: scattered documents -->
+  <Filth_ScatteredDocuments.label>ছড়ানো নথি</Filth_ScatteredDocuments.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>স্লাইম</Filth_Slime.label>
+  
+  <!-- EN: spent acid -->
+  <Filth_SpentAcid.label>ব্যবহৃত অ্যাসিড</Filth_SpentAcid.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>আবর্জনা</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>বমি</Filth_Vomit.label>
+  
+  <!-- EN: water puddle -->
+  <Filth_Water.label>জলের पोखर</Filth_Water.label>
+  
+  <!-- EN: scattered sandbags -->
+  <SandbagRubble.label>ছড়ানো বালির বস্তা</SandbagRubble.label>
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>ছড়ানো স্ল্যাগ</SlagRubble.label>
+  
+</LanguageData>

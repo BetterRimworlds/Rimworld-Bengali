@@ -1,0 +1,767 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
+  <Tutorial>টিউটোরিয়াল</Tutorial>
+  <!-- EN: New colony -->
+  <NewColony>নতুন উপনিবেশ</NewColony>
+  <!-- EN: Back to game -->
+  <BackToGame>গেম-এ ফিরে যান</BackToGame>
+  <!-- EN: Review scenario -->
+  <ReviewScenario>পর্যালোচনা পরিস্থিতি</ReviewScenario>
+  <!-- EN: Save -->
+  <Save>সংরক্ষণ করুন</Save>
+  <!-- EN: Load game -->
+  <LoadGame>গেম লোড করুন</LoadGame>
+  <!-- EN: Options -->
+  <Options>অপশনসমূহ</Options>
+  <!-- EN: Mod -->
+  <Mod>মড</Mod>
+  <!-- EN: Mods -->
+  <Mods>মডসমূহ</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>গুরুত্বপূর্ণ নিয়মাবলী:</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>গুরুত্বপূর্ণ নিয়মাবলী:</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>ফাইল পরিষ্কার করুন</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>গুরুত্বপূর্ণ নিয়মাবলী:\n- কোনো ব্যাখ্যা, নোট অথবা বন্ধনীর মধ্যে মন্তব্য নয়\n- শুধুমাত্র একটি অনুবাদ - কোনো বিকল্প নয় [শুধুমাত্র ১টি</TranslationFilesTKeyUpdate>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>পরিষ্কার করা হচ্ছে</CleaningTranslationFiles>
+  <!-- EN: Dev quicktest -->
+  <DevQuickTest>ডেভ দ্রুত পরীক্ষা</DevQuickTest>
+  <!-- EN: Credits -->
+  <Credits>ক্রেডিট</Credits>
+  <!-- EN: Quit to main menu -->
+  <QuitToMainMenu>প্রধান মেনুতে ফিরে যান।</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
+  <SaveAndQuitToMainMenu>সংরক্ষণ করুন এবং মেনুতে ফিরে যান।</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
+  <QuitToOS>OS-এ ফিরে যান</QuitToOS>
+  <!-- EN: Save and quit to OS -->
+  <SaveAndQuitToOS>সংরক্ষণ করুন এবং অপারেটিং সিস্টেমে ফিরে যান।</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
+  <FictionPrimer>কল্পকাহিনী প্রাথমিক গ্রন্থ</FictionPrimer>
+  <!-- EN: Ludeon blog -->
+  <LudeonBlog>লুডিওন ব্লগ</LudeonBlog>
+  <!-- EN: Subreddit -->
+  <Subreddit>সাবরেডিট</Subreddit>
+  <!-- EN: Official wiki -->
+  <OfficialWiki>অফিসিয়াল উইকি</OfficialWiki>
+  <!-- EN: Tynan's X -->
+  <TynansX>টাইনানের এক্স</TynansX>
+  <!-- EN: Tynan's design book -->
+  <TynansDesignBook>টাইনানের নকশা বই</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
+  <HelpTranslate>সাহায্য করুন</HelpTranslate>
+  <!-- EN: Create world -->
+  <CreateWorld>বিশ্ব তৈরি করুন</CreateWorld>
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>সাউন্ডট্র্যাক কিনুন</BuySoundtrack>
+  <!-- EN: RimWorld Soundtrack -->
+  <BuySoundtrack_Classic>রিমওয়ার্ল্ড সাউন্ডট্র্যাক</BuySoundtrack_Classic>
+  <!-- EN: RimWorld - Royalty Soundtrack -->
+  <BuySoundtrack_Royalty>রয়্যালটি সাউন্ডট্র্যাক।</BuySoundtrack_Royalty>
+  <!-- EN: RimWorld - Anomaly Soundtrack -->
+  <BuySoundtrack_Anomaly>রিমওয়ার্ল্ড - অ্যানোমালি সাউন্ডট্র্যাক</BuySoundtrack_Anomaly>
+  <!-- EN: RimWorld - Odyssey Soundtrack -->
+  <BuySoundtrack_Odyssey>রিমওয়ার্ল্ড - ওডিসি সাউন্ডট্র্যাক</BuySoundtrack_Odyssey>
+  
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>RimWorld-এর সমস্ত অনুবাদ ফ্যান-নির্মিত। এই ফ্যান-নির্মিত অনুবাদটি নিম্নলিখিত চমৎকার স্বেচ্ছাসেবকদের দ্বারা তৈরি করা হয়েছে:\n\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>আপনিও অবদান রাখতে পারেন। আরও জানতে নিচে ক্লিক করুন (ওয়েব ব্রাউজার খোলে)।</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>আরও জানুন</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>সতর্কতা: এটি একটি অস্থির উন্নয়ন বিল্ড। এর মানে হল আমরা ডিজাইন পরীক্ষা-নিরীক্ষা চালাচ্ছি এবং প্রযুক্তিগত উন্নয়ন করছি।\n\nকিছু জিনিস ইচ্ছাকৃতভাবে সাময়িকভাবে ভারসাম্যহীন হবে। এটি একটি চিরায়ত গেম ডিজাইন পদ্ধতি যেখানে আমরা ভারসাম্যসীমা আরও ভালোভাবে বোঝার জন্য ইচ্ছাকৃতভাবে ভারসাম্য পরিবর্তনে অতিরিক্ত পদক্ষেপ নেই। এরপর আমরা সেই তথ্য ব্যবহার করে চূড়ান্ত ভারসাম্য নির্ধারণ করব।\n\nএখানে বাগও থাকবে, যার মধ্যে গেম-ভাঙনকারী বাগও অন্তর্ভুক্ত। যেকোনো সময় সেভ সামঞ্জস্যতা নষ্ট হতে পারে।\n\nযদি আপনি এই সব কিছুতে রাজি থাকেন, তাহলে পরীক্ষা করার জন্য ধন্যবাদ! যদি আপনি আমাদের পরীক্ষার শিকার হতে না চান, তাহলে অনুগ্রহ করে সর্বশেষ স্থিতিশীল সংস্করণটি খেলুন।</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
+  <ReviewWorld>পর্যালোচনা বিশ্ব</ReviewWorld>
+  <!-- EN: Generate -->
+  <WorldGenerate>গুরুত্বপূর্ণ নিয়ম:</WorldGenerate>
+  <!-- EN: Save and finish -->
+  <WorldSaveAndFinish>গুরুত্বপূর্ণ নিয়ম:</WorldSaveAndFinish>
+  <!-- EN: Reset factions -->
+  <ResetFactions>গোষ্ঠী রিসেট করুন</ResetFactions>
+  <!-- EN: Globe coverage -->
+  <PlanetCoverage>ভূগোলীয় কভারেজ</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
+  <PlanetRainfall>সামগ্রিক বৃষ্টিপাত</PlanetRainfall>
+  <!-- EN: Overall temperature -->
+  <PlanetTemperature>সামগ্রিক তাপমাত্রা</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>জনসংখ্যা</PlanetPopulation>
+  <!-- EN: Low -->
+  <PlanetRainfall_Low>নিম্ন</PlanetRainfall_Low>
+  <!-- EN: Normal -->
+  <PlanetRainfall_Normal>স্বাভাবিক</PlanetRainfall_Normal>
+  <!-- EN: High -->
+  <PlanetRainfall_High>উচ্চ</PlanetRainfall_High>
+  <!-- EN: Low -->
+  <PlanetTemperature_Low>নিম্ন</PlanetTemperature_Low>
+  <!-- EN: Normal -->
+  <PlanetTemperature_Normal>স্বাভাবিক</PlanetTemperature_Normal>
+  <!-- EN: High -->
+  <PlanetTemperature_High>উচ্চ</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>বিরল</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>স্বাভাবিক</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>ভিড়যুক্ত</PlanetPopulation_High>
+  <!-- EN: Seed -->
+  <WorldSeed>বীজ</WorldSeed>
+  <!-- EN: Randomize seed -->
+  <RandomizeSeed>র‍্যান্ডম বীজ</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>গ্রহের ব্যাস সর্বদা একই থাকে, তবে খেলার জন্য প্রয়োজনীয় পরিমাণের চেয়ে এটি অনেক বড় হওয়ায়, আমরা পুরো পৃষ্ঠ তৈরি করি না কারণ এতে অনেক সময় লাগতে পারে। এটি আপনি যে পৃষ্ঠ তৈরি করতে চান তার শতকরা হার।</PlanetCoverageTip>
+  <!-- EN: Factions -->
+  <WorldFactionsTab>গোষ্ঠীসমূহ</WorldFactionsTab>
+  <!-- EN: Advanced settings -->
+  <AdvancedSettings>উন্নত সেটিংস</AdvancedSettings>
+
+  <!-- Select world -->
+  <!-- EN: Select world -->
+  <SelectWorld>বিশ্ব নির্বাচন করুন</SelectWorld>
+  <!-- EN: Select -->
+  <WorldChooseButton>বাছাই করুন</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
+  <NoWorldsFilesFound>কোনো বিশ্ব ফাইল খুঁজে পাওয়া যায়নি। প্রথমে একটি বিশ্ব তৈরি করুন।</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
+  <BuildNowAvailable>{0} সংস্করণটি এখন উপলব্ধ। আরও তথ্যের জন্য ludeon.com দেখুন।</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>এটি সর্বশেষ সংস্করণ।</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>{0} সংস্করণের তথ্য পেতে সমস্যা হচ্ছে।</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>ভার্সন তথ্য লোড হচ্ছে…</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <!-- EN: Generate world -->
+  <GenerateWorld>বিশ্ব তৈরি করুন</GenerateWorld>
+
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>স্টিম কর্মশালা খুলুন</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
+  <GetModsFromForum>ফোরাম থেকে মোড পান করুন।</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
+  <OpenModsDataFolder>মোড ডেটা ফোল্ডার খুলুন।</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>মড ডেটা লোকেশন দেখান।</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
+  <ConfirmDisableCoreMod>আপনি কি সত্যিই কোর মোড নিষ্ক্রিয় করতে চান? কোর কার্যকারিতা প্রতিস্থাপন করে এমন অন্য কোনো মোড না থাকলে গেমটি बिल्कुलই চলবে না।\n\nমনে রাখবেন, অন্যান্য মোড একই defName ব্যবহার করে কোর মোডের ডেফগুলিকে অগ্রাহ্য করতে পারে।</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
+  <ConfirmDeleteMod>আপনি কি নিশ্চিত যে আপনি {0} এর সমস্ত বিষয়বস্তু মুছে ফেলতে চান?</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>স্বয়ংক্রিয়ভাবে মোড সাজানো</ResolveModOrder>
+  <!-- EN: Save and apply changes -->
+  <SaveModChanges>পরিবর্তনগুলি সংরক্ষণ করুন এবং প্রয়োগ করুন।</SaveModChanges>
+  <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
+  <DiscardModChanges>মড পরিবর্তনগুলি সংরক্ষণ করা হয়নি। আপনি কি চালিয়ে যেতে চান?</DiscardModChanges>
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>{0} সরানোর অনুমতি নেই: {1} লোড হওয়ার পরে এটি লোড করতে হবে।</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>{0} সরানো যায় না: {1} এর আগে এটি লোড করা আবশ্যক।</ModReorderConflict_MustLoadBefore>
+  <!-- EN: Unsubscribe -->
+  <Unsubscribe>আনসাবস্ক্রাইব করুন</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe? -->
+  <ConfirmUnsubscribe>আপনি কি সত্যিই আনসাবস্ক্রাইব করতে চান?</ConfirmUnsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribeFrom>আপনি কি {0} থেকে আনসাবস্ক্রাইব করতে চান?</ConfirmUnsubscribeFrom>
+  <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
+  <ConfirmUnsubscribeFromMultiple>আপনি কি নিশ্চিতভাবে আনসাবস্ক্রাইব করতে চান:\n\n{0}</ConfirmUnsubscribeFromMultiple>
+  <!-- EN: Author -->
+  <Author>লেখক</Author>
+  <!-- EN: Enabled -->
+  <Enabled>সক্রিয়</Enabled>
+  <!-- EN: Disabled -->
+  <Disabled>নিষ্ক্রিয়</Disabled>
+  <!-- EN: Enable -->
+  <Enable>সক্রিয় করুন</Enable>
+  <!-- EN: Disable -->
+  <Disable>নিষ্ক্রিয় করুন</Disable>
+  <!-- EN: Get mods from... -->
+  <GetMods>মডগুলি এখান থেকে পান…</GetMods>
+  <!-- EN: Unsubscribe from... -->
+  <UnsubscribeMultiple>আনসাবস্ক্রাইব করুন…</UnsubscribeMultiple>
+  <!-- EN: Save / load list... -->
+  <SaveLoadList>সংরক্ষণ / লোড তালিকা…</SaveLoadList>
+  <!-- EN: Save mod list -->
+  <SaveModList>মড তালিকা সংরক্ষণ করুন</SaveModList>
+  <!-- EN: Load mod list -->
+  <LoadModList>মড তালিকা লোড করুন</LoadModList>
+  <!-- EN: Added mods -->
+  <AddedModsList>অতিরিক্ত মোড</AddedModsList>
+  <!-- EN: Missing mods -->
+  <MissingModsList>হারানো মোডসমূহ</MissingModsList>
+  <!-- EN: Shared mods -->
+  <SharedModsList>শেয়ার্ড মোডসমূহ</SharedModsList>
+  <!-- EN: Website -->
+  <ModWebsite>ওয়েবসাইট</ModWebsite>
+  <!-- EN: Open folder -->
+  <ModFolder>ফোল্ডার খুলুন</ModFolder>
+  <!-- EN: Mod options -->
+  <ModOptions>মড অপশন</ModOptions>
+  <!-- EN: Workshop -->
+  <FromWorkshop>ওয়ার্কশপ</FromWorkshop>
+  <!-- EN: Forum -->
+  <FromForum>ফোরাম</FromForum>
+  <!-- EN: Advanced... -->
+  <MoreActions>উন্নত…</MoreActions>
+  <!-- EN: All selected mods -->
+  <AllSelectedMods>নির্বাচিত মডসমূহ</AllSelectedMods>
+  <!-- EN: All disabled mods -->
+  <AllDisabledMods>অকার্যকর মোডসমূহ</AllDisabledMods>
+  <!-- EN: All incompatible mods -->
+  <AllIncompatibleMods>অসামঞ্জস্যপূর্ণ মোডসমূহ</AllIncompatibleMods>
+  <!-- EN: Workshop page -->
+  <WorkshopPage>ওয়ার্কশপ পৃষ্ঠা</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>Steam Workshop-এ আপলোড করুন।</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
+  <UpdateOnSteamWorkshop>স্টিম ওয়ার্কশপে আপডেট।</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
+  <UploadAlreadyInProgress>আপলোড চলছে।</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
+  <WorkshopSubmissionFailed>ওয়ার্কশপ জমা দিতে ব্যর্থ।\n\nকারণ: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
+  <WorkshopUploadSucceeded>সফলভাবে {0} আপলোড করা হয়েছে।</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
+  <Downloading>ডাউনলোড করা হচ্ছে</Downloading>
+  <!-- EN: Workshop ID -->
+  <WorkshopId>ওয়ার্কশপ আইডি</WorkshopId>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>প্রয়োজনীয়তা পূরণ হয়েছে।</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>নির্বাচন করতে ক্লিক করুন।</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>ওয়েবসাইটে যেতে ক্লিক করুন।</ModClickToGoToWebsite>
+  <!-- EN: Source -->
+  <Source>গুরুত্বপূর্ণ নিয়ম:</Source>
+  <!-- EN: Game versions -->
+  <ModTargetVersion>গেম সংস্করণ</ModTargetVersion>
+  <!-- EN: Mod version -->
+  <ModVersion>মড সংস্করণ</ModVersion>
+  <!-- EN: ID -->
+  <ModPackageId>আইডি</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>এই টেক্সট লোড করার আগে এটি লোড করতে হবে: {0}।</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>এটা {0}-এর পরে লোড করা আবশ্যক।</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>{0} এর উপর নির্ভরশীল।</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>অসঙ্গতিপূর্ণ: {0}</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>এই মোডটি এর সাথে সামঞ্জস্যপূর্ণ নয়: {0}।</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>এই মোডটি অন্য একটি মোডের সাপেক্ষে ভুল ক্রমে লোড হচ্ছে। ‘অটো-সর্ট’ বোতাম ব্যবহার করুন, অথবা মোডগুলি নিজে থেকে পুনর্বিন্যাস করুন।</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>অন্য একটি সক্রিয় মোড একই আইডি ব্যবহার করছে: {0}।</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>{0} দিয়ে শুরু হওয়া একটি চক্রাকার মড নির্ভরতা রয়েছে।</ModCyclicDependency>
+  <!-- EN: This requires the following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>এইটি কাজ করার জন্য নিম্নলিখিত মোডগুলির প্রয়োজন: {0}।</ModUnsatisfiedDependency>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion>এই মোডটি রিমওয়ার্ল্ডের এই সংস্করণের জন্য তৈরি করা হয়নি, এবং সম্ভবত সঠিকভাবে কাজ করবে না।</ModNotMadeForThisVersion>
+  <!-- EN: This mod is not made for this version of RimWorld. -->
+  <ModNotMadeForThisVersionShort>এই মোডটি RimWorld-এর এই সংস্করণের জন্য তৈরি করা হয়নি।</ModNotMadeForThisVersionShort>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>এই মোডটি RimWorld-এর একটি নতুন সংস্করণের জন্য তৈরি করা হয়েছিল এবং সম্ভবত সঠিকভাবে কাজ করবে না।</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>মড-এর About.xml-এ সঠিকভাবে ফর্ম্যাট করা সমর্থিত সংস্করণ তথ্য প্রয়োজন। যেমন: &amp;lt;supportedVersions&amp;gt;&amp;lt;li&amp;gt;{0}&amp;lt;/li&amp;gt;&amp;lt;/supportedVersions&amp;gt; - &amp;lt;targetVersion&amp;gt; বাতিল করা হয়েছে। আরও তথ্যের জন্য লগ দেখুন।</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>মডের About.xml-এ একটি অনন্য, সঠিকভাবে ফরম্যাট করা packageId প্রয়োজন। এটি নিম্নলিখিত প্রয়োজনীয়তা পূরণ করতে হবে:\n\n  - শুধুমাত্র অক্ষর, সংখ্যা এবং ডট।\n  - কোনো স্পেস নেই।\n  - অন্তত একটি ডট।\n  - পরপর, শুরুতে বা শেষে কোনো পুনরাবৃত্তি ডট নেই।\n  - ৬০ অক্ষর বা কম।\n  - "Ludeon" শব্দ থাকতে পারবে না।\n\nউদাহরণস্বরূপ:\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>এই মোডটিতে LoadFolders.xml-এ সমস্যা আছে, যা আপলোড করার আগে সমাধান করতে হবে:</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>{0} ফোল্ডারটি সংস্করণ {1} এর জন্য নির্দিষ্ট করা নেই।</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>ত্রুটিপূর্ণ সংস্করণ স্ট্রিং '{0}'। সঠিক বিন্যাস হল মেজর.মাইনর (যেমন ১.১)</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>{0} সংস্করণের জন্য লোড ফোল্ডারের তালিকাটি খালি।</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>সংস্করণ {0} এ একই ফোল্ডার একাধিকবার তালিকাভুক্ত করা হয়েছে: {1}।</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>অবৈধ সংস্করণ ক্রম: {0} অবশ্যই {1} এর আগে আসতে হবে।</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>অবৈধ সংস্করণ ক্রম: 'default' প্রথমে সংজ্ঞায়িত করা উচিত।</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
+  <ModLoadFolderDefaultDeprecated>লোডিং ফোল্ডারে ‘ডিফল্ট’ ব্যবহার করা বাতিল করা হয়েছে। অনুগ্রহ করে প্রতিটি সংস্করণের জন্য &amp;lt;v…&amp;gt; ট্যাগ ব্যবহার করে ফোল্ডার সংজ্ঞায়িত করুন।</ModLoadFolderDefaultDeprecated>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>ভার্সন {0} লোড ফোল্ডারে সংজ্ঞায়িত করা হয়েছে, কিন্তু মোডের About.xml-এর 'supportedVersions'-এ তালিকাভুক্ত করা নেই।</ModLoadFolderDefinesUnsupportedGameVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>পুনরায় সাজানোর জন্য টেনে আনুন।</DragToReorder>
+
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
+  <ChooseScenario>পরিকল্পনা নির্বাচন করুন</ChooseScenario>
+  <!-- EN: Custom -->
+  <ScenariosCustom>কাস্টম</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
+  <ScenariosSteamWorkshop>স্টিম কর্মশালা</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>সценаριο সম্পাদক</ScenarioEditor>
+  <!-- EN: Delete -->
+  <Delete>মুছুন</Delete>
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
+  <Seed>বীজ</Seed>
+  <!-- EN: Load -->
+  <Load>লোড হচ্ছে</Load>
+  <!-- EN: edit mode -->
+  <EditMode>সম্পাদনা মোড</EditMode>
+  <!-- EN: Summary -->
+  <Summary>সারসংক্ষেপ</Summary>
+  <!-- EN: Add part -->
+  <AddPart>অংশ যোগ করুন</AddPart>
+  <!-- EN: All text fields must be filled. -->
+  <TextFieldsMustBeFilled>গুরুত্বপূর্ণ নিয়ম:\n- কোনো ব্যাখ্যা, নোট অথবা বন্ধনীর মধ্যে মন্তব্য করা যাবে না।\n- শুধুমাত্র একটি অনুবাদ—কোনো বিকল্প নয় [কেবল ১টি, কোনো ‘</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
+  <ConfirmSteamWorkshopUpload>আপনি কি নিশ্চিতভাবে এটি স্টিম ওয়ার্কশপে আপলোড করতে চান?\n\nআপনাকে স্টিম ওয়ার্কশপের পরিষেবার শর্তাবলীতে সম্মত হতে হবে। সম্পূর্ণ শর্তাবলী এখানে দেখুন:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>হ্যাঁ, আমি এই অনুবাদটি নিজে তৈরি করেছি।</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
+  <Incompatible>অসঙ্গতিপূর্ণ</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>গুরুতর নিয়ম:</TagAsTranslation>
+  <!-- EN: Too many (max {0}): -->
+  <TooMany>অতিরিক্ত (সর্বোচ্চ {0}):</TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
+  <CanBeUpdatedOnWorkshop>ওয়ার্কশপে আপডেট করা যাবে, যেহেতু আপনি লেখক।</CanBeUpdatedOnWorkshop>
+  <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
+  <ScenarioChangedSavePrompt>এই পরিস্থিতিটি সম্পাদিত হয়েছে।\n\nআপনি কি এটি সংরক্ষণ করতে চান, নাকি চালিয়ে যাবেন?</ScenarioChangedSavePrompt>
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
+  <ChooseAIStoryteller>এআই গল্পকথক নির্বাচন করুন</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>এআই স্টোরিটেলার হানাসমূহ, সম্পদ ফেলা, অথবা পশু আক্রমণের মতো ঘটনা তৈরি করে। তাদের পছন্দ আপনার উপনিবেশের গল্পকে প্রভাবিত করবে। আপনি যেকোনো সময় এই সেটিংস পরিবর্তন করতে পারেন।</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
+  <MustChooseDifficulty>অনুগ্রহ করে একটি অসুবিধা স্তর নির্বাচন করুন।</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
+  <Difficulty>কঠিনতা</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>প্রতিশ্রুতি মোড</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>যেকোনো সময়ে পুনরায় লোড করুন</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>অনুগ্রহ করে প্রতিশ্রুতি মোড অথবা যেকোনো সময় পুনরায় লোড করার মোড নির্বাচন করুন।</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>যেকোনো সময়ে গেমটি সংরক্ষণ এবং লোড করতে পারেন।\n\nযদি আপনি এখনও গেমটি শিখছেন, যদি এটি আপনার ব্যক্তিগত খেলার ধরনের সাথে মানানসই হয়, যদি আপনি এমন মোড ব্যবহার করেন যা আপনার গেমটিকে ভেঙে দিতে পারে, অথবা যদি আপনি স্বেচ্ছায় প্রতিশ্রুতি মোড প্রয়োগ করতে চান তবে এটি একটি ভাল পছন্দ।</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>গেমটি বন্ধ করার সময় আপনি কেবল তখনই সংরক্ষণ করতে পারবেন।\n\nযেহেতু RimWorld একটি গল্প জেনারেটর, তাই শেষ পর্যন্ত একজন ব্যক্তি অবশিষ্ট থাকলেও গেমের সমাপ্তি নয়—এটি গল্পের অংশ। ক্ষতি হওয়ার পরে পুনরুদ্ধার করার অনুমতি দেওয়ার জন্য গেমটি ডিজাইন করা হয়েছে।\n\nএই ভয়ানক পরিস্থিতিগুলো খেলা থেকে ট্র্যাজেডি এবং বিজয়ের একটি গল্প তৈরি হয়। RimWorld খেলার জন্য এটিই ডিজাইন করা হয়েছে।\n\nলুক স্কাইওয়াকার যখন তার পরিবার নিহত হয়েছিল, তখন হাল ছেড়ে পুনরায় শুরু করেননি—এর কারণ ক্ষতি এবং পুনরুদ্ধার নাটকীয়।</PermadeathModeInfo>
+  <!-- EN: Storyteller and playstyle can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>গল্পকথক এবং খেলার ধরণ যেকোনো সময় পরিবর্তন করা যেতে পারে।</CanChangeStorytellerSettingsDuringPlay>
+
+  <!-- custom difficulty settings -->
+  <!-- EN: Custom playstyle settings -->
+  <DifficultyCustomSectionLabel>কাস্টম খেলার ধরণ সেটিংস</DifficultyCustomSectionLabel>
+  <!-- EN: Set to standard playstyle... -->
+  <DifficultyReset>মানক খেলার ধরনে সেট করা হচ্ছে…</DifficultyReset>
+  
+  <!-- EN: Threats -->
+  <DifficultyThreatSection>হুমকি</DifficultyThreatSection>
+  <!-- EN: Threat scale -->
+  <Difficulty_ThreatScale_Label>হুমকির মাত্রা</Difficulty_ThreatScale_Label>
+  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
+  <Difficulty_ThreatScale_Info>হানাসমূহ এবং সংক্রমণের মতো হুমকির আকার এবং অনুসন্ধানের কঠিনতা সামঞ্জস্য করুন।</Difficulty_ThreatScale_Info>
+  <!-- EN: Major threats -->
+  <Difficulty_AllowBigThreats_Label>গুরুতর হুমকি</Difficulty_AllowBigThreats_Label>
+  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
+  <Difficulty_AllowBigThreats_Info>হানাসমূহ, সংক্রমণ, মানুষ শিকারী দল, বিধ্বস্ত মেকানোইড জাহাজ এবং আরও বড় হুমকি অনুমতি দিন।</Difficulty_AllowBigThreats_Info>
+  <!-- EN: Quest threats -->
+  <Difficulty_AllowViolentQuests_Label>অনুসন্ধান হুমকি</Difficulty_AllowViolentQuests_Label>
+  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
+  <Difficulty_AllowViolentQuests_Info>হিংসাত্মক হুমকি ও চ্যালেঞ্জ সহ অনুসন্ধানগুলো উপস্থাপন করার অনুমতি দিন। এটি নিষ্ক্রিয় করা হলে, অনুসন্ধানগুলো অ-হিংসাত্মক করার জন্য পরিবর্তন করা হবে।</Difficulty_AllowViolentQuests_Info>
+  <!-- EN: Intro threats -->
+  <Difficulty_AllowIntroThreats_Label>ভূমিকা হুমকি</Difficulty_AllowIntroThreats_Label>
+  <!-- EN: Enable the fixed intro threats that appear near game start. -->
+  <Difficulty_AllowIntroThreats_Info>গেম শুরুর কাছাকাছি উপস্থিত হওয়া নির্দিষ্ট প্রাথমিক হুমকিগুলো সক্রিয় করুন।</Difficulty_AllowIntroThreats_Info>
+  <!-- EN: Predators hunt humans -->
+  <Difficulty_PredatorsHuntHumanlikes_Label>শিকারীরা মানুষ শিকার করে</Difficulty_PredatorsHuntHumanlikes_Label>
+  <!-- EN: Allow wild predators to hunt humans. -->
+  <Difficulty_PredatorsHuntHumanlikes_Info>মানুষ শিকার করার জন্য বন্য শিকারীদের অনুমতি দিন।</Difficulty_PredatorsHuntHumanlikes_Info>
+  <!-- EN: Extreme weather -->
+  <Difficulty_AllowExtremeWeatherIncidents_Label>তীব্র আবহাওয়া</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
+  <Difficulty_AllowExtremeWeatherIncidents_Info>বিষাক্ত বৃষ্টিপাত, আগ্নেয়গিরির শীতকাল এবং আকস্মিক ঝড়ের মতো চরম আবহাওয়ার ঘটনা ঘটতে দিন।</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <!-- EN: Economy -->
+  <DifficultyEconomySection>অর্থনীতি</DifficultyEconomySection>
+  <!-- EN: Trade price disadvantage -->
+  <Difficulty_TradePriceFactorLoss_Label>বাণিজ্য মূল্য অসুবিধা</Difficulty_TradePriceFactorLoss_Label>
+  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
+  <Difficulty_TradePriceFactorLoss_Info>বাণিজ্য করার সময়, ক্রয়মূল্য এই পরিমাণ দ্বারা বৃদ্ধি করা হয় এবং বিক্রয়মূল্য এই পরিমাণ দ্বারা হ্রাস করা হয়।</Difficulty_TradePriceFactorLoss_Info>
+  <!-- EN: Harvest yield -->
+  <Difficulty_CropYieldFactor_Label>ফসল ফলন</Difficulty_CropYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
+  <Difficulty_CropYieldFactor_Info>উদ্ভিদ এবং ফসল তোলার সময় উৎপাদিত উপাদানের পরিমাণ সামঞ্জস্য করুন। এর মধ্যে উদ্ভিদ সংগ্রহ এবং গাছ কাটা অন্তর্ভুক্ত।</Difficulty_CropYieldFactor_Info>
+  <!-- EN: Mining yield -->
+  <Difficulty_MineYieldFactor_Label>খনন ফলন</Difficulty_MineYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when mining. -->
+  <Difficulty_MineYieldFactor_Info>খননকালে উৎপাদিত উপাদানের পরিমাণ সামঞ্জস্য করুন।</Difficulty_MineYieldFactor_Info>
+  <!-- EN: Butchering yield -->
+  <Difficulty_ButcherYieldFactor_Label>মাংস কাটার ফলন</Difficulty_ButcherYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
+  <Difficulty_ButcherYieldFactor_Info>কাটাচেরা করার সময় উৎপাদিত উপাদানের পরিমাণ পরিবর্তন করুন। এর মধ্যে মাংস, চামড়া এবং মেকানোইডসমূহ খণ্ড করার ফলস্বরূপ প্রাপ্ত উপাদান অন্তর্ভুক্ত।</Difficulty_ButcherYieldFactor_Info>
+  <!-- EN: Research speed -->
+  <Difficulty_ResearchSpeedFactor_Label>গবেষণা গতি</Difficulty_ResearchSpeedFactor_Label>
+  <!-- EN: Adjust the speed of research. -->
+  <Difficulty_ResearchSpeedFactor_Info>গবেষণার গতি সামঞ্জস্য করুন।</Difficulty_ResearchSpeedFactor_Info>
+  <!-- EN: Quest rewards -->
+  <Difficulty_QuestRewardValueFactor_Label>অনুসন্ধান পুরস্কার</Difficulty_QuestRewardValueFactor_Label>
+  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_QuestRewardValueFactor_Info>অনুসন্ধানের জন্য প্রদত্ত পুরস্কারের মান সামঞ্জস্য করুন।\n\nনোট: অনুসন্ধানের পুরস্কারের মান স্বয়ংক্রিয়ভাবে হুমকির মাত্রা অনুযায়ীও স্কেল করা হয়। আপনি যদি এই সেটিংসটি সামঞ্জস্য করেন, তবে আপনি একটি অতিরিক্ত গুণক যোগ করবেন।</Difficulty_QuestRewardValueFactor_Info>
+  <!-- EN: Raid loot -->
+  <Difficulty_RaidLootPointsFactor_Label>হানার মালপত্র</Difficulty_RaidLootPointsFactor_Label>
+  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_RaidLootPointsFactor_Info>হানাদারদের বহন করা লুটের মান সামঞ্জস্য করুন।\n\nনোট: হানার লুটের মান স্বয়ংক্রিয়ভাবে হুমকির মাত্রা অনুযায়ীও স্কেল করা হয়। আপনি যদি এই সেটিংসটি সামঞ্জস্য করেন, তবে আপনি একটি অতিরিক্ত গুণক যোগ করবেন।</Difficulty_RaidLootPointsFactor_Info>
+  <!-- EN: Turret rearm cost -->
+  <Difficulty_MaintenanceCostFactor_Label>টারেট পুনরায় সজ্জিত করার খরচ</Difficulty_MaintenanceCostFactor_Label>
+  <!-- EN: Adjust the cost of rearming turrets. -->
+  <Difficulty_MaintenanceCostFactor_Info>টারেটসমূহ পুনরায় সজ্জিত করার খরচ সামঞ্জস্য করুন।</Difficulty_MaintenanceCostFactor_Info>
+  <!-- EN: Scaria rot chance -->
+  <Difficulty_ScariaRotChance_Label>স্কারিয়া পচন সম্ভাবনা</Difficulty_ScariaRotChance_Label>
+  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
+  <Difficulty_ScariaRotChance_Info>যদি কোনো প্রাণীর স্কেরিয়া রোগ থাকে, তবে মৃত্যুর সাথে সাথেই তার মৃতদেহ পচে যাওয়ার সম্ভাবনা।\n\nউল্লেখ্য: ডিফল্ট সেটিংসগুলি উচ্চতর কঠিনতায় প্রাণীর সংখ্যা বৃদ্ধির সাথে সঙ্গতি রেখে মাংসের পুরস্কারের পরিমাণকে সুষম করে তৈরি করা হয়েছে, যাতে সকল খেলোয়াড় একই পরিমাণ মাংস পায়।</Difficulty_ScariaRotChance_Info>
+  <!-- EN: Enemy death on downed -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>পতনশীল শত্রুর মৃত্যু</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>নিক্ষিপ্ত হলে শত্রুর তাৎক্ষণিকভাবে মৃত্যুর অতিরিক্ত সম্ভাবনা সামঞ্জস্য করুন। এটি বন্দী করার সম্ভাবনাকে প্রভাবিত করে, এবং সেইসাথে উপনিবেশের জনসংখ্যা বৃদ্ধির হারকেও।</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <!-- EN: General -->
+  <DifficultyGeneralSection>সাধারণ</DifficultyGeneralSection>
+  <!-- EN: Colonist mood -->
+  <Difficulty_ColonistMoodOffset_Label>উপনিবেশকারীর মেজাজ</Difficulty_ColonistMoodOffset_Label>
+  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
+  <Difficulty_ColonistMoodOffset_Info>স্থায়ী মেজাজ পরিবর্তন যা প্রতিটি উপনিবেশবাসী এবং বন্দীর উপর প্রয়োগ করা হয়। উপনিবেশবাসীদের প্রাথমিক মেজাজ ৫০%।</Difficulty_ColonistMoodOffset_Info>
+  <!-- EN: Food poison chance -->
+  <Difficulty_FoodPoisonChanceFactor_Label>খাদ্য বিষের সম্ভাবনা</Difficulty_FoodPoisonChanceFactor_Label>
+  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
+  <Difficulty_FoodPoisonChanceFactor_Info>সম্ভাব্য বিষাক্ত খাবার খেয়ে খাদ্য বিষক্রিয়া হওয়ার সম্ভাবনা পরিবর্তন করুন।</Difficulty_FoodPoisonChanceFactor_Info>
+  <!-- EN: Animal revenge chance -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>প্রাণী প্রতিশোধের সম্ভাবনা</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>বন্য প্রাণী আহত করলে আক্রমণের সম্ভাবনা পরিবর্তন করুন।</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <!-- EN: Friendly fire -->
+  <Difficulty_FriendlyFireChanceFactor_Label>বান্ধব আগুন</Difficulty_FriendlyFireChanceFactor_Label>
+  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
+  <Difficulty_FriendlyFireChanceFactor_Info>বান্ধবীয় ক্ষতির সম্ভাবনা সামঞ্জস্য করুন।\n\nনোট: এই সেটিংস শুধুমাত্র সেই সরাসরি আঘাতগুলির ক্ষেত্রে প্রযোজ্য যা তাদের লক্ষ্যে আঘাত হানতে যাচ্ছিল। এটি বিস্ফোরণ থেকে হওয়া ক্ষতি অথবা লক্ষ্যভ্রষ্ট হওয়া আঘাত থেকে হওয়া ক্ষতি প্রতিরোধ করে না।</Difficulty_FriendlyFireChanceFactor_Info>
+  <!-- EN: Colonist instant kills -->
+  <Difficulty_AllowInstantKillChance_Label>উপনিবেশীর তাৎক্ষণিক মৃত্যু</Difficulty_AllowInstantKillChance_Label>
+  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AllowInstantKillChance_Info>আক্রমণের কারণে একজন উপনিবেশীর তাৎক্ষণিকভাবে মৃত্যুর সম্ভাবনা সামঞ্জস্য করুন। আগত ক্ষতি এমনভাবে সমন্বয় করা হবে যাতে উপনিবেশী অজ্ঞান হয়ে যায়।\n\nএটি শুধুমাত্র কিছু ধরণের তাৎক্ষণিক মৃত্যুকে প্রতিরোধ করে—উপনিবেশীরা এখনও অজ্ঞান হয়ে রক্তক্ষরণে মারা যেতে পারে, আগুনে, বিস্ফোরণে, রোগে এবং অন্যান্য কারণে মারা যেতে পারে।</Difficulty_AllowInstantKillChance_Info>
+  <!-- EN: Infection chance -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>সংক্রমণ সম্ভাবনা</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <!-- EN: Adjust the chance that a wound will become infected. -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>ক্ষতের সংক্রমণ হওয়ার সম্ভাবনা সামঞ্জস্য করুন।</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <!-- EN: Disease frequency -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>রোগের ফ্রিকোয়েন্সি</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <!-- EN: Adjust the frequency of random disease events. -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>র‍্যান্ডম রোগ ঘটনার ফ্রিকোয়েন্সি সামঞ্জস্য করুন।</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <!-- EN: Insect spawning rate -->
+  <Difficulty_EnemyReproductionRateFactor_Label>কীটকের প্রজনন হার</Difficulty_EnemyReproductionRateFactor_Label>
+  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
+  <Difficulty_EnemyReproductionRateFactor_Info>বিদ্যমান কীট মৌচাক নতুন কীট তৈরি করার হার পরিবর্তন করুন। কম মান মানে প্রজনন ঘটনার মধ্যে বেশি সময়।\n\nএটি কীটপতঙ্গ সংক্রমণের ঘটনা ঘটতে পারে কিনা তা প্রভাবিত করে না - শুধুমাত্র সক্রিয় মৌচাকগুলি কীট তৈরি করার গতিকে প্রভাবিত করে।</Difficulty_EnemyReproductionRateFactor_Info>
+  <!-- EN: Deep drilling infestations -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>গভীর খনন সংক্রমণ</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>গভীর খনন শুরু করলে পোকামাকড়ের উপদ্রব হওয়ার সম্ভাবনা পরিবর্তন করুন।</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <!-- EN: Map generation ancient threats -->
+  <Difficulty_PeacefulTemples_Inverted_Label>প্রাচীন বিপদ</Difficulty_PeacefulTemples_Inverted_Label>
+  <!-- EN: Ancient structures may contain dangerous threats. -->
+  <Difficulty_PeacefulTemples_Inverted_Info>প্রাচীন কাঠামোতে বিপজ্জনক বিপদ থাকতে পারে।</Difficulty_PeacefulTemples_Inverted_Info>
+  <!-- EN: Map generation natural hives -->
+  <Difficulty_AllowCaveHives_Label>প্রাকৃতিক মৌচাক</Difficulty_AllowCaveHives_Label>
+  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
+  <Difficulty_AllowCaveHives_Info>প্রাকৃতিক গুহায় সুপ্ত কীট মৌচাক প্রজনন করতে পারে।\n\nএই সেটিংস শুধুমাত্র ম্যাপ তৈরির সময় প্রযোজ্য এবং খেলার সময় সুড়ঙ্গ তৈরি করতে আসা সক্রিয় কীটদের প্রভাবিত করে না।</Difficulty_AllowCaveHives_Info>
+  <!-- EN: Add unwavering prisoners -->
+  <Difficulty_UnwaveringPrisoners_Label>অটল বন্দী</Difficulty_UnwaveringPrisoners_Label>
+  <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
+  <Difficulty_UnwaveringPrisoners_Info>এই অপশনটি গেমে অতিরিক্ত বন্দী যোগ করে, যাদের দৃঢ় আনুগত্যের কারণে নিয়োগ করা যায় না।\n\nদৃঢ় প্রতিজ্ঞ বন্দী স্বাভাবিক বন্দীর সাথে যুক্ত হয়, তাই এটি বন্ধ করলে নিয়োগযোগ্য বন্দী বাড়বে না—এটি কেবল দৃঢ় প্রতিজ্ঞ বন্দীদের সরিয়ে দেবে।\n\nদৃঢ় প্রতিজ্ঞ বন্দীদের কূটনৈতিক সুবিধা লাভের জন্য ছেড়ে দেওয়া, বিক্রি করা, দাস বানানো, অঙ্গের জন্য ব্যবহার করা বা অন্য কোনো উপায়ে কাজে লাগানো যেতে পারে। সাধারণভাবে, তারা আরও বেশি বিকল্প এবং সম্পদ সরবরাহ করে, এবং গেমটিকে আরও সমৃদ্ধ ও সহজ করে তোলে।</Difficulty_UnwaveringPrisoners_Info>
+  <!-- EN: Nomadic mineable resources -->
+  <Difficulty_NomadicMineableResourcesFactor_Label>যাযাবর খনিজ সম্পদ</Difficulty_NomadicMineableResourcesFactor_Label>
+  <!-- EN: Adjust how many mineable resources are generated on maps after your first.\n\nNote: Your first colony map will always generate with the standard amount of resources. -->
+  <Difficulty_NomadicMineableResourcesFactor_Info>প্রথমটির পরে ম্যাপে উৎপন্ন খনিজ সম্পদের পরিমাণ পরিবর্তন করুন।\n\nনোট: আপনার প্রথম কলোনি ম্যাপে সর্বদা স্বাভাবিক পরিমাণে সম্পদ তৈরি হবে।</Difficulty_NomadicMineableResourcesFactor_Info>
+
+  <!-- EN: Player tools -->
+  <DifficultyPlayerToolsSection>খেলোয়াড়ের সরঞ্জাম</DifficultyPlayerToolsSection>
+  <!-- EN: Player can build traps -->
+  <Difficulty_AllowTraps_Label>ফাঁদ নির্মাণযোগ্য</Difficulty_AllowTraps_Label>
+  <!-- EN: Player can build traps like spike traps and IED traps. -->
+  <Difficulty_AllowTraps_Info>খেলোয়াড় স্পাইক ফাঁদ এবং আইইডি ফাঁদের মতো ফাঁদ তৈরি করতে পারে।</Difficulty_AllowTraps_Info>
+  <!-- EN: Player can build turrets -->
+  <Difficulty_AllowTurrets_Label>টারেটসমূহ নির্মাণযোগ্য</Difficulty_AllowTurrets_Label>
+  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
+  <Difficulty_AllowTurrets_Info>খেলোয়াড় ছোটো টারেটসমূহ, স্বয়ংক্রিয় কামান টারেটসমূহ এবং ইউরেনিয়াম স্লাগ টারেটসমূহের মতো স্থির টারেটসমূহ তৈরি করতে পারে।\n\nএই বৈশিষ্ট্যটি নিষ্ক্রিয় করা থাকলেও আপনি বন্দী টারেটসমূহ ব্যবহার করতে পারবেন।</Difficulty_AllowTurrets_Info>
+  <!-- EN: Player can build mortars -->
+  <Difficulty_AllowMortars_Label>মর্টার নির্মাণযোগ্য</Difficulty_AllowMortars_Label>
+  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
+  <Difficulty_AllowMortars_Info>খেলোয়াড় মর্টার তৈরি করতে পারে।\n\nএই অপশনটি নিষ্ক্রিয় করা থাকলেও বন্দী মর্টার ব্যবহার করা যেতে পারে।</Difficulty_AllowMortars_Info>
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>ক্লাসিক মর্টার</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>মর্টার তৈরি বা পুনরায় লোড করার জন্য আর শক্তিশালী ব্যারেল প্রয়োজন হবে না, এবং এটি ব্যবহারের সহজলভ্যতার জন্য উপযুক্ত করা হয়েছে।</Difficulty_ClassicMortars_Info>
+  
+  <!-- EN: Adaptation -->
+  <DifficultyAdaptationSection>পরিবর্তন</DifficultyAdaptationSection>
+  <!-- EN: Adaptation growth rate -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>অভিযোজন বৃদ্ধির হার</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>অভিযোজন মানে হলো, আপনি ভালো খেললে গল্পকথক গেমটিকে আরও কঠিন করে তুলবে। সময়ের সাথে সাথে একটি অভিযোজন স্কোর বাড়তে থাকে এবং আপনি ক্ষতিগ্রস্ত হলে তা কমে যায়।\n\nএই সেটিংটি সময়ের সাথে সাথে অভিযোজন স্কোর কতটা দ্রুত বাড়বে তা নিয়ন্ত্রণ করে।</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <!-- EN: Adaptation impact -->
+  <Difficulty_AdaptationEffectFactor_Label>অভিযোজন প্রভাব</Difficulty_AdaptationEffectFactor_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
+  <Difficulty_AdaptationEffectFactor_Info>অভিযোজন মানে হলো গল্পকথক আপনি ভালো করলে গেমটিকে আরও কঠিন করে তুলবে। সময়ের সাথে সাথে একটি অভিযোজন স্কোর বাড়তে থাকে, এবং আপনি ক্ষতিগ্রস্ত হলে তা কমে যায়।\n\nএই সেটিংসটি অভিযোজন স্কোর কীভাবে কঠিনতাকে প্রভাবিত করে তা নিয়ন্ত্রণ করে।</Difficulty_AdaptationEffectFactor_Info>
+  <!-- EN: Wealth-independent progress mode -->
+  <Difficulty_FixedWealthMode_Label>সম্পদ-নিরপেক্ষ অগ্রগতি পদ্ধতি</Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>সম্পদ-নিরপেক্ষ অগ্রগতি মোডে খেলুন।\n\nসাধারণ মোডে, গল্পকথক উপনিবেশীর সংখ্যা, খেলোয়াড়ের সম্পদ এবং অন্যান্য বিভিন্ন কারণ অনুসারে হুমকিগুলোর মাত্রা নির্ধারণ করে। সম্পদ-নিরপেক্ষ মোড সম্পদ উপাদানটি সরিয়ে দেয় এবং সময়ের উপর ভিত্তি করে একটি নির্দিষ্ট অগ্রগতি বক্ররেখা দিয়ে প্রতিস্থাপন করে। সময় গণনা করা হয় প্রতিটি উপনিবেশ প্রতিষ্ঠার পর থেকে।\n\nএটি শুধুমাত্র তাদের জন্য সুপারিশ করা হয় যারা একটি কঠোর দক্ষতা চ্যালেঞ্জ খুঁজছেন। সম্পদ-নিরপেক্ষ মোডে, নতুন বসতি স্থাপন না করলে গুরুতর ক্ষতি থেকে পুনরুদ্ধার করা প্রায় অসম্ভব হতে পারে। কার্ভের চেয়ে অনেক এগিয়ে যাওয়া এবং গেমটি খুব সহজ মনে হওয়াও সম্ভব।</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>সর্বোচ্চ হুমকির বছর</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>সম্পদ-নিরপেক্ষ মোডটি তার সর্বোচ্চ হুমকি স্তরে পৌঁছাতে খেলার বছর সংখ্যা।\n\nগল্পকথক এখনও উপনিবেশ স্থাপনকারী সংখ্যা এবং অন্যান্য বিভিন্ন কারণ অনুসারে হুমকির মাত্রা পরিবর্তন করবে।</Difficulty_FixedWealthTimeFactor_Info>
+
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>মতাদর্শ</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>কম জনসংখ্যার রূপান্তর বুস্ট</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>খেলোয়াড়ের প্রাথমিক মতাদর্শের একজন উপনিবেশক থাকলে, তাদের মতাদর্শে ধর্মান্তরিত হওয়ার সম্ভাবনা এই পরিমাণ দ্বারা গুণ করা হয়। তাদের বিরুদ্ধে ধর্মান্তরিত করার প্রচেষ্টা সেই পরিমাণ দ্বারা বিভক্ত করা হবে।\n\nখেলোয়াড়ের প্রাথমিক মতাদর্শের দুইজন উপনিবেশক থাকলে, প্রভাব অর্ধেক হয়ে যায়।\n\nখেলোয়াড়ের প্রাথমিক মতাদর্শের তিনজন বা তার বেশি উপনিবেশক থাকলে, এর কোনো প্রভাব নেই।</Difficulty_LowPopConversionBoost_Info>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>শুরুর স্থান নির্বাচন করুন</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>র‍্যান্ডম স্থান নির্বাচন করুন</SelectRandomSite>
+  <!-- EN: Select site -->
+  <SelectSite>স্থান নির্বাচন করুন</SelectSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>অনুগ্রহ করে একটি স্থান নির্বাচন করুন।</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
+  <CannotLandBiome>এই বায়োমে অবতরণ করা সম্ভব নয়: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>বায়োম বাস্তবায়িত হয়নি।</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>অতিক্রম করা যায় না এমন পর্বতমালায় অবতরণ করা সম্ভব নয়।</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>{0} সেখানে আগে থেকেই একটি বেস আছে।</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>আপনার সেখানে একটি বেস বিদ্যমান।</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>এই টাইলটিOccupied।</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>বসতিগুলো একে অপরের সাথে সরাসরি সংলগ্ন হতে পারবে না।</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>বায়োম</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>ভূখণ্ড</Terrain>
+  <!-- EN: Road -->
+  <Road>রাস্তা</Road>
+  <!-- EN: River -->
+  <River>নদী</River>
+  <!-- EN: Elevation -->
+  <Elevation>উচ্চতা</Elevation>
+  <!-- EN: Features -->
+  <TileMutators>বৈশিষ্ট্যসমূহ</TileMutators>
+  <!-- EN: Fertility -->
+  <Fertility>প্রজনন ক্ষমতা</Fertility>
+  <!-- EN: fertility -->
+  <FertilityLower>উর্বরতা</FertilityLower>
+  <!-- EN: Average temperature -->
+  <AvgTemp>গড় তাপমাত্রা</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>বৃষ্টিপাত</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>বিশেষ বৈশিষ্ট্য</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>উত্তর উপকূল</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>পূর্ব উপকূল</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>দক্ষিণ উপকূল</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>পশ্চিম উপকূল</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>গুহা</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>গোষ্ঠীর ঘাঁটি</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>পাথরের প্রকারভেদ</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>সময় অঞ্চল</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>গতিবিধি অসুবিধা</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>প্রাণীরা এখন চারণ করতে পারে।</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>গড় রোগ頻তা</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>প্রতি বছর</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>সংগ্রহযোগ্যতা</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>নির্বাচিত কোনো ব্যক্তি নিম্নলিখিত কাজগুলি করতে পারবে না:\n\n{0}\n\nএর ফলে গেমটি স্বাভাবিকের চেয়ে কঠিন হয়ে যেতে পারে। আপনি কি চালিয়ে যেতে চান?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- EN: temperature -->
+  <TemperatureLower>তাপমাত্রা</TemperatureLower>
+  <!-- EN: light -->
+  <LightLower>আলো</LightLower>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>চরিত্র তৈরি করুন</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>চরিত্রের প্রথম নাম।\n\nএটি শুধুমাত্র নির্দিষ্ট মেনুতে প্রদর্শিত হয়।</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>এটি সবসময় প্রদর্শিত চরিত্রের সংক্ষিপ্ত পরিচিতি। এটি প্রথম নাম, শেষ নাম অথবা একটি সম্পূর্ণ ভিন্ন ডাকনাম হতে পারে।</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>চরিত্রটির পদবি।\n\nএটি শুধুমাত্র নির্দিষ্ট মেনুতে প্রদর্শিত হয়।</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>র্যান্ডমাইজ করুন</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>বয়স {0}</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>{PAWN_race}, বয়স {PAWN_ageFull}</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>{PAWN_লিঙ্গ} {PAWN_জাতি}, বয়স {PAWN_বয়সপূর্ণ}</PawnSummaryWithGender>
+  <!-- EN: Backstory -->
+  <Backstory>পূর্বকথা</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>অক্ষম</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>ক্ষমতা</Abilities>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipHediff>কর্তৃক সৃষ্ট</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>অক্ষম কাজের ধরন:</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by backstory -->
+  <IncapableOfTooltipBackstory>ব্যাকস্টোরি দ্বারা সৃষ্ট</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title -->
+  <IncapableOfTooltipTitle>কারণ দ্বারা শিরোনাম</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait -->
+  <IncapableOfTooltipTrait>বৈশিষ্ট্য দ্বারা সৃষ্ট</IncapableOfTooltipTrait>
+  <!-- EN: Caused by quest status -->
+  <IncapableOfTooltipQuest>অনুসন্ধান অবস্থার কারণে সৃষ্ট</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role -->
+  <IncapableOfTooltipRole>ভূমিকা দ্বারা সৃষ্ট</IncapableOfTooltipRole>
+  <!-- EN: Caused by gene -->
+  <IncapableOfTooltipGene>জিন দ্বারা সৃষ্ট</IncapableOfTooltipGene>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipMutant>কর্তৃক সৃষ্ট</IncapableOfTooltipMutant>
+  <!-- EN: Traits -->
+  <Traits>বৈশিষ্ট্য</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>স্থায়ী মেজাজ প্রভাব</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>দক্ষতা</Skills>
+  <!-- EN: none -->
+  <NoneLower>গুরুতর নিয়ম:</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>প্রাপ্তবয়স্কতা</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>শৈশব</Childhood>
+  <!-- EN: male -->
+  <Male>পুরুষ</Male>
+  <!-- EN: female -->
+  <Female>মহিলা</Female>
+  <!-- EN: male and female -->
+  <MaleAndFemale>পুরুষ ও মহিলা</MaleAndFemale>
+  <!-- EN: male -->
+  <MaleAnimal>পুরুষ</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>মহিলা</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>ব্যথা</Pain>
+  <!-- EN: Health -->
+  <Health>স্বাস্থ্য</Health>
+  <!-- EN: Relations -->
+  <Relations>সম্পর্ক</Relations>
+  <!-- EN: Possessions -->
+  <Possessions>অধিকারসমূহ</Possessions>
+  <!-- EN: Team skills -->
+  <TeamSkills>দলগত দক্ষতা</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>নির্বাচিত</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>ফেলে আসা</StartingPawnsLeftBehind>
+  <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
+  <GuiltyDesc>এই ব্যক্তিকে দোষী সাব্যস্ত করা হয়েছে। নির্বাসন, মৃত্যুদণ্ড বা গ্রেপ্তার করলে অন্যেরা বিচলিত হবে না।\n\nদোষের মেয়াদ শেষ হবে—</GuiltyDesc>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>শুরু</Start>
+  <!-- EN: Advanced -->
+  <Advanced>উন্নত</Advanced>
+  <!-- EN: Next -->
+  <Next>পরবর্তী</Next>
+  <!-- EN: Back -->
+  <Back>ফিরে যান</Back>
+  <!-- EN: Change material... -->
+  <ShowMaterials>উপকরণ পরিবর্তন…</ShowMaterials>
+  <!-- EN: Gameplay -->
+  <Gameplay>গেমপ্লে</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>সত্যিই ত্যাগ করবেন? আপনার সংরক্ষিত হয়নি এমন অগ্রগতি হারাতে হবে।</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>প্রত্যেক ব্যক্তির একটি বৈধ নাম প্রয়োজন।</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>নির্বাচিত কোনো ব্যক্তি নিম্নলিখিত কাজগুলি করতে পারবে না।</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>ত্যাগ করুন</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>গুরুত্বপূর্ণ নিয়ম</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>বিশ্ব তৈরি হচ্ছে।</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>গ্রহ তৈরি হচ্ছে</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>মানচিত্র তৈরি হচ্ছে</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>নতুন সংঘর্ষের জন্য মানচিত্র তৈরি করা হচ্ছে।</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info. -->
+  <ClickForMoreInfo>আরও তথ্যের জন্য ক্লিক করুন।</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>আর কোনো তথ্য পাওয়া যাচ্ছে না।</NoMoreInfoAvailable>
+  <!-- EN: Best skill -->
+  <BestSkillLabel>সেরা দক্ষতা</BestSkillLabel>
+  <!-- EN: {PAWN_nameDef}'s best stat -->
+  <BestSkillLetterLabel>{PAWN_nameDef}-এর সেরা বৈশিষ্ট্য</BestSkillLetterLabel>
+  <!-- EN: skill level {0} -->
+  <BestSkillInfoLevel>দক্ষতা স্তর {0}</BestSkillInfoLevel>
+
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>গোষ্ঠীসমূহ</Factions>
+  <!-- EN: max {0} basic factions allowed -->
+  <TotalFactionsAllowed>সর্বোচ্চ {0} মৌলিক দল অনুমোদিত</TotalFactionsAllowed>
+  <!-- EN: max {0} -->
+  <MaxFactionsForType>সর্বোচ্চ {0}</MaxFactionsForType>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>বিশ্বে থাকা দলগুলি নির্বাচন করুন। আপনি সর্বমোট {0} টি দল নির্বাচন করতে পারেন।</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>{0} নিষ্ক্রিয় করলে অনুসন্ধানের বৈচিত্র্য কমবে এবং অন্যান্য বিষয়বস্তুও হ্রাস পাবে।</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>{0} নিষ্ক্রিয় করা মানে স্বতঃস্ফূর্ত হুমকির ভিন্নতা কম হবে।</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>{0} নিষ্ক্রিয় করলে অনুসন্ধানের সুযোগ এবং স্বতঃস্ফূর্ত হুমকির বৈচিত্র্য কমবে।</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>অন্যান্য দল ছাড়াই, হানাসমূহ, বাণিজ্য এবং অনুসন্ধানগুলো স্বাভাবিকভাবে ঘটবে না।</FactionsDisabledWarning>
+  <!-- EN: Cannot be removed for this scenario. -->
+  <FactionRemovalDisabled>এই পরিস্থিতিতে সরানো যাবে না।</FactionRemovalDisabled>
+
+</LanguageData>

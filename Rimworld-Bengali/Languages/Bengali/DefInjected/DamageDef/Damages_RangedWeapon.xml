@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arrow -->
+  <Arrow.label>তির</Arrow.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <Arrow.deathMessage>{0} একটি তীর দ্বারা নিহত হয়েছে।</Arrow.deathMessage>
+  
+  <!-- EN: arrow -->
+  <ArrowHighVelocity.label>তির</ArrowHighVelocity.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <ArrowHighVelocity.deathMessage>{0} একটি তীর দ্বারা নিহত হয়েছে।</ArrowHighVelocity.deathMessage>
+  
+  <!-- EN: bullet -->
+  <Bullet.label>গুলি</Bullet.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Bullet.deathMessage>{0}-কে গুলি করে মারা হয়েছে।</Bullet.deathMessage>
+  
+  <!-- EN: stab -->
+  <RangedStab.label>ছুরিকাঘাত</RangedStab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <RangedStab.deathMessage>{0} ছুরিকাঘাতে নিহত হয়েছে।</RangedStab.deathMessage>
+  
+</LanguageData>

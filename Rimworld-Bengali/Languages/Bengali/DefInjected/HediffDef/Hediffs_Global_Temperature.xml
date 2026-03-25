@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heatstroke -->
+  <Heatstroke.label>তাপমাত্রাঘাত</Heatstroke.label>
+  <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
+  <Heatstroke.description>অতিরিক্ত তাপ এবং সূর্যের আলোতে অতিরিক্ত exposure-এর কারণে শরীরের কার্যকারিতায় একটি সাধারণ ব্যাঘাত ঘটে। আক্রান্ত ব্যক্তি মাথা ঘোরায়, দুর্বল হয়ে পড়ে এবং বিভ্রান্ত হয়ে যায়। ঠান্ডা জায়গায় গেলে দ্রুত সেরে ওঠে, তবে তাপের exposure অব্যাহত থাকলে হিট স্ট্রোক আরও খারাপ হতে থাকে যতক্ষণ না মৃত্যু হয়।</Heatstroke.description>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-0.label>প্রাথমিক</Heatstroke.stages.initial-0.label>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-1.label>প্রাথমিক</Heatstroke.stages.initial-1.label>
+  <!-- EN: minor -->
+  <Heatstroke.stages.minor.label>ক্ষুদ্র</Heatstroke.stages.minor.label>
+  <!-- EN: serious -->
+  <Heatstroke.stages.serious.label>গুরুতর</Heatstroke.stages.serious.label>
+  <!-- EN: extreme -->
+  <Heatstroke.stages.extreme.label>গুরুতর</Heatstroke.stages.extreme.label>
+  
+  <!-- EN: hypothermia -->
+  <Hypothermia.label>হাইপোথার্মিয়া</Hypothermia.label>
+  <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
+  <Hypothermia.description>গুরুতরভাবে কম শরীরের অভ্যন্তরীণ তাপমাত্রা। পুনরায় গরম না করা হলে, হাইপোথার্মিয়া আরও খারাপ হয় এবং মৃত্যুতে পর্যবসিত হয়। একবার ভুক্তভোগীকে পুনরায় গরম করা হলে পুনরুদ্ধার দ্রুত হয়। ঠান্ডা পরিবেশে গরম কাপড় পরে হাইপোথার্মিয়া এড়িয়ে চলুন।</Hypothermia.description>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-0.label>কাঁপুনি</Hypothermia.stages.shivering-0.label>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-1.label>কাঁপুনি</Hypothermia.stages.shivering-1.label>
+  <!-- EN: minor -->
+  <Hypothermia.stages.minor.label>ক্ষুদ্র</Hypothermia.stages.minor.label>
+  <!-- EN: serious -->
+  <Hypothermia.stages.serious.label>গুরুতর</Hypothermia.stages.serious.label>
+  <!-- EN: extreme -->
+  <Hypothermia.stages.extreme.label>তীব্র</Hypothermia.stages.extreme.label>
+  
+  <!-- EN: hypothermic slowdown -->
+  <HypothermicSlowdown.label>হাইপোথার্মিক ধীরগতি</HypothermicSlowdown.label>
+  <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
+  <HypothermicSlowdown.description>কিছু প্রাণী চরম ঠান্ডায় টিকে থাকার জন্য ব্যবহৃত একটি বিশেষ জৈবিক অবস্থা। গরম রাখার চেষ্টা না করে, প্রাণীর শরীরের রসায়ন অভ্যন্তরীণ জমাট বাঁধা রোধ করতে খুব কম তাপমাত্রার সাথে খাপ খায়। শারীরিক কার্যাবলী ধীর হয়ে যায় এবং ক্ষমতা হ্রাস পায়, তবে ঠান্ডার কারণে স্থায়ী ক্ষতি হয় না। কিছু জীববিজ্ঞানীরা একে জাগ্রত হাইবারনেশনের একটি রূপ বলে অভিহিত করেন।</HypothermicSlowdown.description>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-0.label>ক্ষুদ্র</HypothermicSlowdown.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-1.label>ক্ষুদ্র</HypothermicSlowdown.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <HypothermicSlowdown.stages.moderate.label>মাঝারি</HypothermicSlowdown.stages.moderate.label>
+  <!-- EN: serious -->
+  <HypothermicSlowdown.stages.serious.label>গুরুতর</HypothermicSlowdown.stages.serious.label>
+  <!-- EN: extreme -->
+  <HypothermicSlowdown.stages.extreme.label>গুরুতর</HypothermicSlowdown.stages.extreme.label>
+  
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab -->
+  <Megascarab.label>মেগাস্কারাব</Megascarab.label>
+  <!-- EN: A genetically-engineered war insect that resembles a massive beetle. Once the worker caste of an artificial ecosystem of insects designed to fight mechanoid invasions, it is less deadly than its larger cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain. -->
+  <Megascarab.description>একটি জেনেটিকালি-প্রকৌশল করা যুদ্ধ-পোকা যা বিশাল আকারের একটি গুবরে পোকার মতো দেখতে। একসময় এটি মেকানোইড আক্রমণ প্রতিহত করার জন্য ডিজাইন করা কৃত্রিম পোকামাকড় বাস্তুতন্ত্রের কর্মী শ্রেণির অন্তর্ভুক্ত ছিল, তবে এটি তার বড় ভাইদের চেয়ে কম মারাত্মক। তবুও, এর আকার এবং শক্ত খোলস এটিকে আক্রমণ করার সময় বিপজ্জনক করে তোলে। একটি ইউসোশ্যাল প্রাণী হিসেবে, এটি স্বতন্ত্রভাবে প্রজনন করতে পারে না।\n\nমেকানোইড-বিধ্বস্ত পরিবেশে উন্নতি লাভের জন্য প্রকৌশল করা এই ধরনের যুদ্ধ-পোকা দূষিত ভূখণ্ডে উন্মুক্ত হওয়ার পরে দ্রুত চলাচল করে।</Megascarab.description>
+  <!-- EN: mandibles -->
+  <Megascarab.tools.mandibles.label>ম্যান্ডিবল</Megascarab.tools.mandibles.label>
+  <!-- EN: head -->
+  <Megascarab.tools.head.label>মাথা</Megascarab.tools.head.label>
+  
+  <!-- EN: megaspider -->
+  <Megaspider.label>দৈত্যাকার মাকড়সা</Megaspider.label>
+  <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insect the size of a bear. Its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain.\n\nEngineered to fight mechanoids in toxic environments, war insects like this move faster after being exposed to polluted terrain. -->
+  <Megaspider.description>দৈত্যাকার মাকড়সাটি আসলে মাকড়সা নয়, এটি জেনেটিক্যালি ইঞ্জিনিয়ারড একটি বিশাল কীট যা একটি ভালুকের আকারের। এর পুরু কাইটিনাস বর্ম এটিকে হত্যা করা কঠিন করে তোলে, যেখানে এর লম্বা রিপার-ব্লেড এটিকে কাছ থেকে মারাত্মক করে তোলে। তবে, খোলা প্রান্তরে এটি বেশ ধীর।\n\nমেকানোইডসমূহের সাথে বিষাক্ত পরিবেশে যুদ্ধ করার জন্য ইঞ্জিনিয়ারড, এই ধরনের যুদ্ধ-কীট দূষিত ভূখণ্ডে উন্মুক্ত হওয়ার পরে দ্রুত চলাচল করে।</Megaspider.description>
+  <!-- EN: insect meat -->
+  <Megaspider.race.meatLabel>কীটপতঙ্গের মাংস</Megaspider.race.meatLabel>
+  <!-- EN: head claw -->
+  <Megaspider.tools.head_claw.label>মাথার থাবা</Megaspider.tools.head_claw.label>
+  <!-- EN: head -->
+  <Megaspider.tools.head.label>মাথা</Megaspider.tools.head.label>
+  
+  <!-- EN: spelopede -->
+  <Spelopede.label>গুহা-পোকা</Spelopede.label>
+  <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain. -->
+  <Spelopede.description>এটি ভেড়ার আকারের একটি মাঝারি আকারের জৈব-প্রকৌশল করা পোকা-প্রাণী। গুহা-পোকা একটি কলোনির মধ্যম স্তরভুক্ত, যা অধিকাংশ কাজ এবং খননকারী নখর দিয়ে যুদ্ধের দায়িত্ব নেয়। এটি যুদ্ধে বিপজ্জনক, কিন্তু খোলা জায়গায় ধীরগতির।\n\nমেকানোইড-বিধ্বস্ত পরিবেশে উন্নতির জন্য প্রকৌশল করা এই যুদ্ধ-পোকা দূষিত ভূখণ্ডে উন্মুক্ত হওয়ার পর দ্রুত চলাচল করে।</Spelopede.description>
+  <!-- EN: head claw -->
+  <Spelopede.tools.head_claw.label>মাথার নখর</Spelopede.tools.head_claw.label>
+  <!-- EN: head -->
+  <Spelopede.tools.head.label>মাথা</Spelopede.tools.head.label>
+  
+</LanguageData>

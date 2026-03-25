@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flak helmet -->
+  <Apparel_AdvancedHelmet.label>ফ্লেক হেলমেট</Apparel_AdvancedHelmet.label>
+  <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
+  <Apparel_AdvancedHelmet.description>একটি জটিল নকশার হালকা ওজনের যুদ্ধ শিরস্ত্রাণ, যা প্লাস্টিল দিয়ে শক্তিশালী করা হয়েছে। ভোঁতা অস্ত্রের বিরুদ্ধে এটি তেমন কার্যকর নয়।</Apparel_AdvancedHelmet.description>
+  
+  <!-- EN: recon helmet -->
+  <Apparel_ArmorHelmetRecon.label>পুনর্দর্শন হেলমেট</Apparel_ArmorHelmetRecon.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. -->
+  <Apparel_ArmorHelmetRecon.description>একটি উচ্চ-প্রযুক্তি সম্পন্ন বর্মযুক্ত হেলমেট, যেখানে বিল্ট-ইন স্ট্যাটাস কম্পিউটার এবং একটি সুরক্ষামূলক প্লাস্টিল-বুনন প্লেট রয়েছে।\n\nএই ধরনের বর্ম প্রায়শই ইম্পেরিয়াল স্কাউট ট্রুপস বা ঝলমলে বিশ্ব-এর পুলিশ বাহিনী ব্যবহার করে।</Apparel_ArmorHelmetRecon.description>
+  
+  <!-- EN: bowler hat -->
+  <Apparel_BowlerHat.label>বোলার হ্যাট</Apparel_BowlerHat.label>
+  <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
+  <Apparel_BowlerHat.description>একটি সুন্দর টুপি যা সামান্য শহুরে, অর্থ-প্রেমী শৈলী প্রকাশ করে। সামাজিক প্রভাব উন্নত করে।</Apparel_BowlerHat.description>
+  
+  <!-- EN: face mask -->
+  <Apparel_ClothMask.label>মুখোশ</Apparel_ClothMask.label>
+  <!-- EN: A piece of fabric which covers the wearer's mouth and nose with several layers of textile. It is remarkably effective in reducing the effects of environmental toxins. -->
+  <Apparel_ClothMask.description>এটি একটি কাপড়ের টুকরা যা পরিধানকারীর মুখ এবং নাক একাধিক স্তরের টেক্সটাইল দিয়ে ঢেকে রাখে। এটি পরিবেশগত বিষাক্ত পদার্থের প্রভাব কমাতে উল্লেখযোগ্যভাবে কার্যকর।</Apparel_ClothMask.description>
+  
+  <!-- EN: cowboy hat -->
+  <Apparel_CowboyHat.label>কাউবয় টুপি</Apparel_CowboyHat.label>
+  <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
+  <Apparel_CowboyHat.description>আকর্ষণীয় এবং মজবুত, এই টুপিটি রোদ ও বৃষ্টি থেকে রক্ষা করে—এবং এটি পরিধানকারীকে অতিরিক্ত আকর্ষণ যোগ করে। এটি ঐতিহ্যবাহী পশ্চিমা পোশাকের সবচেয়ে গুরুত্বপূর্ণ অংশ।</Apparel_CowboyHat.description>
+  
+  <!-- EN: hood -->
+  <Apparel_HatHood.label>হুড</Apparel_HatHood.label>
+  <!-- EN: A draped hood which covers the head and ears. -->
+  <Apparel_HatHood.description>মাথা এবং কান ঢেকে রাখে এমন একটি আচ্ছাদিত টুপি।</Apparel_HatHood.description>
+  
+  <!-- EN: marine helmet -->
+  <Apparel_PowerArmorHelmet.label>সামুদ্রিক হেলমেট</Apparel_PowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by rapid-incursion space marines. -->
+  <Apparel_PowerArmorHelmet.description>একটি সামুদ্রিক বর্ম শিরস্ত্রাণ, যেখানে বিল্ট-ইন স্ট্যাটাস কম্পিউটার এবং স্তরায়িত প্লাস্টিল-বুনন প্লেট রয়েছে।\n\nএই ধরনের বর্ম প্রায়শই দ্রুত-আক্রমণকারী মহাকাশ মেরিনদের দ্বারা ব্যবহৃত হয়।</Apparel_PowerArmorHelmet.description>
+  
+  <!-- EN: psychic foil helmet -->
+  <Apparel_PsychicFoilHelmet.label>সাইকিক ফয়েল হেলমেট</Apparel_PsychicFoilHelmet.label>
+  <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
+  <Apparel_PsychicFoilHelmet.description>সূক্ষ্মভাবে সুর করা সাইকিক-শোষণকারী ফয়েলের শীটযুক্ত একটি পাতলা হেলমেট। এটি সাইকিক তরঙ্গের প্রভাব হ্রাস করে।</Apparel_PsychicFoilHelmet.description>
+  
+  <!-- EN: simple helmet -->
+  <Apparel_SimpleHelmet.label>সাধারণ হেলমেট</Apparel_SimpleHelmet.label>
+  <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
+  <Apparel_SimpleHelmet.description>এটি একটি সাধারণ হেলমেট যা তীক্ষ্ণ আক্রমণ থেকে মাঝারি সুরক্ষা প্রদান করে। ভোঁতা অস্ত্রের বিরুদ্ধে এটি কার্যকর নয়।</Apparel_SimpleHelmet.description>
+  
+  <!-- EN: tribal headdress -->
+  <Apparel_TribalHeaddress.label>উপজাতীয় শিরস্ত্রাণ</Apparel_TribalHeaddress.label>
+  <!-- EN: Elegant traditional garb, often with religious significance. Improves social impact. -->
+  <Apparel_TribalHeaddress.description>আভিজাত্যপূর্ণ ঐতিহ্যবাহী পোশাক, প্রায়শই ধর্মীয় তাৎপর্যযুক্ত। সামাজিক প্রভাব উন্নত করে।</Apparel_TribalHeaddress.description>
+  
+  <!-- EN: tuque -->
+  <Apparel_Tuque.label>টুque</Apparel_Tuque.label>
+  <!-- EN: A soft, thick cap. Great for keeping warm in winter. -->
+  <Apparel_Tuque.description>একটি নরম, পুরু টুপি। শীতকালে গরম রাখার জন্য দারুণ।</Apparel_Tuque.description>
+  
+  <!-- EN: war mask -->
+  <Apparel_WarMask.label>যুদ্ধ মুখোশ</Apparel_WarMask.label>
+  <!-- EN: An artistically terrifying war mask. It hides the wearer's face and makes them more confident. -->
+  <Apparel_WarMask.description>এটি একটি শৈল্পিকভাবে ভীতিকর যুদ্ধ মুখোশ। এটি পরিধানকারীর মুখ ঢেকে রাখে এবং তাদের আত্মবিশ্বাস বাড়ায়।</Apparel_WarMask.description>
+  
+  <!-- EN: veil -->
+  <Apparel_WarVeil.label>অবরোধক</Apparel_WarVeil.label>
+  <!-- EN: A piece of fabric which covers the wearer's face. It protects surprisingly well against pollution. -->
+  <Apparel_WarVeil.description>এটি একটি কাপড়ের টুকরা যা পরিধানকারীর মুখ ঢেকে রাখে। এটি দূষণের বিরুদ্ধে আশ্চর্যজনকভাবে ভালো সুরক্ষা প্রদান করে।</Apparel_WarVeil.description>
+  
+</LanguageData>

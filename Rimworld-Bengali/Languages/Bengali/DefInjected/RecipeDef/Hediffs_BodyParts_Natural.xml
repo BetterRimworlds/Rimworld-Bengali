@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install heart -->
+  <InstallNaturalHeart.label>হার্ট প্রতিস্থাপন</InstallNaturalHeart.label>
+  <!-- EN: Install a biological heart. -->
+  <InstallNaturalHeart.description>একটি জৈবিক হৃদয় প্রতিস্থাপন করুন।</InstallNaturalHeart.description>
+  <!-- EN: Installing heart. -->
+  <InstallNaturalHeart.jobString>হৃদপিণ্ড প্রতিস্থাপন করা হচ্ছে।</InstallNaturalHeart.jobString>
+  
+  <!-- EN: install kidney -->
+  <InstallNaturalKidney.label>কিডনি প্রতিস্থাপন</InstallNaturalKidney.label>
+  <!-- EN: Install a biological kidney. -->
+  <InstallNaturalKidney.description>একটি জৈবিক কিডনি প্রতিস্থাপন করুন।</InstallNaturalKidney.description>
+  <!-- EN: Installing kidney. -->
+  <InstallNaturalKidney.jobString>কিডনি প্রতিস্থাপন করা হচ্ছে।</InstallNaturalKidney.jobString>
+  
+  <!-- EN: install liver -->
+  <InstallNaturalLiver.label>লিভার প্রতিস্থাপন</InstallNaturalLiver.label>
+  <!-- EN: Install a biological liver. -->
+  <InstallNaturalLiver.description>একটি জৈবিক লিভার প্রতিস্থাপন করুন।</InstallNaturalLiver.description>
+  <!-- EN: Installing liver. -->
+  <InstallNaturalLiver.jobString>.লিভার প্রতিস্থাপন করা হচ্ছে।</InstallNaturalLiver.jobString>
+  
+  <!-- EN: install lung -->
+  <InstallNaturalLung.label>ফুসফুস প্রতিস্থাপন</InstallNaturalLung.label>
+  <!-- EN: Install a lung. -->
+  <InstallNaturalLung.description>একটি ফুসফুস প্রতিস্থাপন করুন।</InstallNaturalLung.description>
+  <!-- EN: Installing lung. -->
+  <InstallNaturalLung.jobString>ফুসফুস প্রতিস্থাপন করা হচ্ছে।</InstallNaturalLung.jobString>
+  
+</LanguageData>

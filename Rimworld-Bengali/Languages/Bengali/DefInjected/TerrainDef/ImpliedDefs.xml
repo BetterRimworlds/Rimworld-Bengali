@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granito en bruto -->
+  <Granite_Rough.label>অপরিশোধিত গ্রানাইট</Granite_Rough.label>
+  <!-- EN: Suelo de granito en bruto. -->
+  <Granite_Rough.description>অপরিশোধিত গ্রানাইট পাথরের মেঝে।</Granite_Rough.description>
+  
+  <!-- EN: granito tallado en bruto -->
+  <Granite_RoughHewn.label>কাঁচা গ্রানিত খোদাই</Granite_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de granito. -->
+  <Granite_RoughHewn.description>প্রাকৃতিক গ্রানাইট পাথরের অমসৃণ ভূমি।</Granite_RoughHewn.description>
+  
+  <!-- EN: granito liso -->
+  <Granite_Smooth.label>গ্রানিতো লিসো</Granite_Smooth.label>
+  <!-- EN: Suelo natural de granito alisado. -->
+  <Granite_Smooth.description>মসৃণ গ্রানাইট পাথরের প্রাকৃতিক মেঝে।</Granite_Smooth.description>
+  
+  <!-- EN: caliza en bruto -->
+  <Limestone_Rough.label>কাঁচা ক্যালিজা</Limestone_Rough.label>
+  <!-- EN: Suelo de caliza en bruto. -->
+  <Limestone_Rough.description>অপরিশোধিত চুনাপাথরের মেঝে।</Limestone_Rough.description>
+  
+  <!-- EN: caliza tallado en bruto -->
+  <Limestone_RoughHewn.label>কাঁচা খোদাই করা ক্যালিজা</Limestone_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de caliza. -->
+  <Limestone_RoughHewn.description>চুনাপাথরের প্রাকৃতিক অমসৃণ ভূমি।</Limestone_RoughHewn.description>
+  
+  <!-- EN: caliza liso -->
+  <Limestone_Smooth.label>ক্যালিজা লিসো</Limestone_Smooth.label>
+  <!-- EN: Suelo natural de caliza alisado. -->
+  <Limestone_Smooth.description>মসৃণ চুনাপাথরের প্রাকৃতিক মাটি।</Limestone_Smooth.description>
+  
+  <!-- EN: mármol en bruto -->
+  <Marble_Rough.label>অপরিশোধিত মার্বেল</Marble_Rough.label>
+  <!-- EN: Suelo de mármol en bruto. -->
+  <Marble_Rough.description>কাঁচা মার্বেল মেঝে।</Marble_Rough.description>
+  
+  <!-- EN: mármol tallado en bruto -->
+  <Marble_RoughHewn.label>কাঁচা খোদাই করা মার্বেল</Marble_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de mármol. -->
+  <Marble_RoughHewn.description>প্রাকৃতিক মার্বেলের অমসৃণ মেঝে।</Marble_RoughHewn.description>
+  
+  <!-- EN: mármol liso -->
+  <Marble_Smooth.label>মসৃণ মার্বেল</Marble_Smooth.label>
+  <!-- EN: Suelo natural de mármol alisado. -->
+  <Marble_Smooth.description>মসৃণ মার্বেল পাথরের প্রাকৃতিক মেঝে।</Marble_Smooth.description>
+  
+  <!-- EN: arenisca en bruto -->
+  <Sandstone_Rough.label>অপরিশোধিত বেলেপাথর</Sandstone_Rough.label>
+  <!-- EN: Suelo de arenisca en bruto. -->
+  <Sandstone_Rough.description>অপরিশোধিত বেলেপাথরের মেঝে।</Sandstone_Rough.description>
+  
+  <!-- EN: arenisca tallado en bruto -->
+  <Sandstone_RoughHewn.label>অপরিশোধিত খোদাই করা অ্যারেনিস্কা</Sandstone_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de arenisca. -->
+  <Sandstone_RoughHewn.description>প্রাকৃতিক বেলেপাথরের অমসৃণ মাটি।</Sandstone_RoughHewn.description>
+  
+  <!-- EN: arenisca liso -->
+  <Sandstone_Smooth.label>অ্যারেনিসকা লিসো</Sandstone_Smooth.label>
+  <!-- EN: Suelo natural de arenisca alisado. -->
+  <Sandstone_Smooth.description>মসৃণ বেলেপাথরের প্রাকৃতিক মেঝে।</Sandstone_Smooth.description>
+  
+  <!-- EN: pizarra en bruto -->
+  <Slate_Rough.label>কাঁচা pizarra</Slate_Rough.label>
+  <!-- EN: Suelo de pizarra en bruto. -->
+  <Slate_Rough.description>কাঁচা পাথরের মেঝে।</Slate_Rough.description>
+  
+  <!-- EN: pizarra tallado en bruto -->
+  <Slate_RoughHewn.label>কাঁচা খোদাই করা pizarra</Slate_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de pizarra. -->
+  <Slate_RoughHewn.description>প্রাকৃতিক পাথরের তৈরি অমসৃণ মেঝে।</Slate_RoughHewn.description>
+  
+  <!-- EN: pizarra liso -->
+  <Slate_Smooth.label>পিজারা লিসো</Slate_Smooth.label>
+  <!-- EN: Suelo natural de pizarra alisado. -->
+  <Slate_Smooth.description>মসৃণ করা শ্লেল পাথরের প্রাকৃতিক মেঝে।</Slate_Smooth.description>
+  
+</LanguageData>

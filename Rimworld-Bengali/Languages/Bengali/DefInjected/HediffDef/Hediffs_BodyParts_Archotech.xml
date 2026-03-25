@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>আর্কোটেক বাহু</ArchotechArm.label>
+  <!-- EN: An installed archotech arm. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechArm.description>একটি স্থাপন করা আর্কোটেক বাহু। এটি একটি পুরু শক্ত কাঠের ডাল হাতের মধ্যে চূর্ণ করার মতো শক্তিশালী, এবং একটি চালের দানার উপর সনেট লেখার মতো সূক্ষ্ম। এটি দেখতে এবং অনুভব করতে স্বাভাবিক মাংসের মতো, তবে এটি প্লাস্টিল-এর চেয়ে ক্ষতি করা কঠিন। এমনকি যদি এটি ক্ষতিগ্রস্ত হয়, তবে সময়ের সাথে সাথে এটি নিজে থেকে মেরামত করে। এর অভ্যন্তরীণ কার্যকলাপ সমস্ত মানুষের মনের কাছে একটি রহস্য।</ArchotechArm.description>
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>মুষ্টি</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>আর্কোটেক বাহু</ArchotechArm.labelNoun>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>আর্কোটেক চোখ</ArchotechEye.label>
+  <!-- EN: An installed archotech eye. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Its internal workings are a mystery to human minds. -->
+  <ArchotechEye.description>একটি স্থাপন করা আর্কোটেক চোখ। এটি রেডিও তরঙ্গ, ইনফ্রারেড, আলো, এক্স-রে এবং গামা রশ্মি সহ প্রতিটি প্রকারের তড়িৎচুম্বকীয় বিকিরণ উপলব্ধি করতে পারে। এর চাক্ষুষ তীক্ষ্ণতা এতটাই নিখুঁত যে বিশ মিটার দূর থেকে হাতের লেখা পড়া সম্ভব। এটি টর্চের মতো বিভিন্ন তরঙ্গদৈর্ঘ্যের বিকিরণ নির্গত করতে পারে এবং এর অভ্যন্তরে একটি সাব-পার্সোনা এআই রয়েছে যা দরকারী চাক্ষুষ তথ্য তুলে ধরতে সাহায্য করে। এর অভ্যন্তরীণ কার্যকলাপ মানুষের কাছে রহস্য।</ArchotechEye.description>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>একটি আর্কোটেক চোখ</ArchotechEye.labelNoun>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>আর্কোটেক পা</ArchotechLeg.label>
+  <!-- EN: An installed archotech leg. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechLeg.description>একটি প্রতিস্থাপিত আর্কোটেক পা। এটি দেখতে এবং অনুভব করতে স্বাভাবিক মাংসের মতো, তবে এই দুটির একটি ব্যবহারকারীকে একটি ভালো গাড়ির মতোই দ্রুত গতিতে চলাচল করতে সাহায্য করতে পারে এবং এটি প্লাস্টিল-এর চেয়েও বেশি ক্ষতি প্রতিরোধী। ক্ষতিগ্রস্ত হলেও এটি সময়ের সাথে সাথে নিজে থেকেই মেরামত হয়ে যায়। এর অভ্যন্তরীণ কার্যকলাপ সমস্ত মানুষের মনের কাছে একটি রহস্য।</ArchotechLeg.description>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>আর্কোটেক পা</ArchotechLeg.labelNoun>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: first body ring -->
+  <MechanicalTermiteBodyFirstRing.label>প্রথম বডি রিং</MechanicalTermiteBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodyFirstRing.labelShort>শরীর রিং</MechanicalTermiteBodyFirstRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalTermiteBodySecondRing.label>দ্বিতীয় দেহ বলয়</MechanicalTermiteBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodySecondRing.labelShort>শরীর রিং</MechanicalTermiteBodySecondRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalTermiteBodyThirdRing.label>তৃতীয় দেহ বলয়</MechanicalTermiteBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodyThirdRing.labelShort>বডি রিং</MechanicalTermiteBodyThirdRing.labelShort>
+  
+</LanguageData>

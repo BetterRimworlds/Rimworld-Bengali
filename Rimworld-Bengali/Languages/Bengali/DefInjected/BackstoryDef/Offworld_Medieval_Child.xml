@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The child of an illicit affair, [PAWN_nameDef] was brought up by ascetics in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical and violence immoral. -->
+  <ConventChild16.description>অবৈধ সম্পর্কের সন্তান [PAWN_nameDef] মধ্যযুগীয় কনভেন্টে তপস্বীদের দ্বারা বড় হয়েছিলেন। তিনি কঠোর পরিশ্রম ও আনুগত্যের মূল্য শিখেছিলেন, তবে তাঁকে শেখানো হয়েছিল প্রযুক্তি ধর্মবিরোধী এবং সহিংসতা অনৈতিক।</ConventChild16.description>
+  <!-- EN: convent child -->
+  <ConventChild16.title>কনভেন্ট শিশু</ConventChild16.title>
+  <ConventChild16.titleFemale>কনভেন্ট শিশু</ConventChild16.titleFemale>
+  <!-- EN: illicit -->
+  <ConventChild16.titleShort>অবৈধ</ConventChild16.titleShort>
+  <ConventChild16.titleShortFemale>অবৈধ</ConventChild16.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of handcut stone, served by servants of the lower classes.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
+  <MedievalLordling19.description>[PAWN_nameDef] মধ্যযুগীয় বিশ্বে একটি পুরাতন রাজ্যের একজন ছোটখাটো অভিজাত ছিলেন। তিনি হাতে কাটা পাথরের তৈরি একটি ম্যানরে বড় হয়েছিলেন, যেখানে নিম্ন শ্রেণির ভৃত্যরা তাঁকে সেবা করত।\n\nএমন জীবন কোনো প্রযুক্তিগত দক্ষতা শেখায় না এবং শারীরিক পরিশ্রমের প্রতি বিতৃষ্ণা তৈরি করে - কিন্তু [PAWN_nameDef] খুব অল্প বয়সেই সামাজিক চালচলন সম্পর্কে শিখেছিলেন।</MedievalLordling19.description>
+  <!-- EN: medieval lordling -->
+  <MedievalLordling19.title>মধ্যযুগ সামন্ত প্রভু</MedievalLordling19.title>
+  <!-- EN: medieval lady -->
+  <MedievalLordling19.titleFemale>মধ্যযুগীয় মহিলা</MedievalLordling19.titleFemale>
+  <!-- EN: lordling -->
+  <MedievalLordling19.titleShort>ছোট জমিদার</MedievalLordling19.titleShort>
+  <!-- EN: lady -->
+  <MedievalLordling19.titleShortFemale>মহিলা</MedievalLordling19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine. -->
+  <MedievalSlave49.description>[PAWN_nameDef] মধ্যযুগীয় বিশ্বে গাড়ি টানা এবং গর্ত খোঁড়ার কাজ করে বড় হয়েছেন। সাধারণ শারীরিক পরিশ্রম তাঁর পুরনো বন্ধু – এবং সাথে ছিল মালিকের চাবুক।\n\nনয় বছর বয়স পর্যন্ত তিনি পড়তে শেখেননি।</MedievalSlave49.description>
+  <!-- EN: medieval slave -->
+  <MedievalSlave49.title>মধ্যযুগ ক্রীতদাস</MedievalSlave49.title>
+  <MedievalSlave49.titleFemale>মধ্যযুগ ক্রীতদাস</MedievalSlave49.titleFemale>
+  <!-- EN: slave -->
+  <MedievalSlave49.titleShort>দাস</MedievalSlave49.titleShort>
+  <MedievalSlave49.titleShortFemale>দাস</MedievalSlave49.titleShortFemale>
+  
+</LanguageData>

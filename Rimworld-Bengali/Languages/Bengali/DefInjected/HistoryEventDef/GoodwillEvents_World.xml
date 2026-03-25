@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedCaravan.label>আক্রমিত কাফেলা</AttackedCaravan.label>
+  
+  <!-- EN: attacked settlement -->
+  <AttackedSettlement.label>আক্রমিত বসতি</AttackedSettlement.label>
+  
+  <!-- EN: destroyed enemy base -->
+  <DestroyedEnemyBase.label>ধ্বংসপ্রাপ্ত শত্রু ঘাঁটি</DestroyedEnemyBase.label>
+  
+  <!-- EN: settlement proximity -->
+  <SettlementProximity.label>বসতির সান্নিধ্য</SettlementProximity.label>
+  
+</LanguageData>

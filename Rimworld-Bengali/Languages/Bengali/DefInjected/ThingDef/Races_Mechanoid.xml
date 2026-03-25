@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede blaster -->
+  <Mech_CentipedeBlaster.label>সেন্টিপিড ব্ল্যাস্টার</Mech_CentipedeBlaster.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeBlaster.description>এগুলি অসংখ্য ছোট পায়ের উপর দিয়ে চলমান ভারী যুদ্ধ মেকানোইডসমূহ। এদের পুরু কারাপেস এবং огневая ক্ষমতা স্তূপীকৃত স্থির রক্ষকদের বিরুদ্ধে খুবই কার্যকর করে তোলে। এরা কিছুটা হলেও দ্রুতগতির আঘাত-এবং-পালিয়ে যাওয়ার কৌশলের প্রতি দুর্বল।</Mech_CentipedeBlaster.description>
+  <!-- EN: head -->
+  <Mech_CentipedeBlaster.tools.head.label>মাথা</Mech_CentipedeBlaster.tools.head.label>
+  
+  <!-- EN: centipede burner -->
+  <Mech_CentipedeBurner.label>সেন্টিপিড বার্নার</Mech_CentipedeBurner.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeBurner.description>এগুলি অসংখ্য ছোট পায়ের উপর দিয়ে চলমান ভারী যুদ্ধ মেকানোইডসমূহ। এদের পুরু কারাপেস এবং огнеборное ক্ষমতা স্তূপীকৃত স্থির রক্ষকদের বিরুদ্ধে খুবই কার্যকর করে তোলে। এরা কিছুটা হলেও দ্রুতগতির আঘাত-এবং-পালিয়ে যাওয়ার কৌশলের প্রতি সংবেদনশীল।</Mech_CentipedeBurner.description>
+  <!-- EN: head -->
+  <Mech_CentipedeBurner.tools.head.label>মাথা</Mech_CentipedeBurner.tools.head.label>
+  
+  <!-- EN: centipede gunner -->
+  <Mech_CentipedeGunner.label>সেন্টিপিড বন্দুকধারী</Mech_CentipedeGunner.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeGunner.description>এগুলি অসংখ্য ছোট পায়ের উপর দিয়ে চলাচলকারী ভারী যুদ্ধ মেকানোইডসমূহ। এদের পুরু কারাপেস এবং огнеборное ক্ষমতা স্থিরভাবে অবস্থান করা সৈন্যদের বিরুদ্ধে খুবই কার্যকর। এরা দ্রুতগতিতে আক্রমণ ও পশ্চাদপসরণের কৌশলের প্রতি কিছুটা সংবেদনশীল।</Mech_CentipedeGunner.description>
+  <!-- EN: head -->
+  <Mech_CentipedeGunner.tools.head.label>মাথা</Mech_CentipedeGunner.tools.head.label>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>ল্যান্সার</Mech_Lancer.label>
+  <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
+  <Mech_Lancer.description>দ্রুত মানব-আকারের যুদ্ধ মেকানোইডসমূহ মাঝারি ও দীর্ঘ-পাল্লার যুদ্ধের জন্য নির্মিত। এদের শরীর হালকা হওয়ায়, এরা খুব সহজেই দুর্বল লক্ষ্যে পরিণত হতে পারে, বিশেষ করে নিকট যুদ্ধে।</Mech_Lancer.description>
+  <!-- EN: left fist -->
+  <Mech_Lancer.tools.left_fist.label>বাম মুষ্টি</Mech_Lancer.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Mech_Lancer.tools.left_fist.labelNoLocation>মুষ্টিবদ্ধ হাত</Mech_Lancer.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Mech_Lancer.tools.right_fist.label>ডান মুষ্টি</Mech_Lancer.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Mech_Lancer.tools.right_fist.labelNoLocation>মুষ্টিবদ্ধ হাত</Mech_Lancer.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Lancer.tools.head.label>মাথা</Mech_Lancer.tools.head.label>
+  
+  <!-- EN: pikeman -->
+  <Mech_Pikeman.label>পাইকধারী</Mech_Pikeman.label>
+  <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
+  <Mech_Pikeman.description>এটি একটি স্থূলকায় বহু-পায়ের যুদ্ধ মেকানোইড, যা দূরপাল্লার অস্ত্র প্ল্যাটফর্ম হিসেবে বিশেষভাবে তৈরি। দূর থেকে এটি কার্যকর হলেও, এটি স্বল্প-পাল্লার লড়াই এবং নিকট যুদ্ধে দুর্বল।\n\nমেকানোইড যুদ্ধের অভিজ্ঞ সেনারা জানেন যে প্রায়শই, একজন পাইকম্যানের আশেপাশে থাকার সবচেয়ে নিরাপদ জায়গা হলো তার সাথে লেগে থাকা।</Mech_Pikeman.description>
+  <!-- EN: front left leg -->
+  <Mech_Pikeman.tools.front_left_leg.label>সামনের বাম পা</Mech_Pikeman.tools.front_left_leg.label>
+  <!-- EN: leg -->
+  <Mech_Pikeman.tools.front_left_leg.labelNoLocation>পা</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
+  <!-- EN: front right leg -->
+  <Mech_Pikeman.tools.front_right_leg.label>সামনের ডান পা</Mech_Pikeman.tools.front_right_leg.label>
+  <!-- EN: leg -->
+  <Mech_Pikeman.tools.front_right_leg.labelNoLocation>পা</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Pikeman.tools.head.label>মাথা</Mech_Pikeman.tools.head.label>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>সাইথার</Mech_Scyther.label>
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive. -->
+  <Mech_Scyther.description>দ্রুত, সরু, মানব-আকারের যুদ্ধ মেকানোইডসমূহ দ্রুত আক্রমণ এবং স্বল্প-পাল্লার যুদ্ধে বিশেষজ্ঞ। এদের শরীর ধারালো অংশ ও ব্লেড দিয়ে ঢাকা, তবে এরা সাধারণত তাদের দুটি হাতের ব্লেড ব্যবহার করে অঙ্গচ্ছেদ করে বা জীবিত শিকারের পেট চিরে ফেলে।</Mech_Scyther.description>
+  <!-- EN: left blade -->
+  <Mech_Scyther.tools.left_blade.label>বাম ফলক</Mech_Scyther.tools.left_blade.label>
+  <!-- EN: blade -->
+  <Mech_Scyther.tools.left_blade.labelNoLocation>ব্লেড</Mech_Scyther.tools.left_blade.labelNoLocation>
+  <!-- EN: right blade -->
+  <Mech_Scyther.tools.right_blade.label>ডান ফলক</Mech_Scyther.tools.right_blade.label>
+  <!-- EN: blade -->
+  <Mech_Scyther.tools.right_blade.labelNoLocation>ব্লেড</Mech_Scyther.tools.right_blade.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Scyther.tools.head.label>মাথা</Mech_Scyther.tools.head.label>
+  
+  <!-- EN: termite -->
+  <Mech_Termite.label>ডিমাইট</Mech_Termite.label>
+  <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
+  <Mech_Termite.description>এটি একটি মাঝারি আকারের মেকানোইড। উইপোকা মাটি খোঁড়া, খনন করা এবং প্রতিরক্ষামূলক কাঠামো ভেঙে ফেলার কাজে বিশেষজ্ঞ। রক্ষাকারীদের সিদ্ধান্ত নিতে হবে যে তারা উইপোকাটি তাদের প্রতিরক্ষা ভেদ করার আগে ধ্বংস করার চেষ্টা করবে, নাকি যেখানে এটি মাটি থেকে বের হয়ে আসবে সেখানে নিয়ে যাবে।</Mech_Termite.description>
+  <!-- EN: head -->
+  <Mech_Termite.tools.head.label>মাথা</Mech_Termite.tools.head.label>
+  
+</LanguageData>

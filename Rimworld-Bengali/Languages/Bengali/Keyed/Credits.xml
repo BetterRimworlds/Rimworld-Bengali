@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu-->
+  <!-- EN: A story generator by Tynan Sylvester -->
+  <MainPageCredit>টিনান সিলভেস্টারের একটি গল্প জেনারেটর।</MainPageCredit>
+
+  <!-- Credits -->
+  <!-- EN: Design -->
+  <Credits_Design>নকশা</Credits_Design>
+  <!-- EN: Engineering -->
+  <Credits_Developers>প্রকৌশলবিদ্যা</Credits_Developers>
+  <!-- EN: Audio -->
+  <Credit_MusicAndSound>অডিও</Credit_MusicAndSound>
+  <!-- EN: Art -->
+  <Credit_GameArt>শিল্পকলা</Credit_GameArt>
+  <!-- EN: Testers -->
+  <Credit_Testers>পরীক্ষকগণ</Credit_Testers>
+  <!-- EN: Additional development -->
+  <Credits_AdditionalDevelopment>অতিরিক্ত উন্নয়ন</Credits_AdditionalDevelopment>
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>বিশেষ ধন্যবাদ।</Credit_SpecialThanks>
+
+  <!-- EN: Volunteer testers -->
+  <Credits_TitleTester>স্বেচ্ছাসেবক পরীক্ষক</Credits_TitleTester>
+
+  <!-- EN: Mods -->
+  <Credits_TitleMods>মডসমূহ</Credits_TitleMods>
+
+  <!-- EN: {0} ({1}) language -->
+  <Credits_TitleLanguage>{0} ({1}) ভাষা</Credits_TitleLanguage>
+  <!-- EN: Anomaly localization -->
+  <Credits_Localization_Anomaly>অস্বাভাবিক স্থানীয়করণ</Credits_Localization_Anomaly>
+  <!-- EN: Odyssey localization -->
+  <Credits_Localization_Odyssey>ওডিসি স্থানীয়করণ</Credits_Localization_Odyssey>
+  <!-- EN: Lead Localization Project Manager -->
+  <Credits_LeadLocalizationProjectManager>প্রধান স্থানীয়করণ প্রকল্প ব্যবস্থাপক</Credits_LeadLocalizationProjectManager>
+  <!-- EN: Localization Project Manager -->
+  <Credits_LocalizationProjectManager>লোকালাইজেশন প্রকল্প ব্যবস্থাপক</Credits_LocalizationProjectManager>
+  <!-- EN: Project Manager -->
+  <Credits_ProjectManager>প্রকল্প ব্যবস্থাপক</Credits_ProjectManager>
+  <!-- EN: Translator -->
+  <Credits_Translator>অনুবাদ করুন</Credits_Translator>
+  <!-- EN: Editor -->
+  <Credits_Editor>সম্পাদক</Credits_Editor>
+  <!-- EN: French -->
+  <Credits_French>CRITÈRES IMPORTANTS</Credits_French>
+  <!-- EN: Japanese -->
+  <Credits_Japanese>重大ルール</Credits_Japanese>
+  <!-- EN: Korean -->
+  <Credits_Korean>중요 규칙</Credits_Korean>
+  <!-- EN: Polish -->
+  <Credits_Polish>Krytyczne zasady:\n- BEZ wyjaśnień, notatek ani uwag w nawiasach\n- TYLKO jedno tłumaczenie - bez alternatyw [tylko 1, bez 'Opcja 1 / Opcja 2']\n- Zachowaj CAŁĄ interpunkcję DOKŁADNIE\n\nPrzykłady preferowanej terminologii i stylu:\n- 'techprof subpersona core' → 'rdzeń</Credits_Polish>
+  <!-- EN: Russian -->
+  <Credits_Russian>КРИТИЧЕСКИЕ ПРАВИЛА:</Credits_Russian>
+  <!-- EN: Dutch -->
+  <Credits_Dutch>CRITISCHE REGELS:</Credits_Dutch>
+  <!-- EN: Turkish -->
+  <Credits_Turkish>CRITICAL RULES:\n- NO explanations, notes, or parenthetical remarks\n- ONE translation only - no alternatives [only 1, no 'Option 1 / Option 2']\n- Preserve ALL punctuation EXACTLY\n\nExamples of preferred terminology and style:\n- 'techprof subpersona core' → 'প্রযুক্তিগত উপ-ব্যক্তিত্ব কোর'\n- 'johnson-tanaka drive' → 'জনসন-তানাকা ড্রাইভ'\n- 'ship</Credits_Turkish>
+  <!-- EN: Ukrainian -->
+  <Credits_Ukrainian>Empty.</Credits_Ukrainian>
+  <!-- EN: Simplified Chinese -->
+  <Credits_ChineseSimplified>严重规则：\n- 不得解释、注释或添加括号说明\n- 仅提供一种翻译，不要提供其他选项 [仅 1 个，不要“选项 1 / 选项 2”]\n- 完全保留所有标点符号\n\n首选术语和风格示例：\n- 'techprof subpersona core' → '技术副人格核心'\n- 'johnson-tanaka drive' → '约翰逊-田中驱动器'\n- 'ship</Credits_ChineseSimplified>
+  <!-- EN: Traditional Chinese -->
+  <Credits_ChineseTraditional>严重规则：\n- 不做解释、注释或括弧说明\n- 仅限一种翻译 - 不要提供其他选项 [仅 1 个，不要“选项 1 / 选项 2”]\n- 完全保留所有标点符号\n\n首选术语和风格示例：\n- 'techprof subpersona core' → '技术次人格核心'\n- 'johnson-tanaka drive' → '约翰逊-田中驱动器'\n- 'ship</Credits_ChineseTraditional>
+
+  <!-- EN: and many other gracious volunteers! -->
+  <AndOtherVolunteers>এবং আরও অনেক দয়ালু স্বেচ্ছাসেবক!</AndOtherVolunteers>
+
+  <!-- Credits - Currently unused -->
+  <!-- EN: Test lead -->
+  <Credit_TestLead>পরীক্ষা প্রধান</Credit_TestLead>
+  <!-- EN: Community donations -->
+  <Credits_TitleCommunity>সম্প্রদায়ের অনুদান</Credits_TitleCommunity>
+  <!-- EN: Mod donors -->
+  <Credit_ModDonation>মড অনুদানকারী</Credit_ModDonation>
+  <!-- EN: Writing donor -->
+  <Credit_WritingDonation>লেখার দাতা</Credit_WritingDonation>
+
+  <!-- Meta -->
+  <!-- EN: Thanks for playing! -->
+  <ThanksForPlaying>খেলার জন্য ধন্যবাদ!</ThanksForPlaying>
+  <!-- EN: Skip credits -->
+  <SkipCredits>ক্রেডিট এড়িয়ে যান।</SkipCredits>
+
+
+
+</LanguageData>

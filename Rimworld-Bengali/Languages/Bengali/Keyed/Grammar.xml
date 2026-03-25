@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a -->
+  <IndefiniteArticle>গুরুতর নিয়ম:</IndefiniteArticle>
+  <!-- EN: the -->
+  <DefiniteArticle>টি</DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm>একটি {0}</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>{0}</DefiniteForm>
+
+  <!-- EN: its -->
+  <Proits>এর</Proits>
+  <!-- EN: his -->
+  <Prohis>তাঁর</Prohis>
+  <!-- EN: her -->
+  <Proher>তার</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>এর</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>তাঁর</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>তার</ProherCap>
+
+  <!-- EN: it -->
+  <ProitObj>এটা</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>তাকে</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>তার</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>এটি</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>গুরুতর নিয়ম</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>তার</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>গুরুতর নিয়ম:</Prohe>
+  <!-- EN: she -->
+  <Proshe>সে</Proshe>
+  <!-- EN: it -->
+  <Proit>এটা</Proit>
+  <!-- EN: He -->
+  <ProheCap>সে</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>সে</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>এটা</ProitCap>
+
+  <!-- EN: man -->
+  <ProHeNoun>মানুষ</ProHeNoun>
+  <!-- EN: woman -->
+  <ProSheNoun>নারী</ProSheNoun>
+  <!-- EN: person -->
+  <ProItNoun>ব্যক্তি</ProItNoun>
+  
+  <!-- EN: {0} and {1}. -->
+  <ClauseSequence2>{0} এবং {1}.</ClauseSequence2>
+  <!-- EN: {0}. Also, {1} and {2}. -->
+  <ClauseSequence3>{0}। এছাড়াও, {1} এবং {2}।</ClauseSequence3>
+  <!-- EN: {0} and {1}. In addition {2} and {3}. -->
+  <ClauseSequence4>{0} এবং {1}। এছাড়াও {2} এবং {3}।</ClauseSequence4>
+  <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
+  <ClauseSequence5>{0} এবং {1}। এছাড়াও, {2} এবং {3}। অবশেষে, {4}।</ClauseSequence5>
+  <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
+  <ClauseSequence6>{0}। {1} এবং {2}। এছাড়াও, {3} এবং {4}। অবশেষে, {5}।</ClauseSequence6>
+  <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
+  <ClauseSequence7>{0} এবং {1}। {2} এবং {3}। এছাড়াও, {4} এবং {5}। অবশেষে, {6}।</ClauseSequence7>
+  <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
+  <ClauseSequence8>{0} এবং {1}। এছাড়াও, {2} এবং {3}। {4} এবং {5}। সবশেষে, {6} এবং {7}।</ClauseSequence8>
+
+  <!-- EN: {0} or {1} -->
+  <XorY>{0} অথবা {1}</XorY>
+
+</LanguageData>

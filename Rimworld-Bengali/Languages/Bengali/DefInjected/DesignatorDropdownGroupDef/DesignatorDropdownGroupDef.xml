@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: carpet -->
+  <Floor_Carpet.label>কার্পেট</Floor_Carpet.label>
+  
+  <!-- EN: fine carpet -->
+  <Floor_Carpet_Fine.label>সূক্ষ্ম কার্পেট</Floor_Carpet_Fine.label>
+  
+  <!-- EN: flagstone -->
+  <Floor_Flagstone.label>ফ্ল্যাগস্টোন</Floor_Flagstone.label>
+  
+  <!-- EN: tile -->
+  <Floor_Tile.label>টাইল</Floor_Tile.label>
+  
+  <!-- EN: fine tile -->
+  <Floor_Tile_Fine.label>সুন্দর টাইল</Floor_Tile_Fine.label>
+  
+  <!-- EN: metal tile -->
+  <Floor_Tile_Metal.label>ধাতব টাইলস</Floor_Tile_Metal.label>
+  
+  <!-- EN: standing lamp -->
+  <StandingLampColored.label>দাঁড়ানো বাতি</StandingLampColored.label>
+  
+</LanguageData>

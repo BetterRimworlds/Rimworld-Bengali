@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned camp -->
+  <AbandonedCamp.label>পরিত্যক্ত শিবির</AbandonedCamp.label>
+  <!-- EN: An abandoned camp. -->
+  <AbandonedCamp.description>একটি পরিত্যক্ত শিবির।</AbandonedCamp.description>
+  
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>পরিত্যক্ত বসতি</AbandonedSettlement.label>
+  <!-- EN: An abandoned settlement. -->
+  <AbandonedSettlement.description>একটি পরিত্যক্ত বসতি।</AbandonedSettlement.description>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedNonPlayerCaravan.label>আক্রমিত কাফেলা</AttackedNonPlayerCaravan.label>
+  <!-- EN: A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>একটি বহর আক্রান্ত হচ্ছে।</AttackedNonPlayerCaravan.description>
+  
+  <!-- EN: camp -->
+  <Camp.label>শিবির</Camp.label>
+  <!-- EN: A caravan has set up camp here temporarily. -->
+  <Camp.description>একটি বহর এখানে সাময়িকভাবে শিবির স্থাপন করেছে।</Camp.description>
+  
+  <!-- EN: caravan -->
+  <Caravan.label>বহর</Caravan.label>
+  <!-- EN: A group of traveling people. -->
+  <Caravan.description>ভ্রমণকারী মানুষের একটি দল।</Caravan.description>
+  
+  <!-- EN: destroyed settlement -->
+  <DestroyedSettlement.label>ধ্বংসপ্রাপ্ত বসতি</DestroyedSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSettlement.description>একটি ধ্বংসপ্রাপ্ত বসতি।</DestroyedSettlement.description>
+  
+  <!-- EN: landed ship -->
+  <EscapeShip.label>অবতরণকৃত জাহাজ</EscapeShip.label>
+  <!-- EN: The location of a hidden ship which can help you escape the planet. -->
+  <EscapeShip.description>এটি একটি লুকানো জাহাজের অবস্থান, যা আপনাকে গ্রহ থেকে পালাতে সাহায্য করতে পারে।</EscapeShip.description>
+  
+  <!-- EN: peace talks -->
+  <PeaceTalks.label>শান্তি আলোচনা</PeaceTalks.label>
+  <!-- EN: A site designated for peace talks. -->
+  <PeaceTalks.description>একটি শান্তি আলোচনার জন্য নির্ধারিত স্থান।</PeaceTalks.description>
+  
+  <!-- EN: pocket map -->
+  <PocketMap.label>পকেট ম্যাপ</PocketMap.label>
+  
+  <!-- EN: waypoint -->
+  <RoutePlannerWaypoint.label>ওয়েপয়েন্ট</RoutePlannerWaypoint.label>
+  <!-- EN: A temporary waypoint. -->
+  <RoutePlannerWaypoint.description>একটি অস্থায়ী ওয়েপয়েন্ট।</RoutePlannerWaypoint.description>
+  
+  <!-- EN: settlement -->
+  <Settlement.label>বসতি</Settlement.label>
+  <!-- EN: A base of one of the factions. -->
+  <Settlement.description>একটি দলের ঘাঁটি।</Settlement.description>
+  
+  <!-- EN: site -->
+  <Site.label>সাইট</Site.label>
+  
+  <!-- EN: transport pods -->
+  <TravellingTransporters.label>পরিবহন পড</TravellingTransporters.label>
+  <!-- EN: Transport pods in flight. -->
+  <TravellingTransporters.description>উড্ডয়নে পরিবহন পড।</TravellingTransporters.description>
+  
+</LanguageData>

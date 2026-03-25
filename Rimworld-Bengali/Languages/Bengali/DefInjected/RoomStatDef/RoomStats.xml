@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>সৌন্দর্য</Beauty.label>
+  <!-- EN: hideous -->
+  <Beauty.scoreStages.hideous.label>ভীষণ কুৎসিত</Beauty.scoreStages.hideous.label>
+  <!-- EN: ugly -->
+  <Beauty.scoreStages.ugly.label>কুৎসিত</Beauty.scoreStages.ugly.label>
+  <!-- EN: neutral -->
+  <Beauty.scoreStages.neutral.label>নিরপেক্ষ</Beauty.scoreStages.neutral.label>
+  <!-- EN: pretty -->
+  <Beauty.scoreStages.pretty.label>সুন্দর</Beauty.scoreStages.pretty.label>
+  <!-- EN: beautiful -->
+  <Beauty.scoreStages.beautiful.label>সুন্দর</Beauty.scoreStages.beautiful.label>
+  <!-- EN: very beautiful -->
+  <Beauty.scoreStages.very_beautiful.label>খুব সুন্দর</Beauty.scoreStages.very_beautiful.label>
+  <!-- EN: extremely beautiful -->
+  <Beauty.scoreStages.extremely_beautiful.label>অত্যন্ত সুন্দর</Beauty.scoreStages.extremely_beautiful.label>
+  <!-- EN: unbelievably beautiful -->
+  <Beauty.scoreStages.unbelievably_beautiful.label>অবিশ্বাস্য সুন্দর</Beauty.scoreStages.unbelievably_beautiful.label>
+  
+  <!-- EN: cleanliness -->
+  <Cleanliness.label>পরিচ্ছন্নতা</Cleanliness.label>
+  <!-- EN: very dirty -->
+  <Cleanliness.scoreStages.very_dirty.label>খুব নোংরা</Cleanliness.scoreStages.very_dirty.label>
+  <!-- EN: dirty -->
+  <Cleanliness.scoreStages.dirty.label>নোংরা</Cleanliness.scoreStages.dirty.label>
+  <!-- EN: slightly dirty -->
+  <Cleanliness.scoreStages.slightly_dirty.label>সামান্য নোংরা</Cleanliness.scoreStages.slightly_dirty.label>
+  <!-- EN: clean -->
+  <Cleanliness.scoreStages.clean.label>পরিষ্কার</Cleanliness.scoreStages.clean.label>
+  <!-- EN: sterile -->
+  <Cleanliness.scoreStages.sterile.label>জীবাণুমুক্ত</Cleanliness.scoreStages.sterile.label>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>খাদ্য বিষক্রিয়ার সম্ভাবনা</FoodPoisonChance.label>
+  
+  <!-- EN: grave visiting recreation factor -->
+  <GraveVisitingJoyGainFactor.label>কবর পরিদর্শন বিনোদন ফ্যাক্টর</GraveVisitingJoyGainFactor.label>
+  
+  <!-- EN: impressiveness -->
+  <Impressiveness.label>আকর্ষণীয়তা</Impressiveness.label>
+  <!-- EN: awful -->
+  <Impressiveness.scoreStages.awful.label>ভীষণ</Impressiveness.scoreStages.awful.label>
+  <!-- EN: dull -->
+  <Impressiveness.scoreStages.dull.label>স্তিমিত</Impressiveness.scoreStages.dull.label>
+  <!-- EN: mediocre -->
+  <Impressiveness.scoreStages.mediocre.label>mediocre</Impressiveness.scoreStages.mediocre.label>
+  <!-- EN: decent -->
+  <Impressiveness.scoreStages.decent.label>ভালো</Impressiveness.scoreStages.decent.label>
+  <!-- EN: slightly impressive -->
+  <Impressiveness.scoreStages.slightly_impressive.label>সামান্য চিত্তাকর্ষক</Impressiveness.scoreStages.slightly_impressive.label>
+  <!-- EN: somewhat impressive -->
+  <Impressiveness.scoreStages.somewhat_impressive.label>কিছুটা চিত্তাকর্ষক</Impressiveness.scoreStages.somewhat_impressive.label>
+  <!-- EN: very impressive -->
+  <Impressiveness.scoreStages.very_impressive.label>খুব চিত্তাকর্ষক।</Impressiveness.scoreStages.very_impressive.label>
+  <!-- EN: extremely impressive -->
+  <Impressiveness.scoreStages.extremely_impressive.label>অত্যন্ত চিত্তাকর্ষক</Impressiveness.scoreStages.extremely_impressive.label>
+  <!-- EN: unbelievably impressive -->
+  <Impressiveness.scoreStages.unbelievably_impressive.label>অবিশ্বাস্যভাবে চিত্তাকর্ষক</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <!-- EN: wondrously impressive -->
+  <Impressiveness.scoreStages.wondrously_impressive.label>বিস্ময়করভাবে চিত্তাকর্ষক</Impressiveness.scoreStages.wondrously_impressive.label>
+  
+  <!-- EN: infection chance factor -->
+  <InfectionChanceFactor.label>সংক্রমণ সুযোগ গুণক</InfectionChanceFactor.label>
+  
+  <!-- EN: reading bonus -->
+  <ReadingBonus.label>পঠন বোনাস</ReadingBonus.label>
+  
+  <!-- EN: research speed factor -->
+  <ResearchSpeedFactor.label>গবেষণা গতির গুণাঙ্ক</ResearchSpeedFactor.label>
+  
+  <!-- EN: space -->
+  <Space.label>স্থান</Space.label>
+  <!-- EN: cramped -->
+  <Space.scoreStages.cramped.label>বদ্ধ</Space.scoreStages.cramped.label>
+  <!-- EN: rather tight -->
+  <Space.scoreStages.rather_tight.label>খুবই টাইট</Space.scoreStages.rather_tight.label>
+  <!-- EN: average-sized -->
+  <Space.scoreStages.averagesized.label>গড় আকার</Space.scoreStages.averagesized.label>
+  <!-- EN: somewhat spacious -->
+  <Space.scoreStages.somewhat_spacious.label>কিছুটা প্রশস্ত</Space.scoreStages.somewhat_spacious.label>
+  <!-- EN: quite spacious -->
+  <Space.scoreStages.quite_spacious.label>খুব প্রশস্ত</Space.scoreStages.quite_spacious.label>
+  <!-- EN: very spacious -->
+  <Space.scoreStages.very_spacious.label>অত্যন্ত প্রশস্ত</Space.scoreStages.very_spacious.label>
+  <!-- EN: extremely spacious -->
+  <Space.scoreStages.extremely_spacious.label>অত্যন্ত প্রশস্ত</Space.scoreStages.extremely_spacious.label>
+  
+  <!-- EN: surgery success chance cleanliness factor -->
+  <SurgerySuccessChanceCleanlinessFactor.label>সার্জারির সাফল্যের সম্ভাবনা পরিচ্ছন্নতা গুণক</SurgerySuccessChanceCleanlinessFactor.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>সম্পদ</Wealth.label>
+  <!-- EN: impoverished -->
+  <Wealth.scoreStages.impoverished.label>দরিদ্র</Wealth.scoreStages.impoverished.label>
+  <!-- EN: somewhat poor -->
+  <Wealth.scoreStages.somewhat_poor.label>কিছুটা খারাপ</Wealth.scoreStages.somewhat_poor.label>
+  <!-- EN: mediocre -->
+  <Wealth.scoreStages.mediocre.label>mediocre</Wealth.scoreStages.mediocre.label>
+  <!-- EN: somewhat rich -->
+  <Wealth.scoreStages.somewhat_rich.label>কিছুটা ধনী</Wealth.scoreStages.somewhat_rich.label>
+  <!-- EN: rich -->
+  <Wealth.scoreStages.rich.label>ধনী</Wealth.scoreStages.rich.label>
+  <!-- EN: luxurious -->
+  <Wealth.scoreStages.luxurious.label>বিলাসবহুল</Wealth.scoreStages.luxurious.label>
+  <!-- EN: very luxurious -->
+  <Wealth.scoreStages.very_luxurious.label>অতি বিলাসবহুল</Wealth.scoreStages.very_luxurious.label>
+  <!-- EN: extremely luxurious -->
+  <Wealth.scoreStages.extremely_luxurious.label>অত্যন্ত বিলাসবহুল</Wealth.scoreStages.extremely_luxurious.label>
+  <!-- EN: unbelievably luxurious -->
+  <Wealth.scoreStages.unbelievably_luxurious.label>অবিশ্বাস্য বিলাসবহুল</Wealth.scoreStages.unbelievably_luxurious.label>
+  
+</LanguageData>

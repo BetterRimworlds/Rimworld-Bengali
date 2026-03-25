@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: time as a colonist -->
+  <TimeAsColonistOrColonyAnimal.label>উপনিবেশক সময়</TimeAsColonistOrColonyAnimal.label>
+  <!-- EN: Total time spent loyal to your community. -->
+  <TimeAsColonistOrColonyAnimal.description>আপনার সম্প্রদায়ের প্রতি অনুগত থেকে মোট সময়কাল।</TimeAsColonistOrColonyAnimal.description>
+  
+  <!-- EN: time as a prisoner -->
+  <TimeAsPrisoner.label>বন্দী সময়</TimeAsPrisoner.label>
+  <!-- EN: Total time spent as a prisoner. -->
+  <TimeAsPrisoner.description>বন্দী হিসাবে মোট সময় অতিবাহিত হয়েছে।</TimeAsPrisoner.description>
+  
+  <!-- EN: time hosted -->
+  <TimeAsQuestLodger.label>সময় অতিবাহিত</TimeAsQuestLodger.label>
+  <!-- EN: Total time spent hosted by your community through a quest. -->
+  <TimeAsQuestLodger.description>একটি অনুসন্ধানের মাধ্যমে আপনার সম্প্রদায় দ্বারা মোট সময় ব্যয় করা হয়েছে।</TimeAsQuestLodger.description>
+  
+  <!-- EN: time cleaning -->
+  <TimeCleaning.label>সময় পরিষ্কার</TimeCleaning.label>
+  <!-- EN: Total time spent cleaning. -->
+  <TimeCleaning.description>পরিষ্কার করতে মোট সময় ব্যয় হয়েছে।</TimeCleaning.description>
+  
+  <!-- EN: time constructing -->
+  <TimeConstructing.label>নির্মাণ সময়</TimeConstructing.label>
+  <!-- EN: Total time spent constructing and deconstructing buildings. -->
+  <TimeConstructing.description>ভবন নির্মাণ ও ভেঙে ফেলার কাজে মোট সময় ব্যয় হয়েছে।</TimeConstructing.description>
+  
+  <!-- EN: time downed -->
+  <TimeDowned.label>সময় ধরে রাখা</TimeDowned.label>
+  <!-- EN: Total time spent downed. -->
+  <TimeDowned.description>মোট সময় ধরে ভূপতিত ছিল।</TimeDowned.description>
+  
+  <!-- EN: time drafted -->
+  <TimeDrafted.label>সময় খসড়া করা হয়েছে</TimeDrafted.label>
+  <!-- EN: Total time spent drafted. -->
+  <TimeDrafted.description>মোট সময় নকশা তৈরিতে ব্যয় হয়েছে।</TimeDrafted.description>
+  
+  <!-- EN: time firefighting -->
+  <TimeFirefighting.label>অগ্নি নির্বাপণ সময়</TimeFirefighting.label>
+  <!-- EN: Total time spent firefighting. -->
+  <TimeFirefighting.description>আগুন নেভাতে মোট সময় ব্যয় হয়েছে।</TimeFirefighting.description>
+  
+  <!-- EN: time finding food and eating -->
+  <TimeGettingFood.label>খাবার অনুসন্ধান ও ভোজন সময়</TimeGettingFood.label>
+  <!-- EN: Total time spent on finding food and eating. -->
+  <TimeGettingFood.description>খাবার খুঁজে বের করা এবং খাওয়ার জন্য মোট সময়।</TimeGettingFood.description>
+  
+  <!-- EN: time spent on entertainment -->
+  <TimeGettingJoy.label>বিনোদন সময়</TimeGettingJoy.label>
+  <!-- EN: Total time spent on entertainment. -->
+  <TimeGettingJoy.description>মোট বিনোদনে ব্যয় করা সময়।</TimeGettingJoy.description>
+  
+  <!-- EN: time handling animals -->
+  <TimeHandlingAnimals.label>পশু পরিচালনা সময়</TimeHandlingAnimals.label>
+  <!-- EN: Total time spent handling animals. -->
+  <TimeHandlingAnimals.description>প্রাণীদের সাথে কাটানো মোট সময়।</TimeHandlingAnimals.description>
+  
+  <!-- EN: time hauling -->
+  <TimeHauling.label>সময় পরিবহন</TimeHauling.label>
+  <!-- EN: Total time spent hauling things. -->
+  <TimeHauling.description>মাল বহন করতে মোট সময় ব্যয় হয়েছে।</TimeHauling.description>
+  
+  <!-- EN: time hunting -->
+  <TimeHunting.label>সময় শিকার</TimeHunting.label>
+  <!-- EN: Total time spent hunting. -->
+  <TimeHunting.description>মোট শিকারের সময়।</TimeHunting.description>
+  
+  <!-- EN: time in a bed -->
+  <TimeInBed.label>বিছানায় সময়</TimeInBed.label>
+  <!-- EN: Total time spent in bed. -->
+  <TimeInBed.description>বিছানায় কাটানো মোট সময়।</TimeInBed.description>
+  
+  <!-- EN: time in a bed for medical reasons -->
+  <TimeInBedForMedicalReasons.label>চিকিৎসা সংক্রান্ত কারণে বিছানায় সময়</TimeInBedForMedicalReasons.label>
+  <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
+  <TimeInBedForMedicalReasons.description>চিকিৎসা সংক্রান্ত কারণে বিছানায় কাটানো মোট সময়: চিকিৎসা অপেক্ষায়, আঘাত থেকে সেরে ওঠা অথবা অস্ত্রোপচারের পর।</TimeInBedForMedicalReasons.description>
+  
+  <!-- EN: time in mental state -->
+  <TimeInMentalState.label>মানসিক অবস্থার সময়কাল</TimeInMentalState.label>
+  <!-- EN: Total time spent in an abnormal mental state. -->
+  <TimeInMentalState.description>অস্বাভাবিক মানসিক অবস্থায় কাটানো মোট সময়।</TimeInMentalState.description>
+  
+  <!-- EN: time mining -->
+  <TimeMining.label>খনন সময়</TimeMining.label>
+  <!-- EN: Total time spent mining. -->
+  <TimeMining.description>খনির কাজে মোট সময় ব্যয় হয়েছে।</TimeMining.description>
+  
+  <!-- EN: time on fire -->
+  <TimeOnFire.label>আগুন লাগার সময়</TimeOnFire.label>
+  <!-- EN: Total time spent on fire. -->
+  <TimeOnFire.description>আগুন লাগার কারণে মোট সময়।</TimeOnFire.description>
+  
+  <!-- EN: time repairing -->
+  <TimeRepairing.label>মেরামত সময়</TimeRepairing.label>
+  <!-- EN: Total time spent repairing. -->
+  <TimeRepairing.description>মোট মেরামত করার সময়।</TimeRepairing.description>
+  
+  <!-- EN: time researching -->
+  <TimeResearching.label>গবেষণার সময়</TimeResearching.label>
+  <!-- EN: Total time spent researching. -->
+  <TimeResearching.description>মোট গবেষণা সময়।</TimeResearching.description>
+  
+  <!-- EN: time sowing and harvesting -->
+  <TimeSowingAndHarvesting.label>সময় বীজ বপন ও ফসল তোলা</TimeSowingAndHarvesting.label>
+  <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
+  <TimeSowingAndHarvesting.description>উদ্ভিদ বপন, ফসল তোলা এবং কাটার কাজে মোট সময় ব্যয় হয়েছে।</TimeSowingAndHarvesting.description>
+  
+  <!-- EN: time treating and feeding -->
+  <TimeTreatingAndFeeding.label>সময় চিকিৎসা ও খাদ্যদান</TimeTreatingAndFeeding.label>
+  <!-- EN: Total time spent treating and feeding patients. -->
+  <TimeTreatingAndFeeding.description>রোগীদের চিকিৎসা ও খাবার খাওয়ানোতে ব্যয় করা মোট সময়।</TimeTreatingAndFeeding.description>
+  
+  <!-- EN: time under a roof -->
+  <TimeUnderRoof.label>ছাদের নিচে সময়</TimeUnderRoof.label>
+  <!-- EN: Total time spent under a roof. -->
+  <TimeUnderRoof.description>ছাদের নিচে মোট সময় অতিবাহিত হয়েছে।</TimeUnderRoof.description>
+  
+  <!-- EN: time wardening -->
+  <TimeWardening.label>সময় পাহারাদারী</TimeWardening.label>
+  <!-- EN: Total time spent wardening. -->
+  <TimeWardening.description>মোট সময় ধরে পাহারায় নিযুক্ত ছিলেন।</TimeWardening.description>
+  
+</LanguageData>

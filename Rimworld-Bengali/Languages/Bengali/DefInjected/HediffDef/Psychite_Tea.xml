@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on psychite tea -->
+  <PsychiteTeaHigh.label>সাইকাইট চা-তে উচ্চ</PsychiteTeaHigh.label>
+  <!-- EN: Active psychite tea in the bloodstream. Generates a mild euphoric effect. -->
+  <PsychiteTeaHigh.description>রক্তপ্রবাহে সক্রিয় সাইকাইট চা। এটি মৃদু আনন্দদায়ক প্রভাব তৈরি করে।</PsychiteTeaHigh.description>
+  <!-- EN: a psychite tea high -->
+  <PsychiteTeaHigh.labelNoun>একটি সাইকাইট চা উচ্চ</PsychiteTeaHigh.labelNoun>
+  
+</LanguageData>

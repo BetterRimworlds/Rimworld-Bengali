@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Analyzing TargetA. -->
+  <AnalyzeItem.reportString>Targeta বিশ্লেষণ।</AnalyzeItem.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <Arrest.reportString>TargetA গ্রেপ্তার করা হচ্ছে।</Arrest.reportString>
+  
+  <!-- EN: building roof. -->
+  <BuildRoof.reportString>বিল্ডিং ছাদ।</BuildRoof.reportString>
+  
+  <!-- EN: capturing TargetA. -->
+  <Capture.reportString>TargetA ধরা।</Capture.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnDrafted.reportString>TargetA বহন করছে।</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToExit.reportString>TargetA বহন করছে।</CarryDownedPawnToExit.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToPortal.reportString>carrying TargetA.</CarryDownedPawnToPortal.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasket.reportString>targeta ক্রিপ্টোস্লিপ কফিনে বহন করা হচ্ছে।</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>targeta ক্রিপ্টোস্লিপ কফিনে বহন করা হচ্ছে।</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>targeta গ্রেপ্তার করা হচ্ছে।</CarryToPrisonerBedDrafted.reportString>
+  
+  <!-- EN: cleaning TargetA. -->
+  <Clean.reportString>পরিষ্কার করা targeta.</Clean.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlant.reportString>targeta কাটিং।</CutPlant.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlantDesignated.reportString>targeta কাটছে।</CutPlantDesignated.reportString>
+  
+  <!-- EN: deconstructing TargetA. -->
+  <Deconstruct.reportString>TargetA ধ্বংস করা হচ্ছে।</Deconstruct.reportString>
+  
+  <!-- EN: deconstructing TargetA. -->
+  <DeconstructForBlueprint.reportString>Targeta বিশ্লেষণ।</DeconstructForBlueprint.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <DeliverFood.reportString>Targeta-কে Targetb-এর খাবার দেওয়া হচ্ছে।</DeliverFood.reportString>
+  
+  <!-- EN: doing bill at TargetA. -->
+  <DoBill.reportString>targeta-তে বিল করা হচ্ছে।</DoBill.reportString>
+  
+  <!-- EN: escorting prisoner TargetA. -->
+  <EscortPrisonerToBed.reportString>বন্দী escorting targeta.</EscortPrisonerToBed.reportString>
+  
+  <!-- EN: extracting skull from TargetA. -->
+  <ExtractSkull.reportString>TargetA থেকে খুলি নিষ্কাশন করা হচ্ছে।</ExtractSkull.reportString>
+  
+  <!-- EN: extracting TargetA. -->
+  <ExtractTree.reportString>targeta নিষ্কাশন।</ExtractTree.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <FeedPatient.reportString>targeta-কে targetb-এর খাদ্য হিসেবে দেওয়া হচ্ছে।</FeedPatient.reportString>
+  
+  <!-- EN: filling in TargetA. -->
+  <FillIn.reportString>Targeta পূরণ করা হচ্ছে।</FillIn.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <FinishFrame.reportString>শ্রম, কাজ, এবং পন ডিউটি targeta।</FinishFrame.reportString>
+  
+  <!-- EN: replacing broken components in TargetA. -->
+  <FixBrokenDownBuilding.reportString>TargetA-তে ভাঙা উপাদান প্রতিস্থাপন করা হচ্ছে।</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <GuiltyColonistExecution.reportString>TargetA সম্পাদন করা হচ্ছে।</GuiltyColonistExecution.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <Hack.reportString>হ্যাকিং targeta।</Hack.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <Harvest.reportString>targeta সংগ্রহ করা।</Harvest.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <HarvestDesignated.reportString>targeta সংগ্রহ করা হচ্ছে।</HarvestDesignated.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToCell.reportString>targeta পরিবহন।</HaulToCell.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToContainer.reportString>targeta পরিবহন।</HaulToContainer.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <Hunt.reportString>শিকার targeta.</Hunt.reportString>
+  
+  <!-- EN: kidnapping TargetA. -->
+  <Kidnap.reportString>অপহরণ targeta.</Kidnap.reportString>
+  
+  <!-- EN: milking TargetA. -->
+  <Milk.reportString>targeta milking.</Milk.reportString>
+  
+  <!-- EN: digging at TargetA. -->
+  <Mine.reportString>TargetA-তে খনন করা হচ্ছে।</Mine.reportString>
+  
+  <!-- EN: drilling at TargetA. -->
+  <OperateDeepDrill.reportString>TargetA-তে ড্রিলিং।</OperateDeepDrill.reportString>
+  
+  <!-- EN: scanning at TargetA. -->
+  <OperateScanner.reportString>TargetA-তে স্ক্যান করা হচ্ছে।</OperateScanner.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintBuilding.reportString>চিত্রকর্ম targeta</PaintBuilding.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintFloor.reportString>চিত্রকর্ম targeta।</PaintFloor.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <PlaceNoCostFrame.reportString>নির্মাণ targeta.</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: planting TargetA. -->
+  <PlantSeed.reportString>রোপণ targeta।</PlantSeed.reportString>
+  
+  <!-- EN: attempting to recruit TargetA. -->
+  <PrisonerAttemptRecruit.reportString>Targeta নিয়োগের চেষ্টা করা হচ্ছে।</PrisonerAttemptRecruit.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <PrisonerExecution.reportString>Targeta সম্পাদন করা হচ্ছে।</PrisonerExecution.reportString>
+  
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>targeta-কে বন্য পরিবেশে ছেড়ে দেওয়া হচ্ছে।</ReleaseAnimalToWild.reportString>
+  
+  <!-- EN: releasing TargetA. -->
+  <ReleasePrisoner.reportString>targeta মুক্তি দেওয়া হচ্ছে।</ReleasePrisoner.reportString>
+  
+  <!-- EN: removing floor. -->
+  <RemoveFloor.reportString>মেঝে সরানো হচ্ছে।</RemoveFloor.reportString>
+  
+  <!-- EN: removing foundation. -->
+  <RemoveFoundation.reportString>ভিত্তি অপসারণ।</RemoveFoundation.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintBuilding.reportString>TargetA থেকে পেইন্ট সরানো হচ্ছে।</RemovePaintBuilding.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintFloor.reportString>TargetA থেকে পেইন্ট সরানো হচ্ছে।</RemovePaintFloor.reportString>
+  
+  <!-- EN: removing roof. -->
+  <RemoveRoof.reportString>ছাদ সরানো হচ্ছে।</RemoveRoof.reportString>
+  
+  <!-- EN: repairing TargetA. -->
+  <Repair.reportString>TargetA মেরামত করা হচ্ছে।</Repair.reportString>
+  
+  <!-- EN: replanting TargetA. -->
+  <Replant.reportString>TargetA পুনঃরোপণ।</Replant.reportString>
+  
+  <!-- EN: rescuing TargetA. -->
+  <Rescue.reportString>TargetA উদ্ধার করা হচ্ছে।</Rescue.reportString>
+  
+  <!-- EN: researching. -->
+  <Research.reportString>গবেষণা চলছে।</Research.reportString>
+  
+  <!-- EN: leading TargetA to hitching spot. -->
+  <RopeRoamerToHitchingPost.reportString>targeta-কে hitching স্পটে নিয়ে যাওয়া হচ্ছে।</RopeRoamerToHitchingPost.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>targeta-কে targetc-এর দিকে পরিচালিত করা।</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>targeta-কে targetc-এর দিকে পরিচালনা করা হচ্ছে।</RopeToPen.reportString>
+  
+  <!-- EN: shearing TargetA. -->
+  <Shear.reportString>ছাঁটা targeta.</Shear.reportString>
+  
+  <!-- EN: slaughtering TargetA. -->
+  <Slaughter.reportString>TargetA জবাই করা হচ্ছে।</Slaughter.reportString>
+  
+  <!-- EN: smoothing floor. -->
+  <SmoothFloor.reportString>মেঝে মসৃণ করা।</SmoothFloor.reportString>
+  
+  <!-- EN: smoothing wall. -->
+  <SmoothWall.reportString>দেওয়াল মসৃণ করা।</SmoothWall.reportString>
+  
+  <!-- EN: sowing TargetA. -->
+  <Sow.reportString>targeta বীজ বপন।</Sow.reportString>
+  
+  <!-- EN: stealing TargetA. -->
+  <Steal.reportString>targeta চুরি করা।</Steal.reportString>
+  
+  <!-- EN: Studying TargetA. -->
+  <StudyInteract.reportString>TargetA অধ্যয়ন করা হচ্ছে।</StudyInteract.reportString>
+  
+  <!-- EN: Studying TargetA. -->
+  <StudyItem.reportString>TargetA অধ্যয়ন করা।</StudyItem.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeDownedPawnToBedDrafted.reportString>targeta-কে বিছানায় নিয়ে যাওয়া।</TakeDownedPawnToBedDrafted.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>targeta-কে বিছানায় নিয়ে যাওয়া।</TakeToBedToOperate.reportString>
+  
+  <!-- EN: taking wounded prisoner TargetA. -->
+  <TakeWoundedPrisonerToBed.reportString>আহত বন্দী targeta গ্রহণ করা হচ্ছে।</TakeWoundedPrisonerToBed.reportString>
+  
+  <!-- EN: taming TargetA. -->
+  <Tame.reportString>targeta পোষ মানানো।</Tame.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendPatient.reportString>Targeta-র যত্ন নেওয়া।</TendPatient.reportString>
+  
+  <!-- EN: training TargetA. -->
+  <Train.reportString>targeta প্রশিক্ষণ।</Train.reportString>
+  
+  <!-- EN: uninstalling TargetA. -->
+  <Uninstall.reportString>TargetA আনইনস্টল করা হচ্ছে।</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>targeta খোলা হচ্ছে।</Unrope.reportString>
+  
+  <!-- EN: using comms console. -->
+  <UseCommsConsole.reportString>যোগাযোগ কনসোল ব্যবহার হচ্ছে।</UseCommsConsole.reportString>
+  
+</LanguageData>

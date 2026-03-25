@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burned carpet -->
+  <BurnedCarpet.label>পোড়া কার্পেট</BurnedCarpet.label>
+  <!-- EN: Burned-out carpet. -->
+  <BurnedCarpet.description>পোড়া কার্পেট।</BurnedCarpet.description>
+  
+  <!-- EN: burned straw matting -->
+  <BurnedStrawMatting.label>পোড়া খড় ম্যাটিং</BurnedStrawMatting.label>
+  <!-- EN: Straw matting that has been burned in a fire. -->
+  <BurnedStrawMatting.description>আগুন লেগে পোড়া খড়ের মাদুর।</BurnedStrawMatting.description>
+  
+  <!-- EN: burned wood floor -->
+  <BurnedWoodPlankFloor.label>পোড়া কাঠের মেঝে</BurnedWoodPlankFloor.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnedWoodPlankFloor.description>পোড়া কাঠের তক্তা মেঝে।</BurnedWoodPlankFloor.description>
+  
+</LanguageData>

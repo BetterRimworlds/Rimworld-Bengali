@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>গভীর ড্রিলিং</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>ভূগর্ভ থেকে সম্পদ আহরণের জন্য গভীর ড্রিল তৈরি করুন। সম্পদ খুঁজে পেতে একটি ভূ-পৃষ্ঠ ভেদকারী স্ক্যানার প্রয়োজন হবে।</DeepDrilling.description>
+  <!-- EN:
+    <li>subject->deep mining</li>
+    <li>subject_story->moved in with a dirtmole-led corp, studying its deepest excavations</li>
+    <li>subject_story->drilled down to the ice cap's root to discover the world's extinct prehuman biome</li>
+    <li>subject_story->became wealthy from the resources dug out of the world's core</li>
+    <li>subject_gerund->mining deeply</li>
+  -->
+  <DeepDrilling.generalRules.rulesStrings>
+    <li>subject->গভীর খনন</li>
+    <li>subject_FemMas->গভীর খননকার্য</li>
+    <li>subject_def->গভীর খনন থেকে</li>
+    <li>subject_def2->গভীর খননে</li>
+    <li>subject_story->সে টপোটারিয়ানদের দ্বারা পরিচালিত একটি কর্পোরেশনের সাথে চলে গিয়েছিল, তাদের গভীরতম খনন অধ্যয়ন করছিল।</li>
+    <li>subject_story->সে পৃথিবীর বিলুপ্ত প্রাগৈতিহাসিক বায়োম আবিষ্কার করার জন্য বরফের স্তূপের গভীরে ছিদ্র করেছিল।</li>
+    <li>subject_story->পৃথিবীর কেন্দ্র থেকে উত্তোলিত সম্পদ দিয়ে সে সমৃদ্ধশালী হয়েছে।</li>
+    <li>subject_gerund->গভীর খনন</li>
+  </DeepDrilling.generalRules.rulesStrings>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>ফ্ল্যাটস্ক্রিন টেলিভিশন</FlatscreenTelevision.label>
+  <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
+  <FlatscreenTelevision.description>আরও উন্নত বিনোদনের জন্য উচ্চ রেজোলিউশনের ফ্ল্যাটস্ক্রিন টেলিভিশন তৈরি করুন।</FlatscreenTelevision.description>
+  <!-- EN:
+    <li>subject->flatscreen televisions</li>
+    <li>subject_story->experimented with removing tubes from televisions</li>
+    <li>subject_story->agitated for galaxy-wide, high-resolution broadcasts of [tv_content]</li>
+    <li>tv_content->soap operas</li>
+    <li>tv_content->news programmes</li>
+    <li>tv_content->revolutionary propaganda</li>
+    <li>tv_content->glitterworld fashion</li>
+    <li>tv_content->docartoons</li>
+    <li>subject_story->became a television executive, in charge of [tv_content]</li>
+    <li>subject_gerund->producing flatscreen televisions</li>
+  -->
+  <FlatscreenTelevision.generalRules.rulesStrings>
+    <li>subject->ফ্ল্যাট স্ক্রিন টেলিভিশন</li>
+    <li>subject_FemMas->ফ্ল্যাট স্ক্রিনের টেলিভিশনগুলো</li>
+    <li>subject_def->ফ্ল্যাট স্ক্রিন টেলিভিশনগুলির থেকে</li>
+    <li>subject_def2->ফ্ল্যাট স্ক্রিন টেলিভিশনগুলোতে</li>
+    <li>subject_story->টেলিভিশনের টিউব অপসারণের সাথে পরীক্ষা-নিরীক্ষা করেছে।</li>
+    <li>subject_story->[tv_content]-এর উচ্চ রেজোলিউশনের গ্যালাকটিক সম্প্রচারের জন্য প্রচারণা চালিয়েছিল। [tv_content]</li>
+    <li>subject_story->সে একজন টেলিভিশন নির্বাহী হয়েছিলেন, যিনি [tv_content]-এর দায়িত্বে ছিলেন। [tv_content]</li>
+    <li>tv_content->টেলি novelas</li>
+    <li>tv_content->সংবাদ প্রোগ্রামগুলি</li>
+    <li>tv_content->বিপ্লবী প্রচারণামূলক উপাদান</li>
+    <li>tv_content->বিশ্বের ঝলমলে ফ্যাশন</li>
+    <li>tv_content->কার্টুন</li>
+    <li>subject_gerund->ফ্ল্যাট স্ক্রিন টেলিভিশন উৎপাদন</li>
+  </FlatscreenTelevision.generalRules.rulesStrings>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>ভূ-পৃষ্ঠ ভেদকারী স্ক্যানার</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
+  <GroundPenetratingScanner.description>ভূ-পৃষ্ঠের নিচে ড্রিলযোগ্য সম্পদ শনাক্ত করতে সক্ষম ভূ-পৃষ্ঠ ভেদকারী স্ক্যানার তৈরি করুন। নির্মাণের জন্য উন্নত কম্পোনেন্ট প্রয়োজন।</GroundPenetratingScanner.description>
+  <!-- EN:
+    <li>subject->geophysics</li>
+    <li>subject->ground-penetrating scanners</li>
+    <li>subject_story->discovered the bones of ancient giants, far below the planet's surface</li>
+    <li>subject_story->stumbled across a rich gold seam whilst scanning for tin and became fabulously wealthy</li>
+    <li>subject_story->scanned the ground for ancient minefields, to protect the people</li>
+    <li>subject_gerund->constructing geophysical scanners</li>
+  -->
+  <GroundPenetratingScanner.generalRules.rulesStrings>
+    <li>subject->ভূ-পদার্থবিদ্যা</li>
+    <li>subject_FemMas->ভূ-পদার্থবিদ্যা</li>
+    <li>subject->গভীর স্ক্যানার</li>
+    <li>subject_FemMas->গভীর স্ক্যানারগুলি</li>
+    <li>subject_def->ভূ-পদার্থবিদ্যা থেকে</li>
+    <li>subject_def2->ভূ-পদার্থবিদ্যাকে</li>
+    <li>subject_def->গভীর স্ক্যানারগুলির থেকে</li>
+    <li>subject_def2->গভীর স্ক্যানারগুলোতে</li>
+    <li>subject_story->গ্রহের পৃষ্ঠের অনেক নিচে প্রাচীন দৈত্যদের হাড় আবিষ্কার করেছে।</li>
+    <li>subject_story->টিন খুঁজতে গিয়ে সে সোনার খনি খুঁজে পেয়েছিল এবং অবিশ্বাস্যভাবে ধনী হয়ে গিয়েছিল।{ANYPAWN_gender ? o : a}</li>
+    <li>subject_story->জনগণকে রক্ষার জন্য সে পুরোনো মাইনফিল্ডগুলির সন্ধানে মাটি স্ক্যান করলো।</li>
+    <li>subject_gerund->ভূ-भौতিক স্ক্যানার নির্মাণ</li>
+  </GroundPenetratingScanner.generalRules.rulesStrings>
+  
+  <!-- EN: autocannon turret -->
+  <HeavyTurrets.label>স্বয়ংক্রিয় ভারী কামান টারেট</HeavyTurrets.label>
+  <!-- EN: Produce the heavy autocannon turret. -->
+  <HeavyTurrets.description>কলোনির প্রতিরক্ষার জন্য দীর্ঘ-পাল্লার স্বয়ংক্রিয় কামান টারেট তৈরি করুন।</HeavyTurrets.description>
+  <!-- EN:
+    <li>subject->autocannon turrets</li>
+    <li>subject_story->held off a cultist assault alone, hiding behind a wall of turrets</li>
+    <li>subject_story->was hired to establish a defensive perimeter of sandbags and turrets for the locals</li>
+    <li>subject_story->built turret after turret, never asking who was buying them</li>
+    <li>subject_gerund->crafting heavy autocannon turrets</li>
+  -->
+  <HeavyTurrets.generalRules.rulesStrings>
+    <li>subject->স্বয়ংক্রিয় কামান টাওয়ার</li>
+    <li>subject_FemMas->স্বয়ংক্রিয় কামান টাওয়ারগুলি</li>
+    <li>subject_def->স্বয়ংক্রিয় কামান টাওয়ারগুলির থেকে</li>
+    <li>subject_def2->স্বয়ংক্রিয় কামান টাওয়ারগুলোতে</li>
+    <li>subject_story->সে একা কোনো সাহায্য ছাড়াই কাল্টবাদীদের আক্রমণ প্রতিহত করেছিল, টারেটগুলির একটি প্রাচীরের আড়ালে লুকিয়ে থেকে।</li>
+    <li>subject_story->তাকে স্থানীয়দের জন্য বালির বস্তা ও টারেট দিয়ে একটি প্রতিরক্ষামূলক পরিধি স্থাপন করার জন্য নিয়োগ করা হয়েছিল।</li>
+    <li>subject_story->সে একের পর এক টারেট তৈরি করতে লাগল, কে কিনছে জিজ্ঞাসা করলো না।</li>
+    <li>subject_gerund->ভারী স্বয়ংক্রিয় কামান টাওয়ার তৈরি</li>
+  </HeavyTurrets.generalRules.rulesStrings>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>হাসপাতালের বিছানা</HospitalBed.label>
+  <!-- EN: Construct hospital beds which improve medical outcomes. -->
+  <HospitalBed.description>চিকিৎসার ফলাফল উন্নত করে—এমন হাসপাতালের বিছানা নির্মাণ করুন।</HospitalBed.description>
+  <!-- EN:
+    <li>subject->hospitalization</li>
+    <li>subject_story->oversaw a revolution in the standards of medical care</li>
+    <li>subject_story->constructed the first of the system's public hospitals</li>
+    <li>subject_story->focused on profit, selling [ANYPAWN_pronoun] superior medical suites to the wealthy</li>
+    <li>subject_gerund->constructing hospital beds</li>
+  -->
+  <HospitalBed.generalRules.rulesStrings>
+    <li>subject->হাসপাতাল ভর্তি</li>
+    <li>subject_FemMas->হাসপাতাল ভর্তি</li>
+    <li>subject_def->হাসপাতাল থেকে</li>
+    <li>subject_def2->হাসপাতালে ভর্তি</li>
+    <li>subject_story->স্বাস্থ্যসেবার মানদণ্ডে একটি বিপ্লব তত্ত্বাবধান করেছিলেন।</li>
+    <li>subject_story->সিস্টেমের প্রথম সরকারি হাসপাতালটি তৈরি করেছে।</li>
+    <li>subject_story->সে ধনী ব্যক্তিদের কাছে তার চিকিৎসা স্যুট বিক্রি করে লাভের দিকে মনোযোগ দিয়েছিল।</li>
+    <li>subject_gerund->হাসপাতালের বিছানা নির্মাণ</li>
+  </HospitalBed.generalRules.rulesStrings>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>দীর্ঘ-পাল্লার খনিজ স্ক্যানার</LongRangeMineralScanner.label>
+  <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
+  <LongRangeMineralScanner.description>গবেষকদের জন্য গ্রহজুড়ে মূল্যবান খনিজ শনাক্ত করতে সক্ষম দীর্ঘ-পাল্লার খনিজ স্ক্যানার তৈরি করুন। নির্দিষ্ট খনিজের জন্য টিউন করা যায়। নির্মাণে উন্নত কম্পোনেন্ট প্রয়োজন।</LongRangeMineralScanner.description>
+  <!-- EN:
+    <li>subject->long-range mineral detection</li>
+    <li>subject_story->built so many scanners that the planet's entire geology was revealed</li>
+    <li>subject_story->discovered with a scanner what the other settlements were mining and made huge profits through trading</li>
+    <li>subject_story->mined out the entirety of the planet's jade for religious effigies</li>
+    <li>subject_gerund->constructing long-range mineral scanners</li>
+  -->
+  <LongRangeMineralScanner.generalRules.rulesStrings>
+    <li>subject->দীর্ঘ পাল্লার খনিজ সনাক্তকরণ</li>
+    <li>subject_FemMas->দীর্ঘ পাল্লার খনিজ সনাক্তকরণ</li>
+    <li>subject_def->দীর্ঘ পাল্লার খনিজ সনাক্তকরণ থেকে</li>
+    <li>subject_def2->দীর্ঘ পাল্লার খনিজ সনাক্তকরণে</li>
+    <li>subject_story->সে এতগুলো স্ক্যানার তৈরি করেছিল যে গ্রহের সমস্ত ভূতত্ত্ব উন্মোচিত হয়ে গিয়েছিল।</li>
+    <li>subject_story->অন্যান্য বসতিতে কী খনন করা হচ্ছিল, সে তা স্ক্যানার দিয়ে জানতে পারল এবং ব্যবসার মাধ্যমে বিশাল লাভ অর্জন করল।</li>
+    <li>subject_story->গ্রহের সমস্ত জেড ধর্মীয় মূর্তি তৈরির জন্য উত্তোলন করেছিল।</li>
+    <li>subject_gerund->দীর্ঘ পাল্লার খনিজ স্ক্যানার নির্মাণ</li>
+  </LongRangeMineralScanner.generalRules.rulesStrings>
+  
+  <!-- EN: medicine production -->
+  <MedicineProduction.label>ওষুধ উৎপাদন</MedicineProduction.label>
+  <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
+  <MedicineProduction.description>ভেষজ ওষুধ, নিউট্রোঅ্যামিন ও কাপড় একত্র করে মানক শিল্প-প্রযুক্তির ওষুধ তৈরি করুন।</MedicineProduction.description>
+  <!-- EN:
+    <li>subject->medical synthesis</li>
+    <li>subject->medicine production</li>
+    <li>subject_story->researched urbworld medicine, aiming to distribute the knowledge more widely</li>
+    <li>subject_story->was puzzled by the origins of neutroamine and determined to find out more</li>
+    <li>subject_story->seized the resources of a drug-dealer and produced useful medicines instead</li>
+    <li>subject_gerund->producing industrial-tech medicine</li>
+  -->
+  <MedicineProduction.generalRules.rulesStrings>
+    <li>subject->ওষুধ সংশ্লেষণ</li>
+    <li>subject_FemMas->ঔষধ সংশ্লেষণ</li>
+    <li>subject->ঔষধ উৎপাদন</li>
+    <li>subject_FemMas->ঔষধ উৎপাদন</li>
+    <li>subject_def->ঔষধ সংশ্লেষণ থেকে</li>
+    <li>subject_def2->ঔষধ সংশ্লেষণে</li>
+    <li>subject_def->ঔষধ উৎপাদনের থেকে</li>
+    <li>subject_def2->ঔষধ উৎপাদনে</li>
+    <li>subject_story->সে একজন শহুরে বিশ্ব থেকে চিকিৎসা অধ্যয়ন করেছে, জ্ঞানের আরও ব্যাপক বিতরণের উদ্দেশ্যে।</li>
+    <li>subject_story->সে হতবাক হয়েছিল{ANYPAWN_gender ? o : a} নিউট্রোঅ্যামিনের উৎস নিয়ে এবং তা নিয়ে আরও তদন্ত করার প্রস্তাব করেছিল</li>
+    <li>subject_story->সে একজন মাদক ব্যবসায়ীর সম্পদ দখল করে তার পরিবর্তে প্রয়োজনীয় ওষুধ তৈরি করেছে।</li>
+    <li>subject_gerund->শিল্প প্রযুক্তি ঔষধ উৎপাদন</li>
+  </MedicineProduction.generalRules.rulesStrings>
+  
+  <!-- EN: microelectronics -->
+  <MicroelectronicsBasics.label>মৌলিক মাইক্রোইলেকট্রনিক্স</MicroelectronicsBasics.label>
+  <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
+  <MicroelectronicsBasics.description>জটিল মাইক্রোইলেকট্রনিক্স নিয়ে কাজ করুন। এতে উচ্চ-প্রযুক্তির গবেষণা বেঞ্চ ও যোগাযোগ কনসোল আনলক হবে।</MicroelectronicsBasics.description>
+  <!-- EN:
+    <li>subject->microelectronics</li>
+    <li>subject_story->moved into the development of microelectronics</li>
+    <li>subject_story->constructed the first of many research bench variants</li>
+    <li>subject_story->moved from town to town, praising the virtues of pure research</li>
+    <li>subject_gerund->crafting microelectronics</li>
+  -->
+  <MicroelectronicsBasics.generalRules.rulesStrings>
+    <li>subject->মাইক্রোইলেকট্রনিক্স</li>
+    <li>subject_FemMas->মাইক্রোইলেকট্রনিক্স</li>
+    <li>subject_def->মাইক্রোইলেকট্রনিক্স থেকে</li>
+    <li>subject_def2->মাইক্রোইলেকট্রনিক্সের দিকে</li>
+    <li>subject_story->মাইক্রোইলেকট্রনিক্সের উন্নয়নে নিজেকে উৎসর্গ করেছিলেন।</li>
+    <li>subject_story->সে প্রথম গবেষণা বেঞ্চের অনেক প্রকারের মধ্যে একটি তৈরি করেছে।</li>
+    <li>subject_story->সে শহর থেকে শহরে ঘুরে বেড়াত, বিশুদ্ধ গবেষণার গুণগান করত।</li>
+    <li>subject_gerund->মাইক্রোইলেকট্রনিক্স উৎপাদন</li>
+  </MicroelectronicsBasics.generalRules.rulesStrings>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>আর্দ্রতা পাম্প</MoisturePump.label>
+  <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
+  <MoisturePump.description>আর্দ্রতা পাম্প নির্মাণ করুন, যা ধীরে ধীরে আশপাশের মাটির আর্দ্রতা স্বাভাবিক করে। এটি ভেজা মাটি শুকনো করে এবং নরম বালিকে স্বাভাবিক বালিতে রূপান্তর করতে পারে।</MoisturePump.description>
+  <!-- EN:
+    <li>subject->moisture pumps</li>
+    <li>subject_story->studied the ancient windmill moisture pumps of Earth</li>
+    <li>subject_story->drained the great swamps that bred disease</li>
+    <li>subject_story->tried to drain the seas, foolishly</li>
+    <li>subject_gerund->constructing moisture pumps</li>
+  -->
+  <MoisturePump.generalRules.rulesStrings>
+    <li>subject->আর্দ্রতা বোমা</li>
+    <li>subject_FemMas->আর্দ্রতা বোমা</li>
+    <li>subject_def->আর্দ্রতা বোমার হাত থেকে</li>
+    <li>subject_def2->আর্দ্রতা বোমায়</li>
+    <li>subject_story->পৃথিবীর বায়ুকলের পুরনো আর্দ্রতা পাম্পগুলো সে পরীক্ষা করেছিল।</li>
+    <li>subject_story->সে বিশাল জলাভূমিগুলো শুকিয়ে ফেলেছিল যেখানে রোগজীবাণু জন্ম নিত।</li>
+    <li>subject_story->সে নির্বোধের মতো সমুদ্র শুকানোর চেষ্টা করেছিল।</li>
+    <li>subject_gerund->আর্দ্রতা বোমা নির্মাণ</li>
+  </MoisturePump.generalRules.rulesStrings>
+  
+  <!-- EN: multibarrel weapons -->
+  <MultibarrelWeapons.label>মাল্টি-ব্যারেল অস্ত্র</MultibarrelWeapons.label>
+  <!-- EN: Assemble miniguns. -->
+  <MultibarrelWeapons.description>মিনিগান組যোজন করুন।</MultibarrelWeapons.description>
+  <!-- EN:
+    <li>subject->miniguns</li>
+    <li>subject_story->constructed a unique portable minigun, which was the only thing found after the squad's disappearance</li>
+    <li>subject_story->designed massive hoppers to ensure the minigun ammo didn't run out</li>
+    <li>subject_story->built guns explicitly to kill every last person in a room</li>
+    <li>subject_gerund->crafting multibarrel weapons</li>
+  -->
+  <MultibarrelWeapons.generalRules.rulesStrings>
+    <li>subject->মিনিগান</li>
+    <li>subject_FemMas->মিনিগানগুলো</li>
+    <li>subject_def->মিনিগানগুলোর থেকে</li>
+    <li>subject_def2->মিনিগানগুলোর দিকে</li>
+    <li>subject_story->সে একটি অনন্য বহনযোগ্য মিনিগান তৈরি করেছিল, যা দলের নিখোঁজ হওয়ার পরে পাওয়ার একমাত্র জিনিস ছিল।</li>
+    <li>subject_story->মিনিগান-এর গোলাবারুদ যেন ফুরিয়ে না যায় তা নিশ্চিত করার জন্য সে বিশাল হপার তৈরি করেছিল।</li>
+    <li>subject_story->সে একটি ঘর থেকে সমস্ত মানুষকে হত্যা করার জন্য বিশেষভাবে অস্ত্র তৈরি করেছিল।</li>
+    <li>subject_gerund->মাল্টি-ক্যানন অস্ত্রের উৎপাদন</li>
+  </MultibarrelWeapons.generalRules.rulesStrings>
+  
+  <!-- EN: precision rifling -->
+  <PrecisionRifling.label>নির্ভুল রাইফেল</PrecisionRifling.label>
+  <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description>অ্যাসল্ট রাইফেল ও স্নাইপার রাইফেলের মতো নির্ভুলভাবে যন্ত্রে তৈরি আগ্নেয়াস্ত্র প্রস্তুত করুন।</PrecisionRifling.description>
+  <!-- EN:
+    <li>subject->rifles</li>
+    <li>subject_story->improved the tolerances of a foundry's processes, enabling the production of quality rifling</li>
+    <li>subject_story->was hunted by neanderthals but constructed a sniper rifle to safely kill their leader</li>
+    <li>subject_story->became briefly famous for shooting an ambrosia fruit out of the overlord's hand</li>
+    <li>subject_gerund->crafting rifles</li>
+  -->
+  <PrecisionRifling.generalRules.rulesStrings>
+    <li>subject->রাইফেল</li>
+    <li>subject_FemMas->রাইফেলগুলো</li>
+    <li>subject_def->রাইফেলগুলোর থেকে</li>
+    <li>subject_def2->রাইফেলগুলোতে</li>
+    <li>subject_story->একটি ঢালাইখানার প্রক্রিয়ার সহনশীলতা উন্নত করেছে, যা উন্নত মানের রাইফেল তৈরি করতে সক্ষম করেছে।</li>
+    <li>subject_story->তাড়া করা হয়েছিল{ANYPAWN_gender ? o : a} নিয়ান্ডারথালদের দ্বারা কিন্তু সে একটি স্নাইপার রাইফেল তৈরি করেছিল তার নেতাকে নিরাপদে হত্যা করার জন্য</li>
+    <li>subject_story->কিছুকালের জন্য সে একজন সামন্ত প্রভুর হাত থেকে অ্যামব্রোসিয়া ফল ছুঁড়ে মারার কারণে বিখ্যাত হয়েছিল।</li>
+    <li>subject_gerund->রাইফেল তৈরি</li>
+  </PrecisionRifling.generalRules.rulesStrings>
+  
+  <!-- EN: shields -->
+  <ShieldBelt.label>শিল্ড</ShieldBelt.label>
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundary. -->
+  <ShieldBelt.description>পরিধানযোগ্য শিল্ড সরঞ্জাম তৈরি করুন। শিল্ডে গতিবেগ-বিকর্ষণ প্রযুক্তি ব্যবহার করা হয়, যা প্রজেক্টাইলকে সুরক্ষা ক্ষেত্র অতিক্রম করতে বাধা দেয়।</ShieldBelt.description>
+  <!-- EN:
+    <li>subject->personal shielding</li>
+    <li>subject_story->survived an assassination attempt, thanks to a prototype shield</li>
+    <li>subject_story->hustled at billiards, using a hidden momentum repeller</li>
+    <li>subject_story->killed an enemy by advancing a blade slowly enough to bypass their shield</li>
+    <li>subject_gerund->crafting personal shields</li>
+  -->
+  <ShieldBelt.generalRules.rulesStrings>
+    <li>subject->ব্যক্তিগত শিল্ড</li>
+    <li>subject_FemMas->ব্যক্তিগত শিল্ডগুলি</li>
+    <li>subject_def->ব্যক্তিগত শিল্ডগুলির থেকে</li>
+    <li>subject_def2->ব্যক্তিগত শিল্ডগুলিতে</li>
+    <li>subject_story->একটি শিল্ডের প্রোটোটাইপের কারণে সে একটি হত্যা প্রচেষ্টার হাত থেকে বেঁচে গিয়েছিল।</li>
+    <li>subject_story->সে ধূর্ততার সাথে বিলিয়ার্ড খেলছিল, একটি লুকানো মুহূর্ত-বিকর্ষক ব্যবহার করে।</li>
+    <li>subject_story->একজন শত্রুকে একটি ব্লেড যথেষ্ট ধীরে ধীরে কাছে এনে হত্যা করেছে, যাতে তার শিল্ড এড়িয়ে যাওয়া যায়।</li>
+    <li>subject_gerund->ব্যক্তিগত শিল্ড তৈরি</li>
+  </ShieldBelt.generalRules.rulesStrings>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>পরিবহন ক্যাপসুল</TransportPod.label>
+  <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
+  <TransportPod.description>নিক্ষেপযোগ্য পরিবহন ক্যাপসুল নির্মাণ করুন, যা দিয়ে গ্রহের পৃষ্ঠজুড়ে দীর্ঘ দূরত্বে মানুষ ও সরঞ্জাম পাঠানো যায়। এটি হামলা, ভ্রমণ, উপহার পাঠানোসহ আরও নানা কাজে ব্যবহার করা যায়।</TransportPod.description>
+  <!-- EN:
+    <li>subject->transport pods</li>
+    <li>subject_story->landed a pod in the middle of a feral tribe and barely escaped alive</li>
+    <li>subject_story->spent a fortune sending a transport pod to the object of [ANYPAWN_possessive] affection, carrying a single wedding ring</li>
+    <li>subject_story->staved off famine through judicious pod deployment</li>
+    <li>subject_gerund->constructing transport pods</li>
+  -->
+  <TransportPod.generalRules.rulesStrings>
+    <li>subject->পরিবহন ক্যাপসুল</li>
+    <li>subject_FemMas->পরিবহন ক্যাপসুলগুলি</li>
+    <li>subject_def->পরিবহন ক্যাপসুল থেকে</li>
+    <li>subject_def2->পরিবহন ক্যাপসুলগুলোতে</li>
+    <li>subject_story->একটি পরিবহন ক্যাপসুল একটি বন্য উপজাতির মাঝে অবতরণ করলো এবং সে কোনোমতে জীবন নিয়ে পালাতে সক্ষম হলো।</li>
+    <li>subject_story->সে তার ভালোবাসার মানুষটির কাছে একটি পরিবহন ক্যাপসুল পাঠিয়েছিল, সাথে নিয়ে গিয়েছিল শুধু একটি বিয়ের আংটি।</li>
+    <li>subject_story->সঠিক ক্যাপসুল ব্যবহারের মাধ্যমে দুর্ভিক্ষ এড়ানো গেছে।</li>
+    <li>subject_gerund->পরিবহন ক্যাপসুল নির্মাণ</li>
+  </TransportPod.generalRules.rulesStrings>
+  
+</LanguageData>

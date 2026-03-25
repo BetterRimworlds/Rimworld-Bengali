@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+  <!-- EN: Jump to location -->
+  <JumpToLocation>অবস্থানে যান</JumpToLocation>
+  <!-- EN: Postpone -->
+  <PostponeLetter>স্থগিত করুন</PostponeLetter>
+  <!-- EN: Reject -->
+  <RejectLetter>বাতিল করুন</RejectLetter>
+  <!-- EN: Read more -->
+  <ReadMore>আরও পড়ুন</ReadMore>
+  <!-- EN: You have {0} more letters -->
+  <MoreLetters>আপনার কাছে আরও {0} টি চিঠি আছে।</MoreLetters>
+
+  <!-- EN: Summer -->
+  <LetterLabelFirstSummerWarning>গ্রীষ্মকাল</LetterLabelFirstSummerWarning>
+  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
+  <FirstSummerWarning>গ্রীষ্ম শুরু হয়েছে! কিন্তু শীত আসছে।\n\nশীতের ঠান্ডায় আপনার খাদ্যশস্য বাড়বে না। বেঁচে থাকার জন্য যথেষ্ট খাবার সংরক্ষণ করতে নিশ্চিত হন। খাবার নষ্ট হওয়া থেকে বাঁচাতে আপনি একটি ওয়াক-ইন রেফ্রিজারেটর তৈরি করতে পারেন।\n\nশীতের জন্য প্রস্তুতি নিতে, কিছু পার্কাস কিনুন, চুরি করুন বা তৈরি করুন, না হলে বাইরে পা রাখলে আপনি জমে যাবেন।</FirstSummerWarning>
+
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
+  <LetterRelationsChange_Hostile>{0}-এর সাথে সম্পর্ক সম্পূর্ণভাবে ভেঙে গেছে। এখন তারা আপনার প্রতি শত্রুভাবাপন্ন।</LetterRelationsChange_Hostile>  
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription>তারা আপনার কলোনি এবং বহরগুলোতে পর্যায়ক্রমিক হানাসমূহ চালাবে এবং আপনার সাথে বাণিজ্য করতে অস্বীকার করবে। আপনি যদি সম্পর্ক উন্নত করতে চান, তাহলে বহর বা পরিবহন পড ব্যবহার করে তাদের উপহার দিতে পারেন।\n\nএটি ঘটেছে কারণ {0} Goodwill কমে {1} এর নিচে নেমে গেছে। স্বাভাবিক সম্পর্ক পুনরুদ্ধার করার জন্য, Goodwill আবার {2} এ পৌঁছাতে হবে।</LetterRelationsChange_HostileGoodwillDescription>
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription_NoGifting>তারা আপনার কলোনি এবং বহরগুলির উপর পর্যায়ক্রমিক হানাসমূহ চালাবে এবং আপনার সাথে বাণিজ্য করতে অস্বীকার করবে।\n\nএটি ঘটেছে কারণ {0} এর শুভাকাঙ্ক্ষা {1} এর নিচে নেমে গেছে। স্বাভাবিক সম্পর্ক পুনরুদ্ধার করার জন্য, শুভাকাঙ্ক্ষা আবার {2} এ পৌঁছাতে হবে।</LetterRelationsChange_HostileGoodwillDescription_NoGifting>
+
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
+  <LetterRelationsChange_NeutralFromHostile>{0}-এর সাথে সম্পর্ক উষ্ণ হয়েছে। তারা এখন আপনাকে নিরপেক্ষ মনে করে এবং আর আপনাকে আক্রমণ করবে না।</LetterRelationsChange_NeutralFromHostile>
+  <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>এটি ঘটেছে কারণ শুভেচ্ছা ({1}) {2} এর উপরে বেড়ে গেছে। যদি শুভেচ্ছা {3} এর নিচে নেমে যায়, তাহলে {0} আবার শত্রুভাবাপন্ন হয়ে উঠবে। যদি শুভেচ্ছা {4} এর উপরে বেড়ে যায়, তাহলে তারা আপনার মিত্র হয়ে আপনার জন্য যুদ্ধ করবে।</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
+  <LetterRelationsChange_NeutralFromAlly>{0}-এর সাথে সম্পর্ক শীতল হয়েছে। এখন তারা আপনাকে মিত্রের বদলে নিরপেক্ষ মনে করে।</LetterRelationsChange_NeutralFromAlly>
+  <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>যদিও তারা এখনও আপনার সাথে শান্তিতে মিশবে, তবুও বিপদের সময় তারা আপনাকে সাহায্য করার জন্য যোদ্ধা পাঠাবে না।\n\nএটা ঘটেছে কারণ শুভেচ্ছা ({1}) {2} এর নিচে নেমে গেছে। যদি শুভেচ্ছা {3} এর নিচে নেমে যায়, তাহলে {0} শত্রুভাবাপন্ন হয়ে উঠবে। যদি শুভেচ্ছা {4} এর উপরে উঠে যায়, তাহলে তারা আবার মিত্র হয়ে যাবে।</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
+  <LetterRelationsChange_Ally>{0}-এর সাথে সম্পর্ক খুবই ঘনিষ্ঠ হয়েছে। এখন তারা আপনাকে মিত্র মনে করে।</LetterRelationsChange_Ally>
+  <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
+  <LetterRelationsChange_AllyGoodwillDescription>আপনার উপর আক্রমণ হলে মিত্ররা মাঝে মাঝে সাহায্য করতে আসবে। আপনি যে কোনও সময় তাদের সাহায্যের জন্য ডাকতে পারেন, তবে এর জন্য মিত্রতার ক্ষতি হবে।\n\nআপনার মিত্রতা ({0}) {1} অতিক্রম করার কারণে আপনারা মিত্র হয়েছেন। মিত্রতা {2} এর নিচে নেমে গেলে, সম্পর্ক আবার নিরপেক্ষ হয়ে যাবে।</LetterRelationsChange_AllyGoodwillDescription>
+
+  <!-- EN: goodwill -->
+  <goodwill>goodwill</goodwill>
+  <!-- EN: Neutral -->
+  <Neutral>নিরপেক্ষ</Neutral>
+  <!-- EN: neutral -->
+  <NeutralLower>নিরপেক্ষ</NeutralLower>
+  <!-- EN: Death -->
+  <Death>মৃত্যু</Death>
+
+  <!-- EN: A {1_label} has short-circuited due to precipitation and started a fire. -->
+  <ShortCircuitRain>একটি {1_label} বৃষ্টিপাতের কারণে শর্ট-সার্কিট হয়েছে এবং আগুন লেগেছে।</ShortCircuitRain>
+
+  <!-- EN: Area revealed -->
+  <LetterLabelAreaRevealed>এলাকা উন্মোচিত</LetterLabelAreaRevealed>
+  <!-- EN: A new area has been revealed. -->
+  <AreaRevealed>একটি নতুন এলাকা উন্মোচিত হয়েছে।</AreaRevealed>
+  <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
+  <AreaRevealedWithMechanoids>একটি নতুন এলাকা উন্মোচিত হয়েছে। সেখানে প্রাচীন, শত্রুভাবাপন্ন মেকানোইডসমূহ রয়েছে।</AreaRevealedWithMechanoids>
+
+  <!-- EN: A roof has collapsed because it was too far from any support. -->
+  <RoofCollapsed>ছাদটি ধসে পড়েছে কারণ এটি কোনো সহায়তার থেকে খুব দূরে ছিল।</RoofCollapsed>
+  <!-- EN: These things were crushed: -->
+  <TheseThingsCrushed>এগুলো চূর্ণ করা হয়েছে:</TheseThingsCrushed>
+  <!-- EN: Nothing was crushed. -->
+  <NothingCrushed>কিছু চূর্ণ হয়নি।</NothingCrushed>
+  <!-- EN: Roof collapse -->
+  <LetterLabelRoofCollapsed>ছাদ ধস</LetterLabelRoofCollapsed>
+
+  <!-- EN: {0} successfully recruited {1} ({2} chance). -->
+  <RecruitSuccess>{0} সফলভাবে {1}-কে নিয়োগ করেছে ({2} সম্ভাবনা)।</RecruitSuccess>
+  <!-- EN: {0} failed to recruit {1} ({2} chance). -->
+  <RecruitFail>{0} {1}-কে নিয়োগ করতে ব্যর্থ হয়েছে ({2} সম্ভাবনা)।</RecruitFail>
+
+  <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} হলেন {RELATIVE_labelShort}-এর {1}। যদি {PAWN_nameDef} মারা যান, তবে {RELATIVE_labelShort} দীর্ঘস্থায়ী দুঃখভোগে ভুগবেন। তবে, আপনি যদি {PAWN_nameDef}কে উদ্ধার করতে পারেন, তবে {RELATIVE_labelShort} দীর্ঘ সময়ের জন্য খুব খুশি হবেন।</RelatedPawnInvolvedInQuest>
+
+  <!-- EN: Birthday -->
+  <LetterLabelBirthday>জন্মদিন</LetterLabelBirthday>
+  <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
+  <BirthdayChronological>আজ {0}-এর জন্মদিন! শারীরিকভাবে, {1}-এর বয়স {3} বছর।\n\nকালানুক্রমিকভাবে, {1} এখন {2} বছরে পা দিলেন।\n\nমনে রাখবেন, যেহেতু ক্রিপ্টোস্লিপে থাকা অবস্থায় মানুষের বয়স বাড়ে না, তাই কালানুক্রমিক জন্মদিন জৈবিক জন্মদিনের থেকে আলাদা।</BirthdayChronological>
+  <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
+  <LetterBirthdayBiological>{0_nameFull} এর জৈবিক বয়স {1} এ পৌঁছেছে।</LetterBirthdayBiological>
+  <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
+  <BirthdayBiologicalAgeInjuries>দুর্ভাগ্যবশত, {0_nameFull} বার্ধক্যের কারণে নিম্নলিখিত রোগগুলি অর্জন করেছে।</BirthdayBiologicalAgeInjuries>
+
+  <!-- EN: Disease -->
+  <LetterLabelNewDisease>রোগ</LetterLabelNewDisease>
+  <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewDisease>{PAWN} {1} থেকে অসুস্থ হয়েছে।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। {PAWN_definite} যেন সঠিক চিকিৎসা পায় এবং যতটা সম্ভব সময় বিছানায় কাটায়, তা নিশ্চিত করুন।</NewDisease>
+  <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewPartDisease>{3} থেকে {PAWN} অসুস্থ হয়েছে। সংক্রমণ {PAWN_possessive} {1}-এ রয়েছে।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। {PAWN_definite} যেন সঠিক চিকিৎসা পায় এবং যতটা সম্ভব সময় বিছানায় কাটায়, তা নিশ্চিত করুন।</NewPartDisease>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
+  <NewDiseaseAnimal>{{PAWN_labelShort}} অসুস্থ হয়েছে: {1}</NewDiseaseAnimal>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
+  <NewPartDiseaseAnimal>{PAWN_labelShort}-এর একটি রোগ হয়েছে: {PAWN_possessive} {1}-এ {3}।</NewPartDiseaseAnimal>
+
+  <!-- EN: {0} was formerly part of your faction. -->
+  <PawnWasFormerlyColonist>{0} পূর্বে আপনার দলের অংশ ছিল।</PawnWasFormerlyColonist>
+  <!-- EN: You previously hosted {0}. -->
+  <PawnWasFormerlyLodger>আপনি আগে {0} হোস্ট করেছিলেন।</PawnWasFormerlyLodger>
+  <!-- EN: {1_labelShort} has these relationships with your colonists: -->
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} এর আপনার উপনিবেশকারীদের সাথে এই সম্পর্কগুলো রয়েছে:</PawnHasTheseRelationshipsWithColonists>
+
+  <!-- EN: Ancient danger -->
+  <LetterLabelAncientShrineWarning>প্রাচীন বিপদ</LetterLabelAncientShrineWarning>
+  <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
+  <AncientShrineWarning>প্রাচীন দেওয়ালের কাছে আসার সাথে সাথে {PAWN_nameDef} এর মধ্যে এক ধরনের খারাপ অনুভূতি দেখা দেয়, যা {PAWN_objective} কে গ্রাস করে। {PAWN_pronoun} নিশ্চিত নয় কেন, তবে {PAWN_pronoun} অনুভব করে এই ধুলোমাখা কাঠামোতে বড় বিপদ থাকতে পারে।</AncientShrineWarning>
+
+  <!-- EN: We have struck {0}! -->
+  <StruckMineable>আমরা {0} আঘাত করেছি!</StruckMineable>
+
+  <!-- EN: {0} revenge -->
+  <LetterLabelAnimalManhunterRevenge>: {0} প্রতিশোধ</LetterLabelAnimalManhunterRevenge>
+  <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
+  <AnimalManhunterFromDamage>{1_indefinite} আঘাত পাওয়ার পরে আক্রমণ করছে!\n\nএটি যে কোনো মানব আকৃতির প্রাণীকে শিকার করবে যা এর নাগালের মধ্যে আসবে। এটি ঘুমিয়ে গেলে শান্ত হবে।</AnimalManhunterFromDamage>
+  <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
+  <AnimalManhunterFromTaming>একটি ভুল গৃহপালतू করার প্রচেষ্টার কারণে {1_indefinite} আক্রমণ করছে!</AnimalManhunterFromTaming>
+  <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
+  <AnimalManhunterOthers>অন্যান্য {1_kindBasePlural} কাছাকাছি ক্ষিপ্ত হয়েছে!</AnimalManhunterOthers>
+
+  <!-- EN: {1_labelShort} hit trap -->
+  <LetterFriendlyTrapSprungLabel>ফাঁদে আঘাত</LetterFriendlyTrapSprungLabel>
+  <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
+  <LetterFriendlyTrapSprung>{1_labelShort} অসাবধানতাবশত একটি ফাঁদে পা দিয়েছে এবং আহত হয়েছে।</LetterFriendlyTrapSprung>
+
+  <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
+  <LetterHealthComplications>{PAWN_labelShort} একটি স্বাস্থ্য সমস্যা তৈরি হয়েছে:\n\n  {1}\n\nএর কারণ:\n\n  {2}</LetterHealthComplications>
+  <!-- EN: {PAWN_labelShort}: {1} -->
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
+  
+  <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} একটি স্বাস্থ্য সমস্যা তৈরি করেছে: {1}।</LetterHediffFromRandomHediffGiver>
+  <!-- EN: {PAWN_labelShort}: {1} -->
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
+
+  <!-- EN: {1} died: {0} -->
+  <LetterLeadersDeathLabel>{1} মারা গেছেন: {0}</LetterLeadersDeathLabel>
+  <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {0}-এর {1}, মারা গেছেন।</LetterLeadersDeath>
+
+  <!-- EN: New {1}: {0} -->
+  <LetterLeaderChangedLabel>নতুন {1}: {0}</LetterLeaderChangedLabel>
+  <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
+  <LetterLeaderChanged>{OLDLEADER_nameFull} আর {0} এর {1} নন।</LetterLeaderChanged>
+
+  <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
+  <LetterNewLeader>নতুন {0} হল {NEWLEADER_nameFull}.</LetterNewLeader>
+
+  <!-- EN: The final straw was: {0} -->
+  <FinalStraw>চূড়ান্ত ফাটল ছিল: {0}</FinalStraw>
+  <!-- EN: This happened because of poor mood. -->
+  <MentalStateReason_Mood>এটি খারাপ মেজাজের কারণে ঘটেছে।</MentalStateReason_Mood>
+  <!-- EN: This happened because of the trait: {0}. -->
+  <MentalStateReason_Trait>এটা {0} বৈশিষ্ট্যের কারণে ঘটেছে।</MentalStateReason_Trait>
+  <!-- EN: This happened because of: {0}. -->
+  <MentalStateReason_Hediff>এর কারণ ছিল: {0}।</MentalStateReason_Hediff>
+  <!-- EN: This happened because of {0_definite}'s death. -->
+  <MentalStateReason_BondedHumanDeath>{0_definite}-এর মৃত্যুর কারণে এটা ঘটেছে।</MentalStateReason_BondedHumanDeath>
+  <!-- EN: The last event was -->
+  <LastFactionRelationsEvent>শেষ ঘটনাটি ছিল</LastFactionRelationsEvent>
+
+  <!-- EN: View related quest -->
+  <ViewRelatedQuest>সম্পর্কিত অনুসন্ধান দেখুন</ViewRelatedQuest>
+  <!-- EN: View quest -->
+  <ViewQuest>অনুসন্ধান দেখুন</ViewQuest>
+  <!-- EN: The last events in {PAWN_definite}'s life -->
+  <LastEventsInLife>{PAWN_definite}-এর জীবনের শেষ ঘটনাগুলি</LastEventsInLife>
+
+  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginThanksToHighMoodPart>উচ্চ মেজাজের কারণে, [PAWN_nameIndef] অনুপ্রাণিত হয়েছে!</LetterInspirationBeginThanksToHighMoodPart>
+
+  <!-- Related pawns -->
+  <!-- EN: Relationship -->
+  <LetterLabelNoticedRelatedPawns>সম্পর্ক</LetterLabelNoticedRelatedPawns>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
+  <LetterRelatedPawnsRaidEnemy>আপনার {0} অথবা আগত {1} দলের বন্দীদের মধ্যে যাদের সম্পর্ক আছে তারা রয়েছে।\n\nমনে রাখবেন, তারা সম্পর্কিত হওয়া সত্ত্বেও, তাদের খারাপ দলগত সম্পর্কের কারণে তারা একে অপরের উপর আক্রমণ করবে।\n\nএই ব্যক্তিরা হলেন:</LetterRelatedPawnsRaidEnemy>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
+  <LetterRelatedPawnsRaidFriendly>আগত বন্ধুত্বপূর্ণ {1} দলের মধ্যে আপনার {0} অথবা বন্দীদের সাথে সম্পর্ক আছে এমন লোক রয়েছে।</LetterRelatedPawnsRaidFriendly>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
+  <LetterRelatedPawnsNeutralGroup>আগত দলের {0} অথবা বন্দীদের সাথে কিছু মানুষের সম্পর্ক রয়েছে:</LetterRelatedPawnsNeutralGroup>
+  <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradeShip>কক্ষীয় ব্যবসায়ী {0} অথবা বন্দীদের সাথে সম্পর্ক আছে এমন ব্যক্তিদের বিক্রি করছে:</LetterRelatedPawnsTradeShip>
+  <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithSettlement>বসতিটি এমন লোকদের বিক্রি করছে যাদের আপনার {0} অথবা বন্দীদের সাথে সম্পর্ক রয়েছে:</LetterRelatedPawnsTradingWithSettlement>
+  <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithOtherCaravan>караভানটি এমন লোকদের বিক্রি করছে যাদের আপনার {0} অথবা বন্দীদের সাথে সম্পর্ক রয়েছে:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
+  <LetterRelatedPawnsGroupGeneric>গোষ্ঠীর আপনার {0} অথবা বন্দীদের সাথে যাদের সম্পর্ক আছে তারা রয়েছে:</LetterRelatedPawnsGroupGeneric>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
+  <LetterRelatedPawnsInMapWherePlayerLanded>আপনার {0} অথবা আপনার {0} যেখানে অবতরণ করেছে সেই এলাকার বন্দীদের সাথে যাদের সম্পর্ক আছে তারা সেখানে রয়েছে।</LetterRelatedPawnsInMapWherePlayerLanded>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
+  <LetterRelatedPawnsSettlement>এই বসতিতে আপনার {0} অথবা বন্দীদের সাথে যাদের সম্পর্ক আছে তারা রয়েছে:</LetterRelatedPawnsSettlement>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
+  <LetterRelatedPawnsSite>এই এলাকায় আপনার {0} অথবা বন্দীদের সাথে যাদের সম্পর্ক আছে তারা রয়েছে:</LetterRelatedPawnsSite>
+
+  <!-- EN: relationship -->
+  <RelationshipAppendedLetterSuffix>সম্পর্ক</RelationshipAppendedLetterSuffix>
+  <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} একজন উপনিবেশকারীর সাথে সম্পর্ক স্থাপন করেছে। {PAWN_pronoun} হলেন {RELATIVE_labelShort}-এর {1}।</RelationshipAppendedLetterTextColonist>
+  <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef}-এর একজন বন্দীর সাথে সম্পর্ক রয়েছে। {PAWN_pronoun} হল {RELATIVE_labelShort}-এর {1}।</RelationshipAppendedLetterTextPrisoner>
+
+  <!-- Attempt romance / propose interaction -->
+  <!-- EN: Affair -->
+  <LetterLabelAffair>সম্পর্ক</LetterLabelAffair>
+  <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
+  <LetterAffair>{PAWN1_labelShort}, {SPOUSE_labelShort}-এর সাথে বিবাহিত, {PAWN2_labelShort}-এর সাথে একটি সম্পর্ক শুরু করেছে।</LetterAffair>
+  <!-- EN: New lovers -->
+  <LetterLabelNewLovers>নতুন প্রেমিক জুটি</LetterLabelNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
+  <LetterNewLovers>{PAWN1_labelShort} এবং {PAWN2_labelShort} এখন একসাথে ঘুমাতে চাইছে। তাদের একটি ডাবল বেড দেওয়ার কথা বিবেচনা করুন।</LetterNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
+  <LetterNoLongerLovers>{PAWN1_labelShort} এবং {PAWN2_labelShort} আর সম্পর্কে নেই।</LetterNoLongerLovers>
+  <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} {PAWN_possessive} পদবি পরিবর্তন করে {PAWN_possessive} জন্ম নাম-এ ফিরিয়ে আনবে।</LetterNoLongerLovers_BackToBirthName>
+  <!-- EN: Breakup -->
+  <LetterLabelBreakup>বিচ্ছেদ</LetterLabelBreakup>
+  <!-- EN: Marriage is on! -->
+  <LetterLabelAcceptedProposal>বিবাহ সম্পন্ন!</LetterLabelAcceptedProposal>
+  <!-- EN: Rejected proposal -->
+  <LetterLabelRejectedProposal>প্রত্যাখ্যাত প্রস্তাব</LetterLabelRejectedProposal>
+  <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
+  <LetterAcceptedProposal>আসন্ন কয়েক দিন বা চতুর্থাংশ বছরে তাঁরা তাঁদের বিবাহের অনুষ্ঠান করবেন এবং সমস্ত উপনিবেশিকদের আমন্ত্রণ জানাবেন। অনুষ্ঠানটি কোথায় হবে তা নিয়ন্ত্রণ করতে চাইলে বিবাহের স্থান নির্ধারণ করুন।</LetterAcceptedProposal>
+  <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
+  <LetterAcceptedProposal_NameChange>{PAWN_label} {PAWN_possessive} শেষ নাম {1} এ পরিবর্তন করবে।</LetterAcceptedProposal_NameChange>
+  <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
+  <LetterRejectedProposal>{INITIATOR_nameFull} এতে অসন্তুষ্ট হবে।</LetterRejectedProposal>
+
+  <!-- Generalized letter labels -->
+  <!-- EN: Hostile: {0} -->
+  <LetterLabelRelationsChange_Hostile>শত্রুভাবাপন্ন: {0}</LetterLabelRelationsChange_Hostile>
+  <!-- EN: Allied: {0} -->
+  <LetterLabelRelationsChange_Ally>মিত্র: {0}</LetterLabelRelationsChange_Ally>
+  <!-- EN: Enemy now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromHostile>শত্রু এখন নিরপেক্ষ: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <!-- EN: Ally now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromAlly>{0} এখন নিরপেক্ষ:</LetterLabelRelationsChange_NeutralFromAlly>
+  <!-- EN: Zzztt... -->
+  <LetterLabelShortCircuit>zzzট…</LetterLabelShortCircuit>
+
+  <!-- Bonded animals -->
+  <!-- EN: bonded -->
+  <LetterLabelSuffixBondedAnimalDied>বদ্ধ</LetterLabelSuffixBondedAnimalDied>
+  <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} {HUMAN_labelShort}-এর সাথে আবদ্ধ ছিল। এটি {HUMAN_labelShort}-এর মেজাজকে প্রভাবিত করবে।</LetterPartBondedAnimalDied>
+  <!-- EN: It will affect mood of the following people:\n\n{0} -->
+  <LetterPartBondedAnimalDiedMulti>এটি নিম্নলিখিত লোকেদের মেজাজ প্রভাবিত করবে:\n\n{0}</LetterPartBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <!-- EN: Prison break -->
+  <LetterLabelPrisonBreak>কারাবাস থেকে পালানো</LetterLabelPrisonBreak>
+  <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
+  <LetterPrisonBreak>বন্দীরা পালানোর চেষ্টা করেছে! কোনোভাবে তারা দরজার তালা ভেঙে ফেলেছে এবং পালানোর চেষ্টা করছে। তারা অস্ত্র খুঁজতে পারে, মারামারি করতে পারে বা পালানোর চেষ্টা করতে পারে। এই বন্দীরা জড়িত:\n\n{0}\n\nবন্দীরা বেশি সংখ্যায় এবং সুস্থ থাকলে পালানোর চেষ্টা করার সম্ভাবনা বেশি।</LetterPrisonBreak>
+
+  <!-- Newly addicted -->
+  <!-- EN: {0} addiction -->
+  <LetterLabelNewlyAddicted>{0} আসক্তি</LetterLabelNewlyAddicted>
+  <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
+  <LetterNewlyAddicted>{PAWN_labelShort} {1}-এর প্রতি আসক্তি তৈরি করেছে।\n\n{PAWN_pronoun}-এর এখন {1}-এর প্রয়োজন, যা {PAWN_possessive} প্রয়োজন ট্যাবে দৃশ্যমান হবে। {PAWN_pronoun} স্বয়ংক্রিয়ভাবে এই প্রয়োজন মেটাতে মাদক দ্রব্যটি গ্রহণ করবে। যদি {PAWN_pronoun} কোনো {1} পেতে না পারে, তবে {PAWN_pronoun} প্রত্যাহার উপসর্গে ভুগবে।</LetterNewlyAddicted>
+
+  <!-- Drug binge -->
+  <!-- EN: {0} binge -->
+  <LetterLabelDrugBinge>: {0} অত্যধিক গ্রহণ</LetterLabelDrugBinge>
+  <!-- EN: {2_label} is binging on {1}. -->
+  <LetterDrugBinge>{2_label} {1} অতিরিক্ত পরিমাণে গ্রহণ করছে।</LetterDrugBinge>
+
+  <!-- Caravan destroyed -->
+  <!-- EN: Caravan destroyed -->
+  <LetterLabelAllCaravanColonistsDied>বহর ধ্বংস হয়েছে।</LetterLabelAllCaravanColonistsDied>
+  <!-- EN: All members of {0} have died. -->
+  <LetterAllCaravanColonistsDied>{0} এর সকল সদস্য মারা গেছেন।</LetterAllCaravanColonistsDied>
+
+  <!-- Caravan entered map -->
+  <!-- EN: Caravan arrived at {0_label} -->
+  <LetterLabelCaravanEnteredMap>বহরটি {0_label} এ পৌঁছাল।</LetterLabelCaravanEnteredMap>
+  <!-- EN: {0} has arrived at {1_definite}. -->
+  <LetterCaravanEnteredMap>{0} {1_definite}-এ পৌঁছেছে।</LetterCaravanEnteredMap>
+
+  <!-- Caravan entered enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelCaravanEnteredEnemyBase>আক্রমণ শুরু হয়েছে।</LetterLabelCaravanEnteredEnemyBase>
+  <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
+  <LetterCaravanEnteredEnemyBase>{0} এখানে {1}-এ পৌঁছেছে এবং আক্রমণ শুরু করার জন্য প্রস্তুত।</LetterCaravanEnteredEnemyBase>
+
+  <!-- Transport pods landed in enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelTransportPodsLandedInEnemyBase>আক্রমণ শুরু হয়েছে।</LetterLabelTransportPodsLandedInEnemyBase>
+  <!-- EN: Your transport pods have arrived at {0}. -->
+  <LetterTransportPodsLandedInEnemyBase>আপনার পরিবহন পডগুলি {0}-এ পৌঁছেছে।</LetterTransportPodsLandedInEnemyBase>
+  <!-- EN: The shuttle has arrived at {0}. -->
+  <LetterShuttleLandedInEnemyBase>{0}-তে শাটলটি এসে পৌঁছেছে।</LetterShuttleLandedInEnemyBase>
+
+  <!-- Faction base defeated -->
+  <!-- EN: Base destroyed -->
+  <LetterLabelFactionBaseDefeated>বেস ধ্বংস হয়েছে।</LetterLabelFactionBaseDefeated>
+  <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
+  <LetterFactionBaseDefeated>শত্রু বসতি {0} ধ্বংস করা হয়েছে।\n\n{1} এ, আপনার বহর শত্রুদের দ্বারা আক্রান্ত হবে। বহরটি পুনর্গঠন করে চলে না গেলে, তারা বহরটিকে আক্রমণ করার জন্য সৈন্য পাঠানো শুরু করবে।</LetterFactionBaseDefeated>
+  <!-- EN: The enemy settlement {0} has been destroyed. -->
+  <LetterFactionBaseDefeatedNoRaids>শত্রুর বসতি {0} ধ্বংস করা হয়েছে।</LetterFactionBaseDefeatedNoRaids>
+  <!-- EN: Since this was their last settlement, {0} has been defeated. -->
+  <LetterFactionBaseDefeated_FactionDestroyed>যেহেতু এটি {0} এর শেষ বসতি ছিল, তাই তারা পরাজিত হয়েছে।</LetterFactionBaseDefeated_FactionDestroyed>
+
+  <!-- Quest completed -->
+  <!-- EN: Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>অনুসন্ধান সম্পন্ন।</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
+  <LetterDefeatAllEnemiesQuestCompleted>আপনি শত্রু ঘাঁটিটি পরাজিত করেছেন!\n\n{0} থেকে পেমেন্ট এসেছে, এবং দলবদ্ধ সম্পর্কের উন্নতি হয়েছে {1} দ্বারা।</LetterDefeatAllEnemiesQuestCompleted>
+
+  <!-- Long-range mineral scanner -->
+  <!-- EN: Distant resource scanned -->
+  <LetterLabelFoundPreciousLump>দূরবর্তী সম্পদ স্ক্যান করা হয়েছে</LetterLabelFoundPreciousLump>
+  <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
+  <LetterFoundPreciousLump>দীর্ঘ-পাল্লার খনিজ স্ক্যানার ব্যবহার করে, {WORKER_labelShort} দূরে কিছু {0} খুঁজে পেয়েছে।\n\nদুর্ভাগ্যবশত, এটি বেশি দিন টিকবে না - আমরা যদি {1} দিনের মধ্যে এটি খনন না করি তবে অন্যেরা এটি প্রথম খনন করবে।\n\n{2}।</LetterFoundPreciousLump>
+
+  <!-- Ground penetrating scanner -->
+  <!-- EN: Scanned underground -->
+  <LetterLabelDeepScannerFoundLump>স্ক্যান করা ভূগর্ভস্থ</LetterLabelDeepScannerFoundLump>
+  <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} ভূগর্ভস্থ স্ক্যানার ব্যবহার করে {0} এর একটি স্তূপ খুঁজে পেয়েছে!</LetterDeepScannerFoundLump>
+
+  <!-- Ambush -->
+  <!-- EN: Ambush -->
+  <LetterLabelAmbushInExistingMap>ছদ্মহামলা</LetterLabelAmbushInExistingMap>
+  <!-- EN: Your {0} have been ambushed! -->
+  <LetterAmbushInExistingMap>আপনার {0} এর উপর অতর্কিত হামলা হয়েছে!</LetterAmbushInExistingMap>
+
+  <!-- Peace talks -->
+  <!-- EN: Peace talks disaster -->
+  <LetterLabelPeaceTalks_Disaster>শান্তি আলোচনা বিপর্যয়</LetterLabelPeaceTalks_Disaster>
+  <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
+  <LetterPeaceTalks_Disaster>আলোচনাগুলো একটি বিপর্যয় ছিল। প্রতিনিধিরা প্রাথমিক অভিবাদন পেরোনোর আগেই আলোচনাটি অপমান ও দোষারোপে ভেঙে পড়ে।\n\nআপনার বহর প্রস্থান করার পরে, {0} {1} থেকে তাদের সাথে যোগ দিয়ে আক্রমণ করলো!\n\n{1} এর সাথে সম্পর্ক: {2}।</LetterPeaceTalks_Disaster>
+  <!-- EN: Peace talks backfire -->
+  <LetterLabelPeaceTalks_Backfire>শান্তি আলোচনা ভেস্তে গেল।</LetterLabelPeaceTalks_Backfire>
+  <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
+  <LetterPeaceTalks_Backfire>আলোচনা ভেস্তে গেছে। কিছু সৌজন্য বিনিময়ের পরেও, প্রতিনিধিরা গুরুত্বপূর্ণ বিষয়ে কোনো অগ্রগতি করতে পারেনি এবং একাধিক বক্তব্যকে অপমান হিসেবে গণ্য করা হয়েছে।\n\n{0}-এর সাথে সম্পর্ক: {1}।</LetterPeaceTalks_Backfire>
+  <!-- EN: Peace talks flounder -->
+  <LetterLabelPeaceTalks_TalksFlounder>শান্তি আলোচনা ভেস্তে গেল।</LetterLabelPeaceTalks_TalksFlounder>
+  <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
+  <LetterPeaceTalks_TalksFlounder>আলোচনা ভেস্তে গেছে। প্রতিনিধিরা স্পষ্টভাবে এবং মৌলিক সম্মানের সাথে যোগাযোগ করতে পেরেছিল, কিন্তু কোনো বাস্তব সমস্যাতেই অগ্রগতি করতে পারেনি।\n\n{0}-এর সাথে সম্পর্ক অপরিবর্তিত রয়েছে।</LetterPeaceTalks_TalksFlounder>
+  <!-- EN: Peace talks success -->
+  <LetterLabelPeaceTalks_Success>শান্তি আলোচনা সফল।</LetterLabelPeaceTalks_Success>
+  <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
+  <LetterPeaceTalks_Success>আলোচনা সফল হয়েছে। প্রতিনিধিরা বেশ কয়েকটি গুরুত্বপূর্ণ বিষয়ে নতুন পারস্পরিক বোঝাপড়ায় পৌঁছেছেন।\n\n{0}-এর সাথে সম্পর্ক {1} দ্বারা উন্নত হয়েছে।</LetterPeaceTalks_Success>
+  <!-- EN: Peace talks triumph -->
+  <LetterLabelPeaceTalks_Triumph>শান্তি আলোচনা সফল।</LetterLabelPeaceTalks_Triumph>
+  <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
+  <LetterPeaceTalks_Triumph>আলোচনাগুলো দারুণ সফল হয়েছে! প্রতিনিধিরা দ্রুত ব্যক্তিগতভাবে সংযোগ স্থাপন করেছিলেন এবং দিনের সবচেয়ে কঠিন বিষয়গুলোর বিষয়ে একে অপরের দৃষ্টিভঙ্গি বুঝতে পেরেছিলেন।\n\n{0}-এর সাথে সম্পর্ক {1} দ্বারা উন্নত হয়েছে।\n\nআপনার বহর প্রস্থান করার সময়, {0} আপনাকে একটি উপহার দিয়েছেন:\n\n{2}</LetterPeaceTalks_Triumph>
+  <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}, আপনার মধ্যস্থতাকারী, {1} সামাজিক অভিজ্ঞতা অর্জন করেছে।</PeaceTalksSocialXPGain>
+
+  <!-- Run wild mental break -->
+  <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
+  <LetterRunWildMentalBreak>{0} সভ্যতা নিয়ে তিক্ত।\n\n{PAWN_pronoun} বুঝতে পেরেছে বন্য প্রাণী সবসময় স্বাধীন। তাই, {PAWN_pronoun} আপনার দল ছেড়ে পশুদের সাথে বসবাস করার সিদ্ধান্ত নিয়েছে।\n\nআপনি {PAWN_objective} কে ফিরিয়ে আনার জন্য পোষ মানানোর বা গ্রেপ্তার করার চেষ্টা করতে পারেন।</LetterRunWildMentalBreak>
+
+  <!-- Catatonic mental break -->
+  <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->
+  <LetterCatatonicMentalBreak>{0} সম্পূর্ণরূপে মানসিক ভাবে ভেঙে পড়েছে এবং একটি ক্যাটাটোনিক অবস্থায় প্রবেশ করেছে। {PAWN_pronoun} কয়েক দিনের মধ্যে সুস্থ হয়ে উঠবে।</LetterCatatonicMentalBreak>
+
+  <!-- EN: Persona Core Offer -->
+  <LetterLabelAICoreOffer>ব্যক্তিত্ব কোর প্রস্তাব</LetterLabelAICoreOffer>
+  <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
+  <LetterAICoreOffer>{1}-এর একজন ব্যক্তি আপনার সাথে যোগাযোগ করছেন তথ্য প্রদানের প্রস্তাব নিয়ে: একটি ব্যক্তিত্ব কোর-এর অবস্থান, যা মহাকাশযান তৈরি করার জন্য আপনার প্রয়োজন হবে। তারা আপনাকে জানায় যে এই জিনিসটি বেশ বিরল এবং সাধারণত এর মালিকরা এটিকে কঠোর পাহারায় রাখে।\n\nআগ্রহী হলে আপনার যোগাযোগ কনসোল দিয়ে তাদের সাথে যোগাযোগ করুন।</LetterAICoreOffer>
+
+  <!-- Crafting letters -->
+  <!-- EN: Legendary Work -->
+  <LetterCraftedLegendaryLabel>কিংবদন্তী কাজ</LetterCraftedLegendaryLabel>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} একটি {CRAFTED_labelShort} তৈরি করেছে।\n\nএই মূল্যবান নিদর্শনটির খবর বিশ্বজুড়ে ছড়িয়ে পড়বে।</LetterCraftedLegendaryMessage>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} একটি {CRAFTED_labelShort} তৈরি করেছেন।\n\n{0}\n\nএই মূল্যবান শিল্পকর্মের খবর বিশ্বজুড়ে ছড়িয়ে পড়বে।</LetterCraftedLegendaryMessageArt>
+
+  <!-- EN: Masterwork -->
+  <LetterCraftedMasterworkLabel>মাস্টারওয়ার্ক</LetterCraftedMasterworkLabel>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort} একটি {CRAFTED_labelShort} তৈরি করেছে।</LetterCraftedMasterworkMessage>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} একটি {CRAFTED_labelShort} তৈরি করেছে।\n\n{0}</LetterCraftedMasterworkMessageArt>
+
+  <!-- Pawns lost because map closed -->
+  <!-- EN: Caravan lost -->
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>বহর নিখোঁজ।</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
+  <LetterPawnsLostBecauseMapClosed_Caravan>আপনার বহরটি হারিয়ে গেছে। নিম্নলিখিত ব্যক্তি ও পশুদের সাথে এটি হারিয়ে গেছে।</LetterPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Inhabitants abandoned -->
+  <LetterLabelPawnsLostBecauseMapClosed_Home>অধিবাসী পরিত্যক্ত</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <!-- EN: The following people and animals have been abandoned -->
+  <LetterPawnsLostBecauseMapClosed_Home>নিম্নলিখিত মানুষ এবং পশুদের পরিত্যক্ত করা হয়েছে।</LetterPawnsLostBecauseMapClosed_Home>
+
+  <!-- Hibernate complete -->
+  <!-- EN: Reactor ready -->
+  <LetterLabelHibernateComplete>রিঅ্যাক্টর প্রস্তুত</LetterLabelHibernateComplete>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
+  <LetterHibernateComplete>(*নাম)চার্লন হোয়াইটস্টোন(/নাম) রিঅ্যাক্টরের শীতনিদ্রা পুনরুদ্ধার ক্রম সম্পন্ন করেছে। রিঅ্যাক্টর এখন উড্ডয়নের জন্য শক্তি সরবরাহ করতে প্রস্তুত।</LetterHibernateComplete>
+  <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
+  <LetterHibernateCompleteStandalone>রিঅ্যাক্টরের পাওয়ার আপ ক্রম সম্পন্ন হয়েছে। এটি এখন একটি উড্ডয়নের জন্য প্রস্তুত।</LetterHibernateCompleteStandalone>
+
+  <!-- Visitors gave gift -->
+  <!-- EN: Gift from {0} -->
+  <LetterLabelVisitorsGaveGift>{0} থেকে উপহার</LetterLabelVisitorsGaveGift>
+  <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
+  <LetterVisitorsGaveGift>{0} {PAWN_factionName} থেকে একটি উপহার রেখে গেছে:\n\n{1}</LetterVisitorsGaveGift>
+
+  <!-- Faction base proximity -->
+  <!-- EN: Faction base proximity -->
+  <LetterLabelFactionBaseProximity>গোষ্ঠী ঘাঁটি সান্নিধ্য</LetterLabelFactionBaseProximity>
+  <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
+  <LetterFactionBaseProximity>যেহেতু আপনি অন্যান্য দলগুলির খুব কাছাকাছি, তাই তারা মনে করে আপনি তাদের অঞ্চলে প্রবেশ করছেন।\n\nগত চতুর্থাংশ বছরে, দলের সম্পর্ক হ্রাস করা হয়েছে:</LetterFactionBaseProximity>
+
+  <!-- Caravans battlefield victory -->
+  <!-- EN: Caravan battle won -->
+  <LetterLabelCaravansBattlefieldVictory>caravansী যুদ্ধ জিতেছে।</LetterLabelCaravansBattlefieldVictory>
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
+  <LetterCaravansBattlefieldVictory>আপনার কাফেলা যুদ্ধ জিতেছে।\n\nআপনি এখন ওয়ার্ল্ড স্ক্রিনে যুদ্ধক্ষেত্র নির্বাচন করে এবং "কাফেলা পুনর্গঠন" অপশনটি বেছে নিয়ে কাফেলাটি পুনর্গঠন করতে পারেন।\n\nম্যানুয়ালি জিনিসপত্র সংগ্রহ করার দরকার নেই, পুনর্গঠন কাফেলা সরঞ্জামটি তাৎক্ষণিকভাবে এটি করতে পারে।\n\n{0}-এ, আপনার কাফেলা শত্রুদের দ্বারা আক্রান্ত হবে। যদি না কাফেলা পুনর্গঠিত হয় এবং প্রস্থান করে, তবে তারা কাফেলা আক্রমণ করার জন্য বাহিনী পাঠানো শুরু করবে।</LetterCaravansBattlefieldVictory>
+
+  <!-- Rescue quest -->
+  <!-- EN: Rescuee joins -->
+  <LetterLabelRescueQuestFinished>উদ্ধারপ্রাপ্ত যোগদান করছে</LetterLabelRescueQuestFinished>
+  <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group. -->
+  <LetterRescueQuestFinished>আপনি {PAWN_nameDef} কে উদ্ধার করেছেন এবং {PAWN_pronoun} আপনার দলে যোগ দিয়েছে।</LetterRescueQuestFinished>
+  <!-- EN: \n\nYou can now take {PAWN_objective} with you. To do so, open the World screen, select this site and choose the "Reform caravan" command. -->
+  <LetterRescueQuestFinishedCaravanExtra>আপনি এখন {PAWN_objective} আপনার সাথে নিতে পারবেন। এটি করার জন্য, ওয়ার্ল্ড স্ক্রিন খুলুন, এই সাইটটি নির্বাচন করুন এবং "Reform caravan" কমান্ডটি বেছে নিন।</LetterRescueQuestFinishedCaravanExtra>
+
+  <!-- Predator hunting colonist -->
+  <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
+  <LetterLabelPredatorHuntingColonist>শিকারী {PREY_definite} শিকার করছে</LetterLabelPredatorHuntingColonist>
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
+  <LetterPredatorHuntingColonist>{PREDATOR} খাদ্য-এর জন্য {PREY_definite}-কে শিকার করছে!</LetterPredatorHuntingColonist>
+
+  <!-- Disease -->
+  <!-- EN: {0} blocked {1} on -->
+  <LetterDisease_Blocked>{0} দ্বারা {1} অবরুদ্ধ করা হয়েছে</LetterDisease_Blocked>
+  <!-- EN: Disease: {0} -->
+  <LetterLabelTraitDisease>রোগ: {0}</LetterLabelTraitDisease>
+  <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
+  <LetterTraitDisease>{PAWN_label} {1} থেকে অসুস্থ হয়েছে।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। {PAWN_pronoun} যেন সঠিক চিকিৎসা পায় এবং যতটা সম্ভব সময় বিছানায় কাটায়, তা নিশ্চিত করুন।</LetterTraitDisease>
+
+  <!-- Quests -->
+  <!-- EN: Quest available: {0} -->
+  <LetterLabelQuestAvailableTitle>অনুসন্ধান উপলব্ধ: {0}</LetterLabelQuestAvailableTitle>
+  <!-- EN: Quest active: {0} -->
+  <LetterLabelQuestAutomaticallyAcceptedTitle>অনুসন্ধান সক্রিয়: {0}</LetterLabelQuestAutomaticallyAcceptedTitle>
+  <!-- EN: {DISCOVEREDFROM} a new quest. -->
+  <LetterNewQuest>{DISCOVEREDFROM} একটি নতুন অনুসন্ধান।</LetterNewQuest>
+  <!-- EN: A new quest is available. -->
+  <LetterNewQuestFromUnknown>একটি নতুন অনুসন্ধান উপলব্ধ।</LetterNewQuestFromUnknown>
+  <!-- EN: The quest is called '{0}'. -->
+  <LetterQuestIsNamed>অনুসন্ধানটির নাম '{0}'।</LetterQuestIsNamed>
+  <!-- EN: It will expire in {0}. -->
+  <LetterQuestActiveNowTime>এটি {0} এ মেয়াদোত্তীর্ণ হবে।</LetterQuestActiveNowTime>
+  <!-- EN: If you don't accept the quest within {0}, it will expire. -->
+  <LetterQuestRequiresAcceptance>যদি আপনি {0} এর মধ্যে এই অনুসন্ধানটি গ্রহণ না করেন, তবে এটি মেয়াদোত্তীর্ণ হবে।</LetterQuestRequiresAcceptance>
+  <!-- EN: While reading {BOOK_labelNoParenthesis}, {READER_nameDef} discovered -->
+  <QuestDiscoveredFromBook>বই {BOOK_labelNoParenthesis} পড়ার সময়, {READER_nameDef} আবিষ্কার করলো</QuestDiscoveredFromBook>
+  <!-- EN: While talking with the trader {TRADER_nameDef}, {NEGOTIATOR_nameDef} learned of -->
+  <QuestDiscoveredFromTrader>{TRADER_nameDef} এর সাথে কথা বলার সময়, {NEGOTIATOR_nameDef} জানতে পারলেন যে</QuestDiscoveredFromTrader>
+  <!-- EN: To show {RECEIVER_possessive} gratitude for your charity, the beggar {RECEIVER_nameDef} shared a secret with {GIVER_nameDef}.\n\nYou have learned of -->
+  <QuestDiscoveredFromBeggar>আপনার দয়ার প্রতি কৃতজ্ঞতা জানাতে, ভিক্ষুক {RECEIVER_possessive} {RECEIVER_nameDef}, {GIVER_nameDef} এর সাথে একটি গোপন কথা ভাগ করেছে।\n\nআপনি জানতে পেরেছেন</QuestDiscoveredFromBeggar>
+  <!-- EN: You have discovered -->
+  <QuestDiscoveredFromDebug>আপনি আবিষ্কার করেছেন।</QuestDiscoveredFromDebug>
+
+  <!-- Quest drop pods arrived -->
+  <!-- EN: Pods arrived -->
+  <LetterLabelQuestDropPodsArrived>পড এসে গেছে</LetterLabelQuestDropPodsArrived>
+  <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
+  <LetterQuestDropPodsArrived>পরিবহন পডগুলি নিম্নলিখিত সামগ্রী নিয়ে এসেছে:\n\n{0}</LetterQuestDropPodsArrived>
+
+  <!-- Quest items added to caravan inventory -->
+  <!-- EN: {CARAVAN_label} received items -->
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} জিনিস গ্রহণ করেছে</LetterLabelQuestItemsAddedToCaravanInventory>
+  <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} নিম্নলিখিত জিনিসগুলি পেয়েছে:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
+
+  <!-- Refugee joins -->
+  <!-- EN: {PAWN_nameDef} joins -->
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} যোগদান করছে</LetterLabelRefugeeJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
+  <LetterRefugeeJoins>একজন {PAWN_nameDef} নামের {PAWN_title} এসেছেন এবং কলোনিতে যোগ দিচ্ছেন।</LetterRefugeeJoins>
+  
+  <!-- Rescuee joins -->
+  <!-- EN: {PAWN_nameDef} joins -->
+  <LetterLabelRescueeJoins>{PAWN_nameDef} যোগদান করছে</LetterLabelRescueeJoins>
+  <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
+  <LetterRescueeJoins>{PAWN_nameDef} কৃতজ্ঞ যে আপনি {PAWN_objective}-কে উদ্ধার করেছেন। {PAWN_pronoun} সিদ্ধান্ত নিয়েছেন যে {PAWN_pronoun} চলে যাওয়ার চেয়ে এখানেই থাকতে চান, এবং আপনার কলোনিতে যোগ দিচ্ছেন।</LetterRescueeJoins>
+
+  <!-- Pawns arrive and join -->
+  <!-- EN: People join -->
+  <LetterLabelPawnsArriveAndJoin>মানুষ যোগদান করে</LetterLabelPawnsArriveAndJoin>
+  <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
+  <LetterPawnsArriveAndJoin>নিম্নলিখিত ব্যক্তিরা এসে কলোনিতে যোগ দিয়েছে:\n\n{0}</LetterPawnsArriveAndJoin>
+
+  <!-- Pawns arrive -->
+  <!-- EN: People arrived -->
+  <LetterLabelPawnsArrive>লোকজন এল।</LetterLabelPawnsArrive>
+  <!-- EN: The following people have arrived:\n\n{0} -->
+  <LetterPawnsArrive>নিম্নলিখিত ব্যক্তিরা এসেছেন:\n\n{0}</LetterPawnsArrive>
+
+  <!-- Pawn leaving -->
+  <!-- EN: {0} leaving -->
+  <LetterLabelPawnLeaving>{0} প্রস্থান করছে</LetterLabelPawnLeaving>
+  <!-- EN: {0} is leaving. -->
+  <LetterPawnLeaving>{0} প্রস্থান করছে।</LetterPawnLeaving>
+
+  <!-- Pawns leaving -->
+  <!-- EN: {0} leaving -->
+  <LetterLabelPawnsLeaving>: {0} প্রস্থান করছে</LetterLabelPawnsLeaving>
+  <!-- EN: {0} are leaving. -->
+  <LetterPawnsLeaving>{0} চলে যাচ্ছে।</LetterPawnsLeaving>
+  
+  <!-- Colonist kidnapped -->
+  <!-- EN: {PAWN_nameDef} kidnapped -->
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} অপহৃত</LetterLabelPawnsKidnapped>
+  <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
+\nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
+  <LetterPawnsKidnapped>¡{PAWN_nameDef} ha sido secuestrad{PAWN_gender ? o : a} por la facción {FACTION_name}!\nSin embargo, no {PAWN_objective} perderás para siempre. Existe una oportunidad para rescatar{PAWN_objective} que podrá presentarse en los próximos días... o años.</LetterPawnsKidnapped>
+  
+  <!-- Techprints -->
+  <!-- EN: Techprint applied: {PROJECT_label} -->
+  <LetterTechprintAppliedLabel>প্রযুক্তি নকশা প্রয়োগ করা হয়েছে: {PROJECT_label}</LetterTechprintAppliedLabel>
+  <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
+  <LetterTechprintAppliedPartIntro>একটি প্রযুক্তি নকশা গবেষণা প্রকল্পে প্রয়োগ করা হয়েছে: {PROJECT_label}।</LetterTechprintAppliedPartIntro>
+  <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
+  <LetterTechprintAppliedPartJustUnlocked>প্রযুক্তি নকশার প্রয়োজনীয়তাগুলি আপনি সম্পন্ন করেছেন! আপনার গবেষকেরা এখন গবেষণা টেবিলের মাধ্যমে প্রযুক্তিটি কীভাবে ব্যবহার করতে হয় তা নিয়ে গবেষণা শুরু করতে পারেন।</LetterTechprintAppliedPartJustUnlocked>
+  <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
+  <LetterTechprintAppliedPartNotUnlockedYet>এই প্রকল্পের প্রযুক্তি নকশার প্রয়োজনীয়তা এখনও পূরণ হয়নি। અત્યાર સુધી {0} প্রযুক্তি নকশা প্রয়োগ করা হয়েছে। এই প্রকল্পের জন্য মোট {1} প্রয়োজন।</LetterTechprintAppliedPartNotUnlockedYet>
+  <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
+  <LetterTechprintAppliedPartAlreadyUnlocked>এই প্রকল্পের প্রযুক্তি নকশার প্রয়োজনীয়তা ইতিমধ্যেই পূরণ করা হয়েছিল। অতিরিক্ত প্রযুক্তি নকশা আপনার {PROJECT_label} প্রকল্পের গবেষণার প্রচেষ্টাকে উন্নত করেছে। অবশিষ্ট গবেষণার কাজের অর্ধেক, {0} পয়েন্ট সম্পন্ন হয়েছে।</LetterTechprintAppliedPartAlreadyUnlocked>
+  <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
+  <LetterTechprintAppliedPartAlreadyResearched>এই প্রকল্পটি সম্পূর্ণরূপে গবেষণা করা হয়েছে, তাই প্রযুক্তি নকশা আপনার জ্ঞানকে কোনোভাবেই বাড়াতে পারেনি।</LetterTechprintAppliedPartAlreadyResearched>
+  <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
+  <LetterTechprintAppliedPartExpAwarded>প্রযুক্তি নকশা প্রয়োগ করে, {PAWN_labelShort} {1} দক্ষতাতে {0} অভিজ্ঞতা অর্জন করেছে।</LetterTechprintAppliedPartExpAwarded>
+  
+  <!-- Quest Completed -->
+  <!-- EN: Quest completed -->
+  <LetterQuestCompletedLabel>অনুসন্ধান সম্পন্ন</LetterQuestCompletedLabel>
+  <!-- EN: Quest failed -->
+  <LetterQuestFailedLabel>অনুসন্ধান ব্যর্থ</LetterQuestFailedLabel>
+  <!-- EN: Quest concluded -->
+  <LetterQuestConcludedLabel>অনুসন্ধান সমাপ্ত</LetterQuestConcludedLabel>
+  <!-- EN: You have successfully completed the quest '{0}'! -->
+  <LetterQuestCompletedSuccess>আপনি সফলভাবে '{0}' অনুসন্ধানটি সম্পন্ন করেছেন!</LetterQuestCompletedSuccess>
+  <!-- EN: You have failed the quest '{0}'. -->
+  <LetterQuestCompletedFail>আপনি '{0}' অনুসন্ধানে ব্যর্থ হয়েছেন।</LetterQuestCompletedFail>
+  <!-- EN: You have concluded the quest '{0}'. -->
+  <LetterQuestCompletedConcluded>আপনি '{0}' অনুসন্ধানটি সম্পন্ন করেছেন।</LetterQuestCompletedConcluded>
+
+  <!-- Bladelink -->
+  <!-- EN: Persona bond: {PAWN_labelShort} -->
+  <LetterBladelinkWeaponBondedLabel>ব্যক্তিগত বন্ধন: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
+  <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
+\nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} ha establecido un vínculo con la Inteligencia Artificial de esta arma: {WEAPON_labelShort}.\nDe ahora en adelante, {WEAPON_labelShort} se negará a ser usada por nadie que no sea {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
+  
+  <!-- Mech cluster -->
+  <!-- EN: Mechanoids arrived -->
+  <LetterLabelMechClusterArrived>মেকানোইডসমূহ এসেছে।</LetterLabelMechClusterArrived>
+  <!-- EN: Mechanoids have arrived. -->
+  <LetterMechClusterArrived>মেকানোইডসমূহ এসেছে।</LetterMechClusterArrived>
+
+  <!-- EN: Caravan detected -->
+  <LetterLabelSiteCountdownStarted>বহর সনাক্ত করা হয়েছে।</LetterLabelSiteCountdownStarted>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
+  <LetterTextSiteCountdownStarted>আপনার কাফেলা সনাক্ত করা হয়েছে। {0}-এ, {2} থেকে {1} reinforcements এলাকায় আসা শুরু হবে।\n\n{1} এড়িয়ে যেতে আপনার কাফেলা পুনরায় সংগঠিত করুন এবং যাত্রা শুরু করুন। তাদের আগমনের জন্য একটি টাইমার এখন দৃশ্যমান।</LetterTextSiteCountdownStarted>
+
+  <!-- EN: Unwavering prisoner -->
+  <LetterLabelUnrecruitablePawnCaptured>অটল বন্দী</LetterLabelUnrecruitablePawnCaptured>
+  <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
+  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} তাঁদের আবাসস্থলের প্রতি দৃঢ়ভাবে অনুগত এবং সম্পূর্ণরূপে নিয়োগে রাজি হবেন না।\n\nকাউকে নির্বাচন করে আপনি জানতে পারবেন তাঁরা দৃঢ়ভাবে অনুগত কিনা।</LetterTextUnrecruitablePawnCaptured>
+  <!-- EN: enslave {PAWN_objective} -->
+  <OptionalEnslaveDesc>দাস বানানোর জন্য {PAWN_objective} নির্বাচন করা হয়েছে।</OptionalEnslaveDesc>
+
+  <!-- Lung rot -->
+  <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
+  <LetterTextLungRot>{PAWN} পচা দুর্গন্ধ গ্যাসের দীর্ঘমেয়াদী সংস্পর্শের কারণে {1} থেকে অসুস্থ হয়েছে (যা পচা মৃতদেহ থেকে নির্গত হয়)।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। {PAWN_definite} যেন সঠিক চিকিৎসা পায়, তা নিশ্চিত করুন।</LetterTextLungRot>
+
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel>যোগদানের প্রস্তাব: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle>{PAWN_nameDef} আপনার দলে যোগ দিতে চায়।</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText>{PAWN_nameDef} মনে করেন {PAWN_pronoun} {MAP_definite}-এ খুশি। {PAWN_pronoun} আপনার সাথে স্থায়ীভাবে যোগ দিতে চান।</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept>গ্রহণ করুন</LetterJoinOfferAccept>
+
+  <!-- Speeches -->
+  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} এর বক্তৃতা শেষ হয়েছে।</LetterFinishedSpeech>
+  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
+  <LetterTerribleSpeech>এটা সত্যিই ভয়ংকর ছিল—থেমে থেমে চলছিল, বেমানান কৌতুক আর হতাশাজনক গল্পে পরিপূর্ণ।</LetterTerribleSpeech>
+  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
+  <LetterUninspiringSpeech>এটি অনুপ্রেরণাহীন ছিল - মৌলিক নয়, একঘেয়ে এবং আবেগের অভাব ছিল।</LetterUninspiringSpeech>
+  <!-- EN: It was encouraging and well-delivered. -->
+  <LetterEncouragingSpeech>এটি উৎসাহব্যঞ্জক এবং ভালোভাবে উপস্থাপন করা হয়েছিল।</LetterEncouragingSpeech>
+  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
+  <LetterInspirationalSpeech>এটি উল্লেখযোগ্যভাবে অনুপ্রেরণাদায়ক ছিল, তীব্রতা ও উদ্দেশ্যপূর্ণতায় পরিপূর্ণ।</LetterInspirationalSpeech>
+  <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
+  <LetterSpeechInspiredListeners>এই বক্তৃতা বিশেষভাবে কিছু মানুষকে প্রভাবিত করেছে এবং তারা এখন অনুপ্রাণিত:</LetterSpeechInspiredListeners>
+  <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterSpeechInspiration>{SPEAKER_nameIndef}-এর চমৎকার বক্তব্যের জন্য, {PAWN_nameIndef} অনুপ্রাণিত হয়েছে!</LetterSpeechInspiration>
+  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
+  <LetterSpeechInterrupted>যেহেতু বক্তৃতাটি শুধুমাত্র {0} সম্পন্ন হওয়ার পরেই ব্যাহত হয়েছিল, তাই এটি ততটা কার্যকর ছিল না।</LetterSpeechInterrupted>
+  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <LetterSpeechCancelled>{0}-এর বক্তৃতা ৫০% সম্পূর্ণ হওয়ার আগেই বাতিল হয়ে গেছে। এর কোনো প্রভাব পড়েনি।</LetterSpeechCancelled>
+  <!-- EN: Speech cancelled -->
+  <LetterLabelSpeechCancelled>বক্তব্য বাতিল করা হয়েছে।</LetterLabelSpeechCancelled>
+
+</LanguageData>

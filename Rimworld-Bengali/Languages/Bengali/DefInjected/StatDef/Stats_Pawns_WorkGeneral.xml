@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal gather speed -->
+  <AnimalGatherSpeed.label>পশুর গতি বৃদ্ধি</AnimalGatherSpeed.label>
+  <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
+  <AnimalGatherSpeed.description>এই ব্যক্তি যে গতিতে পশু থেকে দুধ দেয়, লোম কাটে এবং অন্যথায় সম্পদ সংগ্রহ করে।</AnimalGatherSpeed.description>
+  
+  <!-- EN: animal gather yield -->
+  <AnimalGatherYield.label>প্রাণী সংগ্রহ ফলন</AnimalGatherYield.label>
+  <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
+  <AnimalGatherYield.description>জীবন্ত প্রাণী থেকে কাঁচাকুটি, দুধ সংগ্রহ অথবা অন্য কোনোভাবে সম্পদ সংগ্রহের সময় কেউ যে শতাংশ ফলন পায়।\n\nউচ্চ শতাংশ পণ্যের অপচয় হওয়ার সম্ভাবনা কমিয়ে দেয়।</AnimalGatherYield.description>
+  
+  <!-- EN: cleaning speed multiplier -->
+  <CleaningSpeed.label>পরিষ্কারের গতি গুণক</CleaningSpeed.label>
+  <!-- EN: A multiplier on how fast this cleans up filth from the ground. -->
+  <CleaningSpeed.description>মাটি থেকে ময়লা পরিষ্কার করার গতি কত দ্রুত হবে তার একটি গুণক।</CleaningSpeed.description>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeed.label>নির্মাণ গতি</ConstructionSpeed.label>
+  <!-- EN: The speed at which this person constructs and repairs buildings. -->
+  <ConstructionSpeed.description>এই ব্যক্তিটি কত দ্রুত ভবন নির্মাণ ও মেরামত করতে পারে তার গতি।</ConstructionSpeed.description>
+  
+  <!-- EN: construct success chance -->
+  <ConstructSuccessChance.label>নির্মাণ সাফল্যের সম্ভাবনা</ConstructSuccessChance.label>
+  <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
+  <ConstructSuccessChance.description>এই ব্যক্তি কোনো কিছু নির্মাণে সফল হবেন তার সম্ভাবনা।\nব্যর্থ হলে সময় এবং সম্পদ নষ্ট হবে।</ConstructSuccessChance.description>
+  
+  <!-- EN: deep drilling speed -->
+  <DeepDrillingSpeed.label>গভীর খনন গতি</DeepDrillingSpeed.label>
+  <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
+  <DeepDrillingSpeed.description>এই ব্যক্তি যে গতিতে আন্ডারগ্রাউন্ড রিসোর্স নিষ্কাশনের জন্য ডিপ ড্রিল ব্যবহার করে।</DeepDrillingSpeed.description>
+  
+  <!-- EN: drug crop harvest yield -->
+  <DrugHarvestYield.label>ড্রাগ ফসল ফলন</DrugHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
+  <DrugHarvestYield.description>এই ব্যক্তি মাদক ফসল কাটার সময় যে ফলন পায়।\n\nকম ফলন হলে এই ব্যক্তির ফসল কাটার সময় তা নষ্ট হওয়ার সম্ভাবনা থাকে। বেশি ফলন প্রতিটি গাছ থেকে বেশি ফলন বাড়িয়ে তোলে।</DrugHarvestYield.description>
+  
+  <!-- EN: repair success chance -->
+  <FixBrokenDownBuildingSuccessChance.label>মেরামত সাফল্যের সম্ভাবনা</FixBrokenDownBuildingSuccessChance.label>
+  <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
+  <FixBrokenDownBuildingSuccessChance.description>এই ব্যক্তি কোনো উপাদান ব্যবহার করে ভেঙে যাওয়া কাঠামো সফলভাবে মেরামত করার সম্ভাবনা।\n\nব্যর্থ হলে সময় এবং সম্পদ নষ্ট হবে।\nউল্লেখ্য যে এটি শুধুমাত্র কাঠামোর ত্রুটি মেরামতের ক্ষেত্রে প্রযোজ্য, যা ক্ষতির মেরামতের থেকে ভিন্ন।</FixBrokenDownBuildingSuccessChance.description>
+  
+  <!-- EN: hacking speed -->
+  <HackingSpeed.label>হ্যাকিং গতি</HackingSpeed.label>
+  <!-- EN: How fast this person can hack into computer terminals. -->
+  <HackingSpeed.description>এই ব্যক্তিটি কত দ্রুত কম্পিউটার টার্মিনালে হ্যাক করতে পারে।</HackingSpeed.description>
+  
+  <!-- EN: hacking stealth -->
+  <HackingStealth.label>হ্যাকিং লুকানো</HackingStealth.label>
+  <!-- EN: How much hacking progress can be made on average before this person is temporarily locked out of a computer system. Only certain systems are capable of detecting hacking. -->
+  <HackingStealth.description>এই ব্যক্তি একটি কম্পিউটার সিস্টেমে সাময়িকভাবে লক হওয়া পর্যন্ত গড়ে কতটুকু হ্যাকিং অগ্রগতি করতে পারে। শুধুমাত্র নির্দিষ্ট সিস্টেমগুলোই হ্যাকিং শনাক্ত করতে সক্ষম।</HackingStealth.description>
+  
+  <!-- EN: hunting stealth -->
+  <HuntingStealth.label>শিকারের লুকোচুরি</HuntingStealth.label>
+  <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->
+  <HuntingStealth.description>এই পরিসংখ্যানটি শিকার করা পশুদের শিকারীকে আক্রমণ করার সম্ভাবনা কমিয়ে দেয়।\n\n০% স্কোর মানে কোনো হ্রাস নেই।\n১০০% স্কোর মানে পশুরা কখনই আক্রমণ করে না।</HuntingStealth.description>
+  
+  <!-- EN: mining speed -->
+  <MiningSpeed.label>খনন গতি</MiningSpeed.label>
+  <!-- EN: A speed at which this person mines away walls. -->
+  <MiningSpeed.description>এই ব্যক্তিটি যে গতিতে দেয়াল খুঁড়ে তোলে।</MiningSpeed.description>
+  
+  <!-- EN: mining yield -->
+  <MiningYield.label>খনন ফলন</MiningYield.label>
+  <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
+  <MiningYield.description>খনির উৎস থেকে একজন খনি শ্রমিক কী পরিমাণ সম্পদ উৎপাদন করবে তার শতকরা হার।\n\nএটি দেয়াল খনন এবং গভীর ড্রিল খনন উভয়ের ক্ষেত্রেই প্রযোজ্য।\nগভীর ড্রিল থেকে পাথরের স্তূপের উৎপাদন হারের উপর এর কোনো প্রভাব পড়ে না।</MiningYield.description>
+  
+  <!-- EN: plant harvest yield -->
+  <PlantHarvestYield.label>উদ্ভিদ ফসল ফলন</PlantHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
+  <PlantHarvestYield.description>এই ব্যক্তি উদ্ভিদ কাটলে যে পরিমাণ ফলন পায়।\n\nকম ফলন হলে এই ব্যক্তি ভুলবশত ফসল নষ্ট করার সম্ভাবনা থাকে।</PlantHarvestYield.description>
+  
+  <!-- EN: plant work speed -->
+  <PlantWorkSpeed.label>উদ্ভিদ কাজের গতি</PlantWorkSpeed.label>
+  <!-- EN: The speed at which this person sows and harvests plants. -->
+  <PlantWorkSpeed.description>এই ব্যক্তি কত দ্রুত বীজ বপন করে এবং ফসল কাটে তার গতি।</PlantWorkSpeed.description>
+  
+  <!-- EN: reading speed -->
+  <ReadingSpeed.label>পঠন গতি</ReadingSpeed.label>
+  <!-- EN: A multiplier on how fast this person can read. -->
+  <ReadingSpeed.description>এই ব্যক্তি কত দ্রুত পড়তে পারে তার উপর একটি গুণক।</ReadingSpeed.description>
+  
+  <!-- EN: research speed -->
+  <ResearchSpeed.label>গবেষণা গতি</ResearchSpeed.label>
+  <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
+  <ResearchSpeed.description>এই ব্যক্তি কতটা দ্রুত গবেষণা করে এবং স্ক্যানিং সরঞ্জাম ব্যবহার করে কত দ্রুত জিনিস খুঁজে বের করতে পারে।</ResearchSpeed.description>
+  
+  <!-- EN: smoothing speed -->
+  <SmoothingSpeed.label>মসৃণ করার গতি</SmoothingSpeed.label>
+  <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
+  <SmoothingSpeed.description>এই ব্যক্তি পাথরের মেঝে এবং দেয়াল মসৃণ করার গতি কত দ্রুত হবে, তার একটি গুণক।</SmoothingSpeed.description>
+  
+  <!-- EN: global work speed -->
+  <WorkSpeedGlobal.label>বৈশ্বিক কাজের গতি</WorkSpeedGlobal.label>
+  <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
+  <WorkSpeedGlobal.description>এটি যেকোনো ধরনের কাজ করার সময় একজন চরিত্রের গতির গুণিতক।</WorkSpeedGlobal.description>
+  <!-- EN: Offset from mechanitor -->
+  <WorkSpeedGlobal.parts.2.label>মেকানিটর থেকে অফসেট</WorkSpeedGlobal.parts.2.label>
+  
+</LanguageData>

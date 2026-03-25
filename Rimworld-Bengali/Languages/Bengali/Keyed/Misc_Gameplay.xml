@@ -1,0 +1,2191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Various -->
+  <!-- EN: hit points -->
+  <HitPointsBasic>জীবন বিন্দু</HitPointsBasic>
+  <!-- EN: Work left -->
+  <WorkLeft>অবশিষ্ট কাজ</WorkLeft>
+  <!-- EN: Contents -->
+  <Contents>সামগ্রী</Contents>
+  <!-- EN: Contained resources -->
+  <ContainedResources>সংযুক্ত সম্পদ</ContainedResources>
+  <!-- EN: For prisoner use -->
+  <ForPrisonerUse>বন্দী ব্যবহার</ForPrisonerUse>
+  <!-- EN: In prison cell: For prisoner use -->
+  <InPrisonCell>কারাগারের সেলে: বন্দীদের ব্যবহারের জন্য।</InPrisonCell>
+  <!-- EN: For colonist use -->
+  <ForColonistUse>উপনিবেশকারীদের ব্যবহারের জন্য</ForColonistUse>
+  <!-- EN: Medical -->
+  <MedicalBed>চিকিৎসা সংক্রান্ত</MedicalBed>
+  <!-- EN: Owner -->
+  <Owner>মালিক</Owner>
+  <!-- EN: Owners -->
+  <Owners>মালিকগণ</Owners>
+  <!-- EN: Assigned colonist -->
+  <AssignedColonist>নিযুক্ত কলোনিস্ট</AssignedColonist>
+  <!-- EN: Uncomfortable room temperature -->
+  <BedUncomfortableTemperature>অস্বস্তিকর ঘরের তাপমাত্রা</BedUncomfortableTemperature>
+  <!-- EN: Unsafe room temperature -->
+  <BedUnsafeTemperature>অনিরাপদ কক্ষ তাপমাত্রা</BedUnsafeTemperature>
+  <!-- EN: Died on the {0} -->
+  <DiedOn>{0}-এ মারা গেছেন।</DiedOn>
+  <!-- EN: Nobody -->
+  <Nobody>কেউ না</Nobody>
+  <!-- EN: Unowned -->
+  <Unowned>অস্বত্বাধিকারী নয়</Unowned>
+  <!-- EN: Dead for {0} -->
+  <DeadTime>{0}-এর জন্য মৃত</DeadTime>
+  <!-- EN: walk speed {0} -->
+  <WalkSpeed>হাঁটার গতি {0}</WalkSpeed>
+  <!-- EN: fert. -->
+  <FertShort>উর্বর।</FertShort>
+  <!-- EN: dying -->
+  <DyingLower>মৃত্যুপ্রায়</DyingLower>
+  <!-- EN: Filth on feet: -->
+  <FilthOnFeet>পায়ে ময়লা:</FilthOnFeet>
+  <!-- EN: not enough stored -->
+  <NotEnoughStoredLower>সংরক্ষণ অপর্যাপ্ত</NotEnoughStoredLower>
+  <!-- EN: nothing -->
+  <NothingLower>কিছু না</NothingLower>
+  <!-- EN: Nothing -->
+  <Nothing>কিছু না</Nothing>
+  <!-- EN: Adapted -->
+  <Adapted>পরিবর্তিত</Adapted>
+  <!-- EN: fresh -->
+  <FreshMissingBodyPart>তাজা</FreshMissingBodyPart>
+  <!-- EN: developed immunity -->
+  <DevelopedImmunityLower>উন্নত রোগ প্রতিরোধ ক্ষমতা</DevelopedImmunityLower>
+  <!-- EN: Needs tending now -->
+  <NeedsTendingNow>অবিলম্বে পরিচর্যা প্রয়োজন।</NeedsTendingNow>
+  <!-- EN: Can tend now -->
+  <CanTendNow>এখন পরিচর্যা করা যাবে</CanTendNow>
+  <!-- EN: Tending expires in {0} -->
+  <TreatmentExpiresIn>{0}-এ যত্ন শেষ হয়ে যাচ্ছে।</TreatmentExpiresIn>
+  <!-- EN: Can be tended in {0} -->
+  <NextTendIn>{0}-এ পরিচর্যা করা যেতে পারে।</NextTendIn>
+  <!-- EN: Tend quality -->
+  <TendQuality>যত্নের মান</TendQuality>
+  <!-- EN: Total tend quality -->
+  <DisappearsAtTotalTendQuality>মোট প্রবণতা গুণমান</DisappearsAtTotalTendQuality>
+  <!-- EN: no {0} -->
+  <MissingMedicalBillIngredient>গুরুতর: {0}</MissingMedicalBillIngredient>
+  <!-- EN: Immunity -->
+  <Immunity>রোগ প্রতিরোধ ক্ষমতা</Immunity>
+  <!-- EN: {0} days to recover -->
+  <DaysToRecover>{0} দিন পুনরুদ্ধার করতে হবে</DaysToRecover>
+  <!-- EN: Ineffective -->
+  <Ineffective>অকার্যকর</Ineffective>
+  <!-- EN: illegal -->
+  <Illegal>অবৈধ</Illegal>
+  <!-- EN: detection chance -->
+  <DetectionChance>সনাক্তকরণের সম্ভাবনা</DetectionChance>
+  <!-- EN: Race -->
+  <Race>জাতি</Race>
+  <!-- EN: Description -->
+  <Description>বর্ণনা।</Description>
+  <!-- EN: Equipment -->
+  <Equipment>সরঞ্জাম</Equipment>
+  <!-- EN: Apparel -->
+  <Apparel>পোশাক</Apparel>
+  <!-- EN: Inventory -->
+  <Inventory>ইনভেন্টরি</Inventory>
+  <!-- EN: Information -->
+  <ThingInfo>তথ্য</ThingInfo>
+  <!-- EN: Drop -->
+  <DropThing>ফেলে দেওয়া</DropThing>
+  <!-- EN: Temporary faction members will not drop their items. -->
+  <DropThingLodger>অস্থায়ী দলীয় সদস্যরা তাদের জিনিসপত্র ফেলে দেবে না।</DropThingLodger>
+  <!-- EN: This person refuses to drop this. -->
+  <DropThingLocked>এই ব্যক্তি এটা ছাড়তে অস্বীকার করছে।</DropThingLocked>
+  <!-- EN: Rename -->
+  <Rename>নাম পরিবর্তন করুন</Rename>
+  <!-- EN: Rename animal -->
+  <RenameAnimal>পশুর নাম পরিবর্তন করুন</RenameAnimal>
+  <!-- EN: Rename colonist -->
+  <RenameColonist>উপনিবেশীর নাম পরিবর্তন</RenameColonist>
+  <!-- EN: Renounce title -->
+  <RenounceTitle>পরিত্যাগ শিরোনাম</RenounceTitle>
+  <!-- EN: Execute -->
+  <Execute>কার্যকর করুন</Execute>
+  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
+  <ExecuteColonist>দোষী উপনিবেশিককে মৃত্যুদণ্ড দিন\n\nআপনি এটি চালু করলে, একজন রক্ষক এই ব্যক্তিকে মৃত্যুদণ্ড কার্যকর করবে।</ExecuteColonist>
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>{0_labelShort} এখন মৃত্যুদণ্ডের জন্য চিহ্নিত করা হয়েছে। পরবর্তী উপলব্ধ তত্ত্বাবধায়ক {0_objective} কার্যকর করতে যাবে।</MessageColonistMarkedForExecution>
+  <!-- EN: {0} of {1} -->
+  <TitleOfFaction>{0} এর মধ্যে {1}</TitleOfFaction>
+  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
+  <RenounceTitleDescription>এই কাজটি {PAWN_nameDef}-কে {PAWN_possessive} {TITLE} পদবি হারাতে বাধ্য করবে। পদবি ত্যাগ করার জন্য আপনি কোনো ক্ষতিপূরণ পাবেন না।\n\nএর ফলে নিম্নলিখিত প্রভাবগুলি ঘটবে:\n\n{EFFECTS}</RenounceTitleDescription>
+  <!-- EN: {PAWN_pronoun} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>{PAWN_pronoun} এই অনুমতিগুলো হারাবে।</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
+  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} {FACTION_name}-এর কাছে {POINTS}টি অব্যবহৃত পারমিট পয়েন্ট হারাবেন।</RenounceTitleWillLosePermitPoints>
+  <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} তাদের সমস্ত সাইলিঙ্ক স্তর এবং সাইকাস্ট বজায় রাখবে।</RenounceTitleWillKeepPsylinkLevels>
+  <!-- EN: unknown -->
+  <UnknownLower>অজানা</UnknownLower>
+  <!-- EN: On -->
+  <On>চালু</On>
+  <!-- EN: Off -->
+  <Off>বন্ধ</Off>
+  <!-- EN: {0} {1} -->
+  <SourceToolLabel>{0} {1}</SourceToolLabel>
+  <!-- EN: Power -->
+  <PowerSwitch_Power>বিদ্যুৎ</PowerSwitch_Power>
+  <!-- EN: Recreation type tolerances -->
+  <JoyTolerances>পুনরুৎপাদন সহনশীলতা</JoyTolerances>
+  <!-- EN: Milk fullness -->
+  <MilkFullness>দুধের পূর্ণতা</MilkFullness>
+  <!-- EN: Wool growth -->
+  <WoolGrowth>পশম উৎপাদন</WoolGrowth>
+  <!-- EN: Egg progress -->
+  <EggProgress>ডিম অগ্রগতি</EggProgress>
+  <!-- EN: Fertilized -->
+  <Fertilized>নিষিক্ত</Fertilized>
+  <!-- EN: Progress stopped until fertilized -->
+  <ProgressStoppedUntilFertilized>প্রজনন না হওয়া পর্যন্ত অগ্রগতি স্থগিত।</ProgressStoppedUntilFertilized>
+  <!-- EN: Hatches in -->
+  <HatchesIn>ফাঁক খোলা</HatchesIn>
+  <!-- EN: need {0} level {2}, have {1} -->
+  <SkillTooLow>{0} স্তরের {2} প্রয়োজন, আছে {1}</SkillTooLow>
+  <!-- EN: Freezing -->
+  <Freezing>বরফ জমাট বাঁধা</Freezing>
+  <!-- EN: Overheating -->
+  <Overheating>অতিরিক্ত গরম হওয়া</Overheating>
+  <!-- EN: Ruined by temperature. -->
+  <RuinedByTemperature>তাপমাত্রায় ক্ষতিগ্রস্ত।</RuinedByTemperature>
+  <!-- EN: Missing body parts -->
+  <CorpsePercentMissing>দেহের অংশ অনুপস্থিত</CorpsePercentMissing>
+  <!-- EN: Reproduces in -->
+  <HiveReproducesIn>পুনরুৎপাদন হয়</HiveReproducesIn>
+  <!-- EN: Dormant: Not reproducing. -->
+  <DormantHiveNotReproducing>নিষ্ক্রিয়: প্রজনন করছে না।</DormantHiveNotReproducing>
+  <!-- EN: Next {0} in -->
+  <NextSpawnedItemIn>পরবর্তী {0} তে</NextSpawnedItemIn>
+  <!-- EN: Next resource in -->
+  <NextSpawnedResourceIn>পরবর্তী সম্পদ</NextSpawnedResourceIn>
+  <!-- EN: Broken down -->
+  <BrokenDown>ভাঙাDown</BrokenDown>
+  <!-- EN: (bond) -->
+  <BondBrackets>বন্ধন</BondBrackets>
+  <!-- EN: Fuel -->
+  <Fuel>জ্বালানি</Fuel>
+  <!-- EN: Fuel -->
+  <FuelLevelGizmoLabel>জ্বালানি</FuelLevelGizmoLabel>
+  <!-- EN: Set target fuel level to {0} -->
+  <SetTargetFuelLevel>লক্ষ্য জ্বালানি স্তর {0} তে সেট করুন।</SetTargetFuelLevel>
+  <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
+  <SetPodLauncherTargetFuelLevel>জ্বালানির লক্ষ্যমাত্রা {0} তে সেট করুন\nসর্বোচ্চ দূরত্ব: {1} টাইলস</SetPodLauncherTargetFuelLevel>
+  <!-- EN: Target fuel level: {0} -->
+  <ConfiguredTargetFuelLevel>লক্ষ্য জ্বালানি স্তর: {0}</ConfiguredTargetFuelLevel>
+  <!-- EN: enemies -->
+  <Enemies>শত্রু</Enemies>
+  <!-- EN: people -->
+  <People>মানুষজন</People>
+  <!-- EN: time passed -->
+  <TimePassed>সময় অতিবাহিত</TimePassed>
+  <!-- EN: current radius -->
+  <CurrentRadius>বর্তমান ব্যাসার্ধ</CurrentRadius>
+  <!-- EN: radius expands in -->
+  <RadiusExpandsIn>ব্যাসার্ধ বৃদ্ধি পাচ্ছে</RadiusExpandsIn>
+  <!-- EN: permanent -->
+  <Permanent>স্থায়ী</Permanent>
+  <!-- EN: Resting -->
+  <CaravanResting>বিশ্রামরত</CaravanResting>
+  <!-- EN: using 1 bedroll -->
+  <UsingBedroll>১টি বিছানাপত্র ব্যবহার হচ্ছে</UsingBedroll>
+  <!-- EN: using {0} bedrolls -->
+  <UsingBedrolls>{0} বিছানাপত্র ব্যবহার করছে</UsingBedrolls>
+  <!-- EN: Est. time to destination: {0} days -->
+  <CaravanEstimatedTimeToDestination>গন্তব্যে পৌঁছানোর আনুমানিক সময়: {0} দিন।</CaravanEstimatedTimeToDestination>
+  <!-- EN: Route travel time: {0} days -->
+  <CaravanEstimatedDaysToDestination>যাত্রাপথের সময়: {0} দিন</CaravanEstimatedDaysToDestination>
+  <!-- EN: Immobilized: Too much weight. -->
+  <CaravanImmobilizedByMass>অচল: অতিরিক্ত ওজন।</CaravanImmobilizedByMass>
+  <!-- EN: Out of food. -->
+  <CaravanOutOfFood>খাবার ফুরিয়ে গেছে।</CaravanOutOfFood>
+  <!-- EN: Days of food: {0} -->
+  <CaravanDaysOfFood>খাবারের দিন: {0}</CaravanDaysOfFood>
+  <!-- EN: Days of food: {0} (rot in {1} days) -->
+  <CaravanDaysOfFoodRot>খাবারের দিন: {0} ({1} দিনে পচে যাবে)</CaravanDaysOfFoodRot>
+  <!-- EN: Stopped because: Everyone is downed. -->
+  <AllCaravanMembersDowned>থেমে গেল: সবাই ভূপতিত।</AllCaravanMembersDowned>
+  <!-- EN: Stopped because: Everyone is in a mental break. -->
+  <AllCaravanMembersMentalBreak>থামানো হয়েছে: সবাই মানসিক অবসাদে আছে।</AllCaravanMembersMentalBreak>
+  <!-- EN: {0} {1} -->
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <!-- EN: 1 animal -->
+  <CaravanAnimal>১টি প্রাণী</CaravanAnimal>
+  <!-- EN: {0} animals -->
+  <CaravanAnimalsCount>{0} পশুসমূহ</CaravanAnimalsCount>
+  <!-- EN: 1 prisoner -->
+  <CaravanPrisoner>১ বন্দী</CaravanPrisoner>
+  <!-- EN: {0} prisoners -->
+  <CaravanPrisonersCount>{0} বন্দী</CaravanPrisonersCount>
+  <!-- EN: {0} in mental state -->
+  <CaravanPawnsInMentalState>{0} মানসিক অবস্থায়</CaravanPawnsInMentalState>
+  <!-- EN: {0} downed -->
+  <CaravanPawnsDowned>: {0} ভূপতিত</CaravanPawnsDowned>
+  <!-- EN: Traveling. -->
+  <CaravanTraveling>ভ্রমণ চলছে।</CaravanTraveling>
+  <!-- EN: Waiting. -->
+  <CaravanWaiting>অপেক্ষা করা হচ্ছে।</CaravanWaiting>
+  <!-- EN: Being carried due to illness -->
+  <BeingCarriedDueToIllness>অসুস্থতার কারণে বহন করা হচ্ছে।</BeingCarriedDueToIllness>
+  <!-- EN: Using bedrolls due to illness -->
+  <UsingBedrollsDueToIllness>অসুস্থতার কারণে বেডরোল ব্যবহার করা হচ্ছে।</UsingBedrollsDueToIllness>
+  <!-- EN: Current tile movement time -->
+  <CurrentTileMovementTime>বর্তমান টাইল মুভমেন্ট সময়।</CurrentTileMovementTime>
+  <!-- EN: Visibility -->
+  <Visibility>দৃশ্যমানতা</Visibility>
+  <!-- EN: Temperature -->
+  <Temperature>তাপমাত্রা</Temperature>
+  <!-- EN: bad temperature -->
+  <BadTemperature>খারাপ তাপমাত্রা</BadTemperature>
+  <!-- EN: Ideal fermenting temperature -->
+  <IdealFermentingTemperature>আদর্শ গাঁজন তাপমাত্রা</IdealFermentingTemperature>
+  <!-- EN: {0} effect multiplier: {1} -->
+  <DrugEffectMultiplier>{0} প্রভাব গুণক: {1}</DrugEffectMultiplier>
+  <!-- EN: Visiting {0}. -->
+  <CaravanVisiting>{0} ভ্রমণ করছেন।</CaravanVisiting>
+  <!-- EN: Entering {0}. -->
+  <CaravanEntering>{0} এ প্রবেশ করা হচ্ছে।</CaravanEntering>
+  <!-- EN: Attacking {0}. -->
+  <CaravanAttacking>আক্রমণ করা হচ্ছে {0}।</CaravanAttacking>
+  <!-- EN: Offering gifts to {0}. -->
+  <CaravanOfferingGifts>{0}-কে উপহার দেওয়া হচ্ছে।</CaravanOfferingGifts>
+  <!-- EN: Trading with {0}. -->
+  <CaravanTrading>{0}-এর সাথে বাণিজ্য।</CaravanTrading>
+  <!-- EN: Tainted from being worn by a corpse. -->
+  <WasWornByCorpse>মৃতদেহ দ্বারা পরিধানের কারণে দূষিত।</WasWornByCorpse>
+  <!-- EN: T -->
+  <WornByCorpseChar>T</WornByCorpseChar>
+  <!-- EN: unroofed -->
+  <DeterioratingUnroofed>ছাদবিহীন</DeterioratingUnroofed>
+  <!-- EN: outdoors -->
+  <DeterioratingOutdoors>বাইরে</DeterioratingOutdoors>
+  <!-- EN: raining -->
+  <DeterioratingRaining>বৃষ্টি হচ্ছে</DeterioratingRaining> 
+  <!-- EN: protected -->
+  <Protected>সুরক্ষিত</Protected>
+  <!-- EN: Deteriorating -->
+  <DeterioratingBecauseOf>ক্ষয়প্রাপ্ত</DeterioratingBecauseOf>
+  <!-- EN: Will deteriorate in {0}. -->
+  <DeteriorateInDuration>{0} এ নষ্ট হয়ে যাবে।</DeteriorateInDuration>
+  <!-- EN: Map -->
+  <Map>মানচিত্র</Map>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown>{0} যতক্ষণ না শত্রু আসে</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemies have learned of your location. They will arrive in {0}. -->
+  <CaravanDetectedRaidCountdownTip>শত্রুরা আপনার অবস্থান জেনে গেছে। তারা {0} এর মধ্যে আসবে।</CaravanDetectedRaidCountdownTip>
+  <!-- EN: Room -->
+  <Room>ঘর</Room>
+  <!-- EN: Beauty here -->
+  <BeautyHere>সৌন্দর্য এখানে</BeautyHere>
+  <!-- EN: no power -->
+  <NoPower>বিদ্যুৎ নেই।</NoPower>
+  <!-- EN: not in {0} -->
+  <NotInRoomRole>{0}-এ নেই</NotInRoomRole>
+  <!-- EN: Work speed -->
+  <WorkSpeedPenalty>কাজের গতি</WorkSpeedPenalty>
+  <!-- EN: Disabled -->
+  <DisabledCommand>নিষ্ক্রিয়</DisabledCommand>
+  <!-- EN: Deactivated -->
+  <Deactivated>নিষ্ক্রিয় করা হয়েছে</Deactivated>
+  <!-- EN: Ready for launch. -->
+  <ReadyForLaunch>উৎক্ষেপণের জন্য প্রস্তুত।</ReadyForLaunch>
+  <!-- EN: Not ready for launch -->
+  <NotReadyForLaunch>উৎক্ষেপণের জন্য প্রস্তুত নয়।</NotReadyForLaunch>
+  <!-- EN: no fueling port -->
+  <NotAllInGroupConnectedToFuelingPort>ফুয়েলিং পোর্ট নেই</NotAllInGroupConnectedToFuelingPort>
+  <!-- EN: no fuel -->
+  <NotAllLaunchablesInGroupHaveAnyFuel>জ্বালানি নেই</NotAllLaunchablesInGroupHaveAnyFuel>
+  <!-- EN: loading in progress -->
+  <LaunchableInGroupHasSomethingLeftToLoad>লোডিং চলছে।</LaunchableInGroupHasSomethingLeftToLoad>
+  <!-- EN: Beyond maximum range -->
+  <TransportPodDestinationBeyondMaximumRange>সর্বোচ্চ সীমা ছাড়িয়ে</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: No path to {LAYER_label} -->
+  <TransportPodDestinationNoPath>{LAYER_label} পর্যন্ত কোনো পথ নেই।</TransportPodDestinationNoPath>
+  <!-- EN: Not enough fuel -->
+  <TransportPodNotEnoughFuel>যথেষ্ট জ্বালানি নেই।</TransportPodNotEnoughFuel>
+  <!-- EN: {0} of {1} -->
+  <SettlementTrader>{0} এর মধ্যে {1}</SettlementTrader>
+  <!-- EN: Surgery success chance multiplier from room -->
+  <RoomSurgerySuccessChanceFactor>রুম থেকে সার্জারির সাফল্যের সুযোগ গুণক</RoomSurgerySuccessChanceFactor>
+  <!-- EN: Infection chance multiplier from room -->
+  <RoomInfectionChanceFactor>ঘর থেকে সংক্রমণের সম্ভাবনা গুণক</RoomInfectionChanceFactor>
+  <!-- EN: Closed -->
+  <VentClosed>বন্ধ</VentClosed>
+  <!-- EN: worn by {1_labelShort} -->
+  <WornBy>{1_labelShort} দ্বারা পরিহিত</WornBy>
+  <!-- EN: equipped by {1_labelShort} -->
+  <EquippedBy>{1_labelShort} দ্বারা সজ্জিত</EquippedBy>
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
+  <QuestTargetDestroyInspectString>{0} এটি ধ্বংস করতে চায়।\n    পুরস্কার: {1} ({2})</QuestTargetDestroyInspectString>
+  <!-- EN: {0} wants this destroyed. -->
+  <QuestTargetDestroyInspectStringShort>{0} এটি ধ্বংস করতে চাইছে।</QuestTargetDestroyInspectStringShort>
+  <!-- EN: Departing on shuttle in {0} -->
+  <ShuttleDelayInspectString>{0} এ শাটলে যাত্রা শুরু হচ্ছে।</ShuttleDelayInspectString>
+  <!-- EN: Departing in {0} -->
+  <ShuttleLeaveDelayInspectString>{0}-এ যাত্রা শুরু</ShuttleLeaveDelayInspectString>
+  <!-- EN: Should depart on shuttle -->
+  <ShouldDepartOnShuttleInspectString>শাটলে যাত্রা করা উচিত।</ShouldDepartOnShuttleInspectString>
+  <!-- EN: Time left: {0} -->
+  <WorldObjectTimeout>অবশিষ্ট সময়: {0}</WorldObjectTimeout>
+  <!-- EN: Click to sort by this column. -->
+  <ClickToSortByThisColumn>এই কলাম অনুসারে সাজানোর জন্য ক্লিক করুন।</ClickToSortByThisColumn>
+  <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
+  <WorkPriorityShiftClickTip>শিফট + ক্লিক: অগ্রাধিকার বৃদ্ধি করুন\nশিফট + ডান ক্লিক: অগ্রাধিকার হ্রাস করুন</WorkPriorityShiftClickTip>
+  <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
+  <WorkPriorityShiftClickEnableDisableTip>শিফট + ক্লিক: সবকিছু সক্রিয় করুন।\nশিফট + ডান ক্লিক: সবকিছু নিষ্ক্রিয় করুন।</WorkPriorityShiftClickEnableDisableTip>
+  <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
+  <AllowedAreaShiftClickTip>শিফট + ক্লিক: সবাইকে গৃহে সেট করুন\nশিফট + রাইট ক্লিক: সবাইকে অবাধে সেট করুন</AllowedAreaShiftClickTip>
+  <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
+  <CheckboxShiftClickTip>শিফট + ক্লিক: সবগুলি নির্বাচন করুন\nশিফট + রাইট ক্লিক: সবগুলি নির্বাচন বাতিল করুন</CheckboxShiftClickTip>
+  <!-- EN: {0} {1} -->
+  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
+  <!-- EN: Skill Requirements -->
+  <SkillRequirements>দক্ষতা প্রয়োজনীয়তা</SkillRequirements>
+  <!-- EN: Products -->
+  <Products>পণ্য সামগ্রী</Products>
+  <!-- EN: Requires -->
+  <Requires>প্রয়োজনীয়</Requires>
+  <!-- EN: Replaces -->
+  <Replaces>প্রতিস্থাপন করে</Replaces>
+  <!-- EN: missing {0} -->
+  <MissingPartWithLabel>{0} অনুপস্থিত</MissingPartWithLabel>
+  <!-- EN: {0}x any of -->
+  <NumAnyOf>{0}x যে কোনও একটি</NumAnyOf>
+  <!-- EN: {0} of {1} -->
+  <Relationship>: {0} এর মধ্যে {1}</Relationship>
+  <!-- EN: Prisoner -->
+  <Prisoner>বন্দী</Prisoner>
+  <!-- EN: Refugee -->
+  <Refugee>শরণার্থী</Refugee>
+  <!-- EN: Terrain movement difficulty -->
+  <TileMovementDifficulty>ভূখণ্ড চলাচল অসুবিধা</TileMovementDifficulty>
+  <!-- EN: Impassable -->
+  <Impassable>অতিক্রম্য নয়</Impassable>
+  <!-- EN: Caravan movement speed -->
+  <CaravanMovementSpeedFull>বহর গতি</CaravanMovementSpeedFull>
+  <!-- EN: downed -->
+  <DownedLower>অক্ষম</DownedLower>
+  <!-- EN: resting -->
+  <Carried>বিশ্রামরত</Carried>
+  <!-- EN: Rideable animals / people -->
+  <RideableAnimalsPerPeople>আরোহনযোগ্য প্রাণী / মানুষ</RideableAnimalsPerPeople>
+  <!-- EN: Multiplier from ridden animals -->
+  <MultiplierFromRiddenAnimals>আরোহী পশু থেকে গুণক</MultiplierFromRiddenAnimals>
+  <!-- EN: Multiplier from bonuses -->
+  <MultiplierFromMoveSpeedBonus>বোনাস থেকে গুণক</MultiplierFromMoveSpeedBonus>
+  <!-- EN: Multiplier for carried mass: {0} -->
+  <MultiplierForCarriedMass>বহন করা ভরের গুণক: {0}</MultiplierForCarriedMass>
+  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
+  <RideableAnimalTip>এই প্রাণীটি চড়তে পারা যায়। বহরে থাকা লোকেরা দ্রুততম প্রাণীগুলোতে চড়বে, যা পুরো বহরের গতি বাড়িয়ে দেবে।</RideableAnimalTip>
+  <!-- EN: This person provides a bonus to the caravan's speed. The speed increase is the average bonus of all of the caravan's members. -->
+  <CaravanBonusTip>এই ব্যক্তিটি কারওয়ানের গতিকে বাড়িয়ে তোলে। গতির বৃদ্ধি কারওয়ানের সদস্যদের সকলের গড় বোনাসের সমান।</CaravanBonusTip>
+  <!-- EN: This caravan can't move because it carries too much. -->
+  <EncumberedCaravanTilesPerDayTip>এই বহরটি অতিরিক্ত ওজনের কারণে চলাচল করতে পারছে না।</EncumberedCaravanTilesPerDayTip>
+  <!-- EN: Caravan members speed -->
+  <FinalCaravanPawnsMovementSpeed>বহর সদস্যের গতি</FinalCaravanPawnsMovementSpeed>
+  <!-- EN: Final speed -->
+  <FinalCaravanMovementSpeed>চূড়ান্ত গতি</FinalCaravanMovementSpeed>
+  <!-- EN: Winter -->
+  <Winter>শীতকাল</Winter>
+  <!-- EN: {0} in winter -->
+  <MovementDifficultyOffsetInWinter>{0} শীতকালে</MovementDifficultyOffsetInWinter>
+  <!-- EN: to -->
+  <RangeTo>থেকে</RangeTo>
+  <!-- EN: Caused by -->
+  <CausedBy>কর্তৃক সৃষ্ট</CausedBy>
+  <!-- EN: No letter -->
+  <NoDietCategoryLetter>চিঠি নেই</NoDietCategoryLetter>
+  <!-- EN: expires in -->
+  <ExpiresIn>মেয়াদ উত্তীর্ণ হবে</ExpiresIn>
+  <!-- EN: {1_labelShort}'s caravan -->
+  <CaravanLeaderCaravanName>{1_labelShort}-এর কাফেলা</CaravanLeaderCaravanName>
+  <!-- EN: Reason -->
+  <Reason>কারণ</Reason>
+  <!-- EN: Relations with {0} -->
+  <RelationsWith>{0}-এর সাথে সম্পর্ক</RelationsWith>
+  <!-- EN: captured by {0} -->
+  <capturedBy>{0} দ্বারা বন্দী করা হয়েছে।</capturedBy>
+  <!-- EN: your caravan -->
+  <yourCaravan>আপনার কাফেলা</yourCaravan>
+  <!-- EN: {0} wildness -->
+  <CreatureWildness>{0} বন্যতা</CreatureWildness>
+  <!-- EN: {0} trainability -->
+  <CreatureTrainability>{0} প্রশিক্ষণযোগ্যতা</CreatureTrainability>
+  <!-- EN: Follow master while drafted -->
+  <CreatureFollowDrafted>ড্রাফট করা অবস্থায় মাস্টারকে অনুসরণ করুন।</CreatureFollowDrafted>
+  <!-- EN: Follow master while doing field work -->
+  <CreatureFollowFieldwork>মাঠের কাজ করার সময় মাস্টারকে অনুসরণ করুন</CreatureFollowFieldwork>
+  <!-- EN: {0} with {1} -->
+  <ProximitySingleGoodwillChange>{0} এর সাথে {1}</ProximitySingleGoodwillChange>
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <EnterCooldown>{0} এর জন্য পুনরায় প্রবেশ করা খুব বিপজ্জনক।</EnterCooldown>
+  <!-- EN: Caravan -->
+  <Caravan>caravan</Caravan>
+  <!-- EN: there may be danger there. -->
+  <HiddenOrNoSitePartDescription>সেখানে বিপদ থাকতে পারে।</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>স্ক্যানারটি পিণ্ডের আশেপাশে কার্যকলাপ সনাক্ত করছে। সম্ভবত এটি শত্রুভাবাপন্ন।</PreciousLumpHostileThreat>
+  <!-- EN: lump of {0} -->
+  <PreciousLumpLabel>{0} এর স্তূপ</PreciousLumpLabel>
+  <!-- EN: no active research project -->
+  <NoActiveResearchProjectToFinish>কোনো সক্রিয় গবেষণা প্রকল্প নেই।</NoActiveResearchProjectToFinish>
+  <!-- EN: Current project -->
+  <CurrentProject>বর্তমান প্রকল্প</CurrentProject>
+  <!-- EN: Research progress -->
+  <ResearchProgress>গবেষণা অগ্রগতি</ResearchProgress>
+  <!-- EN: already has {0} -->
+  <AlreadyHasHediff>ইতিমধ্যে {0} আছে।</AlreadyHasHediff>
+  <!-- EN: turret -->
+  <Turret>টারেট</Turret>
+  <!-- EN: turrets -->
+  <Turrets>টারেটসমূহ</Turrets>
+  <!-- EN: mortar -->
+  <Mortar>মর্টার</Mortar>
+  <!-- EN: mortars -->
+  <Mortars>মর্টার</Mortars>
+  <!-- EN: enemy -->
+  <Enemy>শত্রু</Enemy>
+  <!-- EN: location -->
+  <Location>অবস্থান</Location>
+  <!-- EN: animals -->
+  <AnimalsLower>প্রাণীজন্তু</AnimalsLower>
+  <!-- EN: items -->
+  <ItemsLower>আইটেম</ItemsLower>
+  <!-- EN: {0} x{1} -->
+  <FilthLabel>{0} x{1}</FilthLabel>
+  <!-- EN: {0} of {1} x{2} -->
+  <FilthLabelWithSource>{0} এর মধ্যে {1} x{2}</FilthLabelWithSource>
+  <!-- EN: Required -->
+  <Required>প্রয়োজনীয়</Required>
+  <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
+  <GiveGiftViaTransportPodsTradeRequestWarning>সতর্কতা: পরিবহন পড ব্যবহার করে বাণিজ্য অনুরোধ সম্পন্ন করা যায় না।\nআপনি পণ্যসামগ্রী পাঠালে, বসতি তা উপহার হিসেবে গ্রহণ করবে কিন্তু আপনাকে কোনো প্রতিদান দেবে না।\n\nবাণিজ্য করার জন্য, একটি বহর নিয়ে বসতির কাছে যান!\n\nআপনি কি লোড করা পণ্যগুলি দলটিকে উপহার দিতে চান, নিশ্চিত?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <!-- EN: prisoner -->
+  <PrisonerLower>বন্দী</PrisonerLower>
+  <!-- EN: prisoners -->
+  <PrisonersLower>বন্দী</PrisonersLower>
+  <!-- EN: Click to view this quest in quests tab -->
+  <ClickToViewInQuestsTab>কুইস্ট ট্যাবে এই কুইস্টটি দেখার জন্য ক্লিক করুন।</ClickToViewInQuestsTab>
+  <!-- EN: Mood -->
+  <Mood>মেজাজ</Mood>
+  <!-- EN: Quest -->
+  <Quest>অনুসন্ধান</Quest>
+  <!-- EN: Brings raids every {0} -->
+  <BringsRaidsEvery>প্রতি {0} এ হানাসমূহ নিয়ে আসে।</BringsRaidsEvery>
+  <!-- EN: Generates {0} every {1} -->
+  <GeneratesResourcesEvery>{0} প্রতি {1} এ তৈরি করে।</GeneratesResourcesEvery>
+  <!-- EN: Foliage kill radius -->
+  <FoliageKillRadius>উদ্ভিদ বিনাশ ব্যাসার্ধ</FoliageKillRadius>
+  <!-- EN: View: {0} -->
+  <ViewHyperlink>দেখুন: {0}</ViewHyperlink>
+  <!-- EN: Detonates in {0} days -->
+  <DetonationCountdown>{0} দিনে বিস্ফোরিত হবে</DetonationCountdown>
+  <!-- EN: Large explosion if damaged. -->
+  <ExplosionOnDamageWarning>ক্ষতিগ্রস্থ হলে বড় বিস্ফোরণ।</ExplosionOnDamageWarning>
+  <!-- EN: Mech cluster -->
+  <MechCluster>মেক ক্লাস্টার</MechCluster>
+  <!-- EN: Spawning in {0} -->
+  <SpawningNextPawnIn>{0} তে স্পন হচ্ছে।</SpawningNextPawnIn>
+  <!-- EN: {0} gestation completes in {1}. -->
+  <MechAssemblyCompleteIn>{0} গর্ভধারণ {1} এ সম্পন্ন হবে।</MechAssemblyCompleteIn>
+  <!-- EN: Will gestate -->
+  <MechAssemblyNextType>গর্ভধারণ করবে</MechAssemblyNextType>
+  <!-- EN: produced -->
+  <ThingsProduced>উৎপাদিত</ThingsProduced>
+  <!-- EN: harvested -->
+  <PlantsHarvested>সংগ্রহিত</PlantsHarvested>
+  <!-- EN: {0} killed -->
+  <PawnsKilled>: {0} কর্তৃক নিহত</PawnsKilled>
+  <!-- EN: Sent {0}, will return in {1} -->
+  <PawnsLent>{0} পাঠানো হয়েছে, {1} এ ফিরে আসবে।</PawnsLent>
+  <!-- EN: Dormant -->
+  <DormantCompInactive>নিষ্ক্রিয়</DormantCompInactive>
+  <!-- EN: Sealed -->
+  <DormantCompSealed>সীলবদ্ধ</DormantCompSealed>
+  <!-- EN: Ready to drop mechanoids -->
+  <DormantCompBeacon>মেকানোইডসমূহ অবতরণ করার জন্য প্রস্তুত।</DormantCompBeacon>
+  <!-- EN: Expired -->
+  <DormantCompExpired>காலாவতি</DormantCompExpired>
+  <!-- EN: Initiates in -->
+  <InitiatesIn>সূচনা করা হয়েছে</InitiatesIn>
+  <!-- EN: Activates in {0} -->
+  <SendSignalOnCountdownCompTime>{0} এ সক্রিয় হয়।</SendSignalOnCountdownCompTime>
+  <!-- EN: Neural heat -->
+  <PsychicEntropy>স্নায়বিক তাপ</PsychicEntropy>
+  <!-- EN: Heat -->
+  <PsychicEntropyShort>তাপ</PsychicEntropyShort>
+  <!-- EN: {0} pain boost -->
+  <PsychicEntropyPainFocus>{0} ব্যথা বৃদ্ধি</PsychicEntropyPainFocus>
+  <!-- EN: radius {0} -->
+  <ConditionCauserRadius>ব্যাসার্ধ {0}</ConditionCauserRadius>
+  <!-- EN: low psyfocus -->
+  <LowPsyfocus>কম সাইকোফোকাস</LowPsyfocus>
+  <!-- EN: {0} left -->
+  <DurationLeft>: {0} প্রস্থান করেছে</DurationLeft>
+  <!-- EN: Any of -->
+  <AnyOf>যেকোনো একটি</AnyOf>
+  <!-- EN: Requires {0} trait -->
+  <TraitRequired>{0} বৈশিষ্ট্য প্রয়োজন।</TraitRequired>
+  <!-- EN: Goodwill -->
+  <Goodwill>goodwill</Goodwill>
+  <!-- EN: Natural goodwill -->
+  <NaturalGoodwill>প্রাকৃতিক শুভেচ্ছা</NaturalGoodwill>
+  <!-- EN: Natural goodwill range -->
+  <NaturalGoodwillRange>প্রাকৃতিক শুভেচ্ছা পরিসীমা</NaturalGoodwillRange>
+  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
+  <NaturalGoodwillDescription>ন্যাচারাল গুডউইল জাতি এবং বিশ্বাসের পরিচিতির উপর ভিত্তি করে গঠিত হয়। যদি বর্তমান গুডউইল ন্যাচারাল গুডউইল থেকে অনেক দূরে থাকে, তবে সময়ের সাথে সাথে এটি ধীরে ধীরে ন্যাচারাল গুডউইলের দিকে পরিবর্তিত হবে।\n\nন্যাচারাল গুডউইলের দিকে অগ্রসর হওয়ার সময় সমস্ত গুডউইল প্রভাব {0} দ্বারা গুণ করা হয়।</NaturalGoodwillDescription>
+  <!-- EN: reducing resistance of {0_nameIndef} -->
+  <JobReport_ReduceResistance>{0_nameIndef} এর প্রতিরোধ ক্ষমতা কমানো হচ্ছে</JobReport_ReduceResistance>
+  <!-- EN: Too large -->
+  <TooLargeForBed>অতিরিক্ত বড়</TooLargeForBed>
+  <!-- EN: Warning -->
+  <Warning>সতর্কতা</Warning>
+  <!-- EN: Has subquest -->
+  <HasSubquest>উপ-অনুসন্ধান আছে</HasSubquest>
+  <!-- EN: Subquest of -->
+  <SubquestOf>উপ-অনুসন্ধান এর</SubquestOf>
+  <!-- EN: Raid -->
+  <Raid>হানা</Raid>
+  <!-- EN: Disabled by -->
+  <ApparelRequirementDisabledLabel>নিষ্ক্রিয় করা হয়েছে</ApparelRequirementDisabledLabel>
+  <!-- EN: Nudism -->
+  <Nudism>নগ্নতাবাদ</Nudism>
+  <!-- EN: Study progress -->
+  <StudyProgress>অধ্যয়ন অগ্রগতি</StudyProgress>
+  <!-- EN: completed -->
+  <StudyCompleted>সম্পূর্ণ হয়েছে।</StudyCompleted>
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>এটি ধ্বংস করার জন্য আক্রমণ করুন।</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>এটি আক্রমণ করে সরিয়ে ফেলুন।</RemoveByAttackingTooltip>
+  <!-- EN: Food -->
+  <ThoughtFoodEatenFood>খাবার</ThoughtFoodEatenFood>
+  <!-- EN: Ingredients -->
+  <ThoughtFoodEatenIngredients>উপকরণ</ThoughtFoodEatenIngredients>
+  <!-- EN: Shield pack -->
+  <ShieldInbuilt>সুরক্ষা প্যাক</ShieldInbuilt>
+  <!-- EN: Punctured - will explode soon. -->
+  <PuncturedWillExplode>ছিদ্রযুক্ত - শীঘ্রই বিস্ফোরিত হবে।</PuncturedWillExplode>
+  <!-- EN: Click to open research window -->
+  <ClickToOpenResearchTab>গবেষণা উইন্ডো খুলতে ক্লিক করুন।</ClickToOpenResearchTab>
+  <!-- EN: Target belongs to another faction. -->
+  <TargetBelongsToNPCFaction>লক্ষ্যটি অন্য একটি দলের অন্তর্গত।</TargetBelongsToNPCFaction>
+  <!-- EN: more -->
+  <MoreLower>গুরুতর নিয়ম:</MoreLower>
+  <!-- EN: Requires -->
+  <RequiredTechprintTip>প্রয়োজনীয়</RequiredTechprintTip>
+  <!-- EN: size -->
+  <Size>আকার</Size>
+  <!-- EN: Total planning area -->
+  <TotalPlanningArea>মোট পরিকল্পনা এলাকা</TotalPlanningArea>
+  <!-- EN: cost -->
+  <Cost>খরচ</Cost>
+  <!-- EN: Stunned by EMP -->
+  <StunnedByEMP>ইএমপি দ্বারা স্তম্ভিত</StunnedByEMP>
+  <!-- EN: Title -->
+  <BackstoryTitle>শিরোনাম</BackstoryTitle>
+  <!-- EN: person -->
+  <Person>ব্যক্তি</Person>
+  <!-- EN: activated. -->
+  <Activated>সক্রিয়।</Activated> 
+  <!-- EN: Contains -->
+  <Contains>ধারণ করে</Contains>
+  <!-- EN: Hostiles -->
+  <Hostiles>শত্রু</Hostiles>
+  <!-- EN: Investigate -->
+  <Investigate>অনুসন্ধান করুন</Investigate> 
+  <!-- EN: Activate -->
+  <Activate>সক্রিয় করুন</Activate> 
+  <!-- EN: Deactivate -->
+  <Deactivate>নিষ্ক্রিয় করুন</Deactivate>
+  <!-- EN: Activation -->
+  <Activation>সক্রিয়করণ</Activation>
+  <!-- EN: complete -->
+  <Complete>সম্পূর্ণ</Complete>
+  <!-- EN: Must be imprisoned. -->
+  <RequiresImprisonment>বন্দী করা আবশ্যক।</RequiresImprisonment> 
+  <!-- EN: Prioritize hauling contents -->
+  <HaulFromSource>মাল পরিবহন অগ্রাধিকার</HaulFromSource>
+  <!-- EN: Use -->
+  <UseGizmo>ব্যবহার করুন</UseGizmo>
+  <!-- EN: Order someone to use the {0}. -->
+  <UseGizmoTooltip>{0} ব্যবহার করুন।</UseGizmoTooltip>
+  <!-- EN: Choose who should use this -->
+  <UseGizmoMouse>কার এই ব্যবহার করা উচিত?</UseGizmoMouse>
+  <!-- EN: Select target -->
+  <TargetGizmoMouse>লক্ষ্য নির্বাচন করুন</TargetGizmoMouse>
+  <!-- EN: Cannot use this -->
+  <CannotUseGizmoMouse>ব্যবহার করা যাবে না।</CannotUseGizmoMouse>
+  <!-- EN: Buildings -->
+  <Buildings>স্থাপনা</Buildings>
+  <!-- EN: not yet discovered -->
+  <NotYetDiscovered>এখনও আবিষ্কৃত হয়নি</NotYetDiscovered>
+  <!-- EN: Crawling to safety. -->
+  <ReportStringCrawlingToSafety>নিরাপদে হামাগুড়ি।</ReportStringCrawlingToSafety>
+  <!-- EN: Crawling to bed. -->
+  <ReportStringCrawlingToBed>বিছানায় হামাগুড়ি।</ReportStringCrawlingToBed>
+  <!-- EN: flying -->
+  <Flying>উড়ন্ত</Flying>
+  <!-- EN: Prevent cutting -->
+  <PreventCutting>কাটা প্রতিরোধ করুন</PreventCutting>
+  <!-- EN: When on, colonists won't cut this plant. -->
+  <PreventCuttingDesc>চালু থাকলে, কলোনিস্টরা এই গাছটি কাটবে না।</PreventCuttingDesc>
+
+  <!-- EN: Resulting from trait -->
+  <ComesFromTrait>বৈশিষ্ট্য থেকে উদ্ভূত</ComesFromTrait>
+  <!-- EN: Resulting from condition -->
+  <ComesFromHediff>শর্তের ফলস্বরূপ</ComesFromHediff>
+  <!-- EN: Adds need -->
+  <AddsNeed>প্রয়োজন যোগ করে</AddsNeed>
+  <!-- EN: Adds needs -->
+  <AddsNeeds>প্রয়োজনীয়তা যোগ করে</AddsNeeds>
+  <!-- EN: Disables need -->
+  <DisablesNeed>প্রয়োজন নিষ্ক্রিয় করে</DisablesNeed>
+  <!-- EN: Disables needs -->
+  <DisablesNeeds>চাহিদা নিষ্ক্রিয় করে</DisablesNeeds>
+  
+  <!-- Scanning -->
+  <!-- EN: User scanning speed -->
+  <UserScanAbility>ব্যবহারকারী স্ক্যানিং গতি</UserScanAbility>
+  <!-- EN: Random find interval -->
+  <ScanAverageInterval>র‍্যান্ডম খুঁজে পাওয়ার সময়কাল</ScanAverageInterval>
+  <!-- EN: Progress to guaranteed find -->
+  <ScanningProgressToGuaranteedFind>প্রProgress থেকে নিশ্চিত আবিষ্কার</ScanningProgressToGuaranteedFind>
+  
+  <!-- Meditation -->
+  <!-- EN: meditating at -->
+  <MeditatingAt>ধ্যানে মগ্ন</MeditatingAt>
+
+  <!-- Fermentation barrel -->
+  <!-- EN: Contains {0} / {1} wort. -->
+  <ContainsWort>{0} / {1} পরিমাণ ওয়ার্ট রয়েছে।</ContainsWort>
+  <!-- EN: Contains {0} / {1} beer. -->
+  <ContainsBeer>{0} / {1} বিয়ার রয়েছে।</ContainsBeer>
+  <!-- EN: Fermented -->
+  <Fermented>ফার্মেন্টেড</Fermented>
+  <!-- EN: Progress: {0} ({1} left) -->
+  <FermentationProgress>অগ্রগতি: {0} ({1} অবশিষ্ট)</FermentationProgress>
+  <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
+  <FermentationBarrelOutOfIdealTemperature>অপ্রত্যাশিত তাপমাত্রা। গাঁজন গতি: {0}</FermentationBarrelOutOfIdealTemperature>
+
+  <!-- TextMotes -->
+  <!-- EN: Headshot -->
+  <Headshot>হেডশট</Headshot>
+  <!-- EN: Treatment success!\n{0} chance -->
+  <TextMote_TreatSuccess>চিকিৎসা সফল!\n{0} শতাংশ সুযোগ</TextMote_TreatSuccess>
+  <!-- EN: Treatment failed\n{0} chance -->
+  <TextMote_TreatFailed>চিকিৎসা ব্যর্থ হয়েছে {0} শতাংশ।</TextMote_TreatFailed>
+  <!-- EN: Harvest\nbotched -->
+  <TextMote_HarvestFailed>খারাপ ফসল</TextMote_HarvestFailed>
+  <!-- EN: Yield\nwasted -->
+  <TextMote_YieldWasted>অপচয়িত ফলন</TextMote_YieldWasted>
+  <!-- EN: Product\nwasted -->
+  <TextMote_ProductWasted>অপচয়িত পণ্য</TextMote_ProductWasted>
+  <!-- EN: Recruit failed!\n{0} chance -->
+  <TextMote_RecruitFail>নিয়োগ ব্যর্থ!\n{0} সম্ভাবনা</TextMote_RecruitFail>
+  <!-- EN: Resistance\n{0} to {1} -->
+  <TextMote_ResistanceReduced>প্রতিরোধ\n{0} থেকে {1}</TextMote_ResistanceReduced>
+  <!-- EN: Tame failed\n{0} chance -->
+  <TextMote_TameFail>পালন করা ব্যর্থ হয়েছে\n{0} সম্ভাবনা</TextMote_TameFail>
+  <!-- EN: Tamed! -->
+  <TextMote_TameSuccess>পোষ মানানো হল!</TextMote_TameSuccess>
+  <!-- EN: Failed training: {0}\n{1} chance -->
+  <TextMote_TrainFail>প্রশিক্ষণ ব্যর্থ: {0}\n{1} সম্ভাবনা</TextMote_TrainFail>
+  <!-- EN: Trained: {0}\n{1} chance -->
+  <TextMote_TrainSuccess>প্রশিক্ষিত: {0}\n{1} সম্ভাবনা</TextMote_TrainSuccess>
+  <!-- EN: Repair\nbotched -->
+  <TextMote_FixBrokenDownBuildingFail>খারাপ মেরামত</TextMote_FixBrokenDownBuildingFail>
+  <!-- EN: Construction\nbotched -->
+  <TextMote_ConstructionFail>খারাপ নির্মাণ</TextMote_ConstructionFail>
+  <!-- EN: Dodge -->
+  <TextMote_Dodge>ডজ করুন</TextMote_Dodge>
+  <!-- EN: Immune -->
+  <TextMote_Immune>রোগ প্রতিরোধী</TextMote_Immune>
+  <!-- EN: {0} tended -->
+  <TextMote_Tended>: {0} যত্ন নিয়েছে</TextMote_Tended>
+  <!-- EN: level {0} -->
+  <TextMote_SkillUp>স্তর {0}</TextMote_SkillUp>
+  <!-- EN: low mood -->
+  <lowMood>খারাপ মেজাজ</lowMood>
+  <!-- EN: low opinion -->
+  <lowOpinion>খারাপ ধারণা</lowOpinion>
+
+  <!-- Areas -->
+  <!-- EN: Home -->
+  <Home>বাড়ি</Home>
+  <!-- EN: Build roof -->
+  <BuildRoof>ছাদ তৈরি করুন</BuildRoof>
+  <!-- EN: No roof -->
+  <NoRoof>ছাদ নেই</NoRoof>
+  <!-- EN: Snow clear -->
+  <SnowClear>তুষার পরিষ্কার</SnowClear>
+  <!-- EN: Area {0} -->
+  <AreaDefaultLabel>এলাকা {0}</AreaDefaultLabel>
+  <!-- EN: Unrestricted -->
+  <NoAreaAllowed>সীমাবদ্ধ নয়</NoAreaAllowed>
+  <!-- EN: New area -->
+  <NewArea>নতুন এলাকা</NewArea>
+  <!-- EN: Invert -->
+  <InvertArea>বিপরীত করুন</InvertArea>
+  <!-- EN: Expand -->
+  <ExpandArea>বিস্তার করুন</ExpandArea>
+  <!-- EN: Shrink -->
+  <ShrinkArea>সংকুচিত করুন</ShrinkArea>
+  <!-- EN: Maximum {0} areas allowed. -->
+  <MaxAreasReached>সর্বোচ্চ {0} এলাকা অনুমোদিত।</MaxAreasReached>
+
+  <!-- Animal pens -->
+  <!-- EN: Unenclosed -->
+  <PenUnenclosedLabel>বদ্ধবিহীন</PenUnenclosedLabel>
+  <!-- EN: open door -->
+  <PenOpenDoorLabel>খোলা দরজা</PenOpenDoorLabel>
+  <!-- EN: Rename pen -->
+  <RenameAnimalPen>পুনর্নামকরণ কলম</RenameAnimalPen>
+  <!-- EN: Pen marker {0} -->
+  <AnimalPenMarkerDefaultLabel>পেন মার্কার {0}</AnimalPenMarkerDefaultLabel>
+  <!-- EN: In pen -->
+  <InPen>পেনে</InPen>
+  <!-- EN: not in a pen -->
+  <Unpenned>কলম নয়।</Unpenned>
+  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
+  <UnpennedTooltip>পশুদের জন্য ঘেরা তৈরি করতে, একটি আবদ্ধ এলাকার ভিতরে পেন মার্কার তৈরি করুন। আপনার তত্ত্বাবধায়ক পশুদের উপযুক্ত ঘেরায় নিয়ে যাবে। বেড়া, ব্যারিকেড, দেয়াল এবং দরজা দিয়ে ঘেরাগুলো বন্ধ করা যেতে পারে।</UnpennedTooltip>
+  <!-- EN: Roped by -->
+  <RopedByPawn>দড়ি দিয়ে বাঁধা</RopedByPawn>
+  <!-- EN: Roped to -->
+  <RopedToThing>বদ্ধ অবস্থায়</RopedToThing>
+  <!-- EN: Roped to spot. -->
+  <RopedToSpot>দড়ি দিয়ে চিহ্নিত।</RopedToSpot>
+  <!-- EN: Pen size -->
+  <PenSizeLabel>কলমের আকার</PenSizeLabel>
+  <!-- EN: Very small pen -->
+  <PenSizeDesc_VerySmall>খুব ছোট কলম</PenSizeDesc_VerySmall>
+  <!-- EN: Small pen -->
+  <PenSizeDesc_Small>ছোট কলম</PenSizeDesc_Small>
+  <!-- EN: Medium-sized pen -->
+  <PenSizeDesc_Medium>মাঝারি আকারের কলম</PenSizeDesc_Medium>
+  <!-- EN: Large pen -->
+  <PenSizeDesc_Large>বড় কলম</PenSizeDesc_Large>
+  <!-- EN: Not enclosed - build fences -->
+  <PenSizeDesc_Unenclosed>ঘেরা নয় - বেড়া তৈরি করুন।</PenSizeDesc_Unenclosed>
+  <!-- EN: {ANIMALDEF_label} capacity -->
+  <PenCapacityDesc>{ANIMALDEF_label} ধারণক্ষমতা</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>উদাহরণস্বরূপ প্রাণী</PenExampleAnimals>
+  <!-- EN: No exterior access - Animals cannot be moved in or out. -->
+  <NoExteriorAccess>বাইরের প্রবেশাধিকার নেই - পশুদের আনা বা নিয়ে যাওয়া যাবে না।</NoExteriorAccess>
+  
+  <!-- EN: Must be connected to walls on both sides to function. -->
+  <DoorMustBeEnclosedByWalls>কার্যকর হওয়ার জন্য উভয় দিকে দেওয়ালের সাথে সংযুক্ত থাকতে হবে।</DoorMustBeEnclosedByWalls>
+
+  <!-- Cell Inspector -->
+  <!-- EN: Beauty -->
+  <Beauty_Label>সৌন্দর্য</Beauty_Label>
+  <!-- EN: Zone -->
+  <Zone_Label>অঞ্চল</Zone_Label>
+  <!-- EN: Roof -->
+  <Roof_Label>ছাদ</Roof_Label>
+  <!-- EN: Terrain -->
+  <Terrain_Label>ভূখণ্ড</Terrain_Label>
+  <!-- EN: Snow -->
+  <Snow_Label>তুষার</Snow_Label>
+  <!-- EN: Walk speed -->
+  <WalkSpeed_Label>হাঁটার গতি</WalkSpeed_Label>
+  <!-- EN: Fertility -->
+  <Fertility_Label>উর্বরতা</Fertility_Label>
+  <!-- EN: Temperature -->
+  <Temperature_Label>তাপমাত্রা</Temperature_Label>
+  <!-- EN: Light level -->
+  <LightLevel_Label>আলোর স্তর</LightLevel_Label>
+  <!-- EN: Biome -->
+  <Biome_Label>বায়োম</Biome_Label>
+  <!-- EN: Hilliness -->
+  <Hilliness_Label>পাহাড়ি ঢাল</Hilliness_Label>
+  <!-- EN: Road -->
+  <Road_Label>রাস্তা</Road_Label>
+  <!-- EN: River -->
+  <River_Label>নদী</River_Label> 
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty_Label>গতি অসুবিধা</MovementDifficulty_Label>
+  <!-- EN: Pollution -->
+  <Pollution_Label>দূষণ</Pollution_Label>
+  <!-- EN: Filth -->
+  <Filth_Label>নোংরামি</Filth_Label>
+  
+  <!-- EN: Features -->
+  <Features_Label>বৈশিষ্ট্য</Features_Label>
+  <!-- EN: Faction -->
+  <Faction_Label>গোষ্ঠী</Faction_Label>
+  <!-- EN: Relationship -->
+  <Relationship_Label>সম্পর্ক</Relationship_Label>
+  <!-- EN: Colonists -->
+  <CaravanColonists_Label>উপনিবেশক</CaravanColonists_Label>
+  <!-- EN: Status -->
+  <CaravanStatus_Label>অবস্থা</CaravanStatus_Label>
+  <!-- EN: Time to destination -->
+  <CaravanTTD_Label>গন্তব্যের সময়</CaravanTTD_Label>
+  
+
+  <!-- Control -->
+  <!-- EN: Cannot order characters you do not control. -->
+  <CannotOrderNonControlled>আপনি যাদের নিয়ন্ত্রণ করেন না, তাদের আদেশ করতে পারবেন না।</CannotOrderNonControlled>
+  <!-- EN: {1_labelShort} is incapable of violence. -->
+  <IsIncapableOfViolence>{1_labelShort} সহিংসতা করতে অক্ষম।</IsIncapableOfViolence>
+  <!-- EN: incapable of violence -->
+  <IsIncapableOfViolenceShort>সহিংসতা করতে অক্ষম</IsIncapableOfViolenceShort>
+  <!-- EN: {1_labelShort} is not drafted. -->
+  <IsNotDrafted>{1_labelShort} ড্রাফট করা হয়নি।</IsNotDrafted>
+  <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
+  <ApparelPreventsShooting>{PAWN_nameDef} __PAWN_possessive__ {APPAREL_label} এর কারণে দূরপাল্লার অস্ত্র ব্যবহার করতে পারছে না।</ApparelPreventsShooting>
+  <!-- EN: Cannot use in {0} -->
+  <CannotUseReason_PocketMap>{0} ব্যবহার করা যাবে না।</CannotUseReason_PocketMap>
+  <!-- EN: Range reduced -->
+  <WeatherMaxRangeCap>পাল্লা কমানো হয়েছে।</WeatherMaxRangeCap>
+
+  <!-- Snow -->
+  <!-- EN: Snow -->
+  <Snow>তুষার</Snow>
+  <!-- EN: No snow -->
+  <SnowNone>তুষার নেই</SnowNone>
+  <!-- EN: dusting -->
+  <SnowDusting>ধুলো ঝাড়া</SnowDusting>
+  <!-- EN: thin -->
+  <SnowThin>পাতলা</SnowThin>
+  <!-- EN: medium -->
+  <SnowMedium>মাঝারি</SnowMedium>
+  <!-- EN: thick -->
+  <SnowThick>ঘন</SnowThick>
+
+  <!-- Turrets -->
+  <!-- EN: Installed -->
+  <GunInstalled>ইনস্টল করা হয়েছে</GunInstalled>
+  <!-- EN: Minimum range -->
+  <MinimumRange>ন্যূনতম পরিসীমা</MinimumRange>
+  <!-- EN: Can fire in -->
+  <CanFireIn>আগুন লাগাতে পারা যায়</CanFireIn>
+  <!-- EN: Cannot fire -->
+  <CannotFire>অগ্নিসংযোগ করা যাবে না</CannotFire>
+  <!-- EN: roofed -->
+  <Roofed>ছাদযুক্ত</Roofed>
+  <!-- EN: Shell loaded: {1_label} -->
+  <ShellLoaded>শেল লোড করা হয়েছে: {1_label}</ShellLoaded>
+  <!-- EN: Not loaded -->
+  <ShellNotLoaded>লোড হয়নি।</ShellNotLoaded>
+  <!-- EN: Already active -->
+  <AlreadyActive>ইতিমধ্যে সক্রিয়।</AlreadyActive>
+  <!-- EN: Order activation -->
+  <OrderActivation>অর্ডার সক্রিয়করণ</OrderActivation>
+  <!-- EN: Order a colonist to activate {THING_definite}. -->
+  <OrderActivationDesc>একজন উপনিবেশিককে {THING_definite} সক্রিয় করার নির্দেশ দিন।</OrderActivationDesc>
+  <!-- EN: Send a colonist to activate this. -->
+  <MustBeActivatedByColonist>এইটি সক্রিয় করতে একজন উপনিবেশিককে পাঠান।</MustBeActivatedByColonist>
+  <!-- EN: No nearby fire -->
+  <NoNearbyFire>কাছাকাছি আগুন নেই।</NoNearbyFire>
+  <!-- EN: No nearby fire. No fuel was used. -->
+  <NoNearbyFireNoFuelUsed>কাছাকাছি আগুন নেই। কোনো জ্বালানি ব্যবহার করা হয়নি।</NoNearbyFireNoFuelUsed>
+  <!-- EN: Choose who should activate this. -->
+  <ChooseWhoShouldActivate>এটি সক্রিয় করার জন্য কাকে নির্বাচন করবেন?</ChooseWhoShouldActivate>
+  <!-- EN: No fuel -->
+  <NoFuel>জ্বালানি নেই</NoFuel>
+
+  <!-- Job reports -->
+  <!-- EN: hauling {THING_label} to {DESTINATION}. -->
+  <ReportHaulingTo>{THING_label} পরিবহন করে {DESTINATION} এ নিয়ে যাওয়া হচ্ছে।</ReportHaulingTo>
+  <!-- EN: burying {THING_label} in {DESTINATION}. -->
+  <ReportHaulingToGrave>{DESTINATION}-এ {THING_label} কবর দেওয়া হচ্ছে।</ReportHaulingToGrave>
+  <!-- EN: hauling {1_label}. -->
+  <ReportHauling>বহন করা হচ্ছে {1_label}।</ReportHauling>
+  <!-- EN: hauling. -->
+  <ReportHaulingUnknown>বহন করা।</ReportHaulingUnknown>
+  <!-- EN: sleeping. -->
+  <ReportSleeping>ঘুমন্ত।</ReportSleeping>
+  <!-- EN: resting. -->
+  <ReportResting>বিশ্রামরত।</ReportResting>
+  <!-- EN: laying down. -->
+  <ReportLayingDown>শুয়ে আছে।</ReportLayingDown>
+  <!-- EN: watching the sunrise. -->
+  <WatchingSunrise>সূর্যোদয় দেখছে।</WatchingSunrise>
+  <!-- EN: cloudwatching. -->
+  <CloudWatching>মেঘ দেখা।</CloudWatching>
+  <!-- EN: watching the sunset. -->
+  <WatchingSunset>সূর্যাস্ত দেখা।</WatchingSunset>
+  <!-- EN: stargazing. -->
+  <Stargazing>তারা দেখা।</Stargazing>
+  <!-- EN: watching the eclipse. -->
+  <WatchingEclipse>গ্রহণ দেখছে।</WatchingEclipse>
+  <!-- EN: watching the aurora. -->
+  <WatchingAurora>অরোরা দেখা।</WatchingAurora>
+  <!-- EN: using {0} on {1}. -->
+  <UsingVerb>{0} ব্যবহার করে {1}-এর উপর।</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>{0} ব্যবহার করা হচ্ছে।</UsingVerbNoTarget>
+  <!-- EN: area -->
+  <AreaLower>এলাকা</AreaLower>
+  <!-- EN: cowering. -->
+  <ReportCowering>কুঁকড়ে যাওয়া।</ReportCowering>
+  <!-- EN: standing. -->
+  <ReportStanding>দাঁড়ানো।</ReportStanding>
+  <!-- EN: extinguishing fire. -->
+  <ReportExtinguishingFire>আগুন নেভানো।</ReportExtinguishingFire>
+  <!-- EN: extinguishing fire on {TARGET_label}. -->
+  <ReportExtinguishingFireOn>{TARGET_label}-এর আগুন নেভানো হচ্ছে।</ReportExtinguishingFireOn>
+  <!-- EN: digging up corpse. -->
+  <ReportDiggingUpCorpse>কঙ্কাল খনন।</ReportDiggingUpCorpse>
+  <!-- EN: being carried by {0_labelShort}. -->
+  <CarriedBy>{0_labelShort} দ্বারা বহন করা হচ্ছে।</CarriedBy> 
+  <!-- EN: inside {0_labelShort}. -->
+  <InContainer>{0_labelShort}-এর ভিতরে।</InContainer> 
+  <!-- EN: downed, cannot crawl. -->
+  <DownedCannotCrawl>আহত, হামাগুড়ি দিতে অক্ষম।</DownedCannotCrawl> 
+  <!-- EN: downed, unconscious. -->
+  <DownedUnconscious>অজ্ঞান, ভূপশায়ী।</DownedUnconscious> 
+
+  <!-- Lord job reports -->
+  <!-- EN: Attending marriage ceremony -->
+  <LordReportAttendingMarriageCeremony>বিবাহ অনুষ্ঠানে যোগদান</LordReportAttendingMarriageCeremony>
+  <!-- EN: Attending party -->
+  <LordReportAttendingParty>পার্টিতে যোগদান</LordReportAttendingParty>
+  <!-- EN: Attending concert -->
+  <LordReportAttendingConcert>কনসার্টে যোগদান</LordReportAttendingConcert>
+  <!-- EN: Holding a concert -->
+  <LordReportHoldingConcert>কনসার্ট চলছে</LordReportHoldingConcert>
+  <!-- EN: Giving a speech -->
+  <LordReportGivingSpeech>বক্তৃতা দেওয়া হচ্ছে</LordReportGivingSpeech>
+  <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
+  <LordReportListeningSpeech>{ORGANIZER_labelShort} এর বক্তৃতা শুনছি।</LordReportListeningSpeech>
+  <!-- EN: Forming caravan -->
+  <LordReportFormingCaravan>বহর গঠন করা হচ্ছে</LordReportFormingCaravan>
+
+  <!-- Shooting report -->
+  <!-- EN: Weapon miss radius -->
+  <WeaponMissRadius>অস্ত্রের বিচ্যুতি ব্যাসার্ধ</WeaponMissRadius>
+  <!-- EN: Shooter -->
+  <ShootReportShooterAbility>শ্যুটার</ShootReportShooterAbility>
+  <!-- EN: Weapon -->
+  <ShootReportWeapon>অস্ত্র</ShootReportWeapon>
+  <!-- EN: Darkness -->
+  <Darkness>অন্ধকার</Darkness>
+  <!-- EN: Target lying down -->
+  <TargetProne>শুয়ে থাকা লক্ষ্যবস্তু</TargetProne>
+  <!-- EN: Target size -->
+  <TargetSize>আকার নির্ণয় করুন</TargetSize>
+  <!-- EN: Weather -->
+  <Weather>আবহাওয়া</Weather>
+  <!-- EN: Cover -->
+  <ShootingCover>আড়াল</ShootingCover>
+  <!-- EN: {COVER_label} stops {1} -->
+  <CoverThingBlocksPercentOfShots>{COVER_label} {1} বন্ধ করে।</CoverThingBlocksPercentOfShots>
+  <!-- EN: no cover -->
+  <NoCoverLower>আড়াল নেই।</NoCoverLower>
+  <!-- EN: Execution -->
+  <Execution>কার্যকরীকরণ</Execution>
+
+  <!-- Generated recipes -->
+  <!-- EN: make {0} -->
+  <RecipeMake>{0} তৈরি করুন</RecipeMake>
+  <!-- EN: Make {0}. -->
+  <RecipeMakeDescription>{0} তৈরি করুন।</RecipeMakeDescription>
+  <!-- EN: Making {0}. -->
+  <RecipeMakeJobString>{0} তৈরি করা হচ্ছে।</RecipeMakeJobString>
+  <!-- EN: administer {0} -->
+  <RecipeAdminister>administers {0}</RecipeAdminister>
+  <!-- EN: Administering {0}. -->
+  <RecipeAdministerJobString>{0} পরিচালনা করা হচ্ছে।</RecipeAdministerJobString>
+  <!-- EN: teetotaler will be unhappy -->
+  <TeetotalerUnhappy>মোট abstainকারী অসন্তুষ্ট হবে।</TeetotalerUnhappy>
+  <!-- EN: body purist will be unhappy -->
+  <ProsthophobeUnhappy>শারীরিক বিশুদ্ধতাবাদী অসন্তুষ্ট হবে।</ProsthophobeUnhappy>
+
+  <!-- Thoughts -->
+  <!-- EN: Expires in: {0} -->
+  <ThoughtExpiresIn>সময়সীমা: {0}</ThoughtExpiresIn>
+  <!-- EN: thought disabled by -->
+  <ThoughtNullifiedBy>চিন্তা নিষ্ক্রিয় করা হয়েছে</ThoughtNullifiedBy>
+  <!-- EN: Starts expiring in: {0} -->
+  <ThoughtStartsExpiringIn>মেয়াদ শেষ হতে শুরু হয়েছে: {0}</ThoughtStartsExpiringIn>
+  <!-- EN: Finishes expiring in: {0} -->
+  <ThoughtFinishesExpiringIn>মেয়াদ শেষ হওয়ার সময়: {0}</ThoughtFinishesExpiringIn>
+  <!-- EN: Extreme break threshold -->
+  <MentalBreakThresholdExtreme>গুরুতর বিরতি সীমা</MentalBreakThresholdExtreme>
+  <!-- EN: Major break threshold -->
+  <MentalBreakThresholdMajor>গুরুতর বিরতি সীমা</MentalBreakThresholdMajor>
+  <!-- EN: Minor break threshold -->
+  <MentalBreakThresholdMinor>ক্ষুদ্র বিরতি সীমা</MentalBreakThresholdMinor>
+
+  <!-- Pawn info readout -->
+  <!-- EN: {PAWN_gender} {1} -->
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
+  <!-- EN: {0} of {1} -->
+  <PawnMainDescFactionedWrap>: {0} এর মধ্যে {1}</PawnMainDescFactionedWrap>
+  <!-- EN: {0} in {1} -->
+  <PawnTitleDescWrap>: {0} এ {1}</PawnTitleDescWrap>
+  <!-- EN: {0} under {1} -->
+  <PawnMainDescUnderFactionedWrap>{0} এর নিচে {1}</PawnMainDescUnderFactionedWrap>
+  <!-- EN: {2_lifeStageAdjective} {0} -->
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <!-- EN: Faction -->
+  <Faction>গোষ্ঠী</Faction>
+  <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
+  <FactionDesc>এই পন {PAWN_labelShort} বর্তমানে যে দলভুক্ত, তা।</FactionDesc>
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
+  <ExtraFactionDesc>এই {PAWN_labelShort} নামক দলটির মূলত সদস্য ছিল।</ExtraFactionDesc>
+  <!-- EN: Equipped -->
+  <Equipped>সজ্জিত</Equipped>
+  <!-- EN: nothing -->
+  <EquippedNothing>কিছু না</EquippedNothing>
+  <!-- EN: Dead -->
+  <Dead>মৃত</Dead>
+  <!-- EN: Unconscious -->
+  <Unconscious>অজ্ঞান</Unconscious>
+  <!-- EN: In shock due to pain -->
+  <PainShock>ব্যথায় স্তম্ভিত</PainShock>
+  <!-- EN: Pain shock -->
+  <PainShockShort>ব্যথা শক</PainShockShort>
+  <!-- EN: Incapacitated -->
+  <Incapacitated>অক্ষম</Incapacitated>
+  <!-- EN: In restraints (slowed) -->
+  <InRestraints>বাধাগ্রস্ত (ধীর)</InRestraints>
+  <!-- EN: Carrying -->
+  <Carrying>বহন করা হচ্ছে</Carrying>
+  <!-- EN: Affected by: -->
+  <AffectedBy>প্রভাবিত:</AffectedBy>
+  <!-- EN: Queued -->
+  <Queued>সারিবদ্ধ</Queued>
+  <!-- EN: State -->
+  <State>অবস্থা</State>
+  <!-- EN: stun -->
+  <StunLower>স্তম্ভিত</StunLower>
+  <!-- EN: Slowed by damage -->
+  <SlowedByDamage>ক্ষতিগ্রস্ত হয়ে ধীরগতি</SlowedByDamage>
+
+  <!-- Inspector general stuff -->
+  <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTip>একই বর্গক্ষেত্রে পরবর্তী জিনিসটি নির্বাচন করুন।\n\n(*SectionTitle)শর্টকাট কী:(/SectionTitle) {0}\n\nআপনি একই বর্গক্ষেত্রে ধীরে ধীরে ক্লিক করে এটি করতে পারেন।</SelectNextInSquareTip>
+  <!-- EN: View information. -->
+  <DefInfoTip>তথ্য দেখুন।</DefInfoTip>
+  <!-- EN: Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTipController>একই বর্গক্ষেত্রে পরবর্তী জিনিসটি নির্বাচন করুন।\n\nআপনি একই বর্গক্ষেত্রে ধীরে ধীরে ক্লিক করে এটি করতে পারেন।</SelectNextInSquareTipController>
+
+  <!-- Hostility response -->
+  <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
+  <HostilityReponseTip>শত্রুদের কাছাকাছি থাকলে এই ব্যক্তি কীভাবে প্রতিক্রিয়া জানাবে তা পরিবর্তন করুন যখন ড্রাফট করা হবে না।</HostilityReponseTip>
+  <!-- EN: Current mode -->
+  <HostilityResponseCurrentMode>বর্তমান মোড</HostilityResponseCurrentMode>
+
+  <!-- like 'Blood of John' -->
+  <!-- EN: of -->
+  <OfLower>এর</OfLower>
+
+  <!-- Power readout -->
+  <!-- EN: Not connected to power. -->
+  <PowerNotConnected>বিদ্যুৎ সংযোগ নেই।</PowerNotConnected>
+  <!-- EN: Grid excess: {0} W ({1} Wd stored) -->
+  <PowerConnectedRateStored>গ্রিড অতিরিক্ত: {0} ওয়াট ({1} ওয়াটড জমা করা হয়েছে)</PowerConnectedRateStored>
+  <!-- EN: Power needed -->
+  <PowerNeeded>বিদ্যুৎ প্রয়োজন</PowerNeeded>
+  <!-- EN: Power output -->
+  <PowerOutput>বিদ্যুৎ উৎপাদন</PowerOutput>
+  <!-- EN: {0} W when active -->
+  <PowerActiveNeeded>{0} সক্রিয় থাকলে W</PowerActiveNeeded>
+  <!-- EN: Stored -->
+  <PowerBatteryStored>সংরক্ষিত</PowerBatteryStored>
+  <!-- EN: Efficiency -->
+  <PowerBatteryEfficiency>দক্ষতা</PowerBatteryEfficiency>
+  <!-- EN: Self-discharging -->
+  <SelfDischarging>স্বয়ং-স্রাবক</SelfDischarging>
+
+  <!-- Temperature control -->
+  <!-- EN: Target temperature -->
+  <TargetTemperature>লক্ষ্য তাপমাত্রা</TargetTemperature>
+  <!-- EN: Current power use -->
+  <PowerConsumptionMode>বর্তমান বিদ্যুতের ব্যবহার</PowerConsumptionMode>
+  <!-- EN: high -->
+  <PowerConsumptionHigh>উচ্চ</PowerConsumptionHigh>
+  <!-- EN: low -->
+  <PowerConsumptionLow>কম</PowerConsumptionLow>
+  <!-- EN: off -->
+  <PowerConsumptionOff>বন্ধ</PowerConsumptionOff>
+
+  <!-- Temperature readout -->
+  <!-- EN: Indoors -->
+  <Indoors>ঘরের ভিতরে</Indoors>
+  <!-- EN: Unroofed -->
+  <IndoorsUnroofed>ছাদবিহীন</IndoorsUnroofed>
+  <!-- EN: outdoors -->
+  <Outdoors>বাইরে</Outdoors>
+
+  <!-- Rotting -->
+  <!-- EN: Fresh -->
+  <RotStateFresh>তাজা</RotStateFresh>
+  <!-- EN: Rotting -->
+  <RotStateRotting>পচনশীল</RotStateRotting>
+  <!-- EN: Dessicated -->
+  <RotStateDessicated>শুকনো</RotStateDessicated>
+  <!-- EN: Frozen -->
+  <CurrentlyFrozen>জমাকৃত</CurrentlyFrozen> 
+  <!-- EN: Refrigerated, spoils in {0} -->
+  <CurrentlyRefrigerated>ঠান্ডায় রাখা, {0}-এ নষ্ট হয়ে যায়।</CurrentlyRefrigerated> 
+  <!-- EN: Unrefrigerated, spoils in {0} -->
+  <NotRefrigerated>অ-রেফ্রিজারেটেড, {0}-এ নষ্ট হয়ে যায়।</NotRefrigerated> 
+  <!-- EN: over a decade -->
+  <OverADecade>এক দশকের বেশি</OverADecade>
+  <!-- EN: less than a day -->
+  <LessThanADay>এক দিনের কম।</LessThanADay>
+
+  <!-- Shooting tooltip -->
+  <!-- EN: Shot by {1_labelShort} -->
+  <ShotBy>{1_labelShort} দ্বারা গুলি করা হয়েছে</ShotBy>
+  <!-- EN: Cannot hit target. -->
+  <CannotHit>লক্ষ্যবস্তুতে আঘাত করা যায়নি।</CannotHit>
+  <!-- EN: Manhunter chance per hit -->
+  <ManhunterPerHit>প্রতিটি আঘাতে ম্যানহান্টার হওয়ার সম্ভাবনা।</ManhunterPerHit>
+
+  <!-- Meal -->
+  <!-- EN: Ingredients -->
+  <Ingredients>উপকরণসমূহ</Ingredients>
+  <!-- EN: The ingredients used to make this meal. -->
+  <IngredientsDesc>এই খাবারটি তৈরি করতে ব্যবহৃত উপকরণগুলো।</IngredientsDesc>
+  <!-- EN: Dietary type -->
+  <DietaryType>খাদ্য প্রকার</DietaryType>
+  <!-- EN: The type of meal produced. Some people have preferences for specific types of meals. -->
+  <DietaryTypeDesc>এটি তৈরি খাবারের ধরন। কিছু মানুষ নির্দিষ্ট ধরনের খাবার পছন্দ করে।</DietaryTypeDesc>
+  <!-- EN: only stacks with similar meals -->
+  <OnlyStacksWithCompatibleMeals>শুধুমাত্র একই ধরনের খাবারের সাথে স্তূপ করা যায়।</OnlyStacksWithCompatibleMeals>
+
+  <!-- Plants -->
+  <!-- EN: {0} grown -->
+  <PercentGrowth>: {0} জন্মানো</PercentGrowth>
+  <!-- EN: Growth rate -->
+  <GrowthRate>বৃদ্ধি হার</GrowthRate>
+  <!-- EN: Fully grown in {0} of growth. -->
+  <FullyGrownIn>{0} এর বৃদ্ধিতে সম্পূর্ণরূপে বিকশিত।</FullyGrownIn>
+  <!-- EN: needs light level -->
+  <PlantNeedsLightLevel>আলোর মাত্রা প্রয়োজন</PlantNeedsLightLevel>
+  <!-- EN: resting -->
+  <PlantResting>বিশ্রামরত</PlantResting>
+  <!-- EN: temperature growth multiplier {0}% -->
+  <OutOfIdealTemperatureRange>তাপমাত্রা বৃদ্ধির গুণক {0}%</OutOfIdealTemperatureRange>
+  <!-- EN: out of temperature growth range -->
+  <OutOfIdealTemperatureRangeNotGrowing>তাপমাত্রা বৃদ্ধির পরিসীমার বাইরে।</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- EN: Ready to harvest. -->
+  <ReadyToHarvest>তোলা harvest-এর জন্য প্রস্তুত।</ReadyToHarvest>
+  <!-- EN: Mature. -->
+  <Mature>প্রাপ্তবয়স্ক।</Mature>
+  <!-- EN: Average plant age -->
+  <AveragePlantAge>গড় উদ্ভিদ বয়স</AveragePlantAge>
+  <!-- EN: Oldest plant age -->
+  <OldestPlantAge>প্রাচীনতম উদ্ভিদের বয়স</OldestPlantAge>
+  <!-- EN: Growing period -->
+  <OutdoorGrowingPeriod>চাষের সময়কাল</OutdoorGrowingPeriod>
+  <!-- EN: Never -->
+  <NoGrowingPeriod>কখনও না</NoGrowingPeriod>
+  <!-- EN: Year-round -->
+  <GrowYearRound>বছরব্যাপী</GrowYearRound>
+  <!-- EN: Growing season here now. -->
+  <GrowSeasonHereNow>এখানে এখন ফসল ফলানোর সময়।</GrowSeasonHereNow>
+  <!-- EN: Cannot grow (bad seasonal temperature). -->
+  <CannotGrowBadSeasonTemperature>উপযুক্ত ঋতুতে তাপমাত্রা খারাপ হওয়ায় চাষ করা যায় না।</CannotGrowBadSeasonTemperature>
+  <!-- EN: Blighted -->
+  <Blighted>দূষিত</Blighted>
+  <!-- EN: Dying because exposed to light -->
+  <DyingBecauseExposedToLight>আলোর সংস্পর্শে আসার কারণে মৃত্যু।</DyingBecauseExposedToLight>
+  <!-- EN: Dying from non-ideal terrain -->
+  <DyingBecauseOfTerrain>অনিশ্চিত ভূখণ্ডে মৃত্যু।</DyingBecauseOfTerrain>
+  <!-- EN: Cut now -->
+  <AutoCutNow>অবিলম্বে কাটুন</AutoCutNow>
+  <!-- EN: harvesting -->
+  <HarvestGerund>সংগ্রহণ</HarvestGerund>
+  <!-- EN: cutting -->
+  <CutGerund>কাটিং</CutGerund>
+  <!-- EN: Cut all blight -->
+  <CutAllBlight>ক্ষত দূর করুন</CutAllBlight>
+  <!-- EN: Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads. -->
+  <CutAllBlightDesc>ক্ষতিগ্রস্ত গাছপালা ধ্বংস করার জন্য চিহ্নিত করুন। ক্ষতিগ্রস্ত গাছপালা কোনো খাদ্য বা সম্পদ উৎপাদন করবে না এবং সংক্রমণ ছড়ানোর আগে সেগুলোকে ধ্বংস করা উচিত।</CutAllBlightDesc>
+
+  <!-- Zones -->
+  <!-- EN: Zone -->
+  <Zone>অঞ্চল</Zone>
+  <!-- EN: Growing zone -->
+  <GrowingZone>চাষের অঞ্চল</GrowingZone>
+  <!-- EN: growing -->
+  <GrowingGroup>বৃদ্ধি হচ্ছে</GrowingGroup>
+  <!-- EN: Stockpile zone -->
+  <Stockpile>stockpiles এলাকা</Stockpile>
+  <!-- EN: stockpile -->
+  <StockpileGroup>stockpাইল</StockpileGroup>
+  <!-- EN: Dumping stockpile zone -->
+  <DumpingStockpile>ডাম্পিং স্টোকপাইল জোন</DumpingStockpile>
+  <!-- EN: Corpse stockpile zone -->
+  <CorpseStockpile>মরদেহের স্তূপ এলাকা</CorpseStockpile>
+  <!-- EN: Priority -->
+  <Priority>অগ্রাধিকার</Priority>
+  <!-- EN: Clear all -->
+  <ClearAll>সব পরিষ্কার করুন</ClearAll>
+  <!-- EN: Allow all -->
+  <AllowAll>সব অনুমতি দিন</AllowAll>
+  
+  <!-- Storage Groups -->
+  <!-- EN: Group -->
+  <StorageGroup>দল</StorageGroup>
+  <!-- EN: Name -->
+  <StorageLabel>নাম</StorageLabel>
+  <!-- EN: Storage group -->
+  <StorageGroupLabel>সংরক্ষণ গ্রুপ</StorageGroupLabel>
+
+  <!-- ThingFilter -->
+  <!-- EN: {0} hit points -->
+  <HitPoints>{0} হিট পয়েন্ট</HitPoints>
+  <!-- EN: any quality -->
+  <AnyQuality>যেকোনো গুণমান</AnyQuality>
+  <!-- EN: {0} only -->
+  <OnlyQuality>{0} মাত্র</OnlyQuality>
+
+  <!-- Mouseover indicator -->
+  <!-- EN: Undiscovered -->
+  <Undiscovered>অজানা</Undiscovered>
+  
+  <!-- Animal management -->
+  <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalSterilizeConfirm>আপনি কি নিশ্চিতভাবে {PAWN_nameDef}-কে বন্ধ্যা করতে চান? এটা করলে {FACTION_name} ক্ষুব্ধ হবে।</AnimalSterilizeConfirm>
+  <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalSlaughterConfirm>আপনি কি সত্যিই {PAWN_nameDef}-কে জবাই করতে চান? এটা করলে {FACTION_name} ক্ষুব্ধ হবে।</AnimalSlaughterConfirm>
+  <!-- EN: Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalReleaseConfirm>আপনি কি নিশ্চিত {PAWN_nameDef} কে মুক্তি দিতে চান? এটা করলে {FACTION_name} ক্ষুব্ধ হবে।</AnimalReleaseConfirm>
+
+  <!-- Buttons -->
+  <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
+  <ShowLearningHelperWhenEmptyToggleButton>যখন এটি খালি থাকে তখন লার্নিং হেল্পারটির দৃশ্যমানতা পরিবর্তন করুন।\n\nযদি শেখার জন্য কোনো ধারণা সক্রিয় থাকে তবে লার্নিং হেল্পারটি সর্বদা দৃশ্যমান থাকবে। এই টগলটি সক্রিয় ধারণা না থাকলে এটিকে অদৃশ্য করে দেবে।</ShowLearningHelperWhenEmptyToggleButton>
+  <!-- EN: Toggle visibility of zones. -->
+  <ZoneVisibilityToggleButton>অঞ্চলগুলির দৃশ্যমানতা পরিবর্তন করুন।</ZoneVisibilityToggleButton>
+  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing. -->
+  <ShowBeautyToggleButton>সৌন্দর্য প্রদর্শন চালু করুন।\n\nকার্সার যে স্থানে নির্দেশ করছে, সেখানে দাঁড়িয়ে থাকা চরিত্রটির চোখে যেমনটি দেখাবে, তেমনই বিশ্বের সৌন্দর্য প্রদর্শন করবে।</ShowBeautyToggleButton>
+  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the cursor is pointing. -->
+  <ShowRoomStatsToggleButton>রুমের পরিসংখ্যান প্রদর্শন চালু/বন্ধ করুন।\n\nকার্সার যেখানে নির্দেশ করছে, সেই রুমের পরিসংখ্যান দেখায়।</ShowRoomStatsToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
+  <ShowColonistBarToggleButton>উপনিবেশকারী বার টগল করুন।\n\nস্ক্রিনের উপরে সমস্ত উপনিবেশকারীর আইকন এবং প্রাথমিক অবস্থা প্রদর্শন করে।\n\nআপনি রাইট-ক্লিক করে টেনে উপনিবেশকারী বার-এ উপনিবেশকারীদের পুনরায় সাজাতে পারেন।</ShowColonistBarToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by pressing the left trigger button and dragging them. -->
+  <ShowColonistBarToggleButtonController>উপনিবেশকারী বার টগল করুন।\n\nস্ক্রিনের উপরে সমস্ত উপনিবেশকারীর আইকন এবং প্রাথমিক অবস্থা প্রদর্শন করে।\n\nআপনি বাম ট্রিগার বোতাম টিপে টেনে উপনিবেশকারী বার-এ উপনিবেশকারীদের পুনরায় সাজাতে পারেন।</ShowColonistBarToggleButtonController>
+  <!-- EN: Toggle automatically expanding the home area around new constructions. -->
+  <AutoHomeAreaToggleButton>নতুন নির্মাণের আশেপাশে স্বয়ংক্রিয়ভাবে আবাস এলাকা সম্প্রসারণ চালু/বন্ধ করুন।</AutoHomeAreaToggleButton>
+  <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
+  <AutoRebuildButton>আবাসিক অঞ্চলে ধ্বংসপ্রাপ্ত কাঠামো স্বয়ংক্রিয়ভাবে পুনঃনির্মাণের টগল।</AutoRebuildButton>
+  <!-- EN: Toggle categorized mode on the resource readout. -->
+  <CategorizedResourceReadoutToggleButton>সম্পদ প্রদর্শনীতে শ্রেণীবদ্ধ মোড চালু করুন।</CategorizedResourceReadoutToggleButton>
+  <!-- EN: Toggle displaying animal names for tame named animals. -->
+  <ShowAnimalNamesToggleButton>পোষা নামক প্রাণীদের নাম প্রদর্শন টগল করুন।</ShowAnimalNamesToggleButton>
+  <!-- EN: Toggle visibility of roofs. -->
+  <ShowRoofOverlayToggleButton>ছাদের দৃশ্যমানতা পরিবর্তন করুন।</ShowRoofOverlayToggleButton>
+  <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
+  <ShowFertilityOverlayToggleButton>উর্বরতা ওভারলে টগল করুন।\n\nএটি দেখায় মাটি কতটা উর্বর, যা প্রভাবিত করে কী ধরনের উদ্ভিদ জন্মাতে পারে এবং তারা কত দ্রুত বাড়ে।</ShowFertilityOverlayToggleButton>
+  <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
+  <ShowTerrainAffordanceOverlayToggleButton>ভূখণ্ড সুবিধা দৃশ্যমানতা পরিবর্তন করুন।\n\nএটি প্রতিটি স্থানে কী ধরনের ভবন নির্মাণ করা যেতে পারে তার সাথে সম্পর্কিত।\n\nউদাহরণস্বরূপ, কিছু ধরণের জমিতে কেবল হালকা বা মাঝারি ভবন নির্মাণ করা যায়, ভারী ভবন নয়। সেতু কেবল জলের উপরেই তৈরি করা যেতে পারে।</ShowTerrainAffordanceOverlayToggleButton>
+  <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
+  <LockNorthUpToggleButton>ক্যামেরার ঘূর্ণন লক করুন যাতে উত্তর মেরু সর্বদা উপরে থাকে।</LockNorthUpToggleButton>
+  <!-- EN: Toggle day/night lighting on the planet view. -->
+  <UsePlanetDayNightSystemToggleButton>গ্রহ দৃশ্যে দিন/রাতের আলো টগল করুন।</UsePlanetDayNightSystemToggleButton>
+  <!-- EN: Toggle displaying expanding icons for settlements belonging to other factions. -->
+  <ShowBasesExpandingIconsToggleButton>অন্যান্য দলের বসতির জন্য প্রসারিত আইকন দেখানো বন্ধ বা চালু করুন।</ShowBasesExpandingIconsToggleButton>
+  <!-- EN: Toggle displaying expanding icons for important locations, such as your colony, quest locations, and active maps. -->
+  <ShowImportantExpandingIconsToggleButton>গুরুত্বপূর্ণ স্থান, যেমন আপনার কলোনি, অনুসন্ধান স্থান এবং সক্রিয় মানচিত্রের জন্য প্রসারিত আইকন প্রদর্শন করা টগল করুন।</ShowImportantExpandingIconsToggleButton>
+  <!-- EN: Toggle visibility of names of landforms. -->
+  <ShowWorldFeaturesToggleButton>ভূমিরূপের নামের দৃশ্যমানতা পরিবর্তন করুন।</ShowWorldFeaturesToggleButton>
+  <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
+  <ShowTemperatureOverlayToggleButton>তাপীয় আবরণ চালু করুন। এটি প্রতিটি ঘর এবং বাইরের বাতাসের তাপমাত্রা দেখায়।\n\nতাপমাত্রা খুব বেশি বা খুব কম হলে কলোনিস্টরা অসন্তুষ্ট হবে। চরম তাপমাত্রার সংস্পর্শে হাইপোথার্মিয়া, ফ্রস্টবাইট, হিটস্ট্রোক, পোড়া এবং মৃত্যু পর্যন্ত হতে পারে।</ShowTemperatureOverlayToggleButton>
+
+  <!-- Hotkeys -->
+  <!-- EN: Hotkey -->
+  <HotKeyTip>হটকী</HotKeyTip>
+  
+  <!-- Fire -->
+  <!-- EN: fire on {1_label} -->
+  <FireOn>{1_লেবেল}-এ আগুন লাগাও</FireOn>
+  <!-- EN: Burning -->
+  <Burning>দহন</Burning>
+  <!-- EN: fire size {0} -->
+  <FireSizeLower>আগুন আকার {0}</FireSizeLower>
+
+  <!-- Game conditions -->
+  <!-- EN: Special conditions affecting the area right now. -->
+  <GameConditionsTip>এই মুহূর্তে এলাকার বিশেষ পরিস্থিতি।</GameConditionsTip>
+  <!-- EN: time left -->
+  <TimeLeft>অবশিষ্ট সময়</TimeLeft>
+  <!-- EN: impact date -->
+  <ImpactDate>প্রভাবের তারিখ</ImpactDate>
+  <!-- EN: Source unknown. -->
+  <SourceUnknown>অজানা উৎস।</SourceUnknown>
+  <!-- EN: Click to jump to the source. -->
+  <ClickToJumpToSource>উৎস-এ লাফ দিতে ক্লিক করুন।</ClickToJumpToSource>
+  <!-- EN: Click to jump to the flashstorm. -->
+  <ClickToJumpToFlashstorm>ফ্ল্যাশস্টর্মে লাফ দিতে ক্লিক করুন।</ClickToJumpToFlashstorm>
+  <!-- EN: Caused by quest: {0} -->
+  <CausedByQuest>{0} দ্বারা সৃষ্ট।</CausedByQuest>
+
+  <!-- Building placement -->
+  <!-- EN: You have no usable materials from which to build this. -->
+  <NoStuffsToBuildWith>এইটি নির্মাণের জন্য আপনার কাছে ব্যবহারযোগ্য কোনো উপাদান নেই।</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <!-- EN: {0} will have work speed penalty -->
+  <WillGetWorkSpeedPenalty>{0} কাজের গতিতে পেনাল্টি থাকবে</WillGetWorkSpeedPenalty>
+  <!-- EN: Cannot be placed under a roof. -->
+  <MustPlaceUnroofed>ছাদের নিচে স্থাপন করা যাবে না।</MustPlaceUnroofed>
+  <!-- EN: Must be placed under thick roof. -->
+  <MustPlaceUnderThickRoof>ঘন ছাদের নিচে স্থাপন করতে হবে।</MustPlaceUnderThickRoof>
+  <!-- EN: Must be placed against a wall. -->
+  <MustPlaceOnWall>দেওয়ালের বিপরীতে স্থাপন করতে হবে।</MustPlaceOnWall>
+  <!-- EN: Something is already placed on this wall. -->
+  <SomethingPlacedOnThisWall>এই দেওয়ালে ইতিমধ্যে কিছু স্থাপন করা হয়েছে।</SomethingPlacedOnThisWall>
+  <!-- EN: This building can not support attachments. -->
+  <CannotSupportAttachment>এই কাঠামোতে কোনো সংযুক্তি সমর্থন করা যায় না।</CannotSupportAttachment>
+  <!-- EN: Must place with head attached to ship structural beam. -->
+  <MustPlaceHeadOnShipBeam>জাহাজ কাঠামোগত বিমের সাথে মাথা সংযুক্ত করে স্থাপন করতে হবে।</MustPlaceHeadOnShipBeam>
+  <!-- EN: Must be placed next to something that needs a hopper. -->
+  <MustPlaceNextToHopperAccepter>হপার-এর প্রয়োজনীয় কিছুর পাশে স্থাপন করতে হবে।</MustPlaceNextToHopperAccepter>
+  <!-- EN: Must be placed directly on a steam geyser. -->
+  <MustPlaceOnSteamGeyser>স্টিভম জিইজারে স্থাপন করতে হবে।</MustPlaceOnSteamGeyser>
+  <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
+  <MustPlaceCoolerWithFreeSpaces>কুলারের গরম এবং ঠান্ডা উভয় দিকই উন্মুক্ত থাকতে হবে।</MustPlaceCoolerWithFreeSpaces>
+  <!-- EN: Both the sides must be exposed for air to pass through. -->
+  <MustPlaceVentWithFreeSpaces>উভয় দিকই উন্মুক্ত থাকতে হবে যাতে বাতাস চলাচল করতে পারে।</MustPlaceVentWithFreeSpaces>
+  <!-- EN: Must be placed with standable space on all sides. -->
+  <MustPlaceAdjacentStandable>সব দিকে দাঁড়ানোর জায়গা রেখে স্থাপন করতে হবে।</MustPlaceAdjacentStandable>
+  <!-- EN: Must be placed next to a pod launcher's fueling port. -->
+  <MustPlaceNearFuelingPort>পড লঞ্চারের জ্বালানি পোর্টের পাশে স্থাপন করতে হবে।</MustPlaceNearFuelingPort>
+  <!-- EN: Must be placed on drillable resources. -->
+  <MustPlaceOnDrillable>খননযোগ্য সম্পদে স্থাপন করতে হবে।</MustPlaceOnDrillable>
+  <!-- EN: Cannot be placed next to traps. -->
+  <CannotPlaceAdjacentTrap>ফাঁদের পাশে স্থাপন করা যাবে না।</CannotPlaceAdjacentTrap>
+  <!-- EN: Cannot be placed next to another building of the same type. -->
+  <CannotPlaceAdjacentSameDef>একই ধরনের অন্য কোনো ভবনের পাশে স্থাপন করা যাবে না।</CannotPlaceAdjacentSameDef>
+
+  <!-- Wind Turbine -->
+  <!-- EN: Blocked by -->
+  <WindTurbine_WindPathIsBlockedBy>অবরুদ্ধ দ্বারা</WindTurbine_WindPathIsBlockedBy>
+  <!-- EN: Blocked by roof -->
+  <WindTurbine_WindPathIsBlockedByRoof>ছাদ দ্বারা অবরুদ্ধ</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Watermill generator -->
+  <!-- EN: Flow reduced: Turbulence from other watermill -->
+  <Watermill_WaterUsedTwice>প্রবাহ হ্রাস: অন্য জলকলের কারণে অস্থিরতা।</Watermill_WaterUsedTwice>
+
+  <!-- Cryptosleep casket -->
+  <!-- EN: Contains -->
+  <CasketContains>ধারণ করে</CasketContains>
+  <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
+  <CasketWarning>সতর্কতা!\n\n{PAWN_nameDef} আপনার শেষ স্বনির্ভর উপনিবেশক! যদি আপনি {PAWN_objective} কে সেই কফিনে প্রবেশ করতে দেন, তাহলে সম্ভবত আপনি খেলা চালিয়ে যেতে পারবেন না। আপনি কি নিশ্চিতভাবে এগিয়ে যেতে চান?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <!-- EN: Cannot launch. -->
+  <ShipReportCannotLaunch>চালু করা যায়নি।</ShipReportCannotLaunch>
+  <!-- EN: Ready for launch. -->
+  <ShipReportCanLaunch>উৎক্ষেপণের জন্য প্রস্তুত।</ShipReportCanLaunch>
+  <!-- EN: Missing critical component -->
+  <ShipReportMissingPart>গুরুত্বপূর্ণ উপাদান অনুপস্থিত।</ShipReportMissingPart>
+  <!-- EN: requires -->
+  <ShipReportMissingPartRequires>প্রয়োজনীয়</ShipReportMissingPartRequires>
+  <!-- EN: No full cryptosleep caskets -->
+  <ShipReportNoFullPods>ক্রিপ্টোস্লিপ কফিন উপলব্ধ নেই।</ShipReportNoFullPods>
+  <!-- EN: Hibernating component -->
+  <ShipReportHibernating>হিবারনেটিং উপাদান</ShipReportHibernating>
+  <!-- EN: Component not yet ready -->
+  <ShipReportNotReady>উপাদান এখনও প্রস্তুত নয়।</ShipReportNotReady>
+  <!-- EN: No settlement to return to. Form a settlement first. -->
+  <ShipNoSettlementToReturnTo>বসতি স্থাপনের জন্য আর কোনো স্থান নেই। প্রথমে একটি বসতি তৈরি করুন।</ShipNoSettlementToReturnTo> 
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarning>(*Name)চার্লন হোয়াইটস্টোন(/Name) রিঅ্যাক্টরের শীতনিদ্রা পুনরুদ্ধার ক্রম শুরু করতে প্রস্তুত।\n\nতিনি আপনাকে সতর্ক করছেন যে প্রক্রিয়াটি প্রায় ১৫ দিন সময় নেবে, এবং শক্তির স্বাক্ষর দূর থেকে সনাক্ত করা যাবে।\n\nএই ধরনের শক্তির স্বাক্ষর আন্তঃনাক্ষত্রিক উড্ডয়ন ক্ষমতা নির্দেশ করে, এবং এটি হতাশ অপহরণকারীদের দল এবং মারাত্মক মেকানোইডসমূহের ঝাঁক আকর্ষণ করবে।\n\nআপনি এমন তীব্রতায় আক্রান্ত হবেন যা আপনি আগে কখনও দেখেননি। নিশ্চিত করুন আপনার প্রতিরক্ষা ব্যবস্থা আগে থেকে প্রস্তুত আছে।</HibernateWarning>
+  <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarningStandalone>রিঅ্যাক্টরটি চালু হওয়ার জন্য প্রস্তুত।\n\nএই প্রক্রিয়াটি প্রায় ১৫ দিন সময় নেবে এবং শক্তির স্বাক্ষর অনেক দূর থেকে সনাক্ত করা যাবে। এই ধরনের শক্তির স্বাক্ষর আন্তঃনাক্ষত্রিক উড্ডয়ন ক্ষমতার ইঙ্গিত দেয় এবং এটি হতাশ অপহরণকারীদের দল এবং মারাত্মক মেকানোইডসমূহের ঝাঁককে আকৃষ্ট করবে।\n\nআপনি এমন তীব্রতায় আক্রান্ত হবেন যা আগে কখনও দেখেননি। নিশ্চিত করুন আপনার প্রতিরক্ষা ব্যবস্থা আগে থেকে প্রস্তুত আছে।</HibernateWarningStandalone>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <HibernateWarningPacifist>চার্লন হোয়াইটস্টোন রিঅ্যাক্টরের শীতনিদ্রা পুনরুদ্ধার ক্রম শুরু করার জন্য প্রস্তুত। তিনি আপনাকে সতর্ক করছেন যে প্রক্রিয়াটি প্রায় ১৫ দিন সময় নেবে।</HibernateWarningPacifist>
+  <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
+  <HibernateWarningStandalonePacifist>রিঅ্যাক্টরটি চালু হওয়ার জন্য প্রস্তুত। এই প্রক্রিয়াটি প্রায় ১৫ দিন সময় নেবে।</HibernateWarningStandalonePacifist>
+
+  <!-- Neurotrainer -->
+  <!-- EN: skilltrainer ({0}) -->
+  <SkillNeurotrainerLabel>দক্ষতা প্রশিক্ষক ({0})</SkillNeurotrainerLabel>
+  <!-- EN: Use skilltrainer to learn {0} -->
+  <SkillNeurotrainerUseLabel>{0} শেখার জন্য দক্ষতা প্রশিক্ষক ব্যবহার করুন</SkillNeurotrainerUseLabel>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
+  <SkillNeurotrainerDescription>এটি একটি বিশেষ দক্ষতা প্রশিক্ষণের জন্য একবার ব্যবহারযোগ্য মেকানাইট-এর উচ্চ ডোজ।\n\nএই ডোজটি চোখের কোটরের মাধ্যমে প্রয়োগ করা হয়। মস্তিষ্কে প্রবেশ করার পর, মেকানাইটগুলি দ্রুত নির্দিষ্ট ক্ষেত্রে বিষয়ীর দক্ষতা বৃদ্ধি করে এবং প্রয়োজন অনুযায়ী নিজেদের স্নায়ু টিস্যুতে রূপান্তরিত করে।</SkillNeurotrainerDescription>
+  <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
+  <SkillNeurotrainerUsed>{{USER_labelShort}} লেভেল {2} থেকে লেভেল {3} এ উন্নীত হওয়ার জন্য একটি নিউরো প্রশিক্ষক ব্যবহার করেছেন {1}।</SkillNeurotrainerUsed>
+
+  <!-- Minification -->
+  <!-- EN: Installed -->
+  <Installed>ইনস্টল করা হয়েছে।</Installed>
+  <!-- EN: Not installed -->
+  <NotInstalled>স্থাপন করা হয়নি।</NotInstalled>
+  <!-- EN: Extracted tree will die in {time} unless replanted. -->
+  <MinifiedTreeWillDieIn>{সময়} অতিবাহিত না হলে গাছটি মারা যাবে, পুনরায় রোপণ করুন।</MinifiedTreeWillDieIn>
+
+  <!-- Art -->
+  <!-- EN: Title -->
+  <Title>শিরোনাম</Title>
+  <!-- EN: Untitled -->
+  <Untitled>শিরোনামবিহীন</Untitled>
+
+  <!-- Unfinished thing -->
+  <!-- EN: Unfinished {0} -->
+  <UnfinishedItem>অসম্পূর্ণ {0}</UnfinishedItem>
+  <!-- EN: Unfinished {0} {1} -->
+  <UnfinishedItemWithStuff>অসম্পূর্ণ {0} {1}</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <!-- EN: Quality -->
+  <Quality>গুণমান</Quality>
+  <!-- EN: quality -->
+  <quality>গুণমান</quality>
+  <!-- EN: An item's quality is how well-made it is. -->
+  <QualityDescription>একটি বস্তুর গুণমান তার তৈরির মান কেমন, তা নির্দেশ করে।</QualityDescription>
+  <!-- EN: Quality: {0} -->
+  <QualityIs>গুণমান: {0}</QualityIs>
+
+  <!-- Mood descriptions -->
+  <!-- EN: mental state -->
+  <Mood_MentalState>মানসিক অবস্থা</Mood_MentalState>
+  <!-- EN: about to break -->
+  <Mood_AboutToBreak>ভাঙতে চলেছে</Mood_AboutToBreak>
+  <!-- EN: on edge -->
+  <Mood_OnEdge>সীমার কাছাকাছি</Mood_OnEdge>
+  <!-- EN: stressed -->
+  <Mood_Stressed>মানসিক চাপগ্রস্ত</Mood_Stressed>
+  <!-- EN: neutral -->
+  <Mood_Neutral>নিরপেক্ষ</Mood_Neutral>
+  <!-- EN: content -->
+  <Mood_Content>বিষয়বস্তু</Mood_Content>
+  <!-- EN: happy -->
+  <Mood_Happy>খুশি</Mood_Happy>
+
+  <!-- Game over -->
+  <!-- EN: Game Over -->
+  <GameOver>খেলার শেষ।</GameOver>
+  <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
+  <GameOverEveryoneDead>সবাই মৃত অথবা চলে গেছে। এই গল্প শেষ।\n\nসম্ভবত অন্য কেউ এই জায়গার ধ্বংসাবশেষের ব্যবহার খুঁজে পাবে।</GameOverEveryoneDead>
+  <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
+  <GameOverPlanetkillerImpact>আলোর গতির কাছাকাছি গতিতে, গ্রহ-ঘাতক অস্ত্রটি এক ট্রিলিয়ন হাইড্রোজেন বোমার শক্তির সাথে মাটিতে আঘাত হানলো। একটি রাইফেল দিয়ে ফোটানো জলের বেলুনের মতো, এই গ্রহটি প্রভাবের নিচে তরল হয়ে গেল এবং তার গলিত অভ্যন্তর মহাবিশ্বে ছড়িয়ে পড়লো।\n\n{0}-এর একটি অংশ এখন একটি ছোট গ্রহাণু বেল্ট। বাকিটা একটি গলিত, তেজস্ক্রিয় নরক, যা ক্রমাগত কিলোমিটার উঁচু গ্রহকম্পনে কেঁপে উঠছে।\n\nআপনি বেঁচে ছিলেন না।</GameOverPlanetkillerImpact>
+  <!-- EN: You've launched the ship! -->
+  <GameOverShipLaunchedIntro>আপনি জাহাজটি উৎক্ষেপণ করেছেন!</GameOverShipLaunchedIntro>
+  <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
+  <GameOverShipLaunchedEnding>আপনার যন্ত্র ব্যক্তিত্ব এখন জাহাজটিকে নিরাপদ স্থানে নিয়ে যাওয়ার চেষ্টা করবে। এটি এই নক্ষত্রমণ্ডলে একটি সমৃদ্ধ গ্রহ খুঁজে পেতে পারে। অথবা, এটি অন্য নক্ষত্রের দিকে শতাব্দীর দীর্ঘ যাত্রা শুরু করতে পারে। এটি কোনো গ্রহাণুর নিচে বরফের মধ্যে কয়েক হাজার বছর লুকিয়ে থাকতে পারে, যতক্ষণ না এখানে কেউ একটি নতুন ঝলমলে বিশ্ব তৈরি করে।\n\nআপনি জেগে উঠলে জানতে পারবেন।</GameOverShipLaunchedEnding>
+  <!-- EN: These colonists escaped:\n\n{0} -->
+  <GameOverColonistsEscaped>এই উপনিবেশ স্থাপনকারীরা পালিয়ে গেছে:\n\n{0}</GameOverColonistsEscaped>
+  <!-- EN: These colonists were left behind:\n\n{0} -->
+  <GameOverColonistsLeft>এই উপনিবেশ স্থাপনকারীরা পিছনে রয়ে গেছে:\n\n{0}</GameOverColonistsLeft>
+  <!-- EN: In memory of:\n -->
+  <GameOverInMemoryOf>স্মৃতিতে:</GameOverInMemoryOf>
+  <!-- EN: Keep watching -->
+  <GameOverKeepWatching>পর্যবেক্ষণ চালিয়ে যান।</GameOverKeepWatching>
+  <!-- EN: Keep watching for now -->
+  <GameOverKeepWatchingForNow>ঠিক আছে, এখন থেকে নজর রাখছি।</GameOverKeepWatchingForNow>
+  <!-- EN: Create new wanderers -->
+  <GameOverCreateNewWanderers>নতুন যাযাবর তৈরি করুন</GameOverCreateNewWanderers>
+  <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
+  <GameOverCreateNewWanderersText>সবাই মৃত অথবা চলে গেছে। সম্ভবত কেউ এই জায়গার ধ্বংসাবশেষের ব্যবহার খুঁজে বের করবে।\n\nনতুন যাযাবররা আপনার কলোনিতে এসে গল্পটি চালিয়ে যান।</GameOverCreateNewWanderersText>
+  <!-- EN: Main menu -->
+  <GameOverMainMenu>প্রধান মেনু</GameOverMainMenu>
+  <!-- EN: No colony -->
+  <NoColony>কোনো উপনিবেশ নেই</NoColony>
+  <!-- EN: cannot reach any destination -->
+  <NoWandererDestination>গন্তব্যে পৌঁছানো সম্ভব নয়।</NoWandererDestination>
+  <!-- EN: must wait {0}h -->
+  <GameOverCreateNewWanderersWait>{0} ঘণ্টা অপেক্ষা করতে হবে</GameOverCreateNewWanderersWait>
+
+  <!-- Generic lifespan -->
+  <!-- EN: Expires in: -->
+  <LifespanExpiry>মেয়াদ উত্তীর্ণ:</LifespanExpiry>
+
+  <!-- Facilities -->
+  <!-- EN: inactive -->
+  <InactiveFacility>নিষ্ক্রিয়</InactiveFacility>
+  <!-- EN: Links to -->
+  <FacilityPotentiallyLinkedTo>লিঙ্কসমূহ</FacilityPotentiallyLinkedTo>
+  <!-- EN: Not linked to a building -->
+  <FacilityNoPotentialLinks>কোনো বিল্ডিংয়ের সাথে সংযুক্ত নয়</FacilityNoPotentialLinks>
+  <!-- EN: Max connected per building -->
+  <FacilityMaxSimultaneousConnections>ভবন প্রতি সর্বোচ্চ সংযোগ</FacilityMaxSimultaneousConnections>
+  <!-- EN: Front of building is blocked. -->
+  <FacilityFrontBlocked>ভবনের সামনে বাধা আছে।</FacilityFrontBlocked>
+
+  <!-- Hediffs growth modes -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
+  <DiseaseGrowthModeChanged_Growing>{{PAWN_labelShort}} এর {1} এখন বাড়ছে।</DiseaseGrowthModeChanged_Growing>
+  <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}-এর {1} এখন স্থিতিশীল।</DiseaseGrowthModeChanged_Stable>
+  <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
+  <DiseaseGrowthModeChanged_Remission>{{PAWN_labelShort}} এর {1} এখন প্রশমিত হয়েছে।</DiseaseGrowthModeChanged_Remission>
+
+  <!-- Marriage spot -->
+  <!-- EN: Usable now. -->
+  <MarriageSpotUsable>ব্যবহারযোগ্য এখন।</MarriageSpotUsable>
+  <!-- EN: Not usable: {0}. -->
+  <MarriageSpotNotUsable>ব্যবহারযোগ্য নয়: {0}।</MarriageSpotNotUsable>
+  <!-- EN: blocked -->
+  <MarriageSpotNotStandable>অবরুদ্ধ</MarriageSpotNotStandable>
+  <!-- EN: too dangerous for {1_labelShort} -->
+  <MarriageSpotDangerous>{1_labelShort} এর জন্য খুব বিপজ্জনক।</MarriageSpotDangerous>
+  <!-- EN: forbidden for {1_labelShort} -->
+  <MarriageSpotForbidden>নিষিদ্ধ: {1_labelShort}</MarriageSpotForbidden>
+  <!-- EN: reserved -->
+  <MarriageSpotReserved>সংরক্ষিত</MarriageSpotReserved>
+  <!-- EN: unreachable for {1_labelShort} -->
+  <MarriageSpotUnreachable>{1_labelShort} এর নাগালের বাইরে</MarriageSpotUnreachable>
+  <!-- EN: in prison cell -->
+  <MarriageSpotInPrisonCell>কারাগার কক্ষে</MarriageSpotInPrisonCell>
+  <!-- EN: uncomfortable temperature -->
+  <NotEnjoyableOutsideTemperature>অস্বস্তিকর তাপমাত্রা</NotEnjoyableOutsideTemperature>
+
+  <!-- Colonist bar -->
+  <!-- EN: Medical rest -->
+  <ActivityIconMedicalRest>চিকিৎসা বিশ্রাম</ActivityIconMedicalRest>
+  <!-- EN: Sleeping -->
+  <ActivityIconSleeping>ঘুমন্ত</ActivityIconSleeping>
+  <!-- EN: Fleeing -->
+  <ActivityIconFleeing>পালানো</ActivityIconFleeing>
+  <!-- EN: Fighting -->
+  <ActivityIconAttacking>যুদ্ধ</ActivityIconAttacking>
+  <!-- EN: Idle -->
+  <ActivityIconIdle>অলস</ActivityIconIdle>
+  <!-- EN: Burning -->
+  <ActivityIconBurning>দহন</ActivityIconBurning>
+  <!-- EN: Forming a caravan -->
+  <ActivityIconFormingCaravan>বহর গঠন করা হচ্ছে</ActivityIconFormingCaravan>
+
+  <!-- Maintainable -->
+  <!-- EN: Due for maintenance. -->
+  <DueForMaintenance>রক্ষণাবেক্ষণের সময় হয়েছে।</DueForMaintenance>
+  <!-- EN: Deteriorating due to lack of maintenance. -->
+  <DeterioratingDueToLackOfMaintenance>রক্ষণাবেক্ষণের অভাবে অবনতি হচ্ছে।</DeterioratingDueToLackOfMaintenance>
+
+  <!-- Deep drill -->
+  <!-- EN: Progress to next lump -->
+  <ProgressToNextLump>পরবর্তী স্তরে যান।</ProgressToNextLump>
+  <!-- EN: Resource below -->
+  <ResourceBelow>গুরুত্বপূর্ণ বিধি:</ResourceBelow>
+  <!-- EN: Progress to next portion -->
+  <ProgressToNextPortion>অ্যাকশন।\nঅ্যাক্সেস।\nঅ্যাডজাস্টমেন্ট।\nঅ্যাডমিনিস্ট্রেশন।\nঅ্যাফিলিয়েশন</ProgressToNextPortion>
+  <!-- EN: No resources below. -->
+  <DeepDrillNoResources>সম্পদ নেই।</DeepDrillNoResources>
+  <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
+  <DeepDrillExhausted>গভীর খনন সম্পদ নিঃশেষিত, ড্রিল স্বয়ংক্রিয়ভাবে নিষিদ্ধ করা হয়েছে। খনন শুরু করার জন্য {0} আনফর্বিড করুন।</DeepDrillExhausted>
+  <!-- EN: Deep drill resources exhausted. -->
+  <DeepDrillExhaustedNoFallback>গভীর খনন সম্পদ নিঃশেষিত।</DeepDrillExhaustedNoFallback>
+
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining>অবশিষ্ট চার্জ</ChargesRemaining>
+  
+  <!-- Learning helper -->
+  <!-- EN: Learning helper -->
+  <LearningHelper>শিক্ষণ সহায়ক</LearningHelper>
+  <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
+  <LearningHelperTooltip>উপনিবেশের বর্তমান অবস্থার সাথে প্রাসঙ্গিক বিষয় সম্পর্কে আপনাকে তথ্য শেখানোর উদ্দেশ্যে তৈরি ইন-গেম শিক্ষক।</LearningHelperTooltip>
+  <!-- EN: Mark as learned -->
+  <MarkLearned>শেখা হয়েছে হিসেবে চিহ্নিত করুন</MarkLearned>
+  <!-- EN: Already learned -->
+  <AlreadyLearned>ইতিমধ্যে শেখা হয়েছে।</AlreadyLearned>
+  <!-- EN: Filter -->
+  <Filter>ফিল্টার করুন</Filter>
+
+  <!-- Compass -->
+  <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
+  <CompassTip>উত্তর দিকটি দেখায়। উত্তর মেরু উপরে রাখার জন্য ক্যামেরাকে ঘোরাতে ক্লিক করুন।</CompassTip>
+
+  <!-- World route planner -->
+  <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
+  <RoutePlannerButtonTip>পরিকল্পনা মোডে প্রবেশ করতে ক্লিক করুন, যেখানে আপনি আপনার যাত্রা পরিকল্পনা করতে এবং পথের মধ্যবর্তী স্থানগুলোর দূরত্ব গণনা করতে পারবেন।</RoutePlannerButtonTip>
+  <!-- EN: Add two or more waypoints. -->
+  <RoutePlannerAddTwoOrMoreWaypoints>দুটি বা তার বেশি ওয়েপয়েন্ট যোগ করুন।</RoutePlannerAddTwoOrMoreWaypoints>
+  <!-- EN: Add one or more waypoints. -->
+  <RoutePlannerAddOneOrMoreWaypoints>একটি বা একাধিক ওয়েপয়েন্ট যোগ করুন।</RoutePlannerAddOneOrMoreWaypoints>
+  <!-- EN: Total route time: {0} -->
+  <RoutePlannerEstTimeToFinalDest>মোট রুটের সময়: {0}</RoutePlannerEstTimeToFinalDest>
+  <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
+  <RoutePlannerUsingAverageTicksPerMoveWarning>পরিকল্পনা মোড ডিফল্ট কাফেলা গতি ব্যবহার করে। আপনার গতি ভিন্ন হতে পারে।</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- EN: Calculating for: {0} -->
+  <RoutePlannerUsingTicksPerMoveOfCaravan>গণনা করা হচ্ছে: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <!-- EN: Right mouse button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>ডান মাউস বোতাম: ওয়েপয়েন্ট যোগ/বাদ দিন।</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- EN: Left trigger button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>বাম ট্রিগার বোতাম: ওয়েপয়েন্ট যোগ/সরান।</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <!-- EN: ESC: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExit>ESC: পরিকল্পনা মোড থেকে প্রস্থান করুন।</RoutePlannerPressEscapeToExit>
+  <!-- EN: {Key:Cancel}: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExitController>{কী:বাতিল}: পরিকল্পনা মোড থেকে প্রস্থান করুন।</RoutePlannerPressEscapeToExitController>
+  <!-- EN: ESC: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: কাফেলা গঠন ডায়ালগে ফিরে যান।</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <!-- EN: {Key:Cancel}: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{কী:বাতিল}: কাফেলা গঠন ডায়ালগে ফিরে যান।</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToWaypoint>আনুমানিক ভ্রমণের সময়: {0}</EstimatedTimeToWaypoint>
+  <!-- EN: Est. travel time (from previous waypoint): {0} -->
+  <EstimatedTimeToWaypointFromPrevious>আনুমানিক ভ্রমণের সময় (আগের পথে আসা থেকে): {0}</EstimatedTimeToWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToTile>আনুমানিক ভ্রমণের সময়: {0}</EstimatedTimeToTile>
+  <!-- EN: Foraged food amount -->
+  <ForagedFoodAmount>সংগৃহীত খাদ্য পরিমাণ</ForagedFoodAmount>
+
+  <!-- Outfits -->
+  <!-- EN: Anything -->
+  <OutfitAnything>যেকোনো কিছু</OutfitAnything>
+  <!-- EN: Worker -->
+  <OutfitWorker>কর্মী</OutfitWorker>
+  <!-- EN: Soldier -->
+  <OutfitSoldier>সৈনিক</OutfitSoldier>
+  <!-- EN: Nudist -->
+  <OutfitNudist>নগ্নবাদী</OutfitNudist>
+  <!-- EN: Spacefarer -->
+  <OutfitSpacefarer>মহাকাশচারী</OutfitSpacefarer>
+
+  <!-- Hibernatable -->
+  <!-- EN: Hibernating -->
+  <HibernatableHibernating>হাইবারনেটিং</HibernatableHibernating>
+  <!-- EN: Starting up -->
+  <HibernatableStartingUp>শুরু হচ্ছে</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <!-- EN: {0}: See available orders... -->
+  <ClickToSeeAvailableOrders_WorldObject>{0}: উপলব্ধ আদেশ দেখুন…</ClickToSeeAvailableOrders_WorldObject>
+  <!-- EN: See available orders... -->
+  <ClickToSeeAvailableOrders_Empty>নির্দেশ দেখুন…</ClickToSeeAvailableOrders_Empty>
+  
+  <!-- Pawn tooltips -->
+  <!-- EN: {0} ({1})\n{2}\n{3} -->
+  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
+  <!-- EN: {0} ({1})\n{2} -->
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
+  <!-- EN: {0}\n{1}\n{2} -->
+  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
+  <!-- EN: {0}\n{1} -->
+  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
+  <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>পতনের হার: {0} / সেকেন্ড ({1} সেকেন্ডে শূন্য হবে)</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <PawnTooltipPsychicEntropyDesc>সাইকিক ক্ষমতা ব্যবহারের পর নিউরাল তাপ বৃদ্ধি পায়। স্বাভাবিক সীমা অতিক্রম করলে কয়েক দিন ধরে চলতে থাকা সাইকিক ব্রেকডাউন হতে পারে।\n\nনিউরাল তাপ সময়ের সাথে সাথে প্রাকৃতিকভাবে হ্রাস পায়। এলটেক্স পোশাক পরিধান করে অথবা ব্যথা পেলে এই প্রক্রিয়া ত্বরান্বিত করা যেতে পারে।</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
+  <PawnTooltipPsychicEntropyPainFocus>ব্যথা বৃদ্ধি\n\nব্যথা মনকে কেন্দ্রীভূত করে এবং স্নায়বিক তাপ অপচয়কে দ্রুত করে।\n\nব্যথার স্তর: {0}\nতাপ পুনরুদ্ধারের বোনাস: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
+  <PawnTooltipPsychicEntropyLimit>নিউরাল হিট লিমিটার টগল করুন। আপনার তাপসীমা অতিক্রম করলে কয়েক দিনের জন্য মানসিক বিপর্যয় হতে পারে। এটি স্থায়ী ক্ষতি করবে না।</PawnTooltipPsychicEntropyLimit>
+  <!-- EN: Psyfocus: {0} -->
+  <PawnTooltipPsyfocus>সাইকোফোকাস: {0}</PawnTooltipPsyfocus>
+  
+  <!-- Pawn tooltip description -->
+  <!-- EN: {0} {1} -->
+  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
+
+  <!-- Rewards -->
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
+  <Reward_Pawn_DropPod>একজন {0_age} বছর বয়সী {0_title} {0_nameDef} একটি পরিবহন পডে {0_relationInfoInParentheses} এসে পৌঁছাবে।</Reward_Pawn_DropPod>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_WalkIn>একজন {0_age} বছর বয়সী {0_title} {0_nameDef} আসবে এবং আপনার সাথে যোগ দেবে {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_Caravan>একজন {0_age} বছর বয়সী {0_title} {0_nameDef} আপনার সাথে যোগ দেবে {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <!-- EN: transport pods with the following resources will arrive (total value {1}):\n\n{0} -->
+  <Reward_Items>নিম্নলিখিত সম্পদসহ পরিবহন পডগুলি আসবে (মোট মূল্য {1}):\n\n{0}</Reward_Items>
+  <!-- EN: you will receive (total value {1}):\n\n{0} -->
+  <Reward_Items_Caravan>আপনি গ্রহণ করবেন (মোট মূল্য {1}):\n\n{0}</Reward_Items_Caravan>
+  <!-- EN: your faction relations with {0_name} will improve by {1} -->
+  <Reward_Goodwill>আপনার দলীয় সম্পর্ক {0_name}-এর সাথে {1} দ্বারা উন্নত হবে।</Reward_Goodwill>
+  <!-- EN: you will be taken to the stars -->
+  <Reward_PassageOffworld>তুমি নক্ষত্রের দিকে যাবে।</Reward_PassageOffworld>
+  <!-- EN: Passage offworld -->
+  <Reward_PassageOffworld_Label>অফওয়ার্ল্ড যাত্রা</Reward_PassageOffworld_Label>
+  <!-- EN: you can loot everything from the camp -->
+  <Reward_CampLoot>আপনি শিবির থেকে সবকিছু লুট করতে পারবেন।</Reward_CampLoot>
+  <!-- EN: Camp loot -->
+  <Reward_CampLoot_Label>शिवির লুট</Reward_CampLoot_Label>
+  <!-- EN: It is unclear what will happen if you accept this quest -->
+  <Reward_Unknown>এই অনুসন্ধানের প্রস্তাব গ্রহণ করলে কী ঘটবে তা স্পষ্ট নয়।</Reward_Unknown>
+  <!-- EN: Unknown -->
+  <Reward_Unknown_Label>অজানা</Reward_Unknown_Label>
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp>দর্শনার্থীরা আপনার জন্য কাজ করবে এবং যুদ্ধ করবে।</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label>দর্শনার্থীর সাহায্য</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>নতুন সাইলিঙ্ক স্তর</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony>{PAWNNAME} সাইকোলিংক লাভ করেছে</Reward_BestowingCeremony>
+  <!-- EN: Shuttle loot -->
+  <Reward_ShuttleLoot_Label>শাটল লুট</Reward_ShuttleLoot_Label>
+  <!-- EN: you can deconstruct and loot the shuttle -->
+  <Reward_ShuttleLoot>আপনি শাটলটি ভেঙে লুট করতে পারেন।</Reward_ShuttleLoot>
+  <!-- EN: Possible future reward -->
+  <Reward_PossibleFutureReward_Label>সম্ভাব্য ভবিষ্যৎ পুরস্কার</Reward_PossibleFutureReward_Label>
+  <!-- EN: a reward possibly granted in the future -->
+  <Reward_PossibleFutureReward>একটি পুরস্কার যা ভবিষ্যতে সম্ভবত দেওয়া হতে পারে।</Reward_PossibleFutureReward>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label>শিরোনাম {TITLE}</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title>{PAWNNAME} {FACTION} থেকে {TITLE} উপাধি লাভ করলো।</Reward_Title>
+  <!-- EN: value {0} -->
+  <TotalValue>মান {0}</TotalValue>
+  
+  <!-- Bladelink -->
+  <!-- EN: Bonded to: {0} -->
+  <BondedWith>বাঁধা পড়েছে: {0}</BondedWith>
+  <!-- EN: Not yet bonded -->
+  <NotBonded>বন্ধন হয়নি এখনো</NotBonded>
+  <!-- EN: bonded to someone else -->
+  <BladelinkBondedToSomeoneElse>অন্যের সাথে আবদ্ধ</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded>বিদ্যমান বন্ধন</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog>একজন ব্যক্তি একই সময়ে কেবল একটি ব্যক্তিত্বসম্পন্ন অস্ত্রের সাথে বন্ধন তৈরি করতে পারে।\n\n{WEAPON_labelShort} সজ্জিত করতে এবং এর সাথে বন্ধন তৈরি করতে, {PAWN_nameDef} এর বর্তমানে বন্ধনযুক্ত অস্ত্র {BONDEDWEAPON_labelShort} প্রথমে ধ্বংস করতে হবে।</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} ইতিমধ্যেই {BONDEDWEAPON_labelShort}-এর সাথে আবদ্ধ।</BladelinkAlreadyBondedMessage>
+
+  <!-- Biocoded weapons -->
+  <!-- EN: biocoded {0} -->
+  <Biocoded>বায়োকোডিত {0}</Biocoded>
+  <!-- EN: Biocoding: {0} -->
+  <CodedFor>বায়োকোডিং: {0}</CodedFor>
+  <!-- EN: biocoded -->
+  <BiocodedCodedForSomeoneElse>বায়োকোডিত</BiocodedCodedForSomeoneElse>
+
+  <!-- Projectile interceptor -->
+  <!-- EN: Intercepts {0} every {1}. -->
+  <InterceptsProjectilesEvery>{0} প্রতি {1} এ বাধা দেয়।</InterceptsProjectilesEvery>
+  <!-- EN: Intercepts {0}. -->
+  <InterceptsProjectiles>{0} перехвачены।</InterceptsProjectiles>
+  <!-- EN: ground and aerial projectiles -->
+  <InterceptsProjectiles_BothProjectiles>স্থল ও আকাশ projectiles</InterceptsProjectiles_BothProjectiles>
+  <!-- EN: ground projectiles -->
+  <InterceptsProjectiles_GroundProjectiles>স্থল প্রজেক্টাইল</InterceptsProjectiles_GroundProjectiles>
+  <!-- EN: aerial projectiles -->
+  <InterceptsProjectiles_AerialProjectiles>বায়বীয় প্রক্ষেপণ</InterceptsProjectiles_AerialProjectiles>
+
+  <!-- Condition causers -->
+  <!-- EN: Affected gender -->
+  <AffectedGender>প্রভাবিত লিঙ্গ</AffectedGender>
+
+  <!-- Hediff misc -->
+  <!-- EN: Caused by: {0} -->
+  <CausedByHediff>{0}-এর কারণে হয়েছে</CausedByHediff>
+  
+  <!-- EN: {DAMAGE_label} weakness -->
+  <DamageFactorWeakness>ক্ষতির দুর্বলতা</DamageFactorWeakness>
+  <!-- EN: {DAMAGE_label} resistance -->
+  <DamageFactorResistance>ক্ষতির প্রতিরোধ</DamageFactorResistance>
+  <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
+  <DamageFactor>এই প্রাণী যে ক্ষতি গ্রহণ করে, তা এই পরিমাণ দ্বারা গুণ করা হয়।</DamageFactor>
+  
+  <!-- Healing -->
+  <!-- EN: {0_nameDef}'s {1} was healed. -->
+  <HealingHealHediff>{0_nameDef}-এর {1} সারানো হয়েছে।</HealingHealHediff>
+  <!-- EN: {0_nameDef}'s {1} was restored. -->
+  <HealingRestoreBodyPart>{0_nameDef}-এর {1} পুনরুদ্ধার করা হয়েছে।</HealingRestoreBodyPart>
+
+  <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
+  <WarningBuildingCausesHostility>সতর্কতা: এখানে কোনো স্থাপনা স্থাপন করলে {FACTION_name} ক্ষুব্ধ হবে!</WarningBuildingCausesHostility>
+
+  <!-- EN: Choose landing site -->
+  <ChooseLandingSite>অবতরণ স্থান নির্বাচন করুন</ChooseLandingSite>
+
+  <!-- LordJobs -->
+  <!-- EN: Outcome chances at {0} quality -->
+  <LordJobOutcomeChances>{0} মানের ফলাফলের সম্ভাবনা</LordJobOutcomeChances>
+  <!-- EN: Expected duration -->
+  <ExpectedLordJobDuration>প্রত্যাশিত সময়কাল</ExpectedLordJobDuration>
+
+  <!-- Rituals -->
+  <!-- EN: ritual -->
+  <Ritual>অনুষ্ঠান</Ritual>
+
+  <!-- EN: Takes place at -->
+  <RitualTakesPlaceAt>সংঘটিত হচ্ছে</RitualTakesPlaceAt>
+  <!-- EN: Any {0} -->
+  <RitualTargetThingDefsInfo>যেকোনো {0}</RitualTargetThingDefsInfo>
+  <!-- EN: Attending {0} -->
+  <LordReportAttending>অ্যাটেন্ডিং {0}</LordReportAttending>
+  <!-- EN: {0} has been canceled. -->
+  <RitualCalledOff>{0} বাতিল করা হয়েছে।</RitualCalledOff>
+  <!-- EN: {0} was not completed because of lack of attendance. -->
+  <RitualNobodyAttended>{0} এ অংশগ্রহণকারীর অভাবে সম্পন্ন করা যায়নি।</RitualNobodyAttended>
+  <!-- EN: {0} has been completed. -->
+  <RitualFinished>{0} সম্পন্ন হয়েছে।</RitualFinished>
+  <!-- EN: ends in {0} -->
+  <RitualEndsIn>{0} এ শেষ হয়েছে</RitualEndsIn>
+  <!-- EN: Can start any time -->
+  <RitualStartAnyTime>গুরুত্বপূর্ণ নিয়ম:\n- কোনো ব্যাখ্যা, নোট বা বন্ধনীর মধ্যে মন্তব্য নয়\n- শুধুমাত্র একটি অনুবাদ - কোনো বিকল্প নয় [শুধুমাত্র ১,</RitualStartAnyTime>
+  <!-- EN: Can start after event -->
+  <RitualStartEvent>ঘটনার পরে শুরু করা যেতে পারে।</RitualStartEvent>
+  <!-- EN: Focus objects -->
+  <RitualFocusObjects>দৃষ্টি আকর্ষণের বস্তু</RitualFocusObjects>
+  <!-- EN: Participating roles -->
+  <RitualParticipatingRoles>অংশগ্রহণকারী ভূমিকা</RitualParticipatingRoles>
+  <!-- EN: Organizers -->
+  <Organizers>সংগঠকগণ</Organizers>
+  <!-- EN: Quality factors -->
+  <QualityFactors>গুণমান নির্ধারক</QualityFactors>
+  <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
+  <QualityFactorTooltipUncertain>এই শর্ত পূরণ হতে পারে, পরিস্থিতির ওপর নির্ভর করে।\n\nযদি এটি পূরণ হয়, তাহলে গুণগত মান বোনাস প্রযোজ্য হবে।</QualityFactorTooltipUncertain>
+  <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
+  <QualityFactorTooltipNotFulfilled>এই শর্তটি পূরণ হয়নি।\n\nগুণমান বোনাস প্রযোজ্য হবে না।</QualityFactorTooltipNotFulfilled>
+  <!-- EN: Spectators -->
+  <Spectators>দর্শকগণ</Spectators>
+  <!-- EN: Not participating -->
+  <NotParticipating>অংশগ্রহণ করছে না।</NotParticipating>
+  <!-- EN: Drag and drop or left/right click to move people. -->
+  <DragPawnsToRolesInfo>টেনে বা বাম/ডান ক্লিক করে লোকজনকে সরান।</DragPawnsToRolesInfo>
+  <!-- EN: Drag and drop or click to move people. -->
+  <DragPawnsToRolesInfoController>মানুষজনকে টেনে বা ক্লিক করে সরান।</DragPawnsToRolesInfoController>
+  <!-- EN: A slave. The human property of others. -->
+  <RitualBeginSlaveDesc>একজন ক্রীতদাস। অন্যের সম্পত্তি হিসেবে বিবেচিত মানুষ।</RitualBeginSlaveDesc>
+  <!-- EN: {0_labelShort} is sleeping. If included in the event, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>{0_labelShort} ঘুমোচ্ছে। ঘটনার অন্তর্ভুক্ত হলে, {0_pronoun} জেগে অংশগ্রহণের জন্য প্রস্তুত হবে।</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the event. -->
+  <RitualBeginSleepingWarning>কিছু নির্বাচিত অংশগ্রহণকারী ঘুমোচ্ছেন। আপনি ইভেন্ট শুরু করলে তারা জেগে উঠবে।</RitualBeginSleepingWarning>
+  <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
+  <RitualRoleRequiresSocialRole>এই কাজটি {0} সামাজিক ভূমিকা ધરા একজন উপনিবেশিক দ্বারা করাই ভালো।\n\nযদি এই ভূমিকা ব্যতীত অন্য কেউ এই কাজটি করে, তবে আপনি নিম্নলিখিত বোনাসগুলি পাবেন না:</RitualRoleRequiresSocialRole>
+  <!-- EN: No substitute available for the role of {0}. -->
+  <RitualRoleCantSubstitute>{0} এর ভূমিকা পূরণের জন্য কোনো বিকল্প নেই।</RitualRoleCantSubstitute>
+  <!-- EN: {0} progress -->
+  <RitualOutcomeProgress>{0} অগ্রগতি</RitualOutcomeProgress>
+  <!-- EN: {0} quality depends on -->
+  <RitualOutcomeQualityAbstract>{0} গুণমান নির্ভর করে</RitualOutcomeQualityAbstract>
+  <!-- EN: {0} total quality was {1}, determined by these factors -->
+  <RitualOutcomeQualitySpecific>{0} total quality was {1}, determined by these factors</RitualOutcomeQualitySpecific>
+  <!-- EN: Performed recently -->
+  <RitualOutcomePerformedRecently>সম্প্রতি সম্পন্ন হয়েছে</RitualOutcomePerformedRecently>
+  <!-- EN: {0} expectations -->
+  <RitualQualityExpectations>{0} প্রত্যাশা</RitualQualityExpectations>
+  <!-- EN: Ritual ambience sound -->
+  <RitualAmbienceSound>অনুষ্ঠানিক পরিবেশ শব্দ</RitualAmbienceSound>
+  <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
+  <RitualQualityLowWarning>মোট {0} গুণমান {1} এর নিচে রয়েছে। অগ্রসর হলে সম্ভবত আপনার কলোনির উপর নেতিবাচক প্রভাব পড়বে।\n\nআপনি নিশ্চিত?</RitualQualityLowWarning>
+  <!-- EN: No reachable appropriate place to speak. -->
+  <AbilitySpeechDisabledNoSpot>কথা বলার মতো কোনো উপযুক্ত স্থান নেই।</AbilitySpeechDisabledNoSpot>
+  <!-- EN: {0_labelShort} is incapable of {1}. -->
+  <AbilityDisabledNoCapacity>{0_labelShort} {1} করতে অক্ষম।</AbilityDisabledNoCapacity>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>অনুষ্ঠানে অংশগ্রহণকারীরা {1} দিনের জন্য {0} মেজাজ অর্জন করে।</RitualOutcomeExtraDesc_Mood>
+  <!-- EN: This ritual has no quality offsets, so the best outcome is always expected -->
+  <RitualOutcomeNoQuality>এই অনুষ্ঠানে কোনো গুণমান অফসেট নেই, তাই সেরা ফলাফল সবসময় প্রত্যাশিত।</RitualOutcomeNoQuality>
+
+  <!-- EN: Begin -->
+  <Begin>গুরুতর নিয়ম:</Begin>
+  <!-- EN: Begin {0} -->
+  <BeginRitual>শুরু {0}</BeginRitual>
+  <!-- EN: Begin {0} for {1} -->
+  <BeginRitualFor>{0} এর জন্য শুরু {1}</BeginRitualFor>
+  <!-- EN: {0} (out of {1}) -->
+  <QualityOutOf>{0} (মোট {1})</QualityOutOf>
+  <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
+  <DateRitualNoObligation>{0} একটি তারিখ-নির্দিষ্ট আচার। আপনি {1}, {2} তারিখে এটি শুরু করতে পারবেন।</DateRitualNoObligation>
+
+  <!-- EN: Replace with -->
+  <PreceptReplaceWith>প্রতিস্থাপন করুন</PreceptReplaceWith>
+  <!-- EN: Ritual seat of {IDEOS} -->
+  <RitualSeatOf>{আইডিওস}-এর আনুষ্ঠানিক আসন</RitualSeatOf>
+  <!-- EN: Expected quality -->
+  <ExpectedLordJobQuality>প্রত্যাশিত গুণমান</ExpectedLordJobQuality>
+  <!-- EN: Starting quality -->
+  <StartingQuality>প্রাথমিক গুণমান</StartingQuality>
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <RitualPredictedOutcomeDescPawnStat>'{PAWN_labelShort}' এর {1}</RitualPredictedOutcomeDescPawnStat>
+  <!-- EN: Room beauty -->
+  <RitualPredictedOutcomeDescRoomBeauty>রুমের সৌন্দর্য</RitualPredictedOutcomeDescRoomBeauty>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}-এর প্রত্যাশা</RitualPredictedOutcomeDescPawnExpectations>
+  <!-- EN: Loved one present -->
+  <RitualOutcomeLovedOnePresentLabel>প্রিয়জনের উপহার</RitualOutcomeLovedOnePresentLabel>
+  <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
+  <RitualOutcomeLovedOnePresentTip>যেকোনো ব্যক্তি যাঁকে {PAWN_labelShort} বন্ধু অথবা তার চেয়ে বেশি মনে করে।</RitualOutcomeLovedOnePresentTip>
+
+  <!-- EN: Any of these -->
+  <RitualOutcomeLabelAnyOfThese>এগুলোর যেকোনো একটি</RitualOutcomeLabelAnyOfThese>
+  <!-- EN: Replaces {PAWN_labelShort} -->
+  <RitualRoleReplaces>{PAWN_labelShort}-কে প্রতিস্থাপন করে</RitualRoleReplaces>
+
+  <!-- EN: present -->
+  <Present>উপস্থিত</Present>
+  <!-- EN: {0} used -->
+  <Used>{0} ব্যবহৃত</Used>
+  <!-- EN: {0} starting quality -->
+  <StartingRitualQuality>{0} শুরুর মান</StartingRitualQuality>
+
+  <!-- EN: up to {0} quality -->
+  <OutcomeBonusDesc_Quality>{0} মানের পর্যন্ত</OutcomeBonusDesc_Quality>
+  <!-- EN: {0} quality -->
+  <OutcomeBonusDesc_QualitySingleOffset>{0} গুণমান</OutcomeBonusDesc_QualitySingleOffset>
+  <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
+  <OutcomeLetterLabel>ফলাফল লেবেল আচার</OutcomeLetterLabel>
+  <!-- EN: {0} max -->
+  <MaxValue>{0} সর্বোচ্চ</MaxValue>
+
+  <!-- EN: {0} of -->
+  <ThingOf>: {0} এর</ThingOf>
+  <!-- EN: {0} of {1} -->
+  <ThingOfSource>: {0} এর মধ্যে {1}</ThingOfSource>
+  <!-- EN: {0} of {1} and {2} -->
+  <ThingOfTwoSources>{0} এর মধ্যে {1} এবং {2}</ThingOfTwoSources>
+
+  <!-- Gas types -->
+  <!-- EN: blind smoke -->
+  <BlindSmoke>অন্ধ ধোঁয়া</BlindSmoke>
+  <!-- EN: tox gas -->
+  <ToxGas>বিষাক্ত গ্যাস</ToxGas>
+  <!-- EN: rot stink -->
+  <RotStink>পচন দুর্গন্ধ</RotStink>
+  <!-- EN: deadlife dust -->
+  <DeadlifeDust>ডেডলাইফ ধুলো</DeadlifeDust> 
+
+  <!-- Abilities -->
+  <!-- EN: must be drafted. -->
+  <AbilityDisabledUndrafted>খসড়া তৈরি করা হয়েছে।</AbilityDisabledUndrafted>
+  <!-- EN: ability on cooldown. It will be available in {0}. -->
+  <AbilityOnCooldown>ক্ষমতাটি কুলডাউনে আছে। এটি {0}-এ উপলব্ধ হবে।</AbilityOnCooldown>
+  <!-- EN: ability out of charges. -->
+  <AbilityNoCharges>চার্জের বাইরে ক্ষমতা।</AbilityNoCharges>
+  <!-- EN: ability already queued. -->
+  <AbilityAlreadyQueued>দক্ষতা ইতিমধ্যে সারিবদ্ধ।</AbilityAlreadyQueued>
+  <!-- EN: Ability ready for {PAWN_nameDef}: {0} -->
+  <AbilityReadyLabel>{PAWN_nameDef}-এর জন্য ক্ষমতা প্রস্তুত: {0}</AbilityReadyLabel>
+  <!-- EN: Abilities ready for {PAWN_nameDef}: {0} -->
+  <AbilitiesReadyLabel>{PAWN_nameDef}-এর জন্য প্রস্তুত দক্ষতা: {0}</AbilitiesReadyLabel>
+  <!-- EN: {0_nameDef} is ready to use {1}. -->
+  <AbilityReadyText>{0_nameDef} ব্যবহার করার জন্য প্রস্তুত {1}।</AbilityReadyText>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <AbilityDisabledInRitual>{0_labelShort} {1}-এ অংশগ্রহণ করছে।</AbilityDisabledInRitual>
+  <!-- EN: Charges -->
+  <Charges>চার্জ</Charges>
+
+  <!-- EN: {0_nameDef} is in a mental state. -->
+  <PawnIsInMentalState>{0_nameDef} একটি মানসিক অবস্থায় রয়েছে।</PawnIsInMentalState>
+  <!-- EN: {0_nameDef} is in an aggressive mental state. -->
+  <PawnIsInAggroMentalState>{0_nameDef} একটি আক্রমণাত্মক মানসিক অবস্থায় রয়েছে।</PawnIsInAggroMentalState>
+
+  <!-- EN: Disabled work -->
+  <DisabledWorkLabel>অক্ষম কাজ</DisabledWorkLabel>
+  <!-- EN: Disabled needs -->
+  <DisabledNeedsLabel>প্রতিবন্ধী চাহিদা</DisabledNeedsLabel>
+
+  <!-- Glowers -->
+  <!-- EN: change color -->
+  <GlowerChangeColor>রঙ পরিবর্তন করুন।</GlowerChangeColor>
+  <!-- EN: Change the color of the light. -->
+  <GlowerChangeColorDescription>আলোর রং পরিবর্তন করুন।</GlowerChangeColorDescription>
+  <!-- EN: You must research {0} to change light color. -->
+  <GlowerChangeColorNeedsResearch>আলোর রং পরিবর্তন করতে {0} গবেষণা করতে হবে।</GlowerChangeColorNeedsResearch>
+
+  <!-- Shields -->
+  <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
+  <ShieldPersonalTip>একটি ব্যক্তিগত শিল্ড যা আগত প্রজেক্টাইল বা শার্ড বন্ধ করার চেষ্টা করবে। এটি পরিধানকারীকে ফায়ার করতে বাধা দেয় এবং ইএমপি দ্বারা আঘাত পেলে তাৎক্ষণিকভাবে বন্ধ হয়ে যায়।</ShieldPersonalTip>
+
+  <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
+  <UnrecruitableDesc>{PAWN_nameDef} তাদের আবাসস্থলের প্রতি এতটাই অনুগত যে বন্দি করা হলে {PAWN_pronoun} নিয়োগে রাজি হবেন না।</UnrecruitableDesc>
+
+  <!-- EN: Random -->
+  <Random>র‍্যান্ডম</Random>
+
+  <!-- EN: Plant {0_label} -->
+  <PlantThing>উদ্ভিদ {0_label}</PlantThing>
+  <!-- EN: Plant a {0_label} in a chosen area. -->
+  <PlantThingDesc>একটি নির্বাচিত স্থানে {0_label} রোপণ করুন।</PlantThingDesc>
+  <!-- EN: Cancel planting {0_label} -->
+  <CancelPlantThing>চারা রোপণ বাতিল করুন {0_label}</CancelPlantThing>
+  <!-- EN: Cancel planting the {0_label}. -->
+  <CancelPlantThingDesc>{0_label} রোপণ বাতিল করা হলো।</CancelPlantThingDesc>
+
+  <!-- EN: another gathering is in progress. -->
+  <AbilitySpeechDisabledAnotherGatheringInProgress>আরেকটি সমাবেশ চলছে।</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <!-- EN: Next speech ready in -->
+  <AbilitySpeechCooldown>পরবর্তী বক্তব্য প্রস্তুত হচ্ছে</AbilitySpeechCooldown>
+  <!-- EN: Initiated at -->
+  <AbilitySpeechTargetsLabel>সূচনা করা হয়েছে</AbilitySpeechTargetsLabel>
+  
+  <!-- Books -->
+
+  <!-- EN: Benefits -->
+  <Benefits>সুবিধা</Benefits>
+  <!-- EN: Dangers -->
+  <Dangers>বিপদ</Dangers>
+  <!-- EN: already unlocked -->
+  <AlreadyUnlocked>আনলক করা হয়েছে</AlreadyUnlocked>
+  <!-- EN: when discovered -->
+  <WhenDiscovered>আবিষ্কৃত হলে</WhenDiscovered>
+  
+  <!-- EN: Was driven into a mental break after reading {0}. -->
+  <BookMentalBreakMessage>{0} পড়ে মানসিক ভাবে ভেঙে পড়েছে।</BookMentalBreakMessage>
+  <!-- EN: {0} done (complete in {1} hours) -->
+  <BookReadProgress>{0} সম্পন্ন ({1} ঘন্টায় সম্পন্ন হবে)</BookReadProgress>
+  
+  <!-- EN: learning speed -->
+  <BookLearningModifier>শেখার গতি</BookLearningModifier>
+  <!-- EN: Mental break chance -->
+  <BookMentalBreak>মানসিক অবসাদ সম্ভাবনা</BookMentalBreak>
+  
+  <!-- EN: {BOOK_labelShort} is not readable -->
+  <BookNotReadable>{BOOK_labelShort} পাঠযোগ্য নয়।</BookNotReadable>
+  <!-- EN: {PAWN_nameDef} can't read -->
+  <BookCantRead>{PAWN_nameDef} পড়তে পারছে না</BookCantRead>
+  <!-- EN: {PAWN_nameDef} must be a {STAGES} -->
+  <BookCantBeStage>{PAWN_nameDef} অবশ্যই একটি {STAGES} হতে হবে।</BookCantBeStage>
+  <!-- EN: {PAWN_nameDef} is blind -->
+  <BookBlind>{PAWN_nameDef} অন্ধ।</BookBlind>
+  
+  <!-- EN: max level {0} -->
+  <BookMaxLevel>সর্বোচ্চ স্তর {0}</BookMaxLevel>
+  
+  <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
+  <ReadingReportHeader>{0} পড়া সম্পন্ন হয়েছে ({2} ঘন্টায় সম্পন্ন) {1}</ReadingReportHeader>
+  
+  <!-- EN: Assign reading -->
+  <ReadingDialogTitle>পঠন নির্ধারণ করুন</ReadingDialogTitle>
+  <!-- EN: Assign to {0} -->
+  <ReadingAssignTo>{0}-কে নিযুক্ত করুন</ReadingAssignTo>
+  <!-- EN: Assign -->
+  <ReadingAssign>অর্পন করুন</ReadingAssign>
+
+  <!-- EN: The books currently on this bookshelf. -->
+  <ContainedBooksDesc>এই বুকশেলফে বর্তমানে যে বইগুলো আছে।</ContainedBooksDesc>
+  
+  <!-- EN: Books stored -->
+  <BookshelfStoredInspect>সংরক্ষিত বই</BookshelfStoredInspect>
+  <!-- EN: Reading bonus in room -->
+  <BookshelfReadingBonusInspect>ঘরের রিডিং বোনাস</BookshelfReadingBonusInspect>
+
+  <!-- EN: Remove this book from the bookshelf. -->
+  <EjectBookTooltip>বইটি বুকশেলফ থেকে সরিয়ে ফেলুন।</EjectBookTooltip>
+  
+  <!-- Pushing -->
+  <!-- EN: Push to... -->
+  <CommandPushTo>ঠেলাও…</CommandPushTo>
+  <!-- EN: requires {0} -->
+  <RequiredCapacity>{0} প্রয়োজন।</RequiredCapacity>
+
+  <!-- Pocket Maps -->
+  <!-- EN: Unable to enter {0}, destination is blocked -->
+  <UnableToEnterPortal>{0} এ প্রবেশ করা সম্ভব নয়, গন্তব্য পথরুদ্ধ।</UnableToEnterPortal>
+
+  <!-- EN: This category of research has not been discovered. -->
+  <ResearchNotDiscovered>এই গবেষণার বিভাগটি আবিষ্কার করা হয়নি।</ResearchNotDiscovered>
+
+  <!-- EN: Emergence -->
+  <Emergence>উদ্ভব</Emergence>
+  
+  <!-- EN: remove {0} -->
+  <RemovePart>সরানো হয়েছে {0}</RemovePart>
+
+  <!-- EN: {GERUND} {TARGETLABEL} at -->
+  <DoWorkAtThing>{GERUND} {TARGETLABEL} এ</DoWorkAtThing>
+  <!-- EN: can be studied in {0} -->
+  <CanBeStudiedInDuration>{0} তে অধ্যয়ন করা যেতে পারে</CanBeStudiedInDuration>
+  
+  <!-- EN: About to explode -->
+  <AboutToExplode>বিস্ফোরণ আসন্ন।</AboutToExplode>
+  <!-- EN: No fuel to eject -->
+  <RefuelableNoFuelToEject>ইজেক্ট করার জন্য কোনো জ্বালানি নেই।</RefuelableNoFuelToEject>
+  
+  <!-- EN: New Anomaly expansion available now! -->
+  <MainScreen_AnomalyAvailableNow>নতুন অ্যানোমালি সম্প্রসারণ এখন উপলব্ধ!</MainScreen_AnomalyAvailableNow>
+
+  <!-- EN: Disabled by scenario -->
+  <DisabledByScenario>দৃশ্যকল্প দ্বারা নিষ্ক্রিয় করা হয়েছে</DisabledByScenario>
+
+  <!-- EN: blocked by roof -->
+  <BlockedByRoof>ছাদ দ্বারা অবরুদ্ধ</BlockedByRoof>
+  <!-- EN: Blocked by terrain (requires {0_label} terrain support) -->
+  <BlockedByTerrain>ভূখণ্ড দ্বারা অবরুদ্ধ ( {0_label} ভূখণ্ড সমর্থন প্রয়োজন)</BlockedByTerrain>
+
+  <!-- Craters -->
+  <!-- EN: Fill in -->
+  <DesignatorFillIn>পূরণ করুন</DesignatorFillIn>
+  <!-- EN: Designate this crater to be filled in. A colonist assigned to construction will fill it in. -->
+  <DesignatorFillInDesc>এই খাদটি ভরাট করার জন্য চিহ্নিত করা হলো। নির্মাণ কাজে নিযুক্ত একজন উপনিবেশকারী এটি ভরাট করবে।</DesignatorFillInDesc>
+
+  <!-- Hacking -->
+  <!-- EN: Hack progress -->
+  <HackProgress>হ্যাকিং অগ্রগতি</HackProgress>
+  <!-- EN: hacking speed -->
+  <HackingSpeed>হ্যাকিং গতি</HackingSpeed>
+  <!-- EN: {0}'s -->
+  <HackingLastUser>{0}-এর</HackingLastUser>
+  <!-- EN: hacked -->
+  <Hacked>হ্যাক করা হয়েছে</Hacked>
+  <!-- EN: Terminals hacked -->
+  <TerminalsHacked>টার্মিনাল হ্যাক করা হয়েছে</TerminalsHacked>
+  <!-- EN: Intellectual needed -->
+  <IntellectualSkillPrerequisite>বুদ্ধিমান প্রয়োজন</IntellectualSkillPrerequisite>
+  <!-- EN: Auto hack -->
+  <AutoHack>স্বয়ংক্রিয় হ্যাক</AutoHack>
+  <!-- EN: When enabled, researchers will automatically hack this. -->
+  <AutoHackDesc>সক্রিয় করা হলে, গবেষকগণ স্বয়ংক্রিয়ভাবে এটি হ্যাক করবেন।</AutoHackDesc>
+
+  <!-- World -->
+  <!-- EN: View {LAYER_label} -->
+  <WorldSelectLayer>স্তর {LAYER_label} দেখুন</WorldSelectLayer>
+  <!-- EN: Jump to location -->
+  <WorldJumpTo>অবস্থানে যান</WorldJumpTo>
+  <!-- EN: Find a colony, caravan, or quest location on the world map. -->
+  <WorldJumpToDesc>বিশ্ব মানচিত্রে একটি কলোনি, কাফেলা অথবা অনুসন্ধানের স্থান খুঁজে বের করো।</WorldJumpToDesc>
+  <!-- EN: Nothing to jump to. -->
+  <NothingToJumpTo>যাওয়ার মতো কিছু নেই।</NothingToJumpTo>
+  <!-- EN: cannot function in {0} -->
+  <CannotFunctionOnLayer>{0} এ কাজ করতে পারছে না।</CannotFunctionOnLayer>
+  <!-- EN: New settlement -->
+  <NewSettlement>নতুন বসতি</NewSettlement>
+  <!-- EN: Settled -->
+  <Settled>বসতি স্থাপন করা হয়েছে</Settled>
+  <!-- EN: Abandoned -->
+  <Abandoned>পরিত্যক্ত</Abandoned>
+  <!-- EN: Cannot perform {GERUND} {LAYER} -->
+  <CannotPerformPlanetLayer>{GERUND} {LAYER} করা সম্ভব নয়।</CannotPerformPlanetLayer>
+  <!-- EN: This will not affect you {GERUND} {LAYER}. -->
+  <ThisWillNotAffectLayer>এটা আপনাকে প্রভাবিত করবে না {GERUND} {LAYER}।</ThisWillNotAffectLayer>
+
+  <!-- Pocket maps -->
+  <!-- EN: Enter {0} -->
+  <EnterPortal>{0} প্রবেশ করুন</EnterPortal>
+  <!-- EN: Entering {0} -->
+  <EnteringPortal>{0} এ প্রবেশ করা হচ্ছে</EnteringPortal>
+  <!-- EN: Select people and items to enter the {0}. -->
+  <CommandEnterPortalDesc>{0}-এ প্রবেশ করার জন্য মানুষ এবং জিনিসপত্র নির্বাচন করুন।</CommandEnterPortalDesc>
+  <!-- EN: Cancel entering -->
+  <CommandCancelEnterPortal>প্রবেশ বাতিল করুন</CommandCancelEnterPortal>
+  <!-- EN: Cancel exiting -->
+  <CommandCancelExitPortal>বাতিল করুন প্রস্থান</CommandCancelExitPortal>
+  <!-- EN: Cancel loading people or items into this. -->
+  <CommandCancelEnterPortalDesc>এই স্থানে মানুষ বা জিনিসপত্র লোড করা বাতিল করুন।</CommandCancelEnterPortalDesc>
+  <!-- EN: Exit {0} -->
+  <ExitPortal>প্রস্থান {0}</ExitPortal>
+
+  <!-- CompProjectileInterceptor -->
+  <!-- EN: Shield energy -->
+  <ShieldEnergy>ফলকের শক্তি</ShieldEnergy>
+  <!-- EN: Shield cooldown -->
+  <ShieldTimeToRecovery>Shield শীতলীকরণ</ShieldTimeToRecovery>
+  <!-- EN: Shield duration -->
+  <ShieldDuration>সুরক্ষার সময়কাল</ShieldDuration>
+  <!-- EN: On cooldown -->
+  <ShieldOnCooldown>কুলডাউনে আছে</ShieldOnCooldown>
+  <!-- EN: Below minimum energy -->
+  <ShieldBelowMinHitpoints>ন্যূনতম শক্তির নিচে</ShieldBelowMinHitpoints>
+  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
+  <ProjectileInterceptorTip>একটি নিম্ন-কোণের অভিক্ষেপিত শিল্ড যা আগত প্রজেক্টাইল বা শার্ড বন্ধ করার চেষ্টা করবে। এটি ইএমপি দ্বারা আঘাত পেলে তাৎক্ষণিকভাবে বন্ধ হয়ে যায়।</ProjectileInterceptorTip>
+
+  <!-- EN: max {0} -->
+  <MaxOf>সর্বোচ্চ {0}</MaxOf>
+
+  <!-- EN: Cannot use {TARGETABLE_label}: {TARGET_nameDef} already has {2}. -->
+  <CannotUseDueToHediff>{2} ইতিমধ্যে {TARGETABLE_label}: {TARGET_nameDef} এর আছে।</CannotUseDueToHediff>
+
+  <!-- Scanner -->
+  <!-- EN: Blocked by roof -->
+  <CannotUseScannerRoofed>ছাদ দ্বারা অবরুদ্ধ</CannotUseScannerRoofed>
+  <!-- EN: Biome does not contain drillable resources -->
+  <CannotUseScannerNoBedrock>বায়োমটিতে ড্রিল করার মতো সম্পদ নেই।</CannotUseScannerNoBedrock>
+  
+  <!-- Quests -->
+  <!-- EN: Cannot accept this quest {GERUND} {LAYER}. -->
+  <CannotAcceptQuestFromLayer>এই অনুসন্ধানটি গ্রহণ করা সম্ভব নয় {GERUND} {LAYER}।</CannotAcceptQuestFromLayer>
+  <!-- EN: Cannot accept this quest without a permanent colony. -->
+  <CannotAcceptQuestNoMap>স্থায়ী উপনিবেশ ছাড়া এই অনুসন্ধানটি গ্রহণ করা সম্ভব নয়।</CannotAcceptQuestNoMap>
+
+  <!-- EN: {0} of {1} -->
+  <GuildTradeShipName>{0} এর মধ্যে {1}</GuildTradeShipName>
+  
+</LanguageData>

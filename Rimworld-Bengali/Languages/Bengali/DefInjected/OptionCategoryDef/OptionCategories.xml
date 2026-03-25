@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: audio -->
+  <Audio.label>অডিও</Audio.label>
+  
+  <!-- EN: controls -->
+  <Controls.label>নিয়ন্ত্রণসমূহ</Controls.label>
+  
+  <!-- EN: dev -->
+  <Dev.label>ডেভ</Dev.label>
+  
+  <!-- EN: gameplay -->
+  <Gameplay.label>গেমপ্লে</Gameplay.label>
+  
+  <!-- EN: general -->
+  <General.label>সাধারণ</General.label>
+  
+  <!-- EN: graphics -->
+  <Graphics.label>গ্রাফিক্স</Graphics.label>
+  
+  <!-- EN: interface -->
+  <Interface.label>ইন্টারফেস</Interface.label>
+  
+  <!-- EN: mod options -->
+  <Mods.label>মড অপশন</Mods.label>
+  
+</LanguageData>

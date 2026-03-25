@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: campfire -->
+  <Campfire.label>অগ্নিশিখা</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>এটি খাবার রান্না করে এবং তাপ উৎপন্ন করে, তবে কয়েক দিনের পর নিভে যায়। অন্যান্য সকল তাপ উৎসের মতো, এটি এমন একটি আবদ্ধ স্থানে স্থাপন করতে হবে যেখানে তাপ ধরে রাখা যায়। পুনরায় জ্বালানি দেওয়া যায়।</Campfire.description>
+  
+  <!-- EN: cooler -->
+  <Cooler.label>কুলার</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>এটি একটি দেয়ালের মধ্যে স্থাপনযোগ্য শীতাতপ নিয়ন্ত্রণ যন্ত্র। এর একপাশ থেকে ঠান্ডা বাতাস এবং অন্য পাশ থেকে গরম বাতাস নির্গত হয়। গ্রীষ্মকালে ঘর ঠান্ডা করতে অথবা একটি ওয়াক-ইন ফ্রিজার তৈরি করতে এটি ব্যবহার করা যেতে পারে।</Cooler.description>
+  
+  <!-- EN: heater -->
+  <Heater.label>হিটার</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>এটি বিদ্যুৎকে তাপে রূপান্তরিত করে এমন একটি যন্ত্র। একটি নির্দিষ্ট লক্ষ্যমাত্রার তাপমাত্রায় পৌঁছানোর জন্য এটি স্বয়ংক্রিয়ভাবে চালু বা বন্ধ হতে পারে।</Heater.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>প্যাসিভ কুলার</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>এটি একটি ঐতিহ্যবাহী, বিদ্যুতবিহীন কুলার যা জলীয় বাষ্পীভবনের মাধ্যমে কাজ করে। নিয়মিতভাবে কাঠ সরবরাহ করা আবশ্যক। খাদ্য শীতল করার জন্য যথেষ্ট কার্যকর নয়।</PassiveCooler.description>
+  
+  <!-- EN: vent -->
+  <Vent.label>ভেন্ট</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>দুটি ঘরের মধ্যে তাপমাত্রা সমান করার জন্য একটি ভেন্ট, যা দিয়ে মানুষ চলাচল করতে পারে না।</Vent.description>
+  
+</LanguageData>

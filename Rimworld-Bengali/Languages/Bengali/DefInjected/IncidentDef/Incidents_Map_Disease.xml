@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flu (animals) -->
+  <Disease_AnimalFlu.label>প্রাণীজ ফ্লু</Disease_AnimalFlu.label>
+  <!-- EN: Animal disease: Flu -->
+  <Disease_AnimalFlu.letterLabel>পশুর রোগ: ফ্লু</Disease_AnimalFlu.letterLabel>
+  <!-- EN: {0} of your animals have gotten sick from {2}.\n\nMake sure that they get proper treatment and rest as much as possible.\n\nThe following animals have gotten sick -->
+  <Disease_AnimalFlu.letterText>{0} সংখ্যক আপনার পশু {2} থেকে অসুস্থ হয়েছে।\n\nতাদের যথাযথ চিকিৎসা নিশ্চিত করুন এবং যতটা সম্ভব বিশ্রাম দিন।\n\nনিম্নলিখিত পশুরা অসুস্থ হয়েছে:</Disease_AnimalFlu.letterText>
+  
+  <!-- EN: plague (animals) -->
+  <Disease_AnimalPlague.label>পশু প্লেগ</Disease_AnimalPlague.label>
+  <!-- EN: Animal disease: Plague -->
+  <Disease_AnimalPlague.letterLabel>পশুর রোগ: প্লেগ</Disease_AnimalPlague.letterLabel>
+  <!-- EN: {0} of your animals have gotten sick from {2}.\n\nMake sure that they get proper treatment and rest as much as possible.\n\nThe following animals have gotten sick -->
+  <Disease_AnimalPlague.letterText>{0} সংখ্যক আপনার পশু {2} থেকে অসুস্থ হয়েছে।\n\nতাদের যথাযথ চিকিৎসা নিশ্চিত করুন এবং যতটা সম্ভব বিশ্রাম দিন।\n\nনিম্নলিখিত পশুরা অসুস্থ হয়েছে:</Disease_AnimalPlague.letterText>
+  
+  <!-- EN: fibrous mechanites -->
+  <Disease_FibrousMechanites.label>ফাইব্রাস মেকানাইট</Disease_FibrousMechanites.label>
+  <!-- EN: Disease: Fibrous mechanites -->
+  <Disease_FibrousMechanites.letterLabel>ফাইব্রাস মেকানাইট</Disease_FibrousMechanites.letterLabel>
+  <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
+  <Disease_FibrousMechanites.letterText>{0} জনের মধ্যে {1} জন {2} থেকে অসুস্থ হয়েছে।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। নিশ্চিত করুন যে তারা সঠিক চিকিৎসা পাচ্ছে এবং যতটা সম্ভব বিছানায় সময় কাটাচ্ছে।\n\nনিম্নলিখিত {1} জন অসুস্থ হয়েছে:</Disease_FibrousMechanites.letterText>
+  
+  <!-- EN: flu -->
+  <Disease_Flu.label>ফ্লু</Disease_Flu.label>
+  <!-- EN: Disease: Flu -->
+  <Disease_Flu.letterLabel>ফ্লু</Disease_Flu.letterLabel>
+  <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
+  <Disease_Flu.letterText>আপনার {1} এর মধ্যে {0} জন {2} থেকে অসুস্থ হয়েছে।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। নিশ্চিত করুন যে তারা সঠিক চিকিৎসা পায় এবং যত বেশি সম্ভব সময় বিছানায় কাটায়।\n\nনিম্নলিখিত {1} অসুস্থ হয়েছে:</Disease_Flu.letterText>
+  
+  <!-- EN: gut worms -->
+  <Disease_GutWorms.label>পেটের কৃমি</Disease_GutWorms.label>
+  <!-- EN: Disease: Gut worms -->
+  <Disease_GutWorms.letterLabel>পেটের কৃমি</Disease_GutWorms.letterLabel>
+  <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
+  <Disease_GutWorms.letterText>{0} জন আপনার {1} এর মধ্যে {2} থেকে অসুস্থ হয়েছে।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। নিশ্চিত করুন যে তারা সঠিক চিকিৎসা পায় এবং যতটা সম্ভব বিছানায় সময় কাটায়।\n\nনিম্নলিখিত {1} অসুস্থ হয়েছে:</Disease_GutWorms.letterText>
+  
+  <!-- EN: malaria -->
+  <Disease_Malaria.label>ম্যালেরিয়া</Disease_Malaria.label>
+  <!-- EN: Disease: Malaria -->
+  <Disease_Malaria.letterLabel>ম্যালেরিয়া রোগ</Disease_Malaria.letterLabel>
+  <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
+  <Disease_Malaria.letterText>আপনার {1} এর মধ্যে {0} জন {2} থেকে অসুস্থ হয়েছে।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। নিশ্চিত করুন যে তারা সঠিক চিকিৎসা পায় এবং যত বেশি সম্ভব সময় বিছানায় কাটায়।\n\nনিম্নলিখিত {1} অসুস্থ হয়েছে:</Disease_Malaria.letterText>
+  
+  <!-- EN: muscle parasites -->
+  <Disease_MuscleParasites.label>পেশী পরজীবী</Disease_MuscleParasites.label>
+  <!-- EN: Disease: Muscle parasites -->
+  <Disease_MuscleParasites.letterLabel>পেশী পরজীবী রোগ</Disease_MuscleParasites.letterLabel>
+  <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
+  <Disease_MuscleParasites.letterText>{0} জন আপনার {1} এর মধ্যে {2} থেকে অসুস্থ হয়েছে।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। নিশ্চিত করুন যে তারা সঠিক চিকিৎসা পায় এবং যত বেশি সম্ভব সময় বিছানায় কাটায়।\n\nনিম্নলিখিত {1} অসুস্থ হয়েছে:</Disease_MuscleParasites.letterText>
+  
+  <!-- EN: organ decay -->
+  <Disease_OrganDecay.label>অঙ্গ পচন</Disease_OrganDecay.label>
+  <!-- EN: Without a cure or replacement of some kind, {PAWN_labelShort} will die. -->
+  <Disease_OrganDecay.diseaseLethalLetterText>কোনো নিরাময় বা প্রতিস্থাপন ছাড়া, {PAWN_labelShort} মারা যাবে।</Disease_OrganDecay.diseaseLethalLetterText>
+  <!-- EN: Organ decay: {PAWN_labelShort} -->
+  <Disease_OrganDecay.letterLabel>অঙ্গ পচন: {PAWN_labelShort}</Disease_OrganDecay.letterLabel>
+  <!-- EN: {PAWN_labelShort} has developed a flesh-eating infection known as organ decay in {PAWN_possessive} {2}!\n\nThe affected organ will slowly lose function over the next {3} days, before dying completely.\n\nIf you want {PAWN_labelShort} to stay healthy, install a replacement {2}. This could be a bionic, or a natural organ taken from a donor. -->
+  <Disease_OrganDecay.letterText>{PAWN_labelShort}-এর শরীরে মাংস-খাদক সংক্রমণ দেখা দিয়েছে, যা অঙ্গ পচন নামে পরিচিত, {PAWN_possessive} {2}-এ!\n\nআক্রান্ত অঙ্গটি আগামী {3} দিনের মধ্যে ধীরে ধীরে কার্যকারিতা হারাবে, এরপর সম্পূর্ণভাবে অকার্যকর হয়ে যাবে।\n\nযদি আপনি চান {PAWN_labelShort} সুস্থ থাকুক, তাহলে একটি প্রতিস্থাপন {2} স্থাপন করুন। এটি একটি বায়োনিক, অথবা কোনো দাতার কাছ থেকে নেওয়া একটি স্বাভাবিক অঙ্গ হতে পারে।</Disease_OrganDecay.letterText>
+  
+  <!-- EN: plague -->
+  <Disease_Plague.label>প্লেগ</Disease_Plague.label>
+  <!-- EN: Disease: Plague -->
+  <Disease_Plague.letterLabel>প্লেগ রোগ</Disease_Plague.letterLabel>
+  <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
+  <Disease_Plague.letterText>{0} জন আপনার {1}-এর মধ্যে {2} থেকে অসুস্থ হয়েছে।\n\nনিশ্চিত করুন আপনার একটি মেডিকেল বেড এবং একজন ডাক্তার আছে। নিশ্চিত করুন তারা সঠিক চিকিৎসা পায় এবং যত বেশি সম্ভব সময় বিছানায় কাটায়।\n\nনিম্নলিখিত {1} অসুস্থ হয়েছে:</Disease_Plague.letterText>
+  
+  <!-- EN: sensory mechanites -->
+  <Disease_SensoryMechanites.label>সংবেদী মেকানাইট</Disease_SensoryMechanites.label>
+  <!-- EN: Disease: Sensory mechanites -->
+  <Disease_SensoryMechanites.letterLabel>সংবেদী মেকানাইট</Disease_SensoryMechanites.letterLabel>
+  <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
+  <Disease_SensoryMechanites.letterText>{0} জনের মধ্যে {1} জন {2} থেকে অসুস্থ হয়েছে।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। নিশ্চিত করুন যে তারা সঠিক চিকিৎসা পায় এবং যত বেশি সম্ভব সময় বিছানায় কাটায়।\n\nনিম্নলিখিত {1} জন অসুস্থ হয়েছে:</Disease_SensoryMechanites.letterText>
+  
+  <!-- EN: sleeping sickness -->
+  <Disease_SleepingSickness.label>ঘুমের রোগ</Disease_SleepingSickness.label>
+  <!-- EN: Disease: Sleeping sickness -->
+  <Disease_SleepingSickness.letterLabel>ঘুমের রোগ</Disease_SleepingSickness.letterLabel>
+  <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
+  <Disease_SleepingSickness.letterText>আপনার {1} এর মধ্যে {0} জন {2} থেকে অসুস্থ হয়েছে।\n\nএকটি মেডিকেল বেড এবং একজন ডাক্তার নিশ্চিত করুন। নিশ্চিত করুন যে তারা সঠিক চিকিৎসা পায় এবং যত বেশি সম্ভব সময় বিছানায় কাটায়।\n\nনিম্নলিখিত {1} অসুস্থ হয়েছে:</Disease_SleepingSickness.letterText>
+  
+</LanguageData>

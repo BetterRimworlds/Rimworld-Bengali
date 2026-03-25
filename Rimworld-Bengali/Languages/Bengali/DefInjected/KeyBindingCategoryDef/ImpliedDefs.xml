@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: suelos tab -->
+  <Architect_Floors.label>সueloস ট্যাব</Architect_Floors.label>
+  <!-- EN: Key bindings for the "Suelos" section of the Architect menu -->
+  <Architect_Floors.description>আর্কিটেক্ট মেনুর "Suelos" অংশের জন্য কী বাইন্ডিং।</Architect_Floors.description>
+  
+  <!-- EN: mobiliario tab -->
+  <Architect_Furniture.label>ফার্নিচার ট্যাব</Architect_Furniture.label>
+  <!-- EN: Key bindings for the "Mobiliario" section of the Architect menu -->
+  <Architect_Furniture.description>আর্কিটেক্ট মেনুর "ফার্নিচার" অংশের জন্য কী বাইন্ডিং।</Architect_Furniture.description>
+  
+  <!-- EN: diversión tab -->
+  <Architect_Joy.label>বিনোদন ট্যাব</Architect_Joy.label>
+  <!-- EN: Key bindings for the "Diversión" section of the Architect menu -->
+  <Architect_Joy.description>আর্কিটেক্ট মেনুর "বিনোদন" অংশের জন্য কী বাইন্ডিং।</Architect_Joy.description>
+  
+  <!-- EN: varios tab -->
+  <Architect_Misc.label>বিভিন্ন ট্যাব</Architect_Misc.label>
+  <!-- EN: Key bindings for the "Varios" section of the Architect menu -->
+  <Architect_Misc.description>আর্কিটেক্ট মেনুর "ভেরিয়োস" অংশের জন্য কী বাইন্ডিং।</Architect_Misc.description>
+  
+  <!-- EN: órdenes tab -->
+  <Architect_Orders.label>অর্ডার ট্যাব</Architect_Orders.label>
+  <!-- EN: Key bindings for the "Órdenes" section of the Architect menu -->
+  <Architect_Orders.description>আর্কিটেক্ট মেনুর "Órdenes" অংশের জন্য কী বাইন্ডিং।</Architect_Orders.description>
+  
+  <!-- EN: electricidad tab -->
+  <Architect_Power.label>বিদ্যুৎ ট্যাব</Architect_Power.label>
+  <!-- EN: Key bindings for the "Electricidad" section of the Architect menu -->
+  <Architect_Power.description>আর্কিটেক্ট মেনুর "বিদ্যুৎ" অংশের জন্য কী বাইন্ডিং।</Architect_Power.description>
+  
+  <!-- EN: producción tab -->
+  <Architect_Production.label>উৎপাদন ট্যাব</Architect_Production.label>
+  <!-- EN: Key bindings for the "Producción" section of the Architect menu -->
+  <Architect_Production.description>আর্কিটেক্ট মেনুর "উৎপাদন" অংশের জন্য কী বাইন্ডিং।</Architect_Production.description>
+  
+  <!-- EN: seguridad tab -->
+  <Architect_Security.label>সুরক্ষা ট্যাব</Architect_Security.label>
+  <!-- EN: Key bindings for the "Seguridad" section of the Architect menu -->
+  <Architect_Security.description>আর্কিটেক্ট মেনুর "সুরক্ষা" অংশের জন্য কী বাইন্ডিং।</Architect_Security.description>
+  
+  <!-- EN: nave tab -->
+  <Architect_Ship.label>ন্যাভ ট্যাব</Architect_Ship.label>
+  <!-- EN: Key bindings for the "Nave" section of the Architect menu -->
+  <Architect_Ship.description>আর্কিটেক্ট মেনুর "নাভে" অংশের জন্য কী বাইন্ডিং।</Architect_Ship.description>
+  
+  <!-- EN: estructuras tab -->
+  <Architect_Structure.label>গঠন ট্যাব</Architect_Structure.label>
+  <!-- EN: Key bindings for the "Estructuras" section of the Architect menu -->
+  <Architect_Structure.description>আর্কিটেক্ট মেনুর "এস্ট্রাক্টুরাস" অংশের জন্য কী বাইন্ডিং।</Architect_Structure.description>
+  
+  <!-- EN: temperatura tab -->
+  <Architect_Temperature.label>তাপমাত্রা ট্যাব</Architect_Temperature.label>
+  <!-- EN: Key bindings for the "Temperatura" section of the Architect menu -->
+  <Architect_Temperature.description>আর্কিটেক্ট মেনুর "তাপমাত্রা" অংশের জন্য কী বাইন্ডিং।</Architect_Temperature.description>
+  
+  <!-- EN: áreas tab -->
+  <Architect_Zone.label>এলাকা ট্যাব</Architect_Zone.label>
+  <!-- EN: Key bindings for the "Áreas" section of the Architect menu -->
+  <Architect_Zone.description>আর্কিটেক্ট মেনুর "এলাকা" অংশের জন্য কী বাইন্ডিং।</Architect_Zone.description>
+  
+</LanguageData>

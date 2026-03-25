@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: one only -->
+  <SpouseCount_Female_MaxOne.label>শুধু একটি।</SpouseCount_Female_MaxOne.label>
+  <!-- EN: Women may have one spouse only. -->
+  <SpouseCount_Female_MaxOne.description>নারীরা কেবল একজন জীবনসঙ্গী রাখতে পারেন।</SpouseCount_Female_MaxOne.description>
+  
+  <!-- EN: one only -->
+  <SpouseCount_Male_MaxOne.label>শুধু একটি।</SpouseCount_Male_MaxOne.label>
+  <!-- EN: Men may have one spouse only. -->
+  <SpouseCount_Male_MaxOne.description>একজন ব্যক্তি কেবল একজন জীবনসঙ্গী রাখতে পারবে।</SpouseCount_Male_MaxOne.description>
+  
+</LanguageData>

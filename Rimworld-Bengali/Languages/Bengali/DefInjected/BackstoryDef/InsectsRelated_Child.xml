@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the sludge-smeared sewers of a polluted industrial world.\n\n[PAWN_pronoun] befriended the strange insects in the darkness and learned to love them. -->
+  <SewerKid57.description>[PAWN_nameDef] একটি দূষিত শিল্প যুগ-এর কাদামাখা নর্দমায় বড় হয়ে উঠেছেন।\n\nতিনি অন্ধকারের অদ্ভুত পোকামাকড়গুলোর সাথে বন্ধুত্ব করেছিলেন এবং তাদের ভালোবাসতে শিখেছিলেন।</SewerKid57.description>
+  <!-- EN: sewer kid -->
+  <SewerKid57.title>নর্দমার শিশু</SewerKid57.title>
+  <!-- EN: sewer girl -->
+  <SewerKid57.titleFemale>নর্দমার মেয়ে</SewerKid57.titleFemale>
+  <!-- EN: sewer boy -->
+  <SewerKid57.titleShort>নর্দমার ছেলে</SewerKid57.titleShort>
+  <!-- EN: sewer girl -->
+  <SewerKid57.titleShortFemale>নর্দমার মেয়ে</SewerKid57.titleShortFemale>
+  
+</LanguageData>

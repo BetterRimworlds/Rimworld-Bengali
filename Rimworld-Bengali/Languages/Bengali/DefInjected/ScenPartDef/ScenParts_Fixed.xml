@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starting people -->
+  <ConfigPage_ConfigureStartingPawns.label>শুরুর মানুষজন</ConfigPage_ConfigureStartingPawns.label>
+  
+  <!-- EN: forced map -->
+  <ForcedMap.label>বাধ্যতামূলক মানচিত্র</ForcedMap.label>
+  
+  <!-- EN: planet layer type -->
+  <PlanetLayerFixed.label>গ্রহ স্তর ধরণ</PlanetLayerFixed.label>
+  
+  <!-- EN: Player faction -->
+  <PlayerFaction.label>খেলোয়াড় দল</PlayerFaction.label>
+  
+  <!-- EN: arrival method -->
+  <PlayerPawnsArriveMethod.label>আগমন পদ্ধতি</PlayerPawnsArriveMethod.label>
+  
+  <!-- EN: surface layer type -->
+  <SurfaceLayerFixed.label>পৃষ্ঠ স্তর ধরণ</SurfaceLayerFixed.label>
+  
+</LanguageData>

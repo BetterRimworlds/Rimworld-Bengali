@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid burn -->
+  <AcidBurn.label>অ্যাসিড পোড়া</AcidBurn.label>
+  <!-- EN: An acid burn. -->
+  <AcidBurn.description>একটি অ্যাসিড পোড়া।</AcidBurn.description>
+  <!-- EN: tended -->
+  <AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>তENDED</AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: tended -->
+  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>প্রাথমিক চিকিৎসা করা হয়েছে</AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: acid burn scar -->
+  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>অ্যাসিড পোড়া দাগ</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Dissolved off -->
+  <AcidBurn.injuryProps.destroyedLabel>দ্রবীভূত হওয়া</AcidBurn.injuryProps.destroyedLabel>
+  <!-- EN: an acid burn -->
+  <AcidBurn.labelNoun>অ্যাসিড পোড়া</AcidBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <AcidBurn.labelNounPretty>{0} এ {1} এ</AcidBurn.labelNounPretty>
+  
+  <!-- EN: beam burn -->
+  <BeamWound.label>বিম পোড়া</BeamWound.label>
+  <!-- EN: A beam burn. -->
+  <BeamWound.description>একটি বিম পোড়া।</BeamWound.description>
+  <!-- EN: set -->
+  <BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>গুরুতর অবস্থা</BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <BeamWound.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</BeamWound.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>꿰টে দেওয়া হয়েছে</BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: permanent beam injury -->
+  <BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>স্থায়ী রশ্মি আঘাত</BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old beam wound -->
+  <BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>পুরোনো বিমের ক্ষত</BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <BeamWound.injuryProps.destroyedLabel>পোড়া দাগ</BeamWound.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <BeamWound.injuryProps.destroyedOutLabel>জ্বলে গেছে</BeamWound.injuryProps.destroyedOutLabel>
+  <!-- EN: a beam burn -->
+  <BeamWound.labelNoun>বিম পোড়া</BeamWound.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <BeamWound.labelNounPretty>{0} এর মধ্যে {1}</BeamWound.labelNounPretty>
+  
+  <!-- EN: bite -->
+  <Bite.label>কামড়</Bite.label>
+  <!-- EN: A bite wound. -->
+  <Bite.description>কামড়ানোর ক্ষত।</Bite.description>
+  <!-- EN: set -->
+  <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>গুরুতর অবস্থা</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Bite.comps.HediffComp_TendDuration.labelTendedWell>প্যাঁচানো</Bite.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>꿰টে দেওয়া হয়েছে</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: bite scar -->
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>কামড়ের দাগ</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Bitten off -->
+  <Bite.injuryProps.destroyedLabel>কামড় খেয়েছি</Bite.injuryProps.destroyedLabel>
+  <!-- EN: Bitten out -->
+  <Bite.injuryProps.destroyedOutLabel>কামড়ানো অংশ</Bite.injuryProps.destroyedOutLabel>
+  <!-- EN: a bite wound -->
+  <Bite.labelNoun>কামড়ের ক্ষত</Bite.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Bite.labelNounPretty>{0} এর মধ্যে {1}</Bite.labelNounPretty>
+  
+  <!-- EN: bruise -->
+  <Bruise.label>ক্ষতবিক্ষত স্থান</Bruise.label>
+  <!-- EN: A bruise. -->
+  <Bruise.description>একটি কালশিটে।</Bruise.description>
+  <!-- EN: set -->
+  <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>গুরুতর অবস্থা</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWell>প্যাঁচানো</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: tended -->
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>প্রাথমিক চিকিৎসা করা হয়েছে</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: Destroyed -->
+  <Bruise.injuryProps.destroyedLabel>ধ্বংসপ্রাপ্ত</Bruise.injuryProps.destroyedLabel>
+  <!-- EN: a bruise -->
+  <Bruise.labelNoun>ক্ষতবিক্ষত স্থান</Bruise.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Bruise.labelNounPretty>{0} এ {1} এ</Bruise.labelNounPretty>
+  
+  <!-- EN: burn -->
+  <Burn.label>পোড়া</Burn.label>
+  <!-- EN: A burn. -->
+  <Burn.description>পোড়া।</Burn.description>
+  <!-- EN: tended -->
+  <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>পরিচর্যা করা হয়েছে</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Burn.comps.HediffComp_TendDuration.labelTendedWell>প্যাঁচানো</Burn.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: tended -->
+  <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>পরিচর্যা করা হয়েছে</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: burn scar -->
+  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>পোড়া দাগ</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <Burn.injuryProps.destroyedLabel>পোড়া দাগ</Burn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <Burn.injuryProps.destroyedOutLabel>জ্বলে যাওয়া</Burn.injuryProps.destroyedOutLabel>
+  <!-- EN: a burn -->
+  <Burn.labelNoun>পোড়া দাগ</Burn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Burn.labelNounPretty>{0} এর মধ্যে {1}</Burn.labelNounPretty>
+  
+  <!-- EN: chemical burn -->
+  <ChemicalBurn.label>রাসায়নিক পোড়া</ChemicalBurn.label>
+  <!-- EN: A chemical burn. -->
+  <ChemicalBurn.description>রাসায়নিক পোড়া।</ChemicalBurn.description>
+  <!-- EN: tended -->
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>পরিচর্যা করা হয়েছে</ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: tended -->
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>প্রাথমিক চিকিৎসা করা হয়েছে</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: chemical burn scar -->
+  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>রাসায়নিক পোড়া দাগ</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off (chemical) -->
+  <ChemicalBurn.injuryProps.destroyedLabel>রাসায়নিক পোড়া</ChemicalBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out (chemical) -->
+  <ChemicalBurn.injuryProps.destroyedOutLabel>রাসায়নিকভাবে পোড়া</ChemicalBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: a chemical burn -->
+  <ChemicalBurn.labelNoun>রাসায়নিক পোড়া</ChemicalBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ChemicalBurn.labelNounPretty>{0} এর মধ্যে {1}</ChemicalBurn.labelNounPretty>
+  
+  <!-- EN: crack -->
+  <Crack.label>ফাটল</Crack.label>
+  <!-- EN: A crack. -->
+  <Crack.description>একটি ফাটল।</Crack.description>
+  <!-- EN: set -->
+  <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>গুরুতর অবস্থা</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: set -->
+  <Crack.comps.HediffComp_TendDuration.labelTendedWell>সেট</Crack.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: set -->
+  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>সেট</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: permanent crack -->
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>স্থায়ী ফাটল</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Shattered -->
+  <Crack.injuryProps.destroyedLabel>চূর্ণ</Crack.injuryProps.destroyedLabel>
+  <!-- EN: a crack wound -->
+  <Crack.labelNoun>ফাটল ক্ষত</Crack.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Crack.labelNounPretty>{0} এর মধ্যে {1}</Crack.labelNounPretty>
+  
+  <!-- EN: crush -->
+  <Crush.label>চূর্ণন</Crush.label>
+  <!-- EN: A crushing wound. -->
+  <Crush.description>একটি চূর্ণবিদ্ধ ক্ষত।</Crush.description>
+  <!-- EN: set -->
+  <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>সেট</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Crush.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</Crush.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>꿰টে দেওয়া হয়েছে</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: mangled scar -->
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>বিকৃত দাগ</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Crushed -->
+  <Crush.injuryProps.destroyedLabel>চূর্ণিত</Crush.injuryProps.destroyedLabel>
+  <!-- EN: a crush wound -->
+  <Crush.labelNoun>চূর্ণ আঘাত</Crush.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Crush.labelNounPretty>{0} এর মধ্যে {1}</Crush.labelNounPretty>
+  
+  <!-- EN: cut -->
+  <Cut.label>কাটা</Cut.label>
+  <!-- EN: A cut. -->
+  <Cut.description>একটি কাটা।</Cut.description>
+  <!-- EN: set -->
+  <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>গুরুতর স্বাস্থ্য</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Cut.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</Cut.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>সেলাই করা</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: cut scar -->
+  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>কাটা দাগ</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <Cut.injuryProps.destroyedLabel>ছেঁড়া অংশ</Cut.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <Cut.injuryProps.destroyedOutLabel>গুরুতর অবস্থা</Cut.injuryProps.destroyedOutLabel>
+  <!-- EN: a cut -->
+  <Cut.labelNoun>একটি কাটা</Cut.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Cut.labelNounPretty>{0} এর মধ্যে {1}</Cut.labelNounPretty>
+  
+  <!-- EN: decayed organ -->
+  <Decayed.label>ক্ষয়প্রাপ্ত অঙ্গ</Decayed.label>
+  <!-- EN: This organ has completely decayed. -->
+  <Decayed.description>এই অঙ্গটি সম্পূর্ণরূপে পচে গেছে।</Decayed.description>
+  <!-- EN: Decayed -->
+  <Decayed.injuryProps.destroyedLabel>ক্ষয়প্রাপ্ত</Decayed.injuryProps.destroyedLabel>
+  <!-- EN: a decayed organ -->
+  <Decayed.labelNoun>ক্ষয়প্রাপ্ত অঙ্গ</Decayed.labelNoun>
+  <!-- EN: decayed {1} -->
+  <Decayed.labelNounPretty>ক্ষয়প্রাপ্ত {1}</Decayed.labelNounPretty>
+  
+  <!-- EN: electrical burn -->
+  <ElectricalBurn.label>বৈদ্যুতিক পোড়া</ElectricalBurn.label>
+  <!-- EN: An electrical burn. -->
+  <ElectricalBurn.description>বৈদ্যুতিক পোড়া।</ElectricalBurn.description>
+  <!-- EN: tended -->
+  <ElectricalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>যত্ন নেওয়া হয়েছে</ElectricalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: tended -->
+  <ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>যত্ন নেওয়া হয়েছে</ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: electrical burn scar -->
+  <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>বৈদ্যুতিক পোড়া দাগ</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <ElectricalBurn.injuryProps.destroyedLabel>পোড়া অংশ</ElectricalBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <ElectricalBurn.injuryProps.destroyedOutLabel>জ্বলে যাওয়া</ElectricalBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: an electrical burn -->
+  <ElectricalBurn.labelNoun>বৈদ্যুতিক পোড়া</ElectricalBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ElectricalBurn.labelNounPretty>{0} এর মধ্যে {1}</ElectricalBurn.labelNounPretty>
+  
+  <!-- EN: cut -->
+  <ExecutionCut.label>কাটা</ExecutionCut.label>
+  <!-- EN: A cut made during execution. -->
+  <ExecutionCut.description>কার্যকরীকালে করা একটি কাটা।</ExecutionCut.description>
+  <!-- EN: Cut off -->
+  <ExecutionCut.injuryProps.destroyedLabel>ছেঁড়া অংশ</ExecutionCut.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <ExecutionCut.injuryProps.destroyedOutLabel>কাটা গেল</ExecutionCut.injuryProps.destroyedOutLabel>
+  <!-- EN: a cut -->
+  <ExecutionCut.labelNoun>কাটা</ExecutionCut.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ExecutionCut.labelNounPretty>{0} এর মধ্যে {1}</ExecutionCut.labelNounPretty>
+  
+  <!-- EN: frostbite -->
+  <Frostbite.label>ফ্রস্টবাইট</Frostbite.label>
+  <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
+  <Frostbite.description>পর্যাপ্ত সুরক্ষা ছাড়া ঠান্ডার সংস্পর্শে আসার কারণে সৃষ্ট হিমায়িত টিস্যু। ফ্রস্টবাইট অত্যন্ত বেদনাদায়ক, এবং ফ্রস্টবাইটে আক্রান্ত শরীরের অংশ প্রায়শই হারিয়ে যায়।</Frostbite.description>
+  <!-- EN: tended -->
+  <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>প্রাথমিক চিকিৎসা করা হয়েছে</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: tended -->
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>পরিচর্যা করা হয়েছে</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: frostbite scar -->
+  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>ফ্রস্টবাইট দাগ</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Lost to frostbite -->
+  <Frostbite.injuryProps.destroyedLabel>ফ্রস্টবাইটে ক্ষতি</Frostbite.injuryProps.destroyedLabel>
+  <!-- EN: {0} in the {1} -->
+  <Frostbite.labelNounPretty>{0} এ {1} এ</Frostbite.labelNounPretty>
+  
+  <!-- EN: gunshot -->
+  <Gunshot.label>গুলি ক্ষত</Gunshot.label>
+  <!-- EN: A gunshot wound. -->
+  <Gunshot.description>গুলি লেগে ক্ষত।</Gunshot.description>
+  <!-- EN: set -->
+  <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>সেট</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</Gunshot.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>꿰টে দেওয়া হয়েছে</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: permanent gunshot injury -->
+  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>স্থায়ী বন্দুকের আঘাত</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old gunshot -->
+  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>পুরোনো বন্দুকের আঘাত</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Shot off -->
+  <Gunshot.injuryProps.destroyedLabel>গুলি লেগেছে</Gunshot.injuryProps.destroyedLabel>
+  <!-- EN: Shot out -->
+  <Gunshot.injuryProps.destroyedOutLabel>গুলিবিদ্ধ</Gunshot.injuryProps.destroyedOutLabel>
+  <!-- EN: a gunshot wound -->
+  <Gunshot.labelNoun>গুলি লেগে ক্ষত</Gunshot.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Gunshot.labelNounPretty>{0} এর মধ্যে {1}</Gunshot.labelNounPretty>
+  
+  <!-- EN: wound -->
+  <Misc.label>ক্ষত</Misc.label>
+  <!-- EN: Miscellaneous injuries. -->
+  <Misc.description>বিবিধ আঘাত।</Misc.description>
+  <!-- EN: set -->
+  <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>সেট</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Misc.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</Misc.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>꿰টে দেওয়া হয়েছে</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: scar -->
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>ক্ষতচিহ্ন</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Destroyed -->
+  <Misc.injuryProps.destroyedLabel>ধ্বংসপ্রাপ্ত</Misc.injuryProps.destroyedLabel>
+  <!-- EN: an injury -->
+  <Misc.labelNoun>আঘাত</Misc.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Misc.labelNounPretty>{0} এ {1} এ</Misc.labelNounPretty>
+  
+  <!-- EN: missing body part -->
+  <MissingBodyPart.label>দেহের অংশ অনুপস্থিত</MissingBodyPart.label>
+  <!-- EN: A body part is entirely missing. -->
+  <MissingBodyPart.description>শরীরের একটি অংশ সম্পূর্ণরূপে অনুপস্থিত।</MissingBodyPart.description>
+  <!-- EN: a missing body part -->
+  <MissingBodyPart.labelNoun>একটি অনুপস্থিত শরীরের অংশ।</MissingBodyPart.labelNoun>
+  <!-- EN: missing a {1} -->
+  <MissingBodyPart.labelNounPretty>{1} অনুপস্থিত</MissingBodyPart.labelNounPretty>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>ক্ষত</Scratch.label>
+  <!-- EN: A scratch or tear. -->
+  <Scratch.description>এটি একটি আঁচড় বা ছেঁড়া।</Scratch.description>
+  <!-- EN: set -->
+  <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>গুরুতর স্বাস্থ্য</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>꿰টে দেওয়া হয়েছে</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: scratch scar -->
+  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>ক্ষতচিহ্ন</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Torn off -->
+  <Scratch.injuryProps.destroyedLabel>ছেঁড়া গেছে</Scratch.injuryProps.destroyedLabel>
+  <!-- EN: Torn out -->
+  <Scratch.injuryProps.destroyedOutLabel>ছিঁড়ে যাওয়া</Scratch.injuryProps.destroyedOutLabel>
+  <!-- EN: a scratch -->
+  <Scratch.labelNoun>ক্ষতবিক্ষত দাগ</Scratch.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Scratch.labelNounPretty>{0} এর মধ্যে {1}</Scratch.labelNounPretty>
+  
+  <!-- EN: shredded -->
+  <Shredded.label>ছিঁড়ে যাওয়া</Shredded.label>
+  <!-- EN: A part of the body has been shredded and torn. -->
+  <Shredded.description>শরীরের একটি অংশ ছিন্নভিন্ন ও ফাটা গেছে।</Shredded.description>
+  <!-- EN: set -->
+  <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>সেট</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>꿰টে দেওয়া হয়েছে</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: shredded scar -->
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>ছিঁড়ে যাওয়া দাগ</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Torn off -->
+  <Shredded.injuryProps.destroyedLabel>ছেঁড়া গেছে</Shredded.injuryProps.destroyedLabel>
+  <!-- EN: Torn out -->
+  <Shredded.injuryProps.destroyedOutLabel>ছেঁড়া পড়েছে</Shredded.injuryProps.destroyedOutLabel>
+  <!-- EN: a shredded wound -->
+  <Shredded.labelNoun>ছিঁড়ে যাওয়া ক্ষত</Shredded.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Shredded.labelNounPretty>{0} এর মধ্যে {1}</Shredded.labelNounPretty>
+  
+  <!-- EN: stab -->
+  <Stab.label>ছুরিকাঘাত</Stab.label>
+  <!-- EN: A stab wound. -->
+  <Stab.description>একটি ছুরিকাঘাতের ক্ষত।</Stab.description>
+  <!-- EN: set -->
+  <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>সেট</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <Stab.comps.HediffComp_TendDuration.labelTendedWell>প্যাঁচানো</Stab.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>꿰টে দেওয়া হয়েছে</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: stab scar -->
+  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>ছুরির ক্ষতচিহ্ন</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <Stab.injuryProps.destroyedLabel>গুরুতর অবস্থা</Stab.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <Stab.injuryProps.destroyedOutLabel>কাটাছেঁড়া</Stab.injuryProps.destroyedOutLabel>
+  <!-- EN: a stab wound -->
+  <Stab.labelNoun>ছুরির আঘাত</Stab.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Stab.labelNounPretty>{0} এর মধ্যে {1}</Stab.labelNounPretty>
+  
+  <!-- EN: surgical cut -->
+  <SurgicalCut.label>সার্জিক্যাল কাটিং</SurgicalCut.label>
+  <!-- EN: A cut made during surgery. -->
+  <SurgicalCut.description>সার্জারির সময় করা একটি কাটা।</SurgicalCut.description>
+  <!-- EN: set -->
+  <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>গুরুতর স্বাস্থ্য</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>ব্যান্ডেজ করা</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>সেলাই করা</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: surgical scar -->
+  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>সার্জিক্যাল দাগ</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: a surgical cut -->
+  <SurgicalCut.labelNoun>সার্জিক্যাল কাটিং</SurgicalCut.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <SurgicalCut.labelNounPretty>{0} এর মধ্যে {1}</SurgicalCut.labelNounPretty>
+  
+</LanguageData>

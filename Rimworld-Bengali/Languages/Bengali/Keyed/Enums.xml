@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Glow -->
+  <!-- EN: Dark -->
+  <Dark>অন্ধকার</Dark>
+  <!-- EN: Lit -->
+  <Lit>আলো</Lit>
+  <!-- EN: Brightly lit -->
+  <LitBrightly>উজ্জ্বলভাবে আলোকিত</LitBrightly>
+
+  <!-- Price types -->
+  <!-- EN: very cheap -->
+  <PriceTypeVeryCheap>খুব সস্তা।</PriceTypeVeryCheap>
+  <!-- EN: cheap -->
+  <PriceTypeCheap>কম দামের</PriceTypeCheap>
+  <!-- EN: normal -->
+  <PriceTypeNormal>স্বাভাবিক</PriceTypeNormal>
+  <!-- EN: expensive -->
+  <PriceTypeExpensive>দামি</PriceTypeExpensive>
+  <!-- EN: exorbitant -->
+  <PriceTypeExorbitant>অতিরিক্ত</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <!-- EN: unstored -->
+  <StoragePriorityUnstored>অসংরক্ষিত</StoragePriorityUnstored>
+  <!-- EN: low -->
+  <StoragePriorityLow>কম</StoragePriorityLow>
+  <!-- EN: normal -->
+  <StoragePriorityNormal>স্বাভাবিক</StoragePriorityNormal>
+  <!-- EN: preferred -->
+  <StoragePriorityPreferred>পছিত</StoragePriorityPreferred>
+  <!-- EN: important -->
+  <StoragePriorityImportant>গুরুত্বপূর্ণ।</StoragePriorityImportant>
+  <!-- EN: critical -->
+  <StoragePriorityCritical>গুরুত্বপূর্ণ</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <!-- EN: vegetables -->
+  <FoodTypeFlags_VegetableOrFruit>সবজি</FoodTypeFlags_VegetableOrFruit>
+  <!-- EN: raw meat -->
+  <FoodTypeFlags_Meat>কাঁচা মাংস</FoodTypeFlags_Meat>
+  <!-- EN: corpses -->
+  <FoodTypeFlags_Corpse>ক্যাড্যাভার</FoodTypeFlags_Corpse>
+  <!-- EN: seeds -->
+  <FoodTypeFlags_Seed>বীজ</FoodTypeFlags_Seed>
+  <!-- EN: animal products -->
+  <FoodTypeFlags_AnimalProduct>প্রাণীজ পণ্য</FoodTypeFlags_AnimalProduct>
+  <!-- EN: live plants -->
+  <FoodTypeFlags_Plant>জীবন্ত উদ্ভিদ</FoodTypeFlags_Plant>
+  <!-- EN: live trees -->
+  <FoodTypeFlags_Tree>জীবন্ত গাছপালা</FoodTypeFlags_Tree>
+  <!-- EN: meals -->
+  <FoodTypeFlags_Meal>খাবার</FoodTypeFlags_Meal>
+  <!-- EN: processed foods -->
+  <FoodTypeFlags_Processed>প্রক্রিয়াজাত খাবার</FoodTypeFlags_Processed>
+  <!-- EN: liquor -->
+  <FoodTypeFlags_Liquor>মদ</FoodTypeFlags_Liquor>
+  <!-- EN: kibble -->
+  <FoodTypeFlags_Kibble>খাবার দানা</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <!-- EN: awful -->
+  <QualityCategory_Awful>ভীষণ</QualityCategory_Awful>
+  <!-- EN: poor -->
+  <QualityCategory_Poor>খারাপ।</QualityCategory_Poor>
+  <!-- EN: normal -->
+  <QualityCategory_Normal>স্বাভাবিক</QualityCategory_Normal>
+  <!-- EN: good -->
+  <QualityCategory_Good>ভালো।</QualityCategory_Good>
+  <!-- EN: excellent -->
+  <QualityCategory_Excellent>চমৎকার</QualityCategory_Excellent>
+  <!-- EN: masterwork -->
+  <QualityCategory_Masterwork>মাস্টারওয়ার্ক</QualityCategory_Masterwork>
+  <!-- EN: legendary -->
+  <QualityCategory_Legendary>কিংবদন্তী</QualityCategory_Legendary>
+  <!-- EN: awfl -->
+  <QualityCategoryShort_Awful>অস্বস্তিকর</QualityCategoryShort_Awful>
+  <!-- EN: poor -->
+  <QualityCategoryShort_Poor>খারাপ।</QualityCategoryShort_Poor>
+  <!-- EN: norm -->
+  <QualityCategoryShort_Normal>স্বাভাবিক</QualityCategoryShort_Normal>
+  <!-- EN: good -->
+  <QualityCategoryShort_Good>ভালো।</QualityCategoryShort_Good>
+  <!-- EN: exc -->
+  <QualityCategoryShort_Excellent>গুরুতর নিয়ম</QualityCategoryShort_Excellent>
+  <!-- EN: mast -->
+  <QualityCategoryShort_Masterwork>মাস্ট</QualityCategoryShort_Masterwork>
+  <!-- EN: legd -->
+  <QualityCategoryShort_Legendary>লেগড</QualityCategoryShort_Legendary>
+  
+  <!-- Hunger -->
+  <!-- EN: Starving -->
+  <HungerLevel_Starving>ক্ষুধার্ত</HungerLevel_Starving>
+  <!-- EN: Urgently hungry -->
+  <HungerLevel_UrgentlyHungry>তীব্র ক্ষুধা</HungerLevel_UrgentlyHungry>
+  <!-- EN: Hungry -->
+  <HungerLevel_Hungry>ক্ষুধার্ত</HungerLevel_Hungry>
+  <!-- EN: Fed -->
+  <HungerLevel_Fed>খাওয়ানো হয়েছে</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <!-- EN: Exhausted -->
+  <HungerLevel_Exhausted>ক্লান্ত</HungerLevel_Exhausted>
+  <!-- EN: Very tired -->
+  <HungerLevel_VeryTired>খুব ক্লান্ত</HungerLevel_VeryTired>
+  <!-- EN: Tired -->
+  <HungerLevel_Tired>ক্লান্ত</HungerLevel_Tired>
+  <!-- EN: Rested -->
+  <HungerLevel_Rested>বিশ্রামপ্রাপ্ত</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <!-- EN: flat -->
+  <Hilliness_Flat>ফ্ল্যাট</Hilliness_Flat>
+  <!-- EN: small hills -->
+  <Hilliness_SmallHills>ছোট পাহাড়সমূহ</Hilliness_SmallHills>
+  <!-- EN: large hills -->
+  <Hilliness_LargeHills>বড় টিলাসমূহ</Hilliness_LargeHills>
+  <!-- EN: mountainous -->
+  <Hilliness_Mountainous>পর্বতময়</Hilliness_Mountainous>
+  <!-- EN: impassable -->
+  <Hilliness_Impassable>অতিক্রম্য নয়</Hilliness_Impassable>
+  
+  <!-- Steam workshop interaction -->
+  <!-- EN: Creating -->
+  <WorkshopInteractStage_CreatingItem>তৈরি করা হচ্ছে</WorkshopInteractStage_CreatingItem>
+  <!-- EN: Submitting -->
+  <WorkshopInteractStage_SubmittingItem>জমা দেওয়া হচ্ছে</WorkshopInteractStage_SubmittingItem>
+  <!-- EN: Invalid -->
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>অকার্যকর</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <!-- EN: Preparing config data -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>কনফিগার ডেটা প্রস্তুত করা হচ্ছে</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <!-- EN: Preparing content files -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>ফাইল প্রস্তুতি চলছে</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <!-- EN: Uploading content -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>আপলোড করা হচ্ছে</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <!-- EN: Uploading preview file -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>প্রিভিউ ফাইল আপলোড হচ্ছে।</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <!-- EN: Committing changes -->
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>পরিবর্তনগুলি জমা দেওয়া হচ্ছে</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <!-- EN: Official content -->
+  <ContentSource_OfficialModsFolder>অফিসিয়াল বিষয়বস্তু</ContentSource_OfficialModsFolder>
+  <!-- EN: Local folder -->
+  <ContentSource_ModsFolder>স্থানীয় ফোল্ডার</ContentSource_ModsFolder>
+  <!-- EN: Steam Workshop -->
+  <ContentSource_SteamWorkshop>স্টিম কর্মশালা</ContentSource_SteamWorkshop>
+  
+  <!-- Medical care category -->
+  <!-- EN: no medical care -->
+  <MedicalCareCategory_NoCare>চিকিৎসা নেই</MedicalCareCategory_NoCare>
+  <!-- EN: doctor care, but no medicine -->
+  <MedicalCareCategory_NoMeds>চিকিৎসক যত্ন, কিন্তু ওষুধ নেই।</MedicalCareCategory_NoMeds>
+  <!-- EN: herbal medicine or worse -->
+  <MedicalCareCategory_HerbalOrWorse>হার্বাল ওষুধ অথবা আরও খারাপ।</MedicalCareCategory_HerbalOrWorse>
+  <!-- EN: industrial-tech medicine or worse -->
+  <MedicalCareCategory_NormalOrWorse>শিল্প যুগ-প্রযুক্তি ওষুধ অথবা আরও খারাপ।</MedicalCareCategory_NormalOrWorse>
+  <!-- EN: best quality medicine -->
+  <MedicalCareCategory_Best>সেরা মানের ওষুধ</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <!-- EN: Ignore -->
+  <HostilityResponseMode_Ignore>উপেক্ষা করুন।</HostilityResponseMode_Ignore>
+  <!-- EN: Attack -->
+  <HostilityResponseMode_Attack>আক্রমণ</HostilityResponseMode_Attack>
+  <!-- EN: Flee -->
+  <HostilityResponseMode_Flee>পালানো</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <!-- EN: growing -->
+  <HediffGrowthMode_Growing>বৃদ্ধি হচ্ছে</HediffGrowthMode_Growing>
+  <!-- EN: stable -->
+  <HediffGrowthMode_Stable>স্থিতিশীল</HediffGrowthMode_Stable>
+  <!-- EN: remission -->
+  <HediffGrowthMode_Remission>ক্ষমা</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <!-- EN: animal -->
+  <TechLevel_Animal>প্রাণী</TechLevel_Animal>
+  <!-- EN: neolithic -->
+  <TechLevel_Neolithic>প্রস্তর যুগ</TechLevel_Neolithic>
+  <!-- EN: medieval -->
+  <TechLevel_Medieval>মধ্যযুগ</TechLevel_Medieval>
+  <!-- EN: industrial -->
+  <TechLevel_Industrial>শিল্প যুগ</TechLevel_Industrial>
+  <!-- EN: spacer -->
+  <TechLevel_Spacer>মহাকাশ যুগ</TechLevel_Spacer>
+  <!-- EN: ultra -->
+  <TechLevel_Ultra>আল্ট্রা যুগ</TechLevel_Ultra>
+  <!-- EN: archotech -->
+  <TechLevel_Archotech>আর্কোটেক</TechLevel_Archotech>
+
+  <!-- Player pawns arrive method -->
+  <!-- EN: Standing -->
+  <PlayerPawnsArriveMethod_Standing>দাঁড়ানো</PlayerPawnsArriveMethod_Standing>
+  <!-- EN: Drop pods -->
+  <PlayerPawnsArriveMethod_DropPods>ড্রপ পড</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <!-- EN: all characters -->
+  <PawnGenerationContext_All>সব চরিত্র</PawnGenerationContext_All>
+  <!-- EN: player starting characters -->
+  <PawnGenerationContext_PlayerStarter>খেলোয়াড় শুরুর চরিত্রসমূহ</PawnGenerationContext_PlayerStarter>
+  <!-- EN: non-player characters -->
+  <PawnGenerationContext_NonPlayer>অ-খেলোয়াড় চরিত্র</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <!-- EN: Screen shake intensity -->
+  <ScreenShakeIntensity>স্ক্রিন ঝাঁকুনি তীব্রতা</ScreenShakeIntensity>
+  
+  <!-- Animal name display mode -->
+  <!-- EN: Show animal names -->
+  <ShowAnimalNames>পশুর নাম দেখান</ShowAnimalNames>
+  <!-- EN: Tame (named only) -->
+  <AnimalNameDisplayMode_TameNamed>পোষ মানানো (নামযুক্ত)</AnimalNameDisplayMode_TameNamed>
+  <!-- EN: Tame (all) -->
+  <AnimalNameDisplayMode_TameAll>পোষ মানানো (সব)</AnimalNameDisplayMode_TameAll>
+
+  <!-- Highlight display mode -->
+  <!-- EN: Character highlighting -->
+  <DotHighlightDisplayMode>চরিত্র হাইলাইটকরণ</DotHighlightDisplayMode>
+  <!-- EN: Highlight hostiles -->
+  <DotHighlightDisplayMode_HighlightHostiles>শত্রুদের চিহ্নিত করুন</DotHighlightDisplayMode_HighlightHostiles>
+  <!-- EN: Highlight all -->
+  <DotHighlightDisplayMode_HighlightAll>সব হাইলাইট করুন।</DotHighlightDisplayMode_HighlightAll> 
+  
+  <!-- Highlight style -->
+  <!-- EN: Highlight mode -->
+  <HighlightStyleMode>হাইলাইট মোড</HighlightStyleMode>
+  <!-- EN: Dots -->
+  <HighlightStyleMode_Dots>ডটস্‌।</HighlightStyleMode_Dots>
+  <!-- EN: Silhouettes -->
+  <HighlightStyleMode_Silhouettes>সিলুয়েট</HighlightStyleMode_Silhouettes> 
+
+  <!-- Mood gradient display strength-->
+  <!-- EN: Visible mood -->
+  <VisibleMood>দৃশ্যমান মেজাজ</VisibleMood>
+  <!-- EN: When on, displays a visual indicator on a character's portrait when they are at risk of a mental break. -->
+  <VisibleMoodDesc>যখন চালু থাকে, কোনো চরিত্রের প্রতিকৃতিতে মানসিক বিপর্যয়ের ঝুঁকিতে থাকলে একটি দৃশ্যমান নির্দেশক প্রদর্শিত হবে।</VisibleMoodDesc>
+  
+  <!-- Mech name display mode -->
+  <!-- EN: Show player mech names -->
+  <ShowMechNames>প্লেয়ার মেক নাম দেখান।</ShowMechNames>
+  <!-- EN: While drafted -->
+  <MechNameDisplayMode_WhileDrafted>খসড়া অবস্থায়</MechNameDisplayMode_WhileDrafted>
+  <!-- EN: always -->
+  <MechNameDisplayMode_Always>সর্বদা</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <!-- EN: Weapons below portrait -->
+  <ShowWeaponsUnderPortrait>পোট্রেটের নিচে অস্ত্রশস্ত্র</ShowWeaponsUnderPortrait>
+  <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
+  <ShowWeaponsUnderPortraitTooltip>স্ক্রিনের উপরের কলোনিস্ট বারের প্রত্যেকের প্রতিকৃতির নিচে অস্ত্রগুলো দেখান।</ShowWeaponsUnderPortraitTooltip>
+  <!-- EN: always -->
+  <ShowWeapons_Always>সর্বদা</ShowWeapons_Always>
+  <!-- EN: while drafted -->
+  <ShowWeapons_WhileDrafted>খসড়া চলাকালীন</ShowWeapons_WhileDrafted>
+
+  <!-- Temperature -->
+  <!-- EN: Celsius -->
+  <Celsius>সেলসিয়াস</Celsius>
+  <!-- EN: Fahrenheit -->
+  <Fahrenheit>ফারেনহাইট</Fahrenheit>
+  <!-- EN: Kelvin -->
+  <Kelvin>কেলভিন</Kelvin>
+  
+  <!-- Direction8Way -->
+  <!-- EN: N -->
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <!-- EN: NE -->
+  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
+  <!-- EN: E -->
+  <Direction8Way_East_Short>E</Direction8Way_East_Short>
+  <!-- EN: SE -->
+  <Direction8Way_SouthEast_Short>গুরুতর বিধি:</Direction8Way_SouthEast_Short>
+  <!-- EN: S -->
+  <Direction8Way_South_Short>গুরুতর নিয়ম:</Direction8Way_South_Short>
+  <!-- EN: SW -->
+  <Direction8Way_SouthWest_Short>এসডব্লিউ</Direction8Way_SouthWest_Short>
+  <!-- EN: W -->
+  <Direction8Way_West_Short>W</Direction8Way_West_Short>
+  <!-- EN: NW -->
+  <Direction8Way_NorthWest_Short>উত্তর-পশ্চিম</Direction8Way_NorthWest_Short>
+  
+  <!-- Diet category -->
+  <!-- EN: Never eats -->
+  <DietCategory_NeverEats>কখনো খায় না।</DietCategory_NeverEats>
+  <!-- EN: Herbivorous -->
+  <DietCategory_Herbivorous>উদ্ভিদভোজী</DietCategory_Herbivorous>
+  <!-- EN: Dendrovorous -->
+  <DietCategory_Dendrovorous>ডেন্ড্রোভোরাস</DietCategory_Dendrovorous>
+  <!-- EN: Ovivorous -->
+  <DietCategory_Ovivorous>ডিম-জাতীয়</DietCategory_Ovivorous>
+  <!-- EN: Omnivorous -->
+  <DietCategory_Omnivorous>সর্বভুক</DietCategory_Omnivorous>
+  <!-- EN: Carnivorous -->
+  <DietCategory_Carnivorous>মাংসাশী</DietCategory_Carnivorous>
+  <!-- EN: - -->
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <!-- EN: H -->
+  <DietCategory_Herbivorous_Short>গুরুতর নিয়ম:</DietCategory_Herbivorous_Short>
+  <!-- EN: D -->
+  <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
+  <!-- EN: Ov -->
+  <DietCategory_Ovivorous_Short>ওভার</DietCategory_Ovivorous_Short>
+  <!-- EN: O -->
+  <DietCategory_Omnivorous_Short>O</DietCategory_Omnivorous_Short>
+  <!-- EN: C -->
+  <DietCategory_Carnivorous_Short>গুরুতর নিয়ম:</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <!-- EN: incompetent cook -->
+  <FoodPoisonCause_IncompetentCook>অদক্ষ বাবুর্চি</FoodPoisonCause_IncompetentCook>
+  <!-- EN: dirty cooking area -->
+  <FoodPoisonCause_FilthyKitchen>নোংরা রান্নার স্থান</FoodPoisonCause_FilthyKitchen>
+  <!-- EN: rotten food -->
+  <FoodPoisonCause_Rotten>পচা খাবার</FoodPoisonCause_Rotten>
+  <!-- EN: dangerous food type -->
+  <FoodPoisonCause_DangerousFoodType>বিপজ্জনক খাদ্য প্রকার</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <!-- EN: none -->
+  <PsychicDroneLevel_None>গুরুতর নিয়ম:</PsychicDroneLevel_None>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_GoodMedium>মাঝারি</PsychicDroneLevel_GoodMedium>
+  <!-- EN: low -->
+  <PsychicDroneLevel_BadLow>নিম্ন</PsychicDroneLevel_BadLow>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_BadMedium>মাধ্যম</PsychicDroneLevel_BadMedium>
+  <!-- EN: high -->
+  <PsychicDroneLevel_BadHigh>গুরুতর</PsychicDroneLevel_BadHigh>
+  <!-- EN: extreme -->
+  <PsychicDroneLevel_BadExtreme>চূড়ান্ত</PsychicDroneLevel_BadExtreme>
+  
+  <!-- Automatic pause mode -->
+  <!-- EN: Never -->
+  <AutomaticPauseMode_Never>গুরুতর নিয়ম:</AutomaticPauseMode_Never>
+  <!-- EN: Major threats -->
+  <AutomaticPauseMode_MajorThreat>গুরুতর বিপদ</AutomaticPauseMode_MajorThreat>
+  <!-- EN: Any threat -->
+  <AutomaticPauseMode_AnyThreat>যেকোনো বিপদ</AutomaticPauseMode_AnyThreat>
+  <!-- EN: Any letter -->
+  <AutomaticPauseMode_AnyLetter>যেকোনো অক্ষর</AutomaticPauseMode_AnyLetter>
+
+  <!-- Pain category -->
+  <!-- EN: itchy -->
+  <PainCategory_LowPain>চুলকানি</PainCategory_LowPain>
+  <!-- EN: aching -->
+  <PainCategory_MediumPain>ব্যথা</PainCategory_MediumPain>
+  <!-- EN: painful -->
+  <PainCategory_HighPain>ব্যথাজনক</PainCategory_HighPain>
+  
+  <!-- ExtraFactionType -->
+  <!-- EN: home faction -->
+  <ExtraFactionType_HomeFaction>হোম দল</ExtraFactionType_HomeFaction>
+  <!-- EN: remote host faction -->
+  <ExtraFactionType_HostFaction>দূরবর্তী হোস্ট দল</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>দল</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>ড্রাগের শ্রেণী</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>গুরুতর নিয়ম:</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>চিকিৎসা সংক্রান্ত</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>সামাজিক</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>কঠিন</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>যেকোনো</DrugCategory_Any>
+  
+</LanguageData>

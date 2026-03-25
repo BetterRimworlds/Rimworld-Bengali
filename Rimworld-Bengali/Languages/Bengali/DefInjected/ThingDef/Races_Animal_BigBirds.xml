@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>ক্যাসোয়ারি</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>উজ্জ্বল রঙের পালকযুক্ত একটি বৃহৎ উড়তে অক্ষম পাখি। দেখতে সুন্দর হলেও এর লাথি মারাত্মক। আঘাত পেলে অথবা অদক্ষ পশু প্রশিক্ষকের সম্মুখীন হলে এটি দ্রুত আক্রমণাত্মক হয়ে ওঠে।</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>পাখি মাংস</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>নখর</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>ঠোঁট</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>মাথা</Cassowary.tools.head.label>
+  
+  <!-- EN: emu -->
+  <Emu.label>ইমু</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>এটি একটি বৃহৎ উড়তে অক্ষম পাখি, যার কুৎসিত মুখে ছোট ছোট চোখ রয়েছে। খারাপ ব্যবহারের প্রবণতা এটিকে প্রকৃতির জগতে একটি বিরক্তিকর প্রাণীতে পরিণত করেছে। একে বিরক্ত করলে প্রতিশোধ নেওয়ার ব্যাপারে নিশ্চিত থাকতে পারেন।</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>নখর</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>ঠোঁট</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>মাথা</Emu.tools.head.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>উটপাখি</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>সবচেয়ে বড় অপরিবর্তিত পাখি প্রজাতি, উটপাখি তাদের দ্রুত দৌড়, বিশাল ডিম এবং শক্তিশালী লাথি মারার জন্য পরিচিত। এটি সহজেই রেগে যায়।</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>নখর</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>ঠোঁট</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>মাথা</Ostrich.tools.head.label>
+  
+</LanguageData>

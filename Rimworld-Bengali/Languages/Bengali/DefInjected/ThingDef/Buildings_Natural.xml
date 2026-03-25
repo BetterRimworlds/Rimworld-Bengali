@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab cocoon -->
+  <CocoonMegascarab.label>মেগাস্কারাব কোকুন</CocoonMegascarab.label>
+  <!-- EN: A stasis cocoon containing a megascarab.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonMegascarab.description>একটি মেগাস্কারাব ধারণকারী স্ট্যাসিস কোকুন।\n\nযখন পরিস্থিতি প্রতিকূল থাকে, পোকামাকড় কখনও কখনও স্ট্যাসিস কোকুন তৈরি করে এবং মাটির নিচে burrow করে। এই কোকুনগুলো পোকামাকড়কে বছরের পর বছর ধরে আগুন, চরম তাপমাত্রা এবং অন্যান্য বিপদ থেকে রক্ষা করে।\n\nদূষণকারী পদার্থ কোকুনগুলোকে উদ্দীপিত করতে পারে এবং তাদের পুনরায় ভূপৃষ্ঠে আসতে বাধ্য করতে পারে, এবং শক্তিশালী দূষণকারী পদার্থ দূর থেকে কোকুনগুলোকে আকৃষ্ট করতে পারে।\n\nকোকুনগুলো বিরক্ত না করা হলে কিছুই করে না। যদি কোনো কোকুন বিরক্ত বা ধ্বংস করা হয়, তাহলে ভেতরের পোকামাকড় জেগে উঠে আক্রমণ করবে, এবং এই প্রক্রিয়ায় কাছাকাছি অন্যান্য কোকুনগুলোও সক্রিয় হয়ে উঠবে।</CocoonMegascarab.description>
+  
+  <!-- EN: megaspider cocoon -->
+  <CocoonMegaspider.label>দৈত্যাকার মাকড়সা কোকুন</CocoonMegaspider.label>
+  <!-- EN: A stasis cocoon containing a megaspider.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonMegaspider.description>একটি স্ট্যাসিস কোকুন যার মধ্যে একটি দৈত্যাকার মাকড়সা রয়েছে।\n\nযখন পরিস্থিতি প্রতিকূল থাকে, পোকামাকড় কখনও কখনও স্ট্যাসিস কোকুন তৈরি করে এবং মাটির নিচে লুকিয়ে থাকে। এই কোকুনগুলো পোকামাকড়কে বহু বছর ধরে আগুন, চরম তাপমাত্রা এবং অন্যান্য বিপদ থেকে রক্ষা করে।\n\nদূষণকারী পদার্থ কোকুনগুলোকে উদ্দীপ্ত করতে পারে এবং সেগুলোকে পুনরায় উপরে নিয়ে আসতে পারে, এবং শক্তিশালী দূষণকারী পদার্থ দূর থেকে কোকুনগুলোকে আকৃষ্ট করতে পারে।\n\nকোকুনগুলো বিরক্ত না করা হলে কিছুই করে না। যদি কোনো কোকুন বিরক্ত বা ধ্বংস করা হয়, তাহলে ভেতরের পোকামাকড় জেগে উঠে আক্রমণ করবে এবং এর ফলে কাছাকাছি অন্যান্য কোকুনগুলোও সক্রিয় হয়ে উঠবে।</CocoonMegaspider.description>
+  
+  <!-- EN: spelopede cocoon -->
+  <CocoonSpelopede.label>গুহা-পোকা কোকুন</CocoonSpelopede.label>
+  <!-- EN: A stasis cocoon containing a spelopede.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonSpelopede.description>একটি স্ট্যাসিস কোকুন যাতে একটি গুহা-পোকা রয়েছে।\n\nযখন পরিস্থিতি প্রতিকূল থাকে, পোকামাকড় কখনও কখনও স্ট্যাসিস কোকুন তৈরি করে এবং মাটির নিচে লুকিয়ে যায়। এই কোকুনগুলো পোকামাকড়কে বছরের পর বছর ধরে আগুন, চরম তাপমাত্রা এবং অন্যান্য বিপদ থেকে রক্ষা করে।\n\nদূষণকারী পদার্থ কোকুনগুলোকে উদ্দীপ্ত করতে পারে এবং সেগুলোকে পুনরায় উপরে নিয়ে আসতে পারে, এবং শক্তিশালী দূষণকারী পদার্থ দূর থেকে কোকুনকে আকৃষ্ট করতে পারে।\n\nকোকুনগুলো বিরক্ত না করা হলে কিছুই করে না। যদি কোনো কোকুন বিরক্ত বা ধ্বংস করা হয়, তাহলে ভেতরের পোকামাকড় জেগে উঠে আক্রমণ করবে এবং এর ফলে কাছাকাছি অন্যান্য কোকুনগুলোও সক্রিয় হয়ে উঠবে।</CocoonSpelopede.description>
+  
+  <!-- EN: collapsed rocks -->
+  <CollapsedRocks.label>ধ্বংসপ্রাপ্ত পাথর</CollapsedRocks.label>
+  <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
+  <CollapsedRocks.description>ধ্বংসপ্রাপ্ত পাথর, যা যথেষ্টভাবে একত্রিত হয়ে একটি ছাদকে ধরে রাখতে সক্ষম।</CollapsedRocks.description>
+  
+  <!-- EN: glow pod -->
+  <GlowPod.label>গ্লো পড</GlowPod.label>
+  <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
+  <GlowPod.description>বিশাল পতঙ্গ দ্বারা উৎপাদিত একটি জৈব-দীপ্তিশীল পড। এটি দীর্ঘ সময়ের জন্য নিজের আলোয় আলোকিত হয়, তারপর নিভে যায়।</GlowPod.description>
+  
+  <!-- EN: hive -->
+  <Hive.label>হাইভ</Hive.label>
+  <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+  <Hive.description>বিশাল পতঙ্গদের একটি কলোনি। সক্রিয় করা হলে, এটি সময়ের সাথে সাথে অতিরিক্ত পতঙ্গ এবং কলোনি তৈরি করবে, সেইসাথে মূল্যবান পতঙ্গ জেলি উৎপাদন করবে।</Hive.description>
+  
+  <!-- EN: compacted machinery -->
+  <MineableComponentsIndustrial.label>সংকুচিত যন্ত্রাংশ</MineableComponentsIndustrial.label>
+  <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
+  <MineableComponentsIndustrial.description>প্রাচীন যন্ত্রপাতি, সময়ের সাথে সংকুচিত। এখান থেকে দরকারি উপাদান সংগ্রহ করা যেতে পারে।</MineableComponentsIndustrial.description>
+  
+  <!-- EN: gold ore -->
+  <MineableGold.label>সোনালী আকরিক</MineableGold.label>
+  <!-- EN: Rock containing bits of gold. -->
+  <MineableGold.description>সোনার কণাযুক্ত পাথর।</MineableGold.description>
+  
+  <!-- EN: jade -->
+  <MineableJade.label>জেইড</MineableJade.label>
+  <!-- EN: Rock containing bits of jade. -->
+  <MineableJade.description>জেইড খণ্ডের মিশ্রিত পাথর।</MineableJade.description>
+  
+  <!-- EN: compacted plasteel -->
+  <MineablePlasteel.label>কম্প্যাক্টেড প্লাস্টিল</MineablePlasteel.label>
+  <!-- EN: Ancient compacted rubble rich in plasteel. -->
+  <MineablePlasteel.description>প্রাচীন সংকুচিত ধ্বংসাবশেষ, যাতে প্রচুর প্লাস্টিল রয়েছে।</MineablePlasteel.description>
+  
+  <!-- EN: silver ore -->
+  <MineableSilver.label>রূপালী আকরিক</MineableSilver.label>
+  <!-- EN: Rock containing bits of silver. -->
+  <MineableSilver.description>রূপালী কণাযুক্ত পাথর।</MineableSilver.description>
+  
+  <!-- EN: compacted steel -->
+  <MineableSteel.label>সংকুচিত ইস্পাত</MineableSteel.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
+  <MineableSteel.description>কোনো প্রাচীন, ভেঙে পড়া কাঠামোর অবশেষ। এটি স্টিলে সমৃদ্ধ।</MineableSteel.description>
+  
+  <!-- EN: uranium ore -->
+  <MineableUranium.label>ইউরেনিয়াম আকরিক</MineableUranium.label>
+  <!-- EN: Rock containing bits of uranium. -->
+  <MineableUranium.description>ইউরেনিয়ামের কণাযুক্ত পাথর।</MineableUranium.description>
+  
+  <!-- EN: raised rocks -->
+  <RaisedRocks.label>উঁচু পাথর</RaisedRocks.label>
+  <!-- EN: A fragile wall made of rubble. It will collapse in time. -->
+  <RaisedRocks.description>পাথরের ধ্বংসাবশেষ দিয়ে তৈরি একটি ভঙ্গুর দেয়াল। এটি সময়ের সাথে সাথে ভেঙে পড়বে।</RaisedRocks.description>
+  
+  <!-- EN: steam geyser -->
+  <SteamGeyser.label>স্টিম গেইজার</SteamGeyser.label>
+  <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
+  <SteamGeyser.description>উচ্চ-চাপের বাষ্পের একটি প্রাকৃতিক উৎস। জিওথার্মাল জেনারেটরগুলি এই বাষ্প শক্তি ব্যবহার করতে পারে। এর উপরে নির্মিত ঘরগুলি দ্রুত গরম হয়ে যাবে।</SteamGeyser.description>
+  
+</LanguageData>

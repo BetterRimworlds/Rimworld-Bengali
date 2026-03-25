@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cleaning time multiplier -->
+  <CleaningTimeFactor.label>পরিষ্কার সময় গুণক</CleaningTimeFactor.label>
+  <!-- EN: A multiplier on how long it takes to clean filth from this surface. -->
+  <CleaningTimeFactor.description>এই পৃষ্ঠ থেকে ময়লা পরিষ্কার করতে কত সময় লাগে তার উপর একটি গুণক।</CleaningTimeFactor.description>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeedFactor.label>নির্মাণ গতি</ConstructionSpeedFactor.label>
+  <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
+  <ConstructionSpeedFactor.description>এই উপাদান দিয়ে তৈরি কাঠামো নির্মাণের গতি এই মান দ্বারা গুণ করা হয়।\n\nকিছু উপাদান, যেমন পাথর, দিয়ে তৈরি করতে ধীর গতি লাগে, আবার কিছু উপাদান, যেমন কাঠ, দ্রুত তৈরি করা যায়।</ConstructionSpeedFactor.description>
+  <!-- EN: construction speed (material factor) -->
+  <ConstructionSpeedFactor.labelForFullStatList>নির্মাণ গতি (উপাদান গুণক)</ConstructionSpeedFactor.labelForFullStatList>
+  
+  <!-- EN: filth multiplier -->
+  <FilthMultiplier.label>নোংরা গুণক</FilthMultiplier.label>
+  <!-- EN: How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact. This only applies to organic filth. -->
+  <FilthMultiplier.description>এই পৃষ্ঠটি ময়লা দ্বারা কতটা দূষিত হতে পারে। যদি এটি ১০০% এর কম হয়, তবে এখানে জমা হওয়া কিছু ময়লা সংস্পর্শে আসার সাথে সাথেই অদৃশ্য হয়ে যাবে। এটি শুধুমাত্র জৈব ময়লার ক্ষেত্রে প্রযোজ্য।</FilthMultiplier.description>
+  
+  <!-- EN: medical potency -->
+  <MedicalPotency.label>চিকিৎসা শক্তি</MedicalPotency.label>
+  <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
+  <MedicalPotency.description>ক্ষত এবং রোগের যত্ন নেওয়ার সময় অথবা সার্জারি করার সময় এটি কতটা কার্যকর।\n\nউচ্চতর মেডিকেল পোতেন্সি যত্নের মান উন্নত করে এবং সার্জারির সময় সাফল্যের সম্ভাবনার গুণক হিসেবে কাজ করে।\nমেডিকেল পোতেন্সি হলো চিকিৎসা সংক্রান্ত ফলাফলের অনেক কারণের মধ্যে একটি, যার মধ্যে রয়েছে ডাক্তারের দক্ষতা, সরঞ্জাম, পরিচ্ছন্নতা এবং ভাগ্য।</MedicalPotency.description>
+  
+  <!-- EN: medical tend quality maximum -->
+  <MedicalQualityMax.label>চিকিৎসা সেবার গুণমান সর্বোচ্চ</MedicalQualityMax.label>
+  <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
+  <MedicalQualityMax.description>এইটি ব্যবহার করার সময় যে সর্বোচ্চ মানের চিকিৎসা প্রদান করা যেতে পারে।\n\nআরও ভালো চিকিৎসার মান দক্ষ ডাক্তারদের ক্ষত আরও ভালোভাবে এবং নির্ভরযোগ্যভাবে নিরাময় করতে সাহায্য করে।</MedicalQualityMax.description>
+  
+  <!-- EN: meditation psyfocus bonus -->
+  <MeditationFocusStrength.label>ধ্যান মনোনিবেশ বোনাস</MeditationFocusStrength.label>
+  <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
+  <MeditationFocusStrength.description>ধ্যানের সময় এই বস্তুর উপর মনোযোগ কেন্দ্রীভূত করলে কেউ অতিরিক্ত সাইকোফোকাস লাভ করে, যা তাদের নিজস্ব ধ্যানের সাইকোফোকাস লাভের স্বাভাবিক হারের সাথে যুক্ত হয়।\n\nকিছু বস্তুর ক্ষেত্রে, এই সংখ্যাটি পরিবেশ এবং ধ্যানকারী ব্যক্তির উপর নির্ভর করে পরিবর্তিত হতে পারে।</MeditationFocusStrength.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatString>{0} / দিন</MeditationFocusStrength.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatStringUnfinalized>{0} / দিন</MeditationFocusStrength.formatStringUnfinalized>
+  
+  <!-- EN: neural heat limit offset -->
+  <PsychicEntropyMaxOffset.label>নিউরনাল তাপ সীমা অফসেট</PsychicEntropyMaxOffset.label>
+  <!-- EN: An offset applied to the user's neural heat limit. -->
+  <PsychicEntropyMaxOffset.description>ব্যবহারকারীর নিউরাল তাপমাত্রার সীমাবদ্ধতায় একটি অফসেট প্রয়োগ করা হয়েছে।</PsychicEntropyMaxOffset.description>
+  
+  <!-- EN: neural heat recovery rate offset -->
+  <PsychicEntropyRecoveryRateOffset.label>নিউরনাল তাপ পুনরুদ্ধার হার অফসেট</PsychicEntropyRecoveryRateOffset.label>
+  <!-- EN: An offset applied to the user's neural heat recovery rate. -->
+  <PsychicEntropyRecoveryRateOffset.description>ব্যবহারকারীর নিউরাল তাপ পুনরুদ্ধার হারের উপর একটি অফসেট প্রয়োগ করা হয়েছে।</PsychicEntropyRecoveryRateOffset.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRateOffset.formatString>{0}/সেকেন্ড</PsychicEntropyRecoveryRateOffset.formatString>
+  
+  <!-- EN: psychic sensitivity factor -->
+  <PsychicSensitivityFactor.label>মানসিক সংবেদনশীলতা গুণাঙ্ক</PsychicSensitivityFactor.label>
+  <!-- EN: A factor applied to the user's psychic sensitivity. -->
+  <PsychicSensitivityFactor.description>ব্যবহারকারীর মানসিক সংবেদনশীলতার উপর প্রয়োগ করা একটি গুণক।</PsychicSensitivityFactor.description>
+  
+  <!-- EN: psychic sensitivity offset -->
+  <PsychicSensitivityOffset.label>মানসিক সংবেদনশীলতা অফসেট</PsychicSensitivityOffset.label>
+  <!-- EN: An offset applied to the user's psychic sensitivity. -->
+  <PsychicSensitivityOffset.description>ব্যবহারকারীর মানসিক সংবেদনশীলতার উপর একটি অফসেট প্রয়োগ করা হয়েছে।</PsychicSensitivityOffset.description>
+  
+</LanguageData>

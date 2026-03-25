@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bonded animal {0} lost -->
+  <BondedAnimalLost.stages.bonded_animal_lost.label>বাঁধা প্রাণী {0} হারানো</BondedAnimalLost.stages.bonded_animal_lost.label>
+  <!-- EN: Such a tender, unique animal. This universe is evil! -->
+  <BondedAnimalLost.stages.bonded_animal_lost.description>এত কোমল, স্বতন্ত্র একটি প্রাণী। এই মহাবিশ্ব নির্দয়!</BondedAnimalLost.stages.bonded_animal_lost.description>
+  
+  <!-- EN: bonded animal {0} released -->
+  <BondedAnimalReleased.stages.bonded_animal_released.label>বাঁধা প্রাণী {0} মুক্ত করা হয়েছে</BondedAnimalReleased.stages.bonded_animal_released.label>
+  <!-- EN: Such a tender, unique animal. Why did it have to go? -->
+  <BondedAnimalReleased.stages.bonded_animal_released.description>এত কোমল, স্বতন্ত্র একটি প্রাণী। কেন এটিকে যেতে হলো?</BondedAnimalReleased.stages.bonded_animal_released.description>
+  
+  <!-- EN: colonist lost -->
+  <ColonistLost.stages.colonist_lost.label>উপনিবেশকারী হারানো</ColonistLost.stages.colonist_lost.label>
+  <!-- EN: We just lost someone of our colony in a tragic way. -->
+  <ColonistLost.stages.colonist_lost.description>আমাদের কলোনির একজন সদস্য সম্প্রতি মর্মান্তিকভাবে মারা গেছেন।</ColonistLost.stages.colonist_lost.description>
+  
+  <!-- EN: my aunt {0} lost -->
+  <MyAuntLost.stages.my_aunt_lost.label>আমার খালা {0} হারিয়ে গেছে</MyAuntLost.stages.my_aunt_lost.label>
+  <!-- EN: My aunt has gone lost. I hope she will get back to us someday. -->
+  <MyAuntLost.stages.my_aunt_lost.description>আমার পিসি হারিয়ে গেছেন। আশা করি কোনো একদিন তিনি আমাদের কাছে ফিরে আসবেন।</MyAuntLost.stages.my_aunt_lost.description>
+  
+  <!-- EN: my brother {0} lost -->
+  <MyBrotherLost.stages.my_brother_lost.label>আমার ভাই {0} হারিয়ে গেছে</MyBrotherLost.stages.my_brother_lost.label>
+  <!-- EN: My brother has gone lost. I hope he will get back to us someday. -->
+  <MyBrotherLost.stages.my_brother_lost.description>আমার ভাই হারিয়ে গেছে। আমি আশা করি সে কোনো একদিন আমাদের কাছে ফিরে আসবে।</MyBrotherLost.stages.my_brother_lost.description>
+  
+  <!-- EN: my cousin {0} lost -->
+  <MyCousinLost.stages.my_cousin_lost.label>আমার কাজিন {0} হারিয়ে গেছে</MyCousinLost.stages.my_cousin_lost.label>
+  <!-- EN: My cousin has gone lost. -->
+  <MyCousinLost.stages.my_cousin_lost.description>আমার কাজিন হারিয়ে গেছে।</MyCousinLost.stages.my_cousin_lost.description>
+  
+  <!-- EN: my daughter {0} lost -->
+  <MyDaughterLost.stages.my_daughter_lost.label>আমার সন্তান {0} হারিয়ে গেছে</MyDaughterLost.stages.my_daughter_lost.label>
+  <!-- EN: My daughter has gone lost. I hope she will get back to us someday. -->
+  <MyDaughterLost.stages.my_daughter_lost.description>আমার সন্তান হারিয়ে গেছে। আশা করি কোনো একদিন সে আমাদের কাছে ফিরে আসবে।</MyDaughterLost.stages.my_daughter_lost.description>
+  
+  <!-- EN: my father {0} lost -->
+  <MyFatherLost.stages.my_father_lost.label>আমার বাবা {0} হারিয়েছেন</MyFatherLost.stages.my_father_lost.label>
+  <!-- EN: My father has gone lost. I hope he will get back to us someday. -->
+  <MyFatherLost.stages.my_father_lost.description>আমার বাবা হারিয়ে গেছেন। আমি আশা করি তিনি কোনো একদিন আমাদের কাছে ফিরে আসবেন।</MyFatherLost.stages.my_father_lost.description>
+  
+  <!-- EN: my fiancée {0} lost -->
+  <MyFianceeLost.stages.my_fiance_lost.label>আমার বাগদত্তা {0} হারিয়ে গেছে</MyFianceeLost.stages.my_fiance_lost.label>
+  <!-- EN: My fiancée has gone lost. I hope she will get back to us someday. -->
+  <MyFianceeLost.stages.my_fiance_lost.description>আমার বাগদত্তা নিখোঁজ হয়েছে। আশা করি কোনো একদিন সে আমাদের কাছে ফিরে আসবে।</MyFianceeLost.stages.my_fiance_lost.description>
+  
+  <!-- EN: my fiance {0} lost -->
+  <MyFianceLost.stages.my_fiance_lost.label>আমার বাগদত্তা {0} হারিয়ে গেছে</MyFianceLost.stages.my_fiance_lost.label>
+  <!-- EN: My fiance has gone lost. I hope he will get back to us someday. -->
+  <MyFianceLost.stages.my_fiance_lost.description>আমার বাগদত্তা নিখোঁজ হয়েছে। আশা করি কোনো একদিন সে আমাদের কাছে ফিরে আসবে।</MyFianceLost.stages.my_fiance_lost.description>
+  
+  <!-- EN: my grandchild {0} lost -->
+  <MyGrandchildLost.stages.my_grandchild_lost.label>আমার নাতি-নাতনি {0} হারিয়ে গেছে</MyGrandchildLost.stages.my_grandchild_lost.label>
+  <!-- EN: My grandchild has gone lost. I hope they will get back to us someday. -->
+  <MyGrandchildLost.stages.my_grandchild_lost.description>আমার নাতি-নাতনি হারিয়ে গেছে। আশা করি কোনো একদিন তারা আমাদের কাছে ফিরে আসবে।</MyGrandchildLost.stages.my_grandchild_lost.description>
+  
+  <!-- EN: my grandparent {0} lost -->
+  <MyGrandparentLost.stages.my_grandparent_lost.label>আমার দাদু/দিদা {0} হারিয়েছেন</MyGrandparentLost.stages.my_grandparent_lost.label>
+  <!-- EN: My grandparent has gone lost. -->
+  <MyGrandparentLost.stages.my_grandparent_lost.description>আমার দাদু/দিদা হারিয়ে গেছেন।</MyGrandparentLost.stages.my_grandparent_lost.description>
+  
+  <!-- EN: my half-sibling {0} lost -->
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.label>আমার সৎ ভাই/বোন {0} হারিয়ে গেছে</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
+  <!-- EN: My half-sibling has gone lost. -->
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.description>আমার সৎ ভাই/বোন হারিয়ে গেছে।</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
+  
+  <!-- EN: my husband {0} lost -->
+  <MyHusbandLost.stages.my_husband_lost.label>আমার স্বামী {0} হারিয়ে গেছে</MyHusbandLost.stages.my_husband_lost.label>
+  <!-- EN: My husband has gone lost. I hope he will get back to us someday. -->
+  <MyHusbandLost.stages.my_husband_lost.description>আমার জীবনসঙ্গী নিখোঁজ হয়েছেন। আশা করি কোনো একদিন তিনি আমাদের কাছে ফিরে আসবেন।</MyHusbandLost.stages.my_husband_lost.description>
+  
+  <!-- EN: my kin {0} lost -->
+  <MyKinLost.stages.my_kin_lost.label>আত্মীয় {0} হারিয়েছেন</MyKinLost.stages.my_kin_lost.label>
+  <!-- EN: My kin has gone lost. -->
+  <MyKinLost.stages.my_kin_lost.description>আমার আত্মীয়স্বজন হারিয়ে গেছে।</MyKinLost.stages.my_kin_lost.description>
+  
+  <!-- EN: my lover {0} lost -->
+  <MyLoverLost.stages.my_lover_lost.label>আমার প্রিয়জন {0} হারিয়েছে</MyLoverLost.stages.my_lover_lost.label>
+  <!-- EN: My lover has gone lost. I hope he will get back to us someday. -->
+  <MyLoverLost.stages.my_lover_lost.description>আমার প্রিয়জন হারিয়ে গেছেন। আমি আশা করি কোনো একদিন তিনি আমাদের কাছে ফিরে আসবেন।</MyLoverLost.stages.my_lover_lost.description>
+  
+  <!-- EN: my mother {0} lost -->
+  <MyMotherLost.stages.my_mother_lost.label>আমার মা {0} হারিয়েছেন</MyMotherLost.stages.my_mother_lost.label>
+  <!-- EN: My mother has gone lost. I hope she will get back to us someday. -->
+  <MyMotherLost.stages.my_mother_lost.description>আমার মা হারিয়ে গেছেন। আমি আশা করি একদিন না একদিন তিনি আমাদের কাছে ফিরে আসবেন।</MyMotherLost.stages.my_mother_lost.description>
+  
+  <!-- EN: my nephew {0} lost -->
+  <MyNephewLost.stages.my_nephew_lost.label>আমার ভাতিজা {0} হারিয়ে গেছে</MyNephewLost.stages.my_nephew_lost.label>
+  <!-- EN: My nephew has gone lost. I hope he will get back to us someday. -->
+  <MyNephewLost.stages.my_nephew_lost.description>আমার ভাগ্নে হারিয়ে গেছে। আমি আশা করি সে কোনো একদিন আমাদের কাছে ফিরে আসবে।</MyNephewLost.stages.my_nephew_lost.description>
+  
+  <!-- EN: my niece {0} lost -->
+  <MyNieceLost.stages.my_niece_lost.label>আমার ভাগ্নী {0} হারিয়ে গেছে</MyNieceLost.stages.my_niece_lost.label>
+  <!-- EN: My niece has gone lost. I hope she will get back to us someday. -->
+  <MyNieceLost.stages.my_niece_lost.description>আমার ভাগ্নি হারিয়ে গেছে। আমি আশা করি একদিন সে আমাদের কাছে ফিরে আসবে।</MyNieceLost.stages.my_niece_lost.description>
+  
+  <!-- EN: my sister {0} lost -->
+  <MySisterLost.stages.my_sister_lost.label>আমার বোন {0} হারিয়ে গেছে</MySisterLost.stages.my_sister_lost.label>
+  <!-- EN: My sister has gone lost. I hope she will get back to us someday. -->
+  <MySisterLost.stages.my_sister_lost.description>আমার বোন হারিয়ে গেছে। আমি আশা করি কোনো একদিন সে আমাদের কাছে ফিরে আসবে।</MySisterLost.stages.my_sister_lost.description>
+  
+  <!-- EN: my son {0} lost -->
+  <MySonLost.stages.my_son_lost.label>আমার সন্তান {0} হারিয়ে গেছে।</MySonLost.stages.my_son_lost.label>
+  <!-- EN: My son has gone lost. I hope he will get back to us someday. -->
+  <MySonLost.stages.my_son_lost.description>আমার সন্তান হারিয়ে গেছে। আশা করি, কোনো একদিন সে আমাদের কাছে ফিরে আসবে।</MySonLost.stages.my_son_lost.description>
+  
+  <!-- EN: my uncle {0} lost -->
+  <MyUncleLost.stages.my_uncle_lost.label>আমার কাকা {0} হারিয়েছেন</MyUncleLost.stages.my_uncle_lost.label>
+  <!-- EN: My uncle has gone lost. I hope he will get back to us someday. -->
+  <MyUncleLost.stages.my_uncle_lost.description>আমার কাকা নিখোঁজ হয়েছেন। আমি আশা করি তিনি কোনো একদিন আমাদের কাছে ফিরে আসবেন।</MyUncleLost.stages.my_uncle_lost.description>
+  
+  <!-- EN: my wife {0} lost -->
+  <MyWifeLost.stages.my_wife_lost.label>আমার স্ত্রী {0} হারিয়ে গেছে</MyWifeLost.stages.my_wife_lost.label>
+  <!-- EN: My wife has gone lost. I hope she will get back to us someday. -->
+  <MyWifeLost.stages.my_wife_lost.description>আমার স্ত্রী নিখোঁজ হয়েছেন। আমি আশা করি একদিন না একদিন তিনি আমাদের কাছে ফিরে আসবেন।</MyWifeLost.stages.my_wife_lost.description>
+  
+  <!-- EN: my rival {0} lost -->
+  <PawnWithBadOpinionLost.stages.my_rival_lost.label>আমার প্রতিপক্ষ {0} হেরে গেছে।</PawnWithBadOpinionLost.stages.my_rival_lost.label>
+  <!-- EN: Serves them right. At least there's some justice in this world. -->
+  <PawnWithBadOpinionLost.stages.my_rival_lost.description>তাদের যা প্রাপ্য, তা হয়েছে। অন্তত এই পৃথিবীতে কিছু ন্যায়বিচার তো আছে।</PawnWithBadOpinionLost.stages.my_rival_lost.description>
+  
+  <!-- EN: my friend {0} lost -->
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.label>আমার বন্ধু {0} হারিয়ে গেছে</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
+  <!-- EN: Such a wonderful person, lost. The universe gets darker every day. -->
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.description>এত চমৎকার একজন মানুষ, হারিয়ে গেল। প্রতিদিন মহাবিশ্ব আরও অন্ধকার হয়ে যাচ্ছে।</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
+  
+</LanguageData>

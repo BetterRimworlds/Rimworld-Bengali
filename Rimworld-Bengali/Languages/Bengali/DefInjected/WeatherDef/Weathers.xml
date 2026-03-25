@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clear -->
+  <Clear.label>পরিবেশগত প্রভাব ও ভূগোল</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>একটি পরিষ্কার দিন। কোনো জরিমানা বা পরিবর্তন নেই।</Clear.description>
+  
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>শুষ্ক বজ্রঝড়</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>শুষ্ক বজ্রঝড় বিপজ্জনক কারণ বজ্রপাতের কারণে আগুন লাগতে পারে এবং তা নেভানোর জন্য বৃষ্টিও হয় না।</DryThunderstorm.description>
+  
+  <!-- EN: fog -->
+  <Fog.label>কুয়াশা</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>কুয়াশার কারণে দূরপাল্লার অস্ত্রের নির্ভুলতা কমে যায়।</Fog.description>
+  
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>কুয়াশাচ্ছন্ন বৃষ্টি</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>সঠিকতা এবং হাঁটার গতি কমিয়ে দেয়।</FoggyRain.description>
+  
+  <!-- EN: rain -->
+  <Rain.label>বৃষ্টি</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>বৃষ্টি দূরপাল্লার অস্ত্রের নির্ভুলতা কমিয়ে দেয়, আগুন নিভিয়ে দেয় এবং মানুষের গতি কমিয়ে দেয়।</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>বৃষ্টিযুক্ত বজ্রঝড়</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>বিদ্যুৎ চমকালে আগুন লাগতে পারে, তবে বৃষ্টিতে তা নিভে যাবে। বৃষ্টি গতি কমিয়ে দেয় এবং লক্ষ্যভেদের নির্ভুলতাও হ্রাস করে।</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>নরম তুষারপাত</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>তুষারপাত দূরপাল্লার অস্ত্রের নির্ভুলতা কমিয়ে দেয়, আগুন নিভিয়ে দেয় এবং মানুষের গতি কমিয়ে দেয়।</SnowGentle.description>
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>কঠিন তুষার</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>তুষারপাত দূরপাল্লার অস্ত্রের নির্ভুলতা কমিয়ে দেয়, আগুন নিভিয়ে দেয় এবং মানুষের গতি কমিয়ে দেয়।</SnowHard.description>
+  
+  <!-- EN: underground -->
+  <Underground.label>ভূগর্ভস্থ</Underground.label>
+  <!-- EN: There is no weather underground. -->
+  <Underground.description>ভূগর্ভে কোনো আবহাওয়া নেই।</Underground.description>
+  
+</LanguageData>

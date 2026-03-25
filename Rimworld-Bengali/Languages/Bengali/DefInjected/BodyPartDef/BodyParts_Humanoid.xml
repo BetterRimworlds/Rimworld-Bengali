@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arm -->
+  <Arm.label>বাহু</Arm.label>
+  
+  <!-- EN: clavicle -->
+  <Clavicle.label>ক্ল্যাভিকল</Clavicle.label>
+  
+  <!-- EN: femur -->
+  <Femur.label>ফিমার</Femur.label>
+  
+  <!-- EN: finger -->
+  <Finger.label>আঙুল</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>হাত</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>হিউমেরাস</Humerus.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>পেলভিস</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>ব্যাসার্ধ</Radius.label>
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>কাঁধ</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>স্টার্নাম</Sternum.label>
+  
+  <!-- EN: tibia -->
+  <Tibia.label>টিবিয়া</Tibia.label>
+  
+  <!-- EN: toe -->
+  <Toe.label>পায়ের আঙুল</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>ধড়</Torso.label>
+  
+  <!-- EN: utility slot -->
+  <Waist.label>ইউটিলিটি স্লট</Waist.label>
+  
+</LanguageData>

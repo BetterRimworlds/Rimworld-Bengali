@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anesthetize -->
+  <Anesthetize.label>অ্যানেস্থেটাইজ</Anesthetize.label>
+  <!-- EN: Render a creature unconscious by administering general anesthetic. -->
+  <Anesthetize.description>সাধারণ অ্যানেস্থেটিক প্রয়োগ করে একটি জীবকে অচেতন করুন।</Anesthetize.description>
+  <!-- EN: Anesthetizing. -->
+  <Anesthetize.jobString>অ্যানেস্থেসিয়া দেওয়া হচ্ছে।</Anesthetize.jobString>
+  
+  <!-- EN: euthanize by cut -->
+  <Euthanize.label>কাটার মাধ্যমে মৃত্যু ঘটানো</Euthanize.label>
+  <!-- EN: Euthanize a creature by cutting. -->
+  <Euthanize.description>কর্তন করে কোনো প্রাণীকে ইচ্ছামৃত্যু দেওয়া।</Euthanize.description>
+  <!-- EN: Euthanizing by cutting. -->
+  <Euthanize.jobString>কাটার মাধ্যমে মৃত্যু ঘটানো।</Euthanize.jobString>
+  
+  <!-- EN: remove part -->
+  <RemoveBodyPart.label>অংশ অপসারণ</RemoveBodyPart.label>
+  <!-- EN: Remove a body part. -->
+  <RemoveBodyPart.description>শরীরের একটি অংশ অপসারণ করুন।</RemoveBodyPart.description>
+  <!-- EN: Removing body part. -->
+  <RemoveBodyPart.jobString>শরীরের অংশ অপসারণ করা হচ্ছে।</RemoveBodyPart.jobString>
+  
+</LanguageData>

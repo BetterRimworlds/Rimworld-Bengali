@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>আর্কটিক শিয়াল</Fox_Arctic.label>
+  <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
+  <Fox_Arctic.description>এটি একটি ছোট শিকারী যা ঠান্ডা জলবায়ুর সাথে মানিয়ে নিয়েছে। সাধারণত ইঁদুর এবং ভলের মতো ছোট প্রাণী শিকার করে, মাঝে মাঝে শিকারের কাছে পৌঁছানোর জন্য এক মিটার পর্যন্ত বরফের মধ্যে সুড়ঙ্গ করে।</Fox_Arctic.description>
+  <!-- EN: left claw -->
+  <Fox_Arctic.tools.left_claw.label>বাম থাবা</Fox_Arctic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Arctic.tools.left_claw.labelNoLocation>নখর</Fox_Arctic.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Arctic.tools.right_claw.label>ডান থাবা</Fox_Arctic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Arctic.tools.right_claw.labelNoLocation>নখর</Fox_Arctic.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Arctic.tools.head.label>মাথা</Fox_Arctic.tools.head.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>ফেনেক শিয়াল</Fox_Fennec.label>
+  <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
+  <Fox_Fennec.description>এটি পৃথিবীর আফ্রিকার উত্তরাঞ্চল থেকে আসা একটি ছোট শিয়াল। এটি ছোট প্রাণী শিকার করে এবং গরমকালে শরীর ঠান্ডা রাখার জন্য এর কান বেশ বড়।</Fox_Fennec.description>
+  <!-- EN: fox meat -->
+  <Fox_Fennec.race.meatLabel>শিয়াল মাংস</Fox_Fennec.race.meatLabel>
+  <!-- EN: left claw -->
+  <Fox_Fennec.tools.left_claw.label>বাম থাবা</Fox_Fennec.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Fennec.tools.left_claw.labelNoLocation>নখর</Fox_Fennec.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Fennec.tools.right_claw.label>ডান থাবা</Fox_Fennec.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Fennec.tools.right_claw.labelNoLocation>নখর</Fox_Fennec.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Fennec.tools.head.label>মাথা</Fox_Fennec.tools.head.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>লাল শিয়াল</Fox_Red.label>
+  <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
+  <Fox_Red.description>ছোট, নিঃসঙ্গ একটি ক্যানিন প্রজাতি, যা নাতিশীতোষ্ণ অঞ্চলে ছোট শিকারের জন্য বিবর্তিত হয়েছে। মুরগি চাষীরা শিয়ালকে ঘৃণা করে, কারণ শিয়াল কয়েক মিনিটের মধ্যে একটি সম্পূর্ণ মুরগি ঘর ধ্বংস করতে পারে।</Fox_Red.description>
+  <!-- EN: left claw -->
+  <Fox_Red.tools.left_claw.label>বাম থাবা</Fox_Red.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Red.tools.left_claw.labelNoLocation>নখর</Fox_Red.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Red.tools.right_claw.label>ডান থাবা</Fox_Red.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Red.tools.right_claw.labelNoLocation>নখর</Fox_Red.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Red.tools.head.label>মাথা</Fox_Red.tools.head.label>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>আর্কটিক নেকড়ে</Wolf_Arctic.label>
+  <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
+  <Wolf_Arctic.description>এটি পুরাতন পৃথিবীর নেকড়ের একটি আর্কটিক প্রকার। দলবদ্ধ শিকারী হওয়ায়, নেকড়েদের জটিল সামাজিক জীবন এবং তীব্র বুদ্ধিমত্তা রয়েছে।</Wolf_Arctic.description>
+  <!-- EN: left claw -->
+  <Wolf_Arctic.tools.left_claw.label>বাম থাবা</Wolf_Arctic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Arctic.tools.left_claw.labelNoLocation>নখর</Wolf_Arctic.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Arctic.tools.right_claw.label>ডান থাবা</Wolf_Arctic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Arctic.tools.right_claw.labelNoLocation>নখর</Wolf_Arctic.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Arctic.tools.head.label>মাথা</Wolf_Arctic.tools.head.label>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>টিম্বার উলফ</Wolf_Timber.label>
+  <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
+  <Wolf_Timber.description>বহু প্রাচীন পৃথিবীর সংস্কৃতিতে বহুলভাবে ভীতিকর শিকারী। দলবদ্ধভাবে শিকারী হওয়ায়, নেকড়েদের জটিল সামাজিক জীবন এবং তীব্র বুদ্ধিমত্তা রয়েছে।</Wolf_Timber.description>
+  <!-- EN: wolf meat -->
+  <Wolf_Timber.race.meatLabel>নেকড়ের মাংস</Wolf_Timber.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Timber.tools.left_claw.label>বাম থাবা</Wolf_Timber.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Timber.tools.left_claw.labelNoLocation>पंजा</Wolf_Timber.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Timber.tools.right_claw.label>ডান থাবা</Wolf_Timber.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Timber.tools.right_claw.labelNoLocation>पंजा</Wolf_Timber.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Timber.tools.head.label>মাথা</Wolf_Timber.tools.head.label>
+  
+</LanguageData>

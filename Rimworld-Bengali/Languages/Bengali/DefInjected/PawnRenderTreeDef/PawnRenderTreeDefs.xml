@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Carried thing -->
+  <Animal.root.children.1.debugLabel>বহন করা বস্তু</Animal.root.children.1.debugLabel>
+  
+  <!-- EN: Body tattoo -->
+  <Humanlike.root.children.0.children.0.debugLabel>শরীর ট্যাটু</Humanlike.root.children.0.children.0.debugLabel>
+  <!-- EN: Wounds - pre apparel -->
+  <Humanlike.root.children.0.children.1.debugLabel>ক্ষত - পোশাকের আগে</Humanlike.root.children.0.children.1.debugLabel>
+  <!-- EN: Baby swaddle -->
+  <Humanlike.root.children.0.children.2.debugLabel>শিশুর পোশাক</Humanlike.root.children.0.children.2.debugLabel>
+  <!-- EN: Apparel root -->
+  <Humanlike.root.children.0.children.3.debugLabel>পোশাক মূল</Humanlike.root.children.0.children.3.debugLabel>
+  <!-- EN: Wounds - post apparel -->
+  <Humanlike.root.children.0.children.4.debugLabel>পোশাক-পরবর্তী ক্ষত</Humanlike.root.children.0.children.4.debugLabel>
+  <!-- EN: Head stump -->
+  <Humanlike.root.children.1.debugLabel>মাথার গোঁফড়ি</Humanlike.root.children.1.debugLabel>
+  <!-- EN: Head tattoo -->
+  <Humanlike.root.children.2.children.0.debugLabel>মাথার ট্যাটু</Humanlike.root.children.2.children.0.debugLabel>
+  <!-- EN: Head wounds -->
+  <Humanlike.root.children.2.children.3.debugLabel>মাথার আঘাত</Humanlike.root.children.2.children.3.debugLabel>
+  <!-- EN: Apparel root -->
+  <Humanlike.root.children.2.children.4.debugLabel>পোশাক মূল</Humanlike.root.children.2.children.4.debugLabel>
+  <!-- EN: Status overlay -->
+  <Humanlike.root.children.2.children.6.debugLabel>অবস্থা ওভারলে</Humanlike.root.children.2.children.6.debugLabel>
+  <!-- EN: Weapon/carried thing -->
+  <Humanlike.root.children.3.debugLabel>অস্ত্র/বহনযোগ্য বস্তু</Humanlike.root.children.3.debugLabel>
+  
+  <!-- EN: Weapon/carried thing -->
+  <Misc.root.children.1.debugLabel>অস্ত্র/বহনযোগ্য বস্তু</Misc.root.children.1.debugLabel>
+  
+</LanguageData>

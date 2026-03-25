@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist --><!-- EN: colono -->
+  <Colonist.label>উপনিবেশকারী</Colonist.label><!-- EN: colonos -->
+  <Colonist.labelPlural>কলোনিবাসী</Colonist.labelPlural>
+  
+  <!-- EN: member --><!-- EN: miembro de tribu -->
+  <Tribesperson.label>উপজাতি সদস্য</Tribesperson.label><!-- EN: miembros de tribu -->
+  <Tribesperson.labelPlural>উপজাতি সদস্য</Tribesperson.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barricade -->
+  <Barricade.label>বাধা</Barricade.label>
+  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
+  <Barricade.description>আড়াল হিসেবে আসা গুলির হাত থেকে বাঁচতে কোমর পর্যন্ত উঁচু বাধা। ব্যারিকেড দেখতে কুৎসিত, কিন্তু অন্যান্য ছোটখাটো জিনিসের চেয়ে ভালো আড়াল দেয়। ব্যারিকেড বেড়ার মতো একই উপায়ে কিছু প্রজাতির প্রাণীকে আটকাতে পারবে।</Barricade.description>
+  
+  <!-- EN: sandbags -->
+  <Sandbags.label>বালির বস্তা</Sandbags.label>
+  <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
+  <Sandbags.description>স্থানীয়ভাবে সংগৃহীত মাটি বা বালির ব্যাগ, যা আড়াল হিসেবে ব্যবহারের জন্য স্তুপ করে রাখা হয়। স্যান্ডব্যাগ দেখতে কুৎসিত হলেও অন্যান্য ছোট বস্তুর চেয়ে ভালো আড়াল প্রদান করে।</Sandbags.description>
+  
+  <!-- EN: IED antigrain warhead trap -->
+  <TrapIED_AntigrainWarhead.label>আইইডি অ্যান্টিগ্রেইন ওয়ারহেড ফাঁদ</TrapIED_AntigrainWarhead.label>
+  <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_AntigrainWarhead.description>স্পর্শ বা বুলেটের আঘাতে বিস্ফোরিত হয় এমন একটি ট্রিগার-সংযুক্ত অ্যান্টিম্যাটার চালিত অ্যান্টিগ্রেইন ওয়ারহেড। এটি আশেপাশের ভূখণ্ডে লুকানো থাকায়, অন্যান্য ফাঁদের পাশে রাখা যায় না। শান্ত থাকলে পশুরা এগুলো অনুভব করতে পারে।</TrapIED_AntigrainWarhead.description>
+  
+  <!-- EN: IED EMP trap -->
+  <TrapIED_EMP.label>আইইডি ইএমপি ফাঁদ</TrapIED_EMP.label>
+  <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_EMP.description>স্পর্শ বা বুলেটের আঘাতে বিস্ফোরিত হয় এমন একটি ট্রিগারের সাথে সংযুক্ত ইএমপি শেল-এর একটি জোড়া। বিস্ফোরণ মেকানোইডসমূহকে কয়েক সেকেন্ডের জন্য পঙ্গু করে দিতে পারে। যেহেতু এটি আশেপাশের ভূখণ্ডে লুকানো থাকে, তাই এটি অন্যান্য ফাঁদের পাশে রাখা যায় না। শান্ত থাকলে পশুরা এগুলো অনুভব করতে পারে।</TrapIED_EMP.description>
+  
+  <!-- EN: IED firefoam trap -->
+  <TrapIED_Firefoam.label>আইইডি ফোম ফাঁদ</TrapIED_Firefoam.label>
+  <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Firefoam.description>স্পর্শ বা বুলেটের আঘাতে বিস্ফোরিত হয় এমন একটি ট্রিগার-সংযুক্ত অগ্নি-ফেনা শেল-এর জোড়া। যেহেতু এটি চারপাশের ভূখণ্ডে লুকানো থাকে, তাই এটি অন্যান্য ফাঁদের পাশে রাখা যায় না। শান্ত থাকলে পশুরা এগুলো অনুভব করতে পারে।</TrapIED_Firefoam.description>
+  
+  <!-- EN: IED trap -->
+  <TrapIED_HighExplosive.label>আইইডি ফাঁদ</TrapIED_HighExplosive.label>
+  <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_HighExplosive.description>এটি একটি উচ্চ বিস্ফোরক শেল-এর জোড়া, যা একটি ট্রিগারের সাথে যুক্ত—স্পর্শ বা বুলেটের আঘাতে বিস্ফোরিত হয়। যেহেতু এটি চারপাশের ভূখণ্ডে লুকানো থাকে, তাই এটি অন্যান্য ফাঁদের পাশে রাখা যায় না। শান্ত থাকলে পশুরা এগুলো অনুভব করতে পারে।</TrapIED_HighExplosive.description>
+  
+  <!-- EN: IED incendiary trap -->
+  <TrapIED_Incendiary.label>ফাঁদ দাহ্য</TrapIED_Incendiary.label>
+  <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Incendiary.description>স্পর্শ বা বুলেটের আঘাতে বিস্ফোরিত হয় এমন একটি ট্রিগার-সংযুক্ত দাহ্য শেল-এর জোড়া। এটি চারপাশের ভূখণ্ডে লুকানো থাকার কারণে, অন্যান্য ফাঁদের পাশে রাখা যায় না। শান্ত থাকলে পশুরা এগুলো অনুভব করতে পারে।</TrapIED_Incendiary.description>
+  
+  <!-- EN: IED smoke trap -->
+  <TrapIED_Smoke.label>আইইডি ধোঁয়া ফাঁদ</TrapIED_Smoke.label>
+  <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Smoke.description>স্পর্শ বা বুলেটের আঘাতে বিস্ফোরিত হয় এমন একটি ট্রিগারের সাথে যুক্ত ধোঁয়া শেল-এর একটি জোড়া। যেহেতু এটি আশেপাশের ভূখণ্ডে লুকানো থাকে, তাই অন্যান্য ফাঁদের পাশে এটি স্থাপন করা যায় না। শান্ত অবস্থায় থাকলে প্রাণীরা এগুলো অনুভব করতে পারে।</TrapIED_Smoke.description>
+  
+  <!-- EN: spike trap -->
+  <TrapSpike.label>ফাঁদ: স্পাইক</TrapSpike.label>
+  <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapSpike.description>পাঁচটি স্পাইক টেনশনের মধ্যে আছে, একটি স্পর্শ-সক্রিয় ট্রিগারের সাথে সংযুক্ত। যখন কোনো শিকার ট্রিগারটিকে বিরক্ত করে, তখন স্পাইকগুলো বেরিয়ে এসে শিকারকে আঘাত করে। যেহেতু এটি আশেপাশের ভূখণ্ডে লুকানো থাকে, তাই এটি অন্যান্য ফাঁদের পাশে রাখা যায় না। শান্ত অবস্থায় থাকলে প্রাণীরা এগুলো অনুভব করতে পারে।</TrapSpike.description>
+  
+</LanguageData>

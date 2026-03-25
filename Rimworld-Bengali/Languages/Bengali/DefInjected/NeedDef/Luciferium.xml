@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: luciferium -->
+  <Chemical_Luciferium.label>লুসিফেরিয়াম</Chemical_Luciferium.label>
+  <!-- EN: This person's body is enhanced by luciferium mechanites.\n\nWithout regular doses of luciferium, the mechanites will lose cohesion. If this happens, the user becomes continuously, violently insane and eventually dies.\n\nThis addiction never goes away. -->
+  <Chemical_Luciferium.description>এই ব্যক্তির শরীর লুসিফেরিয়াম মেকানাইট দ্বারা উন্নত করা হয়েছে।\n\nনিয়মিতভাবে লুসিফেরিয়ামের ডোজ না পেলে মেকানাইটগুলি তাদের সংহতি হারাবে। এটি ঘটলে, ব্যবহারকারী ক্রমাগত, হিংস্রভাবে উন্মাদ হয়ে যাবেন এবং শেষ পর্যন্ত মারা যাবেন।\n\nএই আসক্তি কখনো যায় না।</Chemical_Luciferium.description>
+  
+</LanguageData>

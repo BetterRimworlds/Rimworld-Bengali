@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: club -->
+  <MeleeWeapon_Club.label>ক্লাব</MeleeWeapon_Club.label>
+  <!-- EN: A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club. -->
+  <MeleeWeapon_Club.description>এটি এক প্রকারের লাঠি, যার এক প্রান্ত ভারী, এবং যা দিয়ে শত্রুদের আঘাত করে মারা হয়। এই অস্ত্রটি এতটাই প্রাচীন যে এটি মানুষের জীববিজ্ঞানের অংশ। বিবর্তনীয় জীববিজ্ঞানীরা বলেন যে মানুষের কব্জিগুলি পার্শ্বে ঘোরানোর প্রধান কারণ (অন্যান্য প্রাইমেটদের মতো কেবল সামনে ও পিছনে নয়) হল একটি ক্লাব ভালোভাবে ঘোরাতে সক্ষম হওয়া।</MeleeWeapon_Club.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Club.tools.handle.label>হ্যান্ডেল</MeleeWeapon_Club.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Club.tools.head.label>মাথা</MeleeWeapon_Club.tools.head.label>
+  
+  <!-- EN: ikwa -->
+  <MeleeWeapon_Ikwa.label>ইকোয়া</MeleeWeapon_Ikwa.label>
+  <!-- EN: A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
+  <MeleeWeapon_Ikwa.description>একটি ছোট বর্শার হাতল একটি লম্বা ফলাকার অংশের সাথে যুক্ত, যা দ্রুত খোঁচা দিয়ে শরীরের গুরুত্বপূর্ণ অঙ্গগুলোতে আঘাত করার জন্য তৈরি করা হয়েছে।</MeleeWeapon_Ikwa.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Ikwa.tools.handle.label>হ্যান্ডেল</MeleeWeapon_Ikwa.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Ikwa.tools.head.label>মাথা</MeleeWeapon_Ikwa.tools.head.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Ikwa.tools.edge.label>ধার</MeleeWeapon_Ikwa.tools.edge.label>
+  
+  <!-- EN: knife -->
+  <MeleeWeapon_Knife.label>ছুরি</MeleeWeapon_Knife.label>
+  <!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting. -->
+  <MeleeWeapon_Knife.description>মানবজাতির প্রাচীনতম তৈরি বস্তুর মধ্যে এটি একটি। ছুরি বিভিন্ন রূপ নিয়েছে, কিন্তু ধারণাটি সর্বদা একই থেকেছে: ধরার জন্য একটি হাতল এবং কাটার জন্য একটি ধারালো প্রান্ত।</MeleeWeapon_Knife.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Knife.tools.handle.label>হ্যান্ডেল</MeleeWeapon_Knife.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_Knife.tools.blade.label>ব্লেড</MeleeWeapon_Knife.tools.blade.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Knife.tools.point.label>পয়েন্ট</MeleeWeapon_Knife.tools.point.label>
+  
+  <!-- EN: spear -->
+  <MeleeWeapon_Spear.label>বর্শা</MeleeWeapon_Spear.label>
+  <!-- EN: A polearm tipped with a sharp point for stabbing opponents. -->
+  <MeleeWeapon_Spear.description>প্রতিপক্ষের আঘাত করার জন্য একটি ধারালো ফলাযুক্ত লম্বা বর্শা।</MeleeWeapon_Spear.description>
+  <!-- EN: shaft -->
+  <MeleeWeapon_Spear.tools.shaft.label>শ্যাফট</MeleeWeapon_Spear.tools.shaft.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Spear.tools.point.label>পয়েন্ট</MeleeWeapon_Spear.tools.point.label>
+  
+</LanguageData>

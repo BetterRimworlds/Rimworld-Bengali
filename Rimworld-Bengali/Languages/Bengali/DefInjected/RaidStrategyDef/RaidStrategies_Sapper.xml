@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
+  <ImmediateAttackSappers.arrivalTextEnemy>মনে হচ্ছে তারা আপনার দুর্গ ভেদ করে সুড়ঙ্গ তৈরি করার জন্য সাপার ব্যবহার করতে চাইছে।</ImmediateAttackSappers.arrivalTextEnemy>
+  <!-- EN: Raid -->
+  <ImmediateAttackSappers.letterLabelEnemy>হানা</ImmediateAttackSappers.letterLabelEnemy>
+  
+</LanguageData>

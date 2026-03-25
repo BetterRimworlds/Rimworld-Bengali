@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked member -->
+  <AttackedMember.label>আক্রমিত সদস্য</AttackedMember.label>
+  
+  <!-- EN: tended to member -->
+  <FriendlyExitedMapTended.label>সদস্যের যত্ন</FriendlyExitedMapTended.label>
+  
+  <!-- EN: guilty prisoner died -->
+  <GuiltyPrisonerDied.label>দোষী বন্দী মারা গেছে</GuiltyPrisonerDied.label>
+  
+  <!-- EN: innocent prisoner died -->
+  <InnocentPrisonerDied.label>নিরীহ বন্দী মারা গেছে</InnocentPrisonerDied.label>
+  
+  <!-- EN: member captured -->
+  <MemberCaptured.label>বন্দী সদস্য</MemberCaptured.label>
+  
+  <!-- EN: member crushed -->
+  <MemberCrushed.label>সদস্য চূর্ণ</MemberCrushed.label>
+  
+  <!-- EN: member exited map healthy -->
+  <MemberExitedMapHealthy.label>সদস্য সুস্থভাবে মানচিত্র ত্যাগ করেছে</MemberExitedMapHealthy.label>
+  
+  <!-- EN: member killed -->
+  <MemberKilled.label>সদস্য নিহত</MemberKilled.label>
+  
+  <!-- EN: member died -->
+  <MemberNeutrallyDied.label>সদস্য মারা গেছে</MemberNeutrallyDied.label>
+  
+  <!-- EN: member sold -->
+  <MemberSold.label>সদস্য বিক্রি</MemberSold.label>
+  
+  <!-- EN: member stripped -->
+  <MemberStripped.label>সদস্য অপসারিত</MemberStripped.label>
+  
+  <!-- EN: harmful surgery on member -->
+  <PerformedHarmfulSurgery.label>সদস্যের ক্ষতিকর সার্জারি</PerformedHarmfulSurgery.label>
+  
+  <!-- EN: prisoner died -->
+  <PrisonerDied.label>বন্দী মারা গেছে</PrisonerDied.label>
+  
+  <!-- EN: harmed member -->
+  <UsedHarmfulItem.label>ক্ষতিগ্রস্ত সদস্য</UsedHarmfulItem.label>
+  
+  <!-- EN: member's xenogerm absorbed -->
+  <XenogermAbsorbed.label>সদস্যের জেনোজার্ম শোষিত</XenogermAbsorbed.label>
+  
+</LanguageData>

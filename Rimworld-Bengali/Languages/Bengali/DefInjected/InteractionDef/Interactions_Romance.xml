@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breakup -->
+  <Breakup.label>ruptura</Breakup.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
+  -->
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] সম্পর্ক ছিন্ন করেছে [RECIPIENT_nameDef]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] চেয়েছেন [RECIPIENT_nameDef] একটু একা থাকার সময়।</li>
+    <li>r_logentry->[INITIATOR_nameDef] অনুরোধ করেছে [RECIPIENT_nameDef] যে তাদের আবার বন্ধু হওয়া উচিত।</li>
+    <li>r_logentry->[INITIATOR_nameDef] তার রোমান্টিক সম্পর্ক শেষ করেছে [RECIPIENT_nameDef]।</li>
+  </Breakup.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: marriage proposal -->
+  <MarriageProposal.label>Propuesta de matrimonio</MarriageProposal.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
+  -->
+  <MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] বিয়ের প্রস্তাব দিয়েছে [RECIPIENT_nameDef]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] {[INITIATOR_nameDef]} {[RECIPIENT_nameDef]}-কে জীবনব্যাপী প্রতিশ্রুতি দিয়েছে [RECIPIENT_nameDef]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] ঘোষণা করেছে যে সে তার বাকি জীবন কাটাতে চায় [RECIPIENT_nameDef]।</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: romance attempt -->
+  <RomanceAttempt.label>coquetear</RomanceAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
+    <li>wooed->tried to flirt with</li>
+    <li>wooed->flirted with</li>
+    <li>wooed->tried to attract</li>
+    <li>wooed->tried to romance</li>
+    <li>wooed->tried to woo</li>
+    <li>wooed->wooed</li>
+    <li>wooed->pursued</li>
+    <li>wooed->charmed</li>
+    <li>wooed->courted</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->telling a story about [TalkTopicAny]</li>
+    <li>wootactic->telling a tale about [TalkTopicAny]</li>
+    <li>wootactic->joking about [TalkTopicAny]</li>
+    <li>wootactic->making an observation about [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
+    <li>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</li>
+    <li>boasting->boasting about</li>
+    <li>boasting->mentioning</li>
+    <li>boasting->implying good things about</li>
+    <li>boasting->exaggerating</li>
+    <li>boasting->talking about</li>
+    <li>boasting->drawing attention to</li>
+    <li>complimenting(p=3)->complimenting</li>
+    <li>complimenting->subtly complimenting</li>
+    <li>complimenting->lauding</li>
+    <li>complimenting->commending</li>
+    <li>complimenting->saying good things about</li>
+    <li>complimenting(p=2)->playfully making fun of</li>
+    <li>complimenting->jokingly poking at</li>
+    <li>complimenting->jokingly half-complimenting</li>
+    <li>complimenting->impishly questioning</li>
+    <li>complimenting->cheerfully making fun of</li>
+    <li>romantic_adj->beautiful</li>
+    <li>romantic_adj->shining</li>
+    <li>romantic_adj->glimmering</li>
+    <li>romantic_adj->heavenly</li>
+    <li>romantic_adj->golden</li>
+    <li>romantic_adj->bright</li>
+    <li>romantic_adj->breathtaking</li>
+    <li>romantic_adj->charming</li>
+    <li>romantic_adj->dazzling</li>
+    <li>romantic_adj->delicate</li>
+    <li>romantic_adj->fine</li>
+    <li>romantic_adj->magnificent</li>
+    <li>romantic_adj->lovely</li>
+    <li>romantic_adj->wonderful</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->flower</li>
+    <li>romantic_noun->spring</li>
+    <li>romantic_noun->river</li>
+    <li>romantic_noun->star</li>
+    <li>romantic_noun->moon</li>
+    <li>romantic_noun->sun</li>
+    <li>romantic_noun->house</li>
+    <li>romantic_noun->aurora</li>
+    <li>romantic_noun->[TreeType] tree</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] তে [wootactic]।</li>
+    <li>wooed->ফ্লার্ট করার চেষ্টা করেছিল</li>
+    <li>wooed->ফ্লার্ট করেছিল</li>
+    <li>wooed->আকর্ষণ করার চেষ্টা করেছিল।</li>
+    <li>wooed->প্রণয় শুরু করার চেষ্টা করেছে</li>
+    <li>wooed->প্রলুব্ধ করার চেষ্টা করেছে</li>
+    <li>wooed->আকর্ষণ করেছিল</li>
+    <li>wooed->জয়ী করার চেষ্টা করেছিল</li>
+    <li>wooed->ফ্লার্ট করেছিল</li>
+    <li>wooed->প্রলুব্ধ করার চেষ্টা করেছিল</li>
+    <li>wootactic(p=4)->[complimenting] তাঁর [PersonalCharacteristic]</li>
+    <li>wootactic->[টকবিষয় যেকোন] সম্পর্কে একটি গল্প বলা [TalkTopicAny]</li>
+    <li>wootactic->[টকবিষয়] সম্পর্কে গল্প বলা [TalkTopicAny]</li>
+    <li>wootactic->আলোচনা করা [TalkTopicAny]</li>
+    <li>wootactic->[boasting] [INITIATOR_possessive] নিজস্ব [PersonalCharacteristic]</li>
+    <li>wootactic->[boasting] [INITIATOR_possessive] নিজস্ব [PersonalCharacteristic_Fem]</li>
+    <li>wootactic->তুলনা করা[RECIPIENT_objective] একটি সঙ্গে [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->বর্ণনা করা[RECIPIENT_objective] হিসাবে একটি [romantic_adj] [romantic_noun]</li>
+    <li>boasting->অহংকার করা</li>
+    <li>boasting->উল্লেখ করা</li>
+    <li>boasting->ভালো কিছু সম্পর্কে ধারণা দেওয়া</li>
+    <li>boasting->অতিরঞ্জিত করা</li>
+    <li>boasting->সম্পর্কে আলোচনা করা</li>
+    <li>boasting->দৃষ্টি আকর্ষণ করা</li>
+    <li>complimenting(p=3)->প্রশংসা করা</li>
+    <li>complimenting->সূক্ষ্মভাবে প্রশংসা করা</li>
+    <li>complimenting->প্রশংসা করা</li>
+    <li>complimenting->প্রশংসা করা</li>
+    <li>complimenting->প্রশংসা করা</li>
+    <li>complimenting(p=2)->উপহাস করা</li>
+    <li>complimenting->উদযাপন করা</li>
+    <li>complimenting->উপহাস করা</li>
+    <li>complimenting->সূক্ষ্মভাবে প্রশংসা করা</li>
+    <li>complimenting->উপহাস করা</li>
+    <li>romantic_adj->সুন্দর</li>
+    <li>romantic_adj->সুন্দরিকা</li>
+    <li>romantic_adj->সুন্দর</li>
+    <li>romantic_adj->সুন্দর</li>
+    <li>romantic_adj->উজ্জ্বল</li>
+    <li>romantic_adj->সুন্দর</li>
+    <li>romantic_adj->সুস্বাদু</li>
+    <li>romantic_adj->সূক্ষ্ম</li>
+    <li>romantic_adj->চমৎকার</li>
+    <li>romantic_adj->সূক্ষ্ম</li>
+    <li>romantic_adj->অದ್ভূত</li>
+    <li>romantic_adj->সূক্ষ্ম</li>
+    <li>romantic_adj->সুন্দরিকা</li>
+    <li>romantic_adj->জমকালো</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass_Fem]</li>
+    <li>romantic_noun->ফুল</li>
+    <li>romantic_noun->প্রতিমা</li>
+    <li>romantic_noun->মেঘ</li>
+    <li>romantic_noun->তারা</li>
+    <li>romantic_noun->ভাস্কর্য</li>
+    <li>romantic_noun->চাঁদ</li>
+    <li>romantic_noun->বাড়ি</li>
+    <li>romantic_noun->অরোরা</li>
+    <li>romantic_noun->এর গাছ [TreeType_Fem]</li>
+    <li>romantic_noun(p=2)->[TerrainFeature_Fem]</li>
+    <li>romantic_noun(p=2)->[NaturalObject_Fem]</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

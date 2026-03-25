@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administered drug -->
+  <AdministeredDrug.label>প্রশাসিত ওষুধ</AdministeredDrug.label>
+  
+  <!-- EN: administered hard drug -->
+  <AdministeredHardDrug.label>প্রশাসিত কঠোর মাদক</AdministeredHardDrug.label>
+  
+  <!-- EN: administered recreational drug -->
+  <AdministeredRecreationalDrug.label>প্রশাসিত বিনোদনমূলক ড্রাগ</AdministeredRecreationalDrug.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat.label>মানুষের মাংস খাওয়া হয়েছে</AteHumanMeat.label>
+  
+  <!-- EN: build building -->
+  <BuildSpecificDef.label>নির্মাণ কাঠামো</BuildSpecificDef.label>
+  
+  <!-- EN: joiner refused -->
+  <CharityRefused_ThreatReward_Joiner.label>যোগাযোগে প্রত্যাখ্যান</CharityRefused_ThreatReward_Joiner.label>
+  
+  <!-- EN: cut tree -->
+  <CutTree.label>গাছ কাটা</CutTree.label>
+  
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>ধ্বংসপ্রাপ্ত প্রাকৃতিক দেওয়াল</DestroyedMineable.label>
+  
+  <!-- EN: used drug -->
+  <IngestedDrug.label>ব্যবহৃত ওষুধ</IngestedDrug.label>
+  
+  <!-- EN: used hard drug -->
+  <IngestedHardDrug.label>হার্ড ড্রাগ ব্যবহার</IngestedHardDrug.label>
+  
+  <!-- EN: used recreational drug -->
+  <IngestedRecreationalDrug.label>ব্যবহৃত বিনোদনমূলক মাদক</IngestedRecreationalDrug.label>
+  
+  <!-- EN: installed prosthetic -->
+  <InstalledProsthetic.label>স্থাপিত কৃত্রিম অঙ্গ</InstalledProsthetic.label>
+  
+  <!-- EN: mined -->
+  <Mined.label>খননকৃত</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>গাছ মারা গেছে</MinifiedTreeDied.label>
+  
+  <!-- EN: researching -->
+  <Researching.label>গবেষণা চলছে</Researching.label>
+  
+  <!-- EN: sowed food plant -->
+  <SowedHumanFoodPlant.label>রোপিত খাদ্য উদ্ভিদ</SowedHumanFoodPlant.label>
+  
+  <!-- EN: sowed plant -->
+  <SowedPlant.label>রোপণকৃত চারা</SowedPlant.label>
+  
+</LanguageData>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>সৌন্দর্য</Beauty.label>
+  <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
+  <Beauty.description>কোনো বস্তুর দিকে তাকালে তা কতটা আনন্দদায়ক লাগে।\n\nসুন্দর বস্তু চরিত্রদের সৌন্দর্যের চাহিদা পূরণ করে।</Beauty.description>
+  
+  <!-- EN: outdoor beauty -->
+  <BeautyOutdoors.label>বহিঃসৌন্দর্য</BeautyOutdoors.label>
+  <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
+  <BeautyOutdoors.description>বাইরে থাকা কোনো জিনিস দেখতে কতটা আনন্দদায়ক।\n\nসুন্দর বস্তু মানুষের সৌন্দর্যের চাহিদা পূরণ করে।</BeautyOutdoors.description>
+  
+  <!-- EN: caravan speed factor -->
+  <CaravanBonusSpeedFactor.label>caravan গতি গুণাঙ্ক</CaravanBonusSpeedFactor.label>
+  <!-- EN: A multiplier applied to a caravan's speed when this person is part of a caravan. -->
+  <CaravanBonusSpeedFactor.description>একটি বহরের গতির উপর প্রয়োগ করা গুণক, যখন এই ব্যক্তি কোনো বহরের অংশ হয়।</CaravanBonusSpeedFactor.description>
+  
+  <!-- EN: cleanliness -->
+  <Cleanliness.label>পরিচ্ছন্নতা</Cleanliness.label>
+  <!-- EN: How much an object contributes to an area's cleanliness score. -->
+  <Cleanliness.description>একটি বস্তু কোনো অঞ্চলের পরিচ্ছন্নতার স্কোরকে কতটা প্রভাবিত করে।</Cleanliness.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>আরাম</Comfort.label>
+  <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
+  <Comfort.description>কোনো বস্তুর উপর বসা বা শুয়ে থাকার সময় কতটা আরাম পাওয়া যায়।\n\nআরামদায়ক বস্তু ব্যবহার করলে একজন চরিত্রের আরামের চাহিদা পূরণ হয়।</Comfort.description>
+  
+  <!-- EN: deterioration rate -->
+  <DeteriorationRate.label>ক্ষয় হার</DeteriorationRate.label>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, pollution or being left in shallow water. -->
+  <DeteriorationRate.description>বাইরে ফেলে রাখলে এই বস্তুটি প্রতিদিন গড়ে কত হিট পয়েন্ট হারে নষ্ট হয়।\n\nআবহাওয়া, ছাদ, বিষাক্ত তেজস্ক্রিয়তা, দূষণ অথবা অগভীর জলে ফেলে রাখলে এই নষ্ট হওয়ার হার প্রভাবিত হতে পারে।</DeteriorationRate.description>
+  <!-- EN: {0} / day -->
+  <DeteriorationRate.formatString>{0} / দিন</DeteriorationRate.formatString>
+  
+  <!-- EN: flammability -->
+  <Flammability.label>দাহ্যতা</Flammability.label>
+  <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
+  <Flammability.description>কোনো বস্তু কতটা সহজে আগুন ধরে এবং পোড়ার সময় আগুন কতটা দ্রুত ছড়ায়।</Flammability.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChanceFixedHuman.label>খাদ্য বিষক্রিয়ার সম্ভাবনা</FoodPoisonChanceFixedHuman.label>
+  <!-- EN: The chance this food will cause food poisoning. -->
+  <FoodPoisonChanceFixedHuman.description>এই খাবার থেকে ফুড পয়জনিং হওয়ার সম্ভাবনা।</FoodPoisonChanceFixedHuman.description>
+  <!-- EN: food poison chance (food stat) -->
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>খাদ্য বিষক্রিয়ার সম্ভাবনা (খাদ্য পরিসংখ্যান)</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>বাজার মূল্য</MarketValue.label>
+  <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
+  <MarketValue.description>একটি বস্তুর বাজার মূল্য।\n\nআলোচনার দক্ষতা, সম্পর্ক এবং অন্যান্য প্রাসঙ্গিক কারণগুলির দ্বারা প্রকৃত বাণিজ্য মূল্য সমন্বয় করা হবে।</MarketValue.description>
+  
+  <!-- EN: market value ignoring hitpoints -->
+  <MarketValueIgnoreHp.label>মূল্য (HP বাদে)</MarketValueIgnoreHp.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>ভর</Mass.label>
+  <!-- EN: The physical mass of an object or creature. -->
+  <Mass.description>বস্তু বা প্রাণীর ভৌত ভর।</Mass.description>
+  <!-- EN: {0} kg -->
+  <Mass.formatString>{0} কেজি</Mass.formatString>
+  
+  <!-- EN: max hit points -->
+  <MaxHitPoints.label>সর্বোচ্চ হিট পয়েন্ট</MaxHitPoints.label>
+  <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
+  <MaxHitPoints.description>একটি বস্তুর সর্বোচ্চ হিট পয়েন্ট।\n\nএটি ধ্বংস হওয়ার আগে বস্তুটির কতটা ক্ষতি সহ্য করতে পারবে তা বোঝায়।</MaxHitPoints.description>
+  
+  <!-- EN: nutrition -->
+  <Nutrition.label>পুষ্টি</Nutrition.label>
+  <!-- EN: How nutritious this food is. -->
+  <Nutrition.description>এই খাবারটি কতটা পুষ্টিকর।</Nutrition.description>
+  
+  <!-- EN: honor value -->
+  <RoyalFavorValue.label>সম্মান মান</RoyalFavorValue.label>
+  <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
+  <RoyalFavorValue.description>এই জিনিসটি একজন সম্মান সংগ্রাহককে দেওয়ার জন্য আপনার বণিক যে পরিমাণ সম্মান অর্জন করবে।</RoyalFavorValue.description>
+  
+  <!-- EN: sell price multiplier -->
+  <SellPriceFactor.label>বিক্রয় মূল্য গুণক</SellPriceFactor.label>
+  <!-- EN: A multiplier on the price at which you can sell items. -->
+  <SellPriceFactor.description>পণ্যের বিক্রয়মূল্যের উপর একটি গুণক।</SellPriceFactor.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyTurret.label>গুলি করার নির্ভুলতা</ShootingAccuracyTurret.label>
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyTurret.description>শট দূরত্বের প্রতি কোষের জন্য লক্ষ্যভ্রষ্ট না হওয়ার প্রাথমিক সুযোগ।\n\nলক্ষ্য করার সুযোগ আরও অনেক কারণের দ্বারা প্রভাবিত হয়। কোনো শটের জন্য লক্ষ্য করার সুযোগের ব্যাখ্যা জানতে, একজন শুটার নির্বাচন করুন এবং লক্ষ্যবস্তুর উপর মাউস নিয়ে যান।</ShootingAccuracyTurret.description>
+  <!-- EN: shooting accuracy (turrets) -->
+  <ShootingAccuracyTurret.labelForFullStatList>টারেটসমূহের শুটিং নির্ভুলতা</ShootingAccuracyTurret.labelForFullStatList>
+  
+  <!-- EN: work to make -->
+  <WorkToMake.label>কাজ তৈরি করুন</WorkToMake.label>
+  <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
+  <WorkToMake.description>সমস্ত উপকরণ সংগ্রহ করার পরে একটি জিনিস তৈরি করতে যে পরিমাণ কাজ লাগে তার প্রাথমিক পরিমাণ।</WorkToMake.description>
+  
+</LanguageData>

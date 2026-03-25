@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alzheimer's -->
+  <Alzheimers.label>আলঝেইমার্স</Alzheimers.label>
+  <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
+  <Alzheimers.description>এটি সাধারণত বার্ধক্যজনিত একটি মস্তিষ্কের রোগ। অ্যালঝেইমার রোগ চিন্তাভাবনা ও স্মৃতিশক্তি ধীরে ধীরে হ্রাস করে। রোগী নিকটাত্মীয়দেরও ভুলতে পারে এবং মাঝে মাঝে বিভ্রান্ত হয়ে ঘুরে বেড়াতে পারে।</Alzheimers.description><!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
+  <Alzheimers.labelNoun>একটি মস্তিষ্কের রোগ যা সাধারণত বার্ধক্যের সাথে সম্পর্কিত। অ্যালঝেইমার রোগ চিন্তাভাবনা ও মনে রাখার ক্ষমতা ধীরে ধীরে হ্রাস করে। রোগী নিকটাত্মীয়দের ভুলতে পারে এবং মাঝে মাঝে বিভ্রান্ত হয়ে ঘুরে বেড়াতে পারে।</Alzheimers.labelNoun>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-0.label>ক্ষুদ্র</Alzheimers.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-1.label>ক্ষুদ্র</Alzheimers.stages.minor-1.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-0.label>গুরুতর</Alzheimers.stages.major-0.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-1.label>গুরুতর</Alzheimers.stages.major-1.label>
+  
+  <!-- EN: asthma -->
+  <Asthma.label>শ্বাসকষ্ট</Asthma.label>
+  <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
+  <Asthma.description>এটি ফুসফুসের শ্বাসনালীর দীর্ঘমেয়াদী প্রদাহজনিত রোগ। উপসর্গগুলি প্রতিরোধ করতে নিয়মিত পরিচর্যা প্রয়োজন।</Asthma.description><!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
+  <Asthma.labelNoun>ফুসফুসের শ্বাসনালীর দীর্ঘমেয়াদী প্রদাহজনিত রোগ। উপসর্গগুলি প্রতিরোধ করতে নিয়মিত যত্নের প্রয়োজন।</Asthma.labelNoun>
+  <!-- EN: minor -->
+  <Asthma.stages.minor.label>ক্ষুদ্র</Asthma.stages.minor.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-0.label>গুরুতর</Asthma.stages.major-0.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-1.label>গুরুতর</Asthma.stages.major-1.label>
+  
+  <!-- EN: bad back -->
+  <BadBack.label>খারাপ পিঠ</BadBack.label>
+  <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
+  <BadBack.description>মেরুদণ্ড এবং পার্শ্ববর্তী পেশীতে অবনতি। এর ফলে মসৃণভাবে নড়াচড়া করা এবং বাঁকানো কঠিন হয়ে যায়।</BadBack.description>
+  <!-- EN: a bad back -->
+  <BadBack.labelNoun>খারাপ পিঠ</BadBack.labelNoun>
+  
+  <!-- EN: blindness -->
+  <Blindness.label>অন্ধত্ব</Blindness.label>
+  <!-- EN: Total inability to see. -->
+  <Blindness.description>সম্পূর্ণভাবে দেখতে অক্ষম।</Blindness.description><!-- EN: Total inability to see. -->
+  <Blindness.labelNoun>সম্পূর্ণ অন্ধত্ব।</Blindness.labelNoun>
+  
+  <!-- EN: carcinoma -->
+  <Carcinoma.label>কার্সিনোমা</Carcinoma.label>
+  <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
+  <Carcinoma.description>এটি ক্যান্সারযুক্ত টিস্যুর একটি পিণ্ড। চিকিৎসা না করা হলে, কার্সিনোমা সময়ের সাথে সাথে বাড়তে থাকবে, যার ফলে উপসর্গগুলি আরও খারাপ হবে এবং শেষ পর্যন্ত রোগীর মৃত্যু হবে।\n\nএকজন দক্ষ ডাক্তার কার্সিনোমা অপসারণ করতে পারেন। একজন অদক্ষ ডাক্তার কেবল কার্সিনোমাযুক্ত শরীরের অংশটি কেটে ফেলতে সক্ষম হতে পারে।</Carcinoma.description>
+  <!-- EN: a carcinoma -->
+  <Carcinoma.labelNoun>কার্সিনোমা</Carcinoma.labelNoun>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-0.label>ক্ষুদ্র</Carcinoma.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-1.label>ক্ষুদ্র</Carcinoma.stages.minor-1.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-0.label>গুরুতর</Carcinoma.stages.major-0.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-1.label>গুরুতর</Carcinoma.stages.major-1.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-0.label>গুরুতর</Carcinoma.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-1.label>তীব্র</Carcinoma.stages.extreme-1.label>
+  
+  <!-- EN: cataract -->
+  <Cataract.label>ছানি</Cataract.label>
+  <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
+  <Cataract.description>চোখে দুধের মতো অস্বচ্ছতা দেখা যায়। ছানি দৃষ্টিশক্তি কমিয়ে দেয়।</Cataract.description>
+  <!-- EN: a cataract -->
+  <Cataract.labelNoun>ছানি</Cataract.labelNoun>
+  
+  <!-- EN: dementia -->
+  <Dementia.label>স্মৃতিভ্রংশ</Dementia.label>
+  <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
+  <Dementia.description>স্নায়বিক অবনতি যা চিন্তা ও স্মৃতি রাখার ক্ষমতাতে ঘাটতি সৃষ্টি করে। ডিমেনশিয়ার বিভিন্ন কারণ রয়েছে, যার মধ্যে বার্ধক্য, নির্দিষ্ট রোগ এবং বিষাক্ত পদার্থ উল্লেখযোগ্য।</Dementia.description><!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
+  <Dementia.labelNoun>স্নায়বিক অবনতি যা চিন্তা ও স্মৃতির ক্ষমতা হ্রাস করে। ডিমেনশিয়ার বিভিন্ন কারণ রয়েছে, যার মধ্যে বার্ধক্য, নির্দিষ্ট রোগ এবং বিষ অন্তর্ভুক্ত।</Dementia.labelNoun>
+  
+  <!-- EN: frail -->
+  <Frail.label>দুর্বল শরীর</Frail.label>
+  <!-- EN: Generalized loss of muscle and bone density. -->
+  <Frail.description>পেশী এবং হাড়ের ঘনত্ব সাধারণভাবে হ্রাস।</Frail.description>
+  <!-- EN: frailty -->
+  <Frail.labelNoun>দুর্বলতা</Frail.labelNoun>
+  
+  <!-- EN: hearing loss -->
+  <HearingLoss.label>শ্রবণ হ্রাস</HearingLoss.label>
+  <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
+  <HearingLoss.description>ককলিয়ার রোমকোষের অবনতির কারণে মৃদু শব্দ শোনার অক্ষমতা।</HearingLoss.description><!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
+  <HearingLoss.labelNoun>ককলিয়ার রোমকোষের অবনতির কারণে মৃদু শব্দ শুনতে অক্ষমতা।</HearingLoss.labelNoun>
+  
+  <!-- EN: artery blockage -->
+  <HeartArteryBlockage.label>ধমনী ব্লকেজ</HeartArteryBlockage.label>
+  <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
+  <HeartArteryBlockage.description>হৃদপিণ্ডের প্রধান ধমনীগুলির মধ্যে একটিতে বাধা। হৃদপিণ্ডের ধমনীতে বাধা হৃৎপিণ্ড আক্রমণে এলোমেলোভাবে ঘটাতে পারে।</HeartArteryBlockage.description>
+  <!-- EN: an artery blockage -->
+  <HeartArteryBlockage.labelNoun>ধমনী ব্লকেজ</HeartArteryBlockage.labelNoun>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-0.label>ক্ষুদ্র আঘাত</HeartArteryBlockage.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-1.label>ক্ষুদ্র আঘাত</HeartArteryBlockage.stages.minor-1.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-0.label>গুরুতর</HeartArteryBlockage.stages.major-0.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-1.label>গুরুতর</HeartArteryBlockage.stages.major-1.label>
+  <!-- EN: extreme -->
+  <HeartArteryBlockage.stages.extreme.label>গুরুতর</HeartArteryBlockage.stages.extreme.label>
+  
+  <!-- EN: organ decay -->
+  <OrganDecay.label>অঙ্গ পচন</OrganDecay.label>
+  <!-- EN: An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ. -->
+  <OrganDecay.description>একটি একক অঙ্গকে প্রভাবিত করে এমন একটি অপরিবর্তনীয় ক্ষয়জনিত রোগ। কারণ ব্যাকটেরিয়া বা ভাইরাস হতে পারে। অসুস্থতাটি একটি অজানা প্রাকৃতিক উৎস থেকে এলোমেলোভাবে আঘাত করে বলে মনে হয়; এটি মানুষের মধ্যে সরাসরি সংক্রামক নয়।\n\nএই অঙ্গটি ধীরে ধীরে কার্যকারিতা হারাবে এবং অবশেষে সম্পূর্ণভাবে বিকল হয়ে যাবে। এটিকে একটি বায়োনিক বা প্রাকৃতিক অঙ্গ দিয়ে প্রতিস্থাপন করুন।</OrganDecay.description>
+  <!-- EN: {PAWN_labelShort}'s {1} was destroyed by organ decay. -->
+  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}-এর {1} অঙ্গ পচনের কারণে ধ্বংস হয়ে গেছে।</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
+  <!-- EN: minor -->
+  <OrganDecay.stages.minor.label>ক্ষুদ্র</OrganDecay.stages.minor.label>
+  <!-- EN: moderate -->
+  <OrganDecay.stages.moderate.label>moderate</OrganDecay.stages.moderate.label>
+  <!-- EN: severe -->
+  <OrganDecay.stages.severe.label>গুরুতর</OrganDecay.stages.severe.label>
+  <!-- EN: extreme -->
+  <OrganDecay.stages.extreme.label>তীব্র</OrganDecay.stages.extreme.label>
+  
+</LanguageData>

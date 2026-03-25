@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textEnemy>{0}-এর একটি দল {1} থেকে এসে আপনার ঠিক উপরে অবতরণ করেছে!</CenterDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textFriendly>{0}-এর একটি বন্ধুত্বপূর্ণ দল {1} থেকে এসে আপনার ঠিক উপরে নেমে এসেছে!</CenterDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods right on top of you. -->
+  <CenterDrop.textWillArrive>{0_pawnsPluralDef} পরিবহন পডে সরাসরি আপনার উপরে এসে পৌঁছাবে।</CenterDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textEnemy>{0}-এর একটি দল {1} থেকে পরিবহন পডে কাছাকাছি পৌঁছেছে।</EdgeDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textFriendly>কাছাকাছি পরিবহন পডে বন্ধুত্বপূর্ণ {0} এর একটি দল {1} থেকে এসেছে।</EdgeDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <EdgeDrop.textWillArrive>{0_pawnsPluralDef} পরিবহন পডে আসবে।</EdgeDrop.textWillArrive>
+  
+  <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textEnemy>কাছাকাছি ট্রান্সপোর্ট পডগুলিতে {0} সংখ্যক দল {1} থেকে এসেছে।</EdgeDropGroups.textEnemy>
+  <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textFriendly>কাছাকাছি পরিবহন পডে বন্ধুত্বপূর্ণ {0} এর কয়েকটি দল {1} থেকে এসেছে।</EdgeDropGroups.textFriendly>
+  <!-- EN: Several separate groups of {0_pawnsPluralDef} will arrive in transport pods. -->
+  <EdgeDropGroups.textWillArrive>একাধিক {0_pawnsPluralDef} পরিবহন পডে আসবে।</EdgeDropGroups.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textEnemy>{0}-এর একটি দল {1} থেকে কাছাকাছি এসেছে।</EdgeWalkIn.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textFriendly>কাছাকাছি একটি বন্ধুত্বপূর্ণ {0} দল {1} থেকে এসেছে।</EdgeWalkIn.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
+  <EdgeWalkIn.textWillArrive>{0_pawnsPluralDef} পায়ে হেঁটে আসবে।</EdgeWalkIn.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived from every direction. -->
+  <EdgeWalkInDistributed.textEnemy>{0}-এর একটি দল {1} থেকে সব দিক থেকে এসেছে।</EdgeWalkInDistributed.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived from every direction. -->
+  <EdgeWalkInDistributed.textFriendly>{0}-এর একটি বন্ধুত্বপূর্ণ দল {1} থেকে সব দিক থেকে এসেছে।</EdgeWalkInDistributed.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot from every direction. -->
+  <EdgeWalkInDistributed.textWillArrive>{0_pawnsPluralDef} সব দিক থেকে হেঁটে আসবে।</EdgeWalkInDistributed.textWillArrive>
+  
+  <!-- EN: {0} from {1} have arrived nearby, approaching from multiple angles. -->
+  <EdgeWalkInGroups.textEnemy>{0} থেকে {1} কাছাকাছি এসেছে, বিভিন্ন দিক থেকে এগিয়ে আসছে।</EdgeWalkInGroups.textEnemy>
+  <!-- EN: Friendly {0} from {1} have arrived nearby, approaching from multiple angles. -->
+  <EdgeWalkInGroups.textFriendly>বন্ধুত্বপূর্ণ {0} {1} থেকে কাছাকাছি এসেছে, বিভিন্ন দিক থেকে এগিয়ে আসছে।</EdgeWalkInGroups.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot, approaching from several angles at once. -->
+  <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef} পায়ে হেঁটে আসবে, একসাথে বিভিন্ন দিক থেকে এগিয়ে আসবে।</EdgeWalkInGroups.textWillArrive>
+  
+  <!-- EN: Several {0} are emerging from the water. -->
+  <EmergeFromWater.textEnemy>কয়েকটি {0} জল থেকে ভেসে উঠছে।</EmergeFromWater.textEnemy>
+  <!-- EN: {0_pawnsPluralDef} will emerge from the water. -->
+  <EmergeFromWater.textWillArrive>{0_pawnsPluralDef} জল থেকে উঠবে।</EmergeFromWater.textWillArrive>
+  
+  <!-- EN: A cluster of {0} have landed in drop pods nearby. -->
+  <MechClusterDrop.textEnemy>কাছাকাছি ড্রপ পডগুলিতে {0} এর একটি দল অবতরণ করেছে।</MechClusterDrop.textEnemy>
+  <!-- EN: The mech cluster will arrive in drop pods. -->
+  <MechClusterDrop.textWillArrive>মেক ক্লাস্টার ড্রপ পডগুলিতে আসবে।</MechClusterDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textEnemy>{0}-এর একটি দল {1} থেকে পরিবহন পডে করে এসেছে। তাদের পডগুলো বিকল হয়ে গেছে এবং পুরো এলাকা জুড়ে এলোমেলোভাবে অবতরণ করছে!</RandomDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textFriendly>{0}-এর একটি বন্ধুত্বপূর্ণ দল {1} থেকে পরিবহন পডে এসে পড়েছে। তাদের পডগুলো বিগড়ে গেছে এবং পুরো এলাকা জুড়ে ছড়িয়ে ছিটিয়ে পড়ছে!</RandomDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <RandomDrop.textWillArrive>{0_pawnsPluralDef} পরিবহন পডে আসবে।</RandomDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <SpecificDropDebug.textEnemy>{0}-এর একটি দল {1} থেকে পরিবহন পডে কাছাকাছি পৌঁছেছে।</SpecificDropDebug.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <SpecificDropDebug.textFriendly>কাছাকাছি পরিবহন পডে {0} নামক বন্ধুত্বপূর্ণ একটি দল {1} থেকে এসেছে।</SpecificDropDebug.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <SpecificDropDebug.textWillArrive>{0_pawnsPluralDef} পরিবহন পডে আসবে।</SpecificDropDebug.textWillArrive>
+  
+</LanguageData>

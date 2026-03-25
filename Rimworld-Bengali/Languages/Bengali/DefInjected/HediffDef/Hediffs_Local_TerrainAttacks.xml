@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dirt -->
+  <DirtInEyes.label>মাটি</DirtInEyes.label>
+  <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <DirtInEyes.description>চোখে ময়লা। এটি দৃষ্টিশক্তিকে দুর্বল করে, তবে কয়েক মুহূর্তের মধ্যে পরিষ্কার করা যেতে পারে।</DirtInEyes.description>
+  <!-- EN: blind -->
+  <DirtInEyes.battleStateLabel>অন্ধত্ব</DirtInEyes.battleStateLabel>
+  <!-- EN: dirt -->
+  <DirtInEyes.labelNoun>মাটি</DirtInEyes.labelNoun>
+  
+  <!-- EN: gravel -->
+  <GravelInEyes.label>বালি পাথর</GravelInEyes.label>
+  <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <GravelInEyes.description>চোখে নুড়ি। এটি দৃষ্টিশক্তি দুর্বল করে, তবে কয়েক মুহূর্তে পরিষ্কার করা যেতে পারে।</GravelInEyes.description>
+  <!-- EN: blind -->
+  <GravelInEyes.battleStateLabel>অন্ধত্ব</GravelInEyes.battleStateLabel>
+  <!-- EN: gravel -->
+  <GravelInEyes.labelNoun>বালি পাথর</GravelInEyes.labelNoun>
+  
+  <!-- EN: mud -->
+  <MudInEyes.label>কাদা</MudInEyes.label>
+  <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <MudInEyes.description>চোখে কাদা। এটি দৃষ্টিশক্তি দুর্বল করে, তবে কয়েক মুহূর্তে পরিষ্কার করা যেতে পারে।</MudInEyes.description>
+  <!-- EN: blind -->
+  <MudInEyes.battleStateLabel>অন্ধত্ব</MudInEyes.battleStateLabel>
+  <!-- EN: mud -->
+  <MudInEyes.labelNoun>কাদা</MudInEyes.labelNoun>
+  
+  <!-- EN: sand -->
+  <SandInEyes.label>বালি</SandInEyes.label>
+  <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
+  <SandInEyes.description>চোখে বালি। এটি দৃষ্টিশক্তি দুর্বল করে, তবে কয়েক মুহূর্তের মধ্যে পরিষ্কার করা যেতে পারে।</SandInEyes.description>
+  <!-- EN: blind -->
+  <SandInEyes.battleStateLabel>অন্ধত্ব</SandInEyes.battleStateLabel>
+  <!-- EN: sand -->
+  <SandInEyes.labelNoun>বালি</SandInEyes.labelNoun>
+  
+  <!-- EN: water -->
+  <WaterInEyes.label>জল</WaterInEyes.label>
+  <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <WaterInEyes.description>চোখে জল। এটি দৃষ্টিশক্তিকে দুর্বল করে, তবে কয়েক মুহূর্তের মধ্যে এটি পরিষ্কার হয়ে যায়।</WaterInEyes.description>
+  <!-- EN: blind -->
+  <WaterInEyes.battleStateLabel>অন্ধত্ব</WaterInEyes.battleStateLabel>
+  <!-- EN: water -->
+  <WaterInEyes.labelNoun>জল</WaterInEyes.labelNoun>
+  
+</LanguageData>

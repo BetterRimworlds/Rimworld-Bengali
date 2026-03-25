@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: talking. -->
+  <GiveSpeech.reportString>কথা বলা।</GiveSpeech.reportString>
+  
+  <!-- EN: marrying TargetA. -->
+  <MarryAdjacentPawn.reportString>শ্রম, কাজ এবং পন ডিউটি targeta।</MarryAdjacentPawn.reportString>
+  
+  <!-- EN: spectating. -->
+  <SpectateCeremony.reportString>পর্যবেক্ষণ করা হচ্ছে।</SpectateCeremony.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <StandAndBeSociallyActive.reportString>সামাজিকভাবে বিশ্রাম।</StandAndBeSociallyActive.reportString>
+  
+</LanguageData>

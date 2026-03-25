@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stony soil -->
+  <Gravel.label>পাথুরে মাটি</Gravel.label>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>বালিচূর্ণ</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
+  <Ice.label>বরফ</Ice.label>
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>নোনা মাটি</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>কাদা</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>লাইকেন-আচ্ছাদিত মাটি</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>কাদা</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>কাদা</Mud.tools.mud.label>
+  
+  <!-- EN: riverbank -->
+  <Riverbank.label>নদী তীর</Riverbank.label>
+  <!-- EN: dirt -->
+  <Riverbank.tools.dirt.label>মাটি</Riverbank.tools.dirt.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>বালি</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>বালি</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>নরম বালি</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>বালি</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>মাটি</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>মাটি</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>সমৃদ্ধ মাটি</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>মাটি</SoilRich.tools.dirt.label>
+  
+</LanguageData>

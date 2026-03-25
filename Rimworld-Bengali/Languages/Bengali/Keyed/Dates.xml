@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Time -->
+  <ClockTime>সময়</ClockTime>
+  <!-- EN: Date -->
+  <ClockDate>তারিখ</ClockDate>
+  <!-- EN: Year -->
+  <ClockYear>বছর</ClockYear>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
+  <DateReadoutTip>আপনার আগমনের পর থেকে অতিবাহিত দিন: {0}\nবর্তমান চতুর্থাংশ বছর: {4}\nস্থানীয় ঋতু: {2}\n\nবছরটিকে চারটি চতুর্থাংশ বছরে ভাগ করা হয়েছে, প্রতিটিতে {3} দিন। চতুর্থাংশ বছরগুলি সর্বত্র একই, তবে ঋতুগুলি বিভিন্ন স্থানে বিভিন্ন হয়।\n\nপ্রতিটি চতুর্থাংশ বছরের স্থানীয় ঋতু:\n{5}</DateReadoutTip>
+
+  <!-- EN: {0} of {1}, {2} -->
+  <FullDate>{0} এর মধ্যে {1}, {2}</FullDate>
+  <!-- EN: {0} {1} {2} -->
+  <ShortDate>{0} {1} {2}</ShortDate>
+  <!-- EN: {0}, {1} -->
+  <MonthYearDate>{0}, {1}</MonthYearDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <DateReadout>{0} এর মধ্যে {1}, {2}</DateReadout>
+  <!-- EN: {0} of {1} -->
+  <SeasonFullDate>: {0} / {1}</SeasonFullDate>
+  <!-- EN: Whole year -->
+  <WholeYear>পুরো বছর</WholeYear>
+  
+</LanguageData>

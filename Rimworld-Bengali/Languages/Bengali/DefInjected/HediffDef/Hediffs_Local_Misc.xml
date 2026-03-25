@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>রাসায়নিক ক্ষতি</ChemicalDamageModerate.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageModerate.description>কোষীয় স্তরে রাসায়নিক ক্ষতি।</ChemicalDamageModerate.description>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>রাসায়নিক ক্ষতি</ChemicalDamageSevere.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageSevere.description>কোষীয় স্তরে রাসায়নিক ক্ষতি।</ChemicalDamageSevere.description>
+  
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>সিরোসিস</Cirrhosis.label>
+  <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
+  <Cirrhosis.description>অতিরিক্ত অ্যালকোহল সেবনের কারণে সৃষ্ট একটি অবক্ষয়শীল লিভার রোগ।</Cirrhosis.description>
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>পুনরুত্থান মানসিক病</ResurrectionPsychosis.label>
+  <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
+  <ResurrectionPsychosis.description>পুনরুজ্জীবন মেকানাইটের অসংলগ্নতার কারণে বিশৃঙ্খল চিন্তাভাবনা দেখা যায়। পুনরুজ্জীবন সাইকোসিস ধীরে ধীরে বেড়ে ওঠে এবং শেষ পর্যন্ত সম্পূর্ণ সাইকোসিস ও মৃত্যুর কারণ হয়।\n\nপুনরুজ্জীবিত ব্যক্তিদের কোষীয় স্তরে তাদের শারীরিক ক্রিয়া পুনরুদ্ধার করার জন্য মেকানাইটের প্রয়োজন হয়। মেকানাইটগুলোর কার্যকারিতা হারানোর সুযোগ সবসময় থাকে এবং কার্যকারিতা হারালে সেগুলো কেন্দ্রীয় স্নায়ুতন্ত্রে মারাত্মক ক্ষতি করে। মৃতদেহ যত পুরোনো হয়, তত বেশি মেকানাইট ক্রিয়া প্রয়োজন হয় এবং কার্যকারিতা হারানোর সম্ভাবনাও তত বেশি থাকে।</ResurrectionPsychosis.description>
+  <!-- EN: {PAWN_nameDef} is suffering from a terminal case of resurrection psychosis, a condition caused by the decoherence of resurrection mechanites. The condition will slowly worsen, eventually resulting in death. -->
+  <ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} পুনরুত্থান সাইকোসিসের মারাত্মক পর্যায়ে ভুগছেন, যা পুনরুত্থান মেকানাইটের অসংলগ্নতার কারণে হয়ে থাকে। এই অবস্থায় ধীরে ধীরে অবনতি হবে এবং শেষ পর্যন্ত মৃত্যু ঘটবে।</ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: Chaotic thought patterns caused by after-effects of resurrection. Resurrection psychosis is progressive and eventually causes psychosis and death. -->
+  <ResurrectionPsychosis.descriptionShort>পুনরুজ্জীবনের পার্শ্বপ্রতিক্রিয়ার কারণে বিশৃঙ্খল চিন্তাভাবনা। পুনরুজ্জীবন সাইকোসিসProgressive এবং শেষ পর্যন্ত সাইকোসিস ও মৃত্যুর কারণ হয়।</ResurrectionPsychosis.descriptionShort>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>প্রাথমিক</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>প্রাথমিক</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>মাঝারি</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>উন্নত</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>গুরুতর</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>মোট</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>ক্যাটatonic</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: scaria -->
+  <Scaria.label>স্কারিয়া</Scaria.label>
+  <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria can be cured through a special medical operation, but the creature must first be downed in order to make it possible to operate. The disease poisons the flesh, so creatures killed with scaria often appear rotten after death and cannot be butchered for meat or leather. After scaria rage has begun, the creature will last several days before dying from exhaustion. Scaria-infected animals can't be tamed. -->
+  <Scaria.description>এটি একটি সংক্রামক রোগ যা মানুষ এবং পশুদেরকে উন্মত্ত ক্রোধে চালিত করতে পারে। স্কারিয়া একটি বিশেষ চিকিৎসা অপারেশনের মাধ্যমে নিরাময় করা সম্ভব, তবে অপারেশনের জন্য প্রথমে প্রাণীটিকে ভূপতিত করতে হবে। এই রোগ মাংসপেশিকে বিষাক্ত করে তোলে, তাই স্কারিয়ায় আক্রান্ত প্রাণীরা মৃত্যুর পরে প্রায়শই পচে যায় এবং এদের মাংস বা চামড়ার জন্য ব্যবহার করা যায় না। স্কারিয়ার কারণে সৃষ্ট উন্মত্ততা শুরু হওয়ার পরে, প্রাণীটি কয়েক দিন বাঁচতে পারে, এরপর ক্লান্তির কারণে মারা যায়। স্কারিয়ায় সংক্রমিত পশুদের পোষ মানানো যায় না।</Scaria.description>
+  <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria-infected animals can't be tamed. -->
+  <Scaria.descriptionShort>একটি সংক্রামক রোগ যা মানুষ এবং পশুদেরকে উন্মত্ত ক্রোধে চালিত করতে পারে। স্কেরিয়া-আক্রান্ত পশুদের পোষ মানানো যায় না।</Scaria.descriptionShort>
+  <!-- EN: Scaria infected. -->
+  <Scaria.inspectString>স্কারিয়া সংক্রমিত।</Scaria.inspectString>
+  <!-- EN: Scaria sores -->
+  <Scaria.renderNodeProperties.0.debugLabel>স্কারিয়া ঘা</Scaria.renderNodeProperties.0.debugLabel>
+  <!-- EN: Scaria sores -->
+  <Scaria.renderNodeProperties.1.debugLabel>স্কারিয়া ঘা</Scaria.renderNodeProperties.1.debugLabel>
+  
+  <!-- EN: sterilized -->
+  <Sterilized.label>জীবাণুমুক্ত</Sterilized.label>
+  <!-- EN: This creature's reproductive system has been permanently shut down. -->
+  <Sterilized.description>এই প্রাণীটির প্রজনন ব্যবস্থা স্থায়ীভাবে বন্ধ হয়ে গেছে।</Sterilized.description>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>আঘাত বিশেষজ্ঞ</TraumaSavant.label>
+  <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
+  <TraumaSavant.description>মস্তিষ্কের আঘাতের কারণে সৃষ্ট একটি ব্যতিক্রমী অবস্থা। আঘাতের সম্মুখীন হয়ে মস্তিষ্ক কিছু ক্ষেত্রে অসাধারণ ক্ষমতা তৈরি করেছে, তবে কথা বলার ক্ষমতা হারিয়েছে।</TraumaSavant.description>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>আঘাত</TraumaSavant.labelNoun>
+  
+</LanguageData>

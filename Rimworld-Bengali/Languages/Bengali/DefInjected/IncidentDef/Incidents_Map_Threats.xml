@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mass animal insanity -->
+  <AnimalInsanityMass.label>গণপ্রাণী উন্মাদনা</AnimalInsanityMass.label>
+  
+  <!-- EN: single animal insanity -->
+  <AnimalInsanitySingle.label>একক পশু পাগলামি</AnimalInsanitySingle.label>
+  
+  <!-- EN: deep drill infestation -->
+  <DeepDrillInfestation.label>গভীর ড্রিল সংক্রমণ</DeepDrillInfestation.label>
+  <!-- EN: Too deep: Infestation -->
+  <DeepDrillInfestation.letterLabel>অতিরিক্ত গভীর: সংক্রমণ</DeepDrillInfestation.letterLabel>
+  <!-- EN: Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base. -->
+  <DeepDrillInfestation.letterText>আপনার গভীর ড্রিলের কম্পনে কিছু ভূগর্ভস্থ কীটপতঙ্গ ক্ষুব্ধ হয়েছে। এখন তারা প্রতিশোধ নিতে মাটি খুঁড়ে উপরে উঠছে!\n\nসাবধান—কীটপতঙ্গরা ক্ষুব্ধ এবং আপনার ঘাঁটি ধ্বংস করার চেষ্টা করবে।</DeepDrillInfestation.letterText>
+  
+  <!-- EN: ship part crash (defoliator) -->
+  <DefoliatorShipPartCrash.label>জাহাজ অংশ পতন (পাতনকারী)</DefoliatorShipPartCrash.label>
+  <!-- EN: Defoliator ship -->
+  <DefoliatorShipPartCrash.letterLabel>ডিফোলিয়েটর জাহাজ</DefoliatorShipPartCrash.letterLabel>
+  <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
+  <DefoliatorShipPartCrash.letterText>একটি প্রাচীন জাহাজের বড় অংশ কাছাকাছি বিধ্বস্ত হয়েছে।\n\nএর রহস্যময় প্রভাব এর চারপাশে একটি ক্রমবর্ধমান বৃত্তে সমস্ত উদ্ভিদকে মেরে ফেলবে।\n\nএটি যত দ্রুত সম্ভব ধ্বংস করুন। তবে সাবধান - এটি সম্ভবত নিজেকে রক্ষা করবে।</DefoliatorShipPartCrash.letterText>
+  
+  <!-- EN: infestation -->
+  <Infestation.label>পোকা সংক্রমণ</Infestation.label>
+  <!-- EN: Infestation -->
+  <Infestation.letterLabel>পোকা infestation</Infestation.letterLabel>
+  <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home. -->
+  <Infestation.letterText>বিশাল কীটপতঙ্গ আপনার দিকে সুড়ঙ্গ করছে! কয়েক সেকেন্ডের মধ্যে তারা ভেঙে পড়বে এবং মৌচাক তৈরি করবে।\n\nমৌচাকগুলি আরও কীটপতঙ্গ এবং আরও মৌচাক তৈরি করবে।\n\nযদি আপনি না চান কীটপতঙ্গ পুরো এলাকা জুড়ে ছড়িয়ে পড়ুক, তাহলে মৌচাকগুলি ধ্বংস করুন। তবে সাবধান—পোকাগুলি তাদের আবাস রক্ষা করবে।</Infestation.letterText>
+  
+  <!-- EN: manhunter pack -->
+  <ManhunterPack.label>মানুষ শিকারী দল</ManhunterPack.label>
+  
+  <!-- EN: ship part crash (psychic) -->
+  <PsychicEmanatorShipPartCrash.label>জাহাজ অংশ বিধ্বস্ত (মানসিক)</PsychicEmanatorShipPartCrash.label>
+  <!-- EN: Psychic ship -->
+  <PsychicEmanatorShipPartCrash.letterLabel>সাইকিক জাহাজ</PsychicEmanatorShipPartCrash.letterLabel>
+  <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard machine persona with psychic projection ability. And this persona is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
+  <PsychicEmanatorShipPartCrash.letterText>একটি প্রাচীন জাহাজের বড় অংশ কাছাকাছি বিধ্বস্ত হয়েছে।\n\nআপনার উপনিবেশবাদীরা তাদের মনের গভীরে এটি অনুভব করতে পারে, যা অকথ্য কাজ করতে উৎসাহিত করছে। এটির অবশ্যই একটি অনবোর্ড মেশিন ব্যক্তিত্ব থাকতে হবে যার মানসিক অভিক্ষেপ করার ক্ষমতা আছে। এবং এই ব্যক্তিত্ব বন্ধুত্বপূর্ণ নয়।\n\nএটি যত দ্রুত সম্ভব ধ্বংস করুন। তবে সাবধান - এটি সম্ভবত নিজেকে রক্ষা করবে।</PsychicEmanatorShipPartCrash.letterText>
+  
+  <!-- EN: enemy raid -->
+  <RaidEnemy.label>শত্রুর হানা</RaidEnemy.label>
+  
+</LanguageData>

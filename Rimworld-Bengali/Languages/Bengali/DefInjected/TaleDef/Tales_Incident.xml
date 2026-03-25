@@ -1,0 +1,860 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>অরোরা</Aurora.label>
+  <!-- EN:
+    <li>tale_noun->the time an aurora appeared over [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->the time polar lights shone over [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] illuminated by the light of an aurora</li>
+    <li>image->the sky illuminated in [Color]s and [Color]s [circumstance_phrase]</li>
+    <li>image->a fabulous pattern of [Color] rays [circumstance_phrase]</li>
+    <li>image->a network of [Color] lights [circumstance_phrase]</li>
+    <li>image->[Color] swooping arcs with [Color] highlights [circumstance_phrase]</li>
+    <li>image->dancing [Color] lights [circumstance_group]</li>
+    <li>circumstance_phrase->over a [TerrainFeature]</li>
+    <li>circumstance_phrase->illuminating a [TerrainFeature]</li>
+    <li>circumstance_phrase->floating over a [Community]</li>
+    <li>circumstance_phrase->bracketed between a [TerrainFeature] and a [TerrainFeature]</li>
+    <li>desc_sentence->Below, [PAWN_nameDef] plays [Game] with a [AdjectiveFriendly] look.</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from below.</li>
+    <li>desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature], gazing at the sky.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
+    <li>desc_sentence->There is no [Enemy] in sight.</li>
+  -->
+  <Aurora.rulePack.rulesStrings>
+    <li>tale_noun->এর উপর একটি অরোরা দেখা গেল [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>tale_noun->মেরুজ্যোতি chiếu ওপর [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>tale_noun->টি [Community_Fem] এর [PAWN_nameDef] অরোরা আলোর দ্বারা আলোকিত হয়েছিল</li>
+    <li>image->রঙিন আলোয় আলোকিত আকাশ [Color_Plural] এবং [Color_Plural] [circumstance_phrase]</li>
+    <li>image->অসাধারণ রশ্মির নকশা [Color_Plural] [circumstance_phrase]</li>
+    <li>image->আলোর একটি জাল [Color_Plural] [circumstance_phrase]</li>
+    <li>image->ধনুক [Color_Plural] আকাশ পাড়ি হচ্ছে [circumstance_phrase]</li>
+    <li>image->আলো [Color_Plural] নৃত্য করা [circumstance_group]</li>
+    <li>circumstance_phrase->উপরে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->আলোকিত করে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->উপরে [CommunityIndef]</li>
+    <li>circumstance_phrase->মধ্যে [TerrainFeatureIndef] এবং [TerrainFeatureIndef]</li>
+    <li>desc_sentence->নিচে [PAWN_nameDef] খেলে [GameAny] মুখভাব নিয়ে [AdjectiveFriendly]।</li>
+    <li>desc_sentence->[PAWN_nameDef] তার মুখে বিস্ময় দেখা যাচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] নিচে থেকে দেখছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] কাছাকাছি বসে আছে [TerrainFeatureIndef], আকাশ দেখছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] শান্তিপূর্ণভাবে ঘুরে বেড়ায়।</li>
+    <li>desc_sentence->ছাড়া [Enemy]দৃষ্টিগোচর নেই।</li>
+  </Aurora.rulePack.rulesStrings>
+  
+  <!-- EN: caravan ambushed -->
+  <CaravanAmbushedByHumanlike.label>কাফেলা অতর্কিত হামলার শিকার</CaravanAmbushedByHumanlike.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan being ambushed</li>
+    <li>image->[PAWN_nameFull] cowering [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] moving to protect an ally [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] moving to attack [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] attacking [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] shouting loudly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] running [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] grapping with an opponent [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] defending [PAWN_objective]self [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveBadass] expression</li>
+    <li>circumstance_phrase->with a [AdjectiveBadass] expression</li>
+    <li>circumstance_phrase->while wielding [PAWN_possessive] weapon</li>
+    <li>circumstance_phrase->while sweating with exertion</li>
+    <li>desc_sentence->[Quantity_adjphrase] distant figures approaches from behind a [TerrainFeature].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s can be seen in the distance.</li>
+    <li>desc_sentence->[PAWN_nameDef] is practically surrounded by [Enemy]s.</li>
+    <li>desc_sentence->[PAWN_nameDef] is confronted by a [Enemy].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the scene of conflict in fear.</li>
+    <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
+  -->
+  <CaravanAmbushedByHumanlike.rulePack.rulesStrings>
+    <li>tale_noun->এর কাফেলা [PAWN_nameDef] আক্রান্ত হয়েছে</li>
+    <li>image->[PAWN_nameFull] আশ্রয় নিচ্ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একজন মিত্রকে রক্ষা করার জন্য সরে যাচ্ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] আক্রমণ করার জন্য সরে যাচ্ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] আক্রমণ করছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] চিৎকার করছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] দৌড়াচ্ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] শত্রুর সাথে লড়ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] আত্মরক্ষা করছে [circumstance_group]</li>
+    <li>circumstance_phrase->দৃঢ় দৃষ্টিতে [AdjectiveBadass]</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->যখন সে তার অস্ত্র চালায়</li>
+    <li>circumstance_phrase->ক্লান্তিতে ঘামছি</li>
+    <li>desc_sentence->[Quantity_adjphrase] মূর্তিগুলো পিছন থেকে এগিয়ে আসছে [TerrainFeatureIndef]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]দূরে শত্রুদের দেখা যাচ্ছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] घिरा আছে[PAWN_o_a] দ্বারা [Enemy]গুলো।</li>
+    <li>desc_sentence->[PAWN_nameDef] চ্যালেঞ্জ করা হয়েছে[PAWN_o_a] একটি [Enemy]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] ভয় নিয়ে সংঘর্ষের স্থান থেকে [পরিমাণ_বিশেষণগুচ্ছ] [যেকোনো পশু বহুবচন] পালিয়ে যাচ্ছে।</li>
+    <li>desc_sentence->দূর থেকে একজন [PersonJob] দেখছে।</li>
+  </CaravanAmbushedByHumanlike.rulePack.rulesStrings>
+  
+  <!-- EN: caravan ambushed by manhunter -->
+  <CaravanAmbushedByManhunter.label>মানবশিকারী দ্বারা কাফেলা অতর্কিত হামলার শিকার</CaravanAmbushedByManhunter.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan being ambushed</li>
+    <li>image->[PAWN_nameFull] cowering [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] moving to protect an ally [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] moving to attack [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] attacking [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] shouting loudly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] running [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveBadass] expression</li>
+    <li>circumstance_phrase->with a [AdjectiveBadass] expression</li>
+    <li>circumstance_phrase->while wielding [PAWN_possessive] weapon</li>
+    <li>circumstance_phrase->while sweating with exertion</li>
+    <li>circumstance_phrase->while covered with [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] distant animals approach from behind a [TerrainFeature].</li>
+    <li>desc_sentence->[Gore] covers the ground.</li>
+    <li>desc_sentence->The ground has been trampled into a mess of [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the scene of conflict in fear.</li>
+    <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
+  -->
+  <CaravanAmbushedByManhunter.rulePack.rulesStrings>
+    <li>tale_noun->এর কাফেলা [PAWN_nameDef] আক্রান্ত হয়েছে</li>
+    <li>image->[PAWN_nameFull] লুকিয়ে যাচ্ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একজন মিত্রকে রক্ষা করার জন্য সরে যাচ্ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] আক্রমণ করার জন্য সরে যাচ্ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] আক্রমণ করছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] চিৎকার করছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] দৌড়াচ্ছে [circumstance_group]</li>
+    <li>circumstance_phrase->একটি কঠোর চেহারা নিয়ে [AdjectiveBadass]</li>
+    <li>circumstance_phrase->মুখভাব সহ [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->যখন সে তার অস্ত্র চালায়</li>
+    <li>circumstance_phrase->ক্লান্তিতে ঘামছি</li>
+    <li>circumstance_phrase->আবৃত[PAWN_o_a] ময়লায়</li>
+    <li>desc_sentence->[Quantity_adjphrase] পশুরা পিছন থেকে এগিয়ে আসছে [TerrainFeatureIndef]।</li>
+    <li>desc_sentence->একটি আচ্ছাদন [Gore_Plural] মেঝেতে ছড়িয়ে পরে।</li>
+    <li>desc_sentence->মাটি ঢেকে আছে [Gore_Plural]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] ভয় নিয়ে সংঘাতের স্থান থেকে [পরিমাণ_বিশেষণগুচ্ছ] [যেকোনো পশু বহুবচন] পালিয়ে যাচ্ছে।</li>
+    <li>desc_sentence->দূর থেকে, একজন [PersonJob] দেখছে।</li>
+  </CaravanAmbushedByManhunter.rulePack.rulesStrings>
+  
+  <!-- EN: caravan demand -->
+  <CaravanDemand.label>কাফেলা হুমকির মুখে</CaravanDemand.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan receiving a demand</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan being threatened</li>
+    <li>image->[PAWN_nameFull] cowering [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] shouting loudly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] thinking [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] glaring [circumstance_group]</li>
+    <li>image->[PAWN_nameFull], threatened by a [PersonJob], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] brandishing a [Weapon] [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveBadass] expression</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>circumstance_phrase->while being threatened by [Enemy]s</li>
+    <li>desc_sentence->[PAWN_nameDef] is practically surrounded by [Enemy]s.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are nearby, [action].</li>
+    <li>desc_sentence->The sun sets over a [TerrainFeature].</li>
+    <li>desc_sentence->The sun rises over a [TerrainFeature].</li>
+    <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
+    <li>action->sharpening their weapons</li>
+    <li>action->watching for danger</li>
+    <li>action->guarding hostages</li>
+    <li>action->waiting for a decision</li>
+    <li>action->taunting [PAWN_nameDef]</li>
+  -->
+  <CaravanDemand.rulePack.rulesStrings>
+    <li>tale_noun->এর কাফেলা [PAWN_nameDef] একটি হুমকি পেয়েছে</li>
+    <li>tale_noun->এর কাফেলা [PAWN_nameDef] হুমকি দেওয়া হয়েছে</li>
+    <li>image->[PAWN_nameFull] ভয়ে কুঁকড়ে যাচ্ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] চিৎকার করছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ভাবছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] পর্যবেক্ষণ করছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull], অপমানের শিকার হচ্ছেন একজন [PersonJob], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ধরে আছে, wielding [WeaponCacIndef] [circumstance_group]</li>
+    <li>circumstance_phrase->দৃঢ় দৃষ্টিতে [AdjectiveBadass]</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->অন্যান্যরা দেখার সময়</li>
+    <li>circumstance_phrase->যখন তাকে হুমকি দেওয়া হচ্ছে[PAWN_o_a] দ্বারা [Enemy]গুলো</li>
+    <li>desc_sentence->[PAWN_nameDef] घिरा আছে[PAWN_o_a] দ্বারা [Enemy]গুলো।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]কাছে আছে, [action]।</li>
+    <li>desc_sentence->সূর্য অস্ত যাচ্ছে এর পেছনে [TerrainFeatureIndef]।</li>
+    <li>desc_sentence->সূর্য {[TerrainFeatureIndef]} এর পিছনে ওঠে [TerrainFeatureIndef]।</li>
+    <li>desc_sentence->দূর থেকে, একজন [PersonJob] দেখছে।</li>
+    <li>action->তাদের অস্ত্র শাণিত করছে</li>
+    <li>action->নজরদারি করে</li>
+    <li>action->বন্দী তত্ত্বাবধান করছে</li>
+    <li>action->সিদ্ধান্তের জন্য অপেক্ষা করছি</li>
+    <li>action->[PAWN_nameDef]-কে হুমকি দিয়ে [PAWN_nameDef]</li>
+  </CaravanDemand.rulePack.rulesStrings>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>কাফেলার সাক্ষাৎ</CaravanMeeting.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan being met by others</li>
+    <li>image->[PAWN_nameFull] greeting a [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inspecting a [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] calling out to a [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] walking towards a [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] talking quietly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] shouting loudly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] playing [Game] with a [PersonJob] [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->with a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->while [VerbFriendly]</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are [event].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are [event].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s surround the group.</li>
+    <li>desc_sentence->The sun sets over a [TerrainFeature].</li>
+    <li>desc_sentence->The sun rises over a [TerrainFeature].</li>
+    <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
+    <li>event->throwing a party</li>
+    <li>event->eating a communal meal</li>
+    <li>event->discussing recent events</li>
+    <li>event->rekindling old friendships</li>
+    <li>event->talking hesitantly</li>
+  -->
+  <CaravanMeeting.rulePack.rulesStrings>
+    <li>tale_noun->এর কাফেলা [PAWN_nameDef] ভিজিট গ্রহণ করলো</li>
+    <li>image->[PAWN_nameFull] একজনকে অভিবাদন করছে [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একজন [PersonJob]-কে পরিদর্শন করছে [PAWN_nameFull] [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ডেকে একটি [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একটি [PersonJob] [circumstance_group]-এর দিকে হেঁটে যাওয়া [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] শান্তভাবে কথা বলা [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] চিৎকার করে অভিবাদন জানাচ্ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] খেলছে [GameAny] একটি সঙ্গে [PersonJob] [circumstance_group]</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveFriendly]</li>
+    <li>circumstance_phrase(PAWN_gender==Male)->এবং শুরু করে [VerbFriendly]</li>
+    <li>circumstance_phrase(PAWN_gender!=Male)->এবং শুরু করছে [VerbFriendly_Fem]</li>
+    <li>circumstance_phrase->অন্যান্যরা দেখার সময়</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] আছেন [event]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] আছেন [event]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] দলটিকে ঘিরে আছে।</li>
+    <li>desc_sentence->সূর্য অস্ত যাচ্ছে এর পিছনে [TerrainFeatureIndef]।</li>
+    <li>desc_sentence->সূর্য {[TerrainFeatureIndef]} এর পিছনে ওঠে [TerrainFeatureIndef]।</li>
+    <li>desc_sentence->দূর থেকে, একজন [PersonJob] দেখছে।</li>
+    <li>event->পার্টি আয়োজন করা হচ্ছে</li>
+    <li>event->পোড়া মাংস খাচ্ছে</li>
+    <li>event->সাম্প্রতিক ঘটনা নিয়ে আলোচনা করছে</li>
+    <li>event->পুরোনো বন্ধুত্বগুলো পুনরুজ্জীবিত করছে</li>
+    <li>event->উদ্বিগ্নভাবে কথা বলা</li>
+  </CaravanMeeting.rulePack.rulesStrings>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>গ্রহণ</Eclipse.label>
+  <!-- EN:
+    <li>tale_noun->an eclipse over [PAWN_nameDef]'s [Community]</li>
+    <li>image->an unnaturally dark sky, [circumstance_phrase]</li>
+    <li>image->a crepuscular sky, [circumstance_phrase]</li>
+    <li>image->a moon, ringed by a faint circle of sunlight, [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Animal]s milling around uncertainly in darkness, [circumstance_phrase]</li>
+    <li>circumstance_phrase->the air still and quiet</li>
+    <li>circumstance_phrase->twilight blanketing a nearby [TerrainFeature]</li>
+    <li>circumstance_phrase->twilight blanketing [Quantity_adjphrase] nearby [TerrainFeature]s</li>
+    <li>circumstance_phrase->with stars visible</li>
+    <li>desc_sentence->Below, [PAWN_nameDef] plays [Game] with a [AdjectiveFriendly] look.</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from below.</li>
+    <li>desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature], gazing at the sky.</li>
+    <li>desc_sentence->A [Community] of spectators watches the sky peacefully.</li>
+    <li>desc_sentence->There is no [Enemy] in sight.</li>
+  -->
+  <Eclipse.rulePack.rulesStrings>
+    <li>tale_noun->{[CommunityDef]} এর উপর একটি গ্রহণ দেখা গেল [CommunityDef] {[PAWN_nameDef]} এর [PAWN_nameDef]</li>
+    <li>image->একটি অদ্ভুত অন্ধকার আকাশ, [circumstance_phrase]</li>
+    <li>image->গোধূলিবেলার আকাশ, [circumstance_phrase]</li>
+    <li>image->একটি চাঁদ, সূর্যের আলোর ক্ষীণ বৃত্ত দ্বারা বেষ্টিত, [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [AnimalAnyPl] অন্ধকারে অনিশ্চিতভাবে তাকিয়ে, [circumstance_phrase]</li>
+    <li>circumstance_phrase->বাতাস স্থির হয়ে আছে।</li>
+    <li>circumstance_phrase->একটি সূর্যাস্ত ঢেকে দিচ্ছে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->একটি গোধূলি ঢেকে দিচ্ছে [Quantity_adjphrase] [TerrainFeaturePlAny]</li>
+    <li>circumstance_phrase->তারকা দেখা যাচ্ছে এমন</li>
+    <li>desc_sentence->নিচে [PAWN_nameDef] খেলে [GameAny] এর সাথে [AdjectiveFriendly]।</li>
+    <li>desc_sentence->[PAWN_nameDef] তার মুখে বিস্ময় দেখা যাচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] নিচে থেকে দেখছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] বসে আছে[PAWN_o_a] কাছে [TerrainFeatureIndef], আকাশ দেখছে।</li>
+    <li>desc_sentence->[CommunityIndefCap] দর্শকেরা শান্তিতে আকাশ দেখছে।</li>
+    <li>desc_sentence->দৃষ্টিসীমার মধ্যে কোনো শত্রু নেই।</li>
+  </Eclipse.rulePack.rulesStrings>
+  
+  <!-- EN: journey offer -->
+  <EndGame_ShipEscape.label>ভ্রমণের আমন্ত্রণ</EndGame_ShipEscape.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] receiving a message from an old friend</li>
+    <li>tale_noun->an opportunity arriving for [PAWN_nameDef]'s [Community]</li>
+    <li>image->[PAWN_nameDef] opening a letter delivered by [delivery_method] while [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] using a datacrystal delivered by [delivery_method] while [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] unrolling a scroll delivered by [delivery_method] while [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] receiving a transmission from [transmission_source] while [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] receiving a message from [transmission_source] while [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] tuning in to a message from [transmission_source] while [circumstance_group]</li>
+    <li>delivery_method->a [Animal]</li>
+    <li>delivery_method->a [PersonJob]</li>
+    <li>delivery_method->[Quantity_adjphrase] [Animal]s</li>
+    <li>transmission_source->a rarely-used frequency</li>
+    <li>transmission_source->an ancient transmitter</li>
+    <li>transmission_source->a low-power signal</li>
+    <li>transmission_source->a long-range signal</li>
+    <li>transmission_source->a mysterious signal</li>
+    <li>circumstance_phrase->standing alone near a [TerrainFeature]</li>
+    <li>circumstance_phrase->exploring a [TerrainFeature]</li>
+    <li>circumstance_phrase->tending crops</li>
+    <li>circumstance_phrase->a [Animal] wanders past</li>
+    <li>circumstance_phrase->playing [Game]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander nearby, unaware.</li>
+    <li>desc_sentence->As [PAWN_pronoun] reads, [PAWN_pronoun] starts [VerbFriendly].</li>
+    <li>desc_sentence->A spectral [PersonJob] watches from the clouds.</li>
+    <li>desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature].</li>
+    <li>desc_sentence->A [Community] is visible in the far distance.</li>
+    <li>desc_sentence->A spaceship is visible in the far distance.</li>
+  -->
+  <EndGame_ShipEscape.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] একজন পুরোনো বন্ধু থেকে [PAWN_nameDef]-এর কাছে একটি বার্তা এসেছে।</li>
+    <li>tale_noun->একটি সুযোগ যা এসেছে [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>image->[PAWN_nameDef] একটি চিঠি খোলা হচ্ছে যা দ্বারা পাঠানো হয়েছে [delivery_method] যখন [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] একটি ডেটা স্ফটিক ব্যবহার করে বিতরণ করা হয়েছে [delivery_method] যখন [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] একটি স্ক্রোল খোলার সময় [delivery_method] যখন [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] থেকে একটি সংক্রমণ গ্রহণ করছে [transmission_source] যখন [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] থেকে একটি বার্তা গ্রহণ করছে [transmission_source] যখন [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] একটি বার্তা টিউন করছে [transmission_source] যখন [circumstance_group]</li>
+    <li>delivery_method->একটি পাখি</li>
+    <li>delivery_method->একটি [PersonJob]</li>
+    <li>delivery_method->[Quantity_adjphrase] [AnimalAnyPl]</li>
+    <li>transmission_source->কম ব্যবহৃত ফ্রিকোয়েন্সি</li>
+    <li>transmission_source->একটি প্রাচীন ট্রান্সমিটার</li>
+    <li>transmission_source->দুর্বল সংকেত।</li>
+    <li>transmission_source->দীর্ঘ-পাল্লার সংকেত</li>
+    <li>transmission_source->একটি রহস্যময় সংকেত।</li>
+    <li>circumstance_phrase->পাশে বসে আছে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->অনুসন্ধান করে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->ফসলের যত্ন নেয়।</li>
+    <li>circumstance_phrase->একটি [Animal] কাছাকাছি ঘুরে বেড়ায়</li>
+    <li>circumstance_phrase->খেলছে [GameAny]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] তারা কাছাকাছি ঘুরে বেড়াচ্ছে, কোনো চিন্তা নেই।</li>
+    <li>desc_sentence->যখন [PAWN_pronoun] পড়ে, শুরু করে [VerbFriendly]।</li>
+    <li>desc_sentence->একটি [PersonJob] প্রেতাত্মা মেঘ থেকে পর্যবেক্ষণ করছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] পাশে বসে [TerrainFeatureIndef]।</li>
+    <li>desc_sentence->[CommunityIndefCap] দূরে দেখা যাচ্ছে।</li>
+    <li>desc_sentence->দূরে একটি মহাকাশযান দেখা যাচ্ছে।</li>
+  </EndGame_ShipEscape.rulePack.rulesStrings>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>বজ্রঝড়</Flashstorm.label>
+  <!-- EN:
+    <li>tale_noun->a flashstorm that threatened [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being menaced by a deadly flashstorm</li>
+    <li>image->[Quantity_adjphrase] lightning strikes [circumstance_phrase]</li>
+    <li>image->[behavior] wall of flames [circumstance_phrase]</li>
+    <li>image->[behavior] wall of [Color] flames [circumstance_phrase]</li>
+    <li>image->[behavior] cloud of ash and smoke [circumstance_phrase]</li>
+    <li>image->[behavior] wave of flames [circumstance_phrase]</li>
+    <li>behavior->a</li>
+    <li>behavior->an advancing</li>
+    <li>behavior->an approaching</li>
+    <li>circumstance_phrase->advancing towards a [Community]</li>
+    <li>circumstance_phrase->underneath an intimidating cloud</li>
+    <li>circumstance_phrase->nearly enveloping a [TerrainFeature]</li>
+    <li>circumstance_phrase->nearly enveloping [Quantity_adjphrase] [TerrainFeature]s</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with visible fright.</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</li>
+    <li>desc_sentence->[PAWN_nameDef] is coordinating defensive measures.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>desc_sentence->All animal life has left the area.</li>
+  -->
+  <Flashstorm.rulePack.rulesStrings>
+    <li>tale_noun->একটি বজ্রঝড় হুমকি দিল [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>tale_noun->[CommunityDef] এর [PAWN_nameDef] মারাত্মক বজ্রঝড়ের হুমকি মোকাবিলা করলো</li>
+    <li>image->[Quantity_adjphrase] বিদ্যুৎ চমকায় [circumstance_phrase]</li>
+    <li>image->[behavior] অগ্নির দেওয়াল [circumstance_phrase]</li>
+    <li>image->[behavior] অগ্নি প্রাচীর [Color_Fem] [circumstance_phrase]</li>
+    <li>image->[behavior] ছাই এবং ধোঁয়ার মেঘ [circumstance_phrase]</li>
+    <li>image->[behavior] লামার ঢেউ [circumstance_phrase]</li>
+    <li>behavior->একটি</li>
+    <li>behavior->একটি দ্রুত</li>
+    <li>behavior->একটি চিত্তাকর্ষক</li>
+    <li>circumstance_phrase->[CommunityIndef]-এর দিকে অগ্রসর হচ্ছে [CommunityIndef]</li>
+    <li>circumstance_phrase->একটি ভীতিকর মেঘের নিচে</li>
+    <li>circumstance_phrase->ঢেকে [TerrainFeatureIndef] প্রায় সম্পূর্ণরূপে</li>
+    <li>circumstance_phrase->ঢেকে [Quantity_adjphrase] [TerrainFeaturePlAny] প্রায় সম্পূর্ণরূপে</li>
+    <li>desc_sentence->[PAWN_nameDef] ভয়ে দেখছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] তার মুখে বিস্ময় দেখা যাচ্ছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] প্রতিরক্ষামূলক ব্যবস্থা সমন্বয় করছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] তাঁরা প্রস্তুতি নিতে ছুটছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+    <li>desc_sentence->এলাকা থেকে সমস্ত প্রাণী পালিয়ে গেছে।</li>
+  </Flashstorm.rulePack.rulesStrings>
+  
+  <!-- EN: infestation -->
+  <Infestation.label>পোকামাকড়ের উপদ্রব</Infestation.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being infested by giant insects</li>
+    <li>image->a swarm of beetles [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] megaspiders [circumstance_phrase]</li>
+    <li>image->an overwhelming tide of [Color] insects [circumstance_phrase]</li>
+    <li>image->a dense fog of black specks [circumstance_phrase]</li>
+    <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->completely encircling a [Community]</li>
+    <li>circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s</li>
+    <li>circumstance_phrase->bursting out of the ground</li>
+    <li>circumstance_phrase->slaughtering [Quantity_adjphrase] [Animal]s</li>
+    <li>desc_sentence->[PAWN_nameDef] organizes a resistance.</li>
+    <li>desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively.</li>
+    <li>desc_sentence->[PAWN_nameDef] lies on the ground, wounded.</li>
+    <li>desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon].</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression.</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>desc_sentence->All animal life has left the area.</li>
+  -->
+  <Infestation.rulePack.rulesStrings>
+    <li>tale_noun->টি [Community_Fem] এর [PAWN_nameDef] পোকামাকড় দ্বারা আক্রান্ত হয়েছে</li>
+    <li>image->একটি গুবরে পোকার ঝাঁক [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] মেগারাণাস [circumstance_phrase]</li>
+    <li>image->কীটপতঙ্গের এক বিশাল ঢেউ [Color_Plural] [circumstance_phrase]</li>
+    <li>image->কালো ছোপযুক্ত ঘন কুয়াশা [circumstance_phrase]</li>
+    <li>circumstance_phrase->[TerrainFeatureIndef]-এর উপর দিয়ে এগিয়ে যাচ্ছে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->সম্পূর্ণভাবে ঘিরে ফেলে [CommunityIndef]</li>
+    <li>circumstance_phrase->আক্রমণ করছে [Quantity_adjphrase] [PersonJob_Plural]-কে [Quantity_adjphrase] [PersonJob_Plural]</li>
+    <li>circumstance_phrase->মাটি থেকে উঠছে</li>
+    <li>circumstance_phrase->slaughtering [Quantity_adjphrase] [AnimalAnyPl]</li>
+    <li>desc_sentence->[PAWN_nameDef] প্রতিরোধ সংগঠিত করছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] ঝাপটা মারা [WeaponCacIndef] আত্মরক্ষামূলকভাবে।</li>
+    <li>desc_sentence->[PAWN_nameDef] মাটিতে শুয়ে আছে আহত[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_nameDef] প্রতিশোধ নেয় [WeaponIndef]।</li>
+    <li>desc_sentence->[PAWN_nameDef] এর একটি চেহারা আছে [AdjectiveBadass]।</li>
+    <li>desc_sentence->[PAWN_nameDef] এর একটি চেহারা আছে [AdjectiveAngsty]।</li>
+    <li>desc_sentence->মাটি ঢেকে আছে [Gore_Plural]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+    <li>desc_sentence->এলাকা থেকে সমস্ত প্রাণী পালিয়ে গেছে।</li>
+  </Infestation.rulePack.rulesStrings>
+  
+  <!-- EN: manhunter pack -->
+  <ManhunterPack.label>মানবশিকারী পশুর পাল</ManhunterPack.label>
+  <!-- EN:
+    <li>tale_noun->manhunting beasts menacing [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being attacked by mad animals</li>
+    <li>image->a herd of [Animal]s [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Animal]s [circumstance_phrase]</li>
+    <li>image->a [AdjectiveLarge] [Animal] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] shadowy figures [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] shadowy quadrupeds [circumstance_phrase]</li>
+    <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->completely encircling a [Community]</li>
+    <li>circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s</li>
+    <li>circumstance_phrase->slaughtering [Quantity_adjphrase] [Animal]s</li>
+    <li>circumstance_phrase->possessed by [hate_emotion]</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>hate_emotion->hatred</li>
+    <li>hate_emotion->anger</li>
+    <li>hate_emotion->fury</li>
+    <li>desc_sentence->[PAWN_nameDef] organizes a resistance.</li>
+    <li>desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively.</li>
+    <li>desc_sentence->[PAWN_nameDef] lies on the ground, wounded.</li>
+    <li>desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon].</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression.</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+  -->
+  <ManhunterPack.rulePack.rulesStrings>
+    <li>tale_noun->মাংসাশী পশুরা হুমকি দিল [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>tale_noun->[CommunityDef] এর [PAWN_nameDef] বন্য পশুদের দ্বারা আক্রান্ত হয়েছে</li>
+    <li>image->একটি দল [Animal_Plural] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Animal_Plural] [circumstance_phrase]</li>
+    <li>image->একটি [AdjectiveLarge] [Animal] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] ছায়াময় রূপরেখা [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] ছায়াময় চতুর্পদ [circumstance_phrase]</li>
+    <li>circumstance_phrase->[TerrainFeatureIndef]-এর উপর দিয়ে এগিয়ে যাচ্ছে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->সম্পূর্ণভাবে ঘিরে [CommunityIndef]</li>
+    <li>circumstance_phrase->আক্রমণ করছে [Quantity_adjphrase] [PersonJob_Plural]-কে [Quantity_adjphrase] [PersonJob_Plural]</li>
+    <li>circumstance_phrase->slaughtering [Quantity_adjphrase] [AnimalAnyPl]</li>
+    <li>circumstance_phrase->[ঘৃণা_অনুভূতি] দ্বারা প্রভাবিত [hate_emotion]</li>
+    <li>circumstance_phrase->রক্তে ঢাকা [Gore_Plural]</li>
+    <li>hate_emotion->ঘৃণা</li>
+    <li>hate_emotion->ক্রোধ</li>
+    <li>hate_emotion->ক্রোধ</li>
+    <li>desc_sentence->[PAWN_nameDef] প্রতিরোধ সংগঠিত করছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] ঝাপটা মারা [WeaponCacIndef] আত্মরক্ষামূলকভাবে।</li>
+    <li>desc_sentence->[PAWN_nameDef] মাটিতে শুয়ে আছে আহত[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_nameDef] প্রতিশোধ নেয় [WeaponIndef]।</li>
+    <li>desc_sentence->[PAWN_nameDef] এর একটি চেহারা আছে [AdjectiveBadass]।</li>
+    <li>desc_sentence->[PAWN_nameDef] এর একটি চেহারা আছে [AdjectiveAngsty]।</li>
+    <li>desc_sentence->মাটি ঢেকে আছে [Gore_Plural]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+  </ManhunterPack.rulePack.rulesStrings>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>উল্কাপিণ্ডের আঘাত</MeteoriteImpact.label>
+  <!-- EN:
+    <li>tale_noun->a meteorite falling near [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->a meteorite impacting near [PAWN_nameDef]'s [Community]</li>
+    <li>image->a [AdjectiveLarge] rock trailing [Color] flames [airborne_circumstance]</li>
+    <li>image->a brightly-glowing spot [airborne_circumstance]</li>
+    <li>image->a [AdjectiveLarge] [Color] fireball [airborne_circumstance]</li>
+    <li>airborne_circumstance->blazing across the sky</li>
+    <li>airborne_circumstance->falling to the ground in a cloud of ash</li>
+    <li>airborne_circumstance->shedding rocks and debris as it flies</li>
+    <li>image->a [AdjectiveLarge] monolith, [ground_circumstance]</li>
+    <li>image->a [AdjectiveLarge] [Color] scorched stone, [ground_circumstance]</li>
+    <li>image->a [Color] pillar of rock, [ground_circumstance]</li>
+    <li>ground_circumstance->surrounded by smoke and ash</li>
+    <li>ground_circumstance->smoking from heat</li>
+    <li>ground_circumstance->surrounded by molten debris</li>
+    <li>ground_circumstance->partially embedded in the ground</li>
+    <li>ground_circumstance->lying in a cracked crater</li>
+    <li>desc_sentence->[PAWN_nameDef] looks on in surprise.</li>
+    <li>desc_sentence->[PAWN_nameDef] looks on with excitement.</li>
+    <li>desc_sentence->[PAWN_nameDef] looks on in shock.</li>
+    <li>desc_sentence->[Quantity_adjphrase] figures approach from a nearby [TerrainFeature].</li>
+    <li>desc_sentence->[Quantity_adjphrase] figures prepare tools and equipment.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
+    <li>desc_sentence->The surroundings are muted and dull.</li>
+  -->
+  <MeteoriteImpact.rulePack.rulesStrings>
+    <li>tale_noun->একটি উল্কা কাছাকাছি পতিত হয়েছে [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>tale_noun->একটি উল্কা কাছাকাছি আঘাত করেছে [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>image->একটি [AdjectiveLarge] জ্বলন্ত উল্কা [airborne_circumstance]</li>
+    <li>image->একটি উজ্জ্বল বিন্দু [airborne_circumstance]</li>
+    <li>image->একটি [AdjectiveLarge_Fem] আগুনের গোলক [Color_Fem] [airborne_circumstance]</li>
+    <li>airborne_circumstance->আকাশ চিরে উড়ে যাওয়া</li>
+    <li>airborne_circumstance->ছাইয়ের মেঘে ঢেকে মাটিতে পড়ছে</li>
+    <li>airborne_circumstance->ওড়ার সময় পাথর ও ধ্বংসাবশেষ ফেলছে।</li>
+    <li>image->একটি [AdjectiveLarge] স্মৃতিস্তম্ভ, [ground_circumstance]</li>
+    <li>image->একটি [AdjectiveLarge] উল্কা [Color], [ground_circumstance]</li>
+    <li>image->একটি পাথরের স্তম্ভ [Color], [ground_circumstance]</li>
+    <li>ground_circumstance->ধোঁয়া ও ছাইয়ে ঘেরা</li>
+    <li>ground_circumstance->ধোঁয়া ওঠা</li>
+    <li>ground_circumstance->গলিত ধ্বংসাবশেষে ঘেরা</li>
+    <li>ground_circumstance->আংশিকভাবে মাটিতে প্রোথিত</li>
+    <li>ground_circumstance->ফাটল ধরা খাদে শুয়ে আছে</li>
+    <li>desc_sentence->[PAWN_nameDef] বিস্ময়ে দেখে।</li>
+    <li>desc_sentence->[PAWN_nameDef] আবেগ নিয়ে পর্যবেক্ষণ করছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] বিস্ময়ে দেখছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] ছায়াগুলো কাছ থেকে আসছে [TerrainFeature] কাছাকাছি।</li>
+    <li>desc_sentence->[Quantity_adjphrase] ছায়াগুলো তাদের সরঞ্জাম ও জিনিসপত্র প্রস্তুত করছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal_Plural] পশুগুলো হতভম্ব হয়ে ঘুরে বেড়াচ্ছে।</li>
+    <li>desc_sentence->নীরব এবং অনুজ্জ্বল পরিবেশ।</li>
+  </MeteoriteImpact.rulePack.rulesStrings>
+  
+  <!-- EN: raid -->
+  <Raid.label>আক্রমণ</Raid.label>
+  <!-- EN:
+    <li>tale_noun->an raid on [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->an assault on [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being attacked by [Enemy]s</li>
+    <li>image->[Quantity_adjphrase] [Enemy]s [circumstance_phrase]</li>
+    <li>image->an army [circumstance_phrase]</li>
+    <li>image->an overwhelming force [circumstance_phrase]</li>
+    <li>image->an invading force [circumstance_phrase]</li>
+    <li>image->stylized [Color] banners [circumstance_phrase]</li>
+    <li>image->an enormous [Enemy] [circumstance_phrase]</li>
+    <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->completely encircling a [Community]</li>
+    <li>circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s</li>
+    <li>circumstance_phrase->roaring in victory</li>
+    <li>circumstance_phrase->brandishing [Weapon]s</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>desc_sentence->[PAWN_nameDef] organizes a resistance while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] lies on the ground, wounded.</li>
+    <li>desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon] while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] stands as tall as a building, [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression.</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>defender_circumstance->shouting triumphantly</li>
+    <li>defender_circumstance->glowing [Color]</li>
+    <li>defender_circumstance->raising a fist in defiance</li>
+    <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
+  -->
+  <Raid.rulePack.rulesStrings>
+    <li>tale_noun->[CommunityDef] এর [PAWN_nameDef] আক্রান্ত ছিল</li>
+    <li>tale_noun->[CommunityDef] এর [PAWN_nameDef] আক্রান্ত হয়েছে</li>
+    <li>tale_noun->[CommunityDef] এর [PAWN_nameDef] একটি আক্রমণ পেয়েছেন [Enemy]দ্বারা</li>
+    <li>image->[Quantity_adjphrase] [Enemy]সংখ্যায় [শত্রু] [অবস্থা] [circumstance_phrase]</li>
+    <li>image->একটি সেনাবাহিনী [circumstance_phrase]</li>
+    <li>image->একটি শক্তিশালী শক্তি [circumstance_phrase]</li>
+    <li>image->একটি আক্রমণকারী শক্তি [circumstance_phrase]</li>
+    <li>image->পতাকাগুলো [Color_Plural] [circumstance_phrase]</li>
+    <li>image->একটি বিশাল [Enemy] [circumstance_phrase]</li>
+    <li>circumstance_phrase->কাছাকাছি এগিয়ে যাচ্ছে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->সম্পূর্ণভাবে ঘিরে ফেলছে [CommunityIndef]</li>
+    <li>circumstance_phrase->আক্রমণ করছে [Quantity_adjphrase] [PersonJob_Plural]-কে [Quantity_adjphrase] [PersonJob_Plural]</li>
+    <li>circumstance_phrase->উত্তেজনায় গর্জন করছে</li>
+    <li>circumstance_phrase->ধরে [WeaponCac_Plural]</li>
+    <li>circumstance_phrase->রক্তে ঢাকা</li>
+    <li>desc_sentence->[PAWN_nameDef] প্রতিরোধ সংগঠিত করে যখন [defender_circumstance]।</li>
+    <li>desc_sentence->[PAWN_nameDef] ঝাপটা মারে [WeaponCacIndef] আত্মরক্ষামূলকভাবে যখন [defender_circumstance]।</li>
+    <li>desc_sentence->[PAWN_nameDef] মাটিতে শুয়ে আছে আহত[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_nameDef] দিয়ে আত্মরক্ষা করে [WeaponCacIndef] যখন [defender_circumstance]।</li>
+    <li>desc_sentence->[PAWN_nameDef] এত উঁচু হয়ে দাঁড়াচ্ছে[PAWN_o_a] একটি বিল্ডিংয়ের মতো, এবং [defender_circumstance]।</li>
+    <li>desc_sentence->[PAWN_nameDef] এর একটি চেহারা আছে [AdjectiveBadass]।</li>
+    <li>desc_sentence->[PAWN_nameDef] এর একটি চেহারা আছে [AdjectiveAngsty]।</li>
+    <li>desc_sentence->মাটি ঢেকে আছে [Gore_Plural]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+    <li>defender_circumstance->বিজয়োল্লাসিত চিৎকার</li>
+    <li>defender_circumstance->একটি আভা নিয়ে चमकায়। [Color_Fem]</li>
+    <li>defender_circumstance->মুষ্টিবদ্ধ হাত চ্যালেঞ্জের সাথে উপরে তুলো।</li>
+    <li>defender_circumstance->তার পেশীগুলো টানটান করে তোলে।</li>
+  </Raid.rulePack.rulesStrings>
+  
+  <!-- EN: ship part crash -->
+  <ShipPartCrash.label>মহাকাশযানের ধ্বংসাবশেষ পতন</ShipPartCrash.label>
+  <!-- EN:
+    <li>tale_noun->an ancient ship part crashing near [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->an ancient ship part landing near [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->a damaged ship part landing near [PAWN_nameDef]'s [Community]</li>
+    <li>image->a swarm of [Mechanoid]s [circumstance_phrase]</li>
+    <li>image->an army of [Mechanoid]s [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Mechanoid]s [circumstance_phrase]</li>
+    <li>image->a [AdjectiveLarge] [Mechanoid] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Mechanoid] silhouettes [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Mechanoid]s with glowing [Color] sensors [circumstance_phrase]</li>
+    <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->completely encircling a [Community]</li>
+    <li>circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s</li>
+    <li>circumstance_phrase->slaughtering [Quantity_adjphrase] [Animal]s</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>circumstance_phrase->dented and sparking</li>
+    <li>desc_sentence->[PAWN_nameDef] organizes a resistance while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] lies on the ground, wounded.</li>
+    <li>desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon] while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] stands as tall as a building, [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression.</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->The ground is coated in scrap metal.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>defender_circumstance->shouting triumphantly</li>
+    <li>defender_circumstance->glowing [Color]</li>
+    <li>defender_circumstance->raising a fist in defiance</li>
+    <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
+  -->
+  <ShipPartCrash.rulePack.rulesStrings>
+    <li>tale_noun->একটি পুরনো মহাকাশযান কাছাকাছি বিধ্বস্ত হয়েছে [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>tale_noun->একটি প্রাচীন মহাকাশযান কাছাকাছি অবতরণ করলো [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>tale_noun->একটি ক্ষতিগ্রস্ত মডিউল একটি জাহাজ থেকে কাছে অবতরণ করেছে [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>image->যান্ত্রিক প্রাণীর ঝাঁক [MechanoidAnyPl] [circumstance_phrase]</li>
+    <li>image->একটি মেকানয়েড সৈন্যদল [MechanoidAnyPl] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [MechanoidAnyPl] [circumstance_phrase]</li>
+    <li>image->একটি [AdjectiveLarge] [Mechanoid] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] সিলুয়েটগুলি [MechanoidAnyPl] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [MechanoidAnyPl] সেন্সর সহ [Color] উজ্জ্বল [circumstance_phrase]</li>
+    <li>circumstance_phrase->[TerrainFeatureIndef]-এর উপর দিয়ে এগিয়ে যাচ্ছে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->সম্পূর্ণভাবে ঘিরে [CommunityIndef]</li>
+    <li>circumstance_phrase->আক্রমণ করছে [Quantity_adjphrase] [PersonJob_Plural]-কে [Quantity_adjphrase] [PersonJob_Plural]</li>
+    <li>circumstance_phrase->slaughtering [Quantity_adjphrase] [AnimalAnyPl]</li>
+    <li>circumstance_phrase->[Gore_Plural] এর আবরণে [Gore_Plural]</li>
+    <li>circumstance_phrase->ডুবানো এবং স্পার্কিং</li>
+    <li>desc_sentence->[PAWN_nameDef] প্রতিরোধ সংগঠিত করছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] ঝাপটা মারা [WeaponCacIndef] আত্মরক্ষামূলকভাবে।</li>
+    <li>desc_sentence->[PAWN_nameDef] মাটিতে শুয়ে আছে আহত[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_nameDef] প্রতিশোধ নেয় [WeaponCacIndef]।</li>
+    <li>desc_sentence->[PAWN_nameDef] এর একটি চেহারা আছে [AdjectiveBadass]।</li>
+    <li>desc_sentence->[PAWN_nameDef] এর একটি চেহারা আছে [AdjectiveAngsty]।</li>
+    <li>desc_sentence->[PAWN_nameDef] উঁচু হয়ে দাঁড়াচ্ছে[PAWN_o_a] একটি বিল্ডিংয়ের মতো, যখন [defender_circumstance]।</li>
+    <li>desc_sentence->মাটি ঢেকে আছে [Gore_Plural]।</li>
+    <li>desc_sentence->মাটি আবর্জনায় ঢাকা আছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+    <li>defender_circumstance->বিজয়োল্লাসিত চিৎকার</li>
+    <li>defender_circumstance->একটি আভা নিয়ে चमकায়। [Color_Fem]</li>
+    <li>defender_circumstance->মুষ্টিবদ্ধ হাত চ্যালেঞ্জের সাথে উপরে তুলো।</li>
+    <li>defender_circumstance->তার পেশীগুলো টানটান করে তোলে।</li>
+  </ShipPartCrash.rulePack.rulesStrings>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>ঘূর্ণিঝড়</Tornado.label>
+  <!-- EN:
+    <li>tale_noun->a tornado that touched down near [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being menaced by tornado</li>
+    <li>image->[behavior] cone of twisting air [circumstance_phrase]</li>
+    <li>image->[behavior] tornado [circumstance_phrase]</li>
+    <li>image->[behavior] hurricane [circumstance_phrase]</li>
+    <li>image->[behavior] [Color] cloud formation [circumstance_phrase]</li>
+    <li>behavior->an advancing</li>
+    <li>behavior->an approaching</li>
+    <li>behavior->a quickly-moving</li>
+    <li>behavior->a swirling</li>
+    <li>circumstance_phrase->carrying debris with it</li>
+    <li>circumstance_phrase->passing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->obscuring a [TerrainFeature]</li>
+    <li>circumstance_phrase->enveloping a [TerrainFeature]</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with visible fright.</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</li>
+    <li>desc_sentence->[PAWN_nameDef] is coordinating defensive measures.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>desc_sentence->All animal life has left the area.</li>
+  -->
+  <Tornado.rulePack.rulesStrings>
+    <li>tale_noun->একটি ঘূর্ণিঝড় কাছাকাছি তৈরি হয়েছে [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>tale_noun->টি [Community_Fem] এর [PAWN_nameDef] ঘূর্ণিঝড়ে ক্ষতিগ্রস্ত হয়েছে</li>
+    <li>image->[behavior] চলন্ত বায়ু শঙ্কু [circumstance_phrase]</li>
+    <li>image->[behavior] ঘূর্ণিঝড় [circumstance_phrase]</li>
+    <li>image->[behavior] ঘূর্ণিঝড় [circumstance_phrase]</li>
+    <li>image->[behavior1] মেঘ [Color_Fem] [circumstance_phrase]</li>
+    <li>behavior->একটি</li>
+    <li>behavior->একটি দ্রুত</li>
+    <li>behavior->একটি চিত্তাকর্ষক</li>
+    <li>behavior->একজন শক্তিশালী</li>
+    <li>behavior1->একটি</li>
+    <li>behavior1->একটি দ্রুত</li>
+    <li>behavior1->একটি চিত্তাকর্ষক</li>
+    <li>behavior1->একটি শক্তিশালী</li>
+    <li>circumstance_phrase->তাদের পথে ধ্বংসাবশেষ টেনে নিয়ে যাচ্ছে</li>
+    <li>circumstance_phrase->넘ে যাচ্ছে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->অন্ধকার হচ্ছে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->ঢেকে [TerrainFeatureIndef]</li>
+    <li>desc_sentence->[PAWN_nameDef] ভয়ে দেখছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] তার মুখে বিস্ময় দেখা যাচ্ছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] প্রতিরক্ষামূলক ব্যবস্থা সমন্বয় করছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] দূরে পালানোর জন্য দৌড়াচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+    <li>desc_sentence->এলাকা থেকে সমস্ত প্রাণী পালিয়ে গেছে।</li>
+  </Tornado.rulePack.rulesStrings>
+  
+  <!-- EN: tornado -->
+  <TornadoFromItem.label>ঘূর্ণিঝড়</TornadoFromItem.label>
+  <!-- EN:
+    <li>tale_noun->a tornado that touched down near [COLONIST_nameDef]'s [Community]</li>
+    <li>tale_noun->[COLONIST_nameDef]'s [Community] menaced by a tornado</li>
+    <li>image->[behavior] cone of twisting air [circumstance_phrase]</li>
+    <li>image->[behavior] tornado [circumstance_phrase]</li>
+    <li>image->[behavior] hurricane [circumstance_phrase]</li>
+    <li>image->[behavior] [Color] cloud formation [circumstance_phrase]</li>
+    <li>behavior->an advancing</li>
+    <li>behavior->an approaching</li>
+    <li>behavior->a quickly-moving</li>
+    <li>behavior->a swirling</li>
+    <li>circumstance_phrase->carrying debris with it</li>
+    <li>circumstance_phrase->passing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->obscuring a [TerrainFeature]</li>
+    <li>circumstance_phrase->enveloping a [TerrainFeature]</li>
+    <li>desc_sentence->[COLONIST_nameDef] watches with visible fright.</li>
+    <li>desc_sentence(p=0.5)->[COLONIST_nameDef] watches with awe on [COLONIST_possessive] face.</li>
+    <li>desc_sentence(p=0.5)->[ATTACKER_nameDef] watches with awe on [ATTACKER_possessive] face.</li>
+    <li>desc_sentence->[COLONIST_nameDef] is coordinating defensive measures.</li>
+    <li>desc_sentence->[ATTACKER_nameDef] cackles with glee.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>desc_sentence->All animal life has left the area.</li>
+  -->
+  <TornadoFromItem.rulePack.rulesStrings>
+    <li>tale_noun->একটি ঘূর্ণিঝড় কাছাকাছি তৈরি হয়েছে [CommunityDef] এর [COLONIST_nameDef]</li>
+    <li>tale_noun->টি [Community_Fem] এর [COLONIST_nameDef] ঘূর্ণিঝড়ে ক্ষতিগ্রস্ত হয়েছে</li>
+    <li>image->[behavior] চলন্ত বায়ু শঙ্কু [circumstance_phrase]</li>
+    <li>image->[behavior] ঘূর্ণিঝড় [circumstance_phrase]</li>
+    <li>image->[behavior] ঘূর্ণিঝড় [circumstance_phrase]</li>
+    <li>image->[behavior1] মেঘ [Color_Fem] [circumstance_phrase]</li>
+    <li>behavior->একটি</li>
+    <li>behavior->একটি দ্রুত</li>
+    <li>behavior->একটি চিত্তাকর্ষক</li>
+    <li>behavior->একজন শক্তিশালী</li>
+    <li>behavior1->একটি</li>
+    <li>behavior1->একটি দ্রুত</li>
+    <li>behavior1->একটি চিত্তাকর্ষক</li>
+    <li>behavior1->একটি শক্তিশালী</li>
+    <li>circumstance_phrase->তাদের পথে ধ্বংসাবশেষ টেনে নিয়ে যাচ্ছে</li>
+    <li>circumstance_phrase->넘ে যাচ্ছে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->অন্ধকার হচ্ছে [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->ঢেকে [TerrainFeatureIndef]</li>
+    <li>desc_sentence->[COLONIST_nameDef] ভয়ে দেখছে।</li>
+    <li>desc_sentence(p=0.5)->[COLONIST_nameDef] তার মুখে বিস্ময় দেখা যাচ্ছে।</li>
+    <li>desc_sentence(p=0.5)->[ATTACKER_nameDef] তার মুখে বিস্ময় দেখা যাচ্ছে।</li>
+    <li>desc_sentence->[COLONIST_nameDef] [COLONIST_nameDef] প্রতিরক্ষামূলক ব্যবস্থা সমন্বয় করছে।</li>
+    <li>desc_sentence->[ATTACKER_nameDef] আনন্দিতভাবে হাসে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] দূরে পালানোর জন্য দৌড়াচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] এলাকা থেকে পালিয়ে যাচ্ছে।</li>
+    <li>desc_sentence->এলাকা থেকে সমস্ত প্রাণী পালিয়ে গেছে।</li>
+  </TornadoFromItem.rulePack.rulesStrings>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>বিষাক্ত বৃষ্টি</ToxicFallout.label>
+  <!-- EN:
+    <li>tale_noun->fallout settling over [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->the atmosphere near [PAWN_nameDef]'s [Community] becoming toxic</li>
+    <li>image->an ominous sky, [circumstance_group]</li>
+    <li>image->the air becoming thick and [circumstance_group]</li>
+    <li>image->the ground glowing gently and [circumstance_group]</li>
+    <li>image->fields of dead plants [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] graves [circumstance_group]</li>
+    <li>circumstance_phrase->with no life in sight</li>
+    <li>circumstance_phrase->covered by a faint sheen of luminous dust</li>
+    <li>circumstance_phrase->arranged in a pattern that suggests bones</li>
+    <li>circumstance_phrase->waiting for the poison to stop</li>
+    <li>desc_sentence->[PAWN_nameDef] lies on the ground, [PAWN_possessive] body twisted at an unusual angle.</li>
+    <li>desc_sentence->[PAWN_nameDef] hides near a [TerrainFeature], gazing out with a [AdjectiveAngsty] look.</li>
+    <li>desc_sentence->[PAWN_nameDef] looks on in shock.</li>
+    <li>desc_sentence->[PAWN_nameDef] rests quietly with a layer of sweat upon [PAWN_possessive] face.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dead [Animal]s lay on the ground.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
+  -->
+  <ToxicFallout.rulePack.rulesStrings>
+    <li>tale_noun->বিষাক্ত বৃষ্টি পড়লো [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>tale_noun->কাছাকাছি বায়ুমণ্ডল [CommunityDef] এর [PAWN_nameDef] বিষাক্ত হয়ে গেল</li>
+    <li>image->একটি অশুভ আকাশ, [circumstance_group]</li>
+    <li>image->বাতাস ঘোলাটে হয়ে আসছে এবং [circumstance_group]</li>
+    <li>image->মাটি শান্তভাবে चमकছে এবং [circumstance_group]</li>
+    <li>image->মৃত উদ্ভিদের ক্ষেত্র [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] কবরসমূহ [circumstance_group]</li>
+    <li>circumstance_phrase->জীবনের কোনো চিহ্ন দেখা যাচ্ছে না।</li>
+    <li>circumstance_phrase->সূক্ষ্ম উজ্জ্বল ধূলির একটি পাতলা স্তর দ্বারা আবৃত</li>
+    <li>circumstance_phrase->হাড়ের মতো দেখতে নকশা সহ</li>
+    <li>circumstance_phrase->বিষাক্ততা বন্ধ হওয়ার জন্য অপেক্ষা করছি।</li>
+    <li>desc_sentence->[PAWN_nameDef] মেঝেতে শুয়ে আছে, তার শরীর অস্বাভাবিকভাবে মোচড়ানো।</li>
+    <li>desc_sentence->[PAWN_nameDef] কাছাকাছি লুকিয়ে আছে [TerrainFeatureIndef], দেখেছে একটি [AdjectiveAngsty]।</li>
+    <li>desc_sentence->[PAWN_nameDef] আতঙ্কিত অবস্থায় দেখছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] তার মুখমণ্ডলে ঘামের একটি স্তর নিয়ে [PAWN_nameDef] শান্তভাবে বিশ্রাম নিচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] শরীরের [AnimalAnyPl] প্রাণহীনভাবে মাটি ঢেকে আছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] শরীরের [AnimalAnyPl] প্রাণহীনভাবে চারপাশে পড়ে আছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] বিস্ময়ে দেখছে।</li>
+  </ToxicFallout.rulePack.rulesStrings>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>আগ্নেয় শীত</VolcanicWinter.label>
+  <!-- EN:
+    <li>tale_noun->volcanic winter beginning at [PAWN_nameDef]'s [Community]</li>
+    <li>image->a dark and cold sky, [circumstance_group]</li>
+    <li>image->the air filling with ash, [circumstance_group]</li>
+    <li>image->a frost-covered barren [TerrainFeature] [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] fields of ash-covered plants [circumstance_group]</li>
+    <li>circumstance_phrase->with no life in sight</li>
+    <li>circumstance_phrase->barely illuminated by thin shafts of light</li>
+    <li>circumstance_phrase->starkly illuminated with chilly blue light</li>
+    <li>desc_sentence->[PAWN_nameDef] huddles near a fire.</li>
+    <li>desc_sentence->To stay warm, [PAWN_nameDef] wears [Quantity_adjphrase] [Apparel]s.</li>
+    <li>desc_sentence->[PAWN_nameDef] sits nearby, visibly exhausted by the ordeal.</li>
+    <li>desc_sentence->[PAWN_nameDef] hides near a [TerrainFeature], gazing out with a [AdjectiveAngsty] look.</li>
+    <li>desc_sentence->[Quantity_adjphrase] starving [Animal]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] shivering [Animal]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
+  -->
+  <VolcanicWinter.rulePack.rulesStrings>
+    <li>tale_noun->একটি আগ্নেয়গিরির শীত শুরু হয়েছে [CommunityDef] এর [PAWN_nameDef]</li>
+    <li>image->ঠান্ডা এবং অন্ধকার আকাশ, [circumstance_group]</li>
+    <li>image->বাতাস ছাইয়ে ভরে উঠছে, [circumstance_group]</li>
+    <li>image->একটি [TerrainFeature] হিমায়িত এবং অন্ধকার [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] ছাইয়ে ঢাকা উদ্ভিদের ক্ষেত্র [circumstance_group]</li>
+    <li>circumstance_phrase->জীবনের কোনো চিহ্ন নেই।</li>
+    <li>circumstance_phrase->দুর্বল আলোকরশ্মি দ্বারা সামান্য আলোকিত।</li>
+    <li>circumstance_phrase->ফ্যাকাশে ঠান্ডা নীল আলোয় সামান্য আলোকিত</li>
+    <li>desc_sentence->[PAWN_nameDef] আগুন পাশে [PAWN_nameDef] গুটিয়ে বসে।</li>
+    <li>desc_sentence->গরম থাকার জন্য [PAWN_nameDef] পরিধান করে [Quantity_adjphrase] [Apparel]গুলো।</li>
+    <li>desc_sentence->[PAWN_nameDef] বসে আছে[PAWN_o_a] কাছে, দৃশ্যমানভাবে ক্লান্ত[PAWN_o_a] বিষয়টির জন্য।</li>
+    <li>desc_sentence->[PAWN_nameDef] কাছাকাছি লুকিয়ে আছে [TerrainFeatureIndef], একটি বিষণ্ণ মুখ নিয়ে দেখছে [AdjectiveAngsty]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] ক্ষুধার্ত প্রাণীরা দৃশ্যটি ঘিরে রেখেছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] কাঁঁপতে কাঁঁপতে তারা দৃশ্যটির চারপাশে ঘুরছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] শরীরের [AnimalAnyPl] প্রাণহীনভাবে মাটি ঢেকে আছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] বিস্ময়ে দেখছে।</li>
+  </VolcanicWinter.rulePack.rulesStrings>
+  
+</LanguageData>

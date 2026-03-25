@@ -1,0 +1,1148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <li>Letter->WordParts/CapitalLetters</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <li>SylB->WordParts/Syllables_Byzantinian</li>
+    <li>SylP->WordParts/Syllables_Pig</li>
+    <li>Color->Words/Nouns/Colors</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>Game->Words/Nouns/Games</li>
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>Enemy->Words/Nouns/Enemies</li>
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Gore->Words/Nouns/Gore</li>
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>Community->Words/Nouns/Communities</li>
+    <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+  -->
+  <GlobalUtility.rulePack.rulesFiles>
+    <!-- Donde se usan generalmente estos archivos-->
+    <!-- Adjetivos:-->
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveAngsty_Fem->Words/Adjectives/Angsty_Fem</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveBadass_Fem->Words/Adjectives/Badass_Fem</li>
+    <li>AdjectiveBadass_Plural->Words/Adjectives/Badass_Plural</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveFriendly_Fem->Words/Adjectives/Friendly_Fem</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveLarge_Fem->Words/Adjectives/Large_Fem</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>AdjectiveNaturalFem->Words/Adjectives/Natural_Fem</li>
+    <!-- Animales:-->
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>Animal_Cap->Words/Nouns/Animals_Cap</li>
+    <li>Animal_Fem->Words/Nouns/Animals_Fem</li>
+    <li>Animal_FemCap->Words/Nouns/Animals_FemCap</li>
+    <li>Animal_FemPlural->Words/Nouns/Animals_FemPlural</li>
+    <li>Animal_Plural->Words/Nouns/Animals_Plural</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalBadass_Cap->Words/Nouns/Animals_BadassCap</li>
+    <li>AnimalBadass_Fem->Words/Nouns/Animal_Badass_Fem</li>
+    <li>AnimalBadass_FemCap->Words/Nouns/Animal_Badass_FemCap</li>
+    <li>AnimalBadass_FemPlural->Words/Nouns/Animal_Badass_FemPlural</li>
+    <li>AnimalBadass_Plural->Words/Nouns/Animal_Badass_Plural</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>AnimalGroup_Fem->Words/Nouns/AnimalGroups_Fem</li>
+    <!--Vestimenta:-->
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Apparel_Fem->Words/Nouns/Apparel_Fem</li>
+    <!--Arte:-->
+    <li>Artwork->Words/Nouns/Artworks</li>
+    <li>Artwork_Fem->Words/Nouns/Artworks_Fem</li>
+    <!--Partes del Cuerpo:-->
+    <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>BodyPart_Fem->Words/Nouns/Bodyparts_Fem</li>
+    <li>BodyPart_Human->Words/Nouns/Bodyparts_Human</li>
+    <!--Negocios:-->
+    <li>BusinessType->Words/Nouns/BusinessTypes</li>
+    <li>BusinessType_Cap->Words/Nouns/BusinessTypes_Cap</li>
+    <li>BusinessType_Fem->Words/Nouns/BusinessTypes_Fem</li>
+    <li>BusinessType_FemCap->Words/Nouns/BusinessTypes_FemCap</li>
+    <li>BusinessType_Plural->Words/Nouns/BusinessTypes_Plural</li>
+    <li>BusinessType_FemPlural->Words/Nouns/BusinessTypes_FemPlural</li>
+    <li>BusinessType_PluralCap->Words/Nouns/BusinessTypes_PluralCap</li>
+    <!--Colores:-->
+    <li>Color->Words/Nouns/Colors</li>
+    <li>Color_Cap->Words/Nouns/Colors_Cap</li>
+    <li>Color_Plural->Words/Nouns/Colors_Plural</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>ColorBadass_Fem->Words/Nouns/Colors_BadassFem</li>
+    <li>Color_Fem->Words/Nouns/Colors_Fem</li>
+    <li>Color_FemPl->Words/Nouns/Colors_FemPl</li>
+    <li>Color_FemCap->Words/Nouns/Colors_FemCap</li>
+    <!--Comunidades:-->
+    <li>Community->Words/Nouns/Communities</li>
+    <li>Community_Fem->Words/Nouns/Communities_Fem</li>
+    <!--Conceptos:-->
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>ConceptAngsty_Fem->Words/Nouns/Concepts_AngstyFem</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptBadass_Fem->Words/Nouns/Concepts_BadassFem</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptPositive_Fem->Words/Nouns/Concepts_PositiveFem</li>
+    <!--Direcciones:-->
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <!--Enemigos:-->
+    <li>Enemy->Words/Nouns/Enemies</li>
+    <li>Enemy_Fem->Words/Nouns/Enemies_Fem</li>
+    <!--Juegos:-->
+    <li>Game->Words/Nouns/Games</li>
+    <li>Game_Fem->Words/Nouns/Games_Fem</li>
+    <li>Game_FemPlural->Words/Nouns/Games_FemPlural</li>
+    <li>Game_Prural->Words/Nouns/Games_Plural</li>
+    <!--Dantesco: Se usa en RulePack_Art_ImagesTales-->
+    <li>Gore->Words/Nouns/Gore</li>
+    <li>GoreMech->Words/Nouns/Gore_Mech</li>
+    <li>GoreMechPl->Words/Nouns/Gore_MechPlural</li>
+    <li>Gore_Plural->Words/Nouns/Gore_Plural</li>
+    <!--Nombre de Grupos:-->
+    <li>GroupName->Words/Nouns/GroupNames</li>
+    <!--Números Romanos:-->
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <!--Letras:-->
+    <li>Letter->WordParts/CapitalLetters</li>
+    <!--Mecanoides:-->
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>Mechanoid_Fem->Words/Nouns/Mechanoid_Fem</li>
+    <li>Mechanoid_FemPl->Words/Nouns/Mechanoid_FemPlural</li>
+    <li>Mechanoid_Plural->Words/Nouns/Mechanoid_Plural</li>
+    <!--Objetos naturales:-->
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>NaturalObject_Fem->Words/Nouns/NaturalObject_Fem</li>
+    <!--Caracteristicas Personales:-->
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+    <li>PersonalCharacteristic_Fem->Words/Nouns/PersonalCharacteristics_fem</li>
+    <!--Tipos de Personajes:-->
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>PersonBadass_Fem->Words/Nouns/People_Badass_Fem</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonFamily_Fem->Words/Nouns/People_Family_Fem</li>
+    <!--Tipos de Trabajos:-->
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonJob_Plural->Words/Nouns/People_Jobs_Plural</li>
+    <li>PersonJob_Fem->Words/Nouns/People_JobsFem</li>
+    <!--Tipos de uniones modernas:-->
+    <li>PoliticalUnionOutlander->Words/Nouns/PoliticalUnions_Outlander</li>
+    <li>PoliticalUnionOutlander_Fem->Words/Nouns/PoliticalUnions_OutlanderFem</li>
+    <!--Tipos de uniones de tribus:-->
+    <li>PoliticalUnionTribal->Words/Nouns/PoliticalUnions_Tribal</li>
+    <li>PoliticalUnionTribal_Fem->Words/Nouns/PoliticalUnions_TribalFem</li>
+    <!--Sílabas:-->
+    <li>SylB->WordParts/Syllables_Byzantinian</li>
+    <li>SylB_Cap->WordParts/Syllables_Byzantinian_Cap</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylE_Cap->WordParts/Syllables_English_Cap</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <li>SylG_Cap->WordParts/Syllables_Galician_Cap</li>
+    <li>SylP->WordParts/Syllables_Pig</li>
+    <!--Nombre de los biomas:-->
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>TerrainFeature_Fem->Words/Nouns/TerrainFeatures_Fem</li>
+    <li>TerrainFeature_Pl->Words/Nouns/TerrainFeatures_Plural</li>
+    <li>TerrainFeature_PlFem->Words/Nouns/TerrainFeatures_PluralFem</li>
+    <!--Nombre de los árboles:-->
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>TreeType_Fem->Words/Nouns/TreeTypes_Fem</li>
+    <!--Nombre para los tribales-->
+    <li>TribalFirstName->Words/Foreign/TribalsFirstName</li>
+    <li>TribalLastName->Words/Foreign/TribalsLastName</li>
+    <!--Nombre para las tribus en mayúscula:-->
+    <li>WordTribal_Cap->Words/Foreign/Tribal_Cap</li>
+    <li>WordTribal_Name->Words/Foreign/Tribal_Names</li>
+    <li>WordTribal_NameCap->Words/Foreign/Tribal_NamesCap</li>
+    <!--Nombre de vegetales:-->
+    <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>Vegetable_Fem->Words/Nouns/Vegetables_Fem</li>
+    <!--Nombre de verbos amistosos:-->
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>VerbFriendly_Fem->Words/Verbs/Friendly_Fem</li>
+    <!--Armas:-->
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <li>WeaponVarPl->Words/Nouns/WeaponsVar</li>
+    <li>WeaponCac->Words/Nouns/Weapons_Cac</li>
+    <li>WeaponCac_Fem->Words/Nouns/Weapons_CacFem</li>
+    <li>WeaponCac_Plural->Words/Nouns/Weapons_CacPlural</li>
+    <li>WeaponCac_FemPlural->Words/Nouns/Weapons_CacFemPlural</li>
+    <li>Weapon_Fem->Words/Nouns/Weapons_Fem</li>
+    <li>Weapon_FemPlural->Words/Nouns/Weapons_FemPlural</li>
+    <li>Weapon_Plural->Words/Nouns/Weapons_Plural</li>
+    <li>Weapon_Ranged->Words/Nouns/Weapons_Ranged</li>
+  </GlobalUtility.rulePack.rulesFiles>
+  <!-- EN:
+    <li>Trans->of</li>
+    <li>Trans->for</li>
+    <li>Trans->by</li>
+    <li>Trans->with</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character->[Mechanoid]</li>
+    <li>Quantity_adjphrase->two</li>
+    <li>Quantity_adjphrase->three</li>
+    <li>Quantity_adjphrase->four</li>
+    <li>Quantity_adjphrase->five</li>
+    <li>Quantity_adjphrase->six</li>
+    <li>Quantity_adjphrase->seven</li>
+    <li>Quantity_adjphrase->eight</li>
+    <li>Quantity_adjphrase->nine</li>
+    <li>Quantity_adjphrase->ten</li>
+    <li>Quantity_adjphrase->several</li>
+    <li>Quantity_adjphrase->a group of</li>
+    <li>Quantity_adjphrase->a large group of</li>
+    <li>Quantity_adjphrase->dozens of</li>
+    <li>Quantity_adjphrase->hundreds of</li>
+    <li>Quantity_adjphrase->a thousand</li>
+    <li>Quantity_adjphrase->thousands of</li>
+    <li>Shape->triangle</li>
+    <li>Shape->square</li>
+    <li>Shape->rectangle</li>
+    <li>Shape->cone</li>
+    <li>Shape->line</li>
+    <li>Shape->heart</li>
+    <li>Shape->star</li>
+    <li>Shape->circle</li>
+    <li>Shape->ellipse</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>PersonalCharacteristic(p=0.15)->genitals</li>
+    <li>PersonalCharacteristic(p=0.15)->pubic hair</li>
+    <li>PersonalCharacteristic(p=0.15)->body hair</li>
+    <li>PersonalCharacteristic(p=0.15)->toilet habits</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual prowess</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
+  -->
+  <GlobalUtility.rulePack.rulesStrings>
+    <!--Reglas Especiales-->
+    <!--asker-->
+    <li>asker_o_a(asker_gender!=Female)->অথবা</li>
+    <li>asker_o_a(asker_gender==Female)->একটি</li>
+    <li>asker_e_a(asker_gender!=Female)->এবং</li>
+    <li>asker_e_a(asker_gender==Female)->একটি</li>
+    <li>asker_x_a(asker_gender!=Female)-></li>
+    <li>asker_x_a(asker_gender==Female)->একটি</li>
+    <li>asker_a(asker_gender!=Female)->একটি</li>
+    <li>asker_a(asker_gender==Female)->একটি</li>
+    <li>asker_aCap(asker_gender!=Female)->একটি</li>
+    <li>asker_aCap(asker_gender==Female)->একটি</li>
+    <li>asker_TheCap(asker_gender!=Female)->টি</li>
+    <li>asker_TheCap(asker_gender==Female)->টি</li>
+    <li>asker_The(asker_gender!=Female)->টি</li>
+    <li>asker_The(asker_gender==Female)->টি</li>
+    <li>asker_a_al(asker_gender!=Female)->থেকে</li>
+    <li>asker_a_al(asker_gender==Female)->দিকে</li>
+    <li>titleHeir_o_a(titleHeir_gender==Male)->অথবা</li>
+    <li>titleHeir_o_a(titleHeir_gender==Female)->একটি</li>
+    <li>titleHeir_o_a(titleHeir_gender==None)->অথবা</li>
+    <li>titleHeirDef(titleHeir_gender==Male)->টি</li>
+    <li>titleHeirDef(titleHeir_gender==Female)->টি</li>
+    <li>titleHeirDef(titleHeir_gender==None)->টি</li>
+    <!--INITIATOR-->
+    <li>INITIATOR_o_a(INITIATOR_gender!=Female)->অথবা</li>
+    <li>INITIATOR_o_a(INITIATOR_gender==Female)->একটি</li>
+    <!--PRISONER-->
+    <li>PRISONER_o_a(PRISONER_gender!=Female)->অথবা</li>
+    <li>PRISONER_o_a(PRISONER_gender==Female)->একটি</li>
+    <!--PATIENT-->
+    <li>PATIENT_o_a(PATIENT_gender!=Female)->অথবা</li>
+    <li>PATIENT_o_a(PATIENT_gender==Female)->একটি</li>
+    <!--RECIPIENT-->
+    <li>RECIPIENT_o_a(RECIPIENT_gender!=Female)->অথবা</li>
+    <li>RECIPIENT_o_a(RECIPIENT_gender==Female)->একটি</li>
+    <!--INITIATOR-->
+    <li>INITIATOR_o_a(INITIATOR_gender!=Female)->অথবা</li>
+    <li>INITIATOR_o_a(INITIATOR_gender==Female)->একটি</li>
+    <!--refugee-->
+    <li>refugee_o_a(refugee_gender!=Female)->অথবা</li>
+    <li>refugee_o_a(refugee_gender==Female)->একটি</li>
+    <li>refugee_ununa(refugee_gender!=Female)->একটি</li>
+    <li>refugee_ununa(refugee_gender==Female)->একটি</li>
+    <!--joiner-->
+    <li>joiner_a(joiner_gender!=Female)->একটি</li>
+    <li>joiner_a(joiner_gender==Female)->একটি</li>
+    <li>joiner_A(joiner_gender!=Female)->একটি</li>
+    <li>joiner_A(joiner_gender==Female)->একটি</li>
+    <li>joiner_o_a(joiner_gender!=Female)->অথবা</li>
+    <li>joiner_o_a(joiner_gender==Female)->একটি</li>
+    <!--regla especial para la misión JoinerTheat-->
+    <li>joiner_especial(joiner_gender!=Female)->মেয়েটি</li>
+    <li>joiner_especial(joiner_gender==Female)->ছেলেটি</li>
+    <!--lodgers-->
+    <li>o_a(lodgers0_gender==Female)->একটি</li>
+    <li>o_a(lodgers0_gender!=Female)->অথবা</li>
+    <li>e_a(lodgers0_gender==Female)->একটি</li>
+    <li>e_a(lodgers0_gender!=Female)->এবং</li>
+    <li>arrived(lodgerCount==1)->এসেছে</li>
+    <li>arrived(lodgerCount>=2)->এসেছে</li>
+    <li>Un_Cap(lodgers0_gender==Female)->একটি</li>
+    <li>Un_Cap(lodgers0_gender!=Female)->একটি</li>
+    <li>un_una(lodgers0_gender==Female)->একটি</li>
+    <li>un_una(lodgers0_gender!=Female)->একটি</li>
+    <li>insults(lodgers0_gender==Female)->মানহানির শিকারকে</li>
+    <li>insults(lodgers0_gender!=Female)->মানহানি কারীর কাছে</li>
+    <li>arrived(lodgerCount==1)->এসেছে</li>
+    <li>arrived(lodgerCount>=2)->এসেছে</li>
+    <li>willStay(lodgerCount==1)->থেকে যাবে</li>
+    <li>willStay(lodgerCount>=2)->থেকে যাবে</li>
+    <li>last(lodgers0_gender==Male)->শেষ জন</li>
+    <li>last(lodgers0_gender!=Male)->শেষটি</li>
+    <li>lodgersLeave(lodgersCount==1)->ত্যাগ করবে।</li>
+    <li>lodgersLeave(lodgersCount>=2)->ছেড়ে দেবে</li>
+    <li>lodgersella(lodgers0_gender==Male)->টি</li>
+    <li>lodgersella(lodgers0_gender!=Male)->টি</li>
+    <li>lodgersellaCap(lodgers0_gender==Male)->টি</li>
+    <li>lodgersellaCap(lodgers0_gender!=Male)->টি</li>
+    <li>HadSingOrPlural(lodgerCount==1)->ছিল</li>
+    <li>HadSingOrPlural(lodgerCount>=2)->ছিল</li>
+    <li>hostedSingOrPlural(lodgers0_gender==Male,lodgerCount==1)->আশ্রিত</li>
+    <li>hostedSingOrPlural(lodgers0_gender!=Male,lodgerCount==1)->আশ্রিত</li>
+    <li>hostedSingOrPlural(lodgerCount>=2)->আশ্রিত</li>
+    <!-- EnemyFaction -->
+    <li>el_la(enemyFaction_leader==Male)->টি</li>
+    <li>el_la(enemyFaction_leader!=Male)->টি</li>
+    <li>factionOpponentun_una(factionOpponent==Male)->একটি</li>
+    <li>factionOpponentun_una(factionOpponent!=Male)->একটি</li>
+    <!--Quest Hospitality -->
+    <li>arrived(lodgerCount==1)->এসেছে</li>
+    <li>arrived(lodgerCount>=2)->এসেছে</li>
+    <!--Scrip_LongRangeMineralScanner-->
+    <li>targetMineable_labelVar(targetMineable==MineableGold)->সোনালী খনি</li>
+    <li>targetMineable_labelVar(targetMineable==MineableSilver)->রূপার খনি</li>
+    <li>targetMineable_labelVar(targetMineable==MineableSteel)->স্টিল বিক্রি</li>
+    <li>targetMineable_labelVar(targetMineable==MineablePlasteel)->প্লাস্টিস্টিল ভেন্ডা</li>
+    <li>targetMineable_labelVar(targetMineable==MineableComponentsIndustrial)->সংকুচিত যন্ত্রাংশের স্তূপ</li>
+    <li>targetMineable_labelVar(targetMineable==MineableUranium)->ইউরেনিয়াম খনি</li>
+    <li>targetMineable_labelVar(targetMineable==MineableJade)->জেইড শিরা</li>
+    <li>targetMineable_labelVar(p=0.00000000001)->[targetMineable_label]</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableGold)->সোনা</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableSilver)->রূপা</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableSteel)->ইস্পাত</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineablePlasteel)->প্লাস্টিস্টিল</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableComponentsIndustrial)->সংকুচিত যন্ত্রপাতি</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableUranium)->ইউরেনিয়াম</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableJade)->জেইড</li>
+    <li>targetMineableThing_labelVar(p=0.00000000001)->[targetMineableThing_label]</li>
+    <!-- Scrip Uitlity helpers -->
+    <li>helpersSent(helpersCount==1,helpers0_gender!=Female)->প্রেরিত</li>
+    <li>helpersSent(helpersCount==1,helpers0_gender==Female)->প্রেরিত</li>
+    <li>helpersSent(helpersCount>=2)->প্রেরিত</li>
+    <li>helpersArrived(helpersCount==1)->এসে গেছে।</li>
+    <li>helpersArrived(helpersCount>=2)->এসেছে</li>
+    <li>helpersLeaving(helpersCount==1)->চলে যাচ্ছে</li>
+    <li>helpersLeaving(helpersCount>=2)->চলে যাচ্ছে</li>
+    <li>helpersTheCap(helpersCount==1,helpers0_gender!=Female)->টি</li>
+    <li>helpersTheCap(helpersCount==1,helpers0_gender==Female)->টি</li>
+    <li>helpersTheCap(helpersCount>=2)->গুলি</li>
+    <li>helpersSpent(helpersCount==1)->গিয়েছিল</li>
+    <li>helpersSpent(helpersCount>=2)->গিয়েছিল</li>
+    <!-- ShuttleCrash-->
+    <li>crashedLanded(civilians_count==1)->ক্র্যাশ করলো</li>
+    <li>crashedLanded(civilians_count>=2)->তারাcrash করলো</li>
+    <li>thesePeople(civilians_count==1)->এই ব্যক্তিটি</li>
+    <li>thesePeople(civilians_count>=2)->এই ব্যক্তিগুলো</li>
+    <!-- beggar -->
+    <li>beggars_o_a(beggars0_gender==Male)->অথবা</li>
+    <li>beggars_o_a(beggars0_gender!=Male)->একটি</li>
+    <li>beggars_e_a(beggars0_gender==Male)->এবং</li>
+    <li>beggars_e_a(beggars0_gender!=Male)->একটি</li>
+    <!-- founder -->
+    <li>founder_o_a(founder_gender==Male)->অথবা</li>
+    <li>founder_o_a(founder_gender!=Male)->একটি</li>
+    <li>founder_Heroe(founder_gender==Male)->একজন বীর</li>
+    <li>founder_Heroe(founder_gender!=Male)->এক জন নায়িকা</li>
+    <!-- pilgrim -->
+    <li>siendo(pilgrimCount==1)->এবং এটি সম্মানিত হচ্ছে।</li>
+    <li>siendo(pilgrimCount>=2)->এবং তাদের সম্মান করা হচ্ছে।</li>
+    <li>mayOffers(pilgrimCount==1)->পারে</li>
+    <li>mayOffers(pilgrimCount>=2)->পারেন</li>
+    <!--Tales Jobs-->
+    <!-- PAWN-->
+    <li>PAWN_o_a(PAWN_gender!=Female)->অথবা</li>
+    <li>PAWN_o_a(PAWN_gender==Female)->একটি</li>
+    <li>pawn_o_a(pawn_gender!=Female)->অথবা</li>
+    <li>pawn_o_a(pawn_gender==Female)->একটি</li>
+    <!-- SURGEON-->
+    <li>SURGEON_o_a(SURGEON_gender!=Female)->অথবা</li>
+    <li>SURGEON_o_a(SURGEON_gender==Female)->একটি</li>
+    <!-- VICTIM-->
+    <li>VICTIM_o_a(VICTIM_gender!=Female)->অথবা</li>
+    <li>VICTIM_o_a(VICTIM_gender==Female)->একটি</li>
+    <!-- KILLER-->
+    <li>KILLER_o_a(KILLER_gender!=Female)->অথবা</li>
+    <li>KILLER_o_a(KILLER_gender==Female)->একটি</li>
+    <!-- JOINER-->
+    <li>JOINERTales_o_a(JOINER_gender!=Female)->অথবা</li>
+    <li>JOINERTales_o_a(JOINER_gender==Female)->একটি</li>
+    <!--TRAINER-->
+    <li>TRAINER_o_a(TRAINER_gender!=Female)->অথবা</li>
+    <li>TRAINER_o_a(TRAINER_gender==Female)->একটি</li>
+    <!--SLEEPER-->
+    <li>SLEEPER_o_a(SLEEPER_gender!=Female)->অথবা</li>
+    <li>SLEEPER_o_a(SLEEPER_gender==Female)->একটি</li>
+    <!--ATTENDER-->
+    <li>ATTENDER_o_a(ATTENDER_gender!=Female)->অথবা</li>
+    <li>ATTENDER_o_a(ATTENDER_gender==Female)->একটি</li>
+    <!--SENDER-->
+    <li>un_una_sender(ATTENDER_gender!=Female)->একটি</li>
+    <li>un_una_sender(ATTENDER_gender==Female)->একটি</li>
+    <!-- Book_Descriptions -->
+    <!--ANYPAWN -->
+    <li>ANYPAWN_o_a(ANYPAWN_gender!=Female)->অথবা</li>
+    <li>ANYPAWN_o_a(ANYPAWN_gender==Female)->একটি</li>
+    <!-- prueba 
+    <li>RECIPIENT_indefinite(RECIPIENT==Hare)->una liebre</li>
+    <li>RECIPIENT_definite(RECIPIENT==Hare)->la liebre</li> -->
+    <!-- all Animals, Arid -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Dromedary)->উটটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Gazelle)->গ্যাজেলা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Iguana)->ইগুয়ানা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Muffalo)->মুফালো</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Dromedary)->উট</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Gazelle)->গ্যাজেলা</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Iguana)->ইগুয়ানা</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Muffalo)->মুফালো</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Dromedary)->একটি উট</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Gazelle)->একটি газеল।</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Iguana)->একটি ইগুয়ানা</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Muffalo)->একটি মুফালো</li>
+    <!-- Bears -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Bear_Grizzly,lodgers0_gender==Male)->বাদামী ভালুক</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Bear_Grizzly,lodgers0_gender==Female)->ধূসর ভালুকটি।</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Bear_Polar,lodgers0_gender==Male)->সাদা ভালুক</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Bear_Polar,lodgers0_gender==Female)->সাদা ভালুক</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Bear_Grizzly,lodgers0_gender==Male)->বাদামী ভালুক</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Bear_Grizzly,lodgers0_gender==Female)->ওসা পার্ডা</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Bear_Polar,lodgers0_gender==Male)->সাদা ভালুক</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Bear_Polar,lodgers0_gender==Female)->ধ্রুব ভালুক</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Bear_Grizzly,lodgers0_gender==Male)->একটি বাদামী ভালুক</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Bear_Grizzly,lodgers0_gender==Female)->একটি বাদামী ভালুক।</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Bear_Polar,lodgers0_gender==Male)->একটি মেরু ভালুক</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Bear_Polar,lodgers0_gender==Female)->একটি মেরু ভালুক।</li>
+    <!-- Big Cats -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Cougar)->পিউমা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Lynx)->Lynx</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Panther)->চিতাবাঘ</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Cougar)->পিউমা</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Lynx)->লিঙ্ক্স</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Panther)->চিতাবাঘ</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Cougar)->একটিピューমা</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Lynx)->একটি লিঙ্ক্স</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Panther)->একটি চিতাবাঘ</li>
+    <!-- Birds -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Cassowary)->ক্যাসোয়ারী</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Emu)->ইমু পাখি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Ostrich)->উটপাখি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Turkey,lodgers0_gender==Male)->টার্কি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Turkey,lodgers0_gender==Female)->পাওয়া</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Cassowary)->কাসুয়ারি</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Emu)->ইমু</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Ostrich)->উটপাখি</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Turkey,lodgers0_gender==Male)->টার্কি</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Turkey,lodgers0_gender==Female)->পাওয়া</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Cassowary)->একটি ক্যাসোয়ারী</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Emu)->একটি ইমু</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Ostrich)->একটি উটপাখি</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Turkey,lodgers0_gender==Male)->একটি টার্কি</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Turkey,lodgers0_gender==Female)->একটি টার্কি</li>
+    <!-- Farm -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Alpaca)->আলপাকা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Bison)->বাইসন</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Chicken,lodgers0_gender==Male)->গallo</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Chicken,lodgers0_gender==Female)->মুরগি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Cow,lodgers0_gender==Male)->ষাঁড়</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Cow,lodgers0_gender==Female)->গাইটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Donkey,lodgers0_gender==Male)->গাধা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Donkey,lodgers0_gender==Female)->গাধাটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Duck,lodgers0_gender==Male)->হাঁসটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Duck,lodgers0_gender==Female)->পা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Goat)->ছাগলটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Goose,lodgers0_gender==Male)->হাঁসটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Goose,lodgers0_gender==Female)->হাঁসটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==GuineaPig)->গিনিপিগ</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Horse)->ঘোড়াটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Pig,lodgers0_gender==Male)->শুয়োর</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Pig,lodgers0_gender==Female)->মহিলা শূকরটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Sheep,lodgers0_gender==Male)->ভেড়াটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Sheep,lodgers0_gender==Female)->ভেড়া</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Yak)->ইয়াক</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoF(lodgersPawnKind==Alpaca)->আলপাকা</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Bison)->বাইসন</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Chicken,lodgers0_gender==Male)->গ্যালো</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Chicken,lodgers0_gender==Female)->মুরগি</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Cow,lodgers0_gender==Male)->ষাঁড়</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Cow,lodgers0_gender==Female)->গাই</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Donkey,lodgers0_gender==Male)->গাধা</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Donkey,lodgers0_gender==Female)->বোড়া</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Duck,lodgers0_gender==Male)->হাঁস</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Duck,lodgers0_gender==Female)->পাতা</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Goat)->ছাগল</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Goose,lodgers0_gender==Male)->হাঁস</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Goose,lodgers0_gender==Female)->হাঁস</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==GuineaPig)->গিনিপিগ</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Horse)->ঘোড়া</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Pig,lodgers0_gender==Male)->শুয়োর</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Pig,lodgers0_gender==Female)->শুয়োর (shuyor)</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Sheep,lodgers0_gender==Male)->ভেড়া</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Sheep,lodgers0_gender==Female)->ভেড়া</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Yak)->ইয়াক</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Alpaca)->একটি আলপাকা</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Bison)->একটি বাইসন</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Chicken,lodgers0_gender==Male)->একটি মোরগ</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Chicken,lodgers0_gender==Female)->একটি মুরগি</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Cow,lodgers0_gender==Male)->একটি ষাঁড়</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Cow,lodgers0_gender==Female)->একটি গরু</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Donkey,lodgers0_gender==Male)->একটি গাধা</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Donkey,lodgers0_gender==Female)->একটি গাধা</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Duck,lodgers0_gender==Male)->একটি হাঁস</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Duck,lodgers0_gender==Female)->একটি পা</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Goat)->একটি ছাগল</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Goose,lodgers0_gender==Male)->একটি হাঁস</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Goose,lodgers0_gender==Female)->একটি হাঁস।</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==GuineaPig)->একটি গিনিপিগ</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Horse)->একটি ঘোড়া</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Pig,lodgers0_gender==Male)->একটি শূকর</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Pig,lodgers0_gender==Female)->একটি শূকরী</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Sheep,lodgers0_gender==Male)->একটি ভেড়া</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Sheep,lodgers0_gender==Female)->একটি ভেড়া</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Yak)->একটি ইয়াক</li>
+    <!-- Animals Giant -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Elephant)->হাতিটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Megasloth)->মেগাপেরেজোসো</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Rhinoceros)->গন্ডার</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Thrumbo)->ট্রাম্বোস</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Elephant)->হাতি</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Megasloth)->মেগাপেরেজোসো</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Rhinoceros)->গন্ডার</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Thrumbo)->ট্রামবোস</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Elephant)->একটি হাতি</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Megasloth)->একটি মেগাপেরেসো</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Rhinoceros)->একটি গন্ডার</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Thrumbo)->একটি ট্রুম্বো</li>
+    <!-- Hares -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Hare)->খরগোশ</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Snowhare)->সাদা খরগোশটি</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoF(lodgersPawnKind==Hare)->খরগোশ</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Snowhare)->সাদা খরগোশ</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Hare)->একটি খরগোশ</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Snowhare)->একটি সাদা খরগোশ।</li>
+    <!-- Insect -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Megascarab)->মেগাস্কারাবাজো</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Megaspider)->মেগারাণা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Spelopede)->স্পেলোপেডো</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Megascarab)->মেগাস্কারাবাজো</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Megaspider)->মেগারাণা</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Spelopede)->স্পেলোপেডো</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Megascarab)->একটি মেগাস্কারাবাজো</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Megaspider)->একটি মেগাস্পাইডার</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Spelopede)->এক জন বোকা</li>
+    <!-- Pet -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Cat,lodgers0_gender==Male)->বিড়ালটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Cat,lodgers0_gender==Female)->বিড়ালছানাটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Husky)->হাস্কি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==LabradorRetriever)->ল্যাব্রাডর রিট্রিভার</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==YorkshireTerrier)->यॉर्कশায়ার টেরিয়ার</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Cat,lodgers0_gender==Male)->বিড়াল</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Cat,lodgers0_gender==Female)->বিড়ালছানা</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Husky)->হস্কি</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==LabradorRetriever)->ল্যাব্রাডর রিট্রিভার</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==YorkshireTerrier)->यॉर्कশায়ার টেরিয়ার</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Cat,lodgers0_gender==Male)->একটি বিড়াল।</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Cat,lodgers0_gender==Female)->একটি বিড়ালছানা।</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Husky)->একটি হাস্কি</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==LabradorRetriever)->ল্যাব্রাডর রিট্রিভার একটি</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==YorkshireTerrier)->একটি ইয়র্কশায়ার টেরিয়ার</li>
+    <!-- Rodentlike -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Alphabeaver)->বিভার</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Boomrat)->বুমারাটা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Capybara)->ক্যাপিবারা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Chinchilla)->চিনচিলা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Raccoon)->র‍্যাকুন</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Rat)->ইঁদুরটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Squirrel)->কাঠবিড়ালি</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Alphabeaver)->আলফাকাস্টর</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Boomrat)->বুಮಾರাতা</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Capybara)->কাপিবারা</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Chinchilla)->চিঞ্চিলা</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Raccoon)->র‍্যাকুন</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Rat)->হারানো</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Squirrel)->गिलহরি</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Alphabeaver)->একটি আলফাকাস্টর</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Boomrat)->একটি বুমারাতা</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Capybara)->একটি ক্যাপিবারা</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Chinchilla)->একটি চিনচিলা</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Raccoon)->একটি র‍্যাকুন</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Rat)->একটি ইঁদুর।</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Squirrel)->একটি কাঠবিড়ালি</li>
+    <!-- Animals Temperate -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Caribou)->ক্যারিibou</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Deer,lodgers0_gender==Male)->হরিণটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Deer,lodgers0_gender==Female)->হরিণটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Elk,lodgers0_gender==Male)->কানাডীয় হরিণ</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Elk,lodgers0_gender==Female)->কানাডিয়ান হরিণ</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Ibex)->আইবেক্স</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Tortoise)->কচ্ছপটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==WildBoar)->বারো</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Caribou)->ক্যারিibou</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Deer,lodgers0_gender==Male)->হরিণ</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Deer,lodgers0_gender==Female)->হরিণ (স্ত্রী)</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Elk,lodgers0_gender==Male)->কানাডীয় হরিণ</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Elk,lodgers0_gender==Female)->কানাডীয় হরিণ</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Ibex)->আইবেক্স</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Tortoise)->কচ্ছপ</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==WildBoar)->বুনো শূকর</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Caribou)->একটি ক্যারিবু</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Deer,lodgers0_gender==Male)->একটি হরিণ</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Deer,lodgers0_gender==Female)->একটি হরিণী</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Elk,lodgers0_gender==Male)->একটি কানাডীয় হরিণ</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Elk,lodgers0_gender==Female)->একটি কানাডীয় হরিণ</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Ibex)->একটি আইবেক্স</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Tortoise)->একটি কচ্ছপ</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==WildBoar)->একটি বুনো শূকর।</li>
+    <!-- Animales Tropicales -->
+    <!-- Def-->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Boomalope)->বুমালোপ</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Cobra)->কোবরা</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Monkey,lodgers0_gender==Male)->বানরটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Monkey,lodgers0_gender==Female)->এপটি</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Boomalope)->বুমা লোপ</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Cobra)->কোবরা</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Monkey,lodgers0_gender==Male)->বানর</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Monkey,lodgers0_gender==Female)->মোনা</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Boomalope)->একটি বুমালাপ</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Cobra)->একটি কোবরা</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Monkey,lodgers0_gender==Male)->একটি বাঁদর।</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Monkey,lodgers0_gender==Female)->একটি বাঁদর</li>
+    <!-- WildCanines -->
+    <!-- Def -->
+    <li>AnimalEpicenoDef(lodgersPawnKind==Fox_Arctic,lodgers0_gender==Male)->আর্কটিক শিয়াল</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Fox_Arctic,lodgers0_gender==Female)->আর্কটিক শিয়াল</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Fox_Fennec,lodgers0_gender==Male)->মরুভূমির শিয়াল</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Fox_Fennec,lodgers0_gender==Female)->মরুভূমির শিয়াল</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Fox_Red)->লাল শিয়াল</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Warg)->ওয়ার্গো</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Wolf_Arctic,lodgers0_gender==Male)->আর্কটিক নেকড়ে</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Wolf_Arctic,lodgers0_gender==Female)->আর্কটিক নেকড়েটি</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Wolf_Timber,lodgers0_gender==Male)->বাদামী নেকড়ে</li>
+    <li>AnimalEpicenoDef(lodgersPawnKind==Wolf_Timber,lodgers0_gender==Female)->নেকড়ে পর্দা</li>
+    <!-- Epiceno Male Female -->
+    <li>AnimalEpicenoM(lodgersPawnKind==Fox_Arctic,lodgers0_gender==Male)->আর্কটিক শিয়াল</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Fox_Arctic,lodgers0_gender==Female)->আর্কটিক শিয়াল</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Fox_Fennec,lodgers0_gender==Male)->মরু শৃগাল</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Fox_Fennec,lodgers0_gender==Female)->মরুভূমির শিয়াল</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Fox_Red)->লাল শিয়াল</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Warg)->ওয়ার্গো</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Wolf_Arctic,lodgers0_gender==Male)->আর্কটিক নেকড়ে</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Wolf_Arctic,lodgers0_gender==Female)->আর্কটিক নেকড়ে</li>
+    <li>AnimalEpicenoM(lodgersPawnKind==Wolf_Timber,lodgers0_gender==Male)->বাদামী নেকড়ে</li>
+    <li>AnimalEpicenoF(lodgersPawnKind==Wolf_Timber,lodgers0_gender==Female)->লোবা পার্দা</li>
+    <!-- Indef -->
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Fox_Arctic,lodgers0_gender==Male)->একটি আর্কটিক শিয়াল</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Fox_Arctic,lodgers0_gender==Female)->একটি আর্কটিক শিয়াল</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Fox_Fennec,lodgers0_gender==Male)->একটি মরুভূমির শিয়াল</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Fox_Fennec,lodgers0_gender==Female)->একটি মরুভূমির শিয়াল</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Fox_Red)->একটি লাল শিয়াল</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Warg)->একটি ওয়ার্গো</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Wolf_Arctic,lodgers0_gender==Male)->একটি আর্কটিক নেকড়ে</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Wolf_Arctic,lodgers0_gender==Female)->একটি আর্কটিক নেকড়ে</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Wolf_Timber,lodgers0_gender==Male)->একটি বাদামী নেকড়ে।</li>
+    <li>AnimalEpicenoIndef(lodgersPawnKind==Wolf_Timber,lodgers0_gender==Female)->একটি ধূসর নেকড়ে</li>
+    <!-- Others -->
+    <li>AnimalEpicenoDef(p=0.00000000001)->টি/টিনি [animalKind_label]</li>
+    <li>AnimalEpicenoIndef(p=0.00000000001)->একটি [animalKind_label]</li>
+    <li>AnimalEpicenoM(p=0.00000000001)->[animalKind_label]</li>
+    <li>AnimalEpicenoF(p=0.00000000001)->[animalKind_label]</li>
+    <!--AnimalKindDef, all Animals, Arid -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Dromedary)->একটি</li>
+    <li>animal_a(animalKindDef==Gazelle)->একটি</li>
+    <li>animal_a(animalKindDef==Iguana)->একটি</li>
+    <li>animal_a(animalKindDef==Muffalo)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Dromedary)->টি</li>
+    <li>animal_the(animalKindDef==Gazelle)->টি</li>
+    <li>animal_the(animalKindDef==Iguana)->টি</li>
+    <li>animal_the(animalKindDef==Muffalo)->টি</li>
+    <!-- Bears -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Bear_Grizzly)->একটি</li>
+    <li>animal_a(animalKindDef==Bear_Polar)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Bear_Grizzly)->টি</li>
+    <li>animal_the(animalKindDef==Bear_Polar)->টি</li>
+    <!-- Big Cats -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Cougar)->একটি</li>
+    <li>animal_a(animalKindDef==Lynx)->একটি</li>
+    <li>animal_a(animalKindDef==Panther)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Cougar)->টি</li>
+    <li>animal_the(animalKindDef==Lynx)->টি</li>
+    <li>animal_the(animalKindDef==Panther)->টি</li>
+    <!-- Birds -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Cassowary)->একটি</li>
+    <li>animal_a(animalKindDef==Emu)->একটি</li>
+    <li>animal_a(animalKindDef==Ostrich)->একটি</li>
+    <li>animal_a(animalKindDef==Turkey)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Cassowary)->টি</li>
+    <li>animal_the(animalKindDef==Emu)->টি</li>
+    <li>animal_the(animalKindDef==Ostrich)->টি</li>
+    <li>animal_the(animalKindDef==Turkey)->টি</li>
+    <!-- Farm -->
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Alpaca)->টি</li>
+    <li>animal_the(animalKindDef==Bison)->টি</li>
+    <li>animal_the(animalKindDef==Chicken)->টি</li>
+    <li>animal_the(animalKindDef==Cow)->টি</li>
+    <li>animal_the(animalKindDef==Donkey)->টি</li>
+    <li>animal_the(animalKindDef==Duck)->টি</li>
+    <li>animal_the(animalKindDef==Goat)->টি</li>
+    <li>animal_the(animalKindDef==Goose)->টি</li>
+    <li>animal_the(animalKindDef==GuineaPig)->টি</li>
+    <li>animal_the(animalKindDef==Horse)->টি</li>
+    <li>animal_the(animalKindDef==Pig)->টি</li>
+    <li>animal_the(animalKindDef==Sheep)->টি</li>
+    <li>animal_the(animalKindDef==Yak)->টি</li>
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Alpaca)->একটি</li>
+    <li>animal_a(animalKindDef==Bison)->একটি</li>
+    <li>animal_a(animalKindDef==Chicken)->একটি</li>
+    <li>animal_a(animalKindDef==Cow)->একটি</li>
+    <li>animal_a(animalKindDef==Donkey)->একটি</li>
+    <li>animal_a(animalKindDef==Duck)->একটি</li>
+    <li>animal_a(animalKindDef==Goat)->একটি</li>
+    <li>animal_a(animalKindDef==Goose)->একটি</li>
+    <li>animal_a(animalKindDef==GuineaPig)->একটি</li>
+    <li>animal_a(animalKindDef==Horse)->একটি</li>
+    <li>animal_a(animalKindDef==Pig)->একটি</li>
+    <li>animal_a(animalKindDef==Sheep)->একটি</li>
+    <li>animal_a(animalKindDef==Yak)->একটি</li>
+    <!-- Animals Giant -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Elephant)->একটি</li>
+    <li>animal_a(animalKindDef==Megasloth)->একটি</li>
+    <li>animal_a(animalKindDef==Rhinoceros)->একটি</li>
+    <li>animal_a(animalKindDef==Thrumbo)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Elephant)->টি</li>
+    <li>animal_the(animalKindDef==Megasloth)->টি</li>
+    <li>animal_the(animalKindDef==Rhinoceros)->টি</li>
+    <li>animal_the(animalKindDef==Thrumbo)->টি</li>
+    <!-- Hares -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Hare)->একটি</li>
+    <li>animal_a(animalKindDef==Snowhare)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Hare)->টি</li>
+    <li>animal_the(animalKindDef==Snowhare)->টি</li>
+    <!-- Insect -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Megascarab)->একটি</li>
+    <li>animal_a(animalKindDef==Megaspider)->একটি</li>
+    <li>animal_a(animalKindDef==Spelopede)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Megascarab)->টি</li>
+    <li>animal_the(animalKindDef==Megaspider)->টি</li>
+    <li>animal_the(animalKindDef==Spelopede)->টি</li>
+    <!-- Pet -->
+    <!-- Indef -->
+    <!-- <li>animal_a(animalKindDef==Cat)->un</li>-->
+    <li>animal_a(animalKindDef==Husky)->একটি</li>
+    <li>animal_a(animalKindDef==LabradorRetriever)->একটি</li>
+    <li>animal_a(animalKindDef==YorkshireTerrier)->একটি</li>
+    <!-- Def -->
+    <!--<li>animal_the(animalKindDef==Cat)->el</li>-->
+    <li>animal_the(animalKindDef==Husky)->টি</li>
+    <li>animal_the(animalKindDef==LabradorRetriever)->টি</li>
+    <li>animal_the(animalKindDef==YorkshireTerrier)->টি</li>
+    <!-- Rodentlike -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Alphabeaver)->একটি</li>
+    <li>animal_a(animalKindDef==Boomrat)->একটি</li>
+    <li>animal_a(animalKindDef==Capybara)->একটি</li>
+    <li>animal_a(animalKindDef==Chinchilla)->একটি</li>
+    <li>animal_a(animalKindDef==Raccoon)->একটি</li>
+    <li>animal_a(animalKindDef==Rat)->একটি</li>
+    <li>animal_a(animalKindDef==Squirrel)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Alphabeaver)->টি</li>
+    <li>animal_the(animalKindDef==Boomrat)->টি</li>
+    <li>animal_the(animalKindDef==Capybara)->টি</li>
+    <li>animal_the(animalKindDef==Chinchilla)->টি</li>
+    <li>animal_the(animalKindDef==Raccoon)->টি</li>
+    <li>animal_the(animalKindDef==Rat)->টি</li>
+    <li>animal_the(animalKindDef==Squirrel)->টি</li>
+    <!-- Animals Temperate -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Caribou)->একটি</li>
+    <li>animal_a(animalKindDef==Deer)->একটি</li>
+    <li>animal_a(animalKindDef==Elk)->একটি</li>
+    <li>animal_a(animalKindDef==Ibex)->একটি</li>
+    <li>animal_a(animalKindDef==Tortoise)->একটি</li>
+    <li>animal_a(animalKindDef==WildBoar)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Caribou)->টি</li>
+    <li>animal_the(animalKindDef==Deer)->টি</li>
+    <li>animal_the(animalKindDef==Elk)->টি</li>
+    <li>animal_the(animalKindDef==Ibex)->টি</li>
+    <li>animal_the(animalKindDef==Tortoise)->টি</li>
+    <li>animal_the(animalKindDef==WildBoar)->টি</li>
+    <!-- Animales Tropicales -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Boomalope)->একটি</li>
+    <li>animal_a(animalKindDef==Cobra)->একটি</li>
+    <li>animal_a(animalKindDef==Monkey)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Boomalope)->টি</li>
+    <li>animal_the(animalKindDef==Cobra)->টি</li>
+    <li>animal_the(animalKindDef==Monkey)->টি</li>
+    <!-- WildCanines -->
+    <!-- Indef -->
+    <li>animal_a(animalKindDef==Fox_Arctic)->একটি</li>
+    <li>animal_a(animalKindDef==Fox_Fennec)->একটি</li>
+    <li>animal_a(animalKindDef==Fox_Red)->একটি</li>
+    <li>animal_a(animalKindDef==Warg)->একটি</li>
+    <li>animal_a(animalKindDef==Wolf_Arctic)->একটি</li>
+    <li>animal_a(animalKindDef==Wolf_Timber)->একটি</li>
+    <!-- Def -->
+    <li>animal_the(animalKindDef==Fox_Arctic)->টি</li>
+    <li>animal_the(animalKindDef==Fox_Fennec)->টি</li>
+    <li>animal_the(animalKindDef==Fox_Red)->টি</li>
+    <li>animal_the(animalKindDef==Warg)->টি</li>
+    <li>animal_the(animalKindDef==Wolf_Arctic)->টি</li>
+    <li>animal_the(animalKindDef==Wolf_Timber)->টি</li>
+    <!-- Others -->
+    <li>animal_a(p=0.00000000001)->একটি (ekti) / একটি (ekti) - feminine, একটি (ekti) - masculine</li>
+    <li>animal_the(p=0.00000000001)->টি/টা (depending on gender and noun class)</li>
+    <!--
+    <li>animal_oa(p=0.00000000001)->o(a)</li>
+    <li>animal_oa(animalKindDef==Dromedary,animalKindDef==Muffalo,animalKindDef==Cougar,animalKindDef==Lynx,animalKindDef==Cassowary,animalKindDef==Emu,animalKindDef==Ostrich,animalKindDef==Bison,animalKindDef==Yak,animalKindDef==Elephant,animalKindDef==Megasloth,animalKindDef==Rhinoceros,animalKindDef==Thrumbo,animalKindDef==Megascarab,animalKindDef==Spelopede,animalKindDef==Husky,animalKindDef==LabradorRetriever,animalKindDef==YorkshireTerrier,animalKindDef==Alphabeaver,animalKindDef==Capybara,animalKindDef==Raccoon,animalKindDef==Caribou,animalKindDef==Ibex,animalKindDef==WildBoar,animalKindDef==Boomalope,animalKindDef==Fox_Red,animalKindDef==Warg,animalKindDef==HorseanimalKindDef==Bear_Grizzly,animalKindDef==Bear_Polar,animalKindDef==Turkey,animalKindDef==Chicken,animalKindDef==Cow,animalKindDef==Donkey,animalKindDef==Duck,animalKindDef==Goose,animalKindDef==GuineaPig,animalKindDef==Pig,animalKindDef==Sheep,animalKindDef==Deer,animalKindDef==Elk,animalKindDef==Monkey,animalKindDef==Fox_Arctic,animalKindDef==Wolf_Arctic,animalKindDef==Wolf_Timber)->o</li>
+    <li>animal_oa(animalKindDef==Gazelle,animalKindDef==Iguana,animalKindDef==Panther,animalKindDef==Alpaca,animalKindDef==Goat,animalKindDef==Hare,animalKindDef==Snowhare,animalKindDef==Megaspider,animalKindDef==Boomrat,animalKindDef==Chinchilla,animalKindDef==Rat,animalKindDef==Squirrel,animalKindDef==Tortoise,animalKindDef==Cobra)->a</li>-->
+    <!--Reglas Normales-->
+    <li>TransOf->এর</li>
+    <li>Trans->জন্য</li>
+    <li>Trans->দ্বারা</li>
+    <li>Trans->সাথে</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>AnimalBadassAny->[AnimalBadass]</li>
+    <li>AnimalBadassAny->[AnimalBadass_Fem]</li>
+    <li>AnimalBadassAny_Cap->[AnimalBadass_Cap]</li>
+    <li>AnimalBadassAny_Cap->[AnimalBadass_FemCap]</li>
+    <li>AnimalBadassDefCap->টি [AnimalBadass]</li>
+    <li>AnimalBadassDefCap->টি [AnimalBadass_Fem]</li>
+    <li>AnimalBadassAnyPl->[AnimalBadass_Plural]</li>
+    <li>AnimalBadassAnyPl->[AnimalBadass_FemPlural]</li>
+    <li>AnimalAny->[Animal]</li>
+    <li>AnimalAny->[Animal_Fem]</li>
+    <li>AnimalAnyPl->[Animal_Plural]</li>
+    <li>AnimalAnyPl->[Animal_FemPlural]</li>
+    <li>AnimalIndef->একটি [Animal]</li>
+    <li>AnimalIndef->একটি [Animal_Fem]</li>
+    <li>AnimalGroupIndef->একটি [AnimalGroup]</li>
+    <li>AnimalGroupIndef->একটি [AnimalGroup_Fem]</li>
+    <li>ApparelAny->[Apparel]</li>
+    <li>ApparelAny->[Apparel_Fem]</li>
+    <li>ApparelIndef->একটি [Apparel]</li>
+    <li>ApparelIndef->একটি [Apparel_Fem]</li>
+    <li>BusinessTypeAny->[BusinessType]</li>
+    <li>BusinessTypeAny->[BusinessType_Fem]</li>
+    <li>BusinessTypeAny_def->টি [BusinessType]</li>
+    <li>BusinessTypeAny_def->টি [BusinessType_Fem]</li>
+    <li>BusinessTypeAny_def->গুলো [BusinessType_Plural]</li>
+    <li>BusinessTypeAny_def->গুলি [BusinessType_FemPlural]</li>
+    <li>BusinessTypeAny_def_Cap->টি [BusinessType_Cap]</li>
+    <li>BusinessTypeAny_def_Cap->টি [BusinessType_FemCap]</li>
+    <li>BodyPartAny->[BodyPart]</li>
+    <li>BodyPartAny->[BodyPart_Fem]</li>
+    <li>ColorAny->[Color]</li>
+    <li>ColorAny->[Color_Fem]</li>
+    <li>ColorAny_Cap->[Color_Cap]</li>
+    <li>ColorAny_Cap->[Color_FemCap]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>ConceptAny_Fem->[ConceptPositive_Fem]</li>
+    <li>ConceptAny_Fem->[ConceptBadass_Fem]</li>
+    <li>ConceptAny_Fem->[ConceptAngsty_Fem]</li>
+    <li>ConceptAnyDef->টি [ConceptAny]</li>
+    <li>ConceptAnyDef->টি [ConceptAny_Fem]</li>
+    <li>ConceptAnyFull->[ConceptAny]</li>
+    <li>ConceptAnyFull->[ConceptAny_Fem]</li>
+    <li>CommunityIndefCap->একজন [Community_Fem]</li>
+    <li>CommunityIndefCap->একটি [Community]</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character_Plural(p=6)->[PersonJob_Plural]</li>
+    <li>Character_Fem(p=6)->[PersonJob_Fem]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character_Plural(p=4)->[Animal_Plural]</li>
+    <li>Character_Fem(p=4)->[Animal_Fem]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character_Plural(p=3)->[Enemy]গুলি</li>
+    <li>Character->[Mechanoid]</li>
+    <li>Character_Human->[PersonJob]</li>
+    <li>Character_Human->[Enemy]</li>
+    <li>CharacterEnemyPlural(p=2)->[Animal_Plural]</li>
+    <li>CharacterEnemyPlural->[Animal_FemPlural]</li>
+    <li>CharacterEnemyPlural(p=3)->[Enemy]গুলি</li>
+    <li>CharacterEnemyPlural(p=2)->[Mechanoid]মেকানয়েডসমূহ</li>
+    <li>CharacterIndef(p=6)->একটি [PersonJob]</li>
+    <li>CharacterIndef(p=6)->একজন [PersonJob_Fem]</li>
+    <li>CharacterIndef(p=4)->একটি [Animal]</li>
+    <li>CharacterIndef(p=4)->একটি [Animal_Fem]</li>
+    <li>CharacterIndef(p=3)->একটি [Enemy]</li>
+    <li>CharacterIndef->একটি [Mechanoid]</li>
+    <li>CharacterIndefMas(p=6)->একটি [PersonJob]</li>
+    <li>CharacterIndefMas(p=4)->একটি [Animal]</li>
+    <li>CharacterIndefMas(p=3)->একটি [Enemy]</li>
+    <li>CharacterIndefMas->একটি [Mechanoid]</li>
+    <li>CharacterIndefFem(p=6)->একজন [PersonJob_Fem]</li>
+    <li>CharacterIndefFem(p=4)->একটি [Animal_Fem]</li>
+    <li>CommunityIndef->একটি [Community]</li>
+    <li>CommunityIndef->একটি [Community_Fem]</li>
+    <li>CommunityDef->টি [Community]</li>
+    <li>CommunityDef->টি [Community_Fem]</li>
+    <li>CommunityAny->[Community]</li>
+    <li>CommunityAny->[Community_Fem]</li>
+    <li>GameAny->[Game]</li>
+    <li>GameAny->[Game_Fem]</li>
+    <li>EnemyIndef->একটি [Enemy]</li>
+    <li>EnemyIndef->একজন [Enemy_Fem]</li>
+    <li>PersonJobIndef->একটি [PersonJob]</li>
+    <li>PersonJobIndef->একজন [PersonJob_Fem]</li>
+    <li>GameDef->টি [Game]</li>
+    <li>GameDef->টি [Game_Fem]</li>
+    <li>NaturalObjectDef->একটি [NaturalObject]</li>
+    <li>NaturalObjectDef->একটি [NaturalObject_Fem]</li>
+    <li>MechanoidAnyPl->[Mechanoid_FemPl]</li>
+    <li>MechanoidAnyPl->[Mechanoid_Plural]</li>
+    <li>Quantity_adjphrase->দুটি</li>
+    <li>Quantity_adjphrase->তিন</li>
+    <li>Quantity_adjphrase->চার</li>
+    <li>Quantity_adjphrase->পাঁচ</li>
+    <li>Quantity_adjphrase->ছয়</li>
+    <li>Quantity_adjphrase->সাত</li>
+    <li>Quantity_adjphrase->আট</li>
+    <li>Quantity_adjphrase->নয়</li>
+    <li>Quantity_adjphrase->দশ</li>
+    <li>Quantity_adjphrase->বিভিন্ন</li>
+    <li>Quantity_adjphrase->একটি দল</li>
+    <li>Quantity_adjphrase->একটি বিশাল দল</li>
+    <li>Quantity_adjphrase->दर्জনখানেক</li>
+    <li>Quantity_adjphrase->শত শত</li>
+    <li>Quantity_adjphrase->হাজার</li>
+    <li>Quantity_adjphrase->হাজার হাজার</li>
+    <li>Shape->ত্রিভুজ</li>
+    <li>Shape->চতুর্ভুজাকার</li>
+    <li>Shape->আয়তক্ষেত্র</li>
+    <li>Shape->কোনো</li>
+    <li>Shape_Fem->রেখা</li>
+    <li>Shape_Var->হৃদয়</li>
+    <li>Shape_VarPl->হৃদয়গুলো</li>
+    <li>Shape_Fem->তারা</li>
+    <li>Shape->গোলকধাঁধা</li>
+    <li>Shape->উপবৃত্ত</li>
+    <li>ShapeDef->একটি [Shape]</li>
+    <li>ShapeDef->একটি [Shape_Var]</li>
+    <li>ShapeDef->একটি [Shape_Fem]</li>
+    <li>ShapeAny->[Shape]</li>
+    <li>ShapeAny->[Shape_Fem]কোনো অনুবাদ নেই।</li>
+    <li>Shape_Plural->[ShapeAny]গুলি</li>
+    <li>Shape_Plural->[Shape_VarPl]</li>
+    <li>PersonJobAny->[PersonJob]</li>
+    <li>PersonJobAny->[PersonJob_Fem]</li>
+    <li>PersonIndef->একটি [PersonJob]</li>
+    <li>PersonIndef->একজন [PersonJob_Fem]</li>
+    <li>PersonFamilyAny->[PersonFamily]</li>
+    <li>PersonFamilyAny->[PersonFamily_Fem]</li>
+    <li>PersonalCharacteristic(p=0.15)->যৌনাঙ্গ</li>
+    <li>PersonalCharacteristic(p=0.15)->প्यूबিক লোম</li>
+    <li>PersonalCharacteristic(p=0.15)->শরীরের লোম</li>
+    <li>PersonalCharacteristic(p=0.15)->পরিষ্কার-পরিচ্ছন্নতার অভ্যাস</li>
+    <li>PersonalCharacteristic(p=0.15)->যৌন উদ্দেশ্য</li>
+    <li>PersonalCharacteristic(p=0.15)->যৌন পছন্দসমূহ</li>
+    <li>PersonalCharacteristic_Fem(p=0.15)->যৌন অভিজ্ঞতা</li>
+    <li>PersonalCharacteristicDef->টি [PersonalCharacteristic]</li>
+    <li>PersonalCharacteristicDef->টি [PersonalCharacteristic_Fem]</li>
+    <li>TerrainFeatureAny->[TerrainFeature]</li>
+    <li>TerrainFeatureAny->[TerrainFeature_Fem]</li>
+    <li>TerrainFeatureIndef->একটি [TerrainFeature]</li>
+    <li>TerrainFeatureIndef->একটি [TerrainFeature_Fem]</li>
+    <li>TerrainFeatureIndefCap->একটি [TerrainFeature]</li>
+    <li>TerrainFeatureIndefCap->একটি [TerrainFeature_Fem]</li>
+    <li>TerrainFeaturePlAny->[TerrainFeature_Pl]</li>
+    <li>TerrainFeaturePlAny->[TerrainFeature_PlFem]</li>
+    <li>TreeTypeAny->[TreeType]</li>
+    <li>TreeTypeAny->[TreeType_Fem]</li>
+    <li>TreeTypeIndef->একটি [TreeType]</li>
+    <li>TreeTypeIndef->একটি [TreeType_Fem]</li>
+    <li>VegetableAny->[Vegetable]</li>
+    <li>VegetableAny->[Vegetable_Fem]</li>
+    <li>VegetableDef->টি [Vegetable]</li>
+    <li>VegetableDef->টি [Vegetable_Fem]</li>
+    <li>VegetableIndef->একটি [Vegetable]</li>
+    <li>VegetableIndef->একটি [Vegetable_Fem]</li>
+    <li>WeaponAny->[Weapon]</li>
+    <li>WeaponAny->[Weapon_Fem]</li>
+    <li>WeaponAnyPl->[Weapon_Plural]</li>
+    <li>WeaponAnyPl->[Weapon_FemPlural]</li>
+    <li>WeaponIndef->একটি [Weapon]</li>
+    <li>WeaponIndef->একটি [Weapon_Fem]</li>
+    <li>WeaponCacIndef->একটি [WeaponCac]</li>
+    <li>WeaponCacIndef->একটি [WeaponCac_Fem]</li>
+    <li>WeaponCacAnyPl->[WeaponCac_Plural]</li>
+    <li>WeaponCacAnyPl->[WeaponCac_FemPlural]</li>
+    <li>WeaponCacAnyIndefPl->কিছুটা [WeaponCac_Plural]</li>
+    <li>WeaponCacAnyIndefPl->কিছুটা [WeaponCac_FemPlural]</li>
+    <li>RECIPIENT_nameAl->{replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "}</li>
+    <li>RECIPIENT_nameDel->{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "}</li>
+  </GlobalUtility.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the link between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the connection between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the relationship between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->[Vegetable]s</li>
+    <li>TalkTopicLight->eating [Vegetable]s</li>
+    <li>TalkTopicLight->cooking with [Vegetable]s</li>
+    <li>TalkTopicLight->[Game]</li>
+    <li>TalkTopicLight->playing [Game]</li>
+    <li>TalkTopicLight->practicing [Game]</li>
+    <li>TalkTopicLight->learning [Game]</li>
+    <li>TalkTopicLight->[Animal]s</li>
+    <li>TalkTopicLight->training [Animal]s</li>
+    <li>TalkTopicLight->taming [Animal]s</li>
+    <li>TalkTopicLight->fighting [Animal]s</li>
+    <li>TalkTopicLight->crazy [Animal]s</li>
+    <li>TalkTopicLight->[Weapon]s</li>
+    <li>TalkTopicLight->using [Weapon]s</li>
+    <li>TalkTopicLight->practicing with [Weapon]s</li>
+    <li>TalkTopicLight->[TerrainFeature]s</li>
+    <li>TalkTopicLight->[NaturalObject]s</li>
+    <li>TalkTopicLight->[TreeType] trees</li>
+    <li>TalkTopicLight->[PersonJob]s</li>
+    <li>TalkTopicLight->friendly [PersonJob]s</li>
+    <li>TalkTopicLight->hostile [PersonJob]s</li>
+    <li>TalkTopicLight->[Enemy]s</li>
+    <li>TalkTopicLight->fighting [Enemy]s</li>
+    <li>TalkTopicLight->[Apparel]s</li>
+    <li>TalkTopicLight->wearing [Apparel]s</li>
+    <li>TalkTopicLight->making [Apparel]s</li>
+    <li>talktopicheavyfile(p=0.15)->sex</li>
+    <li>talktopicheavyfile(p=0.15)->seduction</li>
+    <li>talktopicheavyfile(p=0.15)->animal sexuality</li>
+    <li>talktopicheavyfile(p=0.15)->sexual fetishes</li>
+  -->
+  <TalkTopicsUtility.rulePack.rulesStrings>
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->এর মধ্যে সম্পর্ক [talktopicheavyfile] এবং [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->এর মধ্যে সংযোগ [talktopicheavyfile] এবং [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->এর মধ্যে সম্পর্ক [talktopicheavyfile] এবং [talktopicheavyfile]</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->[VegetableAny]সবজিগুলো</li>
+    <li>TalkTopicLight->খাওয়া [VegetableAny]গুলো</li>
+    <li>TalkTopicLight->রান্না করা [VegetableAny]গুলো</li>
+    <li>TalkTopicLight->[GameAny]</li>
+    <li>TalkTopicLight->খেলতে পারা [GameAny]</li>
+    <li>TalkTopicLight->অনুশীলন করা [GameAny]</li>
+    <li>TalkTopicLight->শেখা [GameAny]</li>
+    <li>TalkTopicLight->[AnimalAnyPl]</li>
+    <li>TalkTopicLight->প্রশিক্ষণ দেওয়া [AnimalAnyPl]</li>
+    <li>TalkTopicLight->[প্রাণীPl] এর আবাসস্থল [AnimalAnyPl]</li>
+    <li>TalkTopicLight->[প্রাণীPl]-এর বিরুদ্ধে লড়াই করা [AnimalAnyPl]</li>
+    <li>TalkTopicLight->[Animal_Plural] পাগল</li>
+    <li>TalkTopicLight->[Animal_FemPlural] পাগলগুলো</li>
+    <li>TalkTopicLight->[WeaponAnyPl]</li>
+    <li>TalkTopicLight->ব্যবহার করা [WeaponAnyPl]</li>
+    <li>TalkTopicLight->[অস্ত্রযেকোনো] অনুশীলন করা [WeaponAnyPl]</li>
+    <li>TalkTopicLight->[TerrainFeatureAny]গুলি</li>
+    <li>TalkTopicLight->[NaturalObject]গুলি</li>
+    <li>TalkTopicLight->[TreeTypeAny]গাছপালাগুলো</li>
+    <li>TalkTopicLight->[PersonJobAny]দেরি হচ্ছে।</li>
+    <li>TalkTopicLight->[PersonJobAny]বন্ধুত্বপূর্ণ</li>
+    <li>TalkTopicLight->[PersonJobAny]শত্রুরা</li>
+    <li>TalkTopicLight->[Enemy]গুলি</li>
+    <li>TalkTopicLight->এর সাথে যুদ্ধ করা [Enemy]গুলো</li>
+    <li>TalkTopicLight->[Apparel]পোশাকগুলো</li>
+    <li>TalkTopicLight->পরিধান করা [Apparel]এস</li>
+    <li>TalkTopicLight->করা [Apparel]এস</li>
+  </TalkTopicsUtility.rulePack.rulesStrings>
+  
+</LanguageData>

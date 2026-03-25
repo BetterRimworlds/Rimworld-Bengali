@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid burn -->
+  <AcidBurn.label>অ্যাসিড পোড়া</AcidBurn.label>
+  <!-- EN: {0} has burned to death. -->
+  <AcidBurn.deathMessage>{0} পুড়ে মারা গেছে।</AcidBurn.deathMessage>
+  
+  <!-- EN: beam -->
+  <Beam.label>বিম</Beam.label>
+  <!-- EN: {0} has been beamed to death. -->
+  <Beam.deathMessage>{0} বিমের আঘাতে মারা গেছে।</Beam.deathMessage>
+  
+  <!-- EN: bomb -->
+  <Bomb.label>বোমা</Bomb.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Bomb.deathMessage>{0} বিস্ফোরণে মারা গেছেন।</Bomb.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombSuper.label>বোমা</BombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombSuper.deathMessage>{0} বিস্ফোরণে মারা গেছেন।</BombSuper.deathMessage>
+  
+  <!-- EN: decayed organ -->
+  <Decayed.label>ক্ষয়প্রাপ্ত অঙ্গ</Decayed.label>
+  <!-- EN: {0} died from metabolic disruptions caused by organ decay. -->
+  <Decayed.deathMessage>{0} অঙ্গ পচনের কারণে সৃষ্ট বিপাকীয় ব্যাহততায় মারা গেছেন।</Decayed.deathMessage>
+  
+  <!-- EN: deterioration -->
+  <Deterioration.label>ক্ষয়</Deterioration.label>
+  <!-- EN: {0} has been killed. -->
+  <Deterioration.deathMessage>{0} নিহত হয়েছে।</Deterioration.deathMessage>
+  
+  <!-- EN: extinguish -->
+  <Extinguish.label>নির্বাপণ</Extinguish.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguish.deathMessage>{0} নিহত হয়েছে।</Extinguish.deathMessage>
+  
+  <!-- EN: mining -->
+  <Mining.label>খননকার্য</Mining.label>
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>{0} নিহত হয়েছে।</Mining.deathMessage>
+  
+  <!-- EN: nerve -->
+  <Nerve.label>স্নায়ু</Nerve.label>
+  <!-- EN: {0} has been killed by nerve shock. -->
+  <Nerve.deathMessage>{0} স্নায়ু শকে মারা গেছেন।</Nerve.deathMessage>
+  
+  <!-- EN: nerve stun -->
+  <NerveStun.label>স্নায়ু স্তম্ভন</NerveStun.label>
+  <!-- EN: {0} has been killed. -->
+  <NerveStun.deathMessage>{0} নিহত হয়েছে।</NerveStun.deathMessage>
+  
+  <!-- EN: rotting -->
+  <Rotting.label>পচনশীল</Rotting.label>
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>{0} নিহত হয়েছে।</Rotting.deathMessage>
+  
+  <!-- EN: smoke -->
+  <Smoke.label>ধোঁয়া</Smoke.label>
+  <!-- EN: {0} has been killed. -->
+  <Smoke.deathMessage>{0} নিহত হয়েছে।</Smoke.deathMessage>
+  
+  <!-- EN: thump -->
+  <Thump.label>থাম্প</Thump.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Thump.deathMessage>{0}-কে গুলি করে মারা হয়েছে।</Thump.deathMessage>
+  
+  <!-- EN: vaporize -->
+  <Vaporize.label>বাষ্পীভূত করুন</Vaporize.label>
+  <!-- EN: {0} has been vaporized by extreme heat. -->
+  <Vaporize.deathMessage>{0} অত্যাধিক তাপে বাষ্পীভূত হয়েছে।</Vaporize.deathMessage>
+  
+</LanguageData>

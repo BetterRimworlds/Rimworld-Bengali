@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: journey offer -->
+  <GiveQuest_EndGame_ShipEscape.label>যাত্রার প্রস্তাব</GiveQuest_EndGame_ShipEscape.label>
+  <!-- EN: Journey offer -->
+  <GiveQuest_EndGame_ShipEscape.letterLabel>যাত্রার প্রস্তাব</GiveQuest_EndGame_ShipEscape.letterLabel>
+  
+  <!-- EN: quest -->
+  <GiveQuest_Random.label>অনুসন্ধান</GiveQuest_Random.label>
+  <!-- EN: Quest available -->
+  <GiveQuest_Random.letterLabel>অনুসন্ধান উপলব্ধ</GiveQuest_Random.letterLabel>
+  
+</LanguageData>

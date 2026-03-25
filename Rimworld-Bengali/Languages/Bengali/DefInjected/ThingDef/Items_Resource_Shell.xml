@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: antigrain warhead -->
+  <Bullet_Shell_AntigrainWarhead.label>অ্যান্টিগ্রেইন ওয়ারহেড</Bullet_Shell_AntigrainWarhead.label>
+  
+  <!-- EN: EMP shell -->
+  <Bullet_Shell_EMP.label>ইএমপি শেল</Bullet_Shell_EMP.label>
+  
+  <!-- EN: firefoam shell -->
+  <Bullet_Shell_Firefoam.label>অগ্নি-ফোম শেল</Bullet_Shell_Firefoam.label>
+  
+  <!-- EN: high-explosive shell -->
+  <Bullet_Shell_HighExplosive.label>উচ্চ বিস্ফোরক শেল</Bullet_Shell_HighExplosive.label>
+  
+  <!-- EN: incendiary shell -->
+  <Bullet_Shell_Incendiary.label>আগ্নেয়াস্ত্র শেল</Bullet_Shell_Incendiary.label>
+  
+  <!-- EN: smoke shell -->
+  <Bullet_Shell_Smoke.label>ধোঁয়া শেল</Bullet_Shell_Smoke.label>
+  
+  <!-- EN: antigrain warhead -->
+  <Shell_AntigrainWarhead.label>অ্যান্টিগ্রেইন ওয়ারহেড</Shell_AntigrainWarhead.label>
+  <!-- EN: An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_AntigrainWarhead.description>এটি আল্ট্রা যুগ প্রযুক্তির একটি ওয়ারহেড, যা অ্যান্টিম্যাটারের একটি কণা দ্বারা চালিত। সাধারণত মহাকাশযান বা ঝলমলে বিশ্ব-এর যুদ্ধযন্ত্র দ্বারা ব্যবহৃত হয়, এটি একটি বিশাল বিস্ফোরণ ঘটায় এবং লক্ষ্যবস্তুর চারপাশে আগুন লাগায়। মর্টার থেকে নিক্ষেপ করা যায় অথবা ফাঁদ হিসেবে স্থাপন করা যেতে পারে। ক্ষতিগ্রস্ত হলে বিস্ফোরিত হয়।</Shell_AntigrainWarhead.description>
+  
+  <!-- EN: EMP shell -->
+  <Shell_EMP.label>ইএমপি শেল</Shell_EMP.label>
+  <!-- EN: A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_EMP.description>ব্যাটারি ও অ্যান্টেনা দিয়ে ভরা একটি শেল, যা বিস্ফোরিত হলে একটি তাড়িতচৌম্বকীয় তরঙ্গ তৈরি করে। তাড়িতচৌম্বকীয় তরঙ্গ সাময়িকভাবে বৈদ্যুতিক সরঞ্জাম এবং মেকানোইডসমূহকে অকার্যকর করে দেয়। এটি মর্টার থেকে নিক্ষেপ করা যেতে পারে অথবা ফাঁদ হিসেবে স্থাপন করা যেতে পারে। ক্ষতিগ্রস্ত হলে বিস্ফোরিত হয়।</Shell_EMP.description>
+  
+  <!-- EN: firefoam shell -->
+  <Shell_Firefoam.label>অগ্নি-ফোম শেল</Shell_Firefoam.label>
+  <!-- EN: A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Firefoam.description>এটি অগ্নি-নিরোধক ফোম দিয়ে ভরা একটি চাপযুক্ত শেল। মর্টার থেকে এটি নিক্ষেপ করা যায় অথবা ফাঁদ হিসেবে স্থাপন করা যায়। ক্ষতিগ্রস্ত হলে বিস্ফোরিত হয়।</Shell_Firefoam.description>
+  
+  <!-- EN: high-explosive shell -->
+  <Shell_HighExplosive.label>উচ্চ বিস্ফোরক শেল</Shell_HighExplosive.label>
+  <!-- EN: A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_HighExplosive.description>একটি শেল যা উচ্চ বিস্ফোরক দিয়ে ভরা। এটি মর্টার থেকে নিক্ষেপ করা যেতে পারে অথবা ফাঁদ হিসেবে স্থাপন করা যেতে পারে। ক্ষতিগ্রস্ত হলে বিস্ফোরিত হয়।</Shell_HighExplosive.description>
+  
+  <!-- EN: incendiary shell -->
+  <Shell_Incendiary.label>আগ্নেয়াস্ত্র শেল</Shell_Incendiary.label>
+  <!-- EN: A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Incendiary.description>এটি দাহ্য জেল এবং সামান্য বিস্ফোরক চার্জে ভরা একটি শেল। বিস্ফোরিত হলে আগুন ধরে। মর্টার থেকে ছোড়া যায় অথবা ফাঁদ হিসেবে স্থাপন করা যায়। ক্ষতিগ্রস্ত হলে বিস্ফোরিত হয়।</Shell_Incendiary.description>
+  
+  <!-- EN: smoke shell -->
+  <Shell_Smoke.label>ধোঁয়া শেল</Shell_Smoke.label>
+  <!-- EN: A shell that generates a cloud of smoke when detonated, obscuring incoming shots and preventing turrets from locking on. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Smoke.description>বিস্ফোরণের পর ধোঁয়ার মেঘ তৈরি করে এমন একটি শেল, যা আগত গুলিকে আড়াল করে এবং টারেটসমূহকে লক্ষ্য স্থির করতে বাধা দেয়। এটি মর্টার থেকে ছোড়া যায় অথবা ফাঁদ হিসেবে স্থাপন করা যায়। ক্ষতিগ্রস্ত হলে বিস্ফোরিত হয়।</Shell_Smoke.description>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: smokeleaf dependence -->
+  <SmokeleafAddiction.label>স্মোকলিফ নির্ভরতা</SmokeleafAddiction.label>
+  <!-- EN: A chemical addiction to smokeleaf. Long-term use of smokeleaf has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of smokeleaf, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <SmokeleafAddiction.description>স্মোকলিফের প্রতি একটি রাসায়নিক আসক্তি। স্মোকলিফের দীর্ঘমেয়াদী ব্যবহার কোষীয় স্তরে স্নায়বিক পরিবর্তনের কারণ হয়েছে, তাই মস্তিষ্ক আর ওষুধ ছাড়া সঠিকভাবে কাজ করতে পারে না।\n\nনিয়মিত স্মোকলিফের ডোজ ছাড়া, প্রত্যাহারের লক্ষণ শুরু হবে। তবে, দীর্ঘমেয়াদী বিরত থাকা মস্তিষ্ককে স্বাভাবিক অবস্থায় ফিরতে বাধ্য করবে, যা আসক্তি নিরাময় করবে।</SmokeleafAddiction.description>
+  <!-- EN: withdrawal -->
+  <SmokeleafAddiction.stages.withdrawal.label>প্রত্যাহার</SmokeleafAddiction.stages.withdrawal.label>
+  
+  <!-- EN: stoned on smokeleaf -->
+  <SmokeleafHigh.label>স্মোকলিফ-এ মাতাল</SmokeleafHigh.label>
+  <!-- EN: Smokeleaf's active chemical in the bloodstream. Generates a soft feeling of fuzzy well-being. -->
+  <SmokeleafHigh.description>স্মোকলিফের সক্রিয় রাসায়নিক উপাদান রক্তপ্রবাহে প্রবেশ করে। এটি একটি হালকা, আরামদায়ক অনুভূতি তৈরি করে।</SmokeleafHigh.description>
+  <!-- EN: a smokeleaf high -->
+  <SmokeleafHigh.labelNoun>স্মোকলিফ হাই</SmokeleafHigh.labelNoun>
+  
+  <!-- EN: smokeleaf tolerance -->
+  <SmokeleafTolerance.label>স্মোকলিফ সহনশীলতা</SmokeleafTolerance.label>
+  <!-- EN: A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect. -->
+  <SmokeleafTolerance.description>স্মোকলিফের প্রতি সহনশীলতা বৃদ্ধি। এই সহনশীলতা যত বেশি হবে, একই প্রভাব পেতে তত বেশি স্মোকলিফ প্রয়োজন হবে।</SmokeleafTolerance.description>
+  <!-- EN: small -->
+  <SmokeleafTolerance.stages.small.label>ছোট</SmokeleafTolerance.stages.small.label>
+  <!-- EN: large -->
+  <SmokeleafTolerance.stages.large.label>বৃহৎ</SmokeleafTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <SmokeleafTolerance.stages.massive.label>বিশাল</SmokeleafTolerance.stages.massive.label>
+  
+</LanguageData>

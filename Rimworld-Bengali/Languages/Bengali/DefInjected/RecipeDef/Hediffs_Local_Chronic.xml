@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: excise carcinoma -->
+  <ExciseCarcinoma.label>কার্সিনোমা অপসারণ</ExciseCarcinoma.label>
+  <!-- EN: Excise a carcinoma. -->
+  <ExciseCarcinoma.description>একটি কার্সিনোমা অপসারণ করুন।</ExciseCarcinoma.description>
+  <!-- EN: Excising carcinoma. -->
+  <ExciseCarcinoma.jobString>কার্সিনোমা অপসারণ।</ExciseCarcinoma.jobString>
+  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} সফলভাবে {1} এর কার্সিনোমা অপসারণ করেছে।</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: daylily -->
+  <Plant_Daylily.label>ডেইলিলি</Plant_Daylily.label>
+  <!-- EN: A cultivated flower with wide petals and a short lifespan. Daylilies are very beautiful, but must be replanted often. -->
+  <Plant_Daylily.description>প্রশস্ত পাপড়ি এবং স্বল্প জীবনকাল বিশিষ্ট একটি চাষকৃত ফুল। ডে-লিলিগুলি খুবই সুন্দর, তবে প্রায়শই পুনরায় রোপণ করতে হয়।</Plant_Daylily.description>
+  
+  <!-- EN: rose -->
+  <Plant_Rose.label>গোলাপ</Plant_Rose.label>
+  <!-- EN: A beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era. -->
+  <Plant_Rose.description>সুন্দরভাবে চাষ করা একটি ফুল, গোলাপ পৃথিবীর প্রাচীন যুগ থেকে ভালোবাসার প্রতীক হিসেবে পরিচিত।</Plant_Rose.description>
+  
+</LanguageData>

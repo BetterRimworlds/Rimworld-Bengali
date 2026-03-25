@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: temperate forest -->
+  <TemperateForest.label>উষ্ণমণ্ডলীয় বন</TemperateForest.label>
+  <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
+  <TemperateForest.description>পর্ণমোচী গাছের বন উর্বর প্রান্তরের মধ্যে ছড়িয়ে ছিটিয়ে রয়েছে। বিভিন্ন প্রজাতির প্রাণী গাছপালা এবং সমভূমির মধ্যে ঘুরে বেড়ায়।</TemperateForest.description>
+  
+  <!-- EN: temperate swamp -->
+  <TemperateSwamp.label>উষ্ণ জলাভূমি</TemperateSwamp.label>
+  <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
+  <TemperateSwamp.description>আর্দ্রভূমি ঘন উদ্ভিদে ও রোগে পরিপূর্ণ। ঘন অত্যাধিক বৃদ্ধির কারণে চলাচল করা কঠিন, এবং নির্মাণের জন্য জায়গা পরিষ্কার করতে দীর্ঘ সময় লাগে। এখানকার বেশিরভাগ ভূমি ভারী কাঠামো নির্মাণের জন্য খুব বেশি জলাশয়যুক্ত।</TemperateSwamp.description>
+  
+</LanguageData>

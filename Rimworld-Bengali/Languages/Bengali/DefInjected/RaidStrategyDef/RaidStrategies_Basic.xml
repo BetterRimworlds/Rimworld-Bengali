@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: They are attacking immediately. -->
+  <EmergeFromWater.arrivalTextEnemy>তারা অবিলম্বে আক্রমণ করছে।</EmergeFromWater.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <EmergeFromWater.arrivalTextFriendly>তাঁরা অবিলম্বে সাহায্য করতে আসছেন।</EmergeFromWater.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <EmergeFromWater.letterLabelEnemy>হানা</EmergeFromWater.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <EmergeFromWater.letterLabelFriendly>বন্ধুভাবাপন্ন</EmergeFromWater.letterLabelFriendly>
+  
+  <!-- EN: They are attacking immediately. -->
+  <ImmediateAttack.arrivalTextEnemy>তাঁরা অবিলম্বে আক্রমণ করছে।</ImmediateAttack.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttack.arrivalTextFriendly>তাঁরা অবিলম্বে সাহায্য করতে আসছেন।</ImmediateAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttack.letterLabelEnemy>হানা</ImmediateAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttack.letterLabelFriendly>বন্ধুভাবাপন্ন</ImmediateAttack.letterLabelFriendly>
+  
+  <!-- EN: They are attacking immediately. -->
+  <ImmediateAttackFriendly.arrivalTextEnemy>তাঁরা অবিলম্বে আক্রমণ করছে।</ImmediateAttackFriendly.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackFriendly.arrivalTextFriendly>তাঁরা অবিলম্বে সাহায্য করতে আসছেন।</ImmediateAttackFriendly.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackFriendly.letterLabelEnemy>হানা</ImmediateAttackFriendly.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackFriendly.letterLabelFriendly>বন্ধুত্বপূর্ণ</ImmediateAttackFriendly.letterLabelFriendly>
+  
+  <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackSmart.arrivalTextEnemy>তাঁরা অবিলম্বে আক্রমণ করছে।\n\nসতর্ক থাকুন - তাঁদের কৌশলগুলি অস্বাভাবিকভাবে চতুর বলে মনে হচ্ছে। তাঁরা আপনার টারেটসমূহের firing ক্ষেত্র এড়িয়ে যাবে এবং কিছু ফাঁদও লক্ষ্য করবে।</ImmediateAttackSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackSmart.arrivalTextFriendly>তাঁরা অবিলম্বে সাহায্য করতে আসছেন।</ImmediateAttackSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackSmart.letterLabelEnemy>হানা</ImmediateAttackSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackSmart.letterLabelFriendly>বন্ধুত্বপূর্ণ</ImmediateAttackSmart.letterLabelFriendly>
+  
+  <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
+  <StageThenAttack.arrivalTextEnemy>তারা কিছুক্ষণ প্রস্তুতি নেবে, তারপর আক্রমণ করবে।\n\nপ্রতিরক্ষা প্রস্তুত করুন অথবা আগে থেকেই তাদের আক্রমণ করুন।</StageThenAttack.arrivalTextEnemy>
+  <!-- EN: They will prepare for a while before moving in to help you. -->
+  <StageThenAttack.arrivalTextFriendly>তাঁরা আপনার সাহায্য করতে আসার আগে কিছু সময় প্রস্তুতি নেবেন।</StageThenAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <StageThenAttack.letterLabelEnemy>হানা</StageThenAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <StageThenAttack.letterLabelFriendly>বন্ধুত্বপূর্ণ</StageThenAttack.letterLabelFriendly>
+  
+</LanguageData>

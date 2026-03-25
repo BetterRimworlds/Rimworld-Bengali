@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic droner -->
+  <PsychicDroner.label>মানসিক ড্রোন</PsychicDroner.label>
+  <!-- EN: A psychic droner tuned to the {0} gender is driving {0}s mad. -->
+  <PsychicDroner.description>একজন সাইকিক ড্রোন অপারেটর {0} লিঙ্গের প্রতি সংবেদনশীল, এবং {0}-কে পাগল করে দিচ্ছে।</PsychicDroner.description>
+  <!-- EN: A psychic droner machine has begun affecting this region. -->
+  <PsychicDroner.letterText>একটি সাইকিক ড্রোনার মেশিন এই অঞ্চলকে প্রভাবিত করতে শুরু করেছে।</PsychicDroner.letterText>
+  
+</LanguageData>

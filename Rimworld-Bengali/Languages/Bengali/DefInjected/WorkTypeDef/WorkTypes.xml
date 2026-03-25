@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Art.label>Arte</Art.label>
+  <!-- EN: Create beautiful works of art from raw materials. -->
+  <Art.description>কাঁচামাল থেকে সুন্দর শিল্পকর্ম তৈরি করুন।</Art.description>
+  <!-- EN: art -->
+  <Art.gerundLabel>শিল্পকলা</Art.gerundLabel>
+  <!-- EN: art -->
+  <Art.labelShort>শিল্পকলা</Art.labelShort>
+  <!-- EN: Artist -->
+  <Art.pawnLabel>শিল্পী</Art.pawnLabel>
+  <!-- EN: Do art at -->
+  <Art.verb>শিল্প করুন</Art.verb><!-- EN: Do art at -->
+  
+  <BasicWorker.label>শিল্প তৈরি</BasicWorker.label>
+  <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
+  <BasicWorker.description>অদক্ষ এবং সহজ কাজ। বন্দী釋放 করুন এবং যন্ত্রপাতির সুইচ ফ্লিক করুন।</BasicWorker.description>
+  <!-- EN: basic tasks -->
+  <BasicWorker.gerundLabel>সাধারণ কাজ</BasicWorker.gerundLabel>
+  <!-- EN: basic -->
+  <BasicWorker.labelShort>সাধারণ কাজ</BasicWorker.labelShort>
+  <!-- EN: Worker -->
+  <BasicWorker.pawnLabel>শ্রমিক</BasicWorker.pawnLabel>
+  <!-- EN: Deal with -->
+  <BasicWorker.verb>จัดการกับ</BasicWorker.verb><!-- EN: Deal with -->
+  
+  <Cleaning.label>จัดการ করুন</Cleaning.label>
+  <!-- EN: Clear snow, pollution and clean the floor in the home area. -->
+  <Cleaning.description>বাড়ির আশেপাশে জমে থাকা বরফ, দূষণ পরিষ্কার করুন এবং মেঝে পরিষ্কার করুন।</Cleaning.description>
+  <!-- EN: cleaning -->
+  <Cleaning.gerundLabel>পরিষ্কার করা</Cleaning.gerundLabel>
+  <!-- EN: clean -->
+  <Cleaning.labelShort>পরিষ্কার করুন</Cleaning.labelShort>
+  <!-- EN: Cleaner -->
+  <Cleaning.pawnLabel>পরিষ্কারক</Cleaning.pawnLabel>
+  <!-- EN: Clean -->
+  <Cleaning.verb>পরিষ্কার করুন</Cleaning.verb><!-- EN: Clean -->
+  
+  <Construction.label>পরিষ্কার করা</Construction.label>
+  <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
+  <Construction.description>আপনি যে জিনিসগুলি নির্ধারণ করেছেন সেগুলি তৈরি করুন এবং ক্ষতিগ্রস্ত বা ভেঙে যাওয়া ভবনগুলি মেরামত করুন।</Construction.description>
+  <!-- EN: constructing -->
+  <Construction.gerundLabel>নির্মাণাধীন</Construction.gerundLabel>
+  <!-- EN: construct -->
+  <Construction.labelShort>নির্মাণ করুন</Construction.labelShort>
+  <!-- EN: Constructor -->
+  <Construction.pawnLabel>নির্মাতা</Construction.pawnLabel>
+  <!-- EN: Construct -->
+  <Construction.verb>নির্মাণ</Construction.verb><!-- EN: Construct -->
+  
+  <Cooking.label>নির্মাণ</Cooking.label>
+  <!-- EN: Prepare meals and butcher meat. -->
+  <Cooking.description>খাবার তৈরি করা এবং মাংস কাটা।</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.gerundLabel>রান্না</Cooking.gerundLabel>
+  <!-- EN: cook -->
+  <Cooking.labelShort>রান্নায় সহায়ক</Cooking.labelShort>
+  <!-- EN: Cook -->
+  <Cooking.pawnLabel>রান্না</Cooking.pawnLabel>
+  <!-- EN: Cook -->
+  <Cooking.verb>রান্নায়ী</Cooking.verb><!-- EN: Cook -->
+  
+  <Crafting.label>রান্না</Crafting.label>
+  <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
+  <Crafting.description>কাজের স্থানগুলোতে সাধারণ, কম দক্ষতার কাজ করে। এর মধ্যে পাথর কাটা, ধাতু গলানো এবং আরও অনেক কিছু অন্তর্ভুক্ত।</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.gerundLabel>কারুকার্য</Crafting.gerundLabel>
+  <!-- EN: craft -->
+  <Crafting.labelShort>কারুকার্য তৈরি</Crafting.labelShort>
+  <!-- EN: Crafter -->
+  <Crafting.pawnLabel>কারিগর</Crafting.pawnLabel>
+  <!-- EN: Craft at -->
+  <Crafting.verb>তৈরি করুন এখানে</Crafting.verb><!-- EN: Craft at -->
+  
+  <Doctor.label>তৈরি করা</Doctor.label>
+  <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
+  <Doctor.description>রোগীদের চিকিৎসা করুন, তাঁদের খাবার দিন, তাঁদের উৎসাহিত করুন এবং নির্ধারিত সার্জারিগুলো সম্পন্ন করুন। ডাক্তাররা কলোনিবাসী এবং বন্দী উভয়েরই যত্ন নেবেন।</Doctor.description>
+  <!-- EN: doctoring -->
+  <Doctor.gerundLabel>চিকিৎসা</Doctor.gerundLabel>
+  <!-- EN: doctor -->
+  <Doctor.labelShort>ডাক্তার</Doctor.labelShort>
+  <!-- EN: Doctor -->
+  <Doctor.pawnLabel>ডাক্তার</Doctor.pawnLabel>
+  <!-- EN: Care for -->
+  <Doctor.verb>যত্ন নিন</Doctor.verb><!-- EN: Care for -->
+  
+  <Firefighter.label>যত্ন</Firefighter.label>
+  <!-- EN: Extinguish fires in the colony. -->
+  <Firefighter.description>উপনিবেশে আগুন নেভান।</Firefighter.description>
+  <!-- EN: firefighting -->
+  <Firefighter.gerundLabel>অগ্নি নির্বাপণ</Firefighter.gerundLabel>
+  <!-- EN: firefight -->
+  <Firefighter.labelShort>আগুনযুদ্ধ</Firefighter.labelShort>
+  <!-- EN: Firefighter -->
+  <Firefighter.pawnLabel>অগ্নি নির্বাপক</Firefighter.pawnLabel>
+  <!-- EN: Extinguish -->
+  <Firefighter.verb>নির্বাপ করুন</Firefighter.verb><!-- EN: Extinguish -->
+  
+  <Growing.label>আগুন নেভানো</Growing.label>
+  <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
+  <Growing.description>বীজ রোপণ করুন, ফসল কাটুন এবং বন্য গাছপালা সংগ্রহ করুন।</Growing.description>
+  <!-- EN: growing -->
+  <Growing.gerundLabel>চাষাবাদ</Growing.gerundLabel>
+  <!-- EN: grow -->
+  <Growing.labelShort>চাষ করুন</Growing.labelShort>
+  <!-- EN: Grower -->
+  <Growing.pawnLabel>চাষী</Growing.pawnLabel>
+  <!-- EN: Grow -->
+  <Growing.verb>চাষ করুন</Growing.verb><!-- EN: Grow -->
+  
+  <Handling.label>চাষ করা</Handling.label>
+  <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
+  <Handling.description>পশুপাখিদের পোষ মানানো, প্রশিক্ষণ দেওয়া, তাদের থেকে সম্পদ সংগ্রহ করা এবং জবাই করা।</Handling.description>
+  <!-- EN: handling -->
+  <Handling.gerundLabel>হ্যান্ডলিং</Handling.gerundLabel>
+  <!-- EN: handle -->
+  <Handling.labelShort>হ্যান্ডেল</Handling.labelShort>
+  <!-- EN: Handler -->
+  <Handling.pawnLabel>হ্যান্ডলার</Handling.pawnLabel>
+  <!-- EN: Handle -->
+  <Handling.verb>হ্যান্ডেল</Handling.verb><!-- EN: Handle -->
+  
+  <Hauling.label>হ্যান্ডেল</Hauling.label>
+  <!-- EN: Carry things to where they need to be. -->
+  <Hauling.description>প্রয়োজনীয় স্থানে জিনিসপত্র বহন করা।</Hauling.description>
+  <!-- EN: hauling -->
+  <Hauling.gerundLabel>মাল পরিবহন</Hauling.gerundLabel>
+  <!-- EN: haul -->
+  <Hauling.labelShort>বহন করুন</Hauling.labelShort>
+  <!-- EN: Hauler -->
+  <Hauling.pawnLabel>মালবাহক</Hauling.pawnLabel>
+  <!-- EN: Haul -->
+  <Hauling.verb>মাল পরিবহন</Hauling.verb><!-- EN: Haul -->
+  
+  <Hunting.label>মাল পরিবহন</Hunting.label>
+  <!-- EN: Kill animals which are designated to be hunted. -->
+  <Hunting.description>নিবেদিত পশু শিকার করে হত্যা করা।</Hunting.description>
+  <!-- EN: hunting -->
+  <Hunting.gerundLabel>শিকার</Hunting.gerundLabel>
+  <!-- EN: hunt -->
+  <Hunting.labelShort>শিকার</Hunting.labelShort>
+  <!-- EN: Hunter -->
+  <Hunting.pawnLabel>শিকারি</Hunting.pawnLabel>
+  <!-- EN: Hunt -->
+  <Hunting.verb>শিকার</Hunting.verb><!-- EN: Hunt -->
+  
+  <Mining.label>শিকার</Mining.label>
+  <!-- EN: Digging and drilling. -->
+  <Mining.description>খনন এবং ড্রিলিং।</Mining.description>
+  <!-- EN: mining -->
+  <Mining.gerundLabel>খনন</Mining.gerundLabel>
+  <!-- EN: mine -->
+  <Mining.labelShort>খনন</Mining.labelShort>
+  <!-- EN: Miner -->
+  <Mining.pawnLabel>খননকারী</Mining.pawnLabel>
+  <!-- EN: Mine -->
+  <Mining.verb>খনন</Mining.verb><!-- EN: Mine -->
+  
+  <Patient.label>খনন</Patient.label>
+  <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
+  <Patient.description>জীবন-হুমকি সৃষ্টিকারী স্বাস্থ্য পরিস্থিতি থাকলে চিকিৎসার জন্য দ্রুত একটি মেডিকেল বেডে যান।</Patient.description>
+  <!-- EN: patienting -->
+  <Patient.gerundLabel>রোগী দেখাশোনা</Patient.gerundLabel>
+  <!-- EN: patient -->
+  <Patient.labelShort>রোগী</Patient.labelShort>
+  <!-- EN: Patient -->
+  <Patient.pawnLabel>রোগী</Patient.pawnLabel>
+  <!-- EN: Become patient -->
+  <Patient.verb>ধৈর্যশীল হন</Patient.verb><!-- EN: Become patient -->
+  
+  <PatientBedRest.label>ধৈর্যশীল হওয়া</PatientBedRest.label>
+  <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
+  <PatientBedRest.description>বিশ্রাম নিয়ে বিছানায় শুয়ে জীবন-হুমকি নয় এমন স্বাস্থ্য সমস্যা থেকে সেরে ওঠা।</PatientBedRest.description>
+  <!-- EN: resting in bed -->
+  <PatientBedRest.gerundLabel>বিছানায় বিশ্রাম</PatientBedRest.gerundLabel>
+  <!-- EN: bed rest -->
+  <PatientBedRest.labelShort>বিশ্রাম</PatientBedRest.labelShort>
+  <!-- EN: Bed rester -->
+  <PatientBedRest.pawnLabel>বিশ্রামকারী</PatientBedRest.pawnLabel>
+  <!-- EN: Become patient -->
+  <PatientBedRest.verb>ধৈর্যশীল হন</PatientBedRest.verb><!-- EN: Become patient -->
+  
+  <PlantCutting.label>ধৈর্যশীল হওয়া</PlantCutting.label>
+  <!-- EN: Cut or harvest plants as designated. -->
+  <PlantCutting.description>নির্ধারিত 대로 গাছপালা কাটুন অথবা সংগ্রহ করুন।</PlantCutting.description>
+  <!-- EN: plant cutting -->
+  <PlantCutting.gerundLabel>উদ্ভিদ কাটিং</PlantCutting.gerundLabel>
+  <!-- EN: plant cut -->
+  <PlantCutting.labelShort>গাছ কাটা</PlantCutting.labelShort>
+  <!-- EN: Plant cutter -->
+  <PlantCutting.pawnLabel>উদ্ভিদ কাটার</PlantCutting.pawnLabel>
+  <!-- EN: Cut -->
+  <PlantCutting.verb>কাটুন</PlantCutting.verb><!-- EN: Cut -->
+  
+  <Research.label>কাটা</Research.label>
+  <!-- EN: Perform research work. -->
+  <Research.description>গবেষণার কাজ সম্পাদন করুন।</Research.description>
+  <!-- EN: researching -->
+  <Research.gerundLabel>গবেষণা</Research.gerundLabel>
+  <!-- EN: research -->
+  <Research.labelShort>গবেষণা</Research.labelShort>
+  <!-- EN: Researcher -->
+  <Research.pawnLabel>গবেষক</Research.pawnLabel>
+  <!-- EN: Research at -->
+  <Research.verb>গবেষণা চলছে</Research.verb><!-- EN: Research at -->
+  
+  <Smithing.label>গবেষণা tại</Smithing.label>
+  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
+  <Smithing.description>কাঁচামাল থেকে অস্ত্র এবং সরঞ্জাম তৈরি করুন, কামার হিসেবে অথবা যন্ত্র তৈরি করে। যদি একজন কলোনিস্ট মেকানাইটর হয়, তবে মেকানোইডসমূহ মেরামতও করুন।</Smithing.description>
+  <!-- EN: smithing -->
+  <Smithing.gerundLabel>কামার কাজ</Smithing.gerundLabel>
+  <!-- EN: smith -->
+  <Smithing.labelShort>স্মিথ</Smithing.labelShort>
+  <!-- EN: Smith -->
+  <Smithing.pawnLabel>কামার</Smithing.pawnLabel>
+  <!-- EN: Smith at -->
+  <Smithing.verb>কাম কাজ করছে</Smithing.verb><!-- EN: Smith at -->
+  
+  <Tailoring.label>কামকাজ করা</Tailoring.label>
+  <!-- EN: Create apparel from raw materials. -->
+  <Tailoring.description>কাঁচামাল থেকে পোশাক তৈরি করুন।</Tailoring.description>
+  <!-- EN: tailoring -->
+  <Tailoring.gerundLabel>পোশাক তৈরি</Tailoring.gerundLabel>
+  <!-- EN: tailor -->
+  <Tailoring.labelShort>দর্জি কাজ</Tailoring.labelShort>
+  <!-- EN: Tailor -->
+  <Tailoring.pawnLabel>দর্জি</Tailoring.pawnLabel>
+  <!-- EN: Tailor at -->
+  <Tailoring.verb>দর্জি করুন</Tailoring.verb><!-- EN: Tailor at -->
+  
+  <Warden.label>পোশাক তৈরি</Warden.label>
+  <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
+  <Warden.description>বন্দীদের পরিচালনা করুন, খাবার দিন, তাদের সাথে কথা বলুন এবং নিয়োগ করুন।</Warden.description>
+  <!-- EN: wardening -->
+  <Warden.gerundLabel>জেলদারি</Warden.gerundLabel>
+  <!-- EN: warden -->
+  <Warden.labelShort>জেলরক্ষক</Warden.labelShort>
+  <!-- EN: Warden -->
+  <Warden.pawnLabel>জেলরক্ষক</Warden.pawnLabel>
+  <!-- EN: Handle -->
+  <Warden.verb>হ্যান্ডেল</Warden.verb>
+  
+</LanguageData>

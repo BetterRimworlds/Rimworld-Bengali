@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>কামড়</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <Bite.deathMessage>{0} কামড়ে মারা হয়েছে।</Bite.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>钝 আঘাত</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} মারধর করে হত্যা করা হয়েছে।</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>চূর্ণ করা</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} পিষ্ট হয়ে মারা গেছে।</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>কাটা</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} কেটে মারা হয়েছে।</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Demolish.label>钝 আঘাত</Demolish.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Demolish.deathMessage>{0} মারপিট করে হত্যা করা হয়েছে।</Demolish.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>钝 আঘাত</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>{0} মারপিট করে হত্যা করা হয়েছে।</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>ক্ষতধরন</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} ছিন্নভিন্ন হয়ে গেছে।</Scratch.deathMessage>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>বিষাক্ত আঁচড়</ScratchToxic.label>
+  <!-- EN: {0} has been torn to death. -->
+  <ScratchToxic.deathMessage>{0} ছিন্নভিন্ন হয়ে গেছে।</ScratchToxic.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>ছুরিকাঘাত</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} ছুরিকাঘাতে নিহত হয়েছে।</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>বিষাক্ত কামড়</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <ToxicBite.deathMessage>{0} কামড়ে মারা গেছে।</ToxicBite.deathMessage>
+  
+</LanguageData>

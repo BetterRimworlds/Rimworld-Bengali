@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anesthetic -->
+  <Anesthetic.label>অ্যানেস্থেটিক</Anesthetic.label>
+  <!-- EN: Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious. -->
+  <Anesthetic.description>রক্তপ্রবাহে নিদ্রাকারক ওষুধ। অ্যানেস্থেটিক প্রাণীদের অচেতন করে তোলে।</Anesthetic.description>
+  <!-- EN: wearing off -->
+  <Anesthetic.stages.wearing_off.label>ক্ষয় হচ্ছে</Anesthetic.stages.wearing_off.label>
+  <!-- EN: woozy -->
+  <Anesthetic.stages.woozy.label>মাথা ঘোরা</Anesthetic.stages.woozy.label>
+  <!-- EN: sedated -->
+  <Anesthetic.stages.sedated.label>শান্ত</Anesthetic.stages.sedated.label>
+  
+  <!-- EN: blood loss -->
+  <BloodLoss.label>রক্তক্ষরণ</BloodLoss.label>
+  <!-- EN: A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.\n\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply. -->
+  <BloodLoss.description>রক্তের স্বাভাবিক আয়তন হ্রাস। সামান্য রক্তক্ষরণ তুলনামূলকভাবে মৃদু প্রভাব ফেলে, তবে রক্তক্ষরণ গুরুতর হলে অক্সিজেন পরিবহন মারাত্মকভাবে ব্যাহত হয় এবং আক্রান্ত ব্যক্তি নড়াচড়া করার ক্ষমতা হারায়। অতিরিক্ত রক্তক্ষরণ মৃত্যুর দিকে পরিচালিত করে।\n\nশরীরের রক্ত সরবরাহ ধীরে ধীরে পুনরায় তৈরি হওয়ার সাথে সাথে রক্তক্ষরণ সময়ের সাথে সাথে স্বাভাবিকভাবে সেরে যায়।</BloodLoss.description>
+  <!-- EN: minor -->
+  <BloodLoss.stages.minor-0.label>ক্ষুদ্র</BloodLoss.stages.minor-0.label>
+  <!-- EN: minor -->
+  <BloodLoss.stages.minor-1.label>ক্ষুদ্র</BloodLoss.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <BloodLoss.stages.moderate.label>মাঝারি</BloodLoss.stages.moderate.label>
+  <!-- EN: severe -->
+  <BloodLoss.stages.severe.label>গুরুতর</BloodLoss.stages.severe.label>
+  <!-- EN: extreme -->
+  <BloodLoss.stages.extreme.label>গুরুতর</BloodLoss.stages.extreme.label>
+  
+  <!-- EN: brain shock -->
+  <BrainShock.label>মস্তিষ্কের শক</BrainShock.label>
+  <!-- EN: After-effects of an electrical shock to the brain. This is generally cause by feedback from brain implants hit by EMP pulses. -->
+  <BrainShock.description>মস্তিষ্কে বৈদ্যুতিক শকের পরবর্তী প্রভাব। সাধারণত, ইএমপি পালস দ্বারা আঘাতপ্রাপ্ত মস্তিষ্কের ইমপ্লান্ট থেকে ফিডব্যাকের কারণে এটি ঘটে।</BrainShock.description>
+  <!-- EN: a brain shock -->
+  <BrainShock.labelNoun>মস্তিষ্কের আঘাত</BrainShock.labelNoun>
+  
+  <!-- EN: catatonic breakdown -->
+  <CatatonicBreakdown.label>ক্যাটatonic ব্রেকডাউন</CatatonicBreakdown.label>
+  <!-- EN: A state of mental shock which leads to a total inability to function. The victim collapses, effectively unconscious. -->
+  <CatatonicBreakdown.description>মানসিক আঘাতের একটি অবস্থা যা সম্পূর্ণরূপে কাজ করতে অক্ষম করে তোলে। আক্রান্ত ব্যক্তি অজ্ঞান হয়ে পড়ে যায়।</CatatonicBreakdown.description>
+  <!-- EN: a catatonic breakdown -->
+  <CatatonicBreakdown.labelNoun>ক্যাটatonic ব্রেকডাউন</CatatonicBreakdown.labelNoun>
+  
+  <!-- EN: covered in firefoam -->
+  <CoveredInFirefoam.label>অগ্নি-ফেনা আবৃত</CoveredInFirefoam.label>
+  <!-- EN: Covered in a fire-retardant foam. -->
+  <CoveredInFirefoam.description>আগুন-প্রতিরোধী ফোমে আবৃত।</CoveredInFirefoam.description>
+  
+  <!-- EN: cryptosleep sickness -->
+  <CryptosleepSickness.label>ক্রিপ্টোস্লিপ অসুস্থতা</CryptosleepSickness.label>
+  <!-- EN: After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind. -->
+  <CryptosleepSickness.description>ক্রিপ্টোস্লিপ পড ব্যবহারের পরবর্তী প্রভাব। ক্রিপ্টোস্লিপ বার্ধক্য এবং মৃত্যু প্রতিরোধের জন্য অনেক শারীরিক ক্রিয়া স্থগিত ও প্রতিস্থাপন করে। ক্রিপ্টোস্লিপ থেকে বের হওয়ার পর শরীর পুনরায় চালু হতে এবং স্বাভাবিক বিপাকীয় প্রক্রিয়াগুলির ভারসাম্য ফিরে পেতে সময় নেয়। এই প্রক্রিয়া চলাকালীন, রোগীর বমি বমি ভাব, মাথা ঘোরা এবং মনে অস্পষ্টতা দেখা যায়।</CryptosleepSickness.description>
+  <!-- EN: After-effects of using a cryptosleep pod including dizziness, nausea, and vomiting. -->
+  <CryptosleepSickness.descriptionShort>ক্রিপ্টোস্লিপ পড ব্যবহারের পরবর্তী প্রভাব, যার মধ্যে মাথা ঘোরা, বমি বমি ভাব এবং বমি অন্তর্ভুক্ত।</CryptosleepSickness.descriptionShort>
+  
+  <!-- EN: drug overdose -->
+  <DrugOverdose.label>ওষুধের অতিরিক্ত মাত্রা</DrugOverdose.label>
+  <!-- EN: Generalized toxic effects due to over-concentration of drugs in the bloodstream. -->
+  <DrugOverdose.description>রক্তপ্রবাহে ওষুধের অতিরিক্ত ঘনত্বের কারণে সৃষ্ট সাধারণ বিষাক্ত প্রভাব।</DrugOverdose.description>
+  <!-- EN: Overdose: {0} -->
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>মাত্রাতিরিক্ত: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <!-- EN: {0} is overdosing! -->
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} অতিরিক্ত মাত্রা নিচ্ছে!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: a drug overdose -->
+  <DrugOverdose.labelNoun>ওষুধের অতিরিক্ত মাত্রা</DrugOverdose.labelNoun>
+  <!-- EN: minor -->
+  <DrugOverdose.stages.minor-0.label>ক্ষুদ্র</DrugOverdose.stages.minor-0.label>
+  <!-- EN: minor -->
+  <DrugOverdose.stages.minor-1.label>ক্ষুদ্র</DrugOverdose.stages.minor-1.label>
+  <!-- EN: major -->
+  <DrugOverdose.stages.major.label>গুরুতর</DrugOverdose.stages.major.label>
+  
+  <!-- EN: food poisoning -->
+  <FoodPoisoning.label>খাদ্য বিষক্রিয়া</FoodPoisoning.label>
+  <!-- EN: Gastrointestinal illness caused by consuming decayed or unclean food. It can be caused by eating rotten food, by incompetent cooks accidentally poisoning meals, or by eating from unsafe wild sources. The patient will vomit and feel sick for some time. -->
+  <FoodPoisoning.description>পচা বা নোংরা খাবার গ্রহণের কারণে গ্যাস্ট্রোইনটেস্টাইনাল অসুস্থতা হতে পারে। পচা খাবার খাওয়া, অদক্ষ বাবুর্চিদের দ্বারা খাবারের বিষক্রিয়া, অথবা অনিরাপদ বন্য উৎস থেকে খাবার গ্রহণের ফলে এটি হতে পারে। রোগী কিছু সময়ের জন্য বমি করবে এবং অসুস্থ বোধ করবে।</FoodPoisoning.description>
+  <!-- EN: recovering -->
+  <FoodPoisoning.stages.recovering.label>পুনরুদ্ধার</FoodPoisoning.stages.recovering.label>
+  <!-- EN: major -->
+  <FoodPoisoning.stages.major.label>গুরুতর</FoodPoisoning.stages.major.label>
+  <!-- EN: initial -->
+  <FoodPoisoning.stages.initial.label>প্রাথমিক অবস্থা</FoodPoisoning.stages.initial.label>
+  
+  <!-- EN: heart attack -->
+  <HeartAttack.label>হৃদরোগ</HeartAttack.label>
+  <!-- EN: A disruption in the heart's normal beating rhythm. Heart attacks can be debilitatingly painful. They can worsen and lead to death, or recover. -->
+  <HeartAttack.description>হৃদস্পন্দনের স্বাভাবিক ছন্দ ব্যাহত হওয়া। হৃদরোগ মারাত্মক বেদনাদায়ক হতে পারে। এটি আরও খারাপ হতে পারে এবং মৃত্যুর দিকে পরিচালিত করতে পারে, অথবা পুনরুদ্ধারও হতে পারে।</HeartAttack.description>
+  <!-- EN: a heart attack -->
+  <HeartAttack.labelNoun>হৃদরোগের আক্রমণ</HeartAttack.labelNoun>
+  <!-- EN: painful -->
+  <HeartAttack.stages.painful.label>ব্যথাজনক</HeartAttack.stages.painful.label>
+  <!-- EN: debilitating -->
+  <HeartAttack.stages.debilitating.label>দুর্বলীকরণ</HeartAttack.stages.debilitating.label>
+  <!-- EN: fatal -->
+  <HeartAttack.stages.fatal.label>মারাত্মক</HeartAttack.stages.fatal.label>
+  
+  <!-- EN: pregnant -->
+  <Pregnant.label>গর্ভবতী</Pregnant.label>
+  <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
+  <Pregnant.description>এই প্রাণীটি ভ্রূণ ধারণ করছে। গর্ভাবস্থা সম্পূর্ণ হলে এটি প্রসব করবে। উপোস করা হলে বা আঘাত পেলে গর্ভপাত হতে পারে।</Pregnant.description>
+  <!-- EN: {0} is pregnant! -->
+  <Pregnant.comps.HediffComp_MessageAfterTicks.message>{0} গর্ভবতী!</Pregnant.comps.HediffComp_MessageAfterTicks.message>
+  <!-- EN: pregnancy -->
+  <Pregnant.labelNoun>গর্ভাবস্থা</Pregnant.labelNoun>
+  <!-- EN: early-stage -->
+  <Pregnant.stages.earlystage.label>প্রাথমিক পর্যায়</Pregnant.stages.earlystage.label>
+  <!-- EN: middle-stage -->
+  <Pregnant.stages.middlestage.label>মধ্যবর্তী পর্যায়</Pregnant.stages.middlestage.label>
+  <!-- EN: late-stage -->
+  <Pregnant.stages.latestage.label>দেরী পর্যায়</Pregnant.stages.latestage.label>
+  
+  <!-- EN: psychic coma -->
+  <PsychicComa.label>মানসিক কোমা</PsychicComa.label>
+  <!-- EN: A form of benign coma during which the brain recovers from a psychic overload. -->
+  <PsychicComa.description>মানসিক অত্যাধিক চাপ থেকে মস্তিষ্কের পুনরুদ্ধারের সময় একটি নিরীহ কোমা বা অজ্ঞান অবস্থা।</PsychicComa.description>
+  <!-- EN: a psychic coma -->
+  <PsychicComa.labelNoun>মানসিক কোমা</PsychicComa.labelNoun>
+  
+  <!-- EN: psychic hangover -->
+  <PsychicHangover.label>মানসিক অবসাদ</PsychicHangover.label>
+  <!-- EN: An after-effect of neural heat. Psychic hangover is bothersome, but not dangerous. -->
+  <PsychicHangover.description>মানসিক উত্তাপের একটি পার্শ্বপ্রতিক্রিয়া। সাইকিক হ্যাংওভার অস্বস্তিকর, কিন্তু বিপজ্জনক নয়।</PsychicHangover.description>
+  <!-- EN: a psychic hangover -->
+  <PsychicHangover.labelNoun>মানসিক অবসাদ</PsychicHangover.labelNoun>
+  <!-- EN: forming -->
+  <PsychicHangover.stages.forming.label>গঠনশীল</PsychicHangover.stages.forming.label>
+  <!-- EN: buzzing -->
+  <PsychicHangover.stages.buzzing.label>গুণগুণ করা</PsychicHangover.stages.buzzing.label>
+  
+  <!-- EN: psychic invisibility -->
+  <PsychicInvisibility.label>মানসিক অদৃশ্যতা</PsychicInvisibility.label>
+  <!-- EN: Psychically-induced invisibility. This actually affects others nearby, making their brains unable to perceive the sight of this individual, even if the eyes are unaffected. -->
+  <PsychicInvisibility.description>মানসিকভাবে প্ররোচিত অদৃশ্যতা। এটি প্রকৃতপক্ষে কাছাকাছি থাকা অন্যদেরকেও প্রভাবিত করে, তাদের মস্তিষ্ককে এই ব্যক্তির দর্শন উপলব্ধি করতে অক্ষম করে তোলে, এমনকি যদি চোখগুলি অক্ষত থাকে।</PsychicInvisibility.description>
+  
+  <!-- EN: psychic shock -->
+  <PsychicShock.label>মানসিক আঘাত</PsychicShock.label>
+  <!-- EN: A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off. -->
+  <PsychicShock.description>মস্তিষ্ক ও মনের মধ্যে মানসিক বিশৃঙ্খলার একটি অবস্থা। মানসিক আক্রমণ অথবা নিউরাল তাপের চরম স্তরের কারণে এটি ঘটে, এবং এটি প্রশমিত না হওয়া পর্যন্ত দুর্বল করে রাখে।</PsychicShock.description>
+  <!-- EN: a psychic shock -->
+  <PsychicShock.labelNoun>মানসিক আঘাত</PsychicShock.labelNoun>
+  
+  <!-- EN: resurrection sickness -->
+  <ResurrectionSickness.label>পুনরুত্থান অসুস্থতা</ResurrectionSickness.label>
+  <!-- EN: After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves. -->
+  <ResurrectionSickness.description>পুনরুজ্জীবনের পরবর্তী প্রভাব। কৃত্রিমভাবে পুনরায় শুরু হওয়া শারীরিক প্রক্রিয়াগুলো পুনরায় ভারসাম্য ফিরে পেতে সময় নেয়।</ResurrectionSickness.description>
+  
+  <!-- EN: toxic buildup -->
+  <ToxicBuildup.label>বিষাক্ত জমাট</ToxicBuildup.label>
+  <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->
+  <ToxicBuildup.description>রক্তপ্রবাহে বিষ। এটি বিভিন্ন উৎস থেকে আসতে পারে, যার মধ্যে পরিবেশগত বিষাক্ত পদার্থ, বিষাক্ত কামড় বা বিষাক্ত অস্ত্র অন্তর্ভুক্ত।\n\nউচ্চ মাত্রায়, বিষাক্ত পদার্থের জমাট প্রাণঘাতী। এমনকি কম মাত্রায়ও এটি ক্যান্সার সৃষ্টি করতে পারে।\n\nযদি কোনো প্রাণী বিষাক্ত পদার্থ জমা হওয়ার সাথে মারা যায়, তবে তাদের খাওয়া সম্ভব না হওয়ার সম্ভাবনা থাকে। বিষাক্ত পদার্থের জমাট যত বেশি, সেই সম্ভাবনাও তত বেশি।</ToxicBuildup.description>
+  <!-- EN: {PAWN_nameDef} is showing early signs of toxic buildup. Keep {PAWN_objective} away from sources of toxins. -->
+  <ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} এর শরীরে বিষাক্ত পদার্থ জমা হওয়ার প্রাথমিক লক্ষণ দেখা যাচ্ছে। {PAWN_objective} কে বিষের উৎস থেকে দূরে রাখুন।</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: initial -->
+  <ToxicBuildup.stages.initial-0.label>প্রাথমিক</ToxicBuildup.stages.initial-0.label>
+  <!-- EN: initial -->
+  <ToxicBuildup.stages.initial-1.label>প্রাথমিক অবস্থা</ToxicBuildup.stages.initial-1.label>
+  <!-- EN: minor -->
+  <ToxicBuildup.stages.minor.label>ক্ষুদ্র</ToxicBuildup.stages.minor.label>
+  <!-- EN: moderate -->
+  <ToxicBuildup.stages.moderate.label>মাঝারি</ToxicBuildup.stages.moderate.label>
+  <!-- EN: serious -->
+  <ToxicBuildup.stages.serious.label>গুরুতর</ToxicBuildup.stages.serious.label>
+  <!-- EN: extreme -->
+  <ToxicBuildup.stages.extreme.label>চূড়ান্ত</ToxicBuildup.stages.extreme.label>
+  
+</LanguageData>

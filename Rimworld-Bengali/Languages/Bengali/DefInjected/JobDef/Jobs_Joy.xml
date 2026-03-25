@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: building snowman. -->
+  <BuildSnowman.reportString>snowman তৈরি।</BuildSnowman.reportString>
+  
+  <!-- EN: going for a walk. -->
+  <GoForWalk.reportString>হাঁটতে যাওয়া।</GoForWalk.reportString>
+  
+  <!-- EN: meditating. -->
+  <Meditate.reportString>ধ্যান করা।</Meditate.reportString>
+  
+  <!-- EN: playing billiards. -->
+  <Play_Billiards.reportString>বিলিয়ার্ডস খেলা।</Play_Billiards.reportString>
+  
+  <!-- EN: playing chess. -->
+  <Play_Chess.reportString>দাবা খেলা।</Play_Chess.reportString>
+  
+  <!-- EN: playing the game of Ur. -->
+  <Play_GameOfUr.reportString>ইউআর খেলার খেলা।</Play_GameOfUr.reportString>
+  
+  <!-- EN: playing hoopstone. -->
+  <Play_Hoopstone.reportString>হুপস্টোন খেলা হচ্ছে।</Play_Hoopstone.reportString>
+  
+  <!-- EN: playing horseshoes. -->
+  <Play_Horseshoes.reportString>ঘোড়ার খুর খেলা।</Play_Horseshoes.reportString>
+  
+  <!-- EN: playing TargetA. -->
+  <Play_MusicalInstrument.reportString>শ্রম, কাজ, এবং পন কর্তব্য targeta।</Play_MusicalInstrument.reportString>
+  
+  <!-- EN: playing poker. -->
+  <Play_Poker.reportString>পোকার খেলা।</Play_Poker.reportString>
+  
+  <!-- EN: praying. -->
+  <Pray.reportString>প্রার্থনা করা।</Pray.reportString>
+  
+  <!-- EN: skygazing. -->
+  <Skygaze.reportString>আকাশ পর্যবেক্ষণ।</Skygaze.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <SocialRelax.reportString>সামাজিকভাবে বিশ্রাম।</SocialRelax.reportString>
+  
+  <!-- EN: using telescope. -->
+  <UseTelescope.reportString>দূরবীক্ষণ ব্যবহার করছে।</UseTelescope.reportString>
+  
+  <!-- EN: viewing art. -->
+  <ViewArt.reportString>শিল্প দেখা।</ViewArt.reportString>
+  
+  <!-- EN: visiting grave. -->
+  <VisitGrave.reportString>কবর পরিদর্শন।</VisitGrave.reportString>
+  
+  <!-- EN: cheering up patient TargetA. -->
+  <VisitSickPawn.reportString>রোগীকে উৎসাহিত করা হচ্ছে targeta-কে।</VisitSickPawn.reportString>
+  
+  <!-- EN: watching television. -->
+  <WatchTelevision.reportString>টিভি দেখা।</WatchTelevision.reportString>
+  
+</LanguageData>

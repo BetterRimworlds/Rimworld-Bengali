@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>অরোরা</Aurora.label>
+  <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
+  <Aurora.description>আকাশে অরোরা আলোকিত হচ্ছে। শ্বাসরুদ্ধকর এই দৃশ্য বাইরে থেকে দেখলে যে কারোরই মন ভালো করে দেবে।</Aurora.description>
+  <!-- EN: The aurora is ending. -->
+  <Aurora.endMessage>অরোরা শেষ হচ্ছে।</Aurora.endMessage>
+  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
+  <Aurora.letterText>আকাশে এক সুন্দর অরোরা আলোকিত হচ্ছে।\n\n undulating রংগুলি বাইরে থেকে এটি দেখতে পাওয়া যে কারও মেজাজ উন্নত করবে এবং রাতকে আরও উজ্জ্বল করবে।</Aurora.letterText>
+  
+  <!-- EN: climate cycle -->
+  <ClimateCycle.label>জলবায়ু চক্র</ClimateCycle.label>
+  <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
+  <ClimateCycle.description>উপবৃত্তাকার কক্ষপথের কারণে বহু বছরব্যাপী জলবায়ু চক্র।</ClimateCycle.description>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>ঠান্ডা ঢেউ</ColdSnap.label>
+  <!-- EN: An unusual cold snap is freezing the region. -->
+  <ColdSnap.description>অস্বাভাবিক ঠান্ডা ঢেউয়ে অঞ্চলটি জমে যাচ্ছে।</ColdSnap.description>
+  <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
+  <ColdSnap.descriptionFuture>একটি শীতল বাতাসের ফ্রন্ট [map_definite]-এর आसपासের এলাকাকে [gameConditionDuration_duration]-এর জন্য ঠান্ডা করবে, যা ফসল এবং পর্যাপ্ত সুরক্ষা ছাড়া যেকোনো ব্যক্তি বা প্রাণীর জন্য ক্ষতিকর।</ColdSnap.descriptionFuture>
+  <!-- EN: The cold snap is over. -->
+  <ColdSnap.endMessage>ঠান্ডা আঘাত vorbei।</ColdSnap.endMessage>
+  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <ColdSnap.letterText>একটি অস্বাভাবিক ঠান্ডা স্পেল শুরু হয়েছে।\n\nঠান্ডা স্পেল দ্রুত হাইপোথার্মিয়ার কারণে মৃত্যু ঘটাতে পারে। বেঁচে থাকার জন্য একটি উত্তপ্ত স্থান তৈরি করা, উপযুক্ত পোশাক পরা এবং ফসলগুলো জমে যাওয়ার আগে সংগ্রহ করার বিষয়ে নিশ্চিত থাকুন।</ColdSnap.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>গ্রহণ</Eclipse.label>
+  <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
+  <Eclipse.description>গ্রহণের ছায়া ভূপৃষ্ঠে নেমে এসেছে। দিনের বেলাতেও অন্ধকার থাকবে।</Eclipse.description>
+  <!-- EN: The eclipse is ending. -->
+  <Eclipse.endMessage>গ্রহণ শেষ হচ্ছে।</Eclipse.endMessage>
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <Eclipse.letterText>এই গ্রহের একটি চাঁদ সূর্যের সামনে প্রদক্ষিণ করেছে। একটি গ্রহণ শুরু হয়েছে।</Eclipse.letterText>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>ফ্ল্যাশস্টর্ম</Flashstorm.label>
+  <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
+  <Flashstorm.description>একটি অস্বাভাবিক স্থানীয় ঝড় একটি ছোট এলাকাকে বার বার বজ্রাঘাতের মাধ্যমে আঘাত করছে।</Flashstorm.description>
+  <!-- EN: The flashstorm is over. -->
+  <Flashstorm.endMessage>ফ্ল্যাশস্টর্ম শেষ হয়েছে।</Flashstorm.endMessage>
+  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <Flashstorm.letterText>একটি অস্বাভাবিক স্থানীয় বজ্রঝড় ছোট একটি এলাকাকে আঘাত করছে। এটি বিশাল অগ্নিকাণ্ডের কারণ হতে পারে।</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>তাপপ্রবাহ</HeatWave.label>
+  <!-- EN: An extreme wave of heat is baking the area. -->
+  <HeatWave.description>এলাকাটি তীব্র তাপপ্রবাহে পুড়ছে।</HeatWave.description>
+  <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
+  <HeatWave.descriptionFuture>একটি তাপপ্রবাহ [মানচিত্র_নির্দিষ্ট] এর आसपासের এলাকাকে [গেম_শর্ত_সময়কাল_সময়কাল] ধরে উত্তপ্ত করবে, শস্যের ক্ষতি করবে এবং শীতলবিহীন অঞ্চলে মানুষ বা পশু মারাও যেতে পারে।</HeatWave.descriptionFuture>
+  <!-- EN: The heat wave is over. -->
+  <HeatWave.endMessage>তাপপ্রবাহ শেষ হয়েছে।</HeatWave.endMessage>
+  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
+  <HeatWave.letterText>একটি অস্বাভাবিক তাপপ্রবাহ শুরু হয়েছে।\n\nতাপপ্রবাহ মারাত্মক হিটস্ট্রোক সৃষ্টি করতে পারে। শীতল থাকতে হয় একটি প্যাসিভ বা ইলেকট্রিক কুলার তৈরি করুন, অথবা মাটির গভীরে যান যেখানে পাথর প্রাকৃতিকভাবে ঠান্ডা থাকে।</HeatWave.letterText>
+  
+  <!-- EN: planetkiller -->
+  <Planetkiller.label>গ্রহ-ঘাতক</Planetkiller.label>
+  <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
+  <Planetkiller.description>একটি আন্তঃনাক্ষত্রিক গ্রহ-ধ্বংসকারী অস্ত্র এই গ্রহের দিকে এগিয়ে আসছে। এটি একটি রাইফেলের বুলেট ডিমের উপর পড়লে যেমন চূর্ণ করে দেয়, তেমনই গ্রহটিকে চূর্ণ-বিচূর্ণ করে ফেলবে এবং সমস্ত জীবন ধ্বংস করে দেবে।</Planetkiller.description>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>সাইকিক ড্রোন</PsychicDrone.label>
+  <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
+  <PsychicDrone.description>একটি দূরবর্তী আর্কোটেক কক্ষপথে একটি অ্যামপ্লিফায়ারের মাধ্যমে মানসিক সংকেত নির্গত করছে, যা মানুষকে উন্মত্ততার দিকে ঠেলে দিচ্ছে।</PsychicDrone.description>
+  <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
+  <PsychicDrone.descriptionFuture>একজন [psychicDroneLevel] সাইকিক ড্রোন [map_definite]-এর আশেপাশে [gameConditionDuration_duration]-এর জন্য গুঞ্জন করবে, যা [psychicDroneGender] লিঙ্গের সকল মানুষকে উন্মত্ততার দিকে ঠেলে দেবে।</PsychicDrone.descriptionFuture>
+  <!-- EN: The psychic drone is ending. -->
+  <PsychicDrone.endMessage>সাইকিক ড্রোন শেষ হচ্ছে।</PsychicDrone.endMessage>
+  <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
+  <PsychicDrone.letterText>প্রত্যেক {0} উপনিবেশকারী উদ্বেগ ও ক্রোধের ঢেউ অনুভব করছে!\n\nদূরবর্তী বিদ্বেষের কোনো ইঞ্জিন নাড়াচাড়া করছে। এটি একটি কক্ষীয় বিবর্ধকের মাধ্যমে এই স্থানে একটি মানসিক ড্রোন প্রেরণ করছে, যা শুধুমাত্র {0}দের প্রভাবিত করবে। কয়েক দিনের জন্য, কিছু মানুষের মেজাজ বেশ খারাপ থাকবে।\n\nড্রোন স্তরটি হল {1}।</PsychicDrone.letterText>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>মানসিক প্রশমন</PsychicSoothe.label>
+  <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
+  <PsychicSoothe.description>একটি দূরবর্তী আর্কোটেক কক্ষপথে একটি অ্যামপ্লিফায়ারের মাধ্যমে মানসিক সংকেত নির্গত করছে, যা মানুষের মনকে শান্ত করছে এবং স্থিতিশীল করছে।</PsychicSoothe.description>
+  <!-- EN: The psychic soothe is ending. -->
+  <PsychicSoothe.endMessage>সাইকিক প্রশমন শেষ হচ্ছে।</PsychicSoothe.endMessage>
+  <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
+  <PsychicSoothe.letterText>প্রত্যেক {0} উপনিবেশক সন্তুষ্টির সাথে হাসছে!\n\nদূরের সুখের কোনো ইঞ্জিন নড়াচড়া করছে। এটি একটি কক্ষীয় বিবর্ধকের মাধ্যমে এই স্থানে একটি মানসিক ড্রোন প্রেরণ করছে, যা শুধুমাত্র {0}দের প্রভাবিত করবে। কয়েক দিনের জন্য, কিছু মানুষের মেজাজ বেশ ভালো থাকবে।</PsychicSoothe.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>সৌর শিখা</SolarFlare.label>
+  <!-- EN: A solar flare is blasting the planet. The electromagnetic interference will prevent most electrical devices from working. -->
+  <SolarFlare.description>সূর্য থেকে নির্গত সৌর শিখা গ্রহটিকে আঘাত করছে। এই তড়িৎচুম্বকীয় ব্যাহত হওয়ার কারণে অধিকাংশ বৈদ্যুতিক যন্ত্রাংশ কাজ করা থেকে বিরত থাকবে।</SolarFlare.description>
+  <!-- EN: The solar flare is ending. -->
+  <SolarFlare.endMessage>সৌর শিখা সমাপ্ত হচ্ছে।</SolarFlare.endMessage>
+  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
+  <SolarFlare.letterText>একটি সৌর শিখা শুরু হয়েছে।\n\nতীব্র বিকিরণ সমস্ত বৈদ্যুতিক ডিভাইস বন্ধ করে দেবে।\n\nএটি প্রায় এক দিনে চলে যাবে।</SolarFlare.letterText>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>বিষাক্ত পতন</ToxicFallout.label>
+  <!-- EN: A plume of toxic dust is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <ToxicFallout.description>এই অঞ্চলের উপরে ধীরে ধীরে বিষাক্ত ধুলোর মেঘ জমছে। ছাদের নিচে না থাকলে যেকোনো জীব ধীরে ধীরে বিষাক্ত হবে, এবং বাইরে ফেলে রাখা জিনিসপত্র ক্ষয়প্রাপ্ত হবে।</ToxicFallout.description>
+  <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
+  <ToxicFallout.descriptionFuture>একটি বিষাক্ত তেজস্ক্রিয় ধোঁয়া [মানচিত্রের নির্দিষ্ট স্থান]-এর আশেপাশে [গেম কন্ডিশন ডিউরেশন_সময়কাল] ধরে ছড়িয়ে পড়বে, যা বাইরের উদ্ভিদ ও প্রাণীর জীবন কেড়ে নেবে।</ToxicFallout.descriptionFuture>
+  <!-- EN: The worst of the toxic fallout has settled. -->
+  <ToxicFallout.endMessage>বিষাক্ত দূষণের চরম প্রভাব প্রশমিত হয়েছে।</ToxicFallout.endMessage>
+  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to nearly a quadrum. -->
+  <ToxicFallout.letterText>দূরের একটি রাসায়নিক অগ্নিকাণ্ডে এই অঞ্চলের উপরে বিষাক্ত ধোঁয়া নির্গত হয়েছে।\n\nছাদের নিচে না থাকলে যে কোনো ব্যক্তি বা প্রাণী ধীরে ধীরে বিষাক্ত ধূলিকণা দ্বারা অসুস্থ হয়ে পড়বে যা বায়ুমণ্ডল থেকে নিচে পড়ছে।\n\nএটি কয়েক দিন থেকে প্রায় এক চতুর্থাংশ বছর পর্যন্ত স্থায়ী হতে পারে।</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>আগ্নেয় শীতকাল</VolcanicWinter.label>
+  <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
+  <VolcanicWinter.description>দূরের কোনো আগ্নেয়গিরি বা অগ্নিকাণ্ড বায়ুমণ্ডলে ছাইয়ের কারণে শ্বাসরুদ্ধকর পরিস্থিতি তৈরি করেছে, যা ভূপৃষ্ঠে পৌঁছানো আলোর পরিমাণ উল্লেখযোগ্যভাবে কমিয়ে দিয়েছে। তাপমাত্রা হ্রাস পাবে এবং উদ্ভিদের বৃদ্ধি ধীর হয়ে যাবে।</VolcanicWinter.description>
+  <!-- EN: a layer of ash will be deposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
+  <VolcanicWinter.descriptionFuture>উপরের বায়ুমণ্ডলে ছাইয়ের একটি স্তর জমা হবে, যা [map_definite]-এ সূর্যের আলো কমিয়ে দেবে [gameConditionDuration_duration]-এর জন্য, স্থানীয় বাস্তুতন্ত্রের মারাত্মক ক্ষতি করবে।</VolcanicWinter.descriptionFuture>
+  <!-- EN: Most of the ash has settled. -->
+  <VolcanicWinter.endMessage>বেশিরভাগ ছাই осе গেছে।</VolcanicWinter.endMessage>
+  <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
+  <VolcanicWinter.letterText>দূরের কোনো আগ্নেয়গিরি বা অগ্নুৎপাত বায়ুমণ্ডলে প্রচুর পরিমাণে ছাই উগরে দিতে শুরু করেছে।\n\nবায়ুমণ্ডলে ছাই সূর্যের আলো ঢেকে দেবে। তাপমাত্রা কমবে এবং সূর্যের আলো অভাবে গাছপালা ক্ষতিগ্রস্ত হবে। এটি কয়েক সপ্তাহের মধ্যে চলে যেতে পারে, অথবা অনেক চতুর্থাংশ বছর পর্যন্ত স্থায়ী হতে পারে।</VolcanicWinter.letterText>
+  
+</LanguageData>

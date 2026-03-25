@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gave gift -->
+  <GaveGift.label>উপহার দেওয়া</GaveGift.label>
+  
+  <!-- EN: peace talks backfired -->
+  <PeaceTalksBackfire.label>শান্তি আলোচনা ব্যর্থ হয়েছে</PeaceTalksBackfire.label>
+  
+  <!-- EN: peace talks disaster -->
+  <PeaceTalksDisaster.label>শান্তি আলোচনা বিপর্যয়</PeaceTalksDisaster.label>
+  
+  <!-- EN: peace talks success -->
+  <PeaceTalksSuccess.label>শান্তি আলোচনা সাফল্য</PeaceTalksSuccess.label>
+  
+  <!-- EN: peace talks triumph -->
+  <PeaceTalksTriumph.label>শান্তি আলোচনা জয়</PeaceTalksTriumph.label>
+  
+  <!-- EN: requested military aid -->
+  <RequestedMilitaryAid.label>সামরিক সাহায্য চাওয়া হয়েছে</RequestedMilitaryAid.label>
+  
+  <!-- EN: requested orbital trader -->
+  <RequestedOrbitalTrader.label>চাহিদাযুক্ত কক্ষপথের বণিক</RequestedOrbitalTrader.label>
+  
+  <!-- EN: requested trader -->
+  <RequestedTrader.label>অনুরোধিত বণিক</RequestedTrader.label>
+  
+  <!-- EN: traded -->
+  <Traded.label>বিনিময় করা হয়েছে</Traded.label>
+  
+</LanguageData>

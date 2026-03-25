@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ship part (defoliator) -->
+  <DefoliatorShipPart.label>জাহাজ অংশ (পাতাঝরাকারী)</DefoliatorShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
+  <DefoliatorShipPart.description>একটি প্রাচীন জাহাজের অংশ, যা অজানা উৎস থেকে ছিটকে এসেছে। এটি হাজার হাজার বছর পুরোনোও হতে পারে।\n\nএটিতে একটি যন্ত্র রয়েছে যা কাছাকাছি উদ্ভিদ জীবনকে ধ্বংস করে দেয়, তবে মাংসাশী প্রাণীদের সরাসরি প্রভাবিত করে না। এই ধরনের অস্ত্রগুলো মাঝে মাঝে কৃষিজমি বা বনভূমিতে ছড়িয়ে ছিটিয়ে থাকতে দেখা যায়, যাতে শত্রুর খাদ্য সরবরাহ এবং লুকানোর জায়গাগুলো সরিয়ে দেওয়া যায়, কিন্তু এলাকাটিকে স্থায়ীভাবে নষ্ট না করা হয়। এগুলো সাধারণত কক্ষপথে থেকে আসা মেকানোইড সৈন্যদের সাথে সম্পর্কিত।</DefoliatorShipPart.description>
+  
+  <!-- EN: ship part (psychic droner) -->
+  <PsychicDronerShipPart.label>জাহাজ অংশ (মানসিক ড্রোন)</PsychicDronerShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
+  <PsychicDronerShipPart.description>এটি একটি প্রাচীন জাহাজের অংশ, যা অজানা উৎস থেকে বিচ্ছিন্ন হয়ে পড়েছে। এটি হাজার হাজার বছর পুরোনোও হতে পারে।\n\nএই অংশে একটি মানসিক disturbance ডিভাইস রয়েছে। বোধগম্য নয় এমন archotechnologies ব্যবহার করে, এটি একটি মানসিক সংকেত তৈরি করে যা এর চারপাশের বিস্তৃত এলাকায় মানুষ ও পশুদের পাগল করে দেয়।</PsychicDronerShipPart.description>
+  
+  <!-- EN: ship chunk -->
+  <ShipChunk.label>জাহাজ খণ্ড</ShipChunk.label>
+  <!-- EN: A chunk of a spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
+  <ShipChunk.description>এটি একটি মহাকাশযানের অংশ। দেখে মনে হচ্ছে এটি হয় নিয়ন্ত্রণহীনভাবে পুনরায় প্রবেশের ফলে অথবা কোনো অস্ত্রের দ্বারা ছিন্ন হয়ে গেছে।\n\nকিছুক্ষণ আগে অবতরণ করার কারণে, এর মধ্যে এখনও ব্যবহারযোগ্য সম্পদ রয়েছে যা আপনি এটিকে ভেঙে নিয়ে পেতে পারেন।</ShipChunk.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <ShipChunk.comps.CompInspectString.inspectString>মূল্যবান সম্পদের জন্য ভেঙে ফেলুন।</ShipChunk.comps.CompInspectString.inspectString>
+  
+  <!-- EN: imperial shuttle -->
+  <Shuttle.label>ইম্পেরিয়াল শাটল</Shuttle.label>
+  <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources. -->
+  <Shuttle.description>মহাকাশ যুগ প্রযুক্তির ইউরেনিয়াম-চালিত শাটলটি গ্রহের পৃষ্ঠ এবং কক্ষপথের মধ্যে, অথবা কোনো গ্রহের চাঁদগুলোর মধ্যে যাতায়াতের জন্য নকশা করা হয়েছে। অননুমোদিত ব্যবহার রোধ করতে, শাটলটি পাইলটের বায়ো-স্বাক্ষরের সাথে লক করা থাকে। শাটলটি ধ্বংস করলে একটি শাটল ইঞ্জিন এবং অন্যান্য মূল্যবান সম্পদ পাওয়া যাবে।</Shuttle.description>
+  
+  <!-- EN: crashed shuttle -->
+  <ShuttleCrashed.label>ক্র্যাশড শাটল</ShuttleCrashed.label>
+  <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources. -->
+  <ShuttleCrashed.description>মহাকাশ যুগ প্রযুক্তির ইউরেনিয়াম-চালিত শাটলটি গ্রহের পৃষ্ঠ এবং কক্ষপথের মধ্যে অথবা কোনো গ্রহাণু ব্যবস্থার চাঁদগুলোর মধ্যে যাতায়াতের জন্য নকশা করা হয়েছে। অননুমোদিত ব্যবহার রোধ করতে, শাটলটি পাইলটের বায়ো-স্বাক্ষরের সাথে লক করা থাকে। শাটলটি ধ্বংস করলে একটি শাটল ইঞ্জিন এবং অন্যান্য মূল্যবান সম্পদ পাওয়া যাবে।</ShuttleCrashed.description>
+  
+</LanguageData>

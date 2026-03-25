@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administrar ambrosía -->
+  <Administer_Ambrosia.label>অ্যামব্রোসিয়া প্রশাসন</Administer_Ambrosia.label>
+  <!-- EN: Administrando ambrosía. -->
+  <Administer_Ambrosia.jobString>অ্যামব্রোসিয়া পরিচালনা করা হচ্ছে।</Administer_Ambrosia.jobString>
+  
+  <!-- EN: administrar cerveza -->
+  <Administer_Beer.label>সার্ভেসিয়া প্রশাসন</Administer_Beer.label>
+  <!-- EN: Administrando cerveza. -->
+  <Administer_Beer.jobString>বিয়ার পরিবেশন করা হচ্ছে।</Administer_Beer.jobString>
+  
+  <!-- EN: administrar escamas -->
+  <Administer_Flake.label>প্রশাসনিক আঁশ</Administer_Flake.label>
+  <!-- EN: Administrando escamas. -->
+  <Administer_Flake.jobString>খামScales প্রস্তুত করা হচ্ছে।</Administer_Flake.jobString>
+  
+  <!-- EN: administrar neurozumo -->
+  <Administer_GoJuice.label>অ্যাডমিনিস্ট্রার নিউরোজুমো</Administer_GoJuice.label>
+  <!-- EN: Administrando neurozumo. -->
+  <Administer_GoJuice.jobString>নিউরোজুমো পরিচালনা করা হচ্ছে।</Administer_GoJuice.jobString>
+  
+  <!-- EN: administrar luciferio -->
+  <Administer_Luciferium.label>অ্যাডমিনিস্ট্রার লুসিফেরিও</Administer_Luciferium.label>
+  <!-- EN: Administrando luciferio. -->
+  <Administer_Luciferium.jobString>লুসিফেরিও পরিচালনা করা হচ্ছে।</Administer_Luciferium.jobString>
+  
+  <!-- EN: administrar penoxicilina -->
+  <Administer_Penoxycyline.label>পেনক্সিসিলিন পরিচালনা</Administer_Penoxycyline.label>
+  <!-- EN: Administrando penoxicilina. -->
+  <Administer_Penoxycyline.jobString>পেনক্সিসিলিন পরিচালনা করা হচ্ছে।</Administer_Penoxycyline.jobString>
+  
+  <!-- EN: administrar té psicoide -->
+  <Administer_PsychiteTea.label>সাইকোয়েড চা প্রশাসন</Administer_PsychiteTea.label>
+  <!-- EN: Administrando té psicoide. -->
+  <Administer_PsychiteTea.jobString>সাইকোয়েড চা পরিচালনা করা হচ্ছে।</Administer_PsychiteTea.jobString>
+  
+  <!-- EN: administrar canuto de hojahumeante -->
+  <Administer_SmokeleafJoint.label>অ্যাডমিনিস্ট্রেটর কানুটো দে হোজাহুমিয়েন্তে</Administer_SmokeleafJoint.label>
+  <!-- EN: Administrando canuto de hojahumeante. -->
+  <Administer_SmokeleafJoint.jobString>হোজাহুমেন্টের ক্যানুলা পরিচালনা করা হচ্ছে।</Administer_SmokeleafJoint.jobString>
+  
+  <!-- EN: administrar despertar -->
+  <Administer_WakeUp.label>প্রশাসক জাগরণ</Administer_WakeUp.label>
+  <!-- EN: Administrando despertar. -->
+  <Administer_WakeUp.jobString>জাগ্রত করা হচ্ছে।</Administer_WakeUp.jobString>
+  
+  <!-- EN: administrar yayo -->
+  <Administer_Yayo.label>ইয়ায়ো প্রশাসন</Administer_Yayo.label>
+  <!-- EN: Administrando yayo. -->
+  <Administer_Yayo.jobString>ইয়ায়ো পরিচালনা করা হচ্ছে।</Administer_Yayo.jobString>
+  
+  <!-- EN: fabricar casco avanzado -->
+  <Make_Apparel_AdvancedHelmet.label>উন্নত হেলমেট তৈরি</Make_Apparel_AdvancedHelmet.label>
+  <!-- EN: Fabrica un casco avanzado. -->
+  <Make_Apparel_AdvancedHelmet.description>একটি উন্নত হেলমেট তৈরি করুন।</Make_Apparel_AdvancedHelmet.description>
+  <!-- EN: Fabricando casco avanzado. -->
+  <Make_Apparel_AdvancedHelmet.jobString>উন্নত হেলমেট তৈরি করা হচ্ছে।</Make_Apparel_AdvancedHelmet.jobString>
+  
+  <!-- EN: fabricar camiseta -->
+  <Make_Apparel_BasicShirt.label>কাপড় তৈরি</Make_Apparel_BasicShirt.label>
+  <!-- EN: Fabrica una camiseta. -->
+  <Make_Apparel_BasicShirt.description>.\nএকটি টি-শার্ট তৈরি করুন।</Make_Apparel_BasicShirt.description>
+  <!-- EN: Fabricando camiseta. -->
+  <Make_Apparel_BasicShirt.jobString>টিশার্ট তৈরি করা হচ্ছে।</Make_Apparel_BasicShirt.jobString>
+  
+  <!-- EN: fabricar bombín -->
+  <Make_Apparel_BowlerHat.label>কাপড় সেলাই</Make_Apparel_BowlerHat.label>
+  <!-- EN: Fabrica un bombín. -->
+  <Make_Apparel_BowlerHat.description>একটি বোম্বিন তৈরি করুন।</Make_Apparel_BowlerHat.description>
+  <!-- EN: Fabricando bombín. -->
+  <Make_Apparel_BowlerHat.jobString>বোম্বিন তৈরি করা হচ্ছে।</Make_Apparel_BowlerHat.jobString>
+  
+  <!-- EN: fabricar capa -->
+  <Make_Apparel_Cape.label>কাপড় তৈরি</Make_Apparel_Cape.label>
+  <!-- EN: Fabrica una capa. -->
+  <Make_Apparel_Cape.description>একটি কেপ তৈরি করুন।</Make_Apparel_Cape.description>
+  <!-- EN: Fabricando capa. -->
+  <Make_Apparel_Cape.jobString>কাপড় তৈরি করা হচ্ছে।</Make_Apparel_Cape.jobString>
+  
+  <!-- EN: fabricar camisa -->
+  <Make_Apparel_CollarShirt.label>কাপড় সেলাই</Make_Apparel_CollarShirt.label>
+  <!-- EN: Fabrica una camisa. -->
+  <Make_Apparel_CollarShirt.description>একটি শার্ট তৈরি করো।</Make_Apparel_CollarShirt.description>
+  <!-- EN: Fabricando camisa. -->
+  <Make_Apparel_CollarShirt.jobString>কামিছ তৈরি করা হচ্ছে।</Make_Apparel_CollarShirt.jobString>
+  
+  <!-- EN: fabricar sombrero de vaquero -->
+  <Make_Apparel_CowboyHat.label>কাউবয় টুপি তৈরি</Make_Apparel_CowboyHat.label>
+  <!-- EN: Fabrica un sombrero de vaquero. -->
+  <Make_Apparel_CowboyHat.description>.\nএকটি কাউবয় টুপি তৈরি করুন।</Make_Apparel_CowboyHat.description>
+  <!-- EN: Fabricando sombrero de vaquero. -->
+  <Make_Apparel_CowboyHat.jobString>কাউবয় টুপি তৈরি করা হচ্ছে।</Make_Apparel_CowboyHat.jobString>
+  
+  <!-- EN: fabricar gabardina -->
+  <Make_Apparel_Duster.label>গ্যাবার্ডিন তৈরি</Make_Apparel_Duster.label>
+  <!-- EN: Fabrica una gabardina. -->
+  <Make_Apparel_Duster.description>.\nএকটি ট্রেঞ্চ কোট তৈরি করুন।</Make_Apparel_Duster.description>
+  <!-- EN: Fabricando gabardina. -->
+  <Make_Apparel_Duster.jobString>গ্যাবার্ডিন তৈরি করা হচ্ছে।</Make_Apparel_Duster.jobString>
+  
+  <!-- EN: fabricar chaqueta antibalas -->
+  <Make_Apparel_FlakJacket.label>বুলেটপ্রুফ জ্যাকেট তৈরি</Make_Apparel_FlakJacket.label>
+  <!-- EN: Fabrica una chaqueta antibalas. -->
+  <Make_Apparel_FlakJacket.description>একটি বুলেটপ্রুফ জ্যাকেট তৈরি করুন।</Make_Apparel_FlakJacket.description>
+  <!-- EN: Fabricando chaqueta antibalas. -->
+  <Make_Apparel_FlakJacket.jobString>বুলেটপ্রুফ জ্যাকেট তৈরি করা হচ্ছে।</Make_Apparel_FlakJacket.jobString>
+  
+  <!-- EN: fabricar pantalón antibalas -->
+  <Make_Apparel_FlakPants.label>বুলেটপ্রুফ প্যান্ট তৈরি</Make_Apparel_FlakPants.label>
+  <!-- EN: Fabrica un pantalón antibalas. -->
+  <Make_Apparel_FlakPants.description>.\nগুলি প্রতিরোধী প্যান্ট তৈরি করুন।</Make_Apparel_FlakPants.description>
+  <!-- EN: Fabricando pantalón antibalas. -->
+  <Make_Apparel_FlakPants.jobString>বুলেটপ্রুফ প্যান্ট তৈরি করা হচ্ছে।</Make_Apparel_FlakPants.jobString>
+  
+  <!-- EN: fabricar chaleco antibalas -->
+  <Make_Apparel_FlakVest.label>বুলেটপ্রুফ ভেস্ট তৈরি</Make_Apparel_FlakVest.label>
+  <!-- EN: Fabrica un chaleco antibalas. -->
+  <Make_Apparel_FlakVest.description>.\nএকটি বুলেটপ্রুফ ভেস্ট তৈরি করুন।</Make_Apparel_FlakVest.description>
+  <!-- EN: Fabricando chaleco antibalas. -->
+  <Make_Apparel_FlakVest.jobString>বুলেটপ্রুফ ভেস্ট তৈরি করা হচ্ছে।</Make_Apparel_FlakVest.jobString>
+  
+  <!-- EN: fabricar capucha -->
+  <Make_Apparel_HatHood.label>হুড তৈরি</Make_Apparel_HatHood.label>
+  <!-- EN: Fabrica una capucha. -->
+  <Make_Apparel_HatHood.description>একটি হুড তৈরি করুন।</Make_Apparel_HatHood.description>
+  <!-- EN: Fabricando capucha. -->
+  <Make_Apparel_HatHood.jobString>হুড তৈরি করা হচ্ছে।</Make_Apparel_HatHood.jobString>
+  
+  <!-- EN: fabricar chaqueta -->
+  <Make_Apparel_Jacket.label>জ্যাকেট তৈরি</Make_Apparel_Jacket.label>
+  <!-- EN: Fabrica una chaqueta. -->
+  <Make_Apparel_Jacket.description>একটি জ্যাকেট তৈরি করুন।</Make_Apparel_Jacket.description>
+  <!-- EN: Fabricando chaqueta. -->
+  <Make_Apparel_Jacket.jobString>জ্যাকেট তৈরি করা হচ্ছে।</Make_Apparel_Jacket.jobString>
+  
+  <!-- EN: fabricar pantalón -->
+  <Make_Apparel_Pants.label>প্যান্ট তৈরি</Make_Apparel_Pants.label>
+  <!-- EN: Fabrica un pantalón. -->
+  <Make_Apparel_Pants.description>একটি প্যান্ট তৈরি করুন।</Make_Apparel_Pants.description>
+  <!-- EN: Fabricando pantalón. -->
+  <Make_Apparel_Pants.jobString>প্যান্ট তৈরি করা হচ্ছে।</Make_Apparel_Pants.jobString>
+  
+  <!-- EN: fabricar anorak -->
+  <Make_Apparel_Parka.label>anorak তৈরি</Make_Apparel_Parka.label>
+  <!-- EN: Fabrica un anorak. -->
+  <Make_Apparel_Parka.description>.\nএকটি অ্যানorak তৈরি করুন।</Make_Apparel_Parka.description>
+  <!-- EN: Fabricando anorak. -->
+  <Make_Apparel_Parka.jobString>anorak তৈরি করা হচ্ছে।</Make_Apparel_Parka.jobString>
+  
+  <!-- EN: fabricar armadura de placas -->
+  <Make_Apparel_PlateArmor.label>প্লেট আর্মার তৈরি</Make_Apparel_PlateArmor.label>
+  <!-- EN: Fabrica una armadura de placas. -->
+  <Make_Apparel_PlateArmor.description>: প্লেট আর্মার তৈরি করুন।</Make_Apparel_PlateArmor.description>
+  <!-- EN: Fabricando armadura de placas. -->
+  <Make_Apparel_PlateArmor.jobString>প্লেট আর্মার তৈরি করা হচ্ছে।</Make_Apparel_PlateArmor.jobString>
+  
+  <!-- EN: fabricar servoarmadura -->
+  <Make_Apparel_PowerArmor.label>সার্ভোআর্মর তৈরি</Make_Apparel_PowerArmor.label>
+  <!-- EN: Fabrica una servoarmadura. -->
+  <Make_Apparel_PowerArmor.description>.\nএকটি সার্ভোআর্মর তৈরি করুন।</Make_Apparel_PowerArmor.description>
+  <!-- EN: Fabricando servoarmadura. -->
+  <Make_Apparel_PowerArmor.jobString>সার্ভোআর্মর তৈরি করা হচ্ছে।</Make_Apparel_PowerArmor.jobString>
+  
+  <!-- EN: fabricar casco de servoarmadura -->
+  <Make_Apparel_PowerArmorHelmet.label>সার্ভোআর্মর হেলমেট তৈরি</Make_Apparel_PowerArmorHelmet.label>
+  <!-- EN: Fabrica un casco de servoarmadura. -->
+  <Make_Apparel_PowerArmorHelmet.description>.\nসার্ভোআর্মারের হেলমেট তৈরি করুন।</Make_Apparel_PowerArmorHelmet.description>
+  <!-- EN: Fabricando casco de servoarmadura. -->
+  <Make_Apparel_PowerArmorHelmet.jobString>সার্ভোআর্মর হেলমেট তৈরি করা হচ্ছে।</Make_Apparel_PowerArmorHelmet.jobString>
+  
+  <!-- EN: fabricar cinturón de protección -->
+  <Make_Apparel_ShieldBelt.label>সুরক্ষামূলক বেল্ট তৈরি</Make_Apparel_ShieldBelt.label>
+  <!-- EN: Fabrica un cinturón de protección. -->
+  <Make_Apparel_ShieldBelt.description>একটি সুরক্ষা বেল্ট তৈরি করুন।</Make_Apparel_ShieldBelt.description>
+  <!-- EN: Fabricando cinturón de protección. -->
+  <Make_Apparel_ShieldBelt.jobString>সুরক্ষামূলক বেল্ট তৈরি করা হচ্ছে।</Make_Apparel_ShieldBelt.jobString>
+  
+  <!-- EN: fabricar casco simple -->
+  <Make_Apparel_SimpleHelmet.label>সাধারণ হেলমেট তৈরি</Make_Apparel_SimpleHelmet.label>
+  <!-- EN: Fabrica un casco simple. -->
+  <Make_Apparel_SimpleHelmet.description>একটি সাধারণ হেলমেট তৈরি করুন।</Make_Apparel_SimpleHelmet.description>
+  <!-- EN: Fabricando casco simple. -->
+  <Make_Apparel_SimpleHelmet.jobString>সাধারণ হেলমেট তৈরি করা হচ্ছে।</Make_Apparel_SimpleHelmet.jobString>
+  
+  <!-- EN: fabricar cinturón de humo -->
+  <Make_Apparel_SmokepopBelt.label>ধোঁয়া বেল্ট তৈরি</Make_Apparel_SmokepopBelt.label>
+  <!-- EN: Fabrica un cinturón de humo. -->
+  <Make_Apparel_SmokepopBelt.description>ধোঁয়ার বেল্ট তৈরি করুন।</Make_Apparel_SmokepopBelt.description>
+  <!-- EN: Fabricando cinturón de humo. -->
+  <Make_Apparel_SmokepopBelt.jobString>ধোঁয়ার বেল্ট তৈরি করা হচ্ছে।</Make_Apparel_SmokepopBelt.jobString>
+  
+  <!-- EN: fabricar túnica tribal -->
+  <Make_Apparel_TribalA.label>উপজাতি tunic তৈরি</Make_Apparel_TribalA.label>
+  <!-- EN: Fabrica una túnica tribal. -->
+  <Make_Apparel_TribalA.description>একটি উপজাতীয় পোশাক তৈরি করুন।</Make_Apparel_TribalA.description>
+  <!-- EN: Fabricando túnica tribal. -->
+  <Make_Apparel_TribalA.jobString>উপজাতি পোশাক তৈরি করা হচ্ছে।</Make_Apparel_TribalA.jobString>
+  
+  <!-- EN: fabricar tocado tribal -->
+  <Make_Apparel_TribalHeaddress.label>উপজাতি শিরস্ত্রাণ তৈরি</Make_Apparel_TribalHeaddress.label>
+  <!-- EN: Fabrica un tocado tribal. -->
+  <Make_Apparel_TribalHeaddress.description>.\nএকটি উপজাতীয় শিরস্ত্রাণ তৈরি করুন।</Make_Apparel_TribalHeaddress.description>
+  <!-- EN: Fabricando tocado tribal. -->
+  <Make_Apparel_TribalHeaddress.jobString>উপজাতীয় শিরস্ত্রাণ তৈরি করা হচ্ছে।</Make_Apparel_TribalHeaddress.jobString>
+  
+  <!-- EN: fabricar gorro -->
+  <Make_Apparel_Tuque.label>স্কার্ফ তৈরি</Make_Apparel_Tuque.label>
+  <!-- EN: Fabrica un gorro. -->
+  <Make_Apparel_Tuque.description>একটি টুপি তৈরি করুন।</Make_Apparel_Tuque.description>
+  <!-- EN: Fabricando gorro. -->
+  <Make_Apparel_Tuque.jobString>টুপি তৈরি করা হচ্ছে।</Make_Apparel_Tuque.jobString>
+  
+  <!-- EN: fabricar máscara de guerra -->
+  <Make_Apparel_WarMask.label>যুদ্ধ মুখোশ তৈরি</Make_Apparel_WarMask.label>
+  <!-- EN: Fabrica una máscara de guerra. -->
+  <Make_Apparel_WarMask.description>যুদ্ধ মুখোশ তৈরি করুন।</Make_Apparel_WarMask.description>
+  <!-- EN: Fabricando máscara de guerra. -->
+  <Make_Apparel_WarMask.jobString>যুদ্ধ মুখোশ তৈরি করা হচ্ছে।</Make_Apparel_WarMask.jobString>
+  
+  <!-- EN: fabricar velo de guerra -->
+  <Make_Apparel_WarVeil.label>যুদ্ধ বাইক তৈরি</Make_Apparel_WarVeil.label>
+  <!-- EN: Fabrica un velo de guerra. -->
+  <Make_Apparel_WarVeil.description>যুদ্ধ vélo তৈরি করুন।</Make_Apparel_WarVeil.description>
+  <!-- EN: Fabricando velo de guerra. -->
+  <Make_Apparel_WarVeil.jobString>যুদ্ধ ভেলা তৈরি করা হচ্ছে।</Make_Apparel_WarVeil.jobString>
+  
+  <!-- EN: fabricar brazo biónico -->
+  <Make_BionicArm.label>বায়োনিক বাহু তৈরি</Make_BionicArm.label>
+  <!-- EN: Fabrica un brazo biónico. -->
+  <Make_BionicArm.description>একটি বায়োনিক বাহু তৈরি করুন।</Make_BionicArm.description>
+  <!-- EN: Fabricando brazo biónico. -->
+  <Make_BionicArm.jobString>বায়োনিক বাহু তৈরি করা হচ্ছে।</Make_BionicArm.jobString>
+  
+  <!-- EN: fabricar oído biónico -->
+  <Make_BionicEar.label>বায়োনিক কান তৈরি</Make_BionicEar.label>
+  <!-- EN: Fabrica un oído biónico. -->
+  <Make_BionicEar.description>একটি বায়োনিক কান তৈরি করুন।</Make_BionicEar.description>
+  <!-- EN: Fabricando oído biónico. -->
+  <Make_BionicEar.jobString>বায়োনিক কান তৈরি করা হচ্ছে।</Make_BionicEar.jobString>
+  
+  <!-- EN: fabricar ojo biónico -->
+  <Make_BionicEye.label>বায়োনিক চোখ তৈরি</Make_BionicEye.label>
+  <!-- EN: Fabrica un ojo biónico. -->
+  <Make_BionicEye.description>একটি বায়োনিক চোখ তৈরি করুন।</Make_BionicEye.description>
+  <!-- EN: Fabricando ojo biónico. -->
+  <Make_BionicEye.jobString>বায়োনিক চোখ তৈরি করা হচ্ছে।</Make_BionicEye.jobString>
+  
+  <!-- EN: fabricar corazón biónico -->
+  <Make_BionicHeart.label>বায়োনিক হৃদপিণ্ড তৈরি</Make_BionicHeart.label>
+  <!-- EN: Fabrica un corazón biónico. -->
+  <Make_BionicHeart.description>একটি বায়োনিক হৃদয় তৈরি করুন।</Make_BionicHeart.description>
+  <!-- EN: Fabricando corazón biónico. -->
+  <Make_BionicHeart.jobString>বায়োনিক হৃদপিণ্ড তৈরি করা হচ্ছে।</Make_BionicHeart.jobString>
+  
+  <!-- EN: fabricar pierna biónica -->
+  <Make_BionicLeg.label>বায়োনিক পা তৈরি</Make_BionicLeg.label>
+  <!-- EN: Fabrica una pierna biónica. -->
+  <Make_BionicLeg.description>একটি বায়োনিক পা তৈরি করুন।</Make_BionicLeg.description>
+  <!-- EN: Fabricando pierna biónica. -->
+  <Make_BionicLeg.jobString>বায়োনিক পা তৈরি করা হচ্ছে।</Make_BionicLeg.jobString>
+  
+  <!-- EN: fabricar columna vertebral biónica -->
+  <Make_BionicSpine.label>বায়োনিক মেরুদণ্ড তৈরি</Make_BionicSpine.label>
+  <!-- EN: Fabrica una columna vertebral biónica. -->
+  <Make_BionicSpine.description>একটি বায়োনিক মেরুদণ্ড তৈরি করুন।</Make_BionicSpine.description>
+  <!-- EN: Fabricando columna vertebral biónica. -->
+  <Make_BionicSpine.jobString>বায়োনিক মেরুদণ্ড তৈরি করা হচ্ছে।</Make_BionicSpine.jobString>
+  
+  <!-- EN: fabricar estómago biónico -->
+  <Make_BionicStomach.label>বায়োনিক পাকস্থলী তৈরি</Make_BionicStomach.label>
+  <!-- EN: Fabrica un estómago biónico. -->
+  <Make_BionicStomach.description>একটি বায়োনিক পাকস্থলী তৈরি করুন।</Make_BionicStomach.description>
+  <!-- EN: Fabricando estómago biónico. -->
+  <Make_BionicStomach.jobString>বায়োনিক পাকস্থলী তৈরি করা হচ্ছে।</Make_BionicStomach.jobString>
+  
+  <!-- EN: fabricar arco grande -->
+  <Make_Bow_Great.label>বড় ধনুক তৈরি</Make_Bow_Great.label>
+  <!-- EN: Fabrica un arco grande. -->
+  <Make_Bow_Great.description>.\nএকটি বড় ধনুক তৈরি করুন।</Make_Bow_Great.description>
+  <!-- EN: Fabricando arco grande. -->
+  <Make_Bow_Great.jobString>বড় ধনুক তৈরি করা হচ্ছে।</Make_Bow_Great.jobString>
+  
+  <!-- EN: fabricar arco recurvo -->
+  <Make_Bow_Recurve.label>recurve bow তৈরি</Make_Bow_Recurve.label>
+  <!-- EN: Fabrica un arco recurvo. -->
+  <Make_Bow_Recurve.description>একটি recurve bow তৈরি করুন।</Make_Bow_Recurve.description>
+  <!-- EN: Fabricando arco recurvo. -->
+  <Make_Bow_Recurve.jobString>recurvo ধনুক তৈরি করা হচ্ছে।</Make_Bow_Recurve.jobString>
+  
+  <!-- EN: fabricar arco corto -->
+  <Make_Bow_Short.label>ছোট ধনুক তৈরি</Make_Bow_Short.label>
+  <!-- EN: Fabrica un arco corto. -->
+  <Make_Bow_Short.description>.\nএকটি ছোট ধনুক তৈরি করুন।</Make_Bow_Short.description>
+  <!-- EN: Fabricando arco corto. -->
+  <Make_Bow_Short.jobString>ছোট ধনুক তৈরি করা হচ্ছে।</Make_Bow_Short.jobString>
+  
+  <!-- EN: fabricar implante auditivo -->
+  <Make_CochlearImplant.label>শ্রবণ সহায়ক প্রতিস্থাপন</Make_CochlearImplant.label>
+  <!-- EN: Fabrica un implante auditivo. -->
+  <Make_CochlearImplant.description>একটি শ্রবণ সহায়ক ইমপ্লান্ট তৈরি করুন।</Make_CochlearImplant.description>
+  <!-- EN: Fabricando implante auditivo. -->
+  <Make_CochlearImplant.jobString>শ্রবণ সহায়ক তৈরি করা হচ্ছে।</Make_CochlearImplant.jobString>
+  
+  <!-- EN: fabricar escamas -->
+  <Make_Flake.label>স্কার্ফ তৈরি</Make_Flake.label>
+  <!-- EN: Fabrica un escamas. -->
+  <Make_Flake.description>.\nএকটি আঁশ তৈরি করে।</Make_Flake.description>
+  <!-- EN: Fabricando escamas. -->
+  <Make_Flake.jobString>ফেব্রিকেটিং স্কেলস।</Make_Flake.jobString>
+  
+  <!-- EN: fabricar neurozumo -->
+  <Make_GoJuice.label>নিউরোজুমো তৈরি</Make_GoJuice.label>
+  <!-- EN: Fabrica un neurozumo. -->
+  <Make_GoJuice.description>.\nএকটি নিউরোজুস তৈরি করুন।</Make_GoJuice.description>
+  <!-- EN: Fabricando neurozumo. -->
+  <Make_GoJuice.jobString>নিউরোজুস তৈরি করা হচ্ছে।</Make_GoJuice.jobString>
+  
+  <!-- EN: fabricar fusil de asalto -->
+  <Make_Gun_AssaultRifle.label>অস্ত্র তৈরি</Make_Gun_AssaultRifle.label>
+  <!-- EN: Fabrica un fusil de asalto. -->
+  <Make_Gun_AssaultRifle.description>.\nএকটি অ্যাসল্ট রাইফেল তৈরি করুন।</Make_Gun_AssaultRifle.description>
+  <!-- EN: Fabricando fusil de asalto. -->
+  <Make_Gun_AssaultRifle.jobString>অস্ত্র তৈরি করা হচ্ছে।</Make_Gun_AssaultRifle.jobString>
+  
+  <!-- EN: fabricar pistola automática -->
+  <Make_Gun_Autopistol.label>স্বয়ংক্রিয় পিস্তল তৈরি</Make_Gun_Autopistol.label>
+  <!-- EN: Fabrica una pistola automática. -->
+  <Make_Gun_Autopistol.description>একটি স্বয়ংক্রিয় পিস্তল তৈরি করুন।</Make_Gun_Autopistol.description>
+  <!-- EN: Fabricando pistola automática. -->
+  <Make_Gun_Autopistol.jobString>স্বয়ংক্রিয় পিস্তল তৈরি করা হচ্ছে।</Make_Gun_Autopistol.jobString>
+  
+  <!-- EN: fabricar fusil de cerrojo -->
+  <Make_Gun_BoltActionRifle.label>রিভলভার তৈরি</Make_Gun_BoltActionRifle.label>
+  <!-- EN: Fabrica un fusil de cerrojo. -->
+  <Make_Gun_BoltActionRifle.description>একটি বোল্ট-অ্যাকশন রাইফেল তৈরি করুন।</Make_Gun_BoltActionRifle.description>
+  <!-- EN: Fabricando fusil de cerrojo. -->
+  <Make_Gun_BoltActionRifle.jobString>রাইফেল তৈরি করা হচ্ছে।</Make_Gun_BoltActionRifle.jobString>
+  
+  <!-- EN: fabricar escopeta automática -->
+  <Make_Gun_ChainShotgun.label>স্বয়ংক্রিয় শটগান তৈরি</Make_Gun_ChainShotgun.label>
+  <!-- EN: Fabrica una escopeta automática. -->
+  <Make_Gun_ChainShotgun.description>.\nএকটি স্বয়ংক্রিয় শটগান তৈরি করুন।</Make_Gun_ChainShotgun.description>
+  <!-- EN: Fabricando escopeta automática. -->
+  <Make_Gun_ChainShotgun.jobString>স্বয়ংক্রিয় শটগান তৈরি করা হচ্ছে।</Make_Gun_ChainShotgun.jobString>
+  
+  <!-- EN: fabricar lanza de cargas -->
+  <Make_Gun_ChargeLance.label>চার্জযুক্ত বর্শা তৈরি</Make_Gun_ChargeLance.label>
+  <!-- EN: Fabrica una lanza de cargas. -->
+  <Make_Gun_ChargeLance.description>.\nচার্জযুক্ত বর্শা তৈরি করুন।</Make_Gun_ChargeLance.description>
+  <!-- EN: Fabricando lanza de cargas. -->
+  <Make_Gun_ChargeLance.jobString>চার্জযুক্ত বর্শা তৈরি করা হচ্ছে।</Make_Gun_ChargeLance.jobString>
+  
+  <!-- EN: fabricar fusil de cargas -->
+  <Make_Gun_ChargeRifle.label>চার্জ বন্দুক তৈরি</Make_Gun_ChargeRifle.label>
+  <!-- EN: Fabrica un fusil de cargas. -->
+  <Make_Gun_ChargeRifle.description>চার্জ রাইফেল তৈরি করুন।</Make_Gun_ChargeRifle.description>
+  <!-- EN: Fabricando fusil de cargas. -->
+  <Make_Gun_ChargeRifle.jobString>চার্জ রাইফেল তৈরি করা হচ্ছে।</Make_Gun_ChargeRifle.jobString>
+  
+  <!-- EN: fabricar subfusil pesado -->
+  <Make_Gun_HeavySMG.label>ভারী সাবফুসিল তৈরি</Make_Gun_HeavySMG.label>
+  <!-- EN: Fabrica un subfusil pesado. -->
+  <Make_Gun_HeavySMG.description>.\nভারী সাবমেশিনগান তৈরি করুন।</Make_Gun_HeavySMG.description>
+  <!-- EN: Fabricando subfusil pesado. -->
+  <Make_Gun_HeavySMG.jobString>ভারী সাবফুসিল তৈরি করা হচ্ছে।</Make_Gun_HeavySMG.jobString>
+  
+  <!-- EN: fabricar lanzagranadas incendiario T-9 -->
+  <Make_Gun_IncendiaryLauncher.label>টি-৯ অগ্নি গ্রেনেড নিক্ষেপক তৈরি</Make_Gun_IncendiaryLauncher.label>
+  <!-- EN: Fabrica un lanzagranadas incendiario T-9. -->
+  <Make_Gun_IncendiaryLauncher.description>টি-৯ আগ্নেয়াগ্রেনেড উৎক্ষেপক তৈরি করুন।</Make_Gun_IncendiaryLauncher.description>
+  <!-- EN: Fabricando lanzagranadas incendiario T-9. -->
+  <Make_Gun_IncendiaryLauncher.jobString>টি-৯ অগ্নি গ্রেনেড নিক্ষেপক তৈরি করা হচ্ছে।</Make_Gun_IncendiaryLauncher.jobString>
+  
+  <!-- EN: fabricar ametralladora ligera L-15 -->
+  <Make_Gun_LMG.label>লাইট মেশিনগান এল-১৫ তৈরি</Make_Gun_LMG.label>
+  <!-- EN: Fabrica una ametralladora ligera L-15. -->
+  <Make_Gun_LMG.description>.\nলাইট মেশিনগান এল-১৫ তৈরি করুন।</Make_Gun_LMG.description>
+  <!-- EN: Fabricando ametralladora ligera L-15. -->
+  <Make_Gun_LMG.jobString>লাইট মেশিনগান এল-১৫ তৈরি করা হচ্ছে।</Make_Gun_LMG.jobString>
+  
+  <!-- EN: fabricar subfusil compacto -->
+  <Make_Gun_MachinePistol.label>কম্প্যাক্ট সাবফুসিল তৈরি</Make_Gun_MachinePistol.label>
+  <!-- EN: Fabrica un subfusil compacto. -->
+  <Make_Gun_MachinePistol.description>.\nএকটি কমপ্যাক্ট সাবমেশিনগান তৈরি করুন।</Make_Gun_MachinePistol.description>
+  <!-- EN: Fabricando subfusil compacto. -->
+  <Make_Gun_MachinePistol.jobString>কম্প্যাক্ট সাবফুসিল তৈরি করা হচ্ছে।</Make_Gun_MachinePistol.jobString>
+  
+  <!-- EN: fabricar minigun -->
+  <Make_Gun_Minigun.label>মিনিগান তৈরি</Make_Gun_Minigun.label>
+  <!-- EN: Fabrica una minigun. -->
+  <Make_Gun_Minigun.description>.\nএকটি মিনিগান তৈরি করো।</Make_Gun_Minigun.description>
+  <!-- EN: Fabricando minigun. -->
+  <Make_Gun_Minigun.jobString>মিনিগান তৈরি করা হচ্ছে।</Make_Gun_Minigun.jobString>
+  
+  <!-- EN: fabricar escopeta -->
+  <Make_Gun_PumpShotgun.label>শটগান তৈরি</Make_Gun_PumpShotgun.label>
+  <!-- EN: Fabrica una escopeta. -->
+  <Make_Gun_PumpShotgun.description>একটি শটগান তৈরি করুন।</Make_Gun_PumpShotgun.description>
+  <!-- EN: Fabricando escopeta. -->
+  <Make_Gun_PumpShotgun.jobString>শটগান তৈরি করা হচ্ছে।</Make_Gun_PumpShotgun.jobString>
+  
+  <!-- EN: fabricar revólver -->
+  <Make_Gun_Revolver.label>রিভলভার তৈরি</Make_Gun_Revolver.label>
+  <!-- EN: Fabrica un revólver. -->
+  <Make_Gun_Revolver.description>একটি রিভলভার তৈরি করুন।</Make_Gun_Revolver.description>
+  <!-- EN: Fabricando revólver. -->
+  <Make_Gun_Revolver.jobString>রিভলভার তৈরি করা হচ্ছে।</Make_Gun_Revolver.jobString>
+  
+  <!-- EN: fabricar fusil de francotirador -->
+  <Make_Gun_SniperRifle.label>স্নাইপার রাইফেল তৈরি</Make_Gun_SniperRifle.label>
+  <!-- EN: Fabrica un fusil de francotirador. -->
+  <Make_Gun_SniperRifle.description>একটি স্নাইপার রাইফেল তৈরি করুন।</Make_Gun_SniperRifle.description>
+  <!-- EN: Fabricando fusil de francotirador. -->
+  <Make_Gun_SniperRifle.jobString>স্নাইপার রাইফেল তৈরি করা হচ্ছে।</Make_Gun_SniperRifle.jobString>
+  
+  <!-- EN: fabricar medicina -->
+  <Make_MedicineIndustrial.label>ফার্মাসিউটিক্যালস তৈরি</Make_MedicineIndustrial.label>
+  <!-- EN: Fabrica una medicina. -->
+  <Make_MedicineIndustrial.description>.\nএকটি ঔষধ তৈরি করুন।</Make_MedicineIndustrial.description>
+  <!-- EN: Fabricando medicina. -->
+  <Make_MedicineIndustrial.jobString>ওষুধ তৈরি করা হচ্ছে।</Make_MedicineIndustrial.jobString>
+  
+  <!-- EN: fabricar hacha zapeadora -->
+  <Make_MeleeWeapon_BreachAxe.label>বিদ্যুৎ কুঠার তৈরি</Make_MeleeWeapon_BreachAxe.label>
+  <!-- EN: Fabrica un hacha zapeadora. -->
+  <Make_MeleeWeapon_BreachAxe.description>একটি জ্যাপিং কুঠার তৈরি করুন।</Make_MeleeWeapon_BreachAxe.description>
+  <!-- EN: Fabricando hacha zapeadora. -->
+  <Make_MeleeWeapon_BreachAxe.jobString>কুঠার তৈরি করা হচ্ছে।</Make_MeleeWeapon_BreachAxe.jobString>
+  
+  <!-- EN: fabricar porra -->
+  <Make_MeleeWeapon_Club.label>কাপড় তৈরি</Make_MeleeWeapon_Club.label>
+  <!-- EN: Fabrica una porra. -->
+  <Make_MeleeWeapon_Club.description>একটি বেত তৈরি করুন।</Make_MeleeWeapon_Club.description>
+  <!-- EN: Fabricando porra. -->
+  <Make_MeleeWeapon_Club.jobString>তৈরি করা হচ্ছে।</Make_MeleeWeapon_Club.jobString>
+  
+  <!-- EN: fabricar gladius -->
+  <Make_MeleeWeapon_Gladius.label>গ্লাডিয়াস তৈরি</Make_MeleeWeapon_Gladius.label>
+  <!-- EN: Fabrica un gladius. -->
+  <Make_MeleeWeapon_Gladius.description>.\nএকটি গ্লাডিয়াস তৈরি করুন।</Make_MeleeWeapon_Gladius.description>
+  <!-- EN: Fabricando gladius. -->
+  <Make_MeleeWeapon_Gladius.jobString>গ্লাডিয়াস তৈরি করা হচ্ছে।</Make_MeleeWeapon_Gladius.jobString>
+  
+  <!-- EN: fabricar ikwa -->
+  <Make_MeleeWeapon_Ikwa.label>ইকুয়া তৈরি</Make_MeleeWeapon_Ikwa.label>
+  <!-- EN: Fabrica un ikwa. -->
+  <Make_MeleeWeapon_Ikwa.description>একটি ইকুয়া তৈরি করুন।</Make_MeleeWeapon_Ikwa.description>
+  <!-- EN: Fabricando ikwa. -->
+  <Make_MeleeWeapon_Ikwa.jobString>কাপড় তৈরি করা হচ্ছে।</Make_MeleeWeapon_Ikwa.jobString>
+  
+  <!-- EN: fabricar cuchillo -->
+  <Make_MeleeWeapon_Knife.label>ছুরি তৈরি</Make_MeleeWeapon_Knife.label>
+  <!-- EN: Fabrica un cuchillo. -->
+  <Make_MeleeWeapon_Knife.description>একটি ছুরি তৈরি করুন।</Make_MeleeWeapon_Knife.description>
+  <!-- EN: Fabricando cuchillo. -->
+  <Make_MeleeWeapon_Knife.jobString>ছুরি তৈরি করা হচ্ছে।</Make_MeleeWeapon_Knife.jobString>
+  
+  <!-- EN: fabricar espada larga -->
+  <Make_MeleeWeapon_LongSword.label>দীর্ঘ তলোয়ার তৈরি</Make_MeleeWeapon_LongSword.label>
+  <!-- EN: Fabrica una espada larga. -->
+  <Make_MeleeWeapon_LongSword.description>একটি লম্বা তলোয়ার তৈরি করুন।</Make_MeleeWeapon_LongSword.description>
+  <!-- EN: Fabricando espada larga. -->
+  <Make_MeleeWeapon_LongSword.jobString>লম্বা তলোয়ার তৈরি করা হচ্ছে।</Make_MeleeWeapon_LongSword.jobString>
+  
+  <!-- EN: fabricar maza -->
+  <Make_MeleeWeapon_Mace.label>ফ্যাব্রিকার মাজা</Make_MeleeWeapon_Mace.label>
+  <!-- EN: Fabrica una maza. -->
+  <Make_MeleeWeapon_Mace.description>.\nএকটি ম্যালেট তৈরি করুন।</Make_MeleeWeapon_Mace.description>
+  <!-- EN: Fabricando maza. -->
+  <Make_MeleeWeapon_Mace.jobString>মাছা তৈরি করা হচ্ছে।</Make_MeleeWeapon_Mace.jobString>
+  
+  <!-- EN: fabricar lanza -->
+  <Make_MeleeWeapon_Spear.label>লান্সা তৈরি</Make_MeleeWeapon_Spear.label>
+  <!-- EN: Fabrica una lanza. -->
+  <Make_MeleeWeapon_Spear.description>.\nএকটি বর্শা তৈরি করুন।</Make_MeleeWeapon_Spear.description>
+  <!-- EN: Fabricando lanza. -->
+  <Make_MeleeWeapon_Spear.jobString>বর্শা তৈরি করা হচ্ছে।</Make_MeleeWeapon_Spear.jobString>
+  
+  <!-- EN: fabricar penoxicilina -->
+  <Make_Penoxycyline.label>পেনক্সিসিলিন তৈরি</Make_Penoxycyline.label>
+  <!-- EN: Fabrica una penoxicilina. -->
+  <Make_Penoxycyline.description>পেনক্সিসিলিন তৈরি করুন।</Make_Penoxycyline.description>
+  <!-- EN: Fabricando penoxicilina. -->
+  <Make_Penoxycyline.jobString>পেনক্সিসিলিন তৈরি করা হচ্ছে।</Make_Penoxycyline.jobString>
+  
+  <!-- EN: fabricar pila -->
+  <Make_Pila.label>তৈরি পিল</Make_Pila.label>
+  <!-- EN: Fabrica una pila. -->
+  <Make_Pila.description>একটি ব্যাটারি তৈরি করুন।</Make_Pila.description>
+  <!-- EN: Fabricando pila. -->
+  <Make_Pila.jobString>পিলা তৈরি করা হচ্ছে।</Make_Pila.jobString>
+  
+  <!-- EN: fabricar té psicoide -->
+  <Make_PsychiteTea.label>সাইকোয়েড তৈরি</Make_PsychiteTea.label>
+  <!-- EN: Fabrica un té psicoide. -->
+  <Make_PsychiteTea.description>সাইকোয়েড চা তৈরি করুন।</Make_PsychiteTea.description>
+  <!-- EN: Fabricando té psicoide. -->
+  <Make_PsychiteTea.jobString>সাইকোয়েড চা তৈরি করা হচ্ছে।</Make_PsychiteTea.jobString>
+  
+  <!-- EN: fabricar té psicoide x4 -->
+  <Make_PsychiteTeaBulk.label>সাইকোয়েড চা তৈরি</Make_PsychiteTeaBulk.label>
+  <!-- EN: Fabrica té psicoide x4. -->
+  <Make_PsychiteTeaBulk.description>সাইকোয়েড টি ফ্যাক্রিকা x৪।</Make_PsychiteTeaBulk.description>
+  <!-- EN: Fabricando té psicoide x4. -->
+  <Make_PsychiteTeaBulk.jobString>সাইকোয়েড চা তৈরি করা হচ্ছে x4।</Make_PsychiteTeaBulk.jobString>
+  
+  <!-- EN: fabricar escultura enorme -->
+  <Make_SculptureGrand.label>বিশাল ভাস্কর্য তৈরি</Make_SculptureGrand.label>
+  <!-- EN: Fabrica una escultura enorme. -->
+  <Make_SculptureGrand.description>.\nএকটি বিশাল ভাস্কর্য তৈরি করুন।</Make_SculptureGrand.description>
+  <!-- EN: Fabricando escultura enorme. -->
+  <Make_SculptureGrand.jobString>বিশাল ভাস্কর্য তৈরি করা হচ্ছে।</Make_SculptureGrand.jobString>
+  
+  <!-- EN: fabricar escultura grande -->
+  <Make_SculptureLarge.label>বৃহৎ ভাস্কর্য তৈরি</Make_SculptureLarge.label>
+  <!-- EN: Fabrica una escultura grande. -->
+  <Make_SculptureLarge.description>একটি বড় ভাস্কর্য তৈরি করুন।</Make_SculptureLarge.description>
+  <!-- EN: Fabricando escultura grande. -->
+  <Make_SculptureLarge.jobString>বড় ভাস্কর্য তৈরি করা হচ্ছে।</Make_SculptureLarge.jobString>
+  
+  <!-- EN: fabricar escultura pequeña -->
+  <Make_SculptureSmall.label>ছোট ভাস্কর্য তৈরি</Make_SculptureSmall.label>
+  <!-- EN: Fabrica una escultura pequeña. -->
+  <Make_SculptureSmall.description>একটি ছোট ভাস্কর্য তৈরি করুন।</Make_SculptureSmall.description>
+  <!-- EN: Fabricando escultura pequeña. -->
+  <Make_SculptureSmall.jobString>ছোট ভাস্কর্য তৈরি করা হচ্ছে।</Make_SculptureSmall.jobString>
+  
+  <!-- EN: fabricar proyectil PEM -->
+  <Make_Shell_EMP.label>PEM প্রজেক্টাইল তৈরি</Make_Shell_EMP.label>
+  <!-- EN: Fabrica un proyectil PEM. -->
+  <Make_Shell_EMP.description>.\nএকটি ইএমপি প্রজেক্টাইল তৈরি করুন।</Make_Shell_EMP.description>
+  <!-- EN: Fabricando proyectil PEM. -->
+  <Make_Shell_EMP.jobString>PEM প্রজেক্টাইল তৈরি করা হচ্ছে।</Make_Shell_EMP.jobString>
+  
+  <!-- EN: fabricar proyectil cortafuegos -->
+  <Make_Shell_Firefoam.label>অগ্নি-প্রতিরোধী প্রজেক্টাইল তৈরি</Make_Shell_Firefoam.label>
+  <!-- EN: Fabrica un proyectil cortafuegos. -->
+  <Make_Shell_Firefoam.description>.\nআগুন-প্রতিরোধী প্রজেক্টাইল তৈরি করুন।</Make_Shell_Firefoam.description>
+  <!-- EN: Fabricando proyectil cortafuegos. -->
+  <Make_Shell_Firefoam.jobString>অগ্নি-নিরোধক প্রজেক্টাইল তৈরি করা হচ্ছে।</Make_Shell_Firefoam.jobString>
+  
+  <!-- EN: fabricar proyectil altamente explosivo -->
+  <Make_Shell_HighExplosive.label>উচ্চ বিস্ফোরক প্রজেক্টাইল তৈরি</Make_Shell_HighExplosive.label>
+  <!-- EN: Fabrica un proyectil altamente explosivo. -->
+  <Make_Shell_HighExplosive.description>.\nএকটি অত্যন্ত বিস্ফোরক প্রজেক্টাইল তৈরি করুন।</Make_Shell_HighExplosive.description>
+  <!-- EN: Fabricando proyectil altamente explosivo. -->
+  <Make_Shell_HighExplosive.jobString>বিস্ফোরক প্রজেক্টাইল তৈরি করা হচ্ছে।</Make_Shell_HighExplosive.jobString>
+  
+  <!-- EN: fabricar proyectil incendiario -->
+  <Make_Shell_Incendiary.label>আগুন জ্বালানো প্রজেক্টাইল</Make_Shell_Incendiary.label>
+  <!-- EN: Fabrica un proyectil incendiario. -->
+  <Make_Shell_Incendiary.description>.\nআগুন লাগানোর জন্য একটি প্রজেক্টাইল তৈরি করুন।</Make_Shell_Incendiary.description>
+  <!-- EN: Fabricando proyectil incendiario. -->
+  <Make_Shell_Incendiary.jobString>আগ্নেয়াস্ত্র প্রজেক্টাইল তৈরি করা হচ্ছে।</Make_Shell_Incendiary.jobString>
+  
+  <!-- EN: fabricar brazo protésico -->
+  <Make_SimpleProstheticArm.label>প্রোস্থেটিক বাহু তৈরি</Make_SimpleProstheticArm.label>
+  <!-- EN: Fabrica un brazo protésico. -->
+  <Make_SimpleProstheticArm.description>.\nএকটি কৃত্রিম বাহু তৈরি করুন।</Make_SimpleProstheticArm.description>
+  <!-- EN: Fabricando brazo protésico. -->
+  <Make_SimpleProstheticArm.jobString>প্রোস্থেটিক বাহু তৈরি করা হচ্ছে।</Make_SimpleProstheticArm.jobString>
+  
+  <!-- EN: fabricar corazón protésico -->
+  <Make_SimpleProstheticHeart.label>কৃত্রিম হৃদপিণ্ড তৈরি</Make_SimpleProstheticHeart.label>
+  <!-- EN: Fabrica un corazón protésico. -->
+  <Make_SimpleProstheticHeart.description>.\nএকটি কৃত্রিম হৃদয় তৈরি করুন।</Make_SimpleProstheticHeart.description>
+  <!-- EN: Fabricando corazón protésico. -->
+  <Make_SimpleProstheticHeart.jobString>কৃত্রিম হৃদপিণ্ড তৈরি করা হচ্ছে।</Make_SimpleProstheticHeart.jobString>
+  
+  <!-- EN: fabricar pierna protésica -->
+  <Make_SimpleProstheticLeg.label>প্রোস্থেটিক পা তৈরি</Make_SimpleProstheticLeg.label>
+  <!-- EN: Fabrica una pierna protésica. -->
+  <Make_SimpleProstheticLeg.description>একটি কৃত্রিম পা তৈরি করুন।</Make_SimpleProstheticLeg.description>
+  <!-- EN: Fabricando pierna protésica. -->
+  <Make_SimpleProstheticLeg.jobString>প্রোস্থেটিক পা তৈরি করা হচ্ছে।</Make_SimpleProstheticLeg.jobString>
+  
+  <!-- EN: fabricar canuto de hojahumeante -->
+  <Make_SmokeleafJoint.label>হোজাহুমেন্ট সিগারেট তৈরি</Make_SmokeleafJoint.label>
+  <!-- EN: Fabrica un canuto de hojahumeante. -->
+  <Make_SmokeleafJoint.description>ধূমায়মান পাতার একটি সিগারেট তৈরি করুন।</Make_SmokeleafJoint.description>
+  <!-- EN: Fabricando canuto de hojahumeante. -->
+  <Make_SmokeleafJoint.jobString>হোজাহিউমেন্টিং ক্যানুলা তৈরি করা হচ্ছে।</Make_SmokeleafJoint.jobString>
+  
+  <!-- EN: fabricar despertar -->
+  <Make_WakeUp.label>তৈরি despertar</Make_WakeUp.label>
+  <!-- EN: Fabrica un despertar. -->
+  <Make_WakeUp.description>একটি জাগরণ তৈরি করো।</Make_WakeUp.description>
+  <!-- EN: Fabricando despertar. -->
+  <Make_WakeUp.jobString>জাগ্রতকরণ তৈরি করা হচ্ছে।</Make_WakeUp.jobString>
+  
+  <!-- EN: fabricar granadas PEM -->
+  <Make_Weapon_GrenadeEMP.label>PEM গ্রেনেড তৈরি</Make_Weapon_GrenadeEMP.label>
+  <!-- EN: Fabrica un granadas PEM. -->
+  <Make_Weapon_GrenadeEMP.description>.\nবৈদ্যুচ্চুম্বকীয় পালস গ্রেনেড তৈরি করে।</Make_Weapon_GrenadeEMP.description>
+  <!-- EN: Fabricando granadas PEM. -->
+  <Make_Weapon_GrenadeEMP.jobString>ইএমপি গ্রেনেড তৈরি করা হচ্ছে।</Make_Weapon_GrenadeEMP.jobString>
+  
+  <!-- EN: fabricar granadas de fragmentación -->
+  <Make_Weapon_GrenadeFrag.label>বিখণ্ডন গ্রেনেড তৈরি</Make_Weapon_GrenadeFrag.label>
+  <!-- EN: Fabrica un granadas de fragmentación. -->
+  <Make_Weapon_GrenadeFrag.description>বিস্ফোরক গ্রেনেড তৈরি করুন।</Make_Weapon_GrenadeFrag.description>
+  <!-- EN: Fabricando granadas de fragmentación. -->
+  <Make_Weapon_GrenadeFrag.jobString>খণ্ড গ্রেনেড তৈরি করা হচ্ছে।</Make_Weapon_GrenadeFrag.jobString>
+  
+  <!-- EN: fabricar cócteles molotov -->
+  <Make_Weapon_GrenadeMolotov.label>মলোটভ ককটেল তৈরি</Make_Weapon_GrenadeMolotov.label>
+  <!-- EN: Fabrica un cócteles molotov. -->
+  <Make_Weapon_GrenadeMolotov.description>.\nএকটি মলোটভ ককটেল তৈরি করুন।</Make_Weapon_GrenadeMolotov.description>
+  <!-- EN: Fabricando cócteles molotov. -->
+  <Make_Weapon_GrenadeMolotov.jobString>মলোটভ ককটেল তৈরি করা হচ্ছে।</Make_Weapon_GrenadeMolotov.jobString>
+  
+  <!-- EN: fabricar yayo -->
+  <Make_Yayo.label>ইয়ায়ো তৈরি</Make_Yayo.label>
+  <!-- EN: Fabrica un yayo. -->
+  <Make_Yayo.description>ইয়ায়ো তৈরি করুন।</Make_Yayo.description>
+  <!-- EN: Fabricando yayo. -->
+  <Make_Yayo.jobString>ইয়ায়ো তৈরি করা হচ্ছে।</Make_Yayo.jobString>
+  
+</LanguageData>

@@ -1,0 +1,633 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>এয়ার কন্ডিশনিং</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>গরম আবহাওয়ায় মানুষকে আরাম দিতে কুলার তৈরি করুন, অথবা নষ্ট হওয়া পণ্য সংরক্ষণের জন্য ফ্রিজার নির্মাণ করুন।</AirConditioning.description>
+  <!-- EN:
+    <li>subject->air conditioning</li>
+    <li>subject_story->visited the hottest town on the planet</li>
+    <li>subject_story->worked at the ice caps, in an interstellar warehouse kept near to absolute zero</li>
+    <li>subject_story->learned all about air conditioning and freezers, then returned home</li>
+    <li>subject_gerund->building air conditioning units</li>
+  -->
+  <AirConditioning.generalRules.rulesStrings>
+    <li>subject->এয়ার কন্ডিশনার</li>
+    <li>subject_FemMas->এয়ার কন্ডিশনার</li>
+    <li>subject_def->এয়ার কন্ডিশনার থেকে</li>
+    <li>subject_def2->এয়ার কন্ডিশনার</li>
+    <li>subject_story->গ্রহের উষ্ণতম শহরটি পরিদর্শন করেছিল।</li>
+    <li>subject_story->সে মেরু অঞ্চলে কাজ করত, একটি আন্তঃনাক্ষত্রিক গুদামে যা পরম শূন্যের কাছাকাছি রাখা হত।</li>
+    <li>subject_story->সে শীতাতপ নিয়ন্ত্রণ এবং ফ্রিজার সম্পর্কে সবকিছু শিখেছে, তারপর বাড়ি ফিরে এসেছে।</li>
+    <li>subject_gerund->এয়ার কন্ডিশনার নির্মাণ</li>
+  </AirConditioning.generalRules.rulesStrings>
+  
+  <!-- EN: autodoor -->
+  <Autodoors.label>স্বয়ংক্রিয় দরজা</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>স্বয়ংক্রিয় দরজা তৈরি করুন, যা কেউ কাছে এলে নিজে থেকেই খুলে যায় এবং চলাচলে কোনো বাধা সৃষ্টি করে না।</Autodoors.description>
+  <!-- EN:
+    <li>subject->autodoors</li>
+    <li>subject->automatic doors</li>
+    <li>subject_story->was recruited by a robotics security firm, opening the door to a career as an automation tester</li>
+    <li>subject_story->prototyped unique models of autodoors</li>
+    <li>subject_story->worked very hard to ensure the doors made a satisfying 'hiss' when they opened or closed</li>
+    <li>subject_gerund->constructing autodoors</li>
+  -->
+  <Autodoors.generalRules.rulesStrings>
+    <li>subject->স্বয়ংক্রিয় দরজা</li>
+    <li>subject_FemMas->স্বয়ংক্রিয় দরজাগুলো</li>
+    <li>subject_def->স্বয়ংক্রিয় দরজাগুলির থেকে</li>
+    <li>subject_def2->স্বয়ংক্রিয় দরজায়</li>
+    <li>subject_story->একটি রোবোটিক নিরাপত্তা সংস্থা তাকে নিয়োগ করে, স্বয়ংক্রিয় পরীক্ষক হিসেবে কর্মজীবনের পথ খুলে দেয়।</li>
+    <li>subject_story->স্বয়ংক্রিয় দরজার অনন্য মডেলের প্রোটোটাইপ তৈরি করেছিলেন।</li>
+    <li>subject_story->দরজা খোলার বা বন্ধ করার সময় একটি সন্তোষজনক "সশব্দ" তৈরি করার জন্য সে খুব কঠোর পরিশ্রম করেছিল।</li>
+    <li>subject_gerund->স্বয়ংক্রিয় দরজার নির্মাণ</li>
+  </Autodoors.generalRules.rulesStrings>
+  
+  <!-- EN: battery -->
+  <Batteries.label>ব্যাটারি</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>বিদ্যুৎ সংরক্ষণের জন্য ব্যাটারি তৈরি করুন।</Batteries.description>
+  <!-- EN:
+    <li>subject->batteries</li>
+    <li>subject_story->discovered that an acid lake on the leaden shores of a deathworld worked as a natural battery</li>
+    <li>subject_story->was in charge of maintaining the life support if the colony lost power</li>
+    <li>subject_story->worked in the scrapworlds, repairing machines and batteries</li>
+    <li>subject_gerund->building batteries</li>
+  -->
+  <Batteries.generalRules.rulesStrings>
+    <li>subject->ব্যাটারি</li>
+    <li>subject_FemMas->ব্যাটারিগুলো</li>
+    <li>subject_def->ব্যাটারিগুলোর থেকে</li>
+    <li>subject_def2->ব্যাটারিগুলোতে</li>
+    <li>subject_story->একটি ডেথওয়ার্ল্ডের অ্যাসিড হ্রদের সীমানায় এটি আবিষ্কৃত হয়েছিল এবং এটি একটি প্রাকৃতিক ব্যাটারি হিসাবে কাজ করত।</li>
+    <li>subject_story->যদি কলোনি বিদ্যুৎ হারায়, তবে জীবনধারণের ব্যবস্থা বজায় রাখার দায়িত্ব তার উপর ছিল।</li>
+    <li>subject_story->সে স্ক্র্যাপওয়ার্ল্ডে কাজ করত, মেশিন ও ব্যাটারি মেরামত করত।</li>
+    <li>subject_gerund->ব্যাটারি নির্মাণ</li>
+  </Batteries.generalRules.rulesStrings>
+  
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>বায়োফুয়েল পরিশোধন</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>কাঠ বা খাদ্যের মতো জৈব উপাদান থেকে কেমফুয়েল তৈরির জন্য বায়োফুয়েল রিফাইনারি নির্মাণ করুন।</BiofuelRefining.description>
+  <!-- EN:
+    <li>subject->biofuel</li>
+    <li>subject_story->was trapped when a generation ship lost power. [ANYPAWN_pronoun] used [ANYPAWN_possessive] knowledge of refining to turn human remains into biofuel and restart the engines</li>
+    <li>subject_story->used automated biorefineries to begin the long terraforming process on an iceworld</li>
+    <li>subject_story->started a distillery to make moonshine but, realizing it was undrinkable, sold it as chemfuel instead</li>
+    <li>subject_gerund->refining biofuel</li>
+  -->
+  <BiofuelRefining.generalRules.rulesStrings>
+    <li>subject->বায়োফুয়েল</li>
+    <li>subject_FemMas->বায়োফুয়েল</li>
+    <li>subject_def->বায়োফুয়েলের থেকে</li>
+    <li>subject_def2->বায়োফুয়েলে</li>
+    <li>subject_story->যখন তাদের প্রজন্মের মহাকাশযান শক্তি হারায়, তখন সে তার পরিশোধন জ্ঞান ব্যবহার করে মানুষের অবশিষ্টাংশকে জৈব জ্বালানিতে রূপান্তরিত করে এবং ইঞ্জিন পুনরায় চালু করে।</li>
+    <li>subject_story->সে একটি বরফগ্রহে দীর্ঘ প্রক্রিয়া শুরু করার জন্য স্বয়ংক্রিয় বায়োরিফাইনারি ব্যবহার করেছিল।</li>
+    <li>subject_story->সে একটি ডিস্টিলারি শুরু করেছিল যাতে বাড়িতে তৈরি মদ তৈরি করা যায়, কিন্তু যখন সে বুঝতে পারলো যে এটা পান করা যায় না, তখন সে এটিকে রাসায়নিক জ্বালানি হিসেবে বিক্রি করে দিল।</li>
+    <li>subject_gerund->বায়োফুয়েল পরিশোধন</li>
+  </BiofuelRefining.generalRules.rulesStrings>
+  
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>ব্লোব্যাক পরিচালনা</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>অটোপিস্তল ও মেশিন পিস্তলের মতো কম ক্ষমতার ব্লোব্যাক চালিত আগ্নেয়াস্ত্র তৈরি করুন।</BlowbackOperation.description>
+  <!-- EN:
+    <li>subject->pistols</li>
+    <li>subject->blowback firearms</li>
+    <li>subject_story->utilized machine pistols in the trench fighting that overtook the planet</li>
+    <li>subject_story->sold low-powered autopistols to law enforcement in the orbitals</li>
+    <li>subject_story->crafted blowback-operated guns for near-sighted conscripts</li>
+    <li>subject_gerund->crafting blowback firearms</li>
+  -->
+  <BlowbackOperation.generalRules.rulesStrings>
+    <li>subject->পিস্তল</li>
+    <li>subject_FemMas->পিস্তলগুলো</li>
+    <li>subject->অস্ত্রের পশ্চাৎঘাত</li>
+    <li>subject_FemMas->অস্ত্রের পশ্চাৎঘাত</li>
+    <li>subject_def->পিস্তলগুলোর থেকে</li>
+    <li>subject_def2->পিস্তলগুলোতে</li>
+    <li>subject_def->অস্ত্রের পশ্চাৎমুখী ধাক্কা থেকে</li>
+    <li>subject_def2->অস্ত্রের পশ্চাৎপসরণ</li>
+    <li>subject_story->সে তার গ্রহকে ধ্বংস করে দেওয়া ট্রেঞ্চ যুদ্ধের সময় স্বয়ংক্রিয় পিস্তল ব্যবহার করেছিল।</li>
+    <li>subject_story->কক্ষপথে আইন প্রয়োগকারী সংস্থাকে কম ক্ষমতার পিস্তল বিক্রি করে দিল।</li>
+    <li>subject_story->দৃষ্টি সমস্যা আছে এমন নতুন recruits-দের জন্য সেমি-অটোমেটিক অস্ত্র তৈরি করেছিল।</li>
+    <li>subject_gerund->অর্ধ-স্বয়ংক্রিয় অস্ত্র তৈরি</li>
+  </BlowbackOperation.generalRules.rulesStrings>
+  
+  <!-- EN: advanced lights -->
+  <ColoredLights.label>উন্নত আলো</ColoredLights.label>
+  <!-- EN: Build powerful outdoors lights. Additionally, customize the color of electric lights and reduce their power consumption by half. This does not affect sun lamps. -->
+  <ColoredLights.description>বিদ্যুৎচালিত বাতির রং পরিবর্তন করুন এবং তাদের বিদ্যুৎ ব্যবহার অর্ধেকে কমান। এটি সান ল্যাম্পের ওপর প্রভাব ফেলে না।</ColoredLights.description>
+  <!-- EN:
+    <li>subject->advanced lighting</li>
+    <li>subject_story->installed floodlights all around the prison world's many security perimeters</li>
+    <li>subject_story->made sure that the planet's dark side was well-lit</li>
+    <li>subject_story->moved into running concerts for interstellar troubadours, specializing in controlling the ship's massive lighting rigs</li>
+    <li>subject_gerund->building advanced lights</li>
+  -->
+  <ColoredLights.generalRules.rulesStrings>
+    <li>subject->উন্নত আলো</li>
+    <li>subject_FemMas->অগ্রগামী আলোসমূহ</li>
+    <li>subject_def->উন্নত আলোগুলির থেকে</li>
+    <li>subject_def2->অগ্রগামী আলোতে</li>
+    <li>subject_story->বিশ্ব-কারাগারের অসংখ্য কারাগার কমপ্লেক্সের নিরাপত্তা পরিধির চারপাশে আলো স্থাপন করা হলো।</li>
+    <li>subject_story->গ্রহের অন্ধকার দিকটি ভালোভাবে আলোকিত করা হয়েছে কিনা, তা সে নিশ্চিত করেছিল।</li>
+    <li>subject_story->সে আন্তঃনাক্ষত্রিক ট্রুবাডুরদের জন্য কনসার্ট আয়োজন করতে মনোনিবেশ করেছিল, এবং জাহাজের বিশাল আলো সরঞ্জাম নিয়ন্ত্রণ করতে বিশেষ পারদর্শীতা অর্জন করে।</li>
+    <li>subject_gerund->উন্নত আলো নির্মাণ</li>
+  </ColoredLights.generalRules.rulesStrings>
+  
+  <!-- EN: electricity -->
+  <Electricity.label>বিদ্যুৎ</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>বিভিন্ন শতাধিক কাজে বিদ্যুতের শক্তি ব্যবহার করুন।</Electricity.description>
+  <!-- EN: Your colony has harnessed the power which outsiders call "electricity". It has the potential to transform every aspect of your people's way of life.\n\nYou have now unlocked the Power tab in the Architect menu from which you may build electric generators, power conduits, and other mechanisms to control this new force. The Power tab also displays the electric grid which connects electric generators and appliances. -->
+  <Electricity.discoveredLetterText>আপনার কলোনি সেই শক্তিকে কাজে লাগিয়েছে, যাকে বহিরাগতরা “বিদ্যুৎ” বলে। এটি আপনার জনগণের জীবনযাত্রার প্রতিটি দিক বদলে দেওয়ার সম্ভাবনা রাখে।\n\nএখন আপনি স্থপতি মেনুতে বিদ্যুৎ ট্যাব আনলক করেছেন, যেখান থেকে বৈদ্যুতিক জেনারেটর, পাওয়ার কন্ডুইট এবং অন্যান্য নিয়ন্ত্রণ ব্যবস্থা তৈরি করা যাবে। এই ট্যাবেই বিদ্যুৎ গ্রিড দেখানো হয়, যা জেনারেটর ও বৈদ্যুতিক যন্ত্রগুলোকে সংযুক্ত করে।</Electricity.discoveredLetterText>
+  <!-- EN: About: Electricity -->
+  <Electricity.discoveredLetterTitle>বিদ্যুৎ সম্পর্কে</Electricity.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->electricity</li>
+    <li>subject_story->was struck by lighting and became determined to harness it</li>
+    <li>subject_story->created the first generator and lightbulb on a medieval world</li>
+    <li>subject_story->was executed on a feudal world for the blasphemy of creating light</li>
+    <li>subject_gerund->harnessing electricity</li>
+  -->
+  <Electricity.generalRules.rulesStrings>
+    <li>subject->বিদ্যুৎ</li>
+    <li>subject_FemMas->বিদ্যুৎ</li>
+    <li>subject_def->বিদ্যুৎ এর</li>
+    <li>subject_def2->বিদ্যুৎ-এর কাছে</li>
+    <li>subject_story->সে একটি বজ্রপাতের শিকার হয়েছিল এবং এটি কাজে লাগাতে দৃঢ়প্রতিজ্ঞ হয়েছিল।</li>
+    <li>subject_story->সে মধ্যযুগীয় বিশ্বে প্রথম জেনারেটর এবং বাল্ব তৈরি করেছিল।</li>
+    <li>subject_story->তাকে একটি সামন্ততান্ত্রিক বিশ্বে আলো তৈরির ধর্মদ্রোহিতার জন্য নিন্দা করা হয়েছিল।</li>
+    <li>subject_gerund->বিদ্যুৎ ব্যবহার</li>
+  </Electricity.generalRules.rulesStrings>
+  
+  <!-- EN: firefoam -->
+  <Firefoam.label>অগ্নি-নিরোধক ফোম</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>আগুন ছড়ালে স্বয়ংক্রিয়ভাবে আগুন-নিবারক ফোম ছড়ায়—এমন ফায়ারফোম পপার নির্মাণ করুন।</Firefoam.description>
+  <!-- EN:
+    <li>subject->firefoam poppers</li>
+    <li>subject->fire safety devices</li>
+    <li>subject_story->headed up an agency promulgating fire safety to the whole population</li>
+    <li>subject_story->became a firefighter</li>
+    <li>subject_story->was saved by the poppers when an oil fire spiraled out of control</li>
+    <li>subject_gerund->constructing firefoam poppers</li>
+    <li>subject_gerund->suppressing fires with poppers</li>
+  -->
+  <Firefoam.generalRules.rulesStrings>
+    <li>subject->অগ্নি-নিরোধক ফোম স্প্রেয়ার</li>
+    <li>subject_FemMas->অগ্নি-নিরোধক ফোম স্প্রেয়ারগুলো</li>
+    <li>subject->অগ্নি নিরাপত্তা সরঞ্জাম</li>
+    <li>subject_FemMas->অগ্নি নিরাপত্তা সরঞ্জাম</li>
+    <li>subject_def->অগ্নি-নিরোধক ফোম স্প্রেয়ারগুলোর থেকে</li>
+    <li>subject_def2->ফায়ারপ্রুফ ফোম স্প্রিংকলারগুলোতে</li>
+    <li>subject_def->অগ্নি নিরাপত্তা সরঞ্জামগুলির থেকে</li>
+    <li>subject_def2->অগ্নি নিরাপত্তা ডিভাইসগুলোতে</li>
+    <li>subject_story->তিনি একটি সংস্থাকে নেতৃত্ব দিয়েছিলেন যা সমগ্র জনসংখ্যার জন্য অগ্নিনির্বাপণ নিরাপত্তা প্রচার করত।</li>
+    <li>subject_story->সে সব ধরনের আগুন নেভাতে নিজেকে উৎসর্গ করেছিল।</li>
+    <li>subject_story->তেলের আগুন নিয়ন্ত্রণের বাইরে চলে গেলে কিছু স্প্রিংকলার সক্রিয় হওয়ার কারণে সে প্রাণে বেঁচে যায়।</li>
+    <li>subject_gerund->অগ্নি-প্রতিরোধী ফোম স্প্রিংকলার নির্মাণ</li>
+    <li>subject_gerund->স্প্রিংকলার দিয়ে আগুন নেভানো</li>
+  </Firefoam.generalRules.rulesStrings>
+  
+  <!-- EN: flak armor -->
+  <FlakArmor.label>ফ্ল্যাক আর্মার</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>গুলি ও বিস্ফোরণ প্রতিরোধের জন্য ধাতব বর্ম সেলাই করা পোশাক তৈরি করুন। এই ভারী বর্ম চলাচল কিছুটা ধীর করে।</FlakArmor.description>
+  <!-- EN:
+    <li>subject->flak armor</li>
+    <li>subject_story->supplied flak armor to the militias that ran the cities</li>
+    <li>subject_story->learned to sew metal plates into clothing, to protect kin from the roving gangs</li>
+    <li>subject_story->survived a rifle bullet thanks to the metal plate sewn into the breast pocket</li>
+    <li>subject_gerund->crafting flak armor</li>
+  -->
+  <FlakArmor.generalRules.rulesStrings>
+    <li>subject->বুলেটপ্রুফ আর্মার</li>
+    <li>subject_FemMas->বুলেটপ্রুফ আর্মার</li>
+    <li>subject_def->বুলেটপ্রুফ আর্মারের</li>
+    <li>subject_def2->বুলেটপ্রুফ আর্মারের কাছে</li>
+    <li>subject_story->শহরগুলোর নেতৃত্ব দেওয়া মিলিশিয়াদের বুলেটপ্রুফ আর্মার সরবরাহ করেছিল।</li>
+    <li>subject_story->সে ধাতব ফলক পোশাকের সাথে সেলাই করতে শিখেছে, যাতে ঘুরে বেড়ানো দলবদ্ধ बदमाशों থেকে কাছের মানুষদের রক্ষা করা যায়।</li>
+    <li>subject_story->বুকে সেলাই করা ধাতব ফলকের কারণে সে রাইফেল বুলেট থেকে বেঁচে গিয়েছিল।</li>
+    <li>subject_gerund->বুলেটপ্রুফ আর্মারের নির্মাণ</li>
+  </FlakArmor.generalRules.rulesStrings>
+  
+  <!-- EN: foam turret -->
+  <FoamTurret.label>ফোম টারেট</FoamTurret.label>
+  <!-- EN: Produce a turret which can be activated to spray fire-extinguishing foam. -->
+  <FoamTurret.description>আগুন নেভানোর ফোম ছিটাতে সক্ষম একটি সক্রিয়যোগ্য টারেট তৈরি করুন।</FoamTurret.description>
+  <!-- EN:
+    <li>subject->foam turrets</li>
+    <li>subject->fire suppression turrets</li>
+    <li>subject_story->redesigned gun turrets to put out fires, not create them</li>
+    <li>subject_story->incorporated heat sensors and foam ejectors into a standard turret chassis</li>
+    <li>subject_story->was praised after installing cheap foam turrets in public areas and saving many lives</li>
+    <li>subject_gerund->constructing fire suppression turrets</li>
+    <li>subject_gerund->suppressing fires with turrets</li>
+  -->
+  <FoamTurret.generalRules.rulesStrings>
+    <li>subject->ফোম টারেট</li>
+    <li>subject_FemMas->ফোমের টারেটগুলো</li>
+    <li>subject->অগ্নি নির্বাপণ টারেট</li>
+    <li>subject_FemMas->অগ্নি নির্বাপণ টারেটগুলি</li>
+    <li>subject_def->ফোম টারেটগুলির থেকে</li>
+    <li>subject_def2->ফোম টারেটগুলোতে</li>
+    <li>subject_def->অগ্নি নির্বাপণ টারেটগুলির থেকে</li>
+    <li>subject_def2->অগ্নি নির্বাপণ টারেটগুলোতে</li>
+    <li>subject_story->আগুন নেভানোর জন্য ব্যালিস্টিক টারেটগুলো পুনরায় ডিজাইন করা হয়েছে, আগুন লাগানোর জন্য নয়।</li>
+    <li>subject_story->সে একটি স্ট্যান্ডার্ড টারেট চ্যাসিসে তাপ সেন্সর এবং ফোম ইজেক্টর যোগ করেছে।</li>
+    <li>subject_story->তাকে জনসমক্ষে সস্তা ফোম টারেট স্থাপন এবং বহু জীবন বাঁচানোর জন্য প্রশংসিত করা হয়েছিল।</li>
+    <li>subject_gerund->অগ্নি নির্বাপণ টারেট নির্মাণ</li>
+    <li>subject_gerund->টার्रेट দিয়ে আগুন নেভানো</li>
+  </FoamTurret.generalRules.rulesStrings>
+  
+  <!-- EN: gas operation -->
+  <GasOperation.label>গ্যাস পরিচালনা</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>চেইন শটগান, হালকা মেশিনগান ও ভারী এসএমজি-এর মতো উচ্চ ক্ষমতার আগ্নেয়াস্ত্র তৈরি করুন।</GasOperation.description>
+  <!-- EN:
+    <li>subject->heavy weaponry</li>
+    <li>subject->high-power firearms</li>
+    <li>subject_story->equipped the special weapons squads of the tyrant's guard with light machine guns</li>
+    <li>subject_story->supplied several planetary armies with heavy firearms</li>
+    <li>subject_story->designed new types of high-power gun, still known today</li>
+    <li>subject_gerund->crafting heavy firearms</li>
+  -->
+  <GasOperation.generalRules.rulesStrings>
+    <li>subject->ভারী অস্ত্রশস্ত্র</li>
+    <li>subject_FemMas->ভারী অস্ত্রশস্ত্র</li>
+    <li>subject->উচ্চ ক্ষমতা সম্পন্ন অস্ত্রশস্ত্র</li>
+    <li>subject_FemMas->উচ্চ ক্ষমতার অস্ত্রশস্ত্র</li>
+    <li>subject_def->ভারী অস্ত্রশস্ত্রের</li>
+    <li>subject_def2->ভারী অস্ত্রে</li>
+    <li>subject_def->উচ্চ ক্ষমতার অস্ত্রগুলির থেকে</li>
+    <li>subject_def2->উচ্চ ক্ষমতার অস্ত্রে</li>
+    <li>subject_story->স্বৈরশাসকের রক্ষীদের বিশেষ অস্ত্রদলে হালকা মেশিনগান সরবরাহ করেছিল।</li>
+    <li>subject_story->সে বিভিন্ন গ্রহীয় সেনাবাহিনীকে ভারী আগ্নেয়াস্ত্র সরবরাহ করেছিল।</li>
+    <li>subject_story->তিনি উচ্চ ক্ষমতার নতুন ধরনের অস্ত্র তৈরি করেছিলেন, যা আজও পরিচিত।</li>
+    <li>subject_gerund->ভারী আগ্নেয়াস্ত্র তৈরি</li>
+  </GasOperation.generalRules.rulesStrings>
+  
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>ভূ-তাপীয় শক্তি</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>অবিরাম বিদ্যুৎ সরবরাহের জন্য বাষ্প গিজারের ওপর ভূ-তাপীয় বিদ্যুৎকেন্দ্র নির্মাণ করুন।</GeothermalPower.description>
+  <!-- EN:
+    <li>subject->geothermal power</li>
+    <li>subject_story->studied steam power and established geothermal plants throughout the region</li>
+    <li>subject_story->tapped the power of a dormant volcano to power the local grid</li>
+    <li>subject_story->argued with the local population who wanted to preserve the scenic geysers, not use them for power</li>
+    <li>subject_gerund->tapping geothermal energy</li>
+    <li>subject_gerund->building geothermal power plants</li>
+  -->
+  <GeothermalPower.generalRules.rulesStrings>
+    <li>subject->ভূ-তাপীয় শক্তি</li>
+    <li>subject_FemMas->ভূ-তাপীয় শক্তি</li>
+    <li>subject_def->ভূ-তাপীয় শক্তি থেকে</li>
+    <li>subject_def2->ভূ-তাপীয় শক্তিতে</li>
+    <li>subject_story->তিনি বাষ্পের শক্তি অধ্যয়ন করেছিলেন এবং পুরো অঞ্চলে ভূ-তাপীয় বিদ্যুৎ কেন্দ্র স্থাপন করেছিলেন।</li>
+    <li>subject_story->একটি স্থানীয় নেটওয়ার্ককে শক্তি যোগানোর জন্য একটি সুপ্ত আগ্নেয়গিরির সম্ভাবনাকে কাজে লাগিয়েছিল।</li>
+    <li>subject_story->সে স্থানীয় জনগণের সাথে আলোচনা করেছিল যে তারা সুন্দর গিজারগুলি সংরক্ষণ করতে চেয়েছিল, কারণ তারা এগুলো শক্তি উৎপাদনের জন্য ব্যবহার করতে চায়নি।</li>
+    <li>subject_gerund->ভূ-তাপীয় শক্তি ব্যবহার</li>
+    <li>subject_gerund->ভূ-তাপবিদ্যুৎ কেন্দ্র নির্মাণ</li>
+  </GeothermalPower.generalRules.rulesStrings>
+  
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>অস্ত্র নির্মাণ</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>রিভলভার, পাম্প শটগান, বোল্ট-অ্যাকশন রাইফেল ও দাহ্য অস্ত্র নিক্ষেপকের মতো সাধারণ হাতে চালিত বন্দুক তৈরি করুন।</Gunsmithing.description>
+  <!-- EN:
+    <li>subject->simple firearms</li>
+    <li>subject_story->built a unique 12-shot revolver and won shoot-out after shoot-out</li>
+    <li>subject_story->specialized in simple gunsmithing, providing shotguns and rifles for hunters</li>
+    <li>subject_story->set up as a gunsmith, achieving fame across the sector</li>
+    <li>subject_gerund->gunsmithing</li>
+    <li>subject_gerund->crafting firearms</li>
+  -->
+  <Gunsmithing.generalRules.rulesStrings>
+    <li>subject->সাধারণ বন্দুক</li>
+    <li>subject_FemMas->সাধারণ আগ্নেয়াস্ত্র</li>
+    <li>subject_def->সাধারণ বন্দুকের থেকে</li>
+    <li>subject_def2->সাধারণ বন্দুকগুলিতে</li>
+    <li>subject_story->সে একটি ১২-গুলি গুলির অনন্য রিভলভার তৈরি করেছিল এবং একের পর এক বন্দুকযুদ্ধ জিতেছিল।</li>
+    <li>subject_story->সে সাধারণ অস্ত্র তৈরিতে বিশেষজ্ঞতা অর্জন করেছিল, শিকারীদের জন্য শটগান এবং রাইফেল সরবরাহ করছিল।</li>
+    <li>subject_story->একজন অস্ত্র প্রস্তুতকারক হিসেবে পরিচিতি লাভ করলো{ANYPAWN_gender ? o : a}, সমগ্র সেক্টরে খ্যাতি অর্জন করলো</li>
+    <li>subject_gerund->অস্ত্র তৈরি</li>
+  </Gunsmithing.generalRules.rulesStrings>
+  
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>স্বয়ংক্রিয় গান টারেট</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>সাধারণ স্বয়ংক্রিয় গান টারেট তৈরি করুন।</GunTurrets.description>
+  <!-- EN:
+    <li>subject->gun turrets</li>
+    <li>subject_story->worked on AI routines, to enable gun turrets to identify friends and foes</li>
+    <li>subject_story->designed a modular gun turret holster, capable of taking any weapon type</li>
+    <li>subject_story->disabled the enemy's turrets remotely, before leading the charge</li>
+    <li>subject_gerund->constructing automated gun turrets</li>
+  -->
+  <GunTurrets.generalRules.rulesStrings>
+    <li>subject->স্বয়ংক্রিয় টারেটগুলি</li>
+    <li>subject_FemMas->স্বয়ংক্রিয় টারেটগুলি</li>
+    <li>subject_def->স্বয়ংক্রিয় টারেটগুলির থেকে</li>
+    <li>subject_def2->স্বয়ংক্রিয় টারেটগুলিতে</li>
+    <li>subject_story->তিনি স্বয়ংক্রিয় টারেটগুলিকে বন্ধু এবং শত্রু সনাক্ত করার অনুমতি দেওয়ার জন্য এআই রুটিনে কাজ করেছিলেন।</li>
+    <li>subject_story->সে স্বয়ংক্রিয় টারেটের জন্য একটি মডুলার মাউন্ট ডিজাইন করেছে, যা যেকোনো ধরনের অস্ত্র গ্রহণ করতে সক্ষম।</li>
+    <li>subject_story->আক্রমণ শুরু করার আগে সে দূর থেকে শত্রুদের টারেটগুলো নিষ্ক্রিয় করে দিয়েছিল।</li>
+    <li>subject_gerund->স্বয়ংক্রিয় টারেট নির্মাণ</li>
+  </GunTurrets.generalRules.rulesStrings>
+  
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>হাইড্রোপনিক্স</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>ভূপ্রকৃতি বা আবহাওয়া নির্বিশেষে ঘরের ভেতর দ্রুত ফসল ফলানোর জন্য হাইড্রোপনিক বেসিন নির্মাণ করুন।</Hydroponics.description>
+  <!-- EN:
+    <li>subject->hydroponics</li>
+    <li>subject_story->joined a generation ship crew as their crop specialist</li>
+    <li>subject_story->established a hydroponics facility to feed the hungry</li>
+    <li>subject_story->traveled around, teaching artificial plant growth to new colonists</li>
+    <li>subject_gerund->building hydroponics</li>
+    <li>subject_gerund->growing plants indoors</li>
+  -->
+  <Hydroponics.generalRules.rulesStrings>
+    <li>subject->হাইড্রোপনিক্স</li>
+    <li>subject_FemMas->হাইড্রোপনিক্স</li>
+    <li>subject_def->হাইড্রোপনিক্সের থেকে</li>
+    <li>subject_def2->হাইড্রোপনিক্সে</li>
+    <li>subject_story->সে একটি প্রজন্মের জাহাজের ক্রু-তে একজন ফসল বিশেষজ্ঞ হিসেবে যোগ দিয়েছে।</li>
+    <li>subject_story->ক্ষুধার্তদের খাওয়ানোর জন্য সে একটি হাইড্রোপনিক সুবিধা স্থাপন করেছে।</li>
+    <li>subject_story->নতুন বসতি স্থাপনকারীদের কৃত্রিম উদ্ভিদ বৃদ্ধির কৌশল শেখাতে ভ্রমণ করেছিল।</li>
+    <li>subject_gerund->হাইড্রোপনিক কন্টেইনার নির্মাণ</li>
+    <li>subject_gerund->ইনডোর প্ল্যান্টের চাষ</li>
+  </Hydroponics.generalRules.rulesStrings>
+  
+  <!-- EN: IEDs -->
+  <IEDs.label>তাৎক্ষণিক বিস্ফোরক ফাঁদ</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>যেকোনো ধরনের মর্টার শেল ব্যবহার করে তাৎক্ষণিক বিস্ফোরক ফাঁদ তৈরি করুন।</IEDs.description>
+  <!-- EN:
+    <li>subject->improvised explosive traps</li>
+    <li>subject_story->disarmed the leftover shells of the war, sending them onto the new frontline as mines</li>
+    <li>subject_story->came under mortar fire, only surviving by crafting traps from the enemy's many dud shells</li>
+    <li>subject_story->advocated for the rights of small settlements, where unexploded munitions were a constant peril</li>
+    <li>subject_gerund->crafting improvised explosive traps</li>
+  -->
+  <IEDs.generalRules.rulesStrings>
+    <li>subject->তাৎক্ষণিক মাইন</li>
+    <li>subject_FemMas->তাৎক্ষণিক মাইনগুলো</li>
+    <li>subject_def->improvised mines থেকে</li>
+    <li>subject_def2->improvised mines-এ</li>
+    <li>subject_story->সে যুদ্ধের অব্যবহৃত বিস্ফোরক দ্রব্যগুলো নিষ্ক্রিয় করে নতুন ফ্রন্টলাইনে মাইন হিসেবে পাঠিয়েছিল।</li>
+    <li>subject_story->সে মর্টারের আঘাতে আহত হয়েছিল, কিন্তু শত্রুর অসংখ্য অক্ষত প্রজেক্টাইল দিয়ে ফাঁদ তৈরি করে বেঁচে গিয়েছিল।</li>
+    <li>subject_story->ছোট বসতিগুলির অধিকারের জন্য তিনি ওকালতি করেছিলেন, যেখানে অক্ষত গোলাবারুদ একটি ধ্রুবক বিপদ ছিল।</li>
+    <li>subject_gerund->improvised mine তৈরি করা</li>
+  </IEDs.generalRules.rulesStrings>
+  
+  <!-- EN: machining -->
+  <Machining.label>মেশিনিং</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
+  <Machining.description>বন্দুক, গ্রেনেড, ফ্ল্যাক আর্মার তৈরির জন্য এবং মৃত মেকানয়েড ভেঙে সম্পদ সংগ্রহের জন্য মেশিনিং টেবিল নির্মাণ করুন।</Machining.description>
+  <!-- EN:
+    <li>subject->machining</li>
+    <li>subject_story->gathered the remains of dead mechanoids and shredded them for resources</li>
+    <li>subject_story->quietly built an arsenal of self-made weapons in the basement of a suburban home</li>
+    <li>subject_story->built machining tables for many gunsmiths, despite being a pacifist</li>
+    <li>subject_gerund->building machining equipment</li>
+    <li>subject_gerund->machining</li>
+  -->
+  <Machining.generalRules.rulesStrings>
+    <li>subject->যন্ত্রচালিত</li>
+    <li>subject_FemMas->যন্ত্রটি</li>
+    <li>subject_def->যন্ত্রটির থেকে</li>
+    <li>subject_def2->যন্ত্রটিতে</li>
+    <li>subject_story->সে মৃত মেকানয়েডগুলির ধ্বংসাবশেষ সংগ্রহ করে সম্পদ পাওয়ার জন্য সেগুলোকে ভেঙে ফেলল।</li>
+    <li>subject_story->গোপনে তৈরি করা অস্ত্রের একটি অস্ত্রাগার বানিয়েছে {ANYPAWN_gender ? él mismo : ella misma} একটি শহরতলীর বাড়ির বেসমেন্টে</li>
+    <li>subject_story->সে একজন শান্তিবাদী হওয়া সত্ত্বেও অনেক অস্ত্র প্রস্তুতকারকের জন্য মেশিনের টেবিল তৈরি করেছিল।</li>
+    <li>subject_gerund->যন্ত্রপাতি তৈরির নির্মাণ</li>
+    <li>subject_gerund->যন্ত্রচালিত</li>
+  </Machining.generalRules.rulesStrings>
+  
+  <!-- EN: mortars -->
+  <Mortars.label>মর্টার</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>দূরপাল্লায়—even দেয়ালের ওপর দিয়েও—শেল নিক্ষেপ করতে সক্ষম মর্টার তৈরি করুন।</Mortars.description>
+  <!-- EN:
+    <li>subject->artillery</li>
+    <li>subject->mortars</li>
+    <li>subject_story->was instrumental in the glasshouse siege that overthrew the town council</li>
+    <li>subject_story->developed a collapsible, lightweight mortar tube for the local police</li>
+    <li>subject_story->demolished the many derelict buildings from a distance, with explosive shells</li>
+    <li>subject_gerund->crafting mortars</li>
+    <li>subject_gerund->constructing simple artillery</li>
+  -->
+  <Mortars.generalRules.rulesStrings>
+    <li>subject->তোপখানা</li>
+    <li>subject_FemMas->আর্টিলারি</li>
+    <li>subject->মর্টার</li>
+    <li>subject_FemMas->মর্টারগুলো</li>
+    <li>subject_def->আর্টিলারির থেকে</li>
+    <li>subject_def2->আর্টিলারির দিকে</li>
+    <li>subject_def->মর্টারগুলোর থেকে</li>
+    <li>subject_def2->মর্টারগুলোতে</li>
+    <li>subject_story->গ্লাসহাউসের অবরোধে এটি মৌলিক ছিল, যা পৌরসভাকে উৎখাত করেছে।</li>
+    <li>subject_story->স্থানীয় পুলিশের জন্য সে একটি ভাঁজযোগ্য এবং হালকা মর্টার টিউব তৈরি করেছে।</li>
+    <li>subject_story->দূর থেকে বিস্ফোরক প্রজেক্টাইল দিয়ে অনেক পরিত্যক্ত ভবন ভেঙে ফেলেছিল।</li>
+    <li>subject_gerund->মর্টার তৈরি</li>
+    <li>subject_gerund->সাধারণ কামান নির্মাণ</li>
+  </Mortars.generalRules.rulesStrings>
+  
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>পুষ্টিকর পেস্ট</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>কাঁচা পুষ্টিকর উপাদান থেকে শ্রম ছাড়াই দক্ষতার সঙ্গে খাবার উৎপাদনের জন্য পুষ্টিকর পেস্ট ডিসপেনসার নির্মাণ করুন।</NutrientPaste.description>
+  <!-- EN:
+    <li>subject->nutrient paste</li>
+    <li>subject_story->worked in a factory canteen and devised nutrient paste as a way to avoid all labor</li>
+    <li>subject_story->lost [ANYPAWN_possessive] taste of smell to disease, so devised a cheap, flavorless nutrient paste</li>
+    <li>subject_story->advocated for the recycling of all organic matter into nutrient paste, even corpses</li>
+    <li>subject_gerund->building nutrient paste dispensers</li>
+  -->
+  <NutrientPaste.generalRules.rulesStrings>
+    <li>subject->পুষ্টিকর পাস্তা</li>
+    <li>subject_FemMas->পুষ্টিকর পাস্তা</li>
+    <li>subject_def->পুষ্টিকর পেস্টা থেকে</li>
+    <li>subject_def2->পুষ্ট পাস্তাতে</li>
+    <li>subject_story->সে একটি কারখানার ক্যাফেতে কাজ করত এবং কাজ এড়ানোর উপায় হিসেবে পুষ্টিকর পেস্ট তৈরি করার ধারণা নিয়ে আসে।</li>
+    <li>subject_story->একটি রোগের কারণে সে ঘ্রাণশক্তি হারিয়ে ফেলেছিল, তাই সে একটি সস্তা এবং স্বাদহীন পুষ্টিকর পেস্ট তৈরি করে।</li>
+    <li>subject_story->তিনি সমস্ত জৈব পদার্থকে পুষ্টিকর পেস্টে পুনর্ব্যবহার করার পক্ষে ওকালতি করেছেন, এমনকি মৃতদেহও।</li>
+    <li>subject_gerund->পুষ্টিকর পেস্ট ডিসপেনসার নির্মাণ</li>
+  </NutrientPaste.generalRules.rulesStrings>
+  
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>প্যাকেটজাত সারভাইভাল খাবার</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>যে সারভাইভাল খাবার কখনো নষ্ট হয় না—এমন প্যাকেটজাত খাবার তৈরি করুন। ভ্রমণের জন্য দারুণ।</PackagedSurvivalMeal.description>
+  <!-- EN:
+    <li>subject->packaged survival meals</li>
+    <li>subject->non-perishable food</li>
+    <li>subject_story-> knew, when disaster struck, there were enough packaged meals to survive until rescuers arrived</li>
+    <li>subject_story->established a social kitchen, which donated survival meals to all outgoing vessels</li>
+    <li>subject_story->discovered survival meals in the mountains that were hundreds of years old</li>
+    <li>subject_gerund->preparing survival meals</li>
+  -->
+  <PackagedSurvivalMeal.generalRules.rulesStrings>
+    <li>subject->জীবনধারণের খাদ্য</li>
+    <li>subject_FemMas->সারভাইভাল ফুড / টিকে থাকার খাবার</li>
+    <li>subject->নন-পেরিসেবেল খাদ্য সামগ্রী</li>
+    <li>subject_FemMas->নন-পেরিসেবেল খাদ্য সামগ্রী</li>
+    <li>subject_def->সারভাইভাল ফুডের অংশ</li>
+    <li>subject_def2->সারভাইভাল খাবারে</li>
+    <li>subject_def->অ-নষ্টিকর খাদ্যসামগ্রী থেকে</li>
+    <li>subject_def2->নন-পেরিসশেবল খাবারে</li>
+    <li>subject_story->আমি জানতাম যে, কোনো দুর্যোগ ঘটলে, উদ্ধারকারী দল আসা পর্যন্ত টিকে থাকার জন্য যথেষ্ট প্যাকেটজাত খাবার ছিল।</li>
+    <li>subject_story->সে একটি কমিউনিটি রান্নাঘর স্থাপন করেছিল যা সমস্ত বহির্গামী জাহাজে বেঁচে থাকার খাবার দান করত।</li>
+    <li>subject_story->সে শতবর্ষ পুরোনো পর্বতমালায় টিকে থাকার খাবার খুঁজে পেয়েছিল।</li>
+    <li>subject_gerund->সারভাইভাল ফুড প্রস্তুতি</li>
+  </PackagedSurvivalMeal.generalRules.rulesStrings>
+  
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>কৃত্রিম অঙ্গ</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>হারানো অঙ্গ প্রতিস্থাপনের জন্য সাশ্রয়ী কৃত্রিম অঙ্গ তৈরি করুন। প্রতিস্থাপনের জন্য দক্ষ চিকিৎসক প্রয়োজন।</Prosthetics.description>
+  <!-- EN:
+    <li>subject->prosthesis</li>
+    <li>subject_story->had a limb replaced with a prosthetic, to show how easy it was</li>
+    <li>subject_story->opened a prosthetics clinic</li>
+    <li>subject_story->began crafting bespoke fake limbs for the many war veterans in the area</li>
+    <li>subject_gerund->crafting prosthetics</li>
+  -->
+  <Prosthetics.generalRules.rulesStrings>
+    <li>subject->প্রোস্থেসিস</li>
+    <li>subject_FemMas->প্রোস্থেটিক্সগুলো</li>
+    <li>subject_def->প্রোস্থেটিক্সের থেকে</li>
+    <li>subject_def2->প্রোস্থেটিকগুলোতে</li>
+    <li>subject_story->তাকে একটি কৃত্রিম অঙ্গ প্রতিস্থাপন করা হয়েছিল, এটা দেখানোর জন্য যে এটা কতটা সহজ ছিল।</li>
+    <li>subject_story->একটি প্রস্থেটিক ক্লিনিক খুলল।</li>
+    <li>subject_story->অঞ্চলটির অসংখ্য যুদ্ধাহত সৈনিকের জন্য কাস্টম-তৈরি কৃত্রিম অঙ্গ তৈরি করা শুরু করেছে।</li>
+    <li>subject_gerund->প্রোস্থেটিক্স তৈরি</li>
+  </Prosthetics.generalRules.rulesStrings>
+  
+  <!-- EN: smokepop packs -->
+  <SmokepopBelt.label>স্মোকপপ প্যাক</SmokepopBelt.label>
+  <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
+  <SmokepopBelt.description>পরিধানকারীকে প্রতিরক্ষামূলক ধোঁয়ার পর্দা ছাড়তে সক্ষম করে—এমন স্মোকপপ প্যাক তৈরি করুন।</SmokepopBelt.description>
+  <!-- EN:
+    <li>subject->smokescreen</li>
+    <li>subject_story->worked as a hauler for bands, using smokepops for special effects</li>
+    <li>subject_story->established a defensive smokepop perimeter around the local towns, to keep the wildlife back</li>
+    <li>subject_story->used smokepop packs to train new firefighters, without the peril of actual fire</li>
+    <li>subject_gerund->building smokepop packs</li>
+    <li>subject_gerund->deploying smokescreens</li>
+  -->
+  <SmokepopBelt.generalRules.rulesStrings>
+    <li>subject->ধোঁয়ার পর্দা</li>
+    <li>subject_FemMas->ধোঁয়ার পর্দা</li>
+    <li>subject_def->ধোঁয়ার পর্দা থেকে</li>
+    <li>subject_def2->ধোঁয়ার পর্দাগুলোতে</li>
+    <li>subject_story->সে গ্যাংগুলির জন্য পরিবহনকারী হিসাবে কাজ করত, বিশেষ প্রভাবের জন্য স্মোক বোমা ব্যবহার করত।</li>
+    <li>subject_story->স্থানীয় বসতিগুলির আশেপাশে ধোঁয়া বোমা দিয়ে একটি প্রতিরক্ষামূলক পরিধি স্থাপন করেছে যাতে বন্যপ্রাণী দূরে থাকে।</li>
+    <li>subject_story->নতুন অগ্নিনির্বাপকদের প্রশিক্ষণের জন্য সে ধোঁয়া বোমা ব্যবহার করেছিল, আসল আগুনের বিপদ ছাড়াই।</li>
+    <li>subject_gerund->ধোঁয়া বোমা তৈরির প্যাকেট</li>
+    <li>subject_gerund->ধোঁয়ার পর্দা স্থাপন করুন।</li>
+  </SmokepopBelt.generalRules.rulesStrings>
+  
+  <!-- EN: solar panel -->
+  <SolarPanels.label>সৌর প্যানেল</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>বিদ্যুৎ উৎপাদনের জন্য সৌর প্যানেল নির্মাণ করুন।</SolarPanels.description>
+  <!-- EN:
+    <li>subject->solar panels</li>
+    <li>subject->solar energy</li>
+    <li>subject_story->established a multi-spectrum solar farm</li>
+    <li>subject_story->studied ways of maximizing the percentage of solar energy captured</li>
+    <li>subject_story->left on a sundiver to see a fly-by of a star's photosphere</li>
+    <li>subject_gerund->building solar panels</li>
+  -->
+  <SolarPanels.generalRules.rulesStrings>
+    <li>subject->সৌর প্যানেল</li>
+    <li>subject_FemMas->সৌর প্যানেলগুলি</li>
+    <li>subject->সৌর শক্তি</li>
+    <li>subject_FemMas->সৌর শক্তি</li>
+    <li>subject_def->সোলার প্যানেলগুলির থেকে</li>
+    <li>subject_def2->সৌর প্যানেলগুলোতে</li>
+    <li>subject_def->সৌর শক্তি থেকে</li>
+    <li>subject_def2->সৌর শক্তিতে</li>
+    <li>subject_story->বহু বর্ণালীর একটি সৌর খামার স্থাপন করেছে।</li>
+    <li>subject_story->সৌর শক্তি ক্যাপচারের শতাংশ সর্বাধিক করার উপায় নিয়ে তিনি গবেষণা করেছেন।</li>
+    <li>subject_story->সে একটি তারার ফটোস্ফিয়ারের উড়ন্ত দৃশ্য দেখার জন্য সূর্যের দিকে যাত্রা শুরু করেছিল।</li>
+    <li>subject_gerund->সৌর প্যানেল নির্মাণ</li>
+  </SolarPanels.generalRules.rulesStrings>
+  
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>জীবাণুমুক্ত উপকরণ</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>চিকিৎসা, গবেষণা ও রান্নার জন্য নিরাপদ ও কার্যকর ক্লিনরুম তৈরিতে জীবাণুমুক্ত টাইল নির্মাণ করুন।</SterileMaterials.description>
+  <!-- EN:
+    <li>subject->sterile surfaces</li>
+    <li>subject_story->prevented many deaths by insisting on effective, consistent sterilization of all equipment</li>
+    <li>subject_story->started a kibble kitchen which, uniquely for the system, was known to be free of food poisoning</li>
+    <li>subject_story->established a decorative tile factory, with a sideline in medical equipment and sterile tiles</li>
+    <li>subject_gerund->sterilizing surfaces</li>
+    <li>subject_gerund->constructing sterilized surfaces</li>
+  -->
+  <SterileMaterials.generalRules.rulesStrings>
+    <li>subject->বন্ধ্যা ভূমি</li>
+    <li>subject_FemMas->sterile পৃষ্ঠতলসমূহ / বন্ধ্যা ক্ষেত্রসমূহ</li>
+    <li>subject_def->steril পৃষ্ঠতলসমূহৰ পৰা</li>
+    <li>subject_def2->steril পৃষ্ঠতলে</li>
+    <li>subject_story->কার্যকর এবং ধারাবাহিক জীবাণুমুক্তকরণের মাধ্যমে আমি অনেক মৃত্যু প্রতিরোধ করেছি।</li>
+    <li>subject_story->সে একটি খাদ্য তৈরির রান্নাঘর চালু করেছিল, যা সিস্টেমের মধ্যে বিশেষভাবে খাদ্য বিষক্রিয়া মুক্ত বলে পরিচিত ছিল।</li>
+    <li>subject_story->সে একটি আলংকারিক টাইলস কারখানা স্থাপন করেছে, যার একটি সহায়ক লাইন রয়েছে চিকিৎসা সরঞ্জাম এবং জীবাণুমুক্ত টাইলস-এর উপর।</li>
+    <li>subject_gerund->পৃষ্ঠতল জীবাণুমুক্তকরণ</li>
+    <li>subject_gerund->জীবাণুমুক্ত পৃষ্ঠের নির্মাণ</li>
+  </SterileMaterials.generalRules.rulesStrings>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>ক্যাথোড রে টেলিভিশন</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>বিনোদনমূলক দেখার জন্য ক্যাথোড রে টিউব টেলিভিশন তৈরি করুন।</TubeTelevision.description>
+  <!-- EN:
+    <li>subject->tube televisions</li>
+    <li>subject_story->designed a faux-retro television set that could pick up interstellar signals</li>
+    <li>subject_story->moved into broadcasting, producing programmes just for the archaic tube televisions</li>
+    <li>subject_story->ensured that everyone knew the dangers of cathode ray tubes</li>
+    <li>subject_gerund->producing tube televisions</li>
+  -->
+  <TubeTelevision.generalRules.rulesStrings>
+    <li>subject->ক্যাথোড রশ্মি টেলিভিশন</li>
+    <li>subject_FemMas->ক্যাথোড রে টিউব টেলিভিশনগুলি</li>
+    <li>subject_def->ক্যাথোড রে টিউব টেলিভিশনগুলির থেকে</li>
+    <li>subject_def2->ক্যাথোড রে টিউব টেলিভিশনগুলোতে</li>
+    <li>subject_story->সে একটি নকল রেট্রো টেলিভিশন তৈরি করেছিল যা আন্তঃনাক্ষত্রিক সংকেত গ্রহণ করতে পারত।</li>
+    <li>subject_story->সে রেডিও সম্প্রচারে মনোনিবেশ করেছিলেন, শুধুমাত্র পুরনো ক্যাথোড রে টিউব টেলিভিশনগুলোর জন্য অনুষ্ঠান তৈরি করতেন।</li>
+    <li>subject_story->সে নিশ্চিত করেছিল যে সবাই ক্যাথোড রশ্মির বিপদ সম্পর্কে জানে।</li>
+    <li>subject_gerund->টিউব টেলিভিশন উৎপাদন</li>
+  </TubeTelevision.generalRules.rulesStrings>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>জলচালিত জেনারেটর</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>স্থায়ী বিদ্যুৎ সরবরাহের জন্য নদীতে জলচালিত জেনারেটর নির্মাণ করুন।</WatermillGenerator.description>
+  <!-- EN:
+    <li>subject->watermill generators</li>
+    <li>subject_story->watched twigs and leaves get pulled downstream and envisioned the power there</li>
+    <li>subject_story->hooked cabling up to an ancient flour mill on a feudalworld</li>
+    <li>subject_story->beached a paddle steamer on a ruinworld's shores and converted it into a watermill</li>
+    <li>subject_gerund->watermill generators</li>
+  -->
+  <WatermillGenerator.generalRules.rulesStrings>
+    <li>subject->জলকল</li>
+    <li>subject_FemMas->জলকলগুলি</li>
+    <li>subject_def->জলকলের থেকে</li>
+    <li>subject_def2->জলকলগুলোতে</li>
+    <li>subject_story->সে দেখল কিভাবে ডালপালা ও পাতা স্রোতের সাথে ভেসে যাচ্ছিল এবং এই ঘটনার ক্ষমতা উপলব্ধি করলো।</li>
+    <li>subject_story->সে একটি সামন্ততান্ত্রিক বিশ্বে একটি পুরনো ময়দার মিলে তার সংযোগ করেছিল।</li>
+    <li>subject_story->সে একটি বাষ্পচালিত জাহাজ একটি ধ্বংসপ্রাপ্ত বিশ্বের উপকূলে ত্যাজ্য করে এবং এটিকে জলকল হিসেবে রূপান্তরিত করে।</li>
+    <li>subject_gerund->জলকল নির্মাণ</li>
+  </WatermillGenerator.generalRules.rulesStrings>
+  
+</LanguageData>

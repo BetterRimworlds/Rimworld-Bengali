@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: civil outlander union -->
+  <OutlanderCivil.label>সভ্য বহিরাগত ইউনিয়ন</OutlanderCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <OutlanderCivil.description>এই মানুষগুলো কয়েক দশক বা শতাব্দী ধরে এখানে বসবাস করছে এবং এই গ্রহে তাদের নিয়ে আসা প্রযুক্তির বেশিরভাগই তারা হারিয়ে ফেলেছে। তারা সাধারণত সাধারণ যন্ত্রপাতি ব্যবহার করে এবং অত্যাধুনিক বারুদচালিত অস্ত্র দিয়ে নিজেদের রক্ষা করে।\n\nতারা বাণিজ্য, বিশ্বাস এবং টিকে থাকার মতো ব্যবহারিক বিষয়গুলো নিয়ে চিন্তিত।\n\nএই বিশেষ দলটি সভ্য আচরণকে অত্যন্ত মূল্যবান মনে করে।</OutlanderCivil.description>
+  <!-- EN: prime councilor -->
+  <OutlanderCivil.leaderTitle>প্রধান পরামর্শদাতা</OutlanderCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderCivil.messageDefendersAttacking>{0} থেকে {1} আপনার {2} আক্রমণ করছে।</OutlanderCivil.messageDefendersAttacking>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>বহিরাগত</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>বহিরাগতরা</OutlanderCivil.pawnsPlural>
+  
+  <!-- EN: rough outlander union -->
+  <OutlanderRough.label>অনিশ্চিত বহিরাগত জোট</OutlanderRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
+  <OutlanderRough.description>এঁরা কয়েক দশক বা শতাব্দী ধরে এখানে বসবাস করছে এবং এই গ্রহে তাঁদের নিয়ে আসা প্রযুক্তির বেশিরভাগই হারিয়ে ফেলেছে। সাধারণত তাঁরা সাধারণ যন্ত্রপাতি ব্যবহার করে এবং অত্যাধুনিক বারুদচালিত অস্ত্র দিয়ে নিজেদের রক্ষা করে।\n\nতাঁরা বাণিজ্য, বিশ্বাস এবং টিকে থাকার মতো ব্যবহারিক বিষয় নিয়ে চিন্তিত।\n\nএই বিশেষ দলের মধ্যে বর্বরতার একটি প্রবণতা রয়েছে।</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>প্রধান পরামর্শদাতা</OutlanderRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRough.messageDefendersAttacking>{0} থেকে {1} আপনার {2} আক্রমণ করছে।</OutlanderRough.messageDefendersAttacking>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>বহিরাগত</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>বহিরাগতরা</OutlanderRough.pawnsPlural>
+  
+  <!-- EN: pirate gang -->
+  <Pirate.label>জলদস্যু দল</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>বহুসংখ্যক জলদস্যু দলের একটি আলগা জোট, যারা নিজেদের মধ্যে যুদ্ধ করার পরিবর্তে বহিরাগতদের সাথে লড়তে মোটামুটিভাবে সম্মত হয়েছে।\n\nজলদস্যুরা বীজ বপন করে না, তারা নির্মাণ করে না এবং তারা খুব কমই বাণিজ্য করে। ব্যক্তিগত শক্তি ও নিষ্ঠুরতাকে মূল্য দেওয়া রক্ত ও সম্মানের সংস্কৃতি দ্বারা চালিত হয়ে তারা লুটপাট ও প্রতিবেশীদের কাছ থেকে ডাকাতির মাধ্যমে নিজেদের সমৃদ্ধ করে।\n\nতাদের প্রযুক্তির স্তর নির্ভর করে মূলত তারা সম্প্রতি কাদের কাছ থেকে চুরি করতে পেরেছে তার ওপর। বেশিরভাগই তারা গানপাউডার অস্ত্র ব্যবহার করে, যদিও কেউ কেউ কাছ থেকে আঘাত করতে পছন্দ করে।</Pirate.description>
+  <!-- EN: boss -->
+  <Pirate.leaderTitle>বস</Pirate.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Pirate.messageDefendersAttacking>{0} থেকে {1} আপনার {2} আক্রমণ করছে।</Pirate.messageDefendersAttacking>
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>জলদস্যু</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>জলদস্যু</Pirate.pawnsPlural>
+  
+  <!-- EN: gentle tribe -->
+  <TribeCivil.label>নম্র উপজাতি</TribeCivil.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
+  <TribeCivil.description>এই মানুষগুলো এখানে অনেক দিন ধরে বসবাস করছে। সম্ভবত তাদের পূর্বপুরুষরা হাজার বছর আগে এখানে বিধ্বস্ত হয়েছিল। অথবা, সম্ভবত তারা কোনো ধ্বংসাত্মক ঘটনা থেকে বেঁচে গিয়েছিল যা এখানে একটি প্রযুক্তিগত সভ্যতাকে ধ্বংস করে দিয়েছে। যেকোনো ক্ষেত্রে, উপজাতিরা মূলত যাযাবর যারা আদিম সরঞ্জাম ও অস্ত্র ব্যবহার করে প্রকৃতি থেকে জীবিকা নির্বাহ করে।\n\nতাদের আপাত প্রযুক্তিগত দুর্বলতা সত্ত্বেও, উপজাতিরা তাদের স্বল্প-প্রযুক্তি যুদ্ধের দক্ষতা, সংখ্যা এবং কষ্টসহিষ্ণুতার কারণে বিপজ্জনক শত্রু এবং মূল্যবান বন্ধু হতে পারে।\n\nএই বিশেষ উপজাতিটি যেখানে সম্ভব সেখানে শান্তিপূর্ণ জীবনযাপন করে। তারা বাণিজ্য এবং মিত্রতার জন্য বেশ উন্মুক্ত, এমনকি অপরিচিত মানুষের সাথেও।</TribeCivil.description>
+  <!-- EN: chief -->
+  <TribeCivil.leaderTitle>প্রধান ব্যক্তিত্ব</TribeCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeCivil.messageDefendersAttacking>{0} থেকে {1} আপনার {2} আক্রমণ করছে।</TribeCivil.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <TribeCivil.pawnSingular>উপজাতি সদস্য</TribeCivil.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCivil.pawnsPlural>উপজাতি সদস্য</TribeCivil.pawnsPlural>
+  
+  <!-- EN: fierce tribe -->
+  <TribeRough.label>উগ্র উপজাতি</TribeRough.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
+  <TribeRough.description>এই মানুষগুলো এখানে অনেক দিন ধরে বসবাস করছে। সম্ভবত তাদের পূর্বপুরুষরা হাজার বছর আগে এখানে বিধ্বস্ত হয়েছিল। অথবা, সম্ভবত তারা কোনো বিপর্যয় থেকে বেঁচে গিয়েছিল যা এখানে একটি প্রযুক্তিগত সভ্যতাকে ধ্বংস করেছিল। যেভাবেই হোক, উপজাতিরা মূলত যাযাবর যারা আদিম সরঞ্জাম ও অস্ত্র ব্যবহার করে প্রকৃতি থেকে জীবনধারণ করে।\n\nতাদের আপাত প্রযুক্তিগত দুর্বলতা সত্ত্বেও, উপজাতিরা তাদের স্বল্প-প্রযুক্তি যুদ্ধের দক্ষতা, সংখ্যা এবং কষ্টসহিষ্ণুতার কারণে বিপজ্জনক শত্রু এবং মূল্যবান বন্ধু হতে পারে।\n\nএই বিশেষ উপজাতিটি যুদ্ধংদেহী আধিপত্যকে মূল্য দেয়; তাদের মিত্র বানানো কঠিন হতে পারে।</TribeRough.description>
+  <!-- EN: chief -->
+  <TribeRough.leaderTitle>প্রধান ব্যক্তি</TribeRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeRough.messageDefendersAttacking>{0} থেকে {1} আপনার {2} আক্রমণ করছে।</TribeRough.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>উপজাতি সদস্য</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>উপজাতি সদস্য</TribeRough.pawnsPlural>
+  
+  <!-- EN: savage tribe -->
+  <TribeSavage.label>বন্য উপজাতি</TribeSavage.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
+  <TribeSavage.description>এই মানুষগুলো এখানে অনেক দিন ধরে বসবাস করছে। সম্ভবত তাদের পূর্বপুরুষরা এক হাজার বছর আগে এখানে বিধ্বস্ত হয়েছিল। অথবা, সম্ভবত তারা কোনো মহাপ্রলয়ের হাত থেকে বেঁচে গিয়েছিল যা এখানে একটি প্রযুক্তিগত সভ্যতাকে ধ্বংস করে দিয়েছিল। যেকোনো ক্ষেত্রে, উপজাতিরা মূলত যাযাবর জীবনযাপন করে এবং আদিম সরঞ্জাম ও অস্ত্র ব্যবহার করে প্রকৃতি থেকে জীবিকা নির্বাহ করে।\n\nতাদের আপাত প্রযুক্তিগত দুর্বলতা সত্ত্বেও, উপজাতিরা স্বল্প-প্রযুক্তি যুদ্ধের দক্ষতা, তাদের সংখ্যা এবং তাদের কষ্টসহিষ্ণুতার কারণে বিপজ্জনক শত্রু হতে পারে।\n\nএই বিশেষ উপজাতিটি রক্ত ও সম্মানের সংস্কৃতি দ্বারা চালিত; আপনি তাদের সাথে মিত্রতা করতে পারবেন না!</TribeSavage.description>
+  <!-- EN: chief -->
+  <TribeSavage.leaderTitle>প্রধান ব্যক্তিত্ব</TribeSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeSavage.messageDefendersAttacking>{0} থেকে {1} আপনার {2} আক্রমণ করছে।</TribeSavage.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <TribeSavage.pawnSingular>উপজাতি সদস্য</TribeSavage.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeSavage.pawnsPlural>উপজাতি সদস্য</TribeSavage.pawnsPlural>
+  
+</LanguageData>

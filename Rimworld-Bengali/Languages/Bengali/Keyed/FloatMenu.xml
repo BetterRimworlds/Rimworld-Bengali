@@ -1,0 +1,659 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Call {0} -->
+  <CallOnRadio>{0} ডাকুন</CallOnRadio>
+  <!-- EN: Cannot use: {0} -->
+  <CannotUseReason>Cannot use: {0}</CannotUseReason>
+  <!-- EN: Cannot use: EMP -->
+  <CannotUseSolarFlare>বৈদ্যুতিক বিকিরণ</CannotUseSolarFlare>
+  <!-- EN: Cannot use: No power -->
+  <CannotUseNoPower>বিদ্যুৎ নেই।</CannotUseNoPower>
+  <!-- EN: Cannot use: No path -->
+  <CannotUseNoPath>পথ নেই।</CannotUseNoPath>
+  <!-- EN: Cannot use: Reserved -->
+  <CannotUseReserved>ব্যবহার করা যাচ্ছে না: সংরক্ষিত</CannotUseReserved>
+  <!-- EN: Cannot use: Full -->
+  <CannotUseFull>পূর্ণ ব্যবহার করা যাবে না:</CannotUseFull>
+  <!-- EN: leader {1_labelShort} is unavailable -->
+  <LeaderUnavailable>নেতা {1_labelShort} অনুপলব্ধ।</LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
+  <LeaderUnavailableNoLeader>নেতা উপলব্ধ নেই।</LeaderUnavailableNoLeader>
+  <!-- EN: Not allowed -->
+  <NotAllowed>নিষিদ্ধ।</NotAllowed>
+  
+  <!-- EN: Attack {1_labelShort} -->
+  <Attack>আক্রমণ {1_labelShort}</Attack>
+  <!-- EN: Fire at {1_labelShort} -->
+  <FireAt>{1_labelShort}-এ আগুন লাগাও</FireAt>
+  <!-- EN: Remove -->
+  <Remove>মুছুন</Remove>
+
+  <!-- EN: out of range -->
+  <OutOfRange>সীমার বাইরে</OutOfRange>
+  <!-- EN: too close -->
+  <TooClose>খুব কাছে।</TooClose>
+  <!-- EN: Cannot hit target -->
+  <CannotHitTarget>লক্ষ্য আঘাত করা সম্ভব নয়।</CannotHitTarget>
+  <!-- EN: {1_labelShort} is incapable of violence -->
+  <IsIncapableOfViolenceLower>{1_labelShort} সহিংস হতে অক্ষম।</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
+  <IncapableOfViolenceLower>হিংস্রতা করতে অক্ষম</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>{0_labelShort} গুলি করতে অক্ষম।</IsIncapableOfShootingLower>
+  <!-- EN: {1_labelShort} is not drafted -->
+  <IsNotDraftedLower>{1_labelShort} ড্রাফটেড নয়।</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
+  <CannotOrderNonControlledLower>আপনি যাদের নিয়ন্ত্রণ করেন না, তাদের অর্ডার করতে পারবেন না।</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack -->
+  <CannotAttack>আক্রমণ করা যাবে না।</CannotAttack>
+  <!-- EN: cannot attack self -->
+  <CannotAttackSelf>নিজেকে আক্রমণ করা যাবে না।</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>জোটবদ্ধ গোষ্ঠীর উপর আক্রমণ করা যাবে না।</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>অগ্নি নির্বাপণে অক্ষম।</IncapableOfFirefighting>
+
+  <!-- EN: Man {1_labelShort} -->
+  <OrderManThing>মানুষ {1_labelShort}</OrderManThing>
+  
+  <!-- EN: Melee attack {1_labelShort} -->
+  <MeleeAttack>নিকট যুদ্ধ আক্রমণ {1_labelShort}</MeleeAttack>
+  <!-- EN: Melee attack {1_labelShort} to death -->
+  <MeleeAttackToDeath>নিকট যুদ্ধ আক্রমণে {1_labelShort} এর মৃত্যু।</MeleeAttackToDeath>
+  <!-- EN: no path -->
+  <NoPath>পথ নেই</NoPath>
+  <!-- EN: burying -->
+  <Burying>সমাধান</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>{0}-এর জন্য নির্দিষ্ট করা হয়েছে</DesignatedFor>
+
+  <!-- EN: forbidden -->
+  <ForbiddenLower>নিষিদ্ধ</ForbiddenLower>
+  <!-- EN: outside allowed area -->
+  <ForbiddenOutsideAllowedAreaLower>অনুমোদিত এলাকার বাইরে</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
+  <NotInHomeArea>আবাস অঞ্চলের বাইরে নয়।</NotInHomeArea>
+  <!-- EN: burning -->
+  <BurningLower>দহন</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
+  <NoEmptyPlaceLower>সংরক্ষণ করার জন্য কোনো খালি, অ্যাক্সেসযোগ্য স্থান কনফিগার করা হয়নি।</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>একত্র করার জন্য কোনো স্ট্যাক উপলব্ধ নেই।</NoMergeTarget>
+  <!-- EN: already filled enough -->
+  <AlreadyFilledLower>যথেষ্ট পূরণ করা হয়েছে।</AlreadyFilledLower>
+  <!-- EN: missing {0} -->
+  <MissingMaterials>{0} অনুপস্থিত</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>'{CATEGORY}' এর জন্য ওষুধ নেই।</NoMedicineMatchingCategory>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>প্রয়োজনীয় দক্ষতা {0} এর অধীনে</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>অনুমোদিত দক্ষতা {0} এর নিচে</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>উপরে অনুমোদিত দক্ষতা {0}</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>বাইরের কক্ষে পৌঁছানো সম্ভব নয়।</NoReachableOutsideCell>
+  <!-- EN: cannot exit map -->
+  <CannotExitMap>মানচিত্র ত্যাগ করা সম্ভব নয়।</CannotExitMap>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>প্রয়োজনীয় দক্ষতা স্তর অনুপস্থিত।</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
+  <AnimalInteractedTooRecently>প্রাণীটি খুব সম্প্রতি взаимодейিত হয়েছে।</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>অতি সম্প্রতি যোগাযোগ করা হয়েছে</PrisonerInteractedTooRecently>
+  <!-- EN: no usable food -->
+  <NoUsableFood>খাবার ব্যবহারযোগ্য নয়।</NoUsableFood>
+  <!-- EN: not enough food -->
+  <NoFood>খাবার অপর্যাপ্ত।</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>খাবার মিলানোর কোনো বিধিনিষেধ নেই।</NoFoodMatchingRestrictions>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>{0_label} নেই।</NoIngredient>
+  <!-- EN: below requirements of {0} -->
+  <FoodBelowTitleRequirements>{0} এর নিচের প্রয়োজনীয়তাগুলো</FoodBelowTitleRequirements>
+  <!-- EN: animals skill too low - need {0} -->
+  <AnimalsSkillTooLow>প্রাণীদের দক্ষতা খুব কম - {0} প্রয়োজন।</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>পশু ভূপতিত</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>পশু ঘুমন্ত</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>প্রাণী ব্যস্ত</CantInteractAnimalBusy>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>কোনো অনুমোদিত প্রবেশযোগ্য কলম নেই।</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>বদ্ধহীন খাঁচা নেই</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>নিষিদ্ধ কলম</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>প্রাপ্য কলম নেই</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>স্পর্শ করা যায় না</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>পেনে স্থান নেই।</CantRopeAnimalNoSpace>
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>{0_labelShort} {1} অবস্থায় আছেন।</CantRopeAnimalMentalState>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>ইতিমধ্যে সেরা কলম ব্যবহার করা হয়েছে।</CantRopeAnimalAlreadyInBestPen>
+  <!-- EN: {0} skill too low -->
+  <SkillTooLowForConstruction>{0} দক্ষতা খুব কম</SkillTooLowForConstruction>
+  <!-- EN: need components -->
+  <NoComponentsToRepair>উপাদান প্রয়োজন।</NoComponentsToRepair>
+  <!-- EN: need {0} -->
+  <NoFuelToRefuel>{0} প্রয়োজন।</NoFuelToRefuel>
+  <!-- EN: need wort -->
+  <NoWort>প্রয়োজনীয় উদ্ভিদ</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>সংরক্ষিত খাদ্যের অগ্রাধিকার বেশি।</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
+  <NoFoodToFillHopper>উপযুক্ত খাবার নেই।</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
+  <SelfTendDisabled>স্ব-চিকিৎসা নিষ্ক্রিয় করা হয়েছে</SelfTendDisabled>
+  <!-- EN: reserved for prisoners -->
+  <ReservedForPrisoners>বন্দীদের জন্য সংরক্ষিত</ReservedForPrisoners>
+  <!-- EN: cannot reach -->
+  <CannotReach>পৌঁছানো যাচ্ছে না</CannotReach>
+  <!-- EN: not ready for surgery -->
+  <NotSurgeryReady>অস্ত্রোপচারের জন্য প্রস্তুত নয়।</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>দক্ষতাহীন</SkillDisabled>
+  <!-- EN: too bright -->
+  <CantSowCavePlantBecauseOfLight>অতিরিক্ত উজ্জ্বল</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
+  <CantSowCavePlantBecauseUnroofed>ছাদবিহীন</CantSowCavePlantBecauseUnroofed>
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>পুনর্গঠন অসম্ভব।</IncapableOfDeconstruction>
+  <!-- EN: incapable of mining -->
+  <IncapableOfMining>খনন করতে অক্ষম</IncapableOfMining>
+  <!-- EN: tree marked for extraction -->
+  <TreeMarkedForExtraction>গাছটি নিষ্কাশনের জন্য চিহ্নিত করা হয়েছে।</TreeMarkedForExtraction>
+  <!-- EN: angers faction -->
+  <AngersFaction>ক্রোধিত দল</AngersFaction>
+  <!-- EN: no body part -->
+  <InstallImplantNoBodyPart>অঙ্গ নেই</InstallImplantNoBodyPart>
+  <!-- EN: not a colonist -->
+  <InstallImplantNotAllowedForNonColonists>উপনিবেশী নয়</InstallImplantNotAllowedForNonColonists>
+  <!-- EN: already installed -->
+  <InstallImplantAlreadyInstalled>ইতিমধ্যে ইনস্টল করা আছে</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>একটি বিদ্যমান {0} প্রয়োজন।</InstallImplantHediffRequired>
+  <!-- EN: max level -->
+  <InstallImplantAlreadyMaxLevel>সর্বোচ্চ স্তর</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>ন্যূনতম স্তর {0} প্রয়োজন।</InstallImplantMinLevel>
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>মানসিকভাবে বধির</InstallImplantPsychicallyDeaf>
+  <!-- EN: Upgrade {0} to level {1} -->
+  <UpgradeImplant>{0} কে {1} স্তরে উন্নীত করুন।</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>গোষ্ঠী মিত্রের লঙ্ঘন</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>{0_labelShort} দ্বারা বহন করা হচ্ছে</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>পূর্ণ</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>ইতিমধ্যে নির্ধারিত</AlreadyAssigned>
+  
+  <!-- EN: Consume {1_labelShort} -->
+  <ConsumeThing>খাওয়ার {1_labelShort}</ConsumeThing>
+  
+  <!-- EN: Cannot go here: No path -->
+  <CannotGoNoPath>এখানে যাওয়া যাবে না: কোনো পথ নেই।</CannotGoNoPath>
+  <!-- EN: Go here -->
+  <GoHere>এখানে যান</GoHere>
+
+  <!-- EN: Clean {0} -->
+  <CleanRoom>{0} পরিষ্কার করুন</CleanRoom>
+  
+  <!-- EN: Arrest {0} -->
+  <Arrest>{0} গ্রেপ্তার করুন</Arrest>
+  <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
+  <TryToArrest>{1_labelShort} গ্রেপ্তার করার চেষ্টা করুন ({2} সম্ভাবনা)</TryToArrest>
+  <!-- EN: Cannot arrest -->
+  <CannotArrest>গ্রেফতার করা যাবে না</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>{0} গ্রেপ্তারের সম্ভাবনা</ArrestChance>
+
+  <!-- EN: Capture {1_labelShort} -->
+  <Capture>ক্যাপচার {1_labelShort}</Capture>
+  <!-- EN: capture {0_labelShort} -->
+  <CaptureLower>ক্যাপচার {0_labelShort}</CaptureLower>
+  <!-- EN: Cannot capture -->
+  <CannotCapture>ক্যাপচার করা সম্ভব নয়</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>অটল অনুগত</Unrecruitable>
+  <!-- EN: not recruitable -->
+  <UnrecruitableNoFaction>নিয়োগযোগ্য নয়</UnrecruitableNoFaction> 
+  <!-- EN: Transfer {0_label} -->
+  <TransferEntity>স্থানান্তর {0_label}</TransferEntity> 
+
+  <!-- EN: Rescue {1_labelShort} -->
+  <Rescue>উদ্ধার {1_labelShort}</Rescue>
+  <!-- EN: Put {1_labelShort} somewhere safe -->
+  <PutSomewhereSafe>{1_labelShort} নিরাপদে রাখুন।</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>{0_labelShort}কে বিছানায় নিয়ে যাওয়া হচ্ছে।</TakingToBed>
+  <!-- EN: Cannot rescue -->
+  <CannotRescue>উদ্ধার করা সম্ভব নয়</CannotRescue>
+  <!-- EN: Cannot rescue {PAWN_labelShort} -->
+  <CannotRescuePawn>{PAWN_labelShort} উদ্ধার করা সম্ভব নয়।</CannotRescuePawn>
+
+  <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
+  <CarryToCryptosleepCasket>{1_labelShort} ক্রিপ্টোস্লিপ কফিনে বহন করুন।</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
+  <CannotCarryToCryptosleepCasket>ক্রিপ্টোস্লিপ কফিনে বহন করা সম্ভব নয়।</CannotCarryToCryptosleepCasket>
+
+  <!-- EN: Carry {0_labelShort} to shuttle -->
+  <CarryToShuttle>শাটলে {0_labelShort} বহন করুন</CarryToShuttle>
+
+  <!-- EN: No available cryptosleep casket. -->
+  <NoCryptosleepCasket>ক্রিপ্টোস্লিপ কফিন উপলব্ধ নেই।</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>অস্থায়ী দলীয় সদস্য অনুমোদিত নয়।</CryptosleepCasketGuestsNotAllowed>
+  <!-- EN: Hosted prisoners not allowed. -->
+  <CryptosleepCasketGuestPrisonersNotAllowed>আশ্রিত বন্দীদের অনুমতি নেই।</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>ইতিমধ্যে занятый</CryptosleepCasketOccupied>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
+  <NoPrisonerBed>কোনো নিরাপদ তাপমাত্রার মধ্যে পৌঁছানো যায় না, এমন সংরক্ষিত নয়, আবদ্ধ বন্দি-চিহ্নিত বিছানা নেই।</NoPrisonerBed>
+  <!-- EN: No prisoner bed available. -->
+  <NoPrisonerBedShort>বন্দী রাখার জন্য কোনো বিছানা নেই।</NoPrisonerBedShort>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
+  <NoNonPrisonerBed>কোনো নিরাপদ তাপমাত্রায় পৌঁছানো যায় না, এমন সংরক্ষিতবিহীন বিছানা নেই।</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
+  <NoAnimalBed>কাছাকাছি কোনো সংরক্ষিত নয়, এমন পশুশয্যা নিরাপদ তাপমাত্রায় নেই।</NoAnimalBed>
+  <!-- EN: No reachable, unforbidden, un-reserved {0} -->
+  <NoItemReservedOrReachable>কোনো পৌঁছানো যায় না, নিষিদ্ধ নয়, সংরক্ষিতও নয় {0}</NoItemReservedOrReachable>
+  <!-- EN: No unforbidden, un-reserved {0} -->
+  <NoItemReserved>নিষিদ্ধ নয়, কোনো সীমাবদ্ধতা নেই {0}</NoItemReserved>
+  <!-- EN: Reserved by someone else. -->
+  <Reserved>অন্যের দ্বারা সংরক্ষিত।</Reserved>
+  <!-- EN: Reserved by {1_labelShort} -->
+  <ReservedBy>{1_labelShort} দ্বারা সংরক্ষিত</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
+  <IsReservedBy>{0} {1} দ্বারা সংরক্ষিত।</IsReservedBy>
+  <!-- EN: Too heavy -->
+  <TooHeavy>অতিরিক্ত ভারী</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>{0_labelShort} একই দলের সদস্য।</SameFaction>
+
+  <!-- EN: incapable -->
+  <Incapable>অক্ষম</Incapable>
+  <!-- EN: incapable of {0} -->
+  <IncapableOfCapacity>{0} করতে অক্ষম</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>অবশ্যই {0_label} থাকতে হবে।</MustHaveHediff>
+
+  <!-- EN: min skill -->
+  <MinSkill>ন্যূনতম দক্ষতা</MinSkill>
+  
+  <!-- EN: Equip {0} -->
+  <Equip>{0} সজ্জিত করুন</Equip>
+  <!-- EN: (brawler will be unhappy) -->
+  <EquipWarningBrawler>(বrawler অসন্তুষ্ট হবে)</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
+  <CannotEquip>{0} পরানো সম্ভব নয়।</CannotEquip>
+  <!-- EN: Cannot man {1_labelShort} -->
+  <CannotManThing>মানুষ করা যাচ্ছে না {1_labelShort}</CannotManThing>
+  
+  <!-- EN: Force wear {1_labelShort} -->
+  <ForceWear>জোর করে পরিধান {1_labelShort}</ForceWear>
+  <!-- EN: Force target to wear {1_labelShort}... -->
+  <ForceTargetToWear>লক্ষ্যকে {1_labelShort} পরতে বাধ্য করুন…</ForceTargetToWear>
+  <!-- EN: Cannot wear {1_label} -->
+  <CannotWear>{1_label} পরিধান করা যায় না</CannotWear>
+  <!-- EN: Cannot force target to wear {1_label} -->
+  <CannotForceTargetToWear>লক্ষ্যকে {1_label} পরতে বাধ্য করা যাচ্ছে না।</CannotForceTargetToWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>জোর করে পরানো {1_labelShort}</ForceEquipApparel>
+  <!-- EN: Force target to equip {1_labelShort}... -->
+  <ForceTargetToEquipApparel>লক্ষ্যকে {1_labelShort} পরতে বাধ্য করুন…</ForceTargetToEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>উপকরণ পরিধান করা সম্ভব নয় {1_label}</CannotEquipApparel>
+  <!-- EN: Cannot force target to equip {1_label} -->
+  <CannotForceTargetToEquipApparel>লক্ষ্যকে {1_label} পরতে বাধ্য করা যাচ্ছে না।</CannotForceTargetToEquipApparel>
+  <!-- EN: missing body parts -->
+  <CannotWearBecauseOfMissingBodyParts>দেহের অংশ অনুপস্থিত</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>{GEAR_labelShort} পুনরায় লোড করুন {AMMO_label} দিয়ে।</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>পূর্ণ</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>অপর্যাপ্ত।</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>১টি চার্জ পুনরায় লোড করার জন্য যথেষ্ট {AMMO_label} বহন করা সম্ভব নয়।</ReloadCannotCarryEnough>
+  
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUp>{1_labelShort} তোলা সম্ভব নয়।</CannotPickUp>
+  <!-- EN: Cannot pick up {1_label} (all) -->
+  <CannotPickUpAll>{1_label} সংগ্রহ করা যাচ্ছে না (সব)</CannotPickUpAll>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>{1_labelShort} x1 সংগ্রহ করুন।</PickUpOne>
+  <!-- EN: Pick up {1_label} (all) -->
+  <PickUpAll>{1_label} সংগ্রহ করুন (সব)</PickUpAll>
+  <!-- EN: Pick up {1_labelShort}... -->
+  <PickUpSome>{1_labelShort} সংগ্রহ করুন…</PickUpSome>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>{1_labelShort} x{{0}} সংগ্রহ করুন।</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>{1_labelShort} তোলা সম্ভব নয়।</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>{0} {1} অনুমোদিত</MaxPickUpAllowed>
+  
+  <!-- EN: Cannot load {1_label} onto pack animal -->
+  <CannotGiveToPackAnimal>প্যাক পশুতে {1_label} লোড করা যাচ্ছে না।</CannotGiveToPackAnimal>
+  <!-- EN: Cannot load {1_label} (all) onto pack animal -->
+  <CannotGiveToPackAnimalAll>প্যাক পশুতে {1_label} (সমস্ত) লোড করা যায় না।</CannotGiveToPackAnimalAll>
+  <!-- EN: Load {1_label} onto pack animal -->
+  <GiveToPackAnimal>প্যাক পশুতে {1_label} লোড করুন।</GiveToPackAnimal>
+  <!-- EN: Load {1_label} (all) onto pack animal -->
+  <GiveToPackAnimalAll>প্যাক পশুতে {1_label} (সব) লোড করুন।</GiveToPackAnimalAll>
+  <!-- EN: Load {1_labelShort} onto pack animal... -->
+  <GiveToPackAnimalSome>প্যাক পশুতে {1_labelShort} লোড করা হচ্ছে…</GiveToPackAnimalSome>
+  <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
+  <GiveToPackAnimalCount>প্যাক পশুতে {1_labelShort} x{{0}} লোড করুন।</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {1_label} into caravan -->
+  <CannotLoadIntoCaravan>কারাভানে {1_label} লোড করা যাচ্ছে না।</CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {1_label} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>ক্যারাভানে {1_label} লোড করা যাচ্ছে না (সব)।</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {1_label} into caravan -->
+  <LoadIntoCaravan>কারাভানে {1_label} লোড করুন।</LoadIntoCaravan>
+  <!-- EN: Load {1_label} (all) into caravan -->
+  <LoadIntoCaravanAll>ক্যারাভানে {1_label} (সব) লোড করুন।</LoadIntoCaravanAll>
+  <!-- EN: Load {1_labelShort} into caravan... -->
+  <LoadIntoCaravanSome>কারাভানে {1_labelShort} লোড করা হচ্ছে…</LoadIntoCaravanSome>
+  <!-- EN: Load {1_labelShort} x{{0}} -->
+  <LoadIntoCaravanCount>লোড {1_labelShort} x{{0}}</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>অতিরিক্ত ওজন</OverweightLower>
+
+  <!-- EN: Cannot carry {1_labelShort} and leave the area -->
+  <CannotCarryToExit>{1_labelShort} বহন করতে পারছি না এবং এলাকা ত্যাগ করতে পারছি না।</CannotCarryToExit>
+  <!-- EN: Carry {1_labelShort} and leave the area -->
+  <CarryToExit>{1_labelShort} বহন করুন এবং এলাকা ত্যাগ করুন।</CarryToExit>
+  <!-- EN: Capture {1_labelShort} and leave the area -->
+  <CarryToExitAndCapture>{1_labelShort} বন্দী করুন এবং এলাকা ত্যাগ করুন।</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {1_labelShort} -->
+  <Strip>স্ট্রিপ {1_labelShort}</Strip>
+  <!-- EN: Cannot strip {1_labelShort} -->
+  <CannotStrip>ছেঁটে ফেলা যায় না {1_labelShort}</CannotStrip>
+  <!-- EN: Cannot drop {1_labelShort} -->
+  <CannotDrop>ফেলা যায় না {1_labelShort}</CannotDrop>
+  <!-- EN: Carry {0_labelShort} -->
+  <Carry>বহন করুন {0_labelShort}</Carry>
+  <!-- EN: Cannot carry {0_labelShort} -->
+  <CannotCarry>বহন করা সম্ভব নয় {0_labelShort}</CannotCarry>
+  <!-- EN: hostile -->
+  <CarriedPawnHostile>বৈরী</CarriedPawnHostile>
+  <!-- EN: temporary faction member -->
+  <QuestRelated>অস্থায়ী দলীয় সদস্য</QuestRelated>
+  <!-- EN: Cannot change outfits on temporary faction members -->
+  <QuestRelated_Outfit>অস্থায়ী দলীয় সদস্যদের পোশাক পরিবর্তন করা যায় না।</QuestRelated_Outfit>
+  <!-- EN: would replace locked apparel -->
+  <WouldReplaceLockedApparel>লক করা পোশাক প্রতিস্থাপন করবে।</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>{0_label} কে {1_label} এ স্থাপন করা সম্ভব নয়।</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>{0_label} কে {1_label} এ স্থাপন করুন।</PlaceIn>
+
+  <!-- EN: Self-destruct here -->
+  <SelfDestructHere>এখানে স্ব-ধ্বংস করুন</SelfDestructHere>
+  
+  <!-- EN: Drop {1_labelShort} -->
+  <Drop>ফেলে দেওয়া {1_labelShort}</Drop>
+
+  <!-- EN: Rest until healed -->
+  <UseMedicalBed>আরোগ্য হওয়া পর্যন্ত বিশ্রাম</UseMedicalBed>
+  <!-- EN: not injured -->
+  <NotInjured>আহত নন</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>ডাক্তার নেই</NoDoctor>
+  <!-- EN: medical bed not for slaves -->
+  <NotForSlaves>দাসদের জন্য নয় মেডিকেল বেড।</NotForSlaves>
+  <!-- EN: Medical care disabled -->
+  <MedicalCareDisabled>চিকিৎসা পরিষেবা বন্ধ করা হয়েছে।</MedicalCareDisabled>
+  <!-- EN: occupied by {0} -->
+  <SomeoneElseSleeping>{0} দ্বারা অধিকৃত</SomeoneElseSleeping>
+  
+  <!-- EN: Trade with {0} -->
+  <TradeWith>{0}-এর সাথে বাণিজ্য</TradeWith>
+  <!-- EN: Dismiss trader -->
+  <DismissTrader>বণিক বরখাস্ত করুন</DismissTrader>
+  <!-- EN: Cannot trade -->
+  <CannotTrade>লেনদেন করা যাবে না।</CannotTrade>
+  <!-- EN: Trader dismissed -->
+  <TraderDismissed>বণিক বরখাস্ত।</TraderDismissed>
+
+  <!-- EN: Open {0_label} -->
+  <Open>{0_লেবেল} খুলুন</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>{0_label} খুলতে সমস্যা হচ্ছে।</CannotOpen>
+  
+  <!-- EN: Enter {0} -->
+  <EnterMap>{0} প্রবেশ করুন</EnterMap>
+  <!-- EN: Visit {0} -->
+  <VisitSettlement>{0} পরিদর্শন করুন</VisitSettlement>
+  <!-- EN: Visit {0} -->
+  <VisitPeaceTalks>{0} এ যান</VisitPeaceTalks>
+  <!-- EN: Visit {0} -->
+  <VisitEscapeShip>{0} পরিদর্শন করুন</VisitEscapeShip>
+  <!-- EN: Attack {0} -->
+  <AttackSettlement>আক্রমণ {0}</AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>{0} এর দিকে যান</ApproachSite>
+  <!-- EN: Approaching {0}. -->
+  <ApproachingSite>{0} এর দিকে অগ্রসর হচ্ছে।</ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>উপহার দিন</OfferGifts>
+  <!-- EN: Trade with {0} -->
+  <TradeWithSettlement>{0}-এর সাথে বাণিজ্য</TradeWithSettlement>
+
+  <!-- Specific thing interactions -->
+  <!-- EN: Enter cryptosleep casket -->
+  <EnterCryptosleepCasket>ক্রিপ্টোস্লিপ কফিন</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
+  <OpenCryptosleepCasket>ক্রিপ্টোস্লিপ কফিন খুলুন</OpenCryptosleepCasket>
+  <!-- EN: Get in shuttle -->
+  <EnterShuttle>শাটলে প্রবেশ করুন</EnterShuttle>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>{0} {1} সম্ভব নয়।</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>{0} সম্ভব নয়।</CannotGenericWorkCustom>
+
+  <!-- EN: Incapable of {0} -->
+  <CannotMissingHealthActivities>{0} করতে অক্ষম</CannotMissingHealthActivities>
+
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {2_labelShort} -->
+  <CannotGenericAlreadyAm>ইতিমধ্যে {0} {2_labelShort}</CannotGenericAlreadyAm>
+  <!-- EN: Already {0} -->
+  <CannotGenericAlreadyAmCustom>ইতিমধ্যে {0}</CannotGenericAlreadyAmCustom>
+
+  <!-- EN: Will never do {0} -->
+  <CannotPrioritizeWorkTypeDisabled>কখনও করবে না {0}</CannotPrioritizeWorkTypeDisabled>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>প্রয়োজনীয় শিরোনাম নেই</MissingTitleAbility>
+
+  <!-- EN: Will never {0} -->
+  <CannotPrioritizeWorkGiverDisabled>কখনও {0} হবে না</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>কখনও {0} হবে না</WillNever>
+
+  <!-- EN: Not assigned to {0} -->
+  <CannotPrioritizeNotAssignedToWorkType>{0}-এর জন্য নির্ধারিত নয়।</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>নির্ধারিত নয়</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>{0}-এর জন্য নির্ধারিত নয়।</NotAssignedToWorkType>
+
+  <!-- EN: Research is a long-term task -->
+  <CannotPrioritizeResearch>গবেষণা একটি দীর্ঘমেয়াদী কাজ।</CannotPrioritizeResearch>
+
+  <!-- EN: {1_label} is forbidden -->
+  <CannotPrioritizeForbidden>{1_label} নিষিদ্ধ।</CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize: Forbidden -->
+  <CannotPrioritizeCellForbidden>অগ্রাধিকার দেওয়া যায় না: নিষিদ্ধ</CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
+  <CannotPrioritizeForbiddenOutsideAllowedArea>অনুমোদিত এলাকার বাইরে</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>enterring অগ্রাধিকার দিতে পারবে না</CannotPrioritizeBurying>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
+  <PrioritizeGeneric>{0} {1} অগ্রাধিকার দিন</PrioritizeGeneric>
+  <!-- EN: Prioritize {0} -->
+  <PrioritizeGenericSimple>{0} অগ্রাধিকার দিন</PrioritizeGenericSimple>
+
+  <!-- EN: Launch to {LOCATION_label} -->
+  <LaunchTo>{LOCATION_label} এ উৎক্ষেপণ করুন</LaunchTo>
+  <!-- EN: Are you sure you want to launch? -->
+  <LaunchToConfirmation>আপনি কি উৎক্ষেপণ করতে নিশ্চিত?</LaunchToConfirmation>
+  <!-- EN: Drop at edge -->
+  <DropAtEdge>প্রান্তে ফেলুন।</DropAtEdge>
+  <!-- EN: Drop in center -->
+  <DropInCenter>কেন্দ্রস্থলে ফেলুন</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>আক্রমণ {0}</AttackShuttle>
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>আক্রমণ {0}: প্রান্তে ফেলে দিন</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>আক্রমণ {0}: কেন্দ্রে ফেলুন</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
+  <VomitingLower>বমি করা</VomitingLower>
+  <!-- EN: not interruptible -->
+  <NotInterruptibleLower>অবিচ্ছিন্ন</NotInterruptibleLower>
+  
+  <!-- EN: Add a new waypoint here -->
+  <AddWaypoint>এখানে একটি নতুন ওয়েপয়েন্ট যোগ করুন।</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
+  <RemoveWaypoint>এই ওয়েপয়েন্ট সরান</RemoveWaypoint>
+
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>সমস্ত নির্ধারণ বাতিল করুন</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>নির্ধারিত করুন</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>: {0} দ্বারা প্রভাবিত</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>নিষিদ্ধ সকল বস্তু</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>সব জিনিস নিষিদ্ধকরণ বাতিল করুন</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>{0}-তে জুম করে অবতরণের স্থান নির্বাচন করুন।</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>বিষয়বস্তু হারিয়ে যাবে।</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>বহর গঠন করুন</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>{0}-কে দিন</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>{0}-কে উপহার হিসেবে দিন ({1})</GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>উৎক্ষেপণ দলের অংশ নয়।</NotPartOfLaunchGroup>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>বন্দী মুক্ত করুন</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>সাহায্য করুন</OfferHelp>
+
+  <!-- EN: apply {0} -->
+  <ApplyTechprint>{0} প্রয়োগ করুন</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>অত্যন্ত বিপজ্জনক</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>ডাকার মতো কেউ নেই।</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>{0} সক্রিয় করুন</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>{0} সক্রিয় করা যায় না।</CannotInvoke>
+  <!-- EN: power -->
+  <Power>বিদ্যুৎ</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>ইতিমধ্যে আহ্বান করা হয়েছে।</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>যত্ন {0}</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>{0} দেখাশোনা করা সম্ভব নয়।</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>{0} এর পরিচর্যা করার প্রয়োজন নেই।</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>ওষুধ ছাড়া</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>{0} মেরামত করুন</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>{0} মেরামত করা সম্ভব নয়।</CannotRepair>
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>প্রবেশ করা যাবে না।</CannotEnter>
+  
+  <!-- EN: Cannot enter {0} -->
+  <CannotEnterPortal>{0} এ প্রবেশ করা সম্ভব নয়।</CannotEnterPortal>
+  <!-- EN: closed -->
+  <PortalClosed>বন্ধ</PortalClosed>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>{0} এর সাথে রোমান্স করা সম্ভব নয়।</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>রোমান্স {0}</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>অপছন্দ খাবার</WarningFoodDisliked>
+  <!-- EN: Unsuitable food -->
+  <FoodNotSuitable>অযোগ্য খাদ্য</FoodNotSuitable>
+
+  <!-- EN: Unsuitable drug -->
+  <DrugNotSuitable>অযোগ্য ওষুধ</DrugNotSuitable>
+  
+  <!-- Books -->
+  <!-- EN: Assign reading... -->
+  <AssignReading>পঠন নির্ধারণ…</AssignReading>
+  <!-- EN: Read {0} -->
+  <AssignReadNow>{0} পড়ুন</AssignReadNow>
+  <!-- EN: Cannot read {0} -->
+  <AssignCannotReadNow>{0} পড়া যাচ্ছে না।</AssignCannotReadNow>
+
+  <!-- EN: Prioritize extinguishing fires -->
+  <ExtinguishFiresNearby>আগুন নেভাকে অগ্রাধিকার দিন</ExtinguishFiresNearby>
+
+  <!-- Analysis -->
+  <!-- EN: already analyzed -->
+  <AlreadyAnalyzed>বিশ্লেষণ করা হয়েছে।</AlreadyAnalyzed>
+  <!-- EN: no reachable, un-reserved research bench available -->
+  <NoResearchBench>কোনো পৌঁছানো যায় না, অব্যবহৃত গবেষণা বেঞ্চ উপলব্ধ নেই।</NoResearchBench>
+
+  <!-- Hacking -->
+  <!-- EN: Hack {0} -->
+  <Hack>হ্যাক {0}</Hack>
+  <!-- EN: Choose a colonist to hack this. -->
+  <HackDesc>এই কাজটি করার জন্য একজন উপনিবেশিককে নির্বাচন করুন।</HackDesc>
+  <!-- EN: Cannot hack {0} -->
+  <CannotHack>{0} হ্যাক করা যায়নি।</CannotHack>
+  <!-- EN: Locked out -->
+  <LockedOut>লক করা হয়েছে</LockedOut>
+  <!-- EN: Already hacked -->
+  <AlreadyHacked>ইতিমধ্যে হ্যাক করা হয়েছে</AlreadyHacked>
+  <!-- EN: Incapable of hacking -->
+  <IncapableOfHacking>হ্যাকিং করতে অক্ষম</IncapableOfHacking>
+  <!-- EN: to drop supplies -->
+  <ToDropSupplies>সরবরাহ ফেলাও</ToDropSupplies>
+
+</LanguageData>

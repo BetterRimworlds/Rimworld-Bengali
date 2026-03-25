@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Follow master while the master is drafted. -->
+  <FollowDrafted.headerTip>গুরুত্বপূর্ণ নিয়ম:\n- কোনো ব্যাখ্যা, নোট অথবা বন্ধনীর মধ্যে মন্তব্য নয়\n- শুধুমাত্র একটি অনুবাদ - কোনো বিকল্প নয় [শুধুমাত্র ১টি, কোনো 'Option 1 / Option 2</FollowDrafted.headerTip>
+  
+  <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
+  <FollowFieldwork.headerTip>মাস্টারের সাথে ফিল্ড ওয়ার্কের সময় অনুসরণ করুন (শিকার বা পশুদের পোষ মানানো)।</FollowFieldwork.headerTip>
+  
+  <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
+  <Hunt.headerTip>শিকারীদের দ্বারা শিকার করার জন্য পশু চিহ্নিত করুন।\n\nযথাযথ দূরপাল্লার অস্ত্র আছে এমন শিকারীরাই শিকার করবে।</Hunt.headerTip>
+  
+  <!-- EN: Release to wild -->
+  <ReleaseAnimalToWild.headerTip>বন্যে ছাড়া</ReleaseAnimalToWild.headerTip>
+  
+  <!-- EN: Slaughter -->
+  <Slaughter.headerTip>slaughter</Slaughter.headerTip>
+  
+  <!-- EN: Sterilize -->
+  <Sterile.headerTip>জীবাণুমুক্ত করুন</Sterile.headerTip>
+  
+  <!-- EN: Tame a wild animal. -->
+  <Tame.headerTip>একটি বন্য প্রাণী পোষ মানানো।</Tame.headerTip>
+  
+</LanguageData>

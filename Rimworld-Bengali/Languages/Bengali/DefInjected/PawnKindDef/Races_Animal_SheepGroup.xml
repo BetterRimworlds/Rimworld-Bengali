@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpaca --><!-- EN: alpaca -->
+  <Alpaca.label>আলপাকা</Alpaca.label><!-- EN: alpacas -->
+  <Alpaca.labelPlural>আলপাকা</Alpaca.labelPlural><!-- EN: cría de alpaca -->
+  <Alpaca.lifeStages.0.label>আলপাকা শাবক</Alpaca.lifeStages.0.label><!-- EN: crías de alpaca -->
+  <Alpaca.lifeStages.0.labelPlural>আলপাকা শাবক</Alpaca.lifeStages.0.labelPlural><!-- EN: alpaca joven -->
+  <Alpaca.lifeStages.1.label>আলপাকা শাবক</Alpaca.lifeStages.1.label><!-- EN: alpacas jóvenes -->
+  <Alpaca.lifeStages.1.labelPlural>আলপাকা শাবক</Alpaca.lifeStages.1.labelPlural><!-- EN: alpaca -->
+  <Alpaca.lifeStages.2.label>আলপাকা</Alpaca.lifeStages.2.label><!-- EN: alpacas -->
+  <Alpaca.lifeStages.2.labelPlural>আলপাকা</Alpaca.lifeStages.2.labelPlural>
+  
+  <!-- EN: capybara --><!-- EN: capibara -->
+  <Capybara.label>কাপিবারা</Capybara.label><!-- EN: capibaras -->
+  <Capybara.labelPlural>কাপিবারা</Capybara.labelPlural><!-- EN: cría de capibara -->
+  <Capybara.lifeStages.0.label>ক্যাপিবারা বাচ্চা</Capybara.lifeStages.0.label><!-- EN: crías de capibara -->
+  <Capybara.lifeStages.0.labelPlural>ক্যাপিবারা শাবক</Capybara.lifeStages.0.labelPlural><!-- EN: capibara joven -->
+  <Capybara.lifeStages.1.label>ক্যাপিবারা শাবক</Capybara.lifeStages.1.label><!-- EN: capibaras jóvenes -->
+  <Capybara.lifeStages.1.labelPlural>ক্যাপিবারা শাবক</Capybara.lifeStages.1.labelPlural><!-- EN: capibara -->
+  <Capybara.lifeStages.2.label>কাপিবারা</Capybara.lifeStages.2.label><!-- EN: capibaras -->
+  <Capybara.lifeStages.2.labelPlural>কাপিবারা</Capybara.lifeStages.2.labelPlural>
+  
+  <!-- EN: megasloth --><!-- EN: megaperezoso -->
+  <Megasloth.label>মেগাপেরেজোসো</Megasloth.label><!-- EN: megaperezosos -->
+  <Megasloth.labelPlural>মেগাপেরেজোসোস</Megasloth.labelPlural><!-- EN: cría de megaperezoso -->
+  <Megasloth.lifeStages.0.label>মেগাপেরেজোসের বাচ্চা</Megasloth.lifeStages.0.label><!-- EN: cría de megaperezoso -->
+  <Megasloth.lifeStages.0.labelFemale>মেগাপেরেজোসের বাচ্চা</Megasloth.lifeStages.0.labelFemale><!-- EN: crías de megaperezoso -->
+  <Megasloth.lifeStages.0.labelFemalePlural>মেগাপেরেজোলোর বাচ্চা</Megasloth.lifeStages.0.labelFemalePlural><!-- EN: crías de megaperezoso -->
+  <Megasloth.lifeStages.0.labelPlural>মেগাপেরেজোসের বাচ্চা</Megasloth.lifeStages.0.labelPlural><!-- EN: megaperezoso joven -->
+  <Megasloth.lifeStages.1.label>মেগাপেরেজোসো তরুণ</Megasloth.lifeStages.1.label><!-- EN: megaperezosos jóvenes -->
+  <Megasloth.lifeStages.1.labelPlural>মেগাপেরেজোসোস অল্পবয়স্ক</Megasloth.lifeStages.1.labelPlural><!-- EN: megaperezoso -->
+  <Megasloth.lifeStages.2.label>মেগাপেরেজোসো</Megasloth.lifeStages.2.label><!-- EN: megaperezosos -->
+  <Megasloth.lifeStages.2.labelPlural>মেগাপেরেজোসোস</Megasloth.lifeStages.2.labelPlural>
+  
+  <!-- EN: sheep --><!-- EN: oveja -->
+  <Sheep.label>ওভেজা</Sheep.label>
+  <!-- EN: ewe --><!-- EN: oveja -->
+  <Sheep.labelFemale>ওভেজা</Sheep.labelFemale><!-- EN: ovejas -->
+  <Sheep.labelFemalePlural>ওভেহাস</Sheep.labelFemalePlural>
+  <!-- EN: ram --><!-- EN: carnero -->
+  <Sheep.labelMale>কারনেরো</Sheep.labelMale><!-- EN: carneros -->
+  <Sheep.labelMalePlural>কারনেরোস</Sheep.labelMalePlural>
+  <!-- EN: sheep --><!-- EN: ovejas -->
+  <Sheep.labelPlural>ওভেহাস</Sheep.labelPlural>
+  <!-- EN: lamb --><!-- EN: cordero -->
+  <Sheep.lifeStages.lamb.label>কর্ডেরো</Sheep.lifeStages.lamb.label><!-- EN: cordera -->
+  <Sheep.lifeStages.lamb.labelFemale>কর্ডেরা</Sheep.lifeStages.lamb.labelFemale><!-- EN: corderas -->
+  <Sheep.lifeStages.lamb.labelFemalePlural>কর্ডেরাস</Sheep.lifeStages.lamb.labelFemalePlural><!-- EN: cordero -->
+  <Sheep.lifeStages.lamb.labelMale>কর্ডেরো</Sheep.lifeStages.lamb.labelMale><!-- EN: corderos -->
+  <Sheep.lifeStages.lamb.labelMalePlural>কর্ডেরোস</Sheep.lifeStages.lamb.labelMalePlural>
+  <!-- EN: lambs --><!-- EN: corderos -->
+  <Sheep.lifeStages.lamb.labelPlural>কর্ডেরোস</Sheep.lifeStages.lamb.labelPlural><!-- EN: oveja joven -->
+  <Sheep.lifeStages.1.label>তরুণ ভেড়া</Sheep.lifeStages.1.label><!-- EN: oveja joven -->
+  <Sheep.lifeStages.1.labelFemale>ওভেজা ইয়োভেন</Sheep.lifeStages.1.labelFemale><!-- EN: ovejas jóvenes -->
+  <Sheep.lifeStages.1.labelFemalePlural>তরুণ ভেড়া</Sheep.lifeStages.1.labelFemalePlural><!-- EN: carnero joven -->
+  <Sheep.lifeStages.1.labelMale>কারনেরো ইওবেন</Sheep.lifeStages.1.labelMale><!-- EN: carneros jóvenes -->
+  <Sheep.lifeStages.1.labelMalePlural>কারনেরোস ইয়ংগেস</Sheep.lifeStages.1.labelMalePlural><!-- EN: ovejas jóvenes -->
+  <Sheep.lifeStages.1.labelPlural>তরুণ ওভেহাস</Sheep.lifeStages.1.labelPlural><!-- EN: oveja -->
+  <Sheep.lifeStages.2.label>ওভেজা</Sheep.lifeStages.2.label><!-- EN: oveja -->
+  <Sheep.lifeStages.2.labelFemale>ওভেজা</Sheep.lifeStages.2.labelFemale><!-- EN: ovejas -->
+  <Sheep.lifeStages.2.labelFemalePlural>ওভেহাস</Sheep.lifeStages.2.labelFemalePlural><!-- EN: carnero -->
+  <Sheep.lifeStages.2.labelMale>কারনেরো</Sheep.lifeStages.2.labelMale><!-- EN: carneros -->
+  <Sheep.lifeStages.2.labelMalePlural>কারনেরোস</Sheep.lifeStages.2.labelMalePlural><!-- EN: ovejas -->
+  <Sheep.lifeStages.2.labelPlural>ওভেহাস</Sheep.lifeStages.2.labelPlural>
+  
+</LanguageData>

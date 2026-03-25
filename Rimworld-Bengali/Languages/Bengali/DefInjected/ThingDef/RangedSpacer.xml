@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge lance shot -->
+  <Bullet_ChargeLance.label>চার্জ ল্যান্স শট</Bullet_ChargeLance.label>
+  
+  <!-- EN: charge shot -->
+  <Bullet_ChargeRifle.label>চার্জ শট</Bullet_ChargeRifle.label>
+  
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.label>চার্জ ল্যান্স</Gun_ChargeLance.label>
+  <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
+  <Gun_ChargeLance.description>একটি পালস-চার্জড রেল-সহায়ক ল্যান্স অস্ত্র। এটি উচ্চ গতিতে একটিমাত্র গুলি চালায়, যা অ্যাক্সিলারেশন রেল ত্যাগ করার সময় অস্থির শক্তি দিয়ে চার্জ করা হয়।</Gun_ChargeLance.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeLance.tools.barrel.label>ব্যারেল</Gun_ChargeLance.tools.barrel.label>
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>চার্জ ল্যান্স</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.label>চার্জ রাইফেল</Gun_ChargeRifle.label>
+  <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <Gun_ChargeRifle.description>চার্জড-শট অ্যাসল্ট রাইফেল। পালস-চার্জ প্রযুক্তি প্রতিটি শটকে নলের বাইরে যাওয়ার সময় অস্থির শক্তি দিয়ে চার্জ করে। সংঘর্ষের পরে নির্গত চার্জড শক্তি ক্ষতির পরিমাণ অনেক বাড়িয়ে দেয়।</Gun_ChargeRifle.description>
+  <!-- EN: stock -->
+  <Gun_ChargeRifle.tools.stock.label>স্টক</Gun_ChargeRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeRifle.tools.barrel.label>ব্যারেল</Gun_ChargeRifle.tools.barrel.label>
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>চার্জ রাইফেল</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

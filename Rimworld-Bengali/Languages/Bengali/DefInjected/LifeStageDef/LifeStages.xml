@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <AnimalAdult.label>পূর্ণবয়স্ক</AnimalAdult.label>
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>শিশু</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>শিশু</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>কিশোর</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>প্রাপ্তবয়স্ক</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>অপরিপক্ক</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>লার্ভা</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>প্রাপ্তবয়স্ক</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>শিশু</HumanlikeBaby.label>
+  <!-- EN: Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+  <HumanlikeBaby.customMoodTipString>মেজাজ নির্দেশ করে কেউ কতটা খুশি বা উদ্বিগ্ন। কম মেজাজের শিশুরা বেশি কাঁদতে পারে, যেখানে বেশি মেজাজের শিশুরা হাসতে পারে।</HumanlikeBaby.customMoodTipString>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>শিশু</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>কিশোর-কিশোরী</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>কিশোর</HumanlikeTeenager.adjective>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>পূর্ণাঙ্গ রূপ</MechanoidFullyFormed.label>
+  
+</LanguageData>

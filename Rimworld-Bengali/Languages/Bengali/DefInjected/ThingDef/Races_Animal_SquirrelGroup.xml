@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>বিস্ফোরক ইঁদুর</Boomrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
+  <Boomrat.description>হয় ইচ্ছাকৃতভাবে জেনেটিক অস্ত্র হিসেবে ব্যবহার করার কারণে, অথবা একটি অস্বাভাবিক আত্মরক্ষার কৌশল হিসেবে, এই ইঁদুর-সদৃশ প্রাণীগুলো মারা গেলে একটি শক্তিশালী আগুন-লাগানো বিস্ফোরণ ঘটায়।</Boomrat.description>
+  <!-- EN: left claw -->
+  <Boomrat.tools.left_claw.label>বাম থাবা</Boomrat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Boomrat.tools.left_claw.labelNoLocation>নখর</Boomrat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Boomrat.tools.right_claw.label>ডান থাবা</Boomrat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Boomrat.tools.right_claw.labelNoLocation>নখর</Boomrat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Boomrat.tools.head.label>মাথা</Boomrat.tools.head.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>ইগুয়ানা</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
+  <Iguana.description>এই বৃহৎ টিকটিকিগুলো সাধারণত উদ্ভিদভোজী হয়। তবে, রেগে গেলে এদের শক্ত চামড়া এবং ধারালো নখর এদের বেশ বিপজ্জনক করে তোলে।\n\nবিশ্রামরত ইগুয়ানাগুলো মাথা উঁচু করে রাখে, যা তাদের মজার ‘অহংকারী’ চেহারা দেয়। কিন্তু তারা অহংকারী নয়; তারা কেবল শিকারী দেখতে পাওয়ার চেষ্টা করছে যাতে তারা ভক্ষিত না হয়।</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>বাম থাবা</Iguana.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Iguana.tools.left_claw.labelNoLocation>पंजा</Iguana.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>ডান থাবা</Iguana.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Iguana.tools.right_claw.labelNoLocation>নখর</Iguana.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Iguana.tools.head.label>মাথা</Iguana.tools.head.label>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>র‍্যাকুন</Raccoon.label>
+  <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
+  <Raccoon.description>এটি একটি ছোট, কষ্টসহিষ্ণু প্রাণী যা বন এবং গুল্মভূমি জুড়ে বিস্তৃত পরিসরে ঘুরে বেড়ায়। আবর্জনা পাত্রে বা রান্নাঘরে ঢুকে প্রায় সবকিছু খেতে এটি খুশি।</Raccoon.description>
+  <!-- EN: left claw -->
+  <Raccoon.tools.left_claw.label>বাম থাবা</Raccoon.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Raccoon.tools.left_claw.labelNoLocation>पंजा</Raccoon.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Raccoon.tools.right_claw.label>ডান থাবা</Raccoon.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Raccoon.tools.right_claw.labelNoLocation>নখর</Raccoon.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Raccoon.tools.head.label>মাথা</Raccoon.tools.head.label>
+  
+  <!-- EN: rat -->
+  <Rat.label>ইঁদুর</Rat.label>
+  <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
+  <Rat.description>ইঁদুর একটি বহুলভাবে অপছন্দিত স্তন্যপায়ী প্রাণী, যা রান্নাঘর নোংরা করা এবং রোগ ছড়ানোর জন্য পরিচিত; এরা মানুষের সাথে সর্বত্র অনুসরণ করে। এটি প্রায় সবকিছুই খায় এবং প্রায় যেকোনো স্থানেই বাস করে।</Rat.description>
+  <!-- EN: left claw -->
+  <Rat.tools.left_claw.label>বাম থাবা</Rat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Rat.tools.left_claw.labelNoLocation>নখর</Rat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Rat.tools.right_claw.label>ডান থাবা</Rat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Rat.tools.right_claw.labelNoLocation>নখর</Rat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Rat.tools.head.label>মাথা</Rat.tools.head.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>गिलহরি</Squirrel.label>
+  <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <Squirrel.description>মানুষ যেখানে বিস্তার লাভ করে, সেখানে এই মজবুত ইঁদুর প্রজাতির মধ্যে এটিও অন্যতম। কাঠবিড়ালির বৈশিষ্ট্য হল এদের ঝোপালো লেজ, যা এরা খারাপ আবহাওয়ায় ছাতা হিসেবে ব্যবহার করে।</Squirrel.description>
+  <!-- EN: left claw -->
+  <Squirrel.tools.left_claw.label>বাম থাবা</Squirrel.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Squirrel.tools.left_claw.labelNoLocation>নখর</Squirrel.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Squirrel.tools.right_claw.label>ডান থাবা</Squirrel.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Squirrel.tools.right_claw.labelNoLocation>নখর</Squirrel.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Squirrel.tools.head.label>মাথা</Squirrel.tools.head.label>
+  
+</LanguageData>

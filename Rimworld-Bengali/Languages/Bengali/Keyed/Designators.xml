@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cancel -->
+  <DesignatorCancel>বাতিল করুন</DesignatorCancel>
+  <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
+  <DesignatorCancelDesc>চিহ্নিত নির্মাণ, খনন, বহন, ফসল তোলা এবং অন্যান্য সমস্ত চিহ্নিতকরণ বাতিল করুন।</DesignatorCancelDesc>
+
+  <!-- EN: Cut plants -->
+  <DesignatorCutPlants>ছাঁটা গাছপালা</DesignatorCutPlants>
+  <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
+  <DesignatorCutPlantsDesc>কাটার জন্য গাছপালা চিহ্নিত করে এবং ধ্বংস করে দেয়। গাছপালা সম্পূর্ণরূপে সরিয়ে ফেলা হবে এবং খাদ্য অথবা সম্পদের ফলন সংগ্রহ করা হবে।</DesignatorCutPlantsDesc>
+
+  <!-- EN: Deconstruct -->
+  <DesignatorDeconstruct>ভঙ্গ করুন</DesignatorDeconstruct>
+  <!-- EN: Deconstruct this and reclaim part of its resources. -->
+  <DesignatorDeconstructDesc>এটি ভেঙে ফেলুন এবং এর কিছু সম্পদ পুনরুদ্ধার করুন।</DesignatorDeconstructDesc>
+
+  <!-- EN: Deconstruct conduit -->
+  <DesignatorDeconstructConduit>পরিবহন কাঠামো খুলুন</DesignatorDeconstructConduit>
+  <!-- EN: Deconstruct power conduits and reclaim part of their resources. -->
+  <DesignatorDeconstructConduitDesc>বিদ্যুৎ পরিবাহীগুলি ভেঙে ফেলুন এবং তাদের কিছু উপাদান পুনরুদ্ধার করুন।</DesignatorDeconstructConduitDesc>
+
+  <!-- EN: Uninstall -->
+  <DesignatorUninstall>আনইনস্টল করুন</DesignatorUninstall>
+  <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
+  <DesignatorUninstallDesc>এটি আনইনস্টল করুন যাতে এটিকে সরানো, বিক্রি করা বা অন্য কোথাও ইনস্টল করা যায়।</DesignatorUninstallDesc>
+
+  <!-- EN: Extract tree -->
+  <DesignatorExtractTree>গাছ নিষ্কাশন</DesignatorExtractTree>
+  <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
+  <DesignatorExtractTreeDesc>গাছটি জীবিত রেখে এটি সরিয়ে নিন, যাতে অন্য কোথাও রোপণ করা যায়।</DesignatorExtractTreeDesc>
+
+  <!-- EN: Harvest -->
+  <DesignatorHarvest>সংগ্রহ</DesignatorHarvest>
+  <!-- EN: Marks plants to be harvested for their food or other products. -->
+  <DesignatorHarvestDesc>উদ্ভিদগুলিকে খাদ্য বা অন্যান্য পণ্যের জন্য সংগ্রহ করার জন্য চিহ্নিত করে।</DesignatorHarvestDesc>
+
+  <!-- EN: Chop wood -->
+  <DesignatorHarvestWood>কাঠ কাটুন</DesignatorHarvestWood>
+  <!-- EN: Marks trees to be chopped down for wood. -->
+  <DesignatorHarvestWoodDesc>কাঠের জন্য কাটা গাছের চিহ্ন করে।</DesignatorHarvestWoodDesc>
+
+  <!-- EN: Haul things -->
+  <DesignatorHaulThings>মাল পরিবহন করুন</DesignatorHaulThings>
+  <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
+  <DesignatorHaulThingsDesc>ডাম্পিং এরিয়ার দিকে নিয়ে যাওয়ার জন্য পাথর এবং অন্যান্য জিনিস চিহ্নিত করা হয়। খাবার বা মৃতদেহ, যেগুলো সবসময়ই বহন করা যায়, সেগুলোর জন্য এটা প্রয়োজন নেই।</DesignatorHaulThingsDesc>
+  <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
+  <MustHaulHaulables>কেবলমাত্র বহনযোগ্য কিন্তু সবসময় বহন করা হয় না এমন জিনিস (যেমন পাথরের টুকরা) নির্দিষ্ট করা যায়।</MustHaulHaulables>
+
+  <!-- EN: Hunt -->
+  <DesignatorHunt>শিকার</DesignatorHunt>
+  <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
+  <DesignatorHuntDesc>শিকারীরা শিকার করার জন্য পশু চিহ্নিত করুন।\n\nযাদের উপযুক্ত দূরপাল্লার অস্ত্র আছে, শুধুমাত্র তারাই শিকার করবে।</DesignatorHuntDesc>
+
+  <!-- EN: Mine -->
+  <DesignatorMine>খনি</DesignatorMine>
+  <!-- EN: Designate areas of rock to be mined out. -->
+  <DesignatorMineDesc>পাথর এলাকা চিহ্নিত করুন যেগুলি খনন করা হবে।</DesignatorMineDesc>
+
+  <!-- EN: Mine vein -->
+  <DesignatorMineVein>খনিজ শিরা</DesignatorMineVein>
+  <!-- EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined. -->
+  <DesignatorMineVeinDesc>পাথর খনন করার জন্য একটি এলাকা নির্দিষ্ট করুন। কলোনিস্টরা ততক্ষণ পর্যন্ত খনন করতে থাকবে যতক্ষণ না একই ধরনের সমস্ত সংযুক্ত পাথর খনন করা হয়।</DesignatorMineVeinDesc>
+
+  <!-- EN: Smooth surface -->
+  <DesignatorSmoothSurface>মসৃণ পৃষ্ঠতল</DesignatorSmoothSurface>
+  <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
+  <DesignatorSmoothSurfaceDesc>অমসৃণ পাথরের ভূখণ্ড এবং দেওয়ালগুলিকে মসৃণ করার জন্য চিহ্নিত করুন।</DesignatorSmoothSurfaceDesc>
+  <!-- EN: Smooth walls -->
+  <DesignatorSmoothWalls>মসৃণ দেয়াল</DesignatorSmoothWalls>
+  <!-- EN: Designate rough stone walls to be smoothed. -->
+  <DesignatorSmoothWallsDesc>অমসৃণ পাথরের দেওয়ালগুলিকে মসৃণ করার জন্য নির্ধারণ করুন।</DesignatorSmoothWallsDesc>
+  <!-- EN: Smooth terrain -->
+  <DesignatorSmoothFloors>মসৃণ ভূখণ্ড</DesignatorSmoothFloors>
+  <!-- EN: Designate rough stone terrain to be smoothed. -->
+  <DesignatorSmoothFloorsDesc>খসখসে পাথুরে ভূমি মসৃণ করার জন্য চিহ্নিত করুন।</DesignatorSmoothFloorsDesc>
+
+  <!-- EN: Plan -->
+  <DesignatorPlan>পরিকল্পনা</DesignatorPlan>
+  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions.\n\nRight-click to hide or unhide all planning zones. -->
+  <DesignatorPlanDesc>স্থান পরিকল্পনা চিহ্নিতকরণ। এগুলো কিছুই করে না, কেবল ভবিষ্যতের সম্প্রসারণ পরিকল্পনা করতে সাহায্য করে।\n\nপরিকল্পনা অঞ্চলগুলো লুকানোর বা দেখানোর জন্য ডান-ক্লিক করুন।</DesignatorPlanDesc>
+
+  <!-- EN: Remove plans -->
+  <DesignatorPlanRemove>পরিকল্পনা সরান</DesignatorPlanRemove>
+  <!-- EN: Remove planning designations. -->
+  <DesignatorPlanRemoveDesc>ক্রিটিক্যাল নিয়ম:\n- কোনো ব্যাখ্যা, নোট বা বন্ধনীর মধ্যে মন্তব্য নয়।\n- শুধুমাত্র একটি অনুবাদ - কোনো বিকল্প নয় [শুধুমাত্র ১টি, কোনো 'অপশন ১ / অপশন ২' নয়]।\n- সমস্ত বিরামচিহ্ন হুবহু সংরক্ষণ করুন।\n\nউদাহরণস্বরূপ পছন্দের শব্দভাণ্ডার এবং শৈলী:\n- 'techprof subpersona core' → 'প্রযুক্তিগত উপ-ব্যক্তিত্ব কোর'\n- 'johnson-tanaka drive' → 'জনসন-তানাকা ড্রাইভ'\n- 'ship structural beam' → 'জাহাজ কাঠামোগত বিম'\n- 'cryptosleep caskets' → 'ক্রিপ্টোস্লিপ ক</DesignatorPlanRemoveDesc>
+
+  <!-- EN: Forbid -->
+  <DesignatorForbid>নিষিদ্ধ করুন</DesignatorForbid>
+  <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
+  <DesignatorForbidDesc>নিষিদ্ধ বস্তু হিসেবে চিহ্নিত করুন। কলোনিস্টরা নির্দিষ্ট বস্তুগুলোর সাথে যোগাযোগ করতে পারবে না।</DesignatorForbidDesc>
+
+  <!-- EN: Allow -->
+  <DesignatorUnforbid>অনুমোদন করুন</DesignatorUnforbid>
+  <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
+  <DesignatorUnforbidDesc>নিষিদ্ধ নয় এমন জিনিস চিহ্নিত করুন। উপনিবেশবাদীরা নির্দিষ্ট জিনিসগুলির সাথে যোগাযোগ করতে পারবে।</DesignatorUnforbidDesc>
+
+  <!-- EN: Expand home area -->
+  <DesignatorAreaHomeExpand>আবাস এলাকা প্রসারিত করুন</DesignatorAreaHomeExpand>
+  <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
+  <DesignatorAreaHomeExpandDesc>উপনিবেশীরা শুধুমাত্র আবাসস্থলের মধ্যে ভবন মেরামত করবে, মেঝে পরিষ্কার করবে এবং আগুন নেভাবে।</DesignatorAreaHomeExpandDesc>
+  <!-- EN: Clear home area -->
+  <DesignatorAreaHomeClear>পরিষ্কার আবাসস্থল</DesignatorAreaHomeClear>
+  <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
+  <DesignatorAreaHomeClearDesc>একটি আবাসস্থল এলাকা সরিয়ে দেয়। কলোনিস্টরা এখানে আর পরিষ্কার, মেরামত বা আগুন নেভানোর কাজ করবে না।</DesignatorAreaHomeClearDesc>
+
+  <!-- EN: Build roof area -->
+  <DesignatorAreaBuildRoofExpand>ছাদ তৈরির স্থান</DesignatorAreaBuildRoofExpand>
+  <!-- EN: Colonists will build roofs in this area. -->
+  <DesignatorAreaBuildRoofExpandDesc>উপনিবেশ স্থাপনকারীরা এই স্থানে ছাদ নির্মাণ করবে।</DesignatorAreaBuildRoofExpandDesc>
+
+  <!-- EN: Remove roof area -->
+  <DesignatorAreaNoRoofExpand>ছাদ সরান</DesignatorAreaNoRoofExpand>
+  <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
+  <DesignatorAreaNoRoofExpandDesc>উপনিবেশ স্থাপনকারীরা এই অঞ্চলের ছাদ সরিয়ে ফেলবে (মাথার ওপরের পর্বতক্ষেত্র ব্যতীত, যা সরানো যাবে না)।</DesignatorAreaNoRoofExpandDesc>
+
+  <!-- EN: Ignore roof area -->
+  <DesignatorAreaIgnoreRoofExpand>ছাদের ক্ষেত্রফল উপেক্ষা করুন</DesignatorAreaIgnoreRoofExpand>
+  <!-- EN: Colonists will ignore roofs in this area. -->
+  <DesignatorAreaIgnoreRoofExpandDesc>উপনিবেশীরা এই অঞ্চলের ছাদগুলি উপেক্ষা করবে।</DesignatorAreaIgnoreRoofExpandDesc>
+
+  <!-- EN: Snow removal area -->
+  <DesignatorAreaSnowClearExpand>বরফ অপসারণ এলাকা</DesignatorAreaSnowClearExpand>
+  <!-- EN: Create an area which colonists will try to keep clear of snow. -->
+  <DesignatorAreaSnowClearExpandDesc>বসতি স্থাপনকারীরা যে স্থানটি তুষারমুক্ত রাখার চেষ্টা করবে, সেটি তৈরি করুন।</DesignatorAreaSnowClearExpandDesc>
+  <!-- EN: Clear snow removal area -->
+  <DesignatorAreaSnowClearClear>পরিষ্কার তুষার অপসারণ এলাকা।</DesignatorAreaSnowClearClear>
+  <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
+  <DesignatorAreaSnowClearClearDesc>এটি একটি তুষার অপসারণ এলাকা সরিয়ে দেয়। কলোনিস্টরা আর এই এলাকাটি তুষারমুক্ত রাখার চেষ্টা করবে না।</DesignatorAreaSnowClearClearDesc>
+
+  <!-- EN: Expand allowed area -->
+  <DesignatorExpandAreaAllowed>স্থান সম্প্রসারণ করুন</DesignatorExpandAreaAllowed>
+  <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorExpandAreaAllowedDesc>অনুমোদিত এলাকা প্রসারিত করুন।\n\nঅনুমোদিত এলাকাগুলি হল নির্দিষ্ট স্থান যা আপনি কলোনিস্টদের জন্য নির্ধারণ করতে পারেন। কলোনিস্টরা তাদের অনুমোদিত এলাকার বাইরে কাজ করতে বা তাদের চাহিদা পূরণ করতে রাজি হবে না।</DesignatorExpandAreaAllowedDesc>
+  <!-- EN: Clear allowed area -->
+  <DesignatorClearAreaAllowed>পরিষ্কার স্থান অনুমোদিত</DesignatorClearAreaAllowed>
+  <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorClearAreaAllowedDesc>অনুমোদিত এলাকার মধ্যেকার ঘরগুলো পরিষ্কার করুন।\n\nঅনুমোদিত এলাকাগুলো হলো সেই নির্দিষ্ট স্থান যা আপনি কলোনিস্টদের জন্য নির্ধারণ করতে পারেন। কলোনিস্টরা তাদের অনুমোদিত এলাকার বাইরে কোনো কাজ গ্রহণ করবে না অথবা তাদের চাহিদা পূরণ করবে না।</DesignatorClearAreaAllowedDesc>
+  <!-- EN: Manage areas... -->
+  <ManageAreas>এলাকা পরিচালনা করুন…</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>স্বয়ংক্রিয় জবাই পরিচালনা…</ManageAutoSlaughter>
+
+  <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
+  <DesignatorGrowingZoneDesc>একটি অঞ্চল তৈরি করুন যেখানে আপনার কলোনিস্টরা একটি নির্দিষ্ট প্রকারের উদ্ভিদ জন্মানোর চেষ্টা করবে।</DesignatorGrowingZoneDesc>
+
+  <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
+  <DesignatorZoneCreateStorageResourcesDesc>উপনিবেশ স্থাপনকারীরা যেখানে সম্পদ জমা রাখবে, এমন একটি স্তূপ তৈরি করুন।\nএই সরঞ্জামটি বিদ্যমান যেকোনো স্তূপকে প্রসারিত করতেও পারে।</DesignatorZoneCreateStorageResourcesDesc>
+
+  <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
+  <DesignatorZoneCreateStorageDumpingDesc>আবর্জনা সংরক্ষণের জন্য আপনার কলোনিস্টরা ব্যবহার করতে পারবে এমন একটি স্তূপ তৈরি করুন।\nএই সরঞ্জামটি বিদ্যমান যেকোনো স্তূপকে প্রসারিত করতেও পারে।</DesignatorZoneCreateStorageDumpingDesc>
+
+  <!-- EN: Shrink zones -->
+  <DesignatorZoneDelete>সংকোচন অঞ্চল</DesignatorZoneDelete>
+  <!-- EN: Shrink zone -->
+  <DesignatorZoneDeleteSingular>সংকোচন অঞ্চল</DesignatorZoneDeleteSingular>
+  <!-- EN: Remove zones, like stockpile zones or growing zones. -->
+  <DesignatorZoneDeleteDesc>জোনগুলি সরিয়ে ফেলুন, যেমন স্ট্যাকপাইলের জোন অথবা চাষের জোন।</DesignatorZoneDeleteDesc>
+
+  <!-- EN: Expand zone -->
+  <DesignatorZoneExpand>অঞ্চল প্রসারিত করুন</DesignatorZoneExpand>
+  
+  <!-- EN: Claim -->
+  <DesignatorClaim>দাবি</DesignatorClaim>
+  <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
+  <DesignatorClaimDesc>উপনিবেশের জন্য নিরপেক্ষ কাঠামো দাবি করুন, যার মধ্যে রয়েছে প্রাচীন ধ্বংসাবশেষ এবং পরিত্যক্ত অবরোধ ঘাঁটি। দাবি করা কাঠামো আপনার উপনিবেশিকরা মেরামত ও রক্ষণাবেক্ষণ করতে পারবে।</DesignatorClaimDesc>
+
+  <!-- EN: Remove floor -->
+  <DesignatorRemoveFloor>মেঝে সরান</DesignatorRemoveFloor>
+  <!-- EN: Remove floors to reveal the terrain underneath. -->
+  <DesignatorRemoveFloorDesc>মেঝে সরিয়ে নিচের ভূখণ্ডটি প্রকাশ করুন।</DesignatorRemoveFloorDesc>
+
+  <!-- EN: Remove bridge -->
+  <DesignatorRemoveBridge>সেতু সরান</DesignatorRemoveBridge>
+  <!-- EN: Deconstruct bridges to reclaim partial resources. -->
+  <DesignatorRemoveBridgeDesc>সেতুগুলি ভেঙে ফেললে কিছু উপাদান ফেরত পাওয়া যায়।</DesignatorRemoveBridgeDesc>
+
+  <!-- EN: Strip -->
+  <DesignatorStrip>ছাড়াইয়া ফেলুন</DesignatorStrip>
+  <!-- EN: Strip apparel from corpses and the wounded. -->
+  <DesignatorStripDesc>মৃতদেহ এবং আহতদের শরীর থেকে পোশাক খুলে নাও।</DesignatorStripDesc>
+
+  <!-- EN: Open -->
+  <DesignatorOpen>খোলা</DesignatorOpen>
+  <!-- EN: Open containers. -->
+  <DesignatorOpenDesc>খোলা পাত্র।</DesignatorOpenDesc>
+  
+  <!-- EN: Eject fuel -->
+  <DesignatorEjectFuel>ইজেক্ট ফুয়েল</DesignatorEjectFuel>
+  <!-- EN: Eject all contained fuel onto the ground. -->
+  <DesignatorEjectFuelDesc>জমিতে থাকা সমস্ত জ্বালানী বের করে ফেলুন।</DesignatorEjectFuelDesc>
+
+  <!-- EN: Slaughter -->
+  <DesignatorSlaughter>slaughter</DesignatorSlaughter>
+  <!-- EN: Slaughter a tame animal. -->
+  <DesignatorSlaughterDesc>একটি পোষা প্রাণীকে জবাই করুন।</DesignatorSlaughterDesc>
+
+  <!-- EN: Tame -->
+  <DesignatorTame>পোষ মানানো</DesignatorTame>
+  <!-- EN: Tame a wild animal. -->
+  <DesignatorTameDesc>একটি বন্য প্রাণীকে পোষ মানানো।</DesignatorTameDesc>
+  <!-- EN: Scaria infected animals can't be tamed. -->
+  <CantTameScaria>স্কারিয়া সংক্রমিত পশুদের পোষ মানানো যায় না।</CantTameScaria>
+
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>বন্যে মুক্তি দিন</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>বন্যপ্রাণীকে ছেড়ে দিন।</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>গবেষণা</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>এই বস্তুটি অধ্যয়ন করে এটি সম্পর্কে আরও জানুন।</DesignatorStudyDesc>
+
+  <!-- EN: Paint building... -->
+  <DesignatorPaintBuilding>পেইন্ট নির্মাণ…</DesignatorPaintBuilding>
+  <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
+  <DesignatorPaintBuildingDesc>টিঙ্কটোরিয়া গাছ থেকে প্রাপ্ত রঞ্জক ব্যবহার করে দেওয়াল এবং ভবনগুলিতে রং করার জন্য চিহ্নিত করুন, যা আপনি চাষ করতে পারেন। শুধুমাত্র নির্দিষ্ট কিছু ভবন রং করা যায়।</DesignatorPaintBuildingDesc>
+  <!-- EN: Paint floor... -->
+  <DesignatorPaintFloor>রং করা মেঝে…</DesignatorPaintFloor>
+  <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
+  <DesignatorPaintFloorDesc>টিঙ্কটোরিয়া উদ্ভিদ থেকে প্রাপ্ত রঞ্জক ব্যবহার করে মেঝে রং করার জন্য নির্দিষ্ট করুন, যা আপনি চাষ করতে পারেন। শুধুমাত্র নির্দিষ্ট কিছু মেঝে রং করা যায়।</DesignatorPaintFloorDesc>
+
+  <!-- EN: Remove paint -->
+  <DesignatorRemovePaint>পেইন্ট সরান</DesignatorRemovePaint>
+  <!-- EN: Remove paint from walls, buildings, and floors. -->
+  <DesignatorRemovePaintDesc>দেওয়াল, কাঠামো এবং মেঝে থেকে রং সরান।</DesignatorRemovePaintDesc>
+  <!-- EN: Remove floor paint -->
+  <DesignatorRemoveFloorPaint>মেঝে রং সরান</DesignatorRemoveFloorPaint> 
+  <!-- EN: Remove paint from floors. -->
+  <DesignatorRemoveFloorPaintDesc>মেঝে থেকে রং সরান।</DesignatorRemoveFloorPaintDesc> 
+  <!-- EN: Paint -->
+  <Paint>রং</Paint>
+  <!-- EN: Color -->
+  <Color>রং</Color>
+
+  <!-- EN: Color picker -->
+  <DesignatorEyedropper>রং নির্বাচক</DesignatorEyedropper>
+  <!-- EN: Grab existing color -->
+  <GrabExistingColor>বিদ্যমান রং ধরুন</GrabExistingColor>
+  <!-- EN: Grab a color from an existing building. -->
+  <DesignatorEyeDropperDesc_Paint>বিদ্যমান কোনো স্থাপনা থেকে একটি রং নিন।</DesignatorEyeDropperDesc_Paint>
+  <!-- EN: Grab a color from an existing carpet. -->
+  <DesignatorEyeDropperDesc_Carpet>বিদ্যমান কার্পেট থেকে একটি রং ধরুন।</DesignatorEyeDropperDesc_Carpet>
+  <!-- EN: Select a painted building. -->
+  <SelectAPaintedBuilding>একটি চিত্রিত ভবন নির্বাচন করুন।</SelectAPaintedBuilding>
+  <!-- EN: Select colored carpet. -->
+  <SelectColoredFloor>রঙিন কার্পেট নির্বাচন করুন।</SelectColoredFloor>
+  <!-- EN: Grab -->
+  <Grab>ধরুন</Grab>
+  <!-- EN: Grabbed color -->
+  <GrabbedColor>ধরা রঙ</GrabbedColor>
+
+  <!-- EN: Expand plan -->
+  <DesignatorExpandPlan>পরিকল্পনা প্রসারিত করুন</DesignatorExpandPlan>
+  <!-- EN: New plan -->
+  <NewPlan>নতুন পরিকল্পনা</NewPlan>
+  
+  <!-- EN: Shrink plan -->
+  <DesignatorPlanShrinkSingular>সংকোচন পরিকল্পনা</DesignatorPlanShrinkSingular>
+  <!-- EN: Remove plans. -->
+  <DesignatorPlanShrinkDesc>পরিকল্পনা সরান।</DesignatorPlanShrinkDesc>
+
+  <!-- Failure messages -->
+  <!-- EN: Unchosen material -->
+  <UnchosenStuff>নির্বাচিত নয় এমন উপাদান</UnchosenStuff>
+  <!-- EN: Too close to map edge. -->
+  <TooCloseToMapEdge>মানচিত্রের প্রান্তের খুব কাছে।</TooCloseToMapEdge>
+  <!-- EN: Out of bounds. -->
+  <OutOfBounds>সীমার বাইরে।</OutOfBounds>
+  <!-- EN: Cannot place in undiscovered areas. -->
+  <CannotPlaceInUndiscovered>অজানা অঞ্চলে স্থাপন করা যাবে না।</CannotPlaceInUndiscovered>
+  <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
+  <InteractionSpotBlocked>{1_labelShort} দ্বারা মিথস্ক্রিয়া স্থানটি অবরুদ্ধ।</InteractionSpotBlocked>
+  <!-- EN: Interaction spot is out of bounds. -->
+  <InteractionSpotOutOfBounds>ইন্টার‍্যাকশন স্থান সীমার বাইরে।</InteractionSpotOutOfBounds>
+  <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
+  <InteractionSpotWillBeBlocked>{1_labelShort} দ্বারা মিথস্ক্রিয়া স্থানটি অবরুদ্ধ করা হবে।</InteractionSpotWillBeBlocked>
+  <!-- EN: {0} would block {1}'s interaction spot. -->
+  <WouldBlockInteractionSpot>{0} {1} এর মিথস্ক্রিয়া স্থানটি আটকে দেবে।</WouldBlockInteractionSpot>
+  <!-- EN: The terrain here is already {0}. -->
+  <TerrainIsAlready>এই অঞ্চলের ভূখণ্ড ইতিমধ্যেই {0}।</TerrainIsAlready>
+  <!-- EN: There is already foundation here. -->
+  <FoundationAlreadyExists>এখানে ইতিমধ্যেই ভিত্তি রয়েছে।</FoundationAlreadyExists>
+  <!-- EN: The existing terrain here cannot be removed. -->
+  <TerrainUnremovable>এখানে বিদ্যমান ভূখণ্ড সরানো যাবে না।</TerrainUnremovable>
+  <!-- EN: The surface is already marked for smoothing. -->
+  <SurfaceBeingSmoothed>পৃষ্ঠটি ইতিমধ্যেই মসৃণ করার জন্য চিহ্নিত করা হয়েছে।</SurfaceBeingSmoothed>
+  <!-- EN: Identical thing already exists here. -->
+  <IdenticalThingExists>এখানে একই জিনিস ইতিমধ্যে বিদ্যমান।</IdenticalThingExists>
+  <!-- EN: Identical blueprint already exists here. -->
+  <IdenticalBlueprintExists>এখানে একই ব্লুপ্রিন্ট ইতিমধ্যে বিদ্যমান।</IdenticalBlueprintExists>
+  <!-- EN: {0_label} cannot be built on this terrain. -->
+  <TerrainCannotSupport>এই ভূখণ্ডে {0_label} নির্মাণ করা সম্ভব নয়।</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that supports: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordance>{0_label}-এর জন্য {1_label} সমর্থন করে এমন ভূখণ্ড প্রয়োজন।</TerrainCannotSupport_TerrainAffordance>
+  <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} ({2_label} দিয়ে তৈরি হলে) এর জন্য প্রয়োজন এমন ভূখণ্ড যা সমর্থন করে: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <!-- EN: Space already occupied. -->
+  <SpaceAlreadyOccupied>স্থান ইতিমধ্যে занят।</SpaceAlreadyOccupied>
+  <!-- EN: Space being smoothed. -->
+  <SpaceBeingSmoothed>স্থান সমতল করা হচ্ছে।</SpaceBeingSmoothed>
+  <!-- EN: Must target a removable floor. -->
+  <TerrainMustBeRemovable>লক্ষ্য একটি অপসারণযোগ্য মেঝে।</TerrainMustBeRemovable>
+  <!-- EN: The waterwheel must be on moving water. -->
+  <MustBeOnMovingWater>জলচক্রটি অবশ্যই চলমান জলের উপর স্থাপন করতে হবে।</MustBeOnMovingWater>
+  <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotWillOverlap>{1_labelShort} এর মিথস্ক্রিয়া স্থানটি এই মিথস্ক্রিয়া স্থানটির সাথে ওভারল্যাপ করবে।</InteractionSpotWillOverlap>
+  <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotOverlaps>ইন্টার‍্যাকশন স্পট {1_labelShort} এর ইন্টার‍্যাকশন স্পটের সাথে ওভারল্যাপ করছে।</InteractionSpotOverlaps>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>{0}-এর উপরে স্মৃতিস্তম্ভ স্থাপন করা সম্ভব নয়।</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>{0}-এর উপর নির্মাণ করা সম্ভব নয়।</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <MonumentOverlapsBuilding>{0}-এর উপরে স্মৃতিস্তম্ভ স্থাপন করা সম্ভব নয়।</MonumentOverlapsBuilding>
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
+  <MonumentAdjacentToBuilding>স্মারক {0} এর পাশে স্থাপন করা যাবে না।</MonumentAdjacentToBuilding>
+  <!-- EN: Cannot be planted here -->
+  <CannotBePlantedHere>এখানে রোপণ করা যাবে না।</CannotBePlantedHere>
+  
+  <!-- Mouse attachments -->
+  <!-- EN: Expand {0} or\nCreate new {1} -->
+  <ExpandOrCreateZone>{0} প্রসারিত করুন অথবা\nনতুন {1} তৈরি করুন</ExpandOrCreateZone>
+  <!-- EN: Create new {0} -->
+  <CreateNewZone>নতুন {0} তৈরি করুন</CreateNewZone>
+  
+  <!-- EN: Expand {0} or\nCreate new plan -->
+  <ExpandOrCreatePlan>{0} প্রসারিত করুন অথবা\nনতুন পরিকল্পনা তৈরি করুন</ExpandOrCreatePlan>
+  <!-- EN: Create new plan -->
+  <CreateNewPlan>নতুন পরিকল্পনা তৈরি করুন</CreateNewPlan>
+  
+  <!-- Desc helpers -->
+  <!-- EN: Transmits power -->
+  <TransmitsPower>বিদ্যুৎ প্রেরণ করে</TransmitsPower>
+  <!-- EN: Construction needed -->
+  <ConstructionNeeded>নির্মাণ প্রয়োজন।</ConstructionNeeded>
+  <!-- EN: None of your {0} have this skill. -->
+  <NoColonistWithSkillTip>আপনার {0}-এর এই দক্ষতা নেই।</NoColonistWithSkillTip>
+  <!-- EN: {0} needed -->
+  <SkillNeededForConstructing>{0} প্রয়োজন</SkillNeededForConstructing>
+  <!-- EN: None of your {0} have all skills required. -->
+  <NoColonistWithAllSkillsForConstructing>আপনার কোনো {0}-এরই প্রয়োজনীয় দক্ষতা নেই।</NoColonistWithAllSkillsForConstructing>
+  <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
+  <AllColonistsWithSkillHaveDisabledConstructingTip>আপনার {0} যাদের এই দক্ষতা আছে, তাদের কাউকে {1} এর জন্য নিযুক্ত করা হয়নি।</AllColonistsWithSkillHaveDisabledConstructingTip>
+
+  <!-- EN: Extract skull -->
+  <DesignatorExtractSkull>খুলি নিষ্কাশন করুন</DesignatorExtractSkull>
+  <!-- EN: Extract the skull from a corpse. -->
+  <DesignatorExtractSkullDesc>একটি মৃতদেহ থেকে খুলিটি বের করুন।</DesignatorExtractSkullDesc>
+
+</LanguageData>

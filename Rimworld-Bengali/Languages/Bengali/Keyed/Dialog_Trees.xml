@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
+  <FactionGreetingHostile>{0} মাইক্রোফোনে কিছু গালিগালাজ ছুঁড়ে মারে এবং সংযোগ বিচ্ছিন্ন করে দেয়।</FactionGreetingHostile>
+  <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
+  <FactionGreetingHostileAppreciative>{0} চায় আপনি বন্ধুত্বপূর্ণ অঙ্গভঙ্গি করুন, যেমন {0_possessive} বসতির মধ্যে উপহার নিয়ে যাওয়া অথবা {0_possessive} দলের বন্দীদের অক্ষত অবস্থায় মুক্তি দেওয়া। ততক্ষণ পর্যন্ত, {0_pronoun} কথা বলতে অনিচ্ছুক।\n\nবিরক্তি প্রকাশ করে, {0_pronoun} সংযোগ বিচ্ছিন্ন করে।</FactionGreetingHostileAppreciative>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
+  <FactionGreetingWary>{0} {NEGOTIATOR_labelShort}-কে অভিবাদন জানায় এবং জানতে চায় আপনি কী বিষয়ে কথা বলতে চান।</FactionGreetingWary>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
+  <FactionGreetingWarm>{0} {NEGOTIATOR_labelShort}-কে উষ্ণভাবে অভ্যর্থনা জানায় এবং জিজ্ঞাসা করে {LEADER_pronoun} আপনাকে সাহায্য করতে কী করতে পারে।</FactionGreetingWarm>
+
+  <!-- EN: won't do {0} -->
+  <WorkTypeDisablesOption>{0} হবে না</WorkTypeDisablesOption>
+  <!-- EN: Disconnect -->
+  <Disconnect>সংযোগ বিচ্ছিন্ন করুন</Disconnect>
+
+  <!-- Gift offer -->
+  <!-- EN: Offer gift -->
+  <OfferGift>উপহার দিন</OfferGift>
+  <!-- EN: must be ally -->
+  <MustBeAlly>allies</MustBeAlly>
+  <!-- EN: need {0} goodwill -->
+  <NeedGoodwill>{0} goodwill প্রয়োজন।</NeedGoodwill>
+  <!-- EN: need {0} silver near trade beacons -->
+  <NeedSilverLaunchable>ট্রেড বিকনের কাছে {0} সিলভারের প্রয়োজন।</NeedSilverLaunchable>
+  <!-- EN: not enough silver -->
+  <NotEnoughSilver>রূপার অভাব।</NotEnoughSilver>
+  <!-- EN: {0} silver for {1} goodwill -->
+  <SilverForGoodwill>{0} সিলভার {1} শুভেচ্ছার জন্য</SilverForGoodwill>
+  <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
+  <SilverGiftSent>{0} আপনাকে ধন্যবাদ।\n\n( goodwill {1} দ্বারা উন্নত হয়েছে)</SilverGiftSent>
+
+  <!-- Trade caravan request -->
+  <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
+  <RequestTrader>একটি বাণিজ্য বহর চেয়ে নিন (খরচ: {0} শুভেচ্ছা)।</RequestTrader>
+  <!-- EN: {0} asks what kind of trade caravan you want. -->
+  <ChooseTraderKind>{0} কী ধরনের বাণিজ্য বহর চান জিজ্ঞাসা করছে।</ChooseTraderKind>
+  <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
+  <TraderSent>{0} আপনার কাছে একটি বাণিজ্য বহর পাঠানোর রাজি হয়েছে। এটি কয়েক দিনের মধ্যে আসবে।</TraderSent>
+  <!-- EN: wait {0} -->
+  <WaitTime>অপেক্ষা করুন {0}</WaitTime>
+
+  <!-- Orbital trade request -->
+  <!-- EN: Request orbital trader (cost: {0} goodwill) -->
+  <RequestOrbitalTrader>কক্ষীয় বণিককে অনুরোধ করুন (খরচ: {0} goodwill)</RequestOrbitalTrader>
+  <!-- EN: {0} asks what kind of orbital trader you want. -->
+  <ChooseOrbitalTraderKind>{0} আপনাকে কী ধরনের কক্ষপথের বণিক চান তা জিজ্ঞাসা করছে।</ChooseOrbitalTraderKind>
+  <!-- EN: {0} will ask an orbital trader to visit you. It will arrive within a few hours. -->
+  <OrbitalTraderSent>{0} আপনাকে একজন কক্ষপথের বণিককে আপনার কাছে আসার জন্য অনুরোধ করবে। এটি কয়েক ঘণ্টার মধ্যে আসবে।</OrbitalTraderSent>
+  
+  <!-- AI core request -->
+  <!-- EN: Request the location of a {0} (cost: {1} silver) -->
+  <RequestAICoreInformation>{0}-এর অবস্থান জানতে চাওয়া হচ্ছে (খরচ: {1} সিলভার)।</RequestAICoreInformation>
+  <!-- EN: {0} sends the requested information and wishes you good luck. -->
+  <RequestAICoreInformationResult>{0} অনুরোধ করা তথ্য পাঠিয়েছে এবং আপনার জন্য শুভকামনা জানিয়েছে।</RequestAICoreInformationResult>
+  <!-- EN: no more locations known -->
+  <NoKnownAICore>আর কোনো স্থান জানা নেই।</NoKnownAICore>  
+  
+  <!-- Military aid request -->
+  <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
+  <RequestMilitaryAid>অবিলম্বে সামরিক সহায়তা চাও (খরচ: {0} শুভেচ্ছা)</RequestMilitaryAid>
+  <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
+  <MilitaryAidConfirmMutualEnemy>{0} আপনার শত্রুদের ব্যতীত অন্য দলগুলির বিরুদ্ধে লড়াই করতে আপনাকে সাহায্য করবে না। এর মধ্যে এমন কিছু দলও অন্তর্ভুক্ত রয়েছে যারা বর্তমানে আপনাকে হুমকি দিচ্ছে, {1}। আপনি কি এখনও সাহায্যের জন্য আহ্বান জানাতে চান?</MilitaryAidConfirmMutualEnemy>
+  <!-- EN: Yes, call them anyway. -->
+  <CallConfirm>যেকোনোভাবে তাদের ডাকিও।</CallConfirm>
+  <!-- EN: No, never mind. -->
+  <CallCancel>ঠিক আছে।</CallCancel>
+  <!-- EN: {0} agrees to send fighters to help you. -->
+  <MilitaryAidSent>{0} আপনাকে সাহায্য করার জন্য যোদ্ধা পাঠাতে রাজি হয়েছে।</MilitaryAidSent>
+  <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
+  <CantSendMilitaryAidInTime>{0} দুঃখ প্রকাশ করছে এবং বলছে যে সময়মতো পৌঁছানো সম্ভব হবে না।\n\n(এই গোষ্ঠীর প্রযুক্তি স্তর পরিবহন পডের জন্য খুব কম।)</CantSendMilitaryAidInTime>
+  <!-- EN: hostile visitors present -->
+  <HostileVisitorsPresent>শত্রুভাবাপন্ন দর্শক উপস্থিত</HostileVisitorsPresent>
+
+</LanguageData>

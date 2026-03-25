@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: penoxycyline -->
+  <PenoxycylineHigh.label>পেনোক্সিসিলিন</PenoxycylineHigh.label>
+  <!-- EN: Penoxycyline-induced immunity to certain illnesses. This only blocks new infections; it does nothing for those who are already infected, even if their infection is dormant. -->
+  <PenoxycylineHigh.description>কিছু রোগের বিরুদ্ধে পেনোক্সিসিলিন-প্ররোচিত প্রতিরোধ ক্ষমতা। এটি শুধুমাত্র নতুন সংক্রমণগুলোকেই প্রতিহত করে; যারা ইতিমধ্যেই সংক্রমিত, এমনকি যাদের সংক্রমণ সুপ্ত, তাদের জন্য এটি কিছুই করে না।</PenoxycylineHigh.description>
+  
+</LanguageData>

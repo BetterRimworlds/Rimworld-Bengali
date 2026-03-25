@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: category -->
+  <Category.label>শ্রেণী</Category.label>
+  
+  <!-- EN: hit points percentage -->
+  <HitPointsPercentage.label>আঘাতের শতাংশ</HitPointsPercentage.label>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>বাজার মূল্য</MarketValue.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>ভর</Mass.label>
+  
+  <!-- EN: name -->
+  <Name.label>নাম</Name.label>
+  
+  <!-- EN: none -->
+  <None.label>কিছুই না</None.label>
+  
+  <!-- EN: quality -->
+  <Quality.label>গুণমান</Quality.label>
+  
+</LanguageData>

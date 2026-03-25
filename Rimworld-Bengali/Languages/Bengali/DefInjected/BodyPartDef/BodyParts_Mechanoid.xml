@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial brain -->
+  <ArtificialBrain.label>কৃত্রিম মস্তিষ্ক</ArtificialBrain.label>
+  
+  <!-- EN: blade -->
+  <Blade.label>ব্লেড</Blade.label>
+  
+  <!-- EN: fluid reprocessor -->
+  <FluidReprocessor.label>তরল প্রক্রিয়াকরণকারী</FluidReprocessor.label>
+  
+  <!-- EN: sound sensor -->
+  <HearingSensor.label>শব্দ সেন্সর</HearingSensor.label>
+  
+  <!-- EN: arm -->
+  <MechanicalArm.label>বাহু</MechanicalArm.label>
+  
+  <!-- EN: fifth body ring -->
+  <MechanicalCentipedeBodyFifthRing.label>পঞ্চম বডি রিং</MechanicalCentipedeBodyFifthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFifthRing.labelShort>শরীর বলয়</MechanicalCentipedeBodyFifthRing.labelShort>
+  
+  <!-- EN: first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label>প্রথম বডি রিং</MechanicalCentipedeBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort>বডি রিং</MechanicalCentipedeBodyFirstRing.labelShort>
+  
+  <!-- EN: fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label>চতুর্থ বডি রিং</MechanicalCentipedeBodyFourthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort>বডি রিং</MechanicalCentipedeBodyFourthRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalCentipedeBodySecondRing.label>দ্বিতীয় বডি রিং</MechanicalCentipedeBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort>শরীর রিং</MechanicalCentipedeBodySecondRing.labelShort>
+  
+  <!-- EN: sixth body ring -->
+  <MechanicalCentipedeBodySixthRing.label>ষষ্ঠ দেহ বলয়</MechanicalCentipedeBodySixthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySixthRing.labelShort>শারীরিক বলয়</MechanicalCentipedeBodySixthRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label>তৃতীয় বডি রিং</MechanicalCentipedeBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>শরীর বলয়</MechanicalCentipedeBodyThirdRing.labelShort>
+  
+  <!-- EN: finger -->
+  <MechanicalFinger.label>আঙুল</MechanicalFinger.label>
+  
+  <!-- EN: foot -->
+  <MechanicalFoot.label>পা</MechanicalFoot.label>
+  
+  <!-- EN: hand -->
+  <MechanicalHand.label>হাত</MechanicalHand.label>
+  
+  <!-- EN: head -->
+  <MechanicalHead.label>মাথা</MechanicalHead.label>
+  
+  <!-- EN: leg -->
+  <MechanicalLeg.label>পা</MechanicalLeg.label>
+  
+  <!-- EN: neck -->
+  <MechanicalNeck.label>গলা</MechanicalNeck.label>
+  
+  <!-- EN: shoulder -->
+  <MechanicalShoulder.label>কাঁধ</MechanicalShoulder.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThorax.label>বক্ষ খাঁচা</MechanicalThorax.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThoraxCanManipulate.label>বক্ষপিঞ্জর</MechanicalThoraxCanManipulate.label>
+  
+  <!-- EN: reactor -->
+  <Reactor.label>রিঅ্যাক্টর</Reactor.label>
+  
+  <!-- EN: visual sensor -->
+  <SightSensor.label>দৃষ্টি সেন্সর</SightSensor.label>
+  
+  <!-- EN: chemical analyzer -->
+  <SmellSensor.label>রাসায়নিক বিশ্লেষক</SmellSensor.label>
+  
+</LanguageData>

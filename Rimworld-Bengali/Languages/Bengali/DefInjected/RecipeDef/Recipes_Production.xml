@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: destroy apparel -->
+  <DestroyApparel.label>পোশাক ধ্বংস করুন</DestroyApparel.label>
+  <!-- EN: Use heat to destroy unwanted apparel. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyApparel.description>অপ্রয়োজনীয় পোশাক ধ্বংস করতে তাপ ব্যবহার করুন। এই প্রক্রিয়াটি গলানোর চেয়ে দ্রুততর, এবং যে জিনিসগুলি গলানো যায় না সেগুলির উপরেও কাজ করে, তবে কোনো সম্পদ উৎপাদন করে না।</DestroyApparel.description>
+  <!-- EN: Destroying apparel. -->
+  <DestroyApparel.jobString>পোশাক ধ্বংস করা হচ্ছে।</DestroyApparel.jobString>
+  
+  <!-- EN: destroy weapon -->
+  <DestroyWeapon.label>অস্ত্র ধ্বংস করুন</DestroyWeapon.label>
+  <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyWeapon.description>অপ্রয়োজনীয় অস্ত্র ধ্বংস করতে তাপ ব্যবহার করুন। এই প্রক্রিয়াটি গলানোর চেয়ে দ্রুততর, এবং যে জিনিসগুলি গলানো যায় না সেগুলির উপরেও কাজ করে, তবে এটি কোনো সম্পদ উৎপাদন করে না।</DestroyWeapon.description>
+  <!-- EN: Destroying weapon. -->
+  <DestroyWeapon.jobString>অস্ত্র ধ্বংস করা হচ্ছে।</DestroyWeapon.jobString>
+  
+  <!-- EN: smelt metal from slag -->
+  <ExtractMetalFromSlag.label>шлаগ থেকে ধাতু গলানো</ExtractMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <ExtractMetalFromSlag.description>шлаগ খণ্ড থেকে ব্যবহারযোগ্য ধাতু নিষ্কাশনের জন্য তাপ এবং শক্তিশালী তড়িৎচুম্বক ব্যবহার করুন।</ExtractMetalFromSlag.description>
+  <!-- EN: Smelting metal from slag. -->
+  <ExtractMetalFromSlag.jobString>സ്ലാগ থেকে ধাতু গলানো।</ExtractMetalFromSlag.jobString>
+  
+  <!-- EN: make chemfuel from organics -->
+  <Make_ChemfuelFromOrganics.label>জৈব থেকে রাসায়নিক জ্বালানি তৈরি</Make_ChemfuelFromOrganics.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+  <Make_ChemfuelFromOrganics.description>রাসায়নিক জ্বালানি তৈরি করুন জৈব কাঁচামাল থেকে বায়োফুয়েল নিষ্কাশন করে।</Make_ChemfuelFromOrganics.description>
+  <!-- EN: feedstock -->
+  <Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>কাঁচামাল</Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
+  <!-- EN: Refining chemfuel from organics. -->
+  <Make_ChemfuelFromOrganics.jobString>জৈব পদার্থ থেকে রাসায়নিক জ্বালানি পরিশোধন।</Make_ChemfuelFromOrganics.jobString>
+  
+  <!-- EN: make chemfuel from wood -->
+  <Make_ChemfuelFromWood.label>কাঠ থেকে রাসায়নিক জ্বালানি তৈরি করুন</Make_ChemfuelFromWood.label>
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <Make_ChemfuelFromWood.description>রাসায়নিক জ্বালানি তৈরি করুন খড়ি থেকে কাঠ গ্যাস নিষ্কাশন ও ঘনীভূত করে।</Make_ChemfuelFromWood.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <Make_ChemfuelFromWood.jobString>কাঠ থেকে রাসায়নিক জ্বালানি পরিশোধন করা।</Make_ChemfuelFromWood.jobString>
+  
+  <!-- EN: make component -->
+  <Make_ComponentIndustrial.label>উপাদান তৈরি করুন</Make_ComponentIndustrial.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrial.description>একটি উপাদান তৈরি করুন।</Make_ComponentIndustrial.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrial.jobString>উপাদান তৈরি করা হচ্ছে।</Make_ComponentIndustrial.jobString>
+  
+  <!-- EN: make advanced component -->
+  <Make_ComponentSpacer.label>উন্নত উপাদান তৈরি</Make_ComponentSpacer.label>
+  <!-- EN: Make an advanced component. -->
+  <Make_ComponentSpacer.description>একটি উন্নত উপাদান তৈরি করুন।</Make_ComponentSpacer.description>
+  <!-- EN: Making advanced component. -->
+  <Make_ComponentSpacer.jobString>উন্নত উপাদান তৈরি করা হচ্ছে।</Make_ComponentSpacer.jobString>
+  
+  <!-- EN: make patchleather -->
+  <Make_Patchleather.label>প্যাচ চামড়া</Make_Patchleather.label>
+  <!-- EN: Combine various types of leather to create weak patchleather. -->
+  <Make_Patchleather.description>বিভিন্ন ধরনের চামড়া একত্রিত করে দুর্বল প্যাচলেদার তৈরি করা হয়।</Make_Patchleather.description>
+  <!-- EN: Making patchleather. -->
+  <Make_Patchleather.jobString>প্যাচলেদার তৈরি করা হচ্ছে।</Make_Patchleather.jobString>
+  
+  <!-- EN: make any stone blocks -->
+  <Make_StoneBlocksAny.label>পাথরের ব্লক তৈরি করুন</Make_StoneBlocksAny.label>
+  <!-- EN: Cut rock chunks into usable stone blocks. -->
+  <Make_StoneBlocksAny.description>ব্যবহারযোগ্য পাথরের ব্লকে কাটার জন্য পাথরের খণ্ডগুলো কাটুন।</Make_StoneBlocksAny.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksAny.jobString>খণ্ড থেকে পাথরের ব্লক কাটা।</Make_StoneBlocksAny.jobString>
+  
+  <!-- EN: smelt apparel -->
+  <SmeltApparel.label>পোশাক গলানো</SmeltApparel.label>
+  <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
+  <SmeltApparel.description>গরম এবং শক্তিশালী তড়িৎচুম্বক ব্যবহার করে ধাতব পোশাক, যেমন বর্ম, ভেঙে দরকারী সম্পদে পরিণত করা যায়।</SmeltApparel.description>
+  <!-- EN: Smelting apparel. -->
+  <SmeltApparel.jobString>পোশাক গলানো।</SmeltApparel.jobString>
+  
+  <!-- EN: smelt or destroy thing -->
+  <SmeltOrDestroyThing.label>গলানো বা ধ্বংস করা</SmeltOrDestroyThing.label>
+  <!-- EN: Use heat and strong electromagnets to break down metallic things like weapons and armor into useful resources, or destroy them if they are not smeltable. -->
+  <SmeltOrDestroyThing.description>গরম এবং শক্তিশালী তড়িৎচুম্বক ব্যবহার করে ধাতব জিনিস, যেমন অস্ত্র এবং বর্ম, ভেঙে দরকারী সম্পদে পরিণত করা যায়, অথবা যদি গলানো সম্ভব না হয় তবে ধ্বংস করা যায়।</SmeltOrDestroyThing.description>
+  <!-- EN: Smelting/destroying things. -->
+  <SmeltOrDestroyThing.jobString>গলানো/ধ্বংস করা।</SmeltOrDestroyThing.jobString>
+  
+  <!-- EN: smelt weapon -->
+  <SmeltWeapon.label>অস্ত্র গলানো</SmeltWeapon.label>
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
+  <SmeltWeapon.description>তাপ এবং শক্তিশালী তড়িৎচুম্বক ব্যবহার করে অস্ত্রগুলিকে দরকারী সম্পদে ভেঙে ফেলুন।</SmeltWeapon.description>
+  <!-- EN: Smelting weapon. -->
+  <SmeltWeapon.jobString>অস্ত্র গলানো।</SmeltWeapon.jobString>
+  
+</LanguageData>

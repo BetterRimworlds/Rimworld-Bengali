@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic arm -->
+  <BionicArm.label>বায়োনিক বাহু</BionicArm.label>
+  <!-- EN: An installed bionic arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
+  <BionicArm.description>একটি স্থাপন করা বায়োনিক বাহু। নীরব মিনি-সার্ভো দারুণ শক্তি প্রদান করে, যেখানে বায়ো জেল নার্ভ-লিঙ্ক সূক্ষ্ম নিয়ন্ত্রণ দেয়। একটি ল্যাটিস-ধুলো নিরাময় ব্যবস্থা এটিকে ক্ষতির থেকে পুনরুদ্ধার করতে দেয়। এটি প্রায় প্রতিটি ক্ষেত্রেই একটি জৈবিক বাহুর চেয়ে ভালো।</BionicArm.description>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>মুষ্টি</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>একটি বায়োনিক বাহু</BionicArm.labelNoun>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>বায়োনিক কান</BionicEar.label>
+  <!-- EN: An installed bionic ear. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
+  <BionicEar.description>একটি স্থাপন করা বায়োনিক কান। ত্বকের নিচে স্থাপিত অদৃশ্য মাইক্রোফোন শব্দ গ্রহণ করে এবং একটি বায়ো জেল নার্ভ ইন্টারফেসের মাধ্যমে প্রেরণ করে, যা সরাসরি শ্রবণ স্নায়ুর সাথে যুক্ত। এটি এতটাই সংবেদনশীল যে আপনি কোনো বিড়ালকে দেখার আগেই তার শব্দ শুনতে পাবেন, উচ্চ শব্দে ক্ষতিগ্রস্ত হয় না এবং কোলাহলপূর্ণ পরিবেশে অর্থপূর্ণ শব্দ বাছাই করার জন্য স্বয়ংক্রিয়ভাবে নিজেকে টিউন করে।</BionicEar.description>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>একটি বায়োনিক কান</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>বায়োনিক চোখ</BionicEye.label>
+  <!-- EN: An installed bionic eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <BionicEye.description>একটি স্থাপন করা বায়োনিক চোখ। এর বায়ো জেল নার্ভ-লিঙ্ক, অভ্যন্তরীণ সংকেত প্রি-প্রসেসর এবং বিস্তৃত-স্পেকট্রাম সেন্সর সহ, এটি প্রায় প্রতিটি ক্ষেত্রেই একটি জৈবিক চোখের চেয়ে ভালো। একটি ল্যাটিস-ধুলো নিরাময় ব্যবস্থা এটিকে ক্ষতির থেকে পুনরুদ্ধার করতে দেয়।</BionicEye.description>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>একটি বায়োনিক চোখ</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>বায়োনিক হৃদপিণ্ড</BionicHeart.label>
+  <!-- EN: An installed bionic heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
+  <BionicHeart.description>একটি স্থাপন করা বায়োনিক হৃদপিণ্ড। এটির বাস্তবসম্মত হৃদস্পন্দনের জন্য সিনথেটিক পেশী ফাইবার রয়েছে, সেই সাথে উচ্চ চাপের সময় দ্রুত সঞ্চালনের জন্য একটি উচ্চ-প্রবাহ পাম্প রয়েছে। এটি প্রায় প্রতিটি ক্ষেত্রেই একটি জৈবিক হৃদপিণ্ডের চেয়ে ভালো।</BionicHeart.description>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>একটি বায়োনিক হৃদপিণ্ড</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>বায়োনিক চোয়াল</BionicJaw.label>
+  <!-- EN: An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>একটি স্থাপন করা বায়োনিক চোয়াল। জৈব-সংশ্লেষিত হাড় দিয়ে তৈরি, প্লাস্টিল দাঁতের প্রতিস্থাপন এবং সম্পূর্ণ নড়াচড়ার পরিসরের জন্য মাইক্রো সার্ভোমোটরের একটি সেট রয়েছে।</BionicJaw.description>
+  <!-- EN: a bionic jaw -->
+  <BionicJaw.labelNoun>একটি বায়োনিক চোয়াল</BionicJaw.labelNoun>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>বায়োনিক পা</BionicLeg.label>
+  <!-- EN: An installed bionic leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <BionicLeg.description>একটি স্থাপন করা বায়োনিক পা। এর বায়ো জেল নার্ভ-লিঙ্ক, শক্তিশালী মিনি-সার্ভো এবং ল্যাটিস-ডাস্ট নিরাময় ব্যবস্থার সাথে, এটি প্রায় প্রতিটি ক্ষেত্রেই একটি জৈবিক পায়ের চেয়ে ভালো।</BionicLeg.description>
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>একটি বায়োনিক পা</BionicLeg.labelNoun>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>বায়োনিক মেরুদণ্ড</BionicSpine.label>
+  <!-- EN: An installed bionic spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
+  <BionicSpine.description>একটি স্থাপন করা বায়োনিক মেরুদণ্ড। একটি বায়ো জেল স্নায়ু বান্ডিল একটি যুক্তিসঙ্গত প্লাস্টিল কোরের নিচে দিয়ে যায়, যা ল্যাটিস-ধুলো নিরাময় ব্যবস্থা দ্বারা বেষ্টিত। এটি একটি জৈবিক মেরুদণ্ডের কর্মক্ষমতার সাথে মেলে।</BionicSpine.description>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>একটি বায়োনিক মেরুদণ্ড</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>বায়োনিক পাকস্থলী</BionicStomach.label>
+  <!-- EN: An installed bionic stomach. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
+  <BionicStomach.description>একটি স্থাপন করা বায়োনিক পাকস্থলী। এইরকম কারো খাদ্য বিষক্রিয়ার সম্ভাবনা অনেক কম, এবং কিছু পেটের রোগ থেকে তারা সুরক্ষিত। একটি সমন্বিত ল্যাটিস-ধূলিকণা নিরাময় ব্যবস্থা কৃত্রিম অঙ্গের যেকোনো ক্ষতি স্বয়ংক্রিয়ভাবে মেরামত করে। এটি প্রায় যেকোনো দিক থেকে একটি জৈবিক পাকস্থলীর চেয়ে ভালো।</BionicStomach.description>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>একটি বায়োনিক পাকস্থলী</BionicStomach.labelNoun>
+  
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>বায়োনিক জিভ</BionicTongue.label>
+  <!-- EN: An installed bionic tongue. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
+  <BionicTongue.description>একটি স্থাপন করা বায়োনিক জিহ্বা। সিনথেটিক মসৃণ-ফাইবার দিয়ে তৈরি এবং একটি নিউরোজেল ইন্টারফেসের মাধ্যমে সংযুক্ত, এটি কথা বলা, খাওয়া এবং স্বাদ নেওয়ার ক্ষেত্রে একটি স্বাভাবিক জিহ্বার মতোই কাজ করতে পারে।</BionicTongue.description>
+  <!-- EN: a bionic tongue -->
+  <BionicTongue.labelNoun>একটি বায়োনিক জিভ</BionicTongue.labelNoun>
+  
+  <!-- EN: death acidifier -->
+  <DeathAcidifier.label>মৃত্যু অ্যাসিডার</DeathAcidifier.label>
+  <!-- EN: An installed death acidifier. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
+  <DeathAcidifier.description>একটি ইনস্টল করা ডেথ অ্যাসিডिफায়ার। ব্যবহারকারীর মৃত্যুর পর, এটি শক্তিশালী রাসায়নিক নির্গত করে যা ব্যবহারকারীর শরীরের সংস্পর্শে আসা সরঞ্জাম দ্রবীভূত করে। এটি অন্যদের ক্ষতি করে না।</DeathAcidifier.description>
+  <!-- EN: a death acidifier -->
+  <DeathAcidifier.labelNoun>মৃত্যু অ্যাসিডIFIER</DeathAcidifier.labelNoun>
+  
+</LanguageData>

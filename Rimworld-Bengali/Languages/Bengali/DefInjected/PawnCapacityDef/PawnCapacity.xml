@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>রক্ত পরিস্রাবণ</BloodFiltration.label>
+  <!-- EN: pneumatics -->
+  <BloodFiltration.labelDrones>নিউমেটিক্স</BloodFiltration.labelDrones>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>তরল পুনঃপ্রক্রিয়াকরণ</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>রক্ত পাম্প করা</BloodPumping.label>
+  <!-- EN: battery integrity -->
+  <BloodPumping.labelDrones>ব্যাটারিIntegrity</BloodPumping.labelDrones>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>বিদ্যুৎ উৎপাদন</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>শ্বাস-প্রশ্বাস</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>সচেতনতা</Consciousness.label>
+  <!-- EN: Sentience -->
+  <Consciousness.labelAnomalyEntity>সচেতনতা</Consciousness.labelAnomalyEntity>
+  <!-- EN: Performance -->
+  <Consciousness.labelDrones>কার্যকারিতা</Consciousness.labelDrones>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>ডেটা প্রক্রিয়াকরণ</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>খাওয়া</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>শ্রবণ</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>ম্যানিপুলেশন</Manipulation.label>
+  
+  <!-- EN: digestion -->
+  <Metabolism.label>হজম</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>চলমান</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>দৃষ্টিসীমা</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>কথা বলা</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>যোগাযোগ</Talking.labelMechanoids>
+  
+</LanguageData>

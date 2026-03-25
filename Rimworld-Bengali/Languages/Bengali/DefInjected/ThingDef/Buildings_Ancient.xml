@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient concrete barrier -->
+  <AncientConcreteBarrier.label>প্রাচীন কংক্রিট বাধা</AncientConcreteBarrier.label>
+  <!-- EN: A traffic management solution from long ago. -->
+  <AncientConcreteBarrier.description>বহু আগেকার একটি ট্র্যাফিক ব্যবস্থাপনা সমাধান।</AncientConcreteBarrier.description>
+  
+  <!-- EN: ancient lamppost -->
+  <AncientLamppost.label>প্রাচীন ল্যাম্পপোস্ট</AncientLamppost.label>
+  <!-- EN: Road lighting from long ago. No longer functional. -->
+  <AncientLamppost.description>বহু আগেকার রাস্তার আলো। বর্তমানে অকার্যকর।</AncientLamppost.description>
+  
+  <!-- EN: urn -->
+  <Urn.label>পাত্র</Urn.label>
+  <!-- EN: An ancient-style decorative container. -->
+  <Urn.description>প্রাচীন শৈলীর একটি আলংকারিক পাত্র।</Urn.description>
+  
+</LanguageData>

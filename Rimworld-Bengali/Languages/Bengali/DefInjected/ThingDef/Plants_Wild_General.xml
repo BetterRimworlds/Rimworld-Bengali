@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brambles -->
+  <Plant_Brambles.label>ব্রাম্বলস</Plant_Brambles.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <Plant_Brambles.description>জট পাকানো, কাঁটাযুক্ত, কাঠের মতো ডালপালা পাতায় ঢাকা। ব্রম্বলস দলবদ্ধভাবে জন্মায় এবং এর উপর দিয়ে চলাচল করা যে কারোর গতি কমিয়ে দেয়।</Plant_Brambles.description>
+  
+  <!-- EN: bush -->
+  <Plant_Bush.label>ঝোপঝাড়</Plant_Bush.label>
+  <!-- EN: A short shrub. Does not typically talk. -->
+  <Plant_Bush.description>এটি একটি ছোট গুল্ম। সাধারণত কথা বলে না।</Plant_Bush.description>
+  
+  <!-- EN: grass -->
+  <Plant_Grass.label>ঘাস</Plant_Grass.label>
+  <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
+  <Plant_Grass.description>বুনো ঘাস। অল্প আলো এবং সামান্য উর্বর মাটি যেখানেই আছে, সেখানেই জন্মায়।</Plant_Grass.description>
+  
+  <!-- EN: wild healroot -->
+  <Plant_HealrootWild.label>ওয়াইল্ড হিলরুট</Plant_HealrootWild.label>
+  <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
+  <Plant_HealrootWild.description>ধীরে ধীরে বর্ধনশীল একটি উদ্ভিদ যা সংগ্রহ করলে ওষুধ পাওয়া যায়।\n\nএই বুনো নিরাময়মূল, গৃহপালিত নিরাময়মূলের চেয়ে বেশি কঠিন, তবে এটি চাষ করা খুব কঠিন। এটি শীতল জলবায়ুর উপজাতিদের দ্বারা মূল্যবান।</Plant_HealrootWild.description>
+  
+  <!-- EN: tall grass -->
+  <Plant_TallGrass.label>লম্বা ঘাস</Plant_TallGrass.label>
+  <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
+  <Plant_TallGrass.description>বুনো লম্বা ঘাস। এর উপর দিয়ে চলাচল করলে গতি কমে যায়।</Plant_TallGrass.description>
+  
+</LanguageData>

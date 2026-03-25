@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted messages about a collection of valuable items worth [itemStashContentsValue] not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->আমরা কিছু বার্তা перехвачено করেছি কিছু জিনিসের সংগ্রহ সম্পর্কে যা আপনার আগ্রহের হতে পারে, মূল্য [itemStashContentsValue] খুব বেশি দূরে নয় [map_definite]। সংগ্রহটিতে রয়েছে\n\n[itemStashContents]\n\nমনে হচ্ছে [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] এর দল থেকে [asker_faction_name], আমাদের গুরুত্বপূর্ণ জিনিসের একটি সংগ্রহ সম্পর্কে জানিয়েছে, যেগুলির মূল্য [itemStashContentsValue] আমাদের থেকে খুব দূরে নয়। সংগ্রহটিতে রয়েছে:\n\n[itemStashContents]\n\n[asker_label] এছাড়াও বলছে যে [allSitePartsDescriptionsExceptFirst]</li>
+  </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
+    <li>questName->[stash] of [treasure]</li>
+    <li>stash->Stash</li>
+    <li>stash->Cache</li>
+    <li>stash->Collection</li>
+    <li>stash->Shack</li>
+    <li>treasure->Treasure</li>
+    <li>treasure->Valuables</li>
+    <li>treasure->Fortune</li>
+    <li>treasure->Goodies</li>
+    <li>treasure->Supplies</li>
+  -->
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings>
+    <li>questName(priority=1)->টি [stash] [treasure] এর [asker_nameDef]</li>
+    <li>questName->টি [stash] [treasure]</li>
+    <li>stash->আলিহো</li>
+    <li>stash->আশ্রয়স্থল</li>
+    <li>stash->সিন্দুক</li>
+    <li>stash->বাউল</li>
+    <li>treasure->গুপ্তধনের</li>
+    <li>treasure->পণ্যটির থেকে</li>
+    <li>treasure->ভাগ্য থেকে</li>
+    <li>treasure->মিষ্টিজাতীয় খাদ্য থেকে</li>
+    <li>treasure->সরবরাহ বিষয়ক</li>
+  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>La misión expiró: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>Las comunicaciones interceptadas indican que el alijo del artículo ha sido reclamado por otros. La misión [resolvedQuestName] ha expirado.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

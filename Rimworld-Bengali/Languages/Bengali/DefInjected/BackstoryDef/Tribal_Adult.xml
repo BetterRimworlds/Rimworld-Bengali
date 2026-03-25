@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons. -->
+  <Archer25.description>[PAWN_nameDef] তাঁর উপজাতির জন্য যুদ্ধ করেছিলেন। তিনি ধনুক, পিলা এবং অন্যান্য দূরপাল্লার অস্ত্রের ব্যবহারে বিশেষজ্ঞ ছিলেন।</Archer25.description>
+  <!-- EN: archer -->
+  <Archer25.title>ধনুকন্দাজ ব্যক্তি</Archer25.title>
+  <Archer25.titleFemale>ধনুকন্দাজ ব্যক্তি</Archer25.titleFemale>
+  <!-- EN: archer -->
+  <Archer25.titleShort>ধনুকচিহ্নক</Archer25.titleShort>
+  <Archer25.titleShortFemale>ধনুকচিহ্নক</Archer25.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
+  <Banished68.description>[PAWN_nameDef]-কে একটি রক্তক্ষয়ী বিতর্কের পর তাঁর উপজাতি বিতাড়িত করেছিল। দীর্ঘ সময় ধরে তিনি একাকী জঙ্গলে বেঁচে ছিলেন।</Banished68.description>
+  <!-- EN: banished -->
+  <Banished68.title>নির্বাসিত</Banished68.title>
+  <Banished68.titleFemale>নির্বাসিত</Banished68.titleFemale>
+  <!-- EN: banished -->
+  <Banished68.titleShort>বহিষ্কৃত</Banished68.titleShort>
+  <Banished68.titleShortFemale>বহিষ্কৃত</Banished68.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
+  <Brave88.description>[PAWN_nameDef] তাঁর উপজাতির জন্য যুদ্ধগুলোতে ইকুয়া, কুঠার, ক্লাব এবং অন্যান্য স্বল্প-পাল্লার অস্ত্র ব্যবহার করতেন।</Brave88.description>
+  <!-- EN: brave -->
+  <Brave88.title>সাহসী</Brave88.title>
+  <Brave88.titleFemale>সাহসী</Brave88.titleFemale>
+  <!-- EN: brave -->
+  <Brave88.titleShort>সাহসী</Brave88.titleShort>
+  <Brave88.titleShortFemale>সাহসী</Brave88.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
+  <Butcher40.description>[PAWN_nameDef]'s শিকার দলের প্রধান কাজ ছিল পশু জবাই করা। খুব অল্প সময়ে একটি মৃতদেহ থেকে সমস্ত মূল্যবান অংশ বের করতে পারার দক্ষতা [PAWN_nameDef]'s অর্জন করেছিলেন।</Butcher40.description>
+  <!-- EN: butcher -->
+  <Butcher40.title>মাংসিক পশুচ্ছেদক</Butcher40.title>
+  <Butcher40.titleFemale>মাংসিক পশুচ্ছেদক</Butcher40.titleFemale>
+  <!-- EN: butcher -->
+  <Butcher40.titleShort>মাংস কাটারী</Butcher40.titleShort>
+  <Butcher40.titleShortFemale>মাংস কাটারী</Butcher40.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals. -->
+  <Carver1.description>[PAWN_nameDef] কাঠ, পাথর এবং মাঝে মাঝে আরও বহিরাগত উপকরণ থেকে তাঁর গোষ্ঠীর জন্য শিল্পকর্ম খোদাই করতেন। এই কাজটি কখনও কখনও বিক্রি করা হত, আবার কখনও কখনও বসতিগুলিকে সুন্দর করার জন্য এবং আচার-অনুষ্ঠানের কেন্দ্রবিন্দু হিসাবে রাখার জন্য সংরক্ষণ করা হত।</Carver1.description>
+  <!-- EN: carver -->
+  <Carver1.title>কারুকার্যকার খোদাইকারী</Carver1.title>
+  <Carver1.titleFemale>কারুকার্যকার খোদাইকারী</Carver1.titleFemale>
+  <!-- EN: carver -->
+  <Carver1.titleShort>কারুশিল্পী</Carver1.titleShort>
+  <Carver1.titleShortFemale>কারুশিল্পী</Carver1.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
+  <CaveBuilder81.description>[PAWN_nameDef] গুহা কমপ্লেক্স খনন ও নির্মাণে বিশেষজ্ঞ ছিলেন।</CaveBuilder81.description>
+  <!-- EN: cave builder -->
+  <CaveBuilder81.title>গুহা নির্মাতা</CaveBuilder81.title>
+  <CaveBuilder81.titleFemale>গুহা নির্মাতা</CaveBuilder81.titleFemale>
+  <!-- EN: cave builder -->
+  <CaveBuilder81.titleShort>গুহা নির্মাতা</CaveBuilder81.titleShort>
+  <CaveBuilder81.titleShortFemale>গুহা নির্মাতা</CaveBuilder81.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions. -->
+  <Digger31.description>[PAWN_nameDef] খনি ও গুহায় কাজ করতেন, জিনিসপত্র রাখার স্থান এবং বিপদ থেকে লুকানোর জন্য জায়গা খনন করতেন। তাঁদের কাজের মাধ্যমে অনেক সময়ে বন্ধুদের জন্য লুকানোর জায়গা তৈরি হত।</Digger31.description>
+  <!-- EN: digger -->
+  <Digger31.title>খনককারী</Digger31.title>
+  <Digger31.titleFemale>খনককারী</Digger31.titleFemale>
+  <!-- EN: digger -->
+  <Digger31.titleShort>খননকারী</Digger31.titleShort>
+  <Digger31.titleShortFemale>খননকারী</Digger31.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
+  <Digger66.description>[PAWN_nameDef] পাহাড় এবং পর্বতের ঢাল থেকে বসবাসের স্থান খোদাই করতেন এবং খনিজ সম্পদ উত্তোলন করতেন। পাথরের মধ্যে দিয়ে বাছাই করা এবং গুহার দেয়াল ধরে রাখার অনুভূতি [PAWN_nameDef]-এর কাছে বাড়ির মতো লাগতো।</Digger66.description>
+  <!-- EN: digger -->
+  <Digger66.title>খনককারী</Digger66.title>
+  <Digger66.titleFemale>খনককারী</Digger66.titleFemale>
+  <!-- EN: digger -->
+  <Digger66.titleShort>খননকারী</Digger66.titleShort>
+  <Digger66.titleShortFemale>খননকারী</Digger66.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools. -->
+  <Excavator55.description>[PAWN_nameDef] প্রাচীন স্তূপীকৃত ধ্বংসাবশেষ থেকে মূল্যবান জিনিস এবং উপকরণ উত্তোলনের জন্য খনন সাইটে কাজ করত। সে মাটি থেকে মূল্যবান জিনিস চিনতে এবং বিভিন্ন খনন সরঞ্জাম ব্যবহার করতে শিখেছে।</Excavator55.description>
+  <!-- EN: excavator -->
+  <Excavator55.title>খননকারী</Excavator55.title>
+  <Excavator55.titleFemale>খননকারী</Excavator55.titleFemale>
+  <!-- EN: excavator -->
+  <Excavator55.titleShort>খননকারী</Excavator55.titleShort>
+  <Excavator55.titleShortFemale>খননকারী</Excavator55.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job. -->
+  <Framer37.description>[PAWN_nameDef] তাঁর উপজাতিদের বসবাসের জন্য কাঠামো তৈরি করার দায়িত্বে ছিলেন। এর মধ্যে যাযাবর জীবনের জন্য অস্থায়ী কাঠামো এবং স্থায়ী বসতি উভয়ই অন্তর্ভুক্ত ছিল। স্থানীয় উদ্ভিদ থেকে নির্মাণ সামগ্রী সংগ্রহ করা কাজের একটি অংশ ছিল।</Framer37.description>
+  <!-- EN: framer -->
+  <Framer37.title>ফ্রেমার</Framer37.title>
+  <Framer37.titleFemale>ফ্রেমার</Framer37.titleFemale>
+  <!-- EN: framer -->
+  <Framer37.titleShort>ফ্রেমার</Framer37.titleShort>
+  <Framer37.titleShortFemale>ফ্রেমার</Framer37.titleShortFemale>
+  
+  <!-- EN: Using [PAWN_possessive] knowledge of plants, roots, and berries, [PAWN_nameDef] could find food in even the most barren landscapes. [PAWN_pronoun] stayed away from animals. -->
+  <Gatherer70.description>উদ্ভিদ, মূল এবং বেরির জ্ঞান ব্যবহার করে, [PAWN_nameDef] সবচেয়ে ঊর্বরহীন ভূখণ্ডেও খাবার খুঁজে বের করতে পারতেন। তিনি পশুদের থেকে দূরে থাকতেন।</Gatherer70.description>
+  <!-- EN: gatherer -->
+  <Gatherer70.title>সংগ্রাহক</Gatherer70.title>
+  <Gatherer70.titleFemale>সংগ্রাহক</Gatherer70.titleFemale>
+  <!-- EN: gatherer -->
+  <Gatherer70.titleShort>সংগ্রাহক</Gatherer70.titleShort>
+  <Gatherer70.titleShortFemale>সংগ্রাহক</Gatherer70.titleShortFemale>
+  
+  <!-- EN: After [PAWN_possessive] tribe's elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies. -->
+  <Healer46.description>তাদের গোত্রের প্রবীণ নিরাময়কারী একটি হানাতে নিহত হওয়ার পর, [PAWN_nameDef] এই ভূমিকাটি গ্রহণ করেন। তিনি নিকটবর্তী অঞ্চল থেকে ভেষজ এবং খনিজ যৌগ সংগ্রহ করে কাটাতে পারতেন, যা আশ্চর্যজনকভাবে কার্যকর প্রতিকারে ব্যবহৃত হত।</Healer46.description>
+  <!-- EN: healer -->
+  <Healer46.title>আরোগ্যকারী</Healer46.title>
+  <Healer46.titleFemale>আরোগ্যকারী</Healer46.titleFemale>
+  <!-- EN: healer -->
+  <Healer46.titleShort>চিকিৎসক</Healer46.titleShort>
+  <Healer46.titleShortFemale>চিকিৎসক</Healer46.titleShortFemale>
+  
+  <!-- EN: While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick. -->
+  <HearthTender66.description>অন্যান্যরা শিকার ও খাবার সংগ্রহের জন্য বাইরে গেলে, [PAWN_nameDef] বাড়িতে থেকে রান্না করতেন এবং ছোট ও অসুস্থদের যত্ন নিতেন।</HearthTender66.description>
+  <!-- EN: hearth tender -->
+  <HearthTender66.title>অগ্নিকুণ্ড যত্নশীল ব্যক্তি</HearthTender66.title>
+  <HearthTender66.titleFemale>অগ্নিকুণ্ড যত্নশীল ব্যক্তি</HearthTender66.titleFemale>
+  <!-- EN: tender -->
+  <HearthTender66.titleShort>নরমhearted</HearthTender66.titleShort>
+  <HearthTender66.titleShortFemale>নরমhearted</HearthTender66.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
+  <Herder33.description>[PAWN_nameDef] যাযাবর জীবনযাপনকালে তাঁর গোষ্ঠীর খাদ্য ও পোশাকের জন্য বিভিন্ন ধরনের পশুচারণ করতেন। [PAWN_nameDef] পশুদের শান্ত করা ও পরিচালনা করতে এবং পথে নিজের খাবার শিকার করতে শিখেছিলেন।</Herder33.description>
+  <!-- EN: herder -->
+  <Herder33.title>পালক</Herder33.title>
+  <Herder33.titleFemale>পালক</Herder33.titleFemale>
+  <!-- EN: herder -->
+  <Herder33.titleShort>চারাপালক</Herder33.titleShort>
+  <Herder33.titleShortFemale>চারাপালক</Herder33.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals. -->
+  <Hunter74.description>[PAWN_nameDef] মাংস এবং চামড়ার জন্য পশুদের ট্র্যাক করত, ফাঁদে ফেলত এবং হত্যা করত।\n\n[PAWN_nameDef] দূরপাল্লার এবং নিকট যুদ্ধ উভয় অস্ত্র ব্যবহার করত। মাঝে মাঝে, সে পশুদের সাথে শিকার করত।</Hunter74.description>
+  <!-- EN: hunter -->
+  <Hunter74.title>শিকারী</Hunter74.title>
+  <Hunter74.titleFemale>শিকারী</Hunter74.titleFemale>
+  <!-- EN: hunter -->
+  <Hunter74.titleShort>শিকারী</Hunter74.titleShort>
+  <Hunter74.titleShortFemale>শিকারী</Hunter74.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
+  <Logger16.description>[PAWN_nameDef] গাছ কাটতেন এবং তাদের কাঠ tribe-এ নিয়ে যেতেন। তিনি একজন শিল্পীর মতো সূক্ষ্মতা এবং একটি ছুটে আসা মাফালোর মতো শক্তি নিয়ে তাঁর কুঠার চালাতেন।</Logger16.description>
+  <!-- EN: logger -->
+  <Logger16.title>লগার</Logger16.title>
+  <Logger16.titleFemale>লগার</Logger16.titleFemale>
+  <!-- EN: logger -->
+  <Logger16.titleShort>লগার</Logger16.titleShort>
+  <Logger16.titleShortFemale>লগার</Logger16.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never much liked the tribal council or the yearly festivals. [PAWN_pronoun] preferred the open plain and the whistle of wind through the rocks.\n\n[PAWN_pronoun] visited [PAWN_possessive] tribe from time to time, but mostly took care of [PAWN_objective]self using [PAWN_possessive] own survival skills. -->
+  <Loner61.description>[PAWN_nameDef] কখনোই উপজাতীয় পরিষদ বা বার্ষিক উৎসব খুব পছন্দ করতেন না। খোলা প্রান্তর এবং পাথরের মধ্যে বাতাসের শীষকলটি শুনতে [PAWN_nameDef] বেশি পছন্দ করতেন।\n\n[PAWN_nameDef] মাঝে মাঝে নিজের উপজাতিকে দেখতে যেতেন, তবে বেশিরভাগ সময় নিজের টিকে থাকার দক্ষতা ব্যবহার করে নিজের যত্ন নিতেন।</Loner61.description>
+  <!-- EN: loner -->
+  <Loner61.title>একা থাকা ব্যক্তি</Loner61.title>
+  <Loner61.titleFemale>একা থাকা ব্যক্তি</Loner61.titleFemale>
+  <!-- EN: loner -->
+  <Loner61.titleShort>একা মানুষ</Loner61.titleShort>
+  <Loner61.titleShortFemale>একা মানুষ</Loner61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was one of a long line of lore keepers in [PAWN_possessive] tribe. Every night around the fire, [PAWN_pronoun] would pass on ancient knowledge and helpful wisdom through stories. -->
+  <LoreKeeper51.description>[PAWN_nameDef] তাঁর গোষ্ঠীর দীর্ঘ লাইনের একজন ঐতিহ্য রক্ষক ছিলেন। প্রতিদিন রাতে আগুনের চারপাশে, তিনি প্রাচীন জ্ঞান এবং সহায়ক প্রজ্ঞা গল্পগুলির মাধ্যমে বিতরণ করতেন।</LoreKeeper51.description>
+  <!-- EN: lore keeper -->
+  <LoreKeeper51.title>ইতিহাস রক্ষক</LoreKeeper51.title>
+  <!-- EN: keeper -->
+  <LoreKeeper51.titleShort>সংরক্ষক</LoreKeeper51.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] often feigned sickness in order to avoid [PAWN_possessive] responsibilities. While resting in the sick hut, [PAWN_pronoun] told stories to the children. -->
+  <Malingerer28.description>[PAWN_nameDef] প্রায়শই দায়িত্ব এড়ানোর জন্য অসুস্থতার ভান করতেন। অসুস্থদের কুঁড়েঘরে বিশ্রাম নেওয়ার সময়, তিনি বাচ্চাদের গল্প শোনাতেন।</Malingerer28.description>
+  <!-- EN: malingerer -->
+  <Malingerer28.title>অসুস্থতার ভানকারী ব্যক্তি</Malingerer28.title>
+  <Malingerer28.titleFemale>অসুস্থতার ভানকারী ব্যক্তি</Malingerer28.titleFemale>
+  <!-- EN: malingerer -->
+  <Malingerer28.titleShort>অসুস্থতার ভানকারী</Malingerer28.titleShort>
+  <Malingerer28.titleShortFemale>অসুস্থতার ভানকারী</Malingerer28.titleShortFemale>
+  
+  <!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
+  <MuffaloShaman95.description>[PAWN_nameDef]-এর শান্ত প্রজ্ঞা ও বিশাল শক্তির কারণে, তিনি তাঁর গোষ্ঠীর আধ্যাত্মিক পথপ্রদর্শক হয়েছিলেন। তাঁর মাফালোর মহান আত্মার সঙ্গে একটি বিশেষ সংযোগ ছিল।</MuffaloShaman95.description>
+  <!-- EN: muffalo shaman -->
+  <MuffaloShaman95.title>মাফালো শামান</MuffaloShaman95.title>
+  <!-- EN: shaman -->
+  <MuffaloShaman95.titleShort>শামান</MuffaloShaman95.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
+  <PlankCutter72.description>[PAWN_nameDef] তাঁর গোত্রের বিশাল কাঠের কাঠামো নির্মাণে গাছ কেটে মজবুত তক্তা তৈরিতে সাহায্য করেছিলেন। [PAWN_nameDef] কাঠের বৃদ্ধি এবং বিভাজন সম্পর্কে সূক্ষ্ম ধারণা অর্জন করেছিলেন।</PlankCutter72.description>
+  <!-- EN: plank cutter -->
+  <PlankCutter72.title>প্ল্যাঙ্ক কাটার</PlankCutter72.title>
+  <PlankCutter72.titleFemale>প্ল্যাঙ্ক কাটার</PlankCutter72.titleFemale>
+  <!-- EN: plank cutter -->
+  <PlankCutter72.titleShort>কাঠ কাটারী</PlankCutter72.titleShort>
+  <PlankCutter72.titleShortFemale>কাঠ কাটারী</PlankCutter72.titleShortFemale>
+  
+  <!-- EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines. -->
+  <Scout59.description>যেহেতু তাঁর উপজাতি স্থানীয় বহিরাগতরা-র সাথে যোগাযোগ স্থাপন করেছিল, তাই [PAWN_nameDef] একজন গাইড হিসাবে তাঁর পরিষেবা প্রদান করা শুরু করেন। প্রাচীন প্রযুক্তির সাথে ঘন ঘন সংস্পর্শে আসার কারণে তিনি হারিয়ে যাওয়া মেশিনগুলির সাথে স্বচ্ছন্দ বোধ করেন।</Scout59.description>
+  <!-- EN: scout -->
+  <Scout59.title>স্কাউট</Scout59.title>
+  <Scout59.titleFemale>স্কাউট</Scout59.titleFemale>
+  <!-- EN: scout -->
+  <Scout59.titleShort>স্কাউট</Scout59.titleShort>
+  <Scout59.titleShortFemale>স্কাউট</Scout59.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] prepared meals from the plants and animals brought in by gatherers, farmers, and hunters of [PAWN_possessive] tribe. [PAWN_pronoun] had to make sure it was calorie-efficient, long-lasting, and healthy. [PAWN_pronoun] often processed and sometime gathered plants [PAWN_objective]self. -->
+  <StewKeeper95.description>[PAWN_nameDef] তাঁর উপজাতি দ্বারা সংগৃহীত, কৃষিকাজ করা এবং শিকার করা উদ্ভিদ ও প্রাণী থেকে খাবার প্রস্তুত করতেন। খাবারটি ক্যালোরি-সাশ্রয়ী, দীর্ঘস্থায়ী এবং স্বাস্থ্যকর কিনা, তা নিশ্চিত করতে হতো। প্রায়শই তিনি নিজে উদ্ভিদ প্রক্রিয়াকরণ করতেন এবং কখনো কখনো সংগ্রহও করতেন।</StewKeeper95.description>
+  <!-- EN: stew keeper -->
+  <StewKeeper95.title>স্ট্যু রক্ষক</StewKeeper95.title>
+  <StewKeeper95.titleFemale>স্ট্যু রক্ষক</StewKeeper95.titleFemale>
+  <!-- EN: stewkeeper -->
+  <StewKeeper95.titleShort>স্ট্যু-রক্ষক</StewKeeper95.titleShort>
+  <StewKeeper95.titleShortFemale>স্ট্যু-রক্ষক</StewKeeper95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s role in [PAWN_possessive] tribe was to connect with the natural world around - especially the world of animals. In addition to fulfilling a spiritual role, [PAWN_pronoun] also tamed wild beasts and cared for them as they served the tribe. -->
+  <Tamer79.description>[PAWN_nameDef]'র উপজাতিতে প্রকৃতির সাথে সংযোগ স্থাপন করাই ছিল প্রধান কাজ - বিশেষ করে প্রাণীদের জগৎ এর সাথে। আধ্যাত্মিক ভূমিকা পালনের পাশাপাশি, [PAWN_nameDef] বন্য পশুদের পোষ মানাতেন এবং উপজাতিদের সেবায় তাদের যত্ন নিতেন।</Tamer79.description>
+  <!-- EN: tamer -->
+  <Tamer79.title>পোষা প্রাণী প্রশিক্ষক</Tamer79.title>
+  <Tamer79.titleFemale>পোষা প্রাণী প্রশিক্ষক</Tamer79.titleFemale>
+  <!-- EN: tamer -->
+  <Tamer79.titleShort>পোষক</Tamer79.titleShort>
+  <Tamer79.titleShortFemale>পোষক</Tamer79.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals. -->
+  <TreehouseBuilder86.description>[PAWN_nameDef] তাঁর সম্প্রদায়ের মানুষেরা যখন ভ্রমণ বা খাদ্য সংগ্রহ করত, তখন তাদের ব্যবহারের জন্য গাছপালার মধ্যে, এমনকি গাছের ডালে ঝুলিয়েও ঘর তৈরি করতেন। [PAWN_nameDef] বন্য গাছপালা খুঁজে বের করে সেগুলোর ব্যবহার এবং বন্য পশুদের সাথে লড়াই করার কৌশলও শিখেছিলেন।</TreehouseBuilder86.description>
+  <!-- EN: treehouse builder -->
+  <TreehouseBuilder86.title>গাছঘর নির্মাতা</TreehouseBuilder86.title>
+  <TreehouseBuilder86.titleFemale>গাছঘর নির্মাতা</TreehouseBuilder86.titleFemale>
+  <!-- EN: treehouse builder -->
+  <TreehouseBuilder86.titleShort>বৃক্ষ-বাড়ি নির্মাতা</TreehouseBuilder86.titleShort>
+  <TreehouseBuilder86.titleShortFemale>বৃক্ষ-বাড়ি নির্মাতা</TreehouseBuilder86.titleShortFemale>
+  
+  <!-- EN: Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt. -->
+  <VengefulHunter32.description>একজন ঘনিষ্ঠ বন্ধুর পশু দ্বারা আক্রান্ত হয়ে মৃত্যুর পর, [PAWN_nameDef] সেই দায়ী পশুটির শিকার করেছিলেন। তিনি সেটিকে কাছাকাছি একটি গ্রামে ট্র্যাক করেন, শুধুমাত্র জানতে পারলেন গ্রামবাসীদের মধ্যে একজন তার চামড়া পরে আছে।</VengefulHunter32.description>
+  <!-- EN: vengeful hunter -->
+  <VengefulHunter32.title>প্রতিশোধপরায়ণ শিকারী</VengefulHunter32.title>
+  <VengefulHunter32.titleFemale>প্রতিশোধপরায়ণ শিকারী</VengefulHunter32.titleFemale>
+  <!-- EN: vengeful -->
+  <VengefulHunter32.titleShort>প্রতিশোধপরায়ণ</VengefulHunter32.titleShort>
+  <VengefulHunter32.titleShortFemale>প্রতিশোধপরায়ণ</VengefulHunter32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a fearsome warrior, proficient with many weapons. [PAWN_pronoun] participated in many battles. -->
+  <Warrior94.description>[PAWN_nameDef] ছিলেন একজন ভয়ংকর যোদ্ধা, যিনি অনেক অস্ত্র চালনায় পারদর্শী ছিলেন। তিনি বহু যুদ্ধে অংশ নিয়েছিলেন।</Warrior94.description>
+  <!-- EN: warrior -->
+  <Warrior94.title>যোদ্ধা</Warrior94.title>
+  <Warrior94.titleFemale>যোদ্ধা</Warrior94.titleFemale>
+  <!-- EN: warrior -->
+  <Warrior94.titleShort>যোদ্ধা</Warrior94.titleShort>
+  <Warrior94.titleShortFemale>যোদ্ধা</Warrior94.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an expert at working wool, plant fibers and natural dyes into beautiful clothing for [PAWN_possessive] kin. [PAWN_possessive] handicrafts were traded frequently with other settlements. -->
+  <Weaver63.description>[PAWN_nameDef] পশম, উদ্ভিজ্জ তন্তু এবং প্রাকৃতিক রঞ্জক ব্যবহার করে আত্মীয়দের জন্য সুন্দর পোশাক তৈরি করতে দক্ষ ছিলেন। তাঁর হস্তশিল্প প্রায়শই অন্যান্য বসতির সাথে বিনিময় করা হত।</Weaver63.description>
+  <!-- EN: weaver -->
+  <Weaver63.title>বুননকারী</Weaver63.title>
+  <!-- EN: weaver -->
+  <Weaver63.titleShort>তন্তু-শিল্পী</Weaver63.titleShort>
+  
+</LanguageData>

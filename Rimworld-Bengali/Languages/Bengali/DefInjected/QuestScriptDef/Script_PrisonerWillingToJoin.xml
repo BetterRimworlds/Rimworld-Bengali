@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A prisoner being held by [siteFaction_name] has managed to steal a radio and call you!\n\n[prisoner_nameDef] is being held at a camp near [map_definite][underArmedGuard]. Rescue [prisoner_objective], and [prisoner_pronoun] will join your colony. [prisoner_pronoun] is a [prisoner_age]-year-old [prisoner_title]. [prisoner_pronoun] says that [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nIf you miss this opportunity, you may never hear from [prisoner_nameDef] again.</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)-> under armed guard</li>
+    <li>underArmedGuard-></li>
+  -->
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+    <li>questDescription(prisoner_gender!=Female)->একটি বন্দী {[siteFaction_name]} দলবদ্ধতা দ্বারা বন্দী ছিল [siteFaction_name] একটি রেডিও চুরি করতে এবং তোমাকে কল করতে পেরেছে!\n\n[prisoner_nameDef] {[map_definite]} এর কাছে একটি শিবিরে বন্দী আছে [map_definite][underArmedGuard]তাকে উদ্ধার করো এবং সে তোমার কলোনিতে যোগ দেবে। [prisoner_pronoun] {[prisoner_titleIndef]} [prisoner_titleIndef] {[prisoner_age]} [prisoner_age] বছর বয়সী। সে বলে যে {[allSitePartsDescriptionsExceptFirst]} {[formerColonistInfo]} {[prisonerFullRelationInfo]} [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nযদি তুমি এই সুযোগটি হারায়, তবে সম্ভবত তুমি আর কখনো {[prisoner_nameDef]} এর খবর পাবে না। [prisoner_nameDef]।</li>
+    <li>questDescription(prisoner_gender==Female)->একটি বন্দিনী {[siteFaction_name]} দল কর্তৃক আটকা পড়েছে [siteFaction_name] একটি রেডিও চুরি করে তোমাকে ফোন করেছে!\n\n[prisoner_nameDef] সে {[map_definite]} এর কাছে একটি শিবিরে আটক [map_definite][underArmedGuard]। তাকে উদ্ধার করো এবং সে তোমার কলোনিতে যোগ দেবে। [prisoner_pronoun] বছর [prisoner_titleIndef] এর [prisoner_age] বয়স। সে বলে যে [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nযদি তুমি এই সুযোগটি হাতছাড়া করো, তাহলে সম্ভবত আর কখনো {[prisoner_nameDef]} এর খবর পাবে না [prisoner_nameDef]।</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)->সশস্ত্র রক্ষীদের তত্ত্বাবধানে</li>
+    <li>underArmedGuard-></li>
+  </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[prisoner_nameDef]'s Salvation</li>
+    <li>questName->[prisoner_nameDef]'s Rescue</li>
+    <li>questName->[prisoner_nameDef]'s Breakout</li>
+    <li>questName->Rescuing [prisoner_nameDef]</li>
+    <li>questName->Saving [prisoner_nameDef]</li>
+    <li>questName->Breaking [prisoner_nameDef] Out</li>
+  -->
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+    <li>questName->[prisoner_nameDef]-এর মুক্তি [prisoner_nameDef]</li>
+    <li>questName->[prisoner_nameDef]-কে উদ্ধার করা [prisoner_nameDef]</li>
+    <li>questName->[prisoner_nameDef]-এর পলায়ন [prisoner_nameDef]</li>
+    <li>questName->[prisoner_nameDef]-কে উদ্ধার করা হচ্ছে [prisoner_nameDef]</li>
+    <li>questName->[prisoner_nameDef]-কে বাঁচানো হচ্ছে [prisoner_nameDef]</li>
+    <li>questName->[বন্দীর_নামDef]-এর পলায়ন [prisoner_nameDef]</li>
+  </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+  
+</LanguageData>

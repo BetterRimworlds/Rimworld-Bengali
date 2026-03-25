@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>image->a solitary [Character] [desc_pawn]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [Community]</li>
+    <li>image->a [Character] [desc_pawn] surrounded by [Character]s</li>
+    <li>image->[Character]s playing [Game]</li>
+    <li>image->a [Character] [desc_pawn] playing [Game] with [Quantity_adjphrase] [Character]s</li>
+    <li>image->a [Character] [desc_pawn] holding a [Weapon]</li>
+    <li>image->a [Character] [desc_pawn] eating a [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob]s and [PersonJob]s eating [Vegetable]s together</li>
+    <li>image->the minor celebrity [NamePerson] [desc_pawn]</li>
+    <li>image->a [Character] wearing a [Apparel] [desc_pawn]</li>
+    <li>image->a [Community]</li>
+    <li>image->a [TerrainFeature]</li>
+    <li>image->a [Weapon]</li>
+    <li>image->a [TreeType] tree</li>
+    <li>image->a [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]s</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>image->an empty [Apparel]</li>
+    <li>image->a [Shape]</li>
+    <li>image->a [Shape] surrounded by [Shape]s</li>
+    <li>image->an abstracted rendering of [ConceptAny]</li>
+    <li>image->a [AdjectiveAny] abstract shape</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->flying through the air</li>
+    <li>desc_pawn->suspended in the air</li>
+    <li>desc_pawn->moving to the left</li>
+    <li>desc_pawn->moving to the right</li>
+    <li>desc_pawn->sitting on a table</li>
+    <li>desc_pawn->seen through a looking glass</li>
+    <li>desc_pawn->rendered in silhouette</li>
+    <li>desc_pawn->riding on a [Animal] wearing a [Apparel]</li>
+    <li>desc_pawn->looking [AdjectiveAny]</li>
+    <li>desc_pawn->covered in [Gore]</li>
+  -->
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image->একটি [Character] [desc_pawn]</li>
+    <li>image->একজন [Character_Fem] [desc_pawn_Fem]</li>
+    <li>image->একটি [Character_Human] নিঃসঙ্গ [desc_pawn] কাছাকাছি [TerrainFeatureIndef]</li>
+    <li>image->একটি [Character] [desc_pawn] নিকটে [CommunityIndef]</li>
+    <li>image->একটি [Character] [desc_pawn] ঘিরে আছে [CharacterEnemyPlural]</li>
+    <li>image->একটি [Character_Human] খেলছে [GameAny]</li>
+    <li>image->এক [Character_Human] [desc_pawn] এবং খেলছে [GameAny] সাথে [Quantity_adjphrase] [Character_Human]গুলো</li>
+    <li>image->একটি [Character] [desc_pawn] ধরে আছে [WeaponCacIndef]</li>
+    <li>image->একটি [Character] [desc_pawn] খাচ্ছে [VegetableAny]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob_Plural] খাচ্ছে [VegetableAny]একসাথে</li>
+    <li>image->একজন অল্প পরিচিত সেলিব্রিটি [NamePerson] [desc_pawn]।</li>
+    <li>image->একটি [Character_Human] পরিধান করা [ApparelIndef] এবং [desc_pawn]</li>
+    <li>image->[CommunityIndef]</li>
+    <li>image->[TerrainFeatureIndef]</li>
+    <li>image->[WeaponIndef]</li>
+    <li>image->একটি [TreeTypeAny] গাছ [TreeTypeAny]</li>
+    <li>image->[NaturalObjectDef]</li>
+    <li>image->[Quantity_adjphrase] [WeaponPlAny]</li>
+    <li>image->[Quantity_adjphrase] [VegetableAny][পরিমাণ_বিশেষণ] [সবজি_যেকোনো]</li>
+    <li>image->[ApparelIndef]</li>
+    <li>image->[ShapeDef]</li>
+    <li>image->[ShapeDef] কাছাকাছি [TerrainFeatureIndef]</li>
+    <li>image(p=0.5)->একটি বিমূর্ত ব্যাখ্যা [ConceptAnyDef]</li>
+    <li>image->একটি বিমূর্ত সিলুয়েট যা প্রতিফলিত করে [AdjectiveAnyIndef]</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->বাতাসে উড়ছে</li>
+    <li>desc_pawn->বাতাসে ভাসছে</li>
+    <li>desc_pawn->একটি টেবিলে</li>
+    <li>desc_pawn->বাম দিকে সরে যাচ্ছে</li>
+    <li>desc_pawn->ডানদিকে সরছে</li>
+    <li>desc_pawn->আয়নার মাধ্যমে দেখা</li>
+    <li>desc_pawn->সিলুয়েটে চিত্রিত</li>
+    <li>desc_pawn->একটি [প্রাণী]-র উপরে চড়ে [Animal]</li>
+    <li>desc_pawn->একটি [Animal_Fem]-এর উপরে চড়ে [Animal_Fem]</li>
+    <li>desc_pawn->প্রতিফলিত হয়ে [বিশেষণ] এ [AdjectiveAnyIndef]</li>
+    <li>desc_pawn->রক্তে ঢাকা [Gore_Plural]</li>
+    <li>desc_pawn_Fem(p=12)-></li>
+    <li>desc_pawn_Fem->বাতাসে উড়ে বেড়াচ্ছে</li>
+    <li>desc_pawn_Fem->বাতাসে ভাসছে</li>
+    <li>desc_pawn_Fem->একটি টেবিলে</li>
+    <li>desc_pawn_Fem->বাম দিকে সরছে</li>
+    <li>desc_pawn_Fem->ডানদিকে সরছে</li>
+    <li>desc_pawn_Fem->আয়নার মাধ্যমে দেখা দৃশ্য</li>
+    <li>desc_pawn_Fem->একটি সিলুয়েটে উপস্থাপিত</li>
+    <li>desc_pawn_Fem->একটি [প্রাণী]-এর উপরে [Animal]</li>
+    <li>desc_pawn_Fem->একটি [Animal_Fem]-এর উপরে [Animal_Fem]</li>
+    <li>desc_pawn_Fem->প্রতিফলিত হয়ে [বিশেষণ] এ [AdjectiveAnyIndef]</li>
+    <li>desc_pawn_Fem->রক্তে ঢাকা [Gore_Plural]</li>
+  </TalelessImages.rulePack.rulesStrings>
+  
+</LanguageData>

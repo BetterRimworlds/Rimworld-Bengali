@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient cryptosleep pod -->
+  <AncientCryptosleepPod.label>প্রাচীন ক্রিপ্টোস্লিপ পড</AncientCryptosleepPod.label>
+  <!-- EN: A single-use pod for preserving one person in a state of suspended animation. Unlike cryptosleep caskets, cryptosleep pods can only be used once. -->
+  <AncientCryptosleepPod.description>একটি একক ব্যবহারের পড যা একজন ব্যক্তিকে অ্যানিমেশন স্থিতিশীল অবস্থায় সংরক্ষণ করে। ক্রিপ্টোস্লিপ কফিনগুলির বিপরীতে, ক্রিপ্টোস্লিপ পড শুধুমাত্র একবার ব্যবহার করা যেতে পারে।</AncientCryptosleepPod.description>
+  
+  <!-- EN: ancient unstable fuel node -->
+  <AncientFuelNode.label>প্রাচীন অস্থির জ্বালানি উৎস</AncientFuelNode.label>
+  <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
+  <AncientFuelNode.description>প্রাচীন, অস্থির জ্বালানি নোড যা একসময় মেশিনগুলোতে জ্বালানি সরবরাহ করতে ব্যবহৃত হতো। রক্ষণাবেক্ষণের অভাবে এটি বছরজুড়ে অস্থির হয়ে গেছে।</AncientFuelNode.description>
+  
+  <!-- EN: hermetic crate -->
+  <AncientHermeticCrate.label>হারমেটিক ক্রেট</AncientHermeticCrate.label>
+  <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
+  <AncientHermeticCrate.description>মূল্যবান জিনিস সংরক্ষণের জন্য স্ব-চালিত, বায়ুরোধী বাক্স। এই বাক্সগুলি দীর্ঘ সময়ের জন্য তাদের ভেতরের জিনিসপত্র সংরক্ষণ করতে পারে।</AncientHermeticCrate.description>
+  
+</LanguageData>

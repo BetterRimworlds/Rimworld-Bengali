@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Tool -->
+  <Tool>সরঞ্জাম</Tool>
+  <!-- EN: damage -->
+  <DamageLower>ক্ষতি</DamageLower>
+  <!-- EN: seconds per attack -->
+  <SecondsPerAttackLower>আক্রমণ প্রতি সেকেন্ড</SecondsPerAttackLower>
+
+  <!-- EN: Base value -->
+  <StatsReport_BaseValue>ভিত্তি মূল্য</StatsReport_BaseValue>
+  <!-- EN: Relevant traits -->
+  <StatsReport_RelevantTraits>গুরুত্বপূর্ণ বৈশিষ্ট্য</StatsReport_RelevantTraits>
+  <!-- EN: Relevant gear -->
+  <StatsReport_RelevantGear>প্রাসঙ্গিক সরঞ্জাম</StatsReport_RelevantGear>
+  <!-- EN: Relevant health conditions -->
+  <StatsReport_RelevantHediffs>গুরুতর স্বাস্থ্য অবস্থা</StatsReport_RelevantHediffs>
+  <!-- EN: Life stage -->
+  <StatsReport_LifeStage>জীবন পর্যায়</StatsReport_LifeStage>
+  <!-- EN: Shambler crawling -->
+  <StatsReport_ShamblerCrawling>শাম্বলার হামাগুড়ি</StatsReport_ShamblerCrawling>
+  <!-- EN: Material -->
+  <StatsReport_Material>উপাদান</StatsReport_Material>
+  <!-- EN: Character quality -->
+  <StatsReport_CharacterQuality>চরিত্রের গুণমান</StatsReport_CharacterQuality>
+  <!-- EN: Skills -->
+  <StatsReport_Skills>দক্ষতা</StatsReport_Skills>
+  <!-- EN: Post-process - other stats -->
+  <StatsReport_OtherStats>পোস্ট-প্রসেস - অন্যান্য পরিসংখ্যান।</StatsReport_OtherStats>
+  <!-- EN: Health -->
+  <StatsReport_Health>স্বাস্থ্য</StatsReport_Health>
+  <!-- EN: {0} importance -->
+  <HealthFactorPercentImpact>{0} গুরুত্ব</HealthFactorPercentImpact>
+  <!-- EN: {0} impact -->
+  <HealthOffsetScale>{0} প্রভাব</HealthOffsetScale>
+  <!-- EN: {0} max -->
+  <HealthFactorMaxImpact>{0} সর্বোচ্চ</HealthFactorMaxImpact>
+  <!-- EN: if below {0} -->
+  <HealthFactorAllowedDefect>যদি {0} এর নিচে</HealthFactorAllowedDefect>
+  <!-- EN: Post-process curve -->
+  <StatsReport_PostProcessed>পোস্ট-প্রসেস কার্ভ</StatsReport_PostProcessed>
+  <!-- EN: The chances to hit at increasing distances are -->
+  <StatsReport_ShootingExampleDistances>দূরত্ব বৃদ্ধির সাথে সাথে আঘাত করার সম্ভাবনাগুলো হলো</StatsReport_ShootingExampleDistances>
+  <!-- EN: Final value -->
+  <StatsReport_FinalValue>চূড়ান্ত মান</StatsReport_FinalValue>
+  <!-- EN: Max value -->
+  <StatsReport_MaxValue>সর্বোচ্চ মান</StatsReport_MaxValue>
+  <!-- EN: Multiplier for {0} -->
+  <StatsReport_MultiplierFor>{0} এর গুণক</StatsReport_MultiplierFor>
+  <!-- EN: Materials and labor -->
+  <StatsReport_MarketValueFromStuffsAndWork>উপকরণ ও শ্রম</StatsReport_MarketValueFromStuffsAndWork>
+  <!-- EN: Quality multiplier -->
+  <StatsReport_QualityMultiplier>গুণমান গুণক</StatsReport_QualityMultiplier>
+  <!-- EN: Quality offset -->
+  <StatsReport_QualityOffset>গুণমান অফসেট</StatsReport_QualityOffset>
+  <!-- EN: Max gain -->
+  <StatsReport_MaxGain>সর্বোচ্চ লাভ</StatsReport_MaxGain>
+  <!-- EN: Multiplier for age {0} -->
+  <StatsReport_AgeMultiplier>{0} এর জন্য গুণক</StatsReport_AgeMultiplier>
+  <!-- EN: Offset for age {0} -->
+  <StatsReport_AgeOffset>বয়সের অফসেট {0}</StatsReport_AgeOffset>
+  <!-- EN: Multiplier for health {0} -->
+  <StatsReport_HealthMultiplier>{0} এর জন্য গুণক</StatsReport_HealthMultiplier>
+  <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
+  <StatsReport_ReloadMarketValue>রিলোড করার খরচ ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
+  <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
+  <StatsReport_ReloadRemainingChargesMultipler>অবশিষ্ট {CHARGENOUN_plural} ({0}) এর গুণক</StatsReport_ReloadRemainingChargesMultipler>
+  <!-- EN: Multiplier for mood {0} -->
+  <StatsReport_MoodMultiplier>{0} মেজাজের গুণক</StatsReport_MoodMultiplier>
+  <!-- EN: Multiplier for light {0} -->
+  <StatsReport_LightMultiplier>আলোর গুণক {0}</StatsReport_LightMultiplier>
+  <!-- EN: Multiplier for difficulty {0} -->
+  <StatsReport_DifficultyMultiplier>{0} এর জন্য গুণক</StatsReport_DifficultyMultiplier>
+  <!-- EN: In bed -->
+  <StatsReport_InBed>বিছানায়</StatsReport_InBed>
+  <!-- EN: Facilities -->
+  <StatsReport_Facilities>সুবিধাগুলি</StatsReport_Facilities>
+  <!-- EN: Multiplier for body size {0} -->
+  <StatsReport_BodySize>শরীরের আকারের গুণক {0}</StatsReport_BodySize>
+  <!-- EN: Damaged -->
+  <StatsReport_HasHediffExplanation>ক্ষতিগ্রস্ত</StatsReport_HasHediffExplanation>
+  <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
+  <StatsReport_MeleeDPSExplanation>DPS = নিকট যুদ্ধ ক্ষতি * নিকট যুদ্ধ আঘাতের সুযোগ / সেকেন্ডে কুলডাউন</StatsReport_MeleeDPSExplanation>
+  <!-- EN: Melee damage -->
+  <StatsReport_MeleeDamage>নিকট যুদ্ধের ক্ষতি</StatsReport_MeleeDamage>
+  <!-- EN: Cooldown -->
+  <StatsReport_Cooldown>কুলডাউন</StatsReport_Cooldown>
+  <!-- EN: Melee hit chance -->
+  <StatsReport_MeleeHitChance>নিকট যুদ্ধ আঘাতের সম্ভাবনা</StatsReport_MeleeHitChance>
+  <!-- EN: {0} s -->
+  <StatsReport_CooldownFormat>{0} এর</StatsReport_CooldownFormat>
+  <!-- EN: Blocked by fences -->
+  <StatsReport_BlockedByFences>বেড়া দ্বারা অবরুদ্ধ</StatsReport_BlockedByFences>
+  <!-- EN: Roam interval -->
+  <StatsReport_RoamInterval>বিচরণ ব্যবধান</StatsReport_RoamInterval>
+  <!-- EN: Caravan rideable age -->
+  <StatsReport_CaravanRideableAge>আরোহী হওয়ার বয়স</StatsReport_CaravanRideableAge>
+  <!-- EN: Life expectancy -->
+  <StatsReport_LifeExpectancy>জীবন প্রত্যাশা</StatsReport_LifeExpectancy>
+  <!-- EN: Multiplier for missing body parts -->
+  <StatsReport_MissingBodyParts>হারানো শরীরের অংশের গুণক</StatsReport_MissingBodyParts>
+  <!-- EN: Gear and inventory -->
+  <StatsReport_GearAndInventoryMass>সরঞ্জাম ও তালিকা</StatsReport_GearAndInventoryMass>
+  <!-- EN: Multiplier for worn by corpse -->
+  <StatsReport_WornByCorpse>মৃতদেহে পরিধানের গুণক</StatsReport_WornByCorpse>
+  <!-- EN: average of all attacks -->
+  <AverageOfAllAttacks>সমস্ত আক্রমণের গড়</AverageOfAllAttacks>
+  <!-- EN: Scenario -->
+  <StatsReport_ScenarioFactor>পরিকল্পনা</StatsReport_ScenarioFactor>
+  <!-- EN: Ingredients -->
+  <StatsReport_IngredientsMass>উপকরণ</StatsReport_IngredientsMass>
+  <!-- EN: Permanently disabled. -->
+  <StatsReport_PermanentlyDisabled>স্থায়ীভাবে নিষ্ক্রিয়।</StatsReport_PermanentlyDisabled>
+  <!-- EN: {0} -->
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <!-- EN: Added body parts -->
+  <StatsReport_AddedBodyPartsMass>অতিরিক্ত শরীরের অংশ</StatsReport_AddedBodyPartsMass>
+  <!-- EN: Material effect multiplier -->
+  <StatsReport_StuffEffectMultiplier>উপাদান প্রভাব গুণক</StatsReport_StuffEffectMultiplier>
+  <!-- EN: Resting -->
+  <StatsReport_Resting>বিশ্রামরত</StatsReport_Resting>
+  <!-- EN: recreation type -->
+  <StatsReport_JoyKind>বিনোদন ধরণ</StatsReport_JoyKind>
+  <!-- EN: work to uninstall -->
+  <StatsReport_WorkToUninstall>আনইনস্টল করার কাজ</StatsReport_WorkToUninstall>
+  <!-- EN: Fence -->
+  <StatsReport_Fence>বেড়া</StatsReport_Fence>
+  <!-- EN: Multiplier for growth {0} -->
+  <StatsReport_PlantGrowth>{0} বৃদ্ধির গুণক</StatsReport_PlantGrowth>
+  <!-- EN: scaled because wild -->
+  <StatsReport_PlantGrowth_Wild>বন্য হওয়ার কারণে স্কেল করা হয়েছে।</StatsReport_PlantGrowth_Wild>
+  <!-- EN: Not flesh -->
+  <StatsReport_NotFlesh>মাংস নয়</StatsReport_NotFlesh>
+  <!-- EN: Not fresh -->
+  <StatsReport_NotFresh>তাজা নয়</StatsReport_NotFresh>
+  <!-- EN: Wild man -->
+  <StatsReport_WildMan>বন্য মানুষ</StatsReport_WildMan>
+  <!-- EN: Attack -->
+  <StatsReport_NonToolAttack>আক্রমণ</StatsReport_NonToolAttack>
+  <!-- EN: Ideoligion -->
+  <StatsReport_Ideoligion>আইডিওলিজিওন</StatsReport_Ideoligion>
+  <!-- EN: Multiplier for malnutrition {0} -->
+  <StatsReport_Malnutrition>অপুষ্টির গুণক {0}</StatsReport_Malnutrition>
+  <!-- EN: Optimal room -->
+  <StatsReport_OptimalRoom>সর্বোত্তম কক্ষ</StatsReport_OptimalRoom>
+
+  <!-- EN: Possible offsets -->
+  <StatReport_PossibleOffsets>সম্ভাব্য অফসেট</StatReport_PossibleOffsets>
+  <!-- EN: Room impressiveness -->
+  <StatsReport_RoomImpressiveness>রুমের আভিজাত্য</StatsReport_RoomImpressiveness>
+  <!-- EN: Lit -->
+  <StatsReport_Lit>জ্বলছে</StatsReport_Lit>
+  <!-- EN: Contains {0} -->
+  <StatsReport_GraveFull>{0} রয়েছে</StatsReport_GraveFull>
+  <!-- EN: Contains a human corpse -->
+  <StatsReport_GraveFullAbstract>মানব মৃতদেহ রয়েছে।</StatsReport_GraveFullAbstract>
+  <!-- EN: Meditator is related to the corpse inside -->
+  <StatsReport_GraveCorpseRelatedAbstract>ধ্যানকারী ভেতরের মৃতদেহের সাথে সম্পর্কিত।</StatsReport_GraveCorpseRelatedAbstract>
+  <!-- EN: From quality -->
+  <StatsReport_FromQuality>গুণমান থেকে</StatsReport_FromQuality>
+  <!-- EN: Nearby artificial structures -->
+  <StatsReport_NearbyArtificialStructures>কাছাকাছি কৃত্রিম কাঠামো</StatsReport_NearbyArtificialStructures>
+  <!-- EN: Satisfies user's title requirements -->
+  <StatsReport_SatisfiesTitle>ব্যবহারকারীর উপাধির প্রয়োজনীয়তা পূরণ করে</StatsReport_SatisfiesTitle>
+
+  <!-- EN: Age -->
+  <Stat_Age_Label>বয়স</Stat_Age_Label>
+  <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
+  <Stat_RecreationType_Desc>বিভিন্ন ধরনের বিনোদন বিভিন্ন বিনোদনমূলক চাহিদা পূরণ করে। কলোনিস্টরা একই ধরনের বিনোদন বার বার করলে বিরক্ত হয়ে পড়ে, তাই বিভিন্ন ধরনের বিনোদনমূলক উৎস সরবরাহ করা গুরুত্বপূর্ণ, যেগুলিতে বিভিন্ন বিনোদনমূলক চাহিদা পূরণ করার ক্ষমতা রয়েছে।</Stat_RecreationType_Desc>
+  <!-- EN: All recreation types -->
+  <Stat_JoyKind_AllTypes>সব বিনোদন প্রকার</Stat_JoyKind_AllTypes>
+  <!-- EN: Mined item -->
+  <Stat_MineableThing_Name>খননকৃত বস্তু</Stat_MineableThing_Name>
+  <!-- EN: The item that will be yielded when mining this. -->
+  <Stat_MineableThing_Desc>এটি খনন করার পর যে জিনিসটি পাওয়া যাবে।</Stat_MineableThing_Desc>
+  <!-- EN: Mining yield -->
+  <Stat_MiningYield_Name>খনন ফলন</Stat_MiningYield_Name>
+  <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
+  <Stat_MiningYield_Desc>এটি খনন করার সময় সর্বাধিক সংখ্যক আইটেম পাওয়া যাবে। খনিশ্রমিকের খনন দক্ষতা দ্বারা প্রকৃত ফলন সামঞ্জস্য করা হবে।</Stat_MiningYield_Desc>
+  <!-- EN: Source species -->
+  <Stat_SourceSpecies_Name>উৎস প্রজাতি</Stat_SourceSpecies_Name>
+  <!-- EN: The species of creature from which this was taken. -->
+  <Stat_SourceSpecies_Desc>এই প্রাণীটির প্রজাতি, যা থেকে এটি নেওয়া হয়েছে।</Stat_SourceSpecies_Desc>
+  <!-- EN: Stuff -->
+  <Stat_Stuff_Name>বস্তু</Stat_Stuff_Name>
+  <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
+  <Stat_Stuff_Desc>এটি কী দিয়ে তৈরি। এটি অনেক অন্যান্য পরিসংখ্যানকে প্রভাবিত করে, যার মধ্যে অস্ত্রের ক্ষতি, পোশাকের বর্ম এবং নিরোধক, আইটেম এবং বিল্ডিংয়ের হিট পয়েন্ট, সৌন্দর্য, বাজার মূল্য এবং আরও অনেক কিছু অন্তর্ভুক্ত।</Stat_Stuff_Desc>
+  <!-- EN: Weapon -->
+  <Stat_Weapon_Name>অস্ত্র</Stat_Weapon_Name>
+  <!-- EN: The weapon used by this turret. -->
+  <Stat_Weapon_Desc>এইটারেট দ্বারা ব্যবহৃত অস্ত্র।</Stat_Weapon_Desc>
+  <!-- EN: How much damage an object can take before being destroyed. -->
+  <Stat_HitPoints_Desc>একটি বস্তু ধ্বংস হওয়ার আগে কতটা ক্ষতি সহ্য করতে পারে।</Stat_HitPoints_Desc>
+  <!-- EN: The amount of work it takes to uninstall this. -->
+  <Stat_Thing_WorkToUninstall_Desc>এটি আনইনস্টল করতে যে পরিমাণ কাজ লাগে।</Stat_Thing_WorkToUninstall_Desc>
+  <!-- EN: Whether this building is a type of fence. Fences block these animals -->
+  <Stat_Thing_Fence_Desc>এই কাঠামোটি বেড়া কিনা। বেড়া এই পশুদের আটকাতে পারে।</Stat_Thing_Fence_Desc>
+  <!-- EN: Which facilities can be used to produce this. -->
+  <Stat_Thing_CreatedAt_Desc>এটি তৈরি করতে কোন সুবিধাগুলি ব্যবহার করা যেতে পারে।</Stat_Thing_CreatedAt_Desc>
+  <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
+  <Stat_Thing_Damage_Desc>এই অস্ত্রটি যে পরিমাণ ক্ষতি করে।\n\nলক্ষ্যবস্তুর বর্ম দ্বারা এটি প্রতিহত বা হ্রাস করা হতে পারে।</Stat_Thing_Damage_Desc>
+  <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>রোগীকে সেবা করার সময় ডাক্তাররা যে অভিজ্ঞতা অর্জন করে, তার পরিমাণের উপর একটি গুণক।</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <!-- EN: The attributes of this plant. -->
+  <Stat_Thing_Plant_Attributes_Desc>এই উদ্ভিদের বৈশিষ্ট্যসমূহ।</Stat_Thing_Plant_Attributes_Desc>
+  <!-- EN: Clothing (for nudity) -->
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>পোশাক (নগ্নতার জন্য)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>এই জিনিসটিকে পোশাক হিসেবে নগ্নতাবাদীরা গণ্য করবে কিনা। যদি না করে, তবে এই জিনিস পরার ব্যাপারে তারা কখনোই বিচলিত হবে না।</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+  <!-- EN: Gender -->
+  <Stat_Thing_Apparel_Gender>লিঙ্গ</Stat_Thing_Apparel_Gender>
+  <!-- EN: Certain apparel is generally preferred by one gender. Anyone else may be unhappy wearing it. -->
+  <Stat_Thing_Apparel_Gender_Desc>কিছু পোশাক সাধারণত একটি নির্দিষ্ট লিঙ্গের মানুষেরা পছন্দ করে। অন্য কেউ এটি পরলে অসন্তুষ্ট হতে পারে।</Stat_Thing_Apparel_Gender_Desc>
+  <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
+  <Stat_Thing_Apparel_Covers_Desc>কোন শরীরের অংশগুলি এটি আড়াল করে।\n\nবর্ম সেই শরীরের অংশগুলিকে রক্ষা করে না যেগুলি এটি আড়াল করে না।</Stat_Thing_Apparel_Covers_Desc>
+  <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
+  <Stat_Thing_Apparel_Layer_Desc>কোন পোশাকের স্তর এটি পূরণ করে।\n\nএকটি নির্দিষ্ট শরীরের অংশের জন্য, প্রতিটি স্তরে শুধুমাত্র একটি পোশাক পরা যেতে পারে।</Stat_Thing_Apparel_Layer_Desc>
+  <!-- EN: The minimum soil fertility that this plant requires to grow. -->
+  <Stat_Thing_Plant_FertilityRequirement_Desc>এই উদ্ভিদটি জন্মানোর জন্য প্রয়োজনীয় সর্বনিম্ন মাটির উর্বরতা।</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>এই উদ্ভিদটি মাটির উর্বরতার প্রতি কতটা সংবেদনশীল।\n\nকম সংবেদনশীলতার অর্থ হল উদ্ভিদটি সমৃদ্ধ বা দরিদ্র মাটিতে প্রায় একই গতিতে বাড়বে। উচ্চ সংবেদনশীলতার অর্থ হল উদ্ভিদটি দরিদ্র মাটিতে ধীরে বাড়ে, তবে সমৃদ্ধ মাটিতে দ্রুত বাড়ে।</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <!-- EN: The amount of light this plant requires to grow. -->
+  <Stat_Thing_Plant_LightRequirement_Desc>এই উদ্ভিদটি বড় হওয়ার জন্য যে পরিমাণ আলো প্রয়োজন।</Stat_Thing_Plant_LightRequirement_Desc>
+  <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
+  <Stat_Thing_Plant_LifeSpan_Desc>উদ্ভিদের জীবনকাল।\n\nউদ্ভিদ একটি নির্দিষ্ট বয়সসীমা পার হওয়ার পরে প্রাকৃতিকভাবে মারা যায়, এমনকি যদি সেগুলোকে সংগ্রহ করা না হয়।</Stat_Thing_Plant_LifeSpan_Desc>
+  <!-- EN: The amount of product this plant will yield when harvested. -->
+  <Stat_Thing_Plant_HarvestYield_Desc>এই গাছটি কাটলে যে পরিমাণ পণ্য পাওয়া যাবে।</Stat_Thing_Plant_HarvestYield_Desc>
+  <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>এই উদ্ভিদটি যে সর্বনিম্ন তাপমাত্রায় বাঁচতে পারে।\n\nএই তাপমাত্রার নিচে থাকলে সময়ের সাথে সাথে ক্ষতি হবে।</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>এই উদ্ভিদ যে সর্বোচ্চ তাপমাত্রায় বাঁচতে পারে।\n\nএই তাপমাত্রার উপরে থাকলে সময়ের সাথে সাথে ক্ষতি হবে।</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <!-- EN: The minimum skill needed for a farmer to sow this plant. -->
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>এই উদ্ভিদ বপন করার জন্য একজন কৃষকের প্রয়োজনীয় সর্বনিম্ন দক্ষতা।</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
+  <Stat_Race_Diet_Desc>এই প্রাণীটি কী ধরনের খাবার খেতে সক্ষম, তা এখানে উল্লেখ করা হলো।\n\nখাতে পারে: {0}</Stat_Race_Diet_Desc>
+  <!-- EN: The type of leather this creature will yield when butchered. -->
+  <Stat_Race_LeatherType_Desc>এই প্রাণীটিকে জবাই করলে কী ধরনের চামড়া পাওয়া যাবে।</Stat_Race_LeatherType_Desc>
+  <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>এই প্রাণীটি পোষ মানানোর চেষ্টা ব্যর্থ হলে আক্রমণ করার সম্ভাবনা।</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
+  <Stat_Race_Trainability_Desc>এই প্রাণীটির প্রশিক্ষণের জন্য সাধারণ মানসিক যোগ্যতা। এটি বুদ্ধিমত্তা এবং মনোযোগের একটি সমন্বয়। এটি নির্ধারণ করে এই প্রাণীটিকে কী ধরনের কাজ শেখানো যেতে পারে।</Stat_Race_Trainability_Desc>
+  <!-- EN: The average life expectancy of this creature. -->
+  <Stat_Race_LifeExpectancy_Desc>এই প্রাণীটির গড় আয়ুষ্কাল।</Stat_Race_LifeExpectancy_Desc>
+  <!-- EN: Whether this creature is blocked by fences and barricades. -->
+  <Stat_Race_BlockedByFences_Desc>এই প্রাণীটি বেড়া এবং ব্যারিকেড দ্বারা আটকা পড়েছে কিনা।</Stat_Race_BlockedByFences_Desc>
+  <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
+  <Stat_Race_RoamInterval_Desc>পোষা প্রাণী কত ঘন ঘন ঘুরে বেড়ানোর চেষ্টা করবে এবং ম্যাপ থেকে বেরিয়ে যাবে।\n\nপ্রাণীরা কেবল তখনই ঘুরে বেড়াবে যদি তাদের ম্যাপের প্রান্ত পর্যন্ত সরাসরি পথ থাকে। এটি প্রতিরোধ করতে বেড়া, ব্যারিকেড, দেয়াল এবং দরজা ব্যবহার করা যেতে পারে।\n\nপ্রাণী পালক ঘুরে বেড়ানো প্রাণীদের দড়ি দিয়ে বেঁধে তাদের খোঁয়াড়ে ফিরিয়ে আনতে পারে।</Stat_Race_RoamInterval_Desc>
+  <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
+  <Stat_Thing_Ingestible_Joy_Desc>এটি সেবন করে বিনোদনের মাত্রা। সংখ্যা যত বেশি, বিনোদন প্রয়োজন তত বেশি পূরণ হবে।</Stat_Thing_Ingestible_Joy_Desc>
+  <!-- EN: The weight of this creature and their equipment. -->
+  <Stat_Mass_Desc>এই প্রাণী এবং তাদের সরঞ্জামের ওজন।</Stat_Mass_Desc>
+  <!-- EN: Base mass -->
+  <Stat_Mass_Base>ভিত্তি ভর</Stat_Mass_Base>
+  <!-- EN: Mass from equipment -->
+  <Stat_Mass_Equipment>সরঞ্জামের ভর</Stat_Mass_Equipment>
+  <!-- EN: Total mass -->
+  <Stat_Mass_Total>মোট ভর</Stat_Mass_Total>
+  <!-- EN: The size of this creature's body, compared to an average adult human. -->
+  <Stat_Race_BodySize_Desc>এই প্রাণীটির শরীরের আকার, একজন গড় প্রাপ্তবয়স্ক মানুষের তুলনায়।</Stat_Race_BodySize_Desc>
+  <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
+  <Stat_Race_Growth_Desc>এই প্রাণীটি কতটা পরিণত তার কাছাকাছি।\n\nবৃদ্ধি পাওয়ার জন্য পুষ্টি প্রয়োজন। ভালোভাবে খাওয়ানো প্রাণীর তুলনায় ক্ষুধার্ত প্রাণীর বৃদ্ধির হার ধীর হবে।</Stat_Race_Growth_Desc>
+  <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>এই অস্ত্র দিয়ে শুরু হওয়া একটি নিকট যুদ্ধ আক্রমণ এবং আঘাত লাগার মধ্যে কত সময় অতিবাহিত হয়।</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <!-- EN: How much time passes between when a ranged attack begins aiming and when it fires. -->
+  <Stat_Thing_Weapon_RangedWarmupTime_Desc>একটি রেঞ্জড আক্রমণ লক্ষ্য স্থির করা শুরু করার পর এবং গুলি করার মধ্যে কত সময় অতিবাহিত হয়।</Stat_Thing_Weapon_RangedWarmupTime_Desc>
+  <!-- EN: The amount of shots this weapon fires in each burst. -->
+  <Stat_Thing_Weapon_BurstShotCount_Desc>এই অস্ত্রটি প্রতিটি বারস্টে কতগুলি গুলি চালায়।</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <!-- EN: The fire rate of this weapon during each burst. -->
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>এই অস্ত্রের প্রতিটি বার্স্ট-এর সময় আগুনের হার।</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <!-- EN: The maximum range of this weapon. -->
+  <Stat_Thing_Weapon_Range_Desc>এই অস্ত্রের সর্বোচ্চ পাল্লা।</Stat_Thing_Weapon_Range_Desc>
+  <!-- EN: Range multiplier -->
+  <Stat_Thing_Weapon_Range_Multiplier>পাল্লার গুণক</Stat_Thing_Weapon_Range_Multiplier>
+  <!-- EN: Reduced from {ORIGINAL} to {CAP} by weather. -->
+  <Stat_Thing_Weapon_Range_Clamped>আবহাওয়ার কারণে {ORIGINAL} থেকে {CAP}-এ হ্রাস করা হয়েছে।</Stat_Thing_Weapon_Range_Clamped>
+  <!-- EN: Aiming time multiplier -->
+  <Stat_Thing_Weapon_WarmupTime_Multiplier>লক্ষ্য নেওয়ার সময় গুণক</Stat_Thing_Weapon_WarmupTime_Multiplier>
+  <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
+  <Stat_Thing_Weapon_MissRadius_Desc>এই অস্ত্রের দ্বারা গুলি চালানোর সময় এলোমেলো বিস্তারের ব্যাসার্ধ।\n\nউচ্চ মানগুলি প্রজেক্টাইলগুলিকে লক্ষ্যবস্তুর চারপাশে এলোমেলোভাবে ছড়িয়ে দিতে করে।</Stat_Thing_Weapon_MissRadius_Desc>
+  <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
+  <Stat_Thing_Weapon_DirectHitChance_Desc>যদি কোনো গুলি বাধা না পায়, এড়িয়ে যাওয়া না হয় বা থামানো না যায় তবে সরাসরি লক্ষ্যে লাগার সম্ভাবনা।</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <!-- EN: This body part's effect on the mood of the owner. -->
+  <Stat_Thing_MoodChange_Desc>এই শরীরের অংশের মালিকের মেজাজের উপর প্রভাব।</Stat_Thing_MoodChange_Desc>
+  <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
+  <Stat_Recipe_Skill_Desc>এই রেসিপিটি করার সময় ব্যবহৃত প্রধান দক্ষতা।\n\nএটি ফলাফলের গুণমান নির্ধারণ করে এবং এই রেসিপিটি করার সময় এটি শেখা হয়।</Stat_Recipe_Skill_Desc>
+  <!-- EN: The ingredients required to perform this recipe. -->
+  <Stat_Recipe_Ingredients_Desc>এই রেসিপিটি করার জন্য প্রয়োজনীয় উপকরণ।</Stat_Recipe_Ingredients_Desc>
+  <!-- EN: The skills required to perform this recipe. -->
+  <Stat_Recipe_SkillRequirements_Desc>এই রেসিপিটি সম্পাদন করার জন্য প্রয়োজনীয় দক্ষতা।</Stat_Recipe_SkillRequirements_Desc>
+  <!-- EN: The products produced by this recipe. -->
+  <Stat_Recipe_Products_Desc>এই রেসিপি দ্বারা উৎপাদিত পণ্য।</Stat_Recipe_Products_Desc>
+  <!-- EN: Which character stat governs the workspeed of this recipe.\n\nThe higher the stat of the worker is, the faster work will be done. -->
+  <Stat_Recipe_WorkSpeedStat_Desc>এই রেসিপির কাজের গতি কোন চরিত্র বৈশিষ্ট্য দ্বারা নিয়ন্ত্রিত হয়।\n\nকর্মীর এই বৈশিষ্ট্য যত বেশি হবে, কাজটি তত দ্রুত সম্পন্ন হবে।</Stat_Recipe_WorkSpeedStat_Desc>
+  <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
+  <Stat_Recipe_EfficiencyStat_Desc>কর্মীর এই পরিসংখ্যান যত বেশি, আউটপুটের গুণমান অথবা পরিমাণও তত বেশি হবে।</Stat_Recipe_EfficiencyStat_Desc>
+  <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>এই অপারেশন সফল হওয়ার সম্ভাবনার গুণক। কঠিন অপারেশনগুলোর গুণক কম থাকে।\n\nসার্জারির সাফল্যের প্রকৃত সম্ভাবনা ডাক্তার, সুবিধা এবং ব্যবহৃত ওষুধ দ্বারাও প্রভাবিত হয়।</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <!-- EN: Can't fail -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>গুরুতর নিয়ম:</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <!-- EN: Performing this operation is safe for the patient. -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>এই কাজটি রোগীর জন্য নিরাপদ।</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <!-- EN: The chance the patient will die upon failure of this surgery. -->
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>এই সার্জারি ব্যর্থ হলে রোগীর মৃত্যুর সম্ভাবনা।</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <!-- EN: Total bleed factor -->
+  <Stat_Hediff_TotalBleedFactor_Name>মোট রক্তক্ষরণ গুণাঙ্ক</Stat_Hediff_TotalBleedFactor_Name>
+  <!-- EN: A multiplier applied to the overall rate of blood loss. -->
+  <Stat_Hediff_TotalBleedFactor_Desc>রক্তক্ষরণের সামগ্রিক হারকে প্রভাবিত করে এমন একটি গুণক।</Stat_Hediff_TotalBleedFactor_Desc>
+  <!-- EN: Natural healing factor -->
+  <Stat_Hediff_NaturalHealingFactor_Name>প্রাকৃতিক নিরাময় ক্ষমতা</Stat_Hediff_NaturalHealingFactor_Name>
+  <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
+  <Stat_Hediff_NaturalHealingFactor_Desc>প্রাকৃতিক ক্ষত নিরাময়ের সামগ্রিক হারের উপর প্রয়োগ করা একটি গুণক।</Stat_Hediff_NaturalHealingFactor_Desc>
+  <!-- EN: Food poisoning chance factor -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>খাদ্য বিষক্রিয়ার সম্ভাবনা গুণক</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>খাদ্য বিষক্রিয়ার সম্ভাবনাকে প্রভাবিত করার একটি গুণক।</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <!-- EN: The rate at which this condition causes blood loss. -->
+  <Stat_Hediff_BleedingRate_Desc>এই অবস্থা কত দ্রুত রক্তক্ষরণ ঘটায় তার হার।</Stat_Hediff_BleedingRate_Desc>
+  <!-- EN: The amount of pain caused by this condition. -->
+  <Stat_Hediff_Pain_Desc>এই অবস্থার কারণে সৃষ্ট ব্যথার পরিমাণ।</Stat_Hediff_Pain_Desc>
+  <!-- EN: The offset in efficiency applied to body parts affected by this. -->
+  <Stat_Hediff_PartEfficiency_Desc>এটি দ্বারা প্রভাবিত শরীরের অংশে প্রয়োগ করা দক্ষতার বিচ্যুতি।</Stat_Hediff_PartEfficiency_Desc>
+  <!-- EN: How efficiently this functions compared to a natural body part. -->
+  <Stat_Hediff_PartEfficiencyAbsolute_Desc>শারীরিক অঙ্গের তুলনায় এটি কতটা দক্ষতার সাথে কাজ করে।</Stat_Hediff_PartEfficiencyAbsolute_Desc>
+  <!-- EN: The mental abilities this affects. -->
+  <Stat_Hediff_Affects_Desc>এটি যে মানসিক ক্ষমতাগুলিকে প্রভাবিত করে।</Stat_Hediff_Affects_Desc>
+  <!-- EN: Hunger rate offset -->
+  <Stat_Hediff_HungerRateOffset_Name>ক্ষুধা হার অফসেট</Stat_Hediff_HungerRateOffset_Name>
+  <!-- EN: A multiplier on the rate at which the food need depletes. -->
+  <Stat_Hediff_HungerRateFactor_Desc>খাদ্য চাহিদার হ্রাসের হারকে প্রভাবিত করে এমন একটি গুণক।</Stat_Hediff_HungerRateFactor_Desc>
+  <!-- EN: An offset on the rate at which the food need depletes. -->
+  <Stat_Hediff_HungerRateOffset_Desc>খাদ্য চাহিদার হ্রাস পাওয়ার হারে একটি অফসেট।</Stat_Hediff_HungerRateOffset_Desc>
+  <!-- EN: Sleep fall rate -->
+  <Stat_Hediff_TirednessOffset_Name>ঘুমের হার</Stat_Hediff_TirednessOffset_Name>
+  <!-- EN: An offset applied to the rate at which the creature's sleep need falls. -->
+  <Stat_Hediff_TirednessOffset_Desc>জীবটির ঘুমের প্রয়োজনীয়তা যে হারে হ্রাস পায়, তার উপর একটি অফসেট প্রয়োগ করা হয়েছে।</Stat_Hediff_TirednessOffset_Desc>
+  <!-- EN: A multiplier applied to the rate at which the creature's sleep need falls. -->
+  <Stat_Hediff_TirednessFactor_Desc>জীবটির ঘুমের প্রয়োজনীয়তা যে হারে হ্রাস পায়, তার উপর প্রয়োগ করা একটি গুণক।</Stat_Hediff_TirednessFactor_Desc>
+  <!-- EN: Whether or not this will prevent infections. -->
+  <Stat_Hediff_PreventsInfection_Desc>এটি সংক্রমণ প্রতিরোধ করবে কিনা।</Stat_Hediff_PreventsInfection_Desc>
+  <!-- EN: The things this terrain supports. -->
+  <Stat_Thing_Terrain_Supports_Desc>এই ভূখণ্ড কী কী সমর্থন করে।</Stat_Thing_Terrain_Supports_Desc>
+  <!-- EN: This can only be placed on terrain of these types. -->
+  <Stat_Thing_TerrainRequirement_Desc>এগুলো শুধুমাত্র এই ধরনের ভূখণ্ডে স্থাপন করা যেতে পারে।</Stat_Thing_TerrainRequirement_Desc>
+  <!-- EN: Considered -->
+  <Stat_Thing_Terrain_Fine_Name>বিবেচিত</Stat_Thing_Terrain_Fine_Name>
+  <!-- EN: Fine -->
+  <Stat_Thing_Terrain_Fine_Value>সূক্ষ্ম</Stat_Thing_Terrain_Fine_Value>
+  <!-- EN: This floor is considered fine and suitable for royalty. -->
+  <Stat_Thing_Terrain_Fine_Desc>এই মেঝেটিকে সূক্ষ্ম এবং রাজকীয় ব্যবহারের জন্য উপযুক্ত বলে মনে করা হয়।</Stat_Thing_Terrain_Fine_Desc>
+  <!-- EN: The amount of power this building will draw from the power grid. -->
+  <Stat_Thing_PowerConsumption_Desc>এই কাঠামোটি পাওয়ার গ্রিড থেকে কতটা শক্তি ব্যবহার করবে।</Stat_Thing_PowerConsumption_Desc>
+  <!-- EN: {CHARGENOUN_plural} remaining -->
+  <Stat_Thing_ReloadChargesRemaining_Name>অবশিষ্ট {CHARGENOUN_plural}</Stat_Thing_ReloadChargesRemaining_Name>
+  <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
+  <Stat_Thing_ReloadChargesRemaining_Desc>এই বস্তুতে অবশিষ্ট {CHARGENOUN_plural} এর সংখ্যা। এগুলো শেষ হয়ে গেলে, বিশেষ ক্ষমতাটি আর ব্যবহার করা যাবে না।</Stat_Thing_ReloadChargesRemaining_Desc>
+  <!-- EN: {CHARGENOUN_plural} -->
+  <Stat_Thing_ReloadMaxCharges_Name>চরিত্রনামিক বহুবাচক</Stat_Thing_ReloadMaxCharges_Name>
+  <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
+  <Stat_Thing_ReloadMaxCharges_Desc>এই বস্তুটি ধারণ করতে পারে এমন {CHARGENOUN_plural} এর সর্বোচ্চ সংখ্যা।</Stat_Thing_ReloadMaxCharges_Desc>
+  <!-- EN: {CHARGENOUN} reload cost -->
+  <Stat_Thing_ReloadRefill_Name>{CHARGENOUN} রিলোড খরচ</Stat_Thing_ReloadRefill_Name>
+  <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
+  <Stat_Thing_ReloadRefill_Desc>এই বস্তুটি সম্পূর্ণরূপে পুনরায় লোড করার জন্য প্রয়োজনীয় আইটেমের পরিমাণ।\n\nএই বস্তুটি খালি হওয়ার আগে পুনরায় লোড করা যেতে পারে, তবে খরচ একই থাকবে যেন এটি খালি ছিল।</Stat_Thing_ReloadRefill_Desc>
+  <!-- EN: Reload cost per {CHARGENOUN} -->
+  <Stat_Thing_ReloadPerCharge_Name>{CHARGENOUN} প্রতি রিলোড খরচ</Stat_Thing_ReloadPerCharge_Name>
+  <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
+  <Stat_Thing_ReloadPerCharge_Desc>একটি {CHARGENOUN} পুনরায় লোড করার জন্য প্রয়োজনীয় আইটেমের সংখ্যা। একাধিক {CHARGENOUN_plural} একসাথে পুনরায় লোড করা যেতে পারে।</Stat_Thing_ReloadPerCharge_Desc>
+  <!-- EN: Vanish on exhaust -->
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>নিঃশেষিত হলে অদৃশ্য</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>এই জিনিসটি এর শেষ {CHARGENOUN} ব্যবহার করা হলে অদৃশ্য হয়ে যাবে।</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <!-- EN: The overall efficiency of this body part. -->
+  <Stat_Thing_BodyPartEfficiency_Desc>এই শরীরের অংশের সামগ্রিক কার্যকারিতা।</Stat_Thing_BodyPartEfficiency_Desc>
+  <!-- EN: Install sites -->
+  <Stat_Thing_InstallSites>স্থাপন স্থানসমূহ</Stat_Thing_InstallSites>
+  <!-- EN: Areas on the body where this can be installed. -->
+  <Stat_Thing_InstallSites_Desc>শরীরের যে স্থানগুলোতে এটি স্থাপন করা যেতে পারে।</Stat_Thing_InstallSites_Desc>
+  <!-- EN: Replaces parts -->
+  <Stat_Thing_ReplacesParts>অংশ প্রতিস্থাপন করে।</Stat_Thing_ReplacesParts>
+  <!-- EN: Body parts which are replaced by this when installed. -->
+  <Stat_Thing_ReplacesParts_Desc>এইগুলো ইনস্টল করার সময় যে শরীরের অংশগুলো প্রতিস্থাপিত হয়।</Stat_Thing_ReplacesParts_Desc>
+  <!-- EN: Biocoding -->
+  <Stat_Thing_Biocoded_Name>বায়োকোডিং</Stat_Thing_Biocoded_Name>
+  <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
+  <Stat_Thing_Biocoded_Desc>এই জিনিসটি শুধুমাত্র একজন নির্দিষ্ট ব্যক্তির বায়ো-স্বাক্ষর গ্রহণ করার জন্য কোড করা হয়েছে।</Stat_Thing_Biocoded_Desc>
+  <!-- EN: Required apparel -->
+  <Stat_Pawn_RequiredApparel_Name>প্রয়োজনীয় পোশাক</Stat_Pawn_RequiredApparel_Name>
+  <!-- EN: Growth rate -->
+  <Stat_Thing_Plant_GrowthRate>বৃদ্ধি হার</Stat_Thing_Plant_GrowthRate>
+  <!-- EN: The rate at which a plant is growing.\n\nGrowth rate is affected by things like soil fertility, temperature, light, and environmental conditions. -->
+  <Stat_Thing_Plant_GrowthRate_Desc>একটি উদ্ভিদের বৃদ্ধির হার।\n\nমাটির উর্বরতা, তাপমাত্রা, আলো এবং পরিবেশগত অবস্থার মতো বিষয়গুলি বৃদ্ধির হারকে প্রভাবিত করে।</Stat_Thing_Plant_GrowthRate_Desc>
+  <!-- EN: Age -->
+  <Stat_Thing_Plant_Age>বয়স</Stat_Thing_Plant_Age>
+  <!-- EN: How long this has been alive. -->
+  <Stat_Thing_Plant_AgeDesc>কতদিন ধরে এটি জীবিত আছে।</Stat_Thing_Plant_AgeDesc>
+  <!-- EN: Lifespan -->
+  <Stat_Thing_Plant_Lifespan>জীবনকাল</Stat_Thing_Plant_Lifespan>
+  <!-- EN: Paintable -->
+  <Stat_Building_Paintable>রং করা যায়</Stat_Building_Paintable>
+  <!-- EN: Whether this can be painted using dye. -->
+  <Stat_Building_PaintableDesc>রং ব্যবহার করে এটি আঁকা সম্ভব কিনা।</Stat_Building_PaintableDesc>
+  <!-- EN: Paint color -->
+  <Stat_Building_PaintColor>রং পেইন্ট</Stat_Building_PaintColor>
+  <!-- EN: The color this building was painted. -->
+  <Stat_Building_PaintColorDesc>এই কাঠামোটি কী রঙে আঁকা হয়েছিল।</Stat_Building_PaintColorDesc>
+  <!-- EN: Resources to make -->
+  <Stat_Building_ResourcesToMake>উৎপাদনযোগ্য সম্পদ</Stat_Building_ResourcesToMake>
+  <!-- EN: The resources required to construct this. -->
+  <Stat_Building_ResourcesToMakeDesc>এটি নির্মাণ করতে প্রয়োজনীয় সম্পদ।</Stat_Building_ResourcesToMakeDesc>
+  <!-- EN: The weapon mounted on this creature. -->
+  <Stat_Thing_TurretDesc>এই প্রাণীটির উপর বসানো অস্ত্র।</Stat_Thing_TurretDesc>
+  <!-- EN: The ingredients needed to make this. -->
+  <Stat_Thing_Ingredients>এটি তৈরি করার জন্য প্রয়োজনীয় উপকরণ।</Stat_Thing_Ingredients>
+  <!-- EN: Working at this building will be slower if it's not in this room type. -->
+  <Stat_Building_OptimalRoom_Desc>এই বিল্ডিং-এ কাজ করা এই ঘরানার না হলে ধীর হবে।</Stat_Building_OptimalRoom_Desc>
+
+  <!-- Drugs -->
+  <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
+  <Stat_Thing_Drug_Chemical_Desc>এটির সক্রিয় রাসায়নিক উপাদান।\n\nকিছু ক্ষেত্রে, একই রাসায়নিক উপাদান একাধিক ভিন্ন ওষুধে উপস্থিত থাকতে পারে। এই ভিন্ন ওষুধগুলি বিভিন্ন উপায়ে একই আসক্তি নিবারণ করতে পারে।</Stat_Thing_Drug_Chemical_Desc>
+  <!-- EN: The category this drug belongs to. -->
+  <Stat_Thing_Drug_Category_Desc>এই ওষুধটি যে শ্রেণীতে অন্তর্ভুক্ত।</Stat_Thing_Drug_Category_Desc>
+  <!-- EN: The intensity of high gained per dose of this drug. -->
+  <Stat_Thing_Drug_HighGainPerDose_Desc>এই ওষুধের প্রতি ডোজে প্রাপ্ত উচ্চতার তীব্রতা।</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <!-- EN: How much this drug's high will decay each day. -->
+  <Stat_Thing_Drug_HighFallPerDay_Desc>এই ড্রাগের নেশা প্রতিদিন কতটা কমবে।</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>এই ওষুধের ডোজ প্রতি নেশা কতক্ষণ স্থায়ী হবে।\n\nএটি ডোজ প্রতি প্রাপ্ত নেশা এবং নেশা কমার হার থেকে গণনা করা হয়।</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>এই ওষুধের প্রতিটি ডোজের জন্য একজন ব্যবহারকারীর রাসায়নিক সহনশীলতা কতটা বাড়বে।\n\nএই রাসায়নিকের বিভিন্ন রূপের জন্য এটি ভিন্ন হতে পারে।</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>প্রতিদিন একজন ব্যবহারকারীর রাসায়নিকের সহনশীলতা কতটা কমবে।</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>এই ওষুধে নতুন করে আসক্ত হওয়ার জন্য প্রয়োজনীয় সর্বনিম্ন সহনশীলতা।\n\nযদি কোনো ব্যবহারকারীর সহনশীলতার মাত্রা এই স্তরের নিচে থাকে, তবে ওষুধ সেবন করে তারা নতুন করে আসক্ত হতে পারবে না।</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <!-- EN: An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size. -->
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>কোনো প্রাপ্তবয়স্ক ব্যক্তি শুধুমাত্র এই সময়ের চেয়ে বেশি ঘন ঘন ওষুধ সেবন করলে আসক্ত হতে পারে।\n\nএটি ওষুধের সর্বনিম্ন আসক্তি সহনশীলতা, প্রতি ডোজে সহনশীলতা বৃদ্ধি এবং সহনশীলতা হ্রাসের হার থেকে গণনা করা হয়। কিছু ওষুধের নিরাপদ বিরতি নেই। এই ধরনের ওষুধ প্রথম ডোজেই আসক্তি তৈরি করতে পারে।\n\nমনে রাখবেন, নিরাপদ ডোজের ব্যবধান একজন ব্যক্তির শরীরের আকারের উপর নির্ভর করে।</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
+  <Stat_Thing_Drug_RandomODChance_Desc>এই ওষুধ সেবন করার সময় র‍্যান্ডম ওভারডোজ হওয়ার সম্ভাবনা। র‍্যান্ডম ওভারডোজ যে কোনও ডোজে হতে পারে, তা নতুন ব্যবহারকারীর প্রথমবার হোক বা অভিজ্ঞ আসক্তের শততম ডোজ হোক।</Stat_Thing_Drug_RandomODChance_Desc>
+  <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
+  <Stat_Thing_Drug_Addictiveness_Desc>এই ওষুধের প্রতি ডোজের আসক্তি হওয়ার সম্ভাবনা।\n\nযদি ওষুধটির আসক্ত হওয়ার জন্য একটি ন্যূনতম সহনশীলতা থাকে, তবে এই বিষয়টি প্রযোজ্য হওয়ার জন্য সহনশীলতার মাত্রা সেই স্তরের উপরে থাকতে হবে। যদি কোনো ন্যূনতম সহনশীলতা না থাকে, তবে যেকোনো ডোজই আসক্তি সৃষ্টি করতে পারে।</Stat_Thing_Drug_Addictiveness_Desc>
+  <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>এই ওষুধটির কারণে নতুন আসক্তি এই তীব্রতা স্তরে শুরু হয়।\n\nএই ওষুধের আরও বেশি গ্রহণ আসক্তির তীব্রতা বৃদ্ধি করবে, অন্যদিকে সময় এটির তীব্রতা হ্রাস করবে।</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>এই ওষুধটির প্রাথমিক আসক্তি থেকে সেরে উঠতে কত সময় লাগে।\n\nএটি নতুন আসক্তির তীব্রতা এবং আসক্তি পুনরুদ্ধারের হার দিয়ে গণনা করা হবে। যে আসক্তি বজায় রাখা হয়েছে, সেটি থেকে সেরে উঠতে বেশি সময় লাগবে।</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>এই ওষুধটির প্রতিটি ডোজের জন্য বিদ্যমান আসক্তির তীব্রতা কতটা বৃদ্ধি পায়।\n\nআসক্তির তীব্রতা ১০০% এর বেশি হতে পারবে না।</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>এই মাদকটির আসক্তি মেটাতে এবং প্রত্যাহার রোধ করতে একজন আসক্তকে কত ঘন ঘন ডোজ নিতে হবে।\n\nএটি আসক্তির প্রয়োজনীয়তা হ্রাসের হার এবং প্রতি ডোজে প্রয়োজনীয়তা পূরণের পরিমাণ থেকে গণনা করা হয়।</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>এই ওষুধের প্রতিটি ডোজ একজন আসক্তের রাসায়নিক চাহিদার কতটা পূরণ করে।</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <!-- EN: How quickly an addict's need for the chemical will fall. -->
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>একজন আসক্তের রাসায়নিকের চাহিদা কত দ্রুত কমবে।</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
+  <Stat_Thing_Drug_AddictionCost_Desc>এই ড্রাগের প্রতি আসক্তি বজায় রাখতে প্রতিদিন গ্রহণ করতে প্রয়োজনীয় ড্রাগের বাজার মূল্য, যা withdrawal এড়াতে হবে।\n\nএই মূল্যটি আসক্তের প্রতি ডোজে রাসায়নিক চাহিদা, চাহিদার হ্রাস হার এবং এই ড্রাগের বাজার মূল্য থেকে গণনা করা হয়।\n\nমনে রাখবেন, বিভিন্ন খরচে একই রাসায়নিক পাওয়ার অন্যান্য উপায় থাকতে পারে।</Stat_Thing_Drug_AddictionCost_Desc>
+
+  <!-- EN: Style -->
+  <Stat_Thing_StyleLabel>শৈলী</Stat_Thing_StyleLabel>
+  <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
+  <Stat_Thing_StyleDesc>একটি বস্তুর শৈলী তার চেহারা নির্ধারণ করে। এর খেলার উপর কোনো প্রভাব নেই। শৈলী প্রায়শই বিভিন্ন বিশ্বাস ও সংস্কৃতির মানুষের দ্বারা ব্যবহৃত নির্মাণ পদ্ধতির ভিন্নতা তৈরি করে।</Stat_Thing_StyleDesc>
+
+  <!-- EN: Gestation time -->
+  <Stat_Animal_GestationTime>গর্ভধারণের সময়</Stat_Animal_GestationTime>
+  <!-- EN: The time this species takes to gestate its offspring or eggs. -->
+  <Stat_Animal_GestationTimeDesc>এই প্রজাতি তাদের বংশধর বা ডিম ধারণ করতে যে সময় নেয়।</Stat_Animal_GestationTimeDesc>
+  <!-- EN: Litter size -->
+  <Stat_Animal_LitterSize>বাচ্চাদের সংখ্যা</Stat_Animal_LitterSize>
+  <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
+  <Stat_Animal_LitterSizeDesc>এই প্রাণীটি প্রতিবারে কতগুলি বাচ্চা জন্ম দেয়। যদি এটি একটি পরিসীমা হয়, তবে প্রতিটি দলগতভাবে জন্ম দেওয়া বাচ্চার সংখ্যা এই পরিসীমার মধ্যে এলোমেলোভাবে নির্ধারিত হবে।</Stat_Animal_LitterSizeDesc>
+  <!-- EN: Adult meat amount -->
+  <Stat_Animal_AdultMeatAmount>প্রাপ্ত মাংসের পরিমাণ</Stat_Animal_AdultMeatAmount>
+  <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
+  <Stat_Animal_AdultMeatAmountDesc>এই প্রজাতির কোনো বয়স্ক সদস্যকে জবাই করলে যে পরিমাণ মাংস পাওয়া যায় তার প্রাথমিক পরিমাণ। শরীরের ক্ষতি এবং কসাইয়ের দক্ষতার মতো অন্যান্য কারণের দ্বারা প্রকৃত ফলন প্রভাবিত হয়।</Stat_Animal_AdultMeatAmountDesc>
+  <!-- EN: Growth time -->
+  <Stat_Animal_GrowthTime>বৃদ্ধি সময়</Stat_Animal_GrowthTime>
+  <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
+  <Stat_Animal_GrowthTimeDesc>এই প্রাণীটির স্বাভাবিকভাবে প্রাপ্তবয়স্ক হতে কত সময় লাগে। প্রাণীটি ক্ষুধার্ত থাকলে এই সময় আরও বাড়বে।</Stat_Animal_GrowthTimeDesc>
+  <!-- EN: Meat per day during growth -->
+  <Stat_Animal_MeatPerDayDuringGrowth>বৃদ্ধি চলাকালীন দৈনিক মাংসের পরিমাণ।</Stat_Animal_MeatPerDayDuringGrowth>
+  <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>এই প্রাণীটি প্রতিদিন এই পরিমাণ মাংস লাভ করে, যতক্ষণ না এটি প্রাপ্তবয়স্ক হয়।\n\nএই মানটি মাংসের পরিমাণ এবং বৃদ্ধির সময় থেকে গণনা করা হয়।</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <!-- EN: Grass to maintain -->
+  <Stat_Animal_GrassToMaintain>ঘাস রক্ষণাবেক্ষণ করুন</Stat_Animal_GrassToMaintain>
+  <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
+  <Stat_Animal_GrassToMaintainDesc>এই প্রাণীটির খাদ্য চাহিদা মেটাতে সাধারণত যতগুলো ঘাস প্রয়োজন হয়। এটি স্বাভাবিক ঘাস এবং স্বাভাবিক বৃদ্ধির হারকে ভিত্তি করে গণনা করা হয়েছে এবং শীতকালকে উপেক্ষা করা হয়েছে।</Stat_Animal_GrassToMaintainDesc>
+  <!-- EN: Egg type -->
+  <Stat_Animal_EggType>ডিমের ধরণ</Stat_Animal_EggType>
+  <!-- EN: The type of egg this creature lays. -->
+  <Stat_Animal_EggTypeDesc>এই প্রাণীটি যে ধরনের ডিম পাড়ে।</Stat_Animal_EggTypeDesc>
+  <!-- EN: Eggs per year -->
+  <Stat_Animal_EggsPerYear>প্রতি বছর ডিম</Stat_Animal_EggsPerYear>
+  <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
+  <Stat_Animal_EggsPerYearDesc>এই প্রাণীটি প্রতি বছর কতগুলি ডিম পাড়বে তার সংখ্যা। ডিম পাড়ার জন্য কিছু প্রাণীকে নিষিক্ত করতে হয়। প্রাণীটি ক্ষুধার্ত থাকলে ডিম পাড়া ধীর হয়ে যাবে।</Stat_Animal_EggsPerYearDesc>
+  <!-- EN: Egg nutrition -->
+  <Stat_Animal_EggNutrition>ডিমের পুষ্টিগুণ</Stat_Animal_EggNutrition>
+  <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
+  <Stat_Animal_EggNutritionDesc>এই প্রাণীটি একটি ডিমে যে পরিমাণ পুষ্টি থাকে।</Stat_Animal_EggNutritionDesc>
+  <!-- EN: Egg nutrition per year -->
+  <Stat_Animal_EggNutritionYearly>প্রতি বছর ডিমের পুষ্টিগুণ</Stat_Animal_EggNutritionYearly>
+  <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
+  <Stat_Animal_EggNutritionYearlyDesc>এই প্রাণীটি প্রতি বছর যে ডিম পাড়ে তা থেকে প্রতি বছর উৎপাদিত পুষ্টির পরিমাণ।\n\nএই মানটি প্রতি বছর ডিমের সংখ্যা এবং ডিমের পুষ্টিগুণ থেকে গণনা করা হয়।</Stat_Animal_EggNutritionYearlyDesc>
+  <!-- EN: Egg market value -->
+  <Stat_Animal_EggMarketValue>ডিমের বাজার মূল্য</Stat_Animal_EggMarketValue>
+  <!-- EN: The market value of a single laid egg. -->
+  <Stat_Animal_EggMarketValueDesc>একটি ডিমের বাজার মূল্য।</Stat_Animal_EggMarketValueDesc>
+  <!-- EN: Egg value per year -->
+  <Stat_Animal_EggMarketValueYearly>প্রতি বছর ডিমের মূল্য</Stat_Animal_EggMarketValueYearly>
+  <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
+  <Stat_Animal_EggMarketValueYearlyDesc>একটি বছরে স্বাভাবিকভাবে ডিম পাড়ার মোট মূল্য।\n\nএটি বছরে ডিমের সংখ্যা এবং ডিমের বাজার মূল্য থেকে গণনা করা হয়।</Stat_Animal_EggMarketValueYearlyDesc>
+  <!-- EN: Milk type -->
+  <Stat_Animal_MilkType>দুধের ধরণ</Stat_Animal_MilkType>
+  <!-- EN: The type of milk this creature produces. -->
+  <Stat_Animal_MilkTypeDesc>এই প্রাণীটি যে ধরনের দুধ উৎপাদন করে।</Stat_Animal_MilkTypeDesc>
+  <!-- EN: Milk amount -->
+  <Stat_Animal_MilkAmount>দুধের পরিমাণ</Stat_Animal_MilkAmount>
+  <!-- EN: The amount of milk this creature produces each time it is milked. -->
+  <Stat_Animal_MilkAmountDesc>এই প্রাণীটি একবার দোয়ানো হলে যে পরিমাণ দুধ উৎপন্ন করে।</Stat_Animal_MilkAmountDesc>
+  <!-- EN: Milking interval -->
+  <Stat_Animal_MilkGrowthTime>দুধ দোহনের ব্যবধান</Stat_Animal_MilkGrowthTime>
+  <!-- EN: The amount of time this creature needs between milkings. -->
+  <Stat_Animal_MilkGrowthTimeDesc>এই প্রাণীটিকে দুধ দেওয়ার মধ্যে প্রয়োজনীয় সময়।</Stat_Animal_MilkGrowthTimeDesc>
+  <!-- EN: Milk per year -->
+  <Stat_Animal_MilkPerYear>বছর প্রতি দুধ</Stat_Animal_MilkPerYear>
+  <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
+  <Stat_Animal_MilkPerYearDesc>এই পশুটি এক বছর ধরে যে পরিমাণ দুধ উৎপাদন করে।\n\nএটি দুধের পরিমাণ এবং দুধ দেওয়ার ব্যবধান থেকে গণনা করা হয়।</Stat_Animal_MilkPerYearDesc>
+  <!-- EN: Milk market value -->
+  <Stat_Animal_MilkValue>দুধের বাজার মূল্য</Stat_Animal_MilkValue>
+  <!-- EN: The value of one unit of this creature's milk. -->
+  <Stat_Animal_MilkValueDesc>এই প্রাণীর এক ইউনিট দুধের মূল্য।</Stat_Animal_MilkValueDesc>
+  <!-- EN: Milk value per year -->
+  <Stat_Animal_MilkValuePerYear>প্রতি বছর দুধের মূল্য</Stat_Animal_MilkValuePerYear>
+  <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
+  <Stat_Animal_MilkValuePerYearDesc>এই প্রাণী থেকে এক বছরের দুধের বাজার মূল্য, ধরে নেওয়া হচ্ছে এটি কখনই ক্ষুধার্ত হবে না এবং প্রতিটি দুধ দেওয়ার সময়কালে দুধ তাৎক্ষণিকভাবে সংগ্রহ করা হয়।\n\nএটি প্রতি বছর দুধের পরিমাণ এবং দুধের বাজার মূল্য থেকে গণনা করা হয়।</Stat_Animal_MilkValuePerYearDesc>
+  <!-- EN: Wool type -->
+  <Stat_Animal_WoolType>পশমের ধরণ</Stat_Animal_WoolType>
+  <!-- EN: The type of wool produced by this creature. -->
+  <Stat_Animal_WoolTypeDesc>এই প্রাণী দ্বারা উৎপাদিত উলের ধরণ।</Stat_Animal_WoolTypeDesc>
+  <!-- EN: Wool amount -->
+  <Stat_Animal_WoolAmount>পশমের পরিমাণ</Stat_Animal_WoolAmount>
+  <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
+  <Stat_Animal_WoolAmountDesc>এই প্রাণীটিকে একবার ছাঁটাই করলে যে পরিমাণ উল পাওয়া যায়।</Stat_Animal_WoolAmountDesc>
+  <!-- EN: Wool shearing interval -->
+  <Stat_Animal_WoolGrowthTime>ভেড়া ছাঁটাইয়ের সময়কাল</Stat_Animal_WoolGrowthTime>
+  <!-- EN: The time after shearing before this creature can be shorn again. -->
+  <Stat_Animal_WoolGrowthTimeDesc>এই প্রাণীটিকে পুনরায় ছাঁটাই করার আগে প্রয়োজনীয় সময়।</Stat_Animal_WoolGrowthTimeDesc>
+  <!-- EN: Wool amount per year -->
+  <Stat_Animal_WoolPerYear>প্রতি বছর উলের পরিমাণ</Stat_Animal_WoolPerYear>
+  <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
+  <Stat_Animal_WoolPerYearDesc>এই প্রাণীটি প্রতি বছর যে পরিমাণ পশম উৎপাদন করে।\n\nএটি পশমের পরিমাণ এবং পশম কাটার ব্যবধান থেকে গণনা করা হয়।</Stat_Animal_WoolPerYearDesc>
+  <!-- EN: Wool market value -->
+  <Stat_Animal_WoolValue>পশমের বাজার মূল্য</Stat_Animal_WoolValue>
+  <!-- EN: The market value of one unit of this creature's wool. -->
+  <Stat_Animal_WoolValueDesc>এই প্রাণীর লোমের এক ইউনিটের বাজার মূল্য।</Stat_Animal_WoolValueDesc>
+  <!-- EN: Wool value per year -->
+  <Stat_Animal_WoolValuePerYear>প্রতি বছর উলের মূল্য।</Stat_Animal_WoolValuePerYear>
+  <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
+  <Stat_Animal_WoolValuePerYearDesc>এই প্রাণী থেকে এক বছরের উলের বাজার মূল্য।\n\nএটি প্রতি বছর উলের পরিমাণ এবং উলের বাজার মূল্য থেকে গণনা করা হয়।</Stat_Animal_WoolValuePerYearDesc>
+
+  <!-- EN: How much of the total possible study you have performed on this object. -->
+  <Stat_Studiable_Desc>এই বস্তুটি নিয়ে আপনি মোট সম্ভাব্য অধ্যয়নের কতটা সম্পন্ন করেছেন।</Stat_Studiable_Desc>
+
+  <!-- EN: Source -->
+  <Stat_Source_Label>উৎস</Stat_Source_Label>
+  <!-- EN: This content came from the official expansion -->
+  <Stat_Source_OfficialExpansionReport>এই বিষয়বস্তু অফিসিয়াল এক্সপ্যানশন থেকে এসেছে।</Stat_Source_OfficialExpansionReport>
+  <!-- EN: This content came from the mod -->
+  <Stat_Source_ModReport>এই বিষয়বস্তু একটি মোড থেকে এসেছে।</Stat_Source_ModReport>
+
+  <!-- EN: Contained book beauty -->
+  <ContainedBookBeauty>সংগৃহীত বইয়ের সৌন্দর্য</ContainedBookBeauty>
+  <!-- EN: {0} hits -->
+  <Stat_TrapDamageHitCount>{0} আঘাত</Stat_TrapDamageHitCount>
+
+  <!-- EN: The amount of progress that has been made towards hacking this object. -->
+  <Stat_Thing_HackingProgress>এই বস্তুটি হ্যাক করার ক্ষেত্রে যে পরিমাণ অগ্রগতি হয়েছে।</Stat_Thing_HackingProgress>
+
+  <!-- EN: Multiplier for {0} terrain -->
+  <StatsReport_TerrainSpeedMultiplier>{0} ভূখণ্ডের গুণক</StatsReport_TerrainSpeedMultiplier>
+
+  <!-- EN: {0} trained -->
+  <StatsReport_Trainable>: {0} প্রশিক্ষণ দেওয়া হয়েছে</StatsReport_Trainable>
+  <!-- EN: Available training -->
+  <StatsReport_AvailableTraining>প্রশিক্ষণ উপলব্ধ</StatsReport_AvailableTraining>
+  <!-- EN: The tasks that this creature can be trained to perform. The available training is dependent on the creature's trainability, body size, and species. -->
+  <StatsReport_AvailableTraining_Desc>এই প্রাণীটিকে যে কাজগুলি করার জন্য প্রশিক্ষণ দেওয়া যেতে পারে। প্রশিক্ষণের সুযোগ প্রাণীর প্রশিক্ষণের ক্ষমতা, শারীরিক আকার এবং প্রজাতির উপর নির্ভরশীল।</StatsReport_AvailableTraining_Desc>
+  
+</LanguageData>

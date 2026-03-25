@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol withdrawal -->
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>অ্যালকোহল প্রত্যাহার</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>শরীর কাঁপছে। সবকিছুতেই রাগ হচ্ছে। আমি ক্রমাগত পান করার কথা ভাবছি।</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+  
+  <!-- EN: mild hangover -->
+  <Hungover.stages.mild_hangover.label>হালকা হ্যাংওভার</Hungover.stages.mild_hangover.label>
+  <!-- EN: The headache is almost gone. -->
+  <Hungover.stages.mild_hangover.description>মাথাব্যথা প্রায় সেরে গেছে।</Hungover.stages.mild_hangover.description>
+  <!-- EN: serious hangover -->
+  <Hungover.stages.serious_hangover.label>মারাত্মক হ্যাংওভার</Hungover.stages.serious_hangover.label>
+  <!-- EN: My head hurts from all that liquor. -->
+  <Hungover.stages.serious_hangover.description>অতিরিক্ত মদের কারণে আমার মাথা ব্যথা করছে।</Hungover.stages.serious_hangover.description>
+  <!-- EN: pounding hangover -->
+  <Hungover.stages.pounding_hangover.label>মারাত্মক হ্যাংওভার</Hungover.stages.pounding_hangover.label>
+  <!-- EN: It feels like a gaggle of geese are pecking at my skull. -->
+  <Hungover.stages.pounding_hangover.description>মনে হচ্ছে হাঁসের ঝাঁক আমার খুলি ঠুকছে।</Hungover.stages.pounding_hangover.description>
+  
+  <!-- EN: alcohol warmth -->
+  <Inebriated.stages.alcohol_warmth.label>অ্যালকোহল উষ্ণতা</Inebriated.stages.alcohol_warmth.label>
+  <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
+  <Inebriated.stages.alcohol_warmth.description>পানীয়টি খাওয়ার পরে আমি একটু বেশি স্বচ্ছন্দ বোধ করছি। এটা ভালো।</Inebriated.stages.alcohol_warmth.description>
+  <!-- EN: quite inebriated -->
+  <Inebriated.stages.quite_inebriated.label>মোট মাতাল</Inebriated.stages.quite_inebriated.label>
+  <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
+  <Inebriated.stages.quite_inebriated.description>আমি একটু টলমল করছি! এবং এটা বেশ উপভোগ্য।</Inebriated.stages.quite_inebriated.description>
+  <!-- EN: drunk -->
+  <Inebriated.stages.drunk.label>মদগ্রস্ত</Inebriated.stages.drunk.label>
+  <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
+  <Inebriated.stages.drunk.description>আমি নিজেকে এত বাধাহীন এবং নির্ভীক অনুভব করছি! এটা দারুণ একটা সময়!</Inebriated.stages.drunk.description>
+  <!-- EN: hammered -->
+  <Inebriated.stages.hammered.label>প্রহৃত</Inebriated.stages.hammered.label>
+  <!-- EN: Wooo! What's going on? -->
+  <Inebriated.stages.hammered.description>উহু! কী হচ্ছে?</Inebriated.stages.hammered.description>
+  
+</LanguageData>

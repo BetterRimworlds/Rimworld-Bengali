@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bison -->
+  <Bison.label>বাইসন</Bison.label>
+  <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
+  <Bison.description>এটি সাভানা অঞ্চলের বিশাল তৃণভোজী স্তন্যপায়ী প্রাণী। পোষ মানানো হলে শান্ত থাকে, কিন্তু রাগান্বিত হলে দ্রুত এবং বিপজ্জনক হয়ে ওঠে।</Bison.description>
+  <!-- EN: head -->
+  <Bison.tools.head.label>মাথা</Bison.tools.head.label>
+  <!-- EN: left hoof -->
+  <Bison.tools.left_hoof.label>বাম খুর</Bison.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.left_hoof.labelNoLocation>খুর</Bison.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Bison.tools.right_hoof.label>ডান খুর</Bison.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.right_hoof.labelNoLocation>খুর</Bison.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>বুমালোপ</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
+  <Boomalope.description>রাসায়নিক উৎপাদনের জন্য তৈরি, বুমালোপ-এর পিঠে উদ্বায়ী রাসায়নিকের একটি বড় থলি জন্মায়। আকার অনুযায়ী এটি দুর্বল এবং ভঙ্গুর হলেও, অন্যান্য প্রাণীরা এর মৃত্যুতে সৃষ্ট বিশাল বিস্ফোরণের কারণে এটিকে এড়িয়ে চলতে শিখেছে। খুব সাবধানে এটি থেকে রাসায়নিক জ্বালানি উৎপাদন করার জন্য দুধ সংগ্রহ করা যেতে পারে।</Boomalope.description>
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>মাথা</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>বাম খুর</Boomalope.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.left_hoof.labelNoLocation>খুর</Boomalope.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>ডান খুর</Boomalope.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.right_hoof.labelNoLocation>খুর</Boomalope.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>ক্যারিibou</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>হরিণের একটি বৃহৎ প্রজাতি, যা ঠান্ডা জলবায়ুতে জীবনযাপনের জন্য ভালোভাবে অভিযোজিত। ক্যারিবুকে দুগ্ধ দেওয়া যেতে পারে, তবে এরা বোঝা বহন করতে অস্বীকার করে।</Caribou.description>
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>বাম খুর</Caribou.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.left_hoof.labelNoLocation>খুর</Caribou.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>ডান খুর</Caribou.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.right_hoof.labelNoLocation>খুর</Caribou.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>মাথা</Caribou.tools.head.label>
+  
+  <!-- EN: cow -->
+  <Cow.label>গরু</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>গবাদি পশু হিসাবে ব্যবহৃত বিশাল আকারের স্তন্যপায়ী প্রাণী, গরু কয়েক সহস্রাব্দ ধরে প্রচুর পরিমাণে দুধ, মাংস এবং চামড়া উৎপাদনের জন্য প্রজনন করা হয়েছে। এরা অত্যন্ত শান্ত স্বভাবের প্রাণী এবং আঘাত পেলেও প্রতিশোধ নেয় না। এদের মধ্যে বেশিরভাগই খামার জীবনে এতটাই অভ্যস্ত যে বন্য পরিবেশে বাঁচতে পারে না।</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>গরুর মাংস</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>মাথা</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>বাম খুর</Cow.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.left_hoof.labelNoLocation>খুর</Cow.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>ডান খুর</Cow.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.right_hoof.labelNoLocation>খুর</Cow.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: donkey -->
+  <Donkey.label>গাধা</Donkey.label>
+  <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed. -->
+  <Donkey.description>ঘোড়ার একটি ছোট আত্মীয়, প্রাচীনকালে কৃষিকাজের জন্য গৃহপালিত করা হয়েছে। এর বোকাটে ডাক একইসাথে বিরক্তিজনক এবং স্নেহপূর্ণ।\n\nযখন কোনো বহরে থাকে, তখন মানুষ গাধার পিঠে চড়ে বহরের গতি বাড়াতে পারে।</Donkey.description>
+  <!-- EN: head -->
+  <Donkey.tools.head.label>মাথা</Donkey.tools.head.label>
+  <!-- EN: left hoof -->
+  <Donkey.tools.left_hoof.label>বাম খুর</Donkey.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.left_hoof.labelNoLocation>খুর</Donkey.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Donkey.tools.right_hoof.label>ডান খুর</Donkey.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.right_hoof.labelNoLocation>খুর</Donkey.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>উট</Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
+  <Dromedary.description>শুষ্ক পরিবেশে অভিযোজিত একটি বৃহৎ স্তন্যপায়ী প্রাণী। প্রাচীনকাল থেকে গৃহপালিত, এর চামড়া মরুভূমির তাপের বিরুদ্ধে চমৎকারভাবে অন্তরক হিসাবে কাজ করে এবং এর দুধ বেশ পুষ্টিকর। এটি বোঝা টানা এবং সওয়ারির জন্য ব্যবহার করা যেতে পারে, তবে এর ঝাঁকুনিযুক্ত হাঁটা এটিকে ঘোড়ার চেয়ে ধীরে চালায়।\n\nএর বৃহৎ কুঁজে জল সঞ্চয় করে এবং শ্বাস ছাড়ার সময় শ্বাস থেকে আর্দ্রতা পুনরুদ্ধার করে, এটি কয়েক সপ্তাহ জল পান করা ছাড়াই চলতে পারে।\n\nএকটি বহরে থাকাকালীন, মানুষ দ্রুত গতিতে ভ্রমণের জন্য উট ব্যবহার করতে পারে।</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>বাম খুর</Dromedary.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.left_hoof.labelNoLocation>খুর</Dromedary.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>ডান খুর</Dromedary.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.right_hoof.labelNoLocation>খুর</Dromedary.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>মাথা</Dromedary.tools.head.label>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>হাতি</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants have a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>সবচেয়ে বড় অপরিবর্তিত স্থলজ প্রাণী। হাতিদের একটি লম্বা শুঁড় আছে যা তারা জিনিসপত্র ম্যানিপুলেট করতে ব্যবহার করে, এবং ধারালো দাঁত যা তারা আক্রমণকারীদের আঘাত করতে ব্যবহার করে। একটি মৃত হাতির মূল্যবান দাঁত কসাই করে পুনরুদ্ধার করা যেতে পারে।\n\nবুদ্ধিমান প্রাণী যাদের জটিল সামাজিক সম্পর্ক রয়েছে, হাতিদের বোঝা বহনকারী পশু হিসাবে ব্যবহার করা যেতে পারে অথবা সবচেয়ে জটিল কাজগুলি করার জন্য প্রশিক্ষণ দেওয়া যেতে পারে। তারা দীর্ঘজীবী হয় এবং কয়েক দশক আগের ঘটনা ও সম্পর্ক মনে রাখতে পারদর্শী।</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>দন্ত</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>বাম পা</Elephant.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.left_foot.labelNoLocation>পাদ</Elephant.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>ডান পা</Elephant.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.right_foot.labelNoLocation>পায়ের অংশ</Elephant.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>মাথা</Elephant.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>এল্ক</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>হরিণের একটি বৃহৎ প্রজাতি, ঠান্ডা জলবায়ুতে জীবনধারণের জন্য ভালোভাবে অভিযোজিত। গৃহপালিত এল্ক থেকে দুধ নেওয়া যায়, তবে তারা বোঝা বহন করতে অস্বীকার করে।</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>বাম খুর</Elk.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.left_hoof.labelNoLocation>খুর</Elk.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>ডান খুর</Elk.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.right_hoof.labelNoLocation>খুর</Elk.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Elk.tools.head.label>মাথা</Elk.tools.head.label>
+  
+  <!-- EN: goat -->
+  <Goat.label>ছাগল</Goat.label>
+  <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
+  <Goat.description>মানুষের দ্বারা গৃহপালিত প্রাণীদের মধ্যে ছাগল অন্যতম বন্ধুত্বপূর্ণ এবং এরা স্বভাবতই কৌতূহলী।</Goat.description>
+  <!-- EN: head -->
+  <Goat.tools.head.label>মাথা</Goat.tools.head.label>
+  
+  <!-- EN: horse -->
+  <Horse.label>ঘোড়া</Horse.label>
+  <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed. -->
+  <Horse.description>লম্বা কেশর এবং লম্বা লেজযুক্ত একটি বড় খুরওয়ালা স্তন্যপায়ী প্রাণী। ঘোড়া প্রাচীনকাল থেকে গৃহপালিত করা হয়েছে।\n\nযখন কোনো বহরে থাকে, তখন মানুষ দ্রুত গতিতে বহরটিকে এগিয়ে নিয়ে যাওয়ার জন্য ঘোড়ায় চড়তে পারে।</Horse.description>
+  <!-- EN: horse meat -->
+  <Horse.race.meatLabel>ঘোড়ার মাংস</Horse.race.meatLabel>
+  <!-- EN: head -->
+  <Horse.tools.head.label>মাথা</Horse.tools.head.label>
+  <!-- EN: left hoof -->
+  <Horse.tools.left_hoof.label>বাম খুর</Horse.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.left_hoof.labelNoLocation>খুর</Horse.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Horse.tools.right_hoof.label>ডান খুর</Horse.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.right_hoof.labelNoLocation>খুর</Horse.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>মাফালো</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>একটি বৃহৎ তৃণভোজী স্তন্যপায়ী প্রাণী, যা মহিষ থেকে উদ্ভূত এবং ঠান্ডা ও উষ্ণ উভয় পরিবেশের সাথে মানিয়ে নিতে সক্ষম। রাগান্বিত মাফালো প্রাণীরা মারাত্মক হলেও, পোষা মাফালো শান্ত এবং বোঝা টানার কাজে ব্যবহার করা যেতে পারে।\n\nএরা কেন নীল, তা নিশ্চিতভাবে কেউ জানে না—এমনকি এটাও হতে পারে যে এটি একটি প্রাথমিক জিনগত পরিবর্তনের পরীক্ষা ছিল যা কখনই পরিবর্তন করা হয়নি।</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>মাথা</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>বাম খুর</Muffalo.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.left_hoof.labelNoLocation>খুর</Muffalo.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>ডান খুর</Muffalo.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.right_hoof.labelNoLocation>খুর</Muffalo.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>গন্ডার</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>উদ্ভিদভোজী হওয়া সত্ত্বেও, এই বৃহৎ স্তন্যপায়ী প্রাণীটিকে খুব সহজে রাগান্বিত করা যায়। রেগে গেলে, এর বিশাল শক্তি এবং ধারালো শিং এটিকে একটি নিষ্ঠুর প্রতিপক্ষ করে তোলে। মানুষের সমগ্র শরীরের চেয়ে এর একটি পায়ে বেশি পেশী রয়েছে।</Rhinoceros.description>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>শিং</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>শিং</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>মাথা</Rhinoceros.tools.head.label>
+  
+  <!-- EN: yak -->
+  <Yak.label>ইয়াক</Yak.label>
+  <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
+  <Yak.description>ইয়াকগুলি শক্তিশালী গবাদি পশু, যাদের বিশাল শরীর, খাটো কিন্তু পুরু পা এবং বিভক্ত খুর রয়েছে যা বরফের উপর হাঁটার জন্য বিশেষভাবে বিস্তৃত।</Yak.description>
+  <!-- EN: yak beef -->
+  <Yak.race.meatLabel>ইয়াক মাংস</Yak.race.meatLabel>
+  <!-- EN: head -->
+  <Yak.tools.head.label>মাথা</Yak.tools.head.label>
+  <!-- EN: left hoof -->
+  <Yak.tools.left_hoof.label>বাম খুর</Yak.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.left_hoof.labelNoLocation>খুর</Yak.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Yak.tools.right_hoof.label>ডান খুর</Yak.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.right_hoof.labelNoLocation>খুর</Yak.tools.right_hoof.labelNoLocation>
+  
+</LanguageData>

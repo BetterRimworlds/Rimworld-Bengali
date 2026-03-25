@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boreal forest -->
+  <BorealForest.label>বোরিয়াল বন</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>চিরসবুজ গাছের বন। কঠিন শীতকাল সত্ত্বেও, বোরিয়াল বন বিভিন্ন ছোট ও বড় প্রাণীর আবাসস্থল এবং উষ্ণ গ্রীষ্মকাল উপভোগ করে।</BorealForest.description>
+  
+  <!-- EN: cold bog -->
+  <ColdBog.label>ঠান্ডা জলাভূমি</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>গাছপালা ও লতাগুল্মে পরিপূর্ণ একটি জলাভূমি। এখানকার জলাভূমির বেশিরভাগ অংশ ভারী কাঠামো সমর্থন করতে পারে না, ঘন গাছপাল্লার কারণে চলাচল ধীরগতির। এই ঘন, ভেজা বাস্তুতন্ত্রে রোগ স্থানীয়ভাবে প্রাদুর্ভাবের সৃষ্টি করে।</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
+  <IceSheet.label>বরফের চাদর</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>কয়েক কিলোমিটার পুরু বরফের স্তর এখানে বিদ্যমান। উদ্ভিদের বৃদ্ধির জন্য কোনো মাটি নেই। এখানকার একমাত্র প্রাণীগুলো অন্য কোথাও পরিযান করছে—অথবা পথ হারিয়ে ফেলেছে।</IceSheet.description>
+  <!-- EN: Ice sheet is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <IceSheet.settleWarning>বরফের চাদর অত্যন্ত প্রতিকূল। উদ্ভিদ এবং প্রায় কোনো প্রাণীর জীবনধারণের জন্য এখানে মাটি নেই। দীর্ঘমেয়াদী টিকে থাকা একটি কঠিন চ্যালেঞ্জ।</IceSheet.settleWarning>
+  
+  <!-- EN: sea ice -->
+  <SeaIce.label>সমুদ্র বরফ</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>স্থায়ী বরফের স্তর জলের উপর ভাসছে। উদ্ভিদ জন্মানোর জন্য মাটি নেই, খনিজ উত্তোলনের জন্য কোনো খনি নেই এবং প্রায় কোনো প্রাণীর জীবনও নেই।</SeaIce.description>
+  <!-- EN: Sea ice is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <SeaIce.settleWarning>সমুদ্রের বরফ অত্যন্ত প্রতিকূল। এখানে উদ্ভিদের জন্য মাটি নেই এবং প্রায় কোনো প্রাণী জীবনও নেই। দীর্ঘমেয়াদী টিকে থাকা একটি কঠিন চ্যালেঞ্জ।</SeaIce.settleWarning>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>ট tundra</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>এই প্রায়-বরফঢাকা সমভূমিতে তেমন কোনো গাছ নেই এবং খুব কম উদ্ভিজ্জতা দেখা যায়। মাঝে মাঝে ছোটখাটো প্রাণী দেখা যায়, সেই সাথে বিশাল পালের যাযাবর তৃণভোজী এবং তাদের শিকারীদেরও দেখা মেলে।</Tundra.description>
+  
+</LanguageData>

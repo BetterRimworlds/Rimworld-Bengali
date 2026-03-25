@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: person captured -->
+  <Captured.label>ব্যক্তি আটক</Captured.label>
+  <!-- EN:
+    <li>tale_noun->[CAPTURER_nameDef] capturing [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] being captured by [CAPTURER_nameDef]</li>
+    <li>tale_noun->the capturing of [PRISONER_nameDef]</li>
+    <li>image->[CAPTURER_nameFull] capturing [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] tying [PRISONER_nameFull]'s hands [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] smacking [PRISONER_nameFull] while capturing [PRISONER_objective] [circumstance_group]</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] writhes on the ground</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] twists in pain</li>
+    <li>circumstance_phrase->with professional efficiency</li>
+    <li>circumstance_phrase->roughly and amateurishly</li>
+    <li>circumstance_phrase->with obviously excessive force</li>
+    <li>circumstance_phrase->with obvious pleasure</li>
+    <li>circumstance_phrase->while smiling with dominance</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is looking into [PRISONER_nameDef]'s eyes with a sense of dominance.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is injured and seems to be in pain.</li>
+    <li>desc_sentence->[PRISONER_nameDef] looks resigned to [PRISONER_possessive] fate.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is snarling with the fury of defeat.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is slapping [PRISONER_nameDef] to subdue [PRISONER_objective].</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is twisting [PRISONER_nameDef]'s ear.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is holding [PRISONER_nameDef] in a joint lock.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is spitting into [PRISONER_nameDef]'s face.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is laughing as tears well up in [PRISONER_nameDef]'s eyes.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is kicking [PRISONER_nameDef] for no obvious reason.</li>
+  -->
+  <Captured.rulePack.rulesStrings>
+    <li>tale_noun->[CAPTURER_nameDef] ধরেছে [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] ধরা হয়েছিল[PRISONER_o_a] দ্বারা [CAPTURER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef]-কে বন্দী করেছে [PRISONER_nameDef]</li>
+    <li>image->[CAPTURER_nameFull] ধরে ফেলছে [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] হাতে বেড়ি পরানো হচ্ছে [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] আঘাত করছে [PRISONER_nameFull] যখন [PRISONER_objective] বন্দী করছিল [circumstance_group]</li>
+    <li>circumstance_phrase->যখন সে মাটিতে কাঁপছে</li>
+    <li>circumstance_phrase->ব্যথাযন্ত্রণায় কাতরাючись যখন</li>
+    <li>circumstance_phrase->পেশাদার দক্ষতার সাথে</li>
+    <li>circumstance_phrase->অদক্ষভাবে এবং শিক্ষানবিস হিসেবে</li>
+    <li>circumstance_phrase->স্পষ্টতই অতিরিক্ত শক্তি দিয়ে</li>
+    <li>circumstance_phrase->স্পষ্ট আনন্দ সহ</li>
+    <li>circumstance_phrase->প্রাধান্যে হাসছে</li>
+    <li>desc_sentence->[CAPTURER_nameDef] চোখের দিকে তাকায় [PRISONER_nameDef] প্রধানত।</li>
+    <li>desc_sentence->[PRISONER_nameDef] আহত[PRISONER_o_a] এবং অনেক কষ্টে।</li>
+    <li>desc_sentence->[PRISONER_nameDef] resigned মনে হচ্ছে[PRISONER_o_a] প্রতি [PRISONER_possessive] ভাগ্য।</li>
+    <li>desc_sentence->[PRISONER_nameDef] পরাজয়ের ক্রোধে গর্জন করছে।</li>
+    <li>desc_sentence->[CAPTURER_nameDef] চড় মারা [PRISONER_nameDef] বশীভূত করতে[PRISONER_objective]।</li>
+    <li>desc_sentence->[CAPTURER_nameDef] কানের লতি ঘোরাচ্ছে [PRISONER_nameDef]।</li>
+    <li>desc_sentence->[CAPTURER_nameDef] তাকে একটি চাবি দেয় [PRISONER_nameDef]।</li>
+    <li>desc_sentence->[CAPTURER_nameDef] মুখে থুতু দেয় [PRISONER_nameDef]।</li>
+    <li>desc_sentence->[CAPTURER_nameDef] হেসে ওঠে যখন [PRISONER_nameDef] কাঁদে।</li>
+    <li>desc_sentence->[CAPTURER_nameDef] লাথি মারে [PRISONER_nameDef] কোনো কারণ ছাড়া।</li>
+  </Captured.rulePack.rulesStrings>
+  
+  <!-- EN: defeated hostile leader -->
+  <DefeatedHostileFactionLeader.label>শত্রু দলের নেতা পরাজিত</DefeatedHostileFactionLeader.label>
+  
+  <!-- EN: surgery performed -->
+  <DidSurgery.label>অস্ত্রোপচার সম্পন্ন</DidSurgery.label>
+  <!-- EN:
+    <li>tale_noun->[SURGEON_nameDef] operating on [PATIENT_nameDef]</li>
+    <li>tale_noun->[SURGEON_nameDef] performing a medical operation on [PATIENT_nameDef]</li>
+    <li>tale_noun->[PATIENT_nameDef]'s medical operation</li>
+    <li>image->[SURGEON_nameFull] putting [PATIENT_nameFull] to sleep with anesthetic [circumstance_group]</li>
+    <li>image->[SURGEON_nameFull] elbow-deep in [PATIENT_nameFull] during surgery [circumstance_group]</li>
+    <li>image->[SURGEON_nameFull] slicing into [PATIENT_nameFull] during surgery [circumstance_group]</li>
+    <li>circumstance_phrase->as [PATIENT_pronoun] trembles with fear</li>
+    <li>circumstance_phrase->as blood pools at [SURGEON_nameDef]'s feet</li>
+    <li>circumstance_phrase->while surrounded by scary-looking surgical tools</li>
+    <li>circumstance_phrase->with improvised but effective tools</li>
+    <li>desc_sentence->[SURGEON_nameDef] is sweating profusely.</li>
+    <li>desc_sentence->[SURGEON_nameDef] looks incredibly focused on the task.</li>
+    <li>desc_sentence->[SURGEON_nameDef] has blood smeared on [SURGEON_possessive] face.</li>
+    <li>desc_sentence->[PATIENT_nameDef] is shaking and writhing.</li>
+  -->
+  <DidSurgery.rulePack.rulesStrings>
+    <li>tale_noun->[SURGEON_nameDef] অপারেশন করলেন [PATIENT_nameDef]</li>
+    <li>tale_noun->[SURGEON_nameDef] একটি চিকিৎসা সংক্রান্ত অপারেশন করেছেন [PATIENT_nameDef]</li>
+    <li>tale_noun->[রোগীর নাম]-এর অপারেশন করা হয়েছিল। [PATIENT_nameDef]</li>
+    <li>image->[SURGEON_nameFull] স্থাপন করা [PATIENT_nameFull] চেতনানাশক দিয়ে ঘুম পাড়ানো [circumstance_group]</li>
+    <li>image->[SURGEON_nameFull] আঙুল ভিতরে প্রবেশ করিয়ে [PATIENT_nameDef] একটি অপারেশনের মাঝে [circumstance_group]</li>
+    <li>image->[SURGEON_nameFull] খোলার চেষ্টা করছে [PATIENT_nameFull] একটি ছুরি দিয়ে [circumstance_group]</li>
+    <li>circumstance_phrase->যখন [PATIENT_nameFull] ভয়ে কাঁপে</li>
+    <li>circumstance_phrase->যখন রক্ত [SURGEON_nameDef]-এর পায়ে ভেজাচ্ছে [SURGEON_nameDef]</li>
+    <li>circumstance_phrase->যখন তার চারপাশে ভীতিকর অস্ত্রোপচার সরঞ্জাম রাখা হয়।</li>
+    <li>circumstance_phrase->তাৎক্ষণিক সরঞ্জাম দিয়ে, কিন্তু কার্যকর।</li>
+    <li>desc_sentence->[SURGEON_nameDef] অত্যন্ত প্রচুর পরিমাণে।</li>
+    <li>desc_sentence->[SURGEON_nameDef] খুব বিভ্রান্ত দেখাচ্ছে[SURGEON_o_a]।</li>
+    <li>desc_sentence->[SURGEON_nameDef] তার মুখে রক্ত লেগে আছে।</li>
+    <li>desc_sentence->[SURGEON_nameDef] কম্পিত এবং মোচড় খাচ্ছে।</li>
+  </DidSurgery.rulePack.rulesStrings>
+  
+  <!-- EN: prisoner executed -->
+  <ExecutedPrisoner.label>বন্দিকে মৃত্যুদণ্ড কার্যকর</ExecutedPrisoner.label>
+  <!-- EN:
+    <li>tale_noun->[EXECUTIONER_nameDef] executing [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] being executed by [EXECUTIONER_nameDef]</li>
+    <li>tale_noun->the execution of [PRISONER_nameDef]</li>
+    <li>image->[EXECUTIONER_nameFull] executing [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] putting [PRISONER_nameFull] to death [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] preparing to execute [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] entering a prison cell, going to execute [PRISONER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] writhes on the ground</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] twists in pain</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] cries out in terror</li>
+    <li>circumstance_phrase->with professional efficiency</li>
+    <li>circumstance_phrase->roughly and amateurishly</li>
+    <li>circumstance_phrase->with obviously excessive force</li>
+    <li>circumstance_phrase->with obvious pleasure</li>
+    <li>circumstance_phrase->while smiling with dominance</li>
+    <li>circumstance_phrase->with tears in [EXECUTIONER_possessive] eyes</li>
+    <li>circumstance_phrase->with a look of utter indifference</li>
+    <li>circumstance_phrase->while inflicting unnecessary pain</li>
+    <li>circumstance_phrase->while thinking of something else</li>
+    <li>circumstance_phrase->for the greater good</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] is sweating profusely.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] is drooling a little bit.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] has blood smeared on [EXECUTIONER_possessive] face.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is shaking and writhing.</li>
+    <li>desc_sentence->[PRISONER_nameDef] seems to have given up entirely.</li>
+    <li>desc_sentence->[PRISONER_nameDef] has closed [PRISONER_possessive] eyes, seeming to pray to a higher power.</li>
+    <li>desc_sentence->[PRISONER_nameDef] looks defiant.</li>
+  -->
+  <ExecutedPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->[EXECUTIONER_nameDef] হত্যা করেছে [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] মৃত্যুদণ্ড কার্যকর করা হল[PRISONER_o_a] দ্বারা [EXECUTIONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef]-কে মৃত্যুদণ্ড দেওয়া হল। [PRISONER_nameDef]</li>
+    <li>image->[EXECUTIONER_nameFull] কার্যকর করছেন [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] হত্যা করছে [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] কার্যকরী করার জন্য প্রস্তুতি নিচ্ছে [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] একটি সেলে প্রবেশ করে, [PRISONER_nameFull]-কে মৃত্যুদণ্ড দেওয়ার জন্য [PRISONER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->পেশাদার দক্ষতার সাথে</li>
+    <li>circumstance_phrase->অদক্ষতা ও অপরিণতভাবে</li>
+    <li>circumstance_phrase->স্পষ্টতই অতিরিক্ত শক্তি দিয়ে</li>
+    <li>circumstance_phrase->স্পষ্ট আনন্দ সহ</li>
+    <li>circumstance_phrase->প্রকটভাবে হাসছে</li>
+    <li>circumstance_phrase->চোখে জল নিয়ে</li>
+    <li>circumstance_phrase->সম্পূর্ণ উদাসীনতার দৃষ্টিতে</li>
+    <li>circumstance_phrase->অপ্রয়োজনীয় কষ্ট দিচ্ছে</li>
+    <li>circumstance_phrase->অন্য কিছু ভাবার সময়।</li>
+    <li>circumstance_phrase->সাধারণ কল্যাণের জন্য</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] অত্যন্ত প্রচুর পরিমাণে।</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] একটু লালা ঝরে।</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] তার মুখে রক্ত লেগে আছে।</li>
+    <li>desc_sentence->[PRISONER_nameDef] [PRISONER_nameDef] ছটফট করছে এবং মোচড় খাচ্ছে।</li>
+    <li>desc_sentence->[PRISONER_nameDef] হতাশার ছাপ মুখে।</li>
+    <li>desc_sentence->[PRISONER_nameDef] সে চোখ বন্ধ করে ফেলেছে এবং মনে হচ্ছে যেন সে কোনো ঊর্ধ্বতন শক্তির কাছে প্রার্থনা করছে।</li>
+    <li>desc_sentence->[PRISONER_nameDef] মনে হচ্ছে চ্যালেঞ্জিং।</li>
+  </ExecutedPrisoner.rulePack.rulesStrings>
+  
+  <!-- EN: animal hunted -->
+  <Hunted.label>প্রাণী শিকার করা হয়েছে</Hunted.label>
+  <!-- EN:
+    <li>tale_noun->[HUNTER_nameDef] hunting [PREY_nameDef]</li>
+    <li>tale_noun->[PREY_nameDef] being hunted by [HUNTER_nameDef]</li>
+    <li>tale_noun->[HUNTER_nameDef]'s successful hunt</li>
+    <li>image->[PREY_nameFull] being hunted by [HUNTER_nameFull] [circumstance_group]</li>
+    <li>image->[HUNTER_nameFull] stalking [PREY_nameFull] from afar [circumstance_group]</li>
+    <li>image->[HUNTER_nameFull] hunting [PREY_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as [PREY_nameDef] relaxes</li>
+    <li>circumstance_phrase->as [PREY_nameDef] travels</li>
+    <li>circumstance_phrase->as [PREY_nameDef] eats</li>
+    <li>desc_sentence->[PREY_nameDef] seems totally oblivious.</li>
+    <li>desc_sentence->[HUNTER_nameDef] is gripping [HUNTER_possessive] weapon tightly.</li>
+    <li>desc_sentence->[PREY_nameDef] is looking around as though [PREY_pronoun] senses that something is wrong.</li>
+  -->
+  <Hunted.rulePack.rulesStrings>
+    <li>tale_noun->[HUNTER_nameDef] শিকার করেছে [PREY_nameDef]</li>
+    <li>tale_noun->[PREY_nameDef] দ্বারা শিকার করা হয়েছিল [HUNTER_nameDef]</li>
+    <li>tale_noun->সফলভাবে শিকার করেছে [HUNTER_nameDef]-কে। [HUNTER_nameDef]</li>
+    <li>image->[PREY_nameFull] শিকার করা হচ্ছে [HUNTER_nameFull] দ্বারা [HUNTER_nameFull] [circumstance_group]</li>
+    <li>image->[HUNTER_nameFull] অনুসরণ করছে [PREY_nameFull] দূর থেকে</li>
+    <li>image->[HUNTER_nameFull] শিকার করছে [prey_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->যখন [PREY_nameDef] বিশ্রাম নেয়</li>
+    <li>circumstance_phrase->যখন [PREY_nameDef] ঘুরে বেড়ায়</li>
+    <li>circumstance_phrase->যখন [PREY_nameDef] খায়</li>
+    <li>desc_sentence->[PREY_nameDef] লক্ষ্য করে না।</li>
+    <li>desc_sentence->[HUNTER_nameDef] তার অস্ত্র আঁকড়ে ধরে।</li>
+    <li>desc_sentence->[PREY_nameDef] চারপাশে তাকায়, যেন বিপদ টের পাচ্ছে।</li>
+  </Hunted.rulePack.rulesStrings>
+  
+  <!-- EN: colonist kidnapped -->
+  <KidnappedColonist.label>উপনিবেশবাসী অপহৃত</KidnappedColonist.label>
+  <!-- EN:
+    <li>tale_noun->[KIDNAPPER_nameDef] kidnapping [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] being kidnapped by [KIDNAPPER_nameDef]</li>
+    <li>tale_noun->the kidnapping of [VICTIM_nameDef]</li>
+    <li>image->[KIDNAPPER_nameFull] carrying [VICTIM_nameFull] away to [KIDNAPPER_factionName] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] of [KIDNAPPER_factionName] kidnapping [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] kidnapping [VICTIM_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as [VICTIM_pronoun] twists in pain</li>
+    <li>circumstance_phrase->with professional efficiency</li>
+    <li>circumstance_phrase->roughly and amateurishly</li>
+    <li>circumstance_phrase->with obviously excessive force</li>
+    <li>circumstance_phrase->with obvious pleasure</li>
+    <li>circumstance_phrase->while smiling with dominance</li>
+    <li>circumstance_phrase->while covered in blood and filth</li>
+    <li>desc_sentence->[VICTIM_nameDef] seems to have given up entirely.</li>
+    <li>desc_sentence->[VICTIM_nameDef] has closed [VICTIM_possessive] eyes, seeming to pray to a higher power.</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks defiant.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is screaming with rage and terror.</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks broken and exhausted.</li>
+    <li>desc_sentence->[VICTIM_nameDef] appears to be badly wounded.</li>
+  -->
+  <KidnappedColonist.rulePack.rulesStrings>
+    <li>tale_noun->[KIDNAPPER_nameDef] অপহরণ করেছে {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>tale_noun->[VICTIM_nameDef] অপহৃত হয়েছে[VICTIM_o_a] দ্বারা [KIDNAPPER_nameDef]</li>
+    <li>tale_noun->অপহরণ করেছে {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>image->[KIDNAPPER_nameFull] টেনে নিয়ে যাচ্ছে [VICTIM_nameFull] দিকে যাচ্ছে [KIDNAPPER_factionName] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] দলের পক্ষ থেকে [KIDNAPPER_factionName] অপহরণ করছে [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] অপহরণ করছে [VICTIM_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->ব্যথাযন্ত্রণায় কাতরাючись যখন</li>
+    <li>circumstance_phrase->পেশাদার দক্ষতার সাথে</li>
+    <li>circumstance_phrase->অদক্ষভাবে এবং শিক্ষানবিস হিসেবে</li>
+    <li>circumstance_phrase->স্পষ্টতই অতিরিক্ত শক্তি দিয়ে</li>
+    <li>circumstance_phrase->স্পষ্ট আনন্দ সহ</li>
+    <li>circumstance_phrase->প্রাধান্যে হাসছে</li>
+    <li>circumstance_phrase->আবৃত[VICTIM_o_a] রক্ত ও ময়লা দ্বারা</li>
+    <li>desc_sentence->[VICTIM_nameDef] মনে হচ্ছে [VICTIM_nameDef] আশা হারিয়ে ফেলেছে।</li>
+    <li>desc_sentence->[VICTIM_nameDef] সে চোখ বন্ধ করে ফেলেছে এবং মনে হচ্ছে যেন সে কোনো উচ্চতর শক্তির কাছে প্রার্থনা করছে।</li>
+    <li>desc_sentence->[VICTIM_nameDef] দৃষ্টিতে চ্যালেঞ্জিং মনে হচ্ছে।</li>
+    <li>desc_sentence->[VICTIM_nameDef] ক্রোধ ও ভয়ে চিৎকার করছে।</li>
+    <li>desc_sentence->[VICTIM_nameDef] ভেঙে পড়া মনে হচ্ছে[VICTIM_o_a] এবং ক্লান্ত[VICTIM_o_a]।</li>
+    <li>desc_sentence->[VICTIM_nameDef] গুরুতরভাবে আহত মনে হচ্ছে[VICTIM_o_a]।</li>
+  </KidnappedColonist.rulePack.rulesStrings>
+  
+  <!-- EN: death -->
+  <KilledBy.label>মৃত্যু</KilledBy.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] killing [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]</li>
+    <li>tale_noun->the killing of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the killing of [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] being killed by [KILLER_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] killing [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] ending [VICTIM_nameFull]'s life [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] brutally murdering [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[VICTIM_nameFull] being killed [circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with passionate rage</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->out of bleak necessity</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->Blood is pooling around [VICTIM_nameDef]'s body.</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are rendered in a realistically lifeless fashion.</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <KilledBy.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] হত্যা করেছে {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>tale_noun->[VICTIM_nameDef] নিহত হয়েছে[VICTIM_o_a] দ্বারা [KILLER_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] হাতে মারা গেছে [KILLER_nameDef]</li>
+    <li>tale_noun->হত্যা করা হয়েছে {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>image->[VICTIM_nameFull] নিহত হচ্ছে[VICTIM_o_a] দ্বারা [KILLER_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] হত্যা করছে [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] জীবন শেষ করে [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] brutalভাবে হত্যা করছে [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[VICTIM_nameFull] হত্যা করা হচ্ছে[VICTIM_o_a] [circumstance_group]</li>
+    <li>circumstance_phrase->অনুশোচনা ছাড়াই</li>
+    <li>circumstance_phrase->জ্বলন্ত ক্রোধে</li>
+    <li>circumstance_phrase->কার্যকরী নড়াচড়ার মাধ্যমে</li>
+    <li>circumstance_phrase->কোনো আবেগ বা অভিব্যক্তি ছাড়া।</li>
+    <li>circumstance_phrase->একটি অন্ধকার প্রয়োজন দ্বারা</li>
+    <li>circumstance_phrase->কাপুরুষোচিতভাবে এবং উৎসাহহীনভাবে</li>
+    <li>desc_sentence->সূর্য তাদের পিছনে অস্ত যাচ্ছে, আপাতদৃষ্টিতে কোনো প্রতীকী অর্থে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] মনোযোগ সহকারে দেখছে।</li>
+    <li>desc_sentence->একজন [PersonJob] নীরবে পর্যবেক্ষণ করছে [side_position]।</li>
+    <li>desc_sentence->রক্ত মৃতদেহের চারপাশে জমা হচ্ছে [VICTIM_nameDef]।</li>
+    <li>desc_sentence->এর চোখ [VICTIM_nameDef] বাস্তবসম্মতভাবে এবং প্রাণহীনভাবে চিত্রিত করা হয়েছে।</li>
+    <li>desc_sentence->[KILLER_nameDef] তার দাঁত দেখাচ্ছে।</li>
+    <li>desc_sentence->[KILLER_nameDef] সন্তুষ্ট দেখাচ্ছে[KILLER_o_a]।</li>
+    <li>desc_sentence->[KILLER_nameDef] বিচলিত দেখাচ্ছে[KILLER_o_a] যা করছে তার জন্য।</li>
+    <li>desc_sentence->[KILLER_nameDef] সন্তুষ্ট দেখাচ্ছে[KILLER_o_a] পরিস্থিতি নিয়ে।</li>
+    <li>desc_sentence->[KILLER_nameDef] যেন বিজয়ী দেখাচ্ছে।</li>
+  </KilledBy.rulePack.rulesStrings>
+  
+  <!-- EN: colonist killed -->
+  <KilledColonist.label>উপনিবেশবাসী নিহত</KilledColonist.label>
+  
+  <!-- EN: colony animal killed -->
+  <KilledColonyAnimal.label>উপনিবেশের প্রাণী নিহত</KilledColonyAnimal.label>
+  
+  <!-- EN: person recruited -->
+  <Recruited.label>ব্যক্তি নিয়োগপ্রাপ্ত</Recruited.label>
+  <!-- EN:
+    <li>tale_noun->[RECRUITER_nameDef] recruiting [JOINER_nameDef]</li>
+    <li>tale_noun->[JOINER_nameDef] being recruited by [RECRUITER_nameDef]</li>
+    <li>tale_noun->the recruitment of [JOINER_nameDef]</li>
+    <li>image->[RECRUITER_nameFull] recruiting [JOINER_nameFull] [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] welcoming [JOINER_nameFull] as [JOINER_pronoun] becomes a colonist [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] speaking convincingly to [JOINER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with obvious goodwill</li>
+    <li>circumstance_phrase->with a hearty handshake</li>
+    <li>circumstance_phrase->with smiles all around</li>
+    <li>circumstance_phrase->in front of the whole colony</li>
+    <li>circumstance_phrase->in a prison cell</li>
+    <li>desc_sentence->[JOINER_nameDef] is nodding in understanding.</li>
+    <li>desc_sentence->[JOINER_nameDef] is smiling and making eye contact.</li>
+    <li>desc_sentence->[JOINER_nameDef] looks relieved.</li>
+    <li>desc_sentence->[JOINER_nameDef] looks hopeful.</li>
+  -->
+  <Recruited.rulePack.rulesStrings>
+    <li>tale_noun->[RECRUITER_nameDef] নিয়োগ করেছে [JOINER_nameDef]</li>
+    <li>tale_noun->[JOINER_nameDef] নিয়োগ করা হয়েছিল[JOINERTales_o_a] দ্বারা [RECRUITER_nameDef]</li>
+    <li>tale_noun->নিয়োগ করেছিল [JOINER_nameDef]</li>
+    <li>image->[RECRUITER_nameFull] নিয়োগ করছে [JOINER_nameFull] [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull], স্বাগত জানাচ্ছি [JOINER_nameFull] উপনিবেশে যোগদানের জন্য [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] persuasively বলতে [JOINER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->ভালো ইচ্ছার সাথে</li>
+    <li>circumstance_phrase->স্নেহপূর্ণ হাত মেলানোর মাধ্যমে</li>
+    <li>circumstance_phrase->স্নেহ সহকারে হাসছে</li>
+    <li>circumstance_phrase->পুরো কলোনির সামনে</li>
+    <li>circumstance_phrase->বন্দী কোষে</li>
+    <li>desc_sentence->[JOINER_nameDef] মাথা নেড়ে সম্মতি জানায়।</li>
+    <li>desc_sentence->[JOINER_nameDef] হাসে এবং চোখের যোগাযোগ করে।</li>
+    <li>desc_sentence->[JOINER_nameDef] স্বস্তি পেয়েছে[JOINERTales_o_a]।</li>
+    <li>desc_sentence->[JOINER_nameDef] খুশি মনে হচ্ছে।</li>
+  </Recruited.rulePack.rulesStrings>
+  
+  <!-- EN: prisoner sold -->
+  <SoldPrisoner.label>বন্দি বিক্রি করা হয়েছে</SoldPrisoner.label>
+  <!-- EN:
+    <li>tale_noun->the selling of [PRISONER_nameDef] to a trader</li>
+    <li>tale_noun->[SELLER_nameDef] selling [PRISONER_nameDef] as a slave</li>
+    <li>tale_noun->[PRISONER_nameDef] being sold as a slave by [SELLER_nameDef]</li>
+    <li>image->[TRADER_nameFull] buying [PRISONER_nameFull] from [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] selling [PRISONER_nameFull] to [TRADER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as the other colonists look on in disapproval</li>
+    <li>circumstance_phrase->while [SELLER_nameDef] counts [TRADER_possessive] money</li>
+    <li>circumstance_phrase->while [PRISONER_nameDef] moans plaintively</li>
+    <li>circumstance_phrase->to [PRISONER_nameDef]'s chagrin</li>
+    <li>desc_sentence->[TRADER_nameDef] is smiling devilishly.</li>
+    <li>desc_sentence->[SELLER_nameDef] is laughing maniacally.</li>
+    <li>desc_sentence->[SELLER_nameDef] reluctantly hands [PRISONER_nameDef] over to the trader.</li>
+    <li>desc_sentence->[PRISONER_nameDef] stares defiantly at [PRISONER_possessive] new master.</li>
+    <li>desc_sentence->[TRADER_nameDef] drags [PRISONER_nameDef] away by [PRISONER_possessive] chains.</li>
+    <li>desc_sentence->[PRISONER_nameDef] stares at [SELLER_nameDef], plotting [PRISONER_possessive] revenge.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is crying.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is spitting in [SELLER_nameDef]'s face.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is melting into the ground.</li>
+    <li>desc_sentence->[SELLER_nameDef] is thrusting the chains of [PRISONER_nameDef] into [TRADER_nameDef]'s hands.</li>
+    <li>desc_sentence->An air of hopelessness pervades the situation.</li>
+  -->
+  <SoldPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->[PRISONER_nameDef] বিক্রি করা হয়েছিল[PRISONER_o_a] একজন দাস ব্যবসায়ীর কাছে</li>
+    <li>tale_noun->[SELLER_nameDef] বিক্রি করেছে [PRISONER_nameDef] দাস হিসেবে[PRISONER_o_a]</li>
+    <li>tale_noun->[PRISONER_nameDef] বিক্রি করা হয়েছিল[PRISONER_o_a] দাস হিসেবে[PRISONER_o_a] দ্বারা [SELLER_nameDef]</li>
+    <li>image->[TRADER_nameFull] কিনছে [PRISONER_nameFull] থেকে [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] বিক্রি করছে [PRISONER_nameFull] তে [SELLER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->অন্যান্য বসতি স্থাপনকারীরা অসন্তোষের সাথে দেখছে যখন</li>
+    <li>circumstance_phrase->যখন [SELLER_nameDef] তার টাকা গুনছে</li>
+    <li>circumstance_phrase->যখন [PRISONER_nameDef] অভিযোগ করছে</li>
+    <li>circumstance_phrase->[PRISONER_nameDef]-এর অভিযোগ সত্ত্বেও [PRISONER_nameDef]</li>
+    <li>desc_sentence->[TRADER_nameDef] শয়তানি হাসি হাসে।</li>
+    <li>desc_sentence->[SELLER_nameDef] পাগলের মতো হাসে।</li>
+    <li>desc_sentence->[SELLER_nameDef] প্রদান করে [PRISONER_nameDef] ব্যবসায়ীর কাছে।</li>
+    <li>desc_sentence->[PRISONER_nameDef] [PRISONER_nameDef] তার নতুন মালিকের দিকে চ্যালেঞ্জিংভাবে তাকিয়ে আছে।</li>
+    <li>desc_sentence->[TRADER_nameDef] টেনে নিয়ে যায় [PRISONER_nameDef] তার শৃঙ্খল দিয়ে।</li>
+    <li>desc_sentence->[PRISONER_nameDef] তাকায় [SELLER_nameDef] প্রতিশোধের পরিকল্পনা করার সময়।</li>
+    <li>desc_sentence->[PRISONER_nameDef] কাঁদছে।</li>
+    <li>desc_sentence->[PRISONER_nameDef] মুখে থুতু দেয় [SELLER_nameDef]।</li>
+    <li>desc_sentence->[PRISONER_nameDef] মেঝেতে ছটফট করছে।</li>
+    <li>desc_sentence->[SELLER_nameDef] নিয়ে যাচ্ছে [PRISONER_nameDef] টেনে নিয়ে যাচ্ছে[PRISONER_objective] শৃঙ্খল থেকে দিকে [TRADER_nameDef]।</li>
+    <li>desc_sentence->পরিস্থিতি জুড়ে হতাশার একটা বাতাস বিরাজ করছে।</li>
+  </SoldPrisoner.rulePack.rulesStrings>
+  
+  <!-- EN: animal tamed -->
+  <TamedAnimal.label>প্রাণী পোষ মানানো হয়েছে</TamedAnimal.label>
+  <!-- EN:
+    <li>tale_noun->the taming of [ANIMAL_nameDef] by [TAMER_nameDef]</li>
+    <li>tale_noun->[TAMER_nameDef]'s taming of [ANIMAL_nameDef]</li>
+    <li>image->[TAMER_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] whispering to a skittish [ANIMAL_label] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] calming a wild [ANIMAL_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with great care and caution</li>
+    <li>circumstance_phrase->with a smile</li>
+    <li>circumstance_phrase->while exhausted but happy</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is snarling aggressively.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks sleepy and drunk with love.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears to be in some sort of hypnotic state.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks scared but interested.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears fascinated.</li>
+    <li>desc_sentence->[TAMER_nameDef] is projecting a powerful sense of love towards [ANIMAL_nameDef].</li>
+  -->
+  <TamedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[TAMER_nameDef] পোষ মানিয়েছে [ANIMAL_nameIndef]</li>
+    <li>tale_noun->[TAMER_nameDef] পোষ মানিয়ে নিয়েছে [ANIMAL_nameIndef]</li>
+    <li>image->[TAMER_nameFull] পোষ মানানো হচ্ছে [ANIMAL_nameIndef] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] খাবার তুলে দিচ্ছে [ANIMAL_indefinite]-কে [circumstance_group] [ANIMAL_indefinite] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] 귓ে ফিসফিস করে [ANIMAL_indefinite] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] শান্ত করছে [ANIMAL_indefinite] বন্য [circumstance_group]</li>
+    <li>circumstance_phrase->மிகு జాగ్రత్తతో</li>
+    <li>circumstance_phrase->একটি হাসি নিয়ে</li>
+    <li>circumstance_phrase->மிகு বড় ক্লান্তি নিয়ে, কিন্তু খুশি।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] হিংস্রভাবে গোঙাচ্ছে।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] মনে হচ্ছে তার ঘুম পাচ্ছে এবং সে ভালোবাসার নেশায় মত্ত।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] মনে হচ্ছে [প্রাণীর নাম] সম্মোহিত অবস্থায় আছে।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] মনে হচ্ছে [প্রাণীর নাম]-এর ভয় লাগছে, কিন্তু সে আগ্রহ দেখাচ্ছে।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] fascinated হওয়ার মতো দেখাচ্ছে।</li>
+    <li>desc_sentence->[TAMER_nameDef] এর প্রতি অনেক ভালোবাসা প্রকাশ করে [ANIMAL_nameDef]।</li>
+  </TamedAnimal.rulePack.rulesStrings>
+  
+  <!-- EN: traded with someone -->
+  <TradedWith.label>বাণিজ্য</TradedWith.label>
+  <!-- EN:
+    <li>tale_noun->a trade between [SELLER_nameFull] and [BUYER_nameFull]</li>
+    <li>image->[BUYER_nameFull] buying goods from [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] selling goods to [BUYER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with greedy intent</li>
+    <li>circumstance_phrase->while [SELLER_nameDef] smirks at [BUYER_shortNameDef]</li>
+    <li>desc_sentence->[BUYER_nameDef] is examining [SELLER_nameDef]'s wares.</li>
+    <li>desc_sentence->[SELLER_nameDef] considers an item.</li>
+    <li>desc_sentence->[SELLER_nameDef] starts haggling.</li>
+    <li>desc_sentence->[BUYER_nameDef] argues with [SELLER_nameDef].</li>
+    <li>desc_sentence->[SELLER_nameDef] and [BUYER_nameDef] agree on a price.</li>
+    <li>desc_sentence->[BUYER_nameDef] pays for the item.</li>
+    <li>desc_sentence->[SELLER_nameDef] is counting [SELLER_possessive] money.</li>
+    <li>desc_sentence->[BUYER_nameDef] is taking [BUYER_possessive] goods.</li>
+  -->
+  <TradedWith.rulePack.rulesStrings>
+    <li>tale_noun->এর মধ্যে একটি বিনিময় হয়েছে [SELLER_nameFull] এবং [BUYER_nameFull]</li>
+    <li>image->[BUYER_nameFull] [BUYER_nameFull] থেকে [SELLER_nameFull]-এর জিনিস কিনছে [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] পণ্য বিক্রি করছে [BUYER_nameFull]-কে [BUYER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->লোভসহকারে</li>
+    <li>circumstance_phrase->যখন [SELLER_nameDef] হেসে তাকায় [BUYER_nameDef]</li>
+    <li>desc_sentence->[BUYER_nameDef] পণ্যগুলো পরীক্ষা করছে [SELLER_nameDef]।</li>
+    <li>desc_sentence->[SELLER_nameDef] একটি জিনিস বিবেচনা করে।</li>
+    <li>desc_sentence->[SELLER_nameDef] দর কষাকষি শুরু করে।</li>
+    <li>desc_sentence->[BUYER_nameDef] তর্ক করে [SELLER_nameDef]।</li>
+    <li>desc_sentence->[SELLER_nameDef] এবং [BUYER_nameDef] একটি মূল্য নির্ধারণ করে।</li>
+    <li>desc_sentence->[BUYER_nameDef] একটি জিনিসের জন্য অর্থ প্রদান করে।</li>
+    <li>desc_sentence->[SELLER_nameDef] তার টাকা গুনছে।</li>
+    <li>desc_sentence->[BUYER_nameDef] তার পণ্য নিয়ে যাচ্ছে।</li>
+  </TradedWith.rulePack.rulesStrings>
+  
+  <!-- EN: animal trained -->
+  <TrainedAnimal.label>প্রাণী প্রশিক্ষিত</TrainedAnimal.label>
+  <!-- EN:
+    <li>tale_noun->[TRAINER_nameDef] training [ANIMAL_nameDef]</li>
+    <li>tale_noun->the training of [ANIMAL_nameDef]</li>
+    <li>tale_noun->the training of [ANIMAL_nameDef] by [TRAINER_nameDef]</li>
+    <li>image->[TRAINER_nameFull] [train_syn] [ANIMAL_nameFull] in [TRAINABLE_label] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] teaching [TRAINABLE_label] to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] practicing [TRAINABLE_label] with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>train_syn->training</li>
+    <li>train_syn->drilling</li>
+    <li>train_syn->coaching</li>
+    <li>train_syn->indoctrinating</li>
+    <li>train_syn->educating</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>circumstance_phrase->as wild [Animal]s look on in disgust</li>
+    <li>circumstance_phrase->as [ANIMAL_nameDef] thinks of the simpler days when [ANIMAL_pronoun] was a feral beast</li>
+    <li>circumstance_phrase->as [TRAINER_nameDef] thinks of what's for lunch</li>
+    <li>circumstance_phrase->as the other colonists do actual work</li>
+    <li>desc_sentence->[TRAINER_nameDef] is showing pleasure.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is smiling.</li>
+    <li>desc_sentence->[TRAINER_nameDef] looks bored.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is threateningly brandishing [TRAINER_possessive] fist.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is wrinkling [TRAINER_possessive] brow in concentration.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks puzzled.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] has a weapon in [ANIMAL_possessive] mouth.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is emitting effortful grunts.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is shaking [TRAINER_possessive] head is frustration.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is trembling in fear.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears to be morphing into a [Vegetable].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is represented as a pile of power tools.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is half [Color] and half [Color].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is covered in scales.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is depicted with [Quantity_adjphrase] arms.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_definite].</li>
+  -->
+  <TrainedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[TRAINER_nameDef] প্রশিক্ষণ দিয়েছে [ANIMAL_nameDef]</li>
+    <li>tale_noun->[ANIMAL_nameDef] প্রশিক্ষণ পেয়েছে।</li>
+    <li>tale_noun->[ANIMAL_nameDef] প্রশিক্ষণ পেয়েছে [TRAINER_nameDef]</li>
+    <li>image->[TRAINER_nameFull] [train_syn] এ [ANIMAL_nameFull] তে [TRAINABLE_label] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] শেখানো [TRAINABLE_label] তে [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] অনুশীলন করছে [TRAINABLE_label] সাথে [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>train_syn->প্রশিক্ষণ দেওয়া হচ্ছে</li>
+    <li>train_syn->indoctrinating</li>
+    <li>train_syn->পোষ মানানো হচ্ছে</li>
+    <li>train_syn->শেখানো হচ্ছে</li>
+    <li>train_syn->শিক্ষা দেওয়া হচ্ছে</li>
+    <li>circumstance_phrase->অন্যান্যরা দেখার সময়</li>
+    <li>circumstance_phrase->যখন কিছু [Animal_Plural] বিতৃষ্ণার সাথে দেখে</li>
+    <li>circumstance_phrase->যখন [ANIMAL_nameDef] বন্যপ্রাণী থাকার দিনগুলির কথা fondly স্মরণ করে</li>
+    <li>circumstance_phrase->যখন [TRAINER_nameDef] তার পরবর্তী দুপুরের খাবার নিয়ে ভাবছে</li>
+    <li>circumstance_phrase->অন্যান্য বসতি স্থাপনকারীরা তাদের কাজ করার সময়</li>
+    <li>desc_sentence->[TRAINER_nameDef] সন্তুষ্ট দেখাচ্ছে[TRAINER_o_a]।</li>
+    <li>desc_sentence->[TRAINER_nameDef] হাসে।</li>
+    <li>desc_sentence->[TRAINER_nameDef] বিরক্ত দেখাচ্ছে[TRAINER_o_a]।</li>
+    <li>desc_sentence->[TRAINER_nameDef] মুষ্টিবদ্ধ হাত হুমকির সাথে নাড়াচাড়া করছে।</li>
+    <li>desc_sentence->[TRAINER_nameDef] ভ্রু কুঁচকে গেল।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] confused দেখাচ্ছে।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] তার মুখের মধ্যে একটি অস্ত্র আছে।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] ঘোঁৎ ঘোঁৎ করে।</li>
+    <li>desc_sentence->[TRAINER_nameDef] হতাশায় তার মাথা নাড়ছে।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] ভয়ে কাঁপছে।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] মেঝেতে ছটফট করছে।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] উল্লাসে লাফিয়ে উঠল।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] অর্ধেক [Color] অর্ধেক [Color]।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] ঘুমাচ্ছে।</li>
+    <li>desc_sentence->[TRAINER_nameDef] আছে মনে হচ্ছে [Quantity_adjphrase] বাহু।</li>
+    <li>desc_sentence->[TRAINER_nameDef] রূপান্তরিত হচ্ছে বলে মনে হচ্ছে [ANIMAL_definite]।</li>
+  </TrainedAnimal.rulePack.rulesStrings>
+  
+</LanguageData>

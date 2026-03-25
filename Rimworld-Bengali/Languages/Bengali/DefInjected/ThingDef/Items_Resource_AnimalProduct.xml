@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary egg (fert.) -->
+  <EggCassowaryFertilized.label>ক্যাসোয়ারি ডিম (উর্বর)</EggCassowaryFertilized.label>
+  <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
+  <EggCassowaryFertilized.description>একটি সারানো ক্যাসোয়ারি ডিম। সবকিছু ঠিকঠাক চললে, এটি একটি বাচ্চা ক্যাসোয়ারিতে পরিণত হবে। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggCassowaryFertilized.description>
+  
+  <!-- EN: cassowary egg (unfert.) -->
+  <EggCassowaryUnfertilized.label>ক্যাসোয়ারি ডিম (উর্বর নয়)</EggCassowaryUnfertilized.label>
+  <!-- EN: An unfertilized cassowary egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCassowaryUnfertilized.description>এটি একটি সারবিহীন ক্যাসাওয়ারি ডিম। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggCassowaryUnfertilized.description>
+  
+  <!-- EN: chicken egg (fert.) -->
+  <EggChickenFertilized.label>ডিমের বাচ্চা (সারানো)</EggChickenFertilized.label>
+  <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
+  <EggChickenFertilized.description>একটি সারগর্ভিত মুরগির ডিম। সবকিছু ঠিকঠাক চললে, এটি একটি ছানাতে পরিণত হবে। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ ভালো হয়।</EggChickenFertilized.description>
+  
+  <!-- EN: chicken egg (unfert.) -->
+  <EggChickenUnfertilized.label>ডিমের বাচ্চা (উর্বর নয়)</EggChickenUnfertilized.label>
+  <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggChickenUnfertilized.description>একটি সারবিহীন মুরগির ডিম। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে এটি অনেক, অনেক বেশি ভালো লাগবে।</EggChickenUnfertilized.description>
+  
+  <!-- EN: cobra egg (fert.) -->
+  <EggCobraFertilized.label>কোবরা ডিম (উর্বর)</EggCobraFertilized.label>
+  <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
+  <EggCobraFertilized.description>একটি সার নিষিক্ত কোবরা ডিম। সবকিছু ঠিকঠাক চললে, এটি একটি বাচ্চা কোবরাতে ফুটে উঠবে। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggCobraFertilized.description>
+  
+  <!-- EN: cobra egg (unfert.) -->
+  <EggCobraUnfertilized.label>কোবরা ডিম (উর্বর নয়)</EggCobraUnfertilized.label>
+  <!-- EN: An unfertilized cobra egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCobraUnfertilized.description>এটি একটি সারবিহীন কোবরা ডিম। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggCobraUnfertilized.description>
+  
+  <!-- EN: duck egg (fert.) -->
+  <EggDuckFertilized.label>ডিমের বাচ্চা (সার্বজনীন)</EggDuckFertilized.label>
+  <!-- EN: A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked. -->
+  <EggDuckFertilized.description>একটি সারগর্ভিত হাঁসের ডিম। সবকিছু ঠিকঠাক চললে, এটি একটি হাঁসের ছানাতে পরিণত হবে। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggDuckFertilized.description>
+  
+  <!-- EN: duck egg (unfert.) -->
+  <EggDuckUnfertilized.label>ডিমের বাচ্চা (উর্বর নয়)</EggDuckUnfertilized.label>
+  <!-- EN: An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggDuckUnfertilized.description>এটি একটি সারবিহীন হাঁসের ডিম। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে এটি অনেক, অনেক বেশি ভালো লাগবে।</EggDuckUnfertilized.description>
+  
+  <!-- EN: emu egg (fert.) -->
+  <EggEmuFertilized.label>ইমু ডিম (উর্বর)</EggEmuFertilized.label>
+  <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
+  <EggEmuFertilized.description>একটি নিষিক্ত এমু ডিম। সবকিছু ঠিকঠাক চললে এটি একটি বাচ্চা এমুতে পরিণত হবে। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggEmuFertilized.description>
+  
+  <!-- EN: emu egg (unfert.) -->
+  <EggEmuUnfertilized.label>ইমু ডিম (উর্বর নয়)</EggEmuUnfertilized.label>
+  <!-- EN: An unfertilized emu egg. It can be eaten raw, but it's much better cooked. -->
+  <EggEmuUnfertilized.description>এটি একটি সারবিহীন এমু ডিম। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggEmuUnfertilized.description>
+  
+  <!-- EN: goose egg (fert.) -->
+  <EggGooseFertilized.label>goose egg (উর্বর)</EggGooseFertilized.label>
+  <!-- EN: A fertilized goose egg. If all goes well, it should hatch into a baby goose. It can be eaten raw, but it's much better cooked. -->
+  <EggGooseFertilized.description>একটি সারগর্ভিত হাঁসের ডিম। সবকিছু ঠিকঠাক চললে, এটি একটি বাচ্চা হাঁসে পরিণত হবে। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggGooseFertilized.description>
+  
+  <!-- EN: goose egg (unfert.) -->
+  <EggGooseUnfertilized.label>goose egg (unfert.)</EggGooseUnfertilized.label>
+  <!-- EN: An unfertilized goose egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggGooseUnfertilized.description>একটি সারবিহীন হাঁসের ডিম। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে এটি অনেক, অনেক বেশি ভালো লাগে।</EggGooseUnfertilized.description>
+  
+  <!-- EN: iguana egg (fert.) -->
+  <EggIguanaFertilized.label>ইগুয়ানা ডিম (উর্বর)</EggIguanaFertilized.label>
+  <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
+  <EggIguanaFertilized.description>একটি নিষিক্ত ইগুয়ানা ডিম। সবকিছু ঠিকঠাক চললে, এটি একটি বাচ্চা ইগুয়ানাতে পরিণত হবে। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggIguanaFertilized.description>
+  
+  <!-- EN: iguana egg (unfert.) -->
+  <EggIguanaUnfertilized.label>ইগুয়ানা ডিম (উর্বর নয়)</EggIguanaUnfertilized.label>
+  <!-- EN: An unfertilized iguana egg. It can be eaten raw, but it's much better cooked. -->
+  <EggIguanaUnfertilized.description>এটি একটি সারবিহীন ইগুয়ানা ডিম। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggIguanaUnfertilized.description>
+  
+  <!-- EN: ostrich egg (fert.) -->
+  <EggOstrichFertilized.label>উটপাখির ডিম (সার্বজনীন)</EggOstrichFertilized.label>
+  <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
+  <EggOstrichFertilized.description>একটি উর্বর উটপাখি ডিম। সবকিছু ঠিকঠাক চললে, এটি একটি বাচ্চা উটপাখিতে ফুটে উঠবে। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggOstrichFertilized.description>
+  
+  <!-- EN: ostrich egg (unfert.) -->
+  <EggOstrichUnfertilized.label>উটপাখির ডিম (উর্বর নয়)</EggOstrichUnfertilized.label>
+  <!-- EN: An unfertilized ostrich egg. It can be eaten raw, but it's much better cooked. -->
+  <EggOstrichUnfertilized.description>এটি একটি সারবিহীন উটপাখির ডিম। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggOstrichUnfertilized.description>
+  
+  <!-- EN: tortoise egg (fert.) -->
+  <EggTortoiseFertilized.label>কচ্ছপ ডিম (উর্বর)</EggTortoiseFertilized.label>
+  <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
+  <EggTortoiseFertilized.description>একটি সার নিষিক্ত কচ্ছপের ডিম। সবকিছু ঠিকঠাক চললে, এটি একটি বাচ্চা কচ্ছপে পরিণত হবে। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ ভালো হয়।</EggTortoiseFertilized.description>
+  
+  <!-- EN: tortoise egg (unfert.) -->
+  <EggTortoiseUnfertilized.label>কচ্ছপ ডিম (উর্বর নয়)</EggTortoiseUnfertilized.label>
+  <!-- EN: An unfertilized tortoise egg. It can be eaten raw, but it's much better cooked. -->
+  <EggTortoiseUnfertilized.description>এটি একটি সারবিহীন কচ্ছপের ডিম। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggTortoiseUnfertilized.description>
+  
+  <!-- EN: turkey egg (fert.) -->
+  <EggTurkeyFertilized.label>টার্কি ডিম (সারানো)</EggTurkeyFertilized.label>
+  <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
+  <EggTurkeyFertilized.description>একটি সার নিষিক্ত টার্কি ডিম। সবকিছু ঠিকঠাক চললে, এটি একটি বাচ্চা টার্কিতে ফুটে উঠবে। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে স্বাদ অনেক ভালো হয়।</EggTurkeyFertilized.description>
+  
+  <!-- EN: turkey egg (unfert.) -->
+  <EggTurkeyUnfertilized.label>টার্কি ডিম (উর্বর নয়)</EggTurkeyUnfertilized.label>
+  <!-- EN: An unfertilized turkey egg. It can be eaten raw, but it's much better cooked. -->
+  <EggTurkeyUnfertilized.description>এটি একটি সারবিহীন টার্কি ডিম। এটি কাঁচা খাওয়া যেতে পারে, তবে রান্না করলে এটি অনেক ভালো লাগবে।</EggTurkeyUnfertilized.description>
+  
+  <!-- EN: insect jelly -->
+  <InsectJelly.label>কীটপতঙ্গ জেলি</InsectJelly.label>
+  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots.\n\nOddly, its texture and nutrient balance makes it an ideal baby food. -->
+  <InsectJelly.description>অতিরিক্ত আকারের পোকামাকড় দ্বারা সংরক্ষিত এবং খাদ্য হিসেবে ব্যবহৃত জেলি। এটি মসৃণ, সমৃদ্ধ এবং যারা এটি গ্রহণ করে তাদের বিনোদনের চাহিদা পূরণ করে। এর অনন্য জৈবিক বৈশিষ্ট্যের কারণে, এটি প্রায় যেকোনো প্রাণীকে পুষ্ট করতে পারে এবং কখনো নষ্ট হয় না।\n\nআশ্চর্যজনকভাবে, এর গঠন এবং পুষ্টির ভারসাম্য এটিকে আদর্শ শিশুদের খাবার করে তোলে।</InsectJelly.description>
+  
+  <!-- EN: milk -->
+  <Milk.label>দুধ</Milk.label>
+  <!-- EN: Milk from an animal.\n\nMilk can be fed to human babies. -->
+  <Milk.description>একটি প্রাণী থেকে প্রাপ্ত দুধ।\n\nদুধ মানব শিশুকে খাওয়ানো যেতে পারে।</Milk.description>
+  
+  <!-- EN: skull -->
+  <Skull.label>খুলি</Skull.label>
+  <!-- EN: A human skull. -->
+  <Skull.description>একটি মানুষের খুলি।</Skull.description>
+  
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] of [faction_name], has sent us a message. [faction_leader_pronoun] wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.[extraLeaderPart][favorRewardDetails]</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nSuccessful peace talks can earn your negotiator a small amount of personal [faction_royalFavorLabel] with [faction_name].</li>
+    <li>favorRewardDetails-></li>
+    <li>extraLeaderPart(priority=1)->\n\n[leaderRoleEffect].[leaderPawnInfo]</li>
+    <li>extraLeaderPart-></li>
+    <li>leaderRoleEffect->Other factions will respect you more if you send your leader to handle the negotiations</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leaderTitle] [playerFaction_leader_nameFull] will get a bonus to the chance of a successful outcome.</li>
+    <li>leaderPawnInfo-></li>
+  -->
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] এর দল থেকে [faction_name], একটি বার্তা পাঠিয়েছে। [faction_leader_pronoun] আমাদের সাথে কাছাকাছি একটি স্থানে কথা বলতে চায়।\n\nএটি তাদের দলের সাথে সম্পর্ক উন্নত এবং উপহার পাওয়ার দারুণ সুযোগ হতে পারে, তবে সাবধান থাকুন, দুর্বল দর কষাকষিকারী বেশি ক্ষতি করতে পারে এবং এমনকি তাদের রাগান্বিতও করতে পারে।[extraLeaderPart][favorRewardDetails]</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nসফল শান্তি আলোচনা আপনার আলোচককে সামান্য পরিমাণ [faction_royalFavorLabel] এই দলটির সাথে [faction_name]।</li>
+    <li>favorRewardDetails-></li>
+    <li>extraLeaderPart-></li>
+    <li>extraLeaderPart(priority=1)->\n\n[leaderRoleEffect][leaderRoleEffect].[leaderPawnInfo][leaderPawnInfo]</li>
+    <li>leaderRoleEffect->অন্যান্য দলগুলি আপনার প্রতি আরও বেশি সম্মান জানাবে যদি আপনি আপনার নেতাকে আলোচনার দায়িত্ব নিতে পাঠান।</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)->[playerFaction_leaderTitle] [playerFaction_leader_nameFull] সফল ফলাফলের সম্ভাবনা বাড়বে।</li>
+    <li>leaderPawnInfo-></li>
+  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[faction_leader_nameDef]'s [peaceTalks]</li>
+    <li>questName->[peaceTalks] with [faction_leader_nameDef]</li>
+    <li>questName->The [peaceTalks]</li>
+    <li>questName->[peaceTalks]</li>
+    <li>peaceTalks->Peace Talks</li>
+    <li>peaceTalks->Diplomacy</li>
+    <li>peaceTalks->Meeting</li>
+  -->
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+    <li>questName->[peaceTalks_mas] এর [faction_leader_nameDef]</li>
+    <li>questName->[peaceTalks_neu] সঙ্গে [faction_leader_nameDef]</li>
+    <li>questName->টি [peaceTalks_fem]</li>
+    <li>questName->গুলো [peaceTalks_pl]</li>
+    <li>questName->[peaceTalks_neu]</li>
+    <li>peaceTalks_mas->শান্তি আলোচনা</li>
+    <li>peaceTalks_neu->শান্তি আলোচনা</li>
+    <li>peaceTalks_pl->শান্তি আলোচনা</li>
+    <li>peaceTalks_neu->কূটনীতি</li>
+    <li>peaceTalks_neu->সভা</li>
+    <li>peaceTalks_fem->কূটনীতি</li>
+    <li>peaceTalks_fem->সভা</li>
+  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>La misión expiró: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>La oferta de conversaciones de paz con la facción [faction_name] ha expirado. Has fallado la misión [resolvedQuestName].</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

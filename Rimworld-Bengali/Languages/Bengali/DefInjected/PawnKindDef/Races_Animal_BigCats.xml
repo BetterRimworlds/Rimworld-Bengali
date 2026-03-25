@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar --><!-- EN: puma -->
+  <Cougar.label>পিউমা</Cougar.label><!-- EN: pumas -->
+  <Cougar.labelPlural>পিউমা</Cougar.labelPlural><!-- EN: cría de puma -->
+  <Cougar.lifeStages.0.label>পুম্যা শাবক</Cougar.lifeStages.0.label><!-- EN: cría de puma -->
+  <Cougar.lifeStages.0.labelPlural>পুম্যা শাবক</Cougar.lifeStages.0.labelPlural><!-- EN: cachorro de puma -->
+  <Cougar.lifeStages.1.label>পুমা শাবক</Cougar.lifeStages.1.label><!-- EN: cachorros de puma -->
+  <Cougar.lifeStages.1.labelPlural>পুম্যা শাবক</Cougar.lifeStages.1.labelPlural><!-- EN: puma -->
+  <Cougar.lifeStages.2.label>পিউমা</Cougar.lifeStages.2.label><!-- EN: pumas -->
+  <Cougar.lifeStages.2.labelPlural>পিউমা</Cougar.lifeStages.2.labelPlural>
+  
+  <!-- EN: lynx --><!-- EN: lince -->
+  <Lynx.label>লিন্স</Lynx.label>
+  <!-- EN: lynx --><!-- EN: linces -->
+  <Lynx.labelPlural>লিঙ্ক্স</Lynx.labelPlural>
+  <!-- EN: lynx kitten --><!-- EN: cría de lince -->
+  <Lynx.lifeStages.lynx_kitten.label>লিঙ্ক্স শাবক</Lynx.lifeStages.lynx_kitten.label><!-- EN: crías de lince -->
+  <Lynx.lifeStages.lynx_kitten.labelPlural>লিঙ্ক্স শাবক</Lynx.lifeStages.lynx_kitten.labelPlural><!-- EN: cachorro de lince -->
+  <Lynx.lifeStages.1.label>লিঙ্ক্স ছানা</Lynx.lifeStages.1.label><!-- EN: cachorros de lince -->
+  <Lynx.lifeStages.1.labelPlural>লিঙ্ক্স শাবক</Lynx.lifeStages.1.labelPlural><!-- EN: lince -->
+  <Lynx.lifeStages.2.label>লিঙ্ক্স</Lynx.lifeStages.2.label><!-- EN: linces -->
+  <Lynx.lifeStages.2.labelPlural>লিন্সেস</Lynx.lifeStages.2.labelPlural>
+  
+  <!-- EN: panther --><!-- EN: pantera -->
+  <Panther.label>প্যানটেরা</Panther.label><!-- EN: panteras -->
+  <Panther.labelPlural>প্যানটেরাস</Panther.labelPlural><!-- EN: cría de pantera -->
+  <Panther.lifeStages.0.label>প্যান্থার চারা</Panther.lifeStages.0.label><!-- EN: crías de pantera -->
+  <Panther.lifeStages.0.labelPlural>প্যান্থার শাবক</Panther.lifeStages.0.labelPlural><!-- EN: cachorro de pantera -->
+  <Panther.lifeStages.1.label>প্যান্থার শাবক</Panther.lifeStages.1.label><!-- EN: cachorros de pantera -->
+  <Panther.lifeStages.1.labelPlural>প্যান্থার শাবক</Panther.lifeStages.1.labelPlural><!-- EN: pantera -->
+  <Panther.lifeStages.2.label>প্যানটেরা</Panther.lifeStages.2.label><!-- EN: panteras -->
+  <Panther.lifeStages.2.labelPlural>প্যানটেরাস</Panther.lifeStages.2.labelPlural>
+  
+</LanguageData>

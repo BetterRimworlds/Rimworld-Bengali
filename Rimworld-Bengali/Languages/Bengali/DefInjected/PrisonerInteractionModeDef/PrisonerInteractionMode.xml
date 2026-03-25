@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recruit -->
+  <AttemptRecruit.label>নিয়োগ</AttemptRecruit.label>
+  <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
+  <AttemptRecruit.description>জেলরক্ষীরা বন্দীটিকে নিয়োগের চেষ্টা করবে। বন্দীটির যদি এখনও প্রতিরোধ থাকে, তবে জেলরক্ষীরা সেটি কমাতে তাদের সাথে কথা বলবে।</AttemptRecruit.description>
+  
+  <!-- EN: execute -->
+  <Execution.label>কার্যকর করুন</Execution.label>
+  <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
+  <Execution.description>একজন রক্ষক বন্দীটিকে তৎক্ষণাৎ কেটে হত্যা করবে। এটি অন্যান্য বন্দী এবং উপনিবেশবাদীদের মেজাজকে প্রভাবিত করতে পারে।</Execution.description>
+  
+  <!-- EN: maintain only -->
+  <MaintainOnly.label>রক্ষণাবেক্ষণ করুন</MaintainOnly.label>
+  <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
+  <MaintainOnly.description>বন্দীকে শুধু খাওয়ান এবং তাদের মৌলিক চাহিদা পূরণ করুন, অন্য কোনো মিথস্ক্রিয়া করার চেষ্টা করবেন না।</MaintainOnly.description>
+  
+  <!-- EN: reduce resistance only -->
+  <ReduceResistance.label>প্রতিরোধ হ্রাস করুন</ReduceResistance.label>
+  <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
+  <ReduceResistance.description>যদি বন্দীর প্রতিরোধ অবশিষ্ট থাকে, তবে ওয়ার্ডেনরা তাদের প্রতিরোধ কমানোর জন্য কথা বলবে। কোনো নিয়োগের চেষ্টা করা হবে না।</ReduceResistance.description>
+  
+  <!-- EN: release -->
+  <Release.label>মুক্তি</Release.label>
+  <!-- EN: A warden will release the prisoner. -->
+  <Release.description>একজন রক্ষক বন্দীটিকে মুক্তি দেবে।</Release.description>
+  
+</LanguageData>

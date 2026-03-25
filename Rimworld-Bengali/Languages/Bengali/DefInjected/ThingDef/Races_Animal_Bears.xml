@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>গ্রিজলি ভালুক</Bear_Grizzly.label>
+  <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Grizzly.description>এটি একটি বিশাল সর্বভুক স্তন্যপায়ী প্রাণী, যা ঠান্ডা জলবায়ুর সাথে মানিয়ে নিয়েছে। ভাল্লুকের পুরু চর্বি এবং পশম শীতকালে তাদের উষ্ণ রাখে।\n\nমাছ, ফল, মধু এবং খুঁজে পাওয়া মাংস তাদের সাধারণ খাদ্যতালিকায় অন্তর্ভুক্ত হলেও, গ্রিজলি ভাল্লুক তার বিশাল শক্তি এবং মারাত্মক থাবা ব্যবহার করে জীবন্ত শিকার মারতে সক্ষম। এই বিশাল প্রাণীদের জন্য তারা আশ্চর্যজনকভাবে দ্রুত।</Bear_Grizzly.description>
+  <!-- EN: bear meat -->
+  <Bear_Grizzly.race.meatLabel>ভাল্লুক মাংস</Bear_Grizzly.race.meatLabel>
+  <!-- EN: left claw -->
+  <Bear_Grizzly.tools.left_claw.label>বাম থাবা</Bear_Grizzly.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Bear_Grizzly.tools.left_claw.labelNoLocation>নখর</Bear_Grizzly.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Bear_Grizzly.tools.right_claw.label>ডান থাবা</Bear_Grizzly.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Bear_Grizzly.tools.right_claw.labelNoLocation>নখর</Bear_Grizzly.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Bear_Grizzly.tools.head.label>মাথা</Bear_Grizzly.tools.head.label>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>মেরু ভালুক</Bear_Polar.label>
+  <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Polar.description>তুষারাবৃত জলবায়ুর সাথে খাপ খাইয়ে নেওয়া একটি বিশাল সাদা ভালুক। এদের পুরু চর্বি এবং পশম শীতকালে শরীর গরম রাখে।\n\nমাছ এবং খুঁজে পাওয়া মাংস এদের প্রধান খাদ্য হলেও, মেরু ভালুক তার বিশাল শক্তি এবং মারাত্মক থাবা ব্যবহার করে জীবন্ত শিকারও করতে পারে। এই বিশাল আকারের প্রাণীদের জন্য তারা আশ্চর্যজনকভাবে দ্রুত।</Bear_Polar.description>
+  <!-- EN: left claw -->
+  <Bear_Polar.tools.left_claw.label>বাম থাবা</Bear_Polar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Bear_Polar.tools.left_claw.labelNoLocation>নখর</Bear_Polar.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Bear_Polar.tools.right_claw.label>ডান থাবা</Bear_Polar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Bear_Polar.tools.right_claw.labelNoLocation>নখর</Bear_Polar.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Bear_Polar.tools.head.label>মাথা</Bear_Polar.tools.head.label>
+  
+</LanguageData>

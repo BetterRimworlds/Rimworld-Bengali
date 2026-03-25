@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wake-up withdrawal -->
+  <WakeUpWithdrawal.stages.wakeup_withdrawal.label>ওয়েক-আপ প্রত্যাহার</WakeUpWithdrawal.stages.wakeup_withdrawal.label>
+  <!-- EN: I feel all fuzzy and unfocused. And I'm so tired. -->
+  <WakeUpWithdrawal.stages.wakeup_withdrawal.description>আমার সবকিছু ঝাপসা লাগছে এবং মনোযোগ দিতে পারছি না। আর আমি খুব ক্লান্ত।</WakeUpWithdrawal.stages.wakeup_withdrawal.description>
+  
+</LanguageData>

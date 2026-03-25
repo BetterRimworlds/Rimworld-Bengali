@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grand sculpture -->
+  <SculptureGrand.label>জমকালো ভাস্কর্য</SculptureGrand.label>
+  <!-- EN: A huge sculpture sized to dominate a room. -->
+  <SculptureGrand.description>একটি বিশাল ভাস্কর্য যা একটি ঘরকে সম্পূর্ণরূপে প্রভাবিত করার জন্য তৈরি করা হয়েছে।</SculptureGrand.description>
+  
+  <!-- EN: large sculpture -->
+  <SculptureLarge.label>বড় ভাস্কর্য</SculptureLarge.label>
+  <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+  <SculptureLarge.description>একজন মানুষের আকারের উপাদান শৈল্পিক রূপে খোদাই করা হয়েছে।</SculptureLarge.description>
+  
+  <!-- EN: small sculpture -->
+  <SculptureSmall.label>ছোট ভাস্কর্য</SculptureSmall.label>
+  <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+  <SculptureSmall.description>একটি মানবদেহের ধড়-আকারের উপাদানকে শৈল্পিক রূপে খোদাই করা হয়েছে।</SculptureSmall.description>
+  
+  <!-- EN: snowman -->
+  <Snowman.label>স্নোম্যান</Snowman.label>
+  <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
+  <Snowman.description>এটি বরফের বড় স্তূপ দিয়ে তৈরি, যা একজন মানুষের মতো দেখতে। মানুষজন আনন্দ করার জন্য এগুলো তৈরি করে।</Snowman.description>
+  
+</LanguageData>

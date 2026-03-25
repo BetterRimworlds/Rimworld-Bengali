@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Save -->
+  <SaveButton>সংরক্ষণ করুন</SaveButton>
+  <!-- EN: Clear -->
+  <ClearBinding>পরিষ্কার করুন</ClearBinding>
+  <!-- EN: Reset to default -->
+  <ResetBinding>ডিফল্টে রিসেট করুন</ResetBinding>
+  <!-- EN: Left-click to bind this key or right-click for options -->
+  <BindingButtonToolTip>বাম-ক্লিক করে এই কী বাঁধুন অথবা অপশনগুলির জন্য ডান-ক্লিক করুন।</BindingButtonToolTip>
+  <!-- EN: Click to bind this key or left trigger button for options -->
+  <BindingButtonToolTipController>অপশনগুলোর জন্য এই কী অথবা বাম ট্রিগার বাটনটি বাঁধতে ক্লিক করুন।</BindingButtonToolTipController>
+  <!-- EN: Press any key or Esc to cancel... -->
+  <PressAnyKeyOrEsc>যেকোনো কী অথবা Esc বাতিল করতে চাপুন…</PressAnyKeyOrEsc>
+  <!-- EN: Press any button or {Key:Cancel} to cancel... -->
+  <PressAnyKeyOrEscController>যেকোনো বোতাম চাপুন অথবা বাতিল করতে {Key:Cancel} চাপুন…</PressAnyKeyOrEscController>
+  <!-- EN: Key binding overwritten: {0} -->
+  <KeyBindingOverwritten>কী বাইন্ডিং ওভাররাইট করা হয়েছে: {0}</KeyBindingOverwritten>
+  
+</LanguageData>

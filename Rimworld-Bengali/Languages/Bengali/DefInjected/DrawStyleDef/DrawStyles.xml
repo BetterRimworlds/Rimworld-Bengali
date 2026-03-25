@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: angled line -->
+  <AngledLine.label>কোণীয় রেখা</AngledLine.label>
+  
+  <!-- EN: empty oval -->
+  <EmptyOval.label>খালি ডিম্বাকৃতি</EmptyOval.label>
+  
+  <!-- EN: empty rectangle -->
+  <EmptyRectangle.label>খালি আয়তক্ষেত্র</EmptyRectangle.label>
+  
+  <!-- EN: filled oval -->
+  <FilledOval.label>পূর্ণ ডিম্বাকৃতি</FilledOval.label>
+  
+  <!-- EN: filled rectangle -->
+  <FilledRectangle.label>ভর্তি আয়তক্ষেত্র</FilledRectangle.label>
+  
+  <!-- EN: line -->
+  <Line.label>লাইন</Line.label>
+  
+</LanguageData>

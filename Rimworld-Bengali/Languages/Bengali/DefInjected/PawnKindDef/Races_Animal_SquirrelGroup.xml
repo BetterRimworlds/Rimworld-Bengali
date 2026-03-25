@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat --><!-- EN: ratabum -->
+  <Boomrat.label>রাতাবুম</Boomrat.label><!-- EN: ratas-bum -->
+  <Boomrat.labelPlural>রাতাস-বাম</Boomrat.labelPlural><!-- EN: cría de ratabum -->
+  <Boomrat.lifeStages.0.label>রাতাবাম শাবক</Boomrat.lifeStages.0.label><!-- EN: crías de ratabum -->
+  <Boomrat.lifeStages.0.labelPlural>রাতাবাম শাবক</Boomrat.lifeStages.0.labelPlural><!-- EN: ratabum joven -->
+  <Boomrat.lifeStages.1.label>রাতাবুম তরুণ</Boomrat.lifeStages.1.label><!-- EN: ratas-bum jóvenes -->
+  <Boomrat.lifeStages.1.labelPlural>রাতাস-বাম অল্পবয়সী</Boomrat.lifeStages.1.labelPlural><!-- EN: ratabum -->
+  <Boomrat.lifeStages.2.label>রাতাবুম</Boomrat.lifeStages.2.label><!-- EN: ratas-bum -->
+  <Boomrat.lifeStages.2.labelPlural>রাতাস-বাম</Boomrat.lifeStages.2.labelPlural>
+  
+  <!-- EN: iguana --><!-- EN: iguana -->
+  <Iguana.label>ইগুয়ানা</Iguana.label><!-- EN: iguanas -->
+  <Iguana.labelPlural>ইগুয়ানা</Iguana.labelPlural><!-- EN: cría de iguana -->
+  <Iguana.lifeStages.0.label>ইগুয়ানা বাচ্চা</Iguana.lifeStages.0.label><!-- EN: crías de iguana -->
+  <Iguana.lifeStages.0.labelPlural>ইগুয়ানা বাচ্চা</Iguana.lifeStages.0.labelPlural><!-- EN: iguana joven -->
+  <Iguana.lifeStages.1.label>ইগুয়ানা বাচ্চা</Iguana.lifeStages.1.label><!-- EN: iguanas jóvenes -->
+  <Iguana.lifeStages.1.labelPlural>ইগুয়ানা অল্পবয়সী</Iguana.lifeStages.1.labelPlural><!-- EN: iguana -->
+  <Iguana.lifeStages.2.label>ইগুয়ানা</Iguana.lifeStages.2.label><!-- EN: iguanas -->
+  <Iguana.lifeStages.2.labelPlural>ইগুয়ানা</Iguana.lifeStages.2.labelPlural>
+  
+  <!-- EN: raccoon --><!-- EN: mapache -->
+  <Raccoon.label>ম্যাপাচে</Raccoon.label><!-- EN: mapaches -->
+  <Raccoon.labelPlural>ম্যাপাচেস</Raccoon.labelPlural><!-- EN: cría de mapache -->
+  <Raccoon.lifeStages.0.label>র‍্যাকুন শাবক</Raccoon.lifeStages.0.label><!-- EN: crías de mapache -->
+  <Raccoon.lifeStages.0.labelPlural>র‍্যাকুন শাবক</Raccoon.lifeStages.0.labelPlural><!-- EN: mapache joven -->
+  <Raccoon.lifeStages.1.label>ম্যাপাচে ইয়ং</Raccoon.lifeStages.1.label><!-- EN: mapaches jóvenes -->
+  <Raccoon.lifeStages.1.labelPlural>ম্যাপাচেস অল্পবয়স্ক</Raccoon.lifeStages.1.labelPlural><!-- EN: mapache -->
+  <Raccoon.lifeStages.2.label>ম্যাপাচে</Raccoon.lifeStages.2.label><!-- EN: mapaches -->
+  <Raccoon.lifeStages.2.labelPlural>ম্যাপাচেস</Raccoon.lifeStages.2.labelPlural>
+  
+  <!-- EN: rat --><!-- EN: rata -->
+  <Rat.label>রাতা</Rat.label><!-- EN: ratas -->
+  <Rat.labelPlural>রাতাস</Rat.labelPlural><!-- EN: cría de rata -->
+  <Rat.lifeStages.0.label>ইঁদুরের বাচ্চা</Rat.lifeStages.0.label><!-- EN: crías de rata -->
+  <Rat.lifeStages.0.labelPlural>ইঁদুরের বাচ্চা</Rat.lifeStages.0.labelPlural><!-- EN: rata joven -->
+  <Rat.lifeStages.1.label>রাতা তরুণ</Rat.lifeStages.1.label><!-- EN: ratas jóvenes -->
+  <Rat.lifeStages.1.labelPlural>রাতাছানা</Rat.lifeStages.1.labelPlural><!-- EN: rata -->
+  <Rat.lifeStages.2.label>রাতা</Rat.lifeStages.2.label><!-- EN: ratas -->
+  <Rat.lifeStages.2.labelPlural>রাতা</Rat.lifeStages.2.labelPlural>
+  
+  <!-- EN: squirrel --><!-- EN: ardilla -->
+  <Squirrel.label>আর্ডিলা</Squirrel.label><!-- EN: ardillas -->
+  <Squirrel.labelPlural>আর্দিল্লাস</Squirrel.labelPlural><!-- EN: cría de ardilla -->
+  <Squirrel.lifeStages.0.label>गिलহরি শাবক</Squirrel.lifeStages.0.label><!-- EN: cría de ardilla -->
+  <Squirrel.lifeStages.0.labelPlural>স্ক্র্যাপার চারা</Squirrel.lifeStages.0.labelPlural><!-- EN: ardilla joven -->
+  <Squirrel.lifeStages.1.label>আরডিলা বাচ্চা</Squirrel.lifeStages.1.label><!-- EN: ardillas jóvenes -->
+  <Squirrel.lifeStages.1.labelPlural>আরদিল্লাছানা</Squirrel.lifeStages.1.labelPlural><!-- EN: ardilla -->
+  <Squirrel.lifeStages.2.label>আর্ডিলা</Squirrel.lifeStages.2.label><!-- EN: ardillas -->
+  <Squirrel.lifeStages.2.labelPlural>আর্দিল্লাস</Squirrel.lifeStages.2.labelPlural>
+  
+</LanguageData>

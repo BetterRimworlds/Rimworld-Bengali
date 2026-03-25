@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychite -->
+  <Chemical_Psychite.label>সাইকাইট</Chemical_Psychite.label>
+  <!-- EN: Because of a psychite addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <Chemical_Psychite.description>সাইকাইট আসক্তির কারণে, এই ব্যক্তিকে প্রত্যাহার উপসর্গ এড়ানোর জন্য নিয়মিতভাবে মাদক সেবন করতে হয়।</Chemical_Psychite.description>
+  
+</LanguageData>

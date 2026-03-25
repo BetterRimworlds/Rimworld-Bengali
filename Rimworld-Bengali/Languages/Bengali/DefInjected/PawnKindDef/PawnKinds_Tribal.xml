@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archer --><!-- EN: arquero -->
+  <Tribal_Archer.label>আর্কেরো</Tribal_Archer.label><!-- EN: arquera -->
+  <Tribal_Archer.labelFemale>আর্কেরা</Tribal_Archer.labelFemale><!-- EN: arqueros -->
+  <Tribal_Archer.labelPlural>আর্ক্বেরোস</Tribal_Archer.labelPlural>
+  
+  <!-- EN: berserker --><!-- EN: bersérker -->
+  <Tribal_Berserker.label>বার্সার্কার</Tribal_Berserker.label><!-- EN: bersérker -->
+  <Tribal_Berserker.labelPlural>বার্সার্কার</Tribal_Berserker.labelPlural>
+  
+  <!-- EN: berserker chief --><!-- EN: jefe bersérker -->
+  <Tribal_ChiefMelee.label>জেফে বার্সার্কার</Tribal_ChiefMelee.label><!-- EN: jefa bersérker -->
+  <Tribal_ChiefMelee.labelFemale>জেফা বার্সার্কার</Tribal_ChiefMelee.labelFemale><!-- EN: jefes bersérker -->
+  <Tribal_ChiefMelee.labelPlural>জেফেস বার্সার্কার</Tribal_ChiefMelee.labelPlural>
+  
+  <!-- EN: archer chief --><!-- EN: jefe arquero -->
+  <Tribal_ChiefRanged.label>জেফে আর্কেরো</Tribal_ChiefRanged.label><!-- EN: jefa arquera -->
+  <Tribal_ChiefRanged.labelFemale>জেফা আর্কুয়েরা</Tribal_ChiefRanged.labelFemale><!-- EN: jefes arqueros -->
+  <Tribal_ChiefRanged.labelPlural>জেফেস আর্চার্স</Tribal_ChiefRanged.labelPlural>
+  
+  <!-- EN: heavy archer --><!-- EN: arquero pesado -->
+  <Tribal_HeavyArcher.label>ভারী তীরন্দাজ</Tribal_HeavyArcher.label><!-- EN: arquera pesada -->
+  <Tribal_HeavyArcher.labelFemale>আর্কেরা পেসাডা</Tribal_HeavyArcher.labelFemale><!-- EN: arqueros pesados -->
+  <Tribal_HeavyArcher.labelPlural>ভারী তীরন্দাজ</Tribal_HeavyArcher.labelPlural>
+  
+  <!-- EN: hunter --><!-- EN: cazador -->
+  <Tribal_Hunter.label>ক্যাজাডোর</Tribal_Hunter.label><!-- EN: cazadora -->
+  <Tribal_Hunter.labelFemale>ক্যাজাডোরা</Tribal_Hunter.labelFemale><!-- EN: cazadores -->
+  <Tribal_Hunter.labelPlural>কাজাডোরেস</Tribal_Hunter.labelPlural>
+  
+  <!-- EN: penitent --><!-- EN: penitente -->
+  <Tribal_Penitent.label>পেনিটেন্তে</Tribal_Penitent.label><!-- EN: penitentes -->
+  <Tribal_Penitent.labelPlural>পেনিটেন্তেস</Tribal_Penitent.labelPlural>
+  
+  <!-- EN: trader --><!-- EN: comerciante -->
+  <Tribal_Trader.label>বণিক</Tribal_Trader.label><!-- EN: comerciantes -->
+  <Tribal_Trader.labelPlural>বণিকগণ</Tribal_Trader.labelPlural>
+  
+  <!-- EN: warrior --><!-- EN: guerrero -->
+  <Tribal_Warrior.label>গেরেরো</Tribal_Warrior.label><!-- EN: guerrera -->
+  <Tribal_Warrior.labelFemale>গেরেরা</Tribal_Warrior.labelFemale><!-- EN: guerreros -->
+  <Tribal_Warrior.labelPlural>গেরেরোস</Tribal_Warrior.labelPlural>
+  
+</LanguageData>

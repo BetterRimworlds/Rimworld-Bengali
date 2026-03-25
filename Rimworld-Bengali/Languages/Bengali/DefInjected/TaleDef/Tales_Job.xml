@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attended party -->
+  <AttendedParty.label>পার্টিতে অংশগ্রহণ</AttendedParty.label>
+  <!-- EN:
+    <li>tale_noun->[ATTENDER_nameDef] attending [ORGANIZER_nameDef]'s party</li>
+    <li>tale_noun->[ATTENDER_nameDef] relaxing with [ORGANIZER_nameDef] at a party</li>
+    <li>image->[ATTENDER_nameFull] having a conversation with [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] getting a drink from [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] chatting with [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] welcoming [ATTENDER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] introducing [ATTENDER_nameFull] to a friend [circumstance_group]</li>
+    <li>circumstance_phrase->with a broad grin</li>
+    <li>circumstance_phrase->with a laugh</li>
+    <li>circumstance_phrase->with a [AdjectiveFriendly] smile</li>
+    <li>circumstance_phrase->while laughing uproariously</li>
+    <li>circumstance_phrase->while [AdjectiveFriendly]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are involved in the conversation.</li>
+    <li>desc_sentence->The area is decorated with [Color] and [Color].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.</li>
+  -->
+  <AttendedParty.rulePack.rulesStrings>
+    <li>tale_noun->[ATTENDER_nameDef] পার্টিতে যোগ দিয়েছিল [ORGANIZER_nameDef]</li>
+    <li>tale_noun->[ATTENDER_nameDef] বিশ্রাম নিল সাথে [ORGANIZER_nameDef] একটি অনুষ্ঠানে</li>
+    <li>image->[ATTENDER_nameFull] কথা বলেন [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] পানীয় গ্রহণ করছে [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] কথা বলছেন [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] স্বাগত জানাচ্ছেন [ATTENDER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] তাকে পরিচয় করিয়ে দিচ্ছেন [ATTENDER_nameFull] একজন বন্ধুকে [circumstance_group]</li>
+    <li>circumstance_phrase->একটি বড় হাসি নিয়ে</li>
+    <li>circumstance_phrase->হাসতে হাসতে</li>
+    <li>circumstance_phrase->একটি হাসি নিয়ে [AdjectiveFriendly_Fem]</li>
+    <li>circumstance_phrase->হাসতে হাসতে</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveFriendly]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] কথোপকথনে আছেন।</li>
+    <li>desc_sentence->এলাকাটি {[Color_Plural]} এবং {[Color_Plural]} রঙে সজ্জিত [Color_Plural] ও [Color_Plural]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] কাছে খেলছে।</li>
+  </AttendedParty.rulePack.rulesStrings>
+  
+  <!-- EN: built snowman -->
+  <BuiltSnowman.label>তুষারমানব</BuiltSnowman.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] building a snowman</li>
+    <li>tale_noun->[PAWN_nameDef] playing in the snow</li>
+    <li>image->[PAWN_nameFull] forming a snowball [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] rolling a giant ball of snow on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] arranging [Vegetable]s into a rough human face [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying down in the snow [circumstance_group]</li>
+    <li>circumstance_phrase->while enveloped in [Quantity_adjphrase] parkas</li>
+    <li>circumstance_phrase->while obscured in a light snowstorm</li>
+    <li>circumstance_phrase->while [PAWN_possessive] friends build a fort</li>
+    <li>circumstance_phrase->while [PAWN_possessive] friends build a snowman family</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is covered with snow.</li>
+    <li>desc_sentence->A field of [Vegetable]s is barely visible through the snow.</li>
+    <li>desc_sentence->A snow-covered [TerrainFeature] can be seen far away.</li>
+  -->
+  <BuiltSnowman.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] একজন স্নোম্যান তৈরি করেছে।</li>
+    <li>tale_noun->[PAWN_nameDef] বরফে খেলেছে।</li>
+    <li>image->[PAWN_nameFull] বরফের স্তূপ তৈরি করছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] জমিনে একটি বিশাল তুষারবল গড়ছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] সাজানো [Vegetable]একটি মুখ তৈরি করার জন্য [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] বরফে শুয়ে আছে [circumstance_group]</li>
+    <li>circumstance_phrase->নীচে [Quantity_adjphrase] অ্যানorakস</li>
+    <li>circumstance_phrase->যখন তুষারঝড় আকাশ অন্ধকার করে তোলে।</li>
+    <li>circumstance_phrase->যখন তার বন্ধুরা একটি দুর্গ তৈরি করছে</li>
+    <li>circumstance_phrase->যখন তার বন্ধুরা আরও স্নোম্যান তৈরি করছে</li>
+    <li>desc_sentence->একটি প্রভাত [Color_Fem] পটভূমিতে चमकছে।</li>
+    <li>desc_sentence->দূর থেকে [CommunityIndef] বরফে ঢেকে যায়।</li>
+    <li>desc_sentence->একটি ক্ষেত্র [Vegetable]প্রায় তুষারের মধ্যে অদৃশ্য।</li>
+    <li>desc_sentence->[TerrainFeatureIndefCap] দূরে বরফের আস্তরণ সহ একটি [TerrainFeatureIndefCap] দেখা যায়।</li>
+  </BuiltSnowman.rulePack.rulesStrings>
+  
+  <!-- EN: buried corpse -->
+  <BuriedCorpse.label>দাফনকৃত মৃতদেহ</BuriedCorpse.label>
+  <!-- EN:
+    <li>tale_noun->[DIGGER_nameDef] burying [CORPSE_nameDef]</li>
+    <li>tale_noun->[DIGGER_nameDef] laying [CORPSE_nameDef] to rest</li>
+    <li>image->[DIGGER_nameFull] standing next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] sitting next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] leaning against [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] scribing text on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] drawing art on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] placing [CORPSE_nameFull]'s body within a grave [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->and consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->and talking quietly to the memorial</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is covered with snow.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [DIGGER_nameDef], wearing a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [DIGGER_nameDef], wearing a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+  -->
+  <BuriedCorpse.rulePack.rulesStrings>
+    <li>tale_noun->[DIGGER_nameDef] দাফন করেছে [CORPSE_nameDef]</li>
+    <li>tale_noun->[DIGGER_nameDef] সমাহিত করেছে [CORPSE_nameDef]</li>
+    <li>image->[DIGGER_nameFull] কবরের পাশে দাঁড়িয়ে [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] কবরের পাশে বসে [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] কবরে বিশ্রাম নিচ্ছে [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] [DIGGER_nameFull] [CORPSE_nameFull]-এর সমাধিশিলাতে কিছু লিখছেন [circumstance_group] [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] [DIGGER_nameFull] [CORPSE_nameFull]-এর সমাধিশিলায় আঁকছেন [circumstance_group] [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] দেহ জমা করছে [CORPSE_nameFull] কবরে [circumstance_group]</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->নিজের চিন্তাভাবনায় মগ্ন হয়ে ঘুরে বেড়াচ্ছে</li>
+    <li>circumstance_phrase->দূরের একটি [TerrainFeature] এর দিকে তাকিয়ে থাকাকালীন [TerrainFeature]</li>
+    <li>circumstance_phrase->এবং সমাধিতে ফিসফিস করে কথা বলা</li>
+    <li>desc_sentence->একটি প্রভাত [Color_Fem] পটভূমি আলোকিত করে।</li>
+    <li>desc_sentence->দূর থেকে [CommunityIndef] বরফে ঢেকে যায়।</li>
+    <li>desc_sentence->একটি প্রেতাত্মা {[CORPSE_nameDef]} এর [CORPSE_nameDef] দৃশ্যটি {[AdjectiveFriendly]} মুখ নিয়ে দেখে [AdjectiveFriendly]।</li>
+    <li>desc_sentence->একটি প্রেতাত্মা ছবি [CORPSE_nameDef] এর পাশে দাঁড়িয়ে আছে [VISITOR_nameDef], যার মুখভাব [AdjectiveFriendly]।</li>
+    <li>desc_sentence->একটি ভৌতিক প্রতিচ্ছবি [CORPSE_nameDef] দৃশ্যটি দেখে বিষণ্ণ মুখ করে [AdjectiveAngsty]।</li>
+    <li>desc_sentence->একটি ভৌতিক প্রতিচ্ছবি [CORPSE_nameDef] এর পাশে দাঁড়িয়ে আছে [VISITOR_nameDef], যার মুখভাব [AdjectiveAngsty]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] দৃশ্যটির কাছে [সংখ্যাবাচক শব্দ] [প্রাণীবাচক শব্দ]-গুলো বিশ্রাম নিচ্ছে।</li>
+  </BuriedCorpse.rulePack.rulesStrings>
+  
+  <!-- EN: completed long construction project -->
+  <CompletedLongConstructionProject.label>দীর্ঘ নির্মাণ প্রকল্প সম্পন্ন</CompletedLongConstructionProject.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] finishing construction on a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] building a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] putting together a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] polishing the surface of a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inscribing [PAWN_possessive] name on a [OBJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with a gleam in [PAWN_possessive] eye</li>
+    <li>circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead</li>
+    <li>circumstance_phrase->while covered in grime</li>
+    <li>circumstance_phrase->while smiling proudly</li>
+    <li>circumstance_phrase->with a satisfied expression on [PAWN_possessive] face</li>
+    <li>desc_sentence->The [OBJECT_label] appears to tower above [PAWN_nameDef].</li>
+    <li>desc_sentence->The [OBJECT_label] glows a soft [Color].</li>
+    <li>desc_sentence->The [OBJECT_label] is intricately detailed.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s marvel at the [OBJECT_label].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
+  -->
+  <CompletedLongConstructionProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] নির্মাণ শেষ করেছে [OBJECT_indefinite]</li>
+    <li>image->[PAWN_nameFull] নির্মাণ করছে [OBJECT_indefinite] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] অংশগুলো সংযোগ করছে [OBJECT_indefinite] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] পৃষ্ঠ পালিশ করছে [OBJECT_indefinite] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] তার নাম খোদাই করছে [OBJECT_indefinite] [circumstance_group]</li>
+    <li>circumstance_phrase->চোখে चमक নিয়ে</li>
+    <li>circumstance_phrase->যখন সে তার কপাল থেকে ঘাম মুছছে</li>
+    <li>circumstance_phrase->কাঁদা পর্যন্ত গ্রাস করা হয়েছে</li>
+    <li>circumstance_phrase->গর্বের সাথে হাসছে</li>
+    <li>circumstance_phrase->তার মুখে তৃপ্তির অভিব্যক্তি নিয়ে</li>
+    <li>desc_sentence->[OBJECT_definite] অনেক বড় মনে হচ্ছে চেয়ে [PAWN_nameDef]।</li>
+    <li>desc_sentence->[OBJECT_definite] মৃদু ছোঁয়ায় चमकায় [Color]।</li>
+    <li>desc_sentence->[OBJECT_definite] বস্তুটির অনেক জটিল বিবরণ রয়েছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] বিস্মিত হয় [OBJECT_definite]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] বিস্ময়ে দেখছে।</li>
+  </CompletedLongConstructionProject.rulePack.rulesStrings>
+  
+  <!-- EN: completed long crafting project -->
+  <CompletedLongCraftingProject.label>দীর্ঘ কারুশিল্প প্রকল্প সম্পন্ন</CompletedLongCraftingProject.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] completing work on a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] working on a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] polishing the surface of a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] adding surface detail to a [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inscribing [PAWN_possessive] name on a [OBJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with a gleam in [PAWN_possessive] eye</li>
+    <li>circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead</li>
+    <li>circumstance_phrase->while covered in grime</li>
+    <li>circumstance_phrase->while smiling proudly</li>
+    <li>circumstance_phrase->with a satisfied expression on [PAWN_possessive] face</li>
+    <li>desc_sentence->The [OBJECT_label] glows a soft [Color].</li>
+    <li>desc_sentence->The [OBJECT_label] is intricately detailed.</li>
+    <li>desc_sentence->[PAWN_nameDef] lifts the [OBJECT_label] seemingly without effort.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s marvel at the device.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
+  -->
+  <CompletedLongCraftingProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] উৎপাদন শেষ করেছে [OBJECT_indefinite]</li>
+    <li>image->[PAWN_nameFull] কাজে নিযুক্ত আছেন [OBJECT_indefinite] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] পৃষ্ঠ পালিশ করছে [OBJECT_indefinite] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] [OBJECT_indefinite]-এর পৃষ্ঠে বিশদ যোগ করছে [circumstance_group] [OBJECT_indefinite] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] তার নাম খোদাই করছে [OBJECT_indefinite] [circumstance_group]</li>
+    <li>circumstance_phrase->চোখে चमक নিয়ে</li>
+    <li>circumstance_phrase->যখন সে তার কপাল থেকে ঘাম মুছছে</li>
+    <li>circumstance_phrase->কাঁদা পর্যন্ত গ্রাস করা হয়েছে</li>
+    <li>circumstance_phrase->গর্বের সাথে হাসছে</li>
+    <li>circumstance_phrase->তার মুখে তৃপ্তির অভিব্যক্তি নিয়ে</li>
+    <li>desc_sentence->[OBJECT_definite] অনেক বড় মনে হচ্ছে চেয়ে [PAWN_nameDef]।</li>
+    <li>desc_sentence->[OBJECT_definite] মৃদু ছটায় चमकায় [Color]।</li>
+    <li>desc_sentence->[OBJECT_definite] বস্তুটির অনেক জটিল বিবরণ রয়েছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] বিস্মিত হয় [OBJECT_definite]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] বিস্ময়ে দেখছে।</li>
+  </CompletedLongCraftingProject.rulePack.rulesStrings>
+  
+  <!-- EN: entered cryptosleep -->
+  <EnteredCryptosleep.label>ক্রিপ্টো-নিদ্রায় প্রবেশ</EnteredCryptosleep.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] entering cryptosleep</li>
+    <li>image->[PAWN_nameFull] lying down inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] opening an empty cryptosleep casket [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sealing themselves inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking through the wall of a cryptosleep casket at a world they're about to leave [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->while consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->and talking quietly to themselves</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s approach the area.</li>
+    <li>desc_sentence->[PAWN_nameDef] radiates determination.</li>
+    <li>desc_sentence->[PAWN_nameDef] is visibly wounded.</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
+  -->
+  <EnteredCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] ক্রিপ্টো-ঘুমের কফিনে প্রবেশ করলো।</li>
+    <li>image->[PAWN_nameFull] ক্রিপ্টো-ঘুমের কফিনটির ভিতরে শুয়ে আছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] খালি ক্রিপ্টো-ঘুমের কফিন খুলছে। [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ক্রিপ্টো-ঘুমের কফিন বন্ধ করছে। [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একটি ক্রিপ্টো-ঘুমের কফিন থেকে দেয়ালের দিকে তাকিয়ে, তারা যে জগৎ ছেড়ে যেতে চলেছে তার জানালা দিয়ে দেখছে। [circumstance_group]</li>
+    <li>circumstance_phrase->মুখভাব সহ [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->নিজের চিন্তাভাবনায় মগ্ন হয়ে</li>
+    <li>circumstance_phrase->দূরের একটি [TerrainFeature] এর দিকে তাকিয়ে থাকাকালীন [TerrainFeature]</li>
+    <li>circumstance_phrase->কারও শোনার আগে ফিসফিস করে বলা</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] কাছে বিশ্রাম নিচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy][পরিমাণ_বিশেষণ] শত্রুগণ স্থানটির দিকে এগিয়ে আসছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] দৃঢ় সংকল্প ছড়াচ্ছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] প্রকাশিত ক্ষত নিয়ে [PAWN_nameDef] আছে।</li>
+    <li>desc_sentence->একটি প্রভাত [Color_Fem] পটভূমিতে चमकছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] ক্রিপ্টো-ঘুমের কফিনগুলি দৃশ্যটিকে ঘিরে রেখেছে।</li>
+  </EnteredCryptosleep.rulePack.rulesStrings>
+  
+  <!-- EN: gained master skill -->
+  <GainedMasterSkillWithoutPassion.label>নিপুণ দক্ষতা</GainedMasterSkillWithoutPassion.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
+    <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] reading a tome on [SKILL_label] methods [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] receiving training in [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] working feverishly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] finishing a project [circumstance_group]</li>
+    <li>circumstance_phrase->while covered in sweat</li>
+    <li>circumstance_phrase->with visible exhaustion</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->with a bored expression</li>
+    <li>desc_sentence->The scene is surrounded by [Quantity_adjphrase] failed experiments.</li>
+    <li>desc_sentence->The scene is surrounded by [Quantity_adjphrase] books.</li>
+    <li>desc_sentence->[PAWN_possessive] skill is visible in the work.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
+  -->
+  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] সর্বোচ্চ দক্ষতা অর্জন করেছে [SKILL_label]</li>
+    <li>image->[PAWN_nameFull] দক্ষতা অনুশীলন করছে [SKILL_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] পদ্ধতি সম্পর্কে একটি বই পড়া হচ্ছে [SKILL_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] [SKILL_label] বিষয়ে প্রশিক্ষণ নিচ্ছে [circumstance_group] [SKILL_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] উৎসাহের সাথে কাজ করছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একটি প্রকল্প শেষ করছে [circumstance_group]</li>
+    <li>circumstance_phrase->ঘামে ভেজা শরীর নিয়ে</li>
+    <li>circumstance_phrase->স্পষ্ট ক্লান্তি নিয়ে</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->বিরক্ত ভঙ্গিতে</li>
+    <li>desc_sentence->দৃশ্যটি দ্বারা বেষ্টিত [Quantity_adjphrase] ব্যর্থ পরীক্ষাগুলো।</li>
+    <li>desc_sentence->দৃশ্যটি দ্বারা বেষ্টিত [Quantity_adjphrase] বইগুলো।</li>
+    <li>desc_sentence->তার দক্ষতা কাজে দৃশ্যমান।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] বিস্ময়ে দেখছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] বিস্ময়ে দেখছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] প্রাচীন গুরুদের অলৌকিক আত্মা আকাশ থেকে পর্যবেক্ষণ করছে।</li>
+  </GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+  
+  <!-- EN: gained master skill with passion -->
+  <GainedMasterSkillWithPassion.label>আবেগসহ নিপুণ দক্ষতা</GainedMasterSkillWithPassion.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
+    <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] reading a tome on [SKILL_label] methods [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] receiving training for [SKILL_label] skills [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] working feverishly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] finishing a project [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->with a joyous expression</li>
+    <li>circumstance_phrase->while [VerbFriendly]</li>
+    <li>circumstance_phrase->with an exuberant shout</li>
+    <li>circumstance_phrase->while covered in sweat</li>
+    <li>circumstance_phrase->with visible exhaustion</li>
+    <li>desc_sentence->The subject is surrounded by the results of [Quantity_adjphrase] failed experiments.</li>
+    <li>desc_sentence->The subject is surrounded by [Quantity_adjphrase] books.</li>
+    <li>desc_sentence->[PAWN_possessive] skill is visible in the work.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s watch with amazement.</li>
+    <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
+  -->
+  <GainedMasterSkillWithPassion.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] সর্বোচ্চ দক্ষতা অর্জন করেছে [SKILL_label]</li>
+    <li>image->[PAWN_nameFull] দক্ষতা অনুশীলন করছে [SKILL_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] [SKILL_label] [circumstance_group] সম্পর্কিত পদ্ধতি সম্পর্কে একটি বই পড়ছেন। [SKILL_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] [SKILL_label] এ প্রশিক্ষণ নিচ্ছে [circumstance_group] [SKILL_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] উৎসাহের সাথে কাজ করছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একটি প্রকল্প শেষ করছে [circumstance_group]</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->প্রাণবন্ত ভঙ্গিতে</li>
+    <li>circumstance_phrase->যখন [VerbFriendly]</li>
+    <li>circumstance_phrase->উত্তেজনায় চিৎকার করছে</li>
+    <li>circumstance_phrase->ঘামে ভেজা শরীর নিয়ে</li>
+    <li>circumstance_phrase->স্পষ্ট ক্লান্তি নিয়ে</li>
+    <li>desc_sentence->দৃশ্যটি দ্বারা বেষ্টিত [Quantity_adjphrase] ব্যর্থ পরীক্ষাগুলো।</li>
+    <li>desc_sentence->দৃশ্যটি দ্বারা বেষ্টিত [Quantity_adjphrase] বইগুলো।</li>
+    <li>desc_sentence->তার দক্ষতা কাজে দৃশ্যমান।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] বিস্ময়ে দেখছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] বিস্ময়ে দেখছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] প্রাচীন গুরুদের অলৌকিক আত্মা আকাশ থেকে পর্যবেক্ষণ করছে।</li>
+  </GainedMasterSkillWithPassion.rulePack.rulesStrings>
+  
+  <!-- EN: increased menagerie -->
+  <IncreasedMenagerie.label>বর্ধিত পশুপাল</IncreasedMenagerie.label>
+  <!-- EN:
+    <li>tale_noun(p=3)->[HUMAN_nameDef] recruiting yet another animal to [HUMAN_possessive] growing [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef] being followed around by a [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef]'s taming of [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] whispering to a skittish [ANIMAL_label] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] calming a wild [ANIMAL_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with great care and caution</li>
+    <li>circumstance_phrase->with a smile</li>
+    <li>circumstance_phrase->while exhausted but happy</li>
+    <li>circumstance_phrase->with a [AnimalGroup] in the background</li>
+    <li>desc_sentence->[HUMAN_nameDef] is surrounded by uncountable [Animal]s.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is moving to join a [AnimalGroup] of its kin.</li>
+    <li>desc_sentence->The scene is packed with [Animal]s and [Animal]s.</li>
+    <li>desc_sentence->A line of uncountable [Animal]s waits to be tamed by [HUMAN_nameDef].</li>
+  -->
+  <IncreasedMenagerie.rulePack.rulesStrings>
+    <li>tale_noun(p=3)->[HUMAN_nameDef] আরও একটি প্রাণীকে তার ক্রমবর্ধমান [AnimalGroup]-এ নিয়োগ করলো। [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef] অনুসরণ করলো [AnimalGroupIndef] পোষ মানানোর জন্য</li>
+    <li>tale_noun->[HUMAN_nameDef] পোষ মানিয়েছিল [ANIMAL_nameIndef]</li>
+    <li>image->[HUMAN_nameFull] পোষ মানানো হচ্ছে [ANIMAL_nameIndef] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] মিষ্টি খাবার অফার করছে [ANIMAL_nameIndef] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] ফিসফিস করে [ANIMAL_nameIndef] ভীরু [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] শান্ত করছে [ANIMAL_nameIndef] বন্য [circumstance_group]</li>
+    <li>circumstance_phrase->மிகுந்த সতর্কতা ও সাবধানতার সাথে।</li>
+    <li>circumstance_phrase->একটি হাসি নিয়ে</li>
+    <li>circumstance_phrase->ক্লান্তি ও আনন্দ সহ</li>
+    <li>circumstance_phrase->সাথে [AnimalGroupIndef] পটভূমিতে</li>
+    <li>desc_sentence->[HUMAN_nameDef] ঘিরে আছে অসংখ্য [AnimalAnyPl]।</li>
+    <li>desc_sentence->[ANIMAL_nameDef] দিকে হেঁটে যায় [AnimalGroupIndef] তাদের প্রজাতির সাথে যোগ দিতে।</li>
+    <li>desc_sentence->দৃশ্যে প্রচুর [AnimalAnyPl] এবং [AnimalAnyPl]।</li>
+    <li>desc_sentence->অগণিত সারিতে [AnimalAnyPl] পোষ মানানোর জন্য অপেক্ষা করছে [HUMAN_nameDef]।</li>
+  </IncreasedMenagerie.rulePack.rulesStrings>
+  
+  <!-- EN: meditated -->
+  <Meditated.label>ধ্যান</Meditated.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] meditating</li>
+    <li>image->[PAWN_nameFull] sitting under a [TreeType] tree, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sitting quietly, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] gazing into the distance and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] closing [PAWN_possessive] eyes and [circumstance_group]</li>
+    <li>circumstance_phrase->radiating serenity</li>
+    <li>circumstance_phrase->with a tranquil smile</li>
+    <li>circumstance_phrase->with a [VerbFriendly] smile</li>
+    <li>circumstance_phrase->glowing softly</li>
+    <li>circumstance_phrase->surrounded by a [Color] aura</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] is surrounded by [Quantity_adjphrase] [Animal]s.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
+  -->
+  <Meditated.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] ধ্যান করত</li>
+    <li>image->[PAWN_nameFull] কাছাকাছি বসে [TreeTypeIndef], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] শান্তভাবে বসে, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] দূরত্ব এবং [circumstance_group] দেখছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] চোখ বন্ধ করে এবং [circumstance_group]</li>
+    <li>circumstance_phrase->শান্তি ছড়াচ্ছে</li>
+    <li>circumstance_phrase->শান্ত হাসি নিয়ে</li>
+    <li>circumstance_phrase(PAWN_gender==Male)->তার সুখী মুখ দিয়ে শুরু হয় [VerbFriendly]</li>
+    <li>circumstance_phrase(PAWN_gender!=Male)->তার হাসিখুশি মুখ দিয়ে শুরু হয় [VerbFriendly_Fem]</li>
+    <li>circumstance_phrase->মিটমিট করে জ্বলছে</li>
+    <li>circumstance_phrase->বেষ্টিত[PAWN_o_a] একটি আভা দ্বারা [Color_Fem]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] তাঁদের দিকে তাকিয়ে আছে।</li>
+    <li>desc_sentence->[PAWN_pronoun] ঘেরা[PAWN_o_a] দ্বারা [Quantity_adjphrase] [AnimalAnyPl]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] শান্তিতে বিশ্রাম নিচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy][পরিমাণ_বিশেষণ] শত্রু দৃশ্য দ্বারা মগ্ন।</li>
+  </Meditated.rulePack.rulesStrings>
+  
+  <!-- EN: mined valuable -->
+  <MinedValuable.label>মূল্যবান খনিজ আহরণ</MinedValuable.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] mining a rich vein of [MATERIAL_label]</li>
+    <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] coordinating an excavation team against a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>circumstance_phrase->sweating heavily</li>
+    <li>circumstance_phrase->wearing a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->wearing a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->smiling proudly</li>
+    <li>circumstance_phrase->a satisfied expression on [PAWN_possessive] face</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s assist.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander the area.</li>
+    <li>desc_sentence->There is a [Community] in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] further veins are visible in the distance.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+  -->
+  <MinedValuable.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] একটি সমৃদ্ধ [MATERIAL_label]-এর শিরা খুঁজে পেয়েছে [PAWN_nameDef]। [MATERIAL_label]</li>
+    <li>image->[PAWN_nameFull] একটি {[MATERIAL_label]} এর দেয়াল তৈরি করছে [MATERIAL_label] খনন সরঞ্জাম দিয়ে, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একটি টুকরা পরীক্ষা করছে [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একটি {[MATERIAL_label]} দেয়ালের বিপরীতে বিশ্রাম নিচ্ছে [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একটি খনন দল পরিচালনা করে একটি {[MATERIAL_label]} দেয়ালের দিকে [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] একটি সমৃদ্ধ {[MATERIAL_label]} খনি পরিদর্শন করছে [MATERIAL_label], [circumstance_group]</li>
+    <li>circumstance_phrase->অতিরিক্ত ঘাম ঝরাচ্ছে</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->গর্বের সাথে হাসছে</li>
+    <li>circumstance_phrase->তার মুখে তৃপ্তির অভিব্যক্তি নিয়ে</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]কিছু মিত্র সাহায্য করছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] এলাকাটিতে ঘুরে বেড়াচ্ছে।</li>
+    <li>desc_sentence->আছে [CommunityIndef] পটভূমিতে</li>
+    <li>desc_sentence->[Quantity_adjphrase] দূরে আরও শিরা দেখা যায়।</li>
+    <li>desc_sentence->[TerrainFeatureIndefCap] দূরে দেখা যাচ্ছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] ঘামে ভেজা[PAWN_o_a] এবং নোংরা[PAWN_o_a] অনেক কাজ করার কারণে।</li>
+  </MinedValuable.rulePack.rulesStrings>
+  
+  <!-- EN: played game -->
+  <PlayedGame.label>খেলা</PlayedGame.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] relaxing at a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] playing games at a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] waiting in a chair, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sitting next to the [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] winning at a [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] losing at a [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->tense with energy</li>
+    <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+    <li>circumstance_phrase->planning [PAWN_possessive] next action</li>
+    <li>circumstance_phrase->gently massaging [PAWN_possessive] wrists</li>
+    <li>circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->wearing a [AdjectiveAngsty] look</li>
+    <li>circumstance_phrase->[angstyverb]</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is visible.</li>
+    <li>desc_sentence->In the distance, a [TerrainFeature] is visible.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are playing as well.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.</li>
+    <li>desc_sentence->[PAWN_nameDef] is glowing with a [Color] aura.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s features are exaggerated.</li>
+    <li>desc_sentence->[PAWN_nameDef] towers above the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are slumped in defeat.</li>
+  -->
+  <PlayedGame.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] এতে বিশ্রাম নিল [OBJECT_indefinite]</li>
+    <li>tale_noun->[PAWN_nameDef] খেলল মধ্যে [OBJECT_indefinite]</li>
+    <li>tale_noun->[PAWN_nameDef] উপভোগ করেছেন [OBJECT_indefinite]</li>
+    <li>image->[PAWN_nameFull] বসে[PAWN_o_a] একটি চেয়ারে, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] রিচার্জ করা হয়েছে[PAWN_o_a] তে [OBJECT_indefinite], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] নিরীক্ষণ করছে [OBJECT_indefinite], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] খেলায় জিতেছে [OBJECT_indefinite], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] খেলায় হেরে যাচ্ছে [OBJECT_indefinite], [circumstance_group]</li>
+    <li>circumstance_phrase->পেশীগুলো শক্ত করে</li>
+    <li>circumstance_phrase->তার শিথিল শরীর</li>
+    <li>circumstance_phrase->তাদের পরবর্তী পদক্ষেপ পরিকল্পনা করছে</li>
+    <li>circumstance_phrase->তাদের হাত ম্যাসাজ করছে</li>
+    <li>circumstance_phrase->একটি বিষণ্ণ মুখ নিয়ে [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->নিজেকে বিড়বিড় করে</li>
+    <li>desc_sentence->একটি প্রভাত [Color_Fem] দূরে चमकছে।</li>
+    <li>desc_sentence->দূর থেকে দেখা যায় [CommunityIndef]।</li>
+    <li>desc_sentence->দূর থেকে দেখা যায় [TerrainFeatureIndef]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] তাঁরাও খেলছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] কাছে খেলছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] একটি আভা নিয়ে चमकায় [Color_Fem]।</li>
+    <li>desc_sentence->{[PAWN_nameDef]} এর দলবদ্ধতা [PAWN_nameDef] অত্যুক্তি করা হয়েছে।</li>
+    <li>desc_sentence->[PAWN_nameDef] দৃশ্যটিতে আধিপত্য বিস্তার করে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] পরাজিত হয়েছে।</li>
+  </PlayedGame.rulePack.rulesStrings>
+  
+  <!-- EN: prayed -->
+  <Prayed.label>প্রার্থনা</Prayed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] praying</li>
+    <li>tale_noun->[PAWN_nameDef] praying to a higher power</li>
+    <li>image->[PAWN_nameFull] gazing into the distance and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] closing [PAWN_possessive] eyes and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] clasping [PAWN_possessive] hands and [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking into the sky and [circumstance_group]</li>
+    <li>circumstance_phrase->radiating serenity</li>
+    <li>circumstance_phrase->whispering softly</li>
+    <li>circumstance_phrase->wearing a hopeful expression</li>
+    <li>circumstance_phrase->glowing softly</li>
+    <li>circumstance_phrase->surrounded by a [Color] aura</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] is surrounded by [Quantity_adjphrase] [Animal]s.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
+  -->
+  <Prayed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] প্রার্থনা করছিল</li>
+    <li>tale_noun->[PAWN_nameDef] একজন ঐশ্বরিক শক্তির কাছে প্রার্থনা করছিল।</li>
+    <li>image->[PAWN_nameFull] দূরত্ব এবং [circumstance_group] দেখছে [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] চোখ বন্ধ করে এবং [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] তাদের হাত যুক্ত করে এবং [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] আকাশের দিকে তাকিয়ে এবং [circumstance_group]</li>
+    <li>circumstance_phrase->শান্তি ছড়াচ্ছে</li>
+    <li>circumstance_phrase->ফিসফিস করে আলতোভাবে</li>
+    <li>circumstance_phrase->চিন্তামগ্ন চেহারা দেখাচ্ছে</li>
+    <li>circumstance_phrase->মিটমিট করে জ্বলছে</li>
+    <li>circumstance_phrase->বেষ্টিত[PAWN_o_a] একটি আভা দ্বারা [Color_Fem]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] তাঁদের দিকে তাকিয়ে আছে।</li>
+    <li>desc_sentence->[PAWN_pronoun] ঘেরা[PAWN_o_a] দ্বারা [Quantity_adjphrase] [AnimalAnyPl]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] শান্তিতে বিশ্রাম নিচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy][পরিমাণ_বিশেষণ] শত্রু দৃশ্য দ্বারা মগ্ন।</li>
+  </Prayed.rulePack.rulesStrings>
+  
+  <!-- EN: put into cryptosleep -->
+  <PutIntoCryptosleep.label>ক্রিপ্টো-নিদ্রায় স্থাপন</PutIntoCryptosleep.label>
+  <!-- EN:
+    <li>tale_noun->[CARRIER_nameDef] putting [SLEEPER_nameDef] into cryptosleep</li>
+    <li>image->[CARRIER_nameFull] placing [SLEEPER_nameDef] inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] opening an empty cryptosleep casket while supporting [SLEEPER_nameDef] [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] sealing [SLEEPER_nameDef] inside a cryptosleep casket [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] walking away as [SLEEPER_nameDef] looks through the wall of a cryptosleep casket [circumstance_group]</li>
+    <li>circumstance_phrase(p=3)->with a [AdjectiveAny] expression</li>
+    <li>circumstance_phrase->while consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->with visible tension between the two</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s approach the area.</li>
+    <li>desc_sentence->[CARRIER_nameDef] radiates determination.</li>
+    <li>desc_sentence->[SLEEPER_nameDef] is visibly wounded.</li>
+    <li>desc_sentence->[SLEEPER_nameDef] looks exhausted.</li>
+    <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
+  -->
+  <PutIntoCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun->[CARRIER_nameDef] নিয়ে গেল [SLEEPER_nameDef] ক্রিপ্টো-ঘুমের কফিনে</li>
+    <li>image->[CARRIER_nameFull] স্থাপন করা হচ্ছে [SLEEPER_nameDef] একটি ক্রিপ্টো-ঘুমের কফিনে [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] খালি ক্রিপ্টো-ঘুমের কফিন খোলার সময় [SLEEPER_nameDef] [circumstance_group]-কে বহন করছে। [SLEEPER_nameDef] [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] সিল করে [SLEEPER_nameDef] একটি ক্রিপ্টো-ঘুমের কফিনে [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] দূরে সরে যাচ্ছে যখন [SLEEPER_nameDef] একটি ক্রিপ্টো-ঘুমের কফিন এর জানালা দিয়ে দেখছে [circumstance_group]</li>
+    <li>circumstance_phrase->মুখভাব সহ [AdjectiveAny]</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->দূরের একটি [TerrainFeature] এর দিকে তাকিয়ে থাকাকালীন [TerrainFeature]</li>
+    <li>circumstance_phrase->একটি অন্ধকার গুহায়</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] কাছে বিশ্রাম নিচ্ছে।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy][পরিমাণ_বিশেষণ] শত্রু এলাকাটির দিকে এগিয়ে আসছে।</li>
+    <li>desc_sentence->[CARRIER_nameDef] দৃঢ় সংকল্প ছড়িয়ে পড়ছে।</li>
+    <li>desc_sentence->[SLEEPER_nameDef] দৃশ্যমানভাবে আহত[SLEEPER_o_a]।</li>
+    <li>desc_sentence->[SLEEPER_nameDef] ক্লান্ত দেখাচ্ছে[SLEEPER_o_a]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] ক্রিপ্টো-ঘুমের কফিনগুলি দৃশ্যটিকে ঘিরে রেখেছে।</li>
+  </PutIntoCryptosleep.rulePack.rulesStrings>
+  
+  <!-- EN: stripped -->
+  <Stripped.label>বস্ত্রহরণ</Stripped.label>
+  <!-- EN:
+    <li>tale_noun->[TAKER_nameDef] stripping [STRIPPED_nameDef]</li>
+    <li>image->[TAKER_nameFull] disrobing [STRIPPED_nameFull] in public [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] removing the clothes of [STRIPPED_nameFull] [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] holding an armful of [Apparel]s while standing next to [STRIPPED_nameFull], who is completely naked [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] waiting patiently as [STRIPPED_nameFull] removes [STRIPPED_possessive] clothes [circumstance_group]</li>
+    <li>circumstance_phrase->with a sense of purpose</li>
+    <li>circumstance_phrase->with no hint of shame</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->for no apparent reason</li>
+    <li>circumstance_phrase->while confused animals look on</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is visibly aroused.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is covered in unexplained moisture.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is breathing heavily for no obvious reason.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is fondling a shrub.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] wears only a [AdjectiveAngsty] expression.</li>
+  -->
+  <Stripped.rulePack.rulesStrings>
+    <li>tale_noun->[TAKER_nameDef] 벗িয়ে দিয়েছে [STRIPPED_nameDef]</li>
+    <li>image->[TAKER_nameFull] খুলে ফেলছে [STRIPPED_nameFull] প্রকাশ্যে [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] পোশাক খুলে নিচ্ছে [STRIPPED_nameFull] [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] বেশ কয়েকটি ধরে আছে [Apparel], দাঁড়িয়ে আছে পাশে [STRIPPED_nameFull], যে কিছুই পরেনি [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] ধৈর্য ধরে অপেক্ষা করছে যখন [STRIPPED_nameFull] কাপড় খুলছে [circumstance_group]</li>
+    <li>circumstance_phrase->দৃঢ় সংকল্পের সাথে</li>
+    <li>circumstance_phrase->কোনো দ্বিধা ছাড়াই</li>
+    <li>circumstance_phrase->অন্যান্যরা দেখার সময়</li>
+    <li>circumstance_phrase->কোন আপাত কারণ ছাড়াই।</li>
+    <li>circumstance_phrase->কিছু প্রাণী বিভ্রান্তভাবে দেখছে যখন</li>
+    <li>desc_sentence->[STRIPPED_nameDef] স্পষ্টভাবে উত্তেজিত হচ্ছে।</li>
+    <li>desc_sentence->[STRIPPED_nameDef] অธิบาย করা যায় না এমন আর্দ্রতা তাকে ঢেকে রেখেছে।</li>
+    <li>desc_sentence->[STRIPPED_nameDef] কোনো কারণ ছাড়াই হাঁপাচ্ছে।</li>
+    <li>desc_sentence->[STRIPPED_nameDef] একটি গুল্ম ঝোপের সাথে戯 করছে।</li>
+    <li>desc_sentence->[STRIPPED_nameDef] এর একটি চেহারা আছে [AdjectiveAngsty]।</li>
+  </Stripped.rulePack.rulesStrings>
+  
+  <!-- EN: visited grave -->
+  <VisitedGrave.label>সমাধি পরিদর্শন</VisitedGrave.label>
+  <!-- EN:
+    <li>tale_noun->[VISITOR_nameDef] visiting the grave of [CORPSE_nameDef]</li>
+    <li>tale_noun->[VISITOR_nameDef] visiting [CORPSE_nameDef]'s grave</li>
+    <li>image->[VISITOR_nameFull] standing next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] sitting next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] leaning against [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] reading the text on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] looking at the art on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->and consumed in thought</li>
+    <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+    <li>circumstance_phrase->and talking quietly to the memorial</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is covered with snow.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [VISITOR_nameDef], wearing a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [VISITOR_nameDef], wearing a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
+  -->
+  <VisitedGrave.rulePack.rulesStrings>
+    <li>tale_noun->[VISITOR_nameDef] সমাধিতে গিয়েছিলেন [CORPSE_nameDef]</li>
+    <li>tale_noun->[VISITOR_nameDef] দেখা করতে গিয়েছিলেন [CORPSE_nameDef] তার সমাধিতে</li>
+    <li>image->[VISITOR_nameFull] কবরের পাশে দাঁড়িয়ে [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] কবরের পাশে বসে [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] কবরে বিশ্রাম নিচ্ছে [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] [ভিজিটর_নামপূর্ণ] [কর্পস_নামপূর্ণ]-এর সমাধিফলকে সমাধিলিপি পড়ছেন [পরিস্থিতি_দল]। [CORPSE_nameFull] [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] [VISITOR_nameFull] [CORPSE_nameFull]-এর সমাধিতে শিল্পকলা দেখছে [circumstance_group] [CORPSE_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->মুখভাবের সাথে [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->নিজের চিন্তাভাবনায় মগ্ন হয়ে ঘুরে বেড়াচ্ছে।</li>
+    <li>circumstance_phrase->যখন সে একটি দেখছে [TerrainFeature] দূরবর্তী</li>
+    <li>circumstance_phrase->এবং সমাধিতে ফিসফিস করে কথা বলা</li>
+    <li>desc_sentence->একটি প্রভাত [Color_Fem] পটভূমি আলোকিত করে।</li>
+    <li>desc_sentence->দূর থেকে [CommunityIndef] বরফে ঢেকে যায়।</li>
+    <li>desc_sentence->এর প্রেতাত্মা [CORPSE_nameDef] দৃশ্যটি দেখে একটি [AdjectiveFriendly]।</li>
+    <li>desc_sentence->এর ভৌতিক প্রতিচ্ছবি [CORPSE_nameDef] এর পাশে দাঁড়িয়ে আছে [VISITOR_nameDef], একটি বন্ধুত্বপূর্ণ চেহারা নিয়ে [AdjectiveFriendly]।</li>
+    <li>desc_sentence->এর ভৌতিক প্রতিচ্ছবি [CORPSE_nameDef] বিষণ্ণ চেহারায় দৃশ্যটি দেখে [AdjectiveAngsty]।</li>
+    <li>desc_sentence->এর ভৌতিক প্রতিচ্ছবি [CORPSE_nameDef] এর পাশে দাঁড়িয়ে আছে [VISITOR_nameDef], একটি বিষণ্ণ মুখ নিয়ে [AdjectiveAngsty]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] দৃশ্যটির কাছে [সংখ্যাবাচক শব্দ] [প্রাণীবাচক শব্দ]-গুলো বিশ্রাম নিচ্ছে।</li>
+  </VisitedGrave.rulePack.rulesStrings>
+  
+</LanguageData>

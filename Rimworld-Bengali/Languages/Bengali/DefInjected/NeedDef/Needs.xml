@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>সৌন্দর্য</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>সৌন্দর্য প্রতিফলিত করে একজন ব্যক্তি সম্প্রতি তাদের চারপাশ কতটা visually pleasing খুঁজে পেয়েছে। শিল্পকলার মতো সুন্দর জিনিসগুলি দেখলে সৌন্দর্য বৃদ্ধি পায়, অন্যদিকে ময়লা এবং পাথরের মতো অমসৃণ পৃষ্ঠের মতো কুৎসিত জিনিসগুলি এটিকে হ্রাস করে।</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>আরাম</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>আরামদায়ক আসবাবপত্রে বসে বা ঘুমিয়ে আরাম পাওয়া যায়। বিছানায় শুয়ে, চেয়ারে বসে কাজ করার সময় অথবা অন্যান্য সময়ে এটি অর্জিত হয়।</Comfort.description>
+  
+  <!-- EN: chemical -->
+  <DrugDesire.label>রাসায়নিক</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>রাসায়নিক মাদক দ্রব্য গ্রহণের আকাঙ্ক্ষা প্রকাশ করে। একটি নির্দিষ্ট মাত্রার উপরে থাকলে এটি ভালো মেজাজ তৈরি করবে, কিন্তু একটি নির্দিষ্ট মাত্রার নিচে থাকলে এটি ক্রমশ খারাপ মেজাজ তৈরি করবে।</DrugDesire.description>
+  
+  <!-- EN: food -->
+  <Food.label>খাবার</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>খাবার হলো কোনো প্রাণী সম্প্রতি যে পরিমাণ পুষ্টি গ্রহণ করেছে তার পরিমাণ। এটি শূন্যে নেমে গেলে, প্রাণীটি ক্রমশ অপুষ্টিতে ভুগবে এবং শেষ পর্যন্ত মারা যাবে।</Food.description>
+  
+  <!-- EN: indoors -->
+  <Indoors.label>ঘরের ভিতরে</Indoors.label>
+  <!-- EN: Indoors expresses the need to feel safe within walls and under a roof. It improves when someone spends time inside. -->
+  <Indoors.description>ইনডোরস দেয়াল এবং ছাদের নিচে নিরাপদ বোধ করার প্রয়োজনীয়তা প্রকাশ করে। এটি বৃদ্ধি পায় যখন কেউ ঘরের ভিতরে সময় কাটায়।</Indoors.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>বিনোদন</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>বিনোদন হল আনন্দ পাওয়ার প্রয়োজনীয়তা। একই ধরনের কার্যকলাপ বার বার করলে তা কম আনন্দদায়ক হয়ে যায়, তাই বৈচিত্র্য প্রয়োজন।</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>মেজাজ</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low their mood is, someone who has a mental break may have a minor breaks like hiding in their room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>মেজাজ একজন ব্যক্তি কতটা সুখী বা উদ্বিগ্ন, তা বোঝায়। মেজাজ খুব খারাপ হয়ে গেলে, সেই ব্যক্তি মানসিক অবসাদে ভুগতে পারে। তাদের মেজাজ কতটা খারাপ, তার ওপর নির্ভর করে মানসিক অবসাদ সামান্য হতে পারে, যেমন—একদিন ঘরবন্দী থাকা, অথবা গুরুতর হতে পারে, যেমন—খুন করা শুরু করা।</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>বাইরের স্থান</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>বাইরের পরিবেশ বদ্ধ জায়গায় থাকার আকাঙ্ক্ষা প্রকাশ করে। দীর্ঘ সময় ধরে ভিতরে, বিশেষ করে ভূগর্ভে থাকলে এটি ক্ষতিগ্রস্ত হয়। আকাশির নিচে সময় কাটালে, বিশেষ করে বাইরে সময় কাটালে এটি উন্নত হয়। ঘরের আকার গুরুত্বপূর্ণ নয়, বরং সময়ে সময়ে বাইরে থাকার প্রয়োজনীয়তা রয়েছে। যারা ভূগর্ভস্থ ঘাঁটিতে বাস করেন, তাদের জন্য বাইরের পরিবেশের অভাব একটি বড় চ্যালেঞ্জ।</Outdoors.description>
+  
+  <!-- EN: sleep -->
+  <Rest.label>ঘুম</Rest.label>
+  <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>ঘুম হলো কোনো প্রাণী সম্প্রতি কতক্ষণ ঘুমিয়েছে তার পরিমাণ। এটি শূন্যে পৌঁছালে, প্রাণীটি যেকোনো স্থানে ঘুমিয়ে পড়বে।</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>ঘরের আকার</RoomSize.label>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede blaster --><!-- EN: centípedo destructor -->
+  <Mech_CentipedeBlaster.label>সেন্টিপেডো ডেস্ট্রাক্টর</Mech_CentipedeBlaster.label><!-- EN: centípedos destructores -->
+  <Mech_CentipedeBlaster.labelPlural>সেন্টিপেড ধ্বংসকারী</Mech_CentipedeBlaster.labelPlural>
+  
+  <!-- EN: centipede burner --><!-- EN: centípedo incendiario -->
+  <Mech_CentipedeBurner.label>আগুন জ্বালানো সেন্টিপেড</Mech_CentipedeBurner.label><!-- EN: centípedos incendiarios -->
+  <Mech_CentipedeBurner.labelPlural>আগুন লাগানোর সেন্টিপেড</Mech_CentipedeBurner.labelPlural>
+  
+  <!-- EN: centipede gunner --><!-- EN: centípedo artillero -->
+  <Mech_CentipedeGunner.label>সেন্টিপেডো আর্টিলেরো</Mech_CentipedeGunner.label><!-- EN: centípedos artilleros -->
+  <Mech_CentipedeGunner.labelPlural>সেন্টিপেডোস আর্টিলেরোস</Mech_CentipedeGunner.labelPlural>
+  
+  <!-- EN: lancer --><!-- EN: lancero -->
+  <Mech_Lancer.label>ল্যানসেরো</Mech_Lancer.label><!-- EN: lanceros -->
+  <Mech_Lancer.labelPlural>ল্যানসেরোস</Mech_Lancer.labelPlural>
+  
+  <!-- EN: pikeman --><!-- EN: piquero -->
+  <Mech_Pikeman.label>পিক্বেরো</Mech_Pikeman.label>
+  <!-- EN: pikemen --><!-- EN: piqueros -->
+  <Mech_Pikeman.labelPlural>পিক্বেরোরা</Mech_Pikeman.labelPlural>
+  
+  <!-- EN: scyther --><!-- EN: segador -->
+  <Mech_Scyther.label>সেগাদোর</Mech_Scyther.label><!-- EN: segadores -->
+  <Mech_Scyther.labelPlural>সেগাদোরেস</Mech_Scyther.labelPlural>
+  
+</LanguageData>

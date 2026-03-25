@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recovery -->
+  <Adaptation.label>পুনরুদ্ধার</Adaptation.label>
+  <!-- EN: {0} days -->
+  <Adaptation.valueFormat>{0} দিন</Adaptation.valueFormat>
+  
+  <!-- EN: mood -->
+  <ColonistMood.label>মেজাজ</ColonistMood.label>
+  
+  <!-- EN: free colonists -->
+  <FreeColonists.label>মুক্ত উপনিবেশক</FreeColonists.label>
+  
+  <!-- EN: pop recovery -->
+  <PopAdaptation.label>জনসংখ্যা পুনরুদ্ধার</PopAdaptation.label>
+  <!-- EN: {0} days -->
+  <PopAdaptation.valueFormat>{0} দিন</PopAdaptation.valueFormat>
+  
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>জনসংখ্যা অভিপ্রায় x10</PopIntent.label>
+  <!-- EN: {0} days -->
+  <PopIntent.valueFormat>{0} দিন</PopIntent.valueFormat>
+  
+  <!-- EN: prisoners -->
+  <Prisoners.label>বন্দী</Prisoners.label>
+  
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>আনন্দ বিন্দু /১০</ThreatPoints.label>
+  <!-- EN: {0} points -->
+  <ThreatPoints.valueFormat>{0} পয়েন্ট</ThreatPoints.valueFormat>
+  
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>সম্পদ (স্থাপনা)</Wealth_Buildings.label>
+  
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>সম্পদ (পণ্য)</Wealth_Items.label>
+  
+  <!-- EN: wealth (creatures) -->
+  <Wealth_Pawns.label>সম্পদ (জীব)</Wealth_Pawns.label>
+  
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>সম্পদ (মোট)</Wealth_Total.label>
+  
+</LanguageData>

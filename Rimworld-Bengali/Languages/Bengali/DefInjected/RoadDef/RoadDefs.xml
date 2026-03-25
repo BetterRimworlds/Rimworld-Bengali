@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient asphalt highway -->
+  <AncientAsphaltHighway.label>প্রাচীন অ্যাসফল্ট মহাসড়ক</AncientAsphaltHighway.label>
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>প্রাচীন অ্যাসফল্ট রাস্তা</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>মাটির পথ</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>মাটির রাস্তা</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>পাথরের রাস্তা</StoneRoad.label>
+  
+</LanguageData>

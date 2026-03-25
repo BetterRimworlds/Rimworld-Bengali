@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son-in-law -->
+  <ChildInLaw.label>জামাই</ChildInLaw.label>
+  <!-- EN: daughter-in-law -->
+  <ChildInLaw.labelFemale>পুত্রবধু</ChildInLaw.labelFemale>
+  
+  <!-- EN: ex-lover -->
+  <ExLover.label>প্রাক্তন প্রেমিক/প্রেমিকা</ExLover.label>
+  <ExLover.labelFemale>প্রাক্তন প্রেমিক/প্রেমিকা</ExLover.labelFemale>
+  
+  <!-- EN: ex-husband -->
+  <ExSpouse.label>প্রাক্তন স্বামী</ExSpouse.label>
+  <!-- EN: ex-wife -->
+  <ExSpouse.labelFemale>প্রাক্তন স্ত্রী</ExSpouse.labelFemale>
+  
+  <!-- EN: fiance -->
+  <Fiance.label>বাগদত্তা</Fiance.label>
+  <!-- EN: fiancée -->
+  <Fiance.labelFemale>বাগদত্তা</Fiance.labelFemale>
+  
+  <!-- EN: lover -->
+  <Lover.label>প্রেমিক/প্রেমিকা</Lover.label>
+  <Lover.labelFemale>প্রেমিক/প্রেমিকা</Lover.labelFemale>
+  
+  <!-- EN: father-in-law -->
+  <ParentInLaw.label>শ্বশুর</ParentInLaw.label>
+  <!-- EN: mother-in-law -->
+  <ParentInLaw.labelFemale>শ্বশুর-বউমা</ParentInLaw.labelFemale>
+  
+  <!-- EN: husband -->
+  <Spouse.label>স্বামী</Spouse.label>
+  <!-- EN: wife -->
+  <Spouse.labelFemale>স্ত্রী</Spouse.labelFemale>
+  
+  <!-- EN: stepson -->
+  <Stepchild.label>stepson → পালক পুত্র</Stepchild.label>
+  <!-- EN: stepdaughter -->
+  <Stepchild.labelFemale>পালিত কন্যা</Stepchild.labelFemale>
+  
+  <!-- EN: stepfather -->
+  <Stepparent.label>সৎ বাবা</Stepparent.label>
+  <!-- EN: stepmother -->
+  <Stepparent.labelFemale>stepmother → সৎ মা</Stepparent.labelFemale>
+  
+</LanguageData>

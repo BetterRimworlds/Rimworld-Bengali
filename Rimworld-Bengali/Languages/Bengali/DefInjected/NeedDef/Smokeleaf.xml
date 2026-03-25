@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: smokeleaf -->
+  <Chemical_Smokeleaf.label>স্মোকলিফ</Chemical_Smokeleaf.label>
+  <!-- EN: Because of a smokeleaf dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <Chemical_Smokeleaf.description>স্মোকলিফ-এর প্রতি নির্ভরশীলতার কারণে, এই ব্যক্তিকে প্রত্যাহার উপসর্গ এড়ানোর জন্য নিয়মিতভাবে মাদকটি গ্রহণ করতে হয়।</Chemical_Smokeleaf.description>
+  
+</LanguageData>

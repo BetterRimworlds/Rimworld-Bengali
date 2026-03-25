@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer -->
+  <Beer.label>বিয়ার</Beer.label>
+  <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
+  <Beer.description>মানবজাতি কর্তৃক জল ব্যতীত প্রথম পানীয়। বিয়ার সুস্বাদু হতে পারে, তবে এর প্রধান প্রভাব হল মাতলামি। অতিরিক্ত সেবন স্মৃতিভ্রংশ এবং সময়ের সাথে সাথে আসক্তি সৃষ্টি করতে পারে।</Beer.description>
+  <!-- EN: Drink {0} -->
+  <Beer.ingestible.ingestCommandString>পানীয় {0}</Beer.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Beer.ingestible.ingestReportString>{0} পান করা হচ্ছে।</Beer.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <Beer.tools.bottle.label>বোতল</Beer.tools.bottle.label>
+  <!-- EN: neck -->
+  <Beer.tools.neck.label>গলা</Beer.tools.neck.label>
+  
+  <!-- EN: wort -->
+  <Wort.label>ওয়ার্ট</Wort.label>
+  <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
+  <Wort.description>অ-গাঁজনযুক্ত বিয়ার। এই পদার্থটি পানযোগ্য বিয়ার হওয়ার আগে একটি গাঁজনকারী পিপায় গাঁজন করা প্রয়োজন।</Wort.description>
+  
+</LanguageData>

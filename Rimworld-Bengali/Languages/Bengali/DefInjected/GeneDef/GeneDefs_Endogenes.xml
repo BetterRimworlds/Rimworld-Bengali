@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blonde hair -->
+  <Hair_Blonde.label>সোনালী চুল</Hair_Blonde.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_Blonde.description>এই জিন বহনকারীদের একটি বিশেষ চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_Blonde.description>
+  
+  <!-- EN: red hair -->
+  <Hair_BrightRed.label>লাল চুল</Hair_BrightRed.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_BrightRed.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_BrightRed.description>
+  
+  <!-- EN: dark-black hair -->
+  <Hair_DarkBlack.label>কালো চুল</Hair_DarkBlack.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkBlack.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_DarkBlack.description>
+  
+  <!-- EN: brown hair -->
+  <Hair_DarkBrown.label>বাদামী চুল</Hair_DarkBrown.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkBrown.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_DarkBrown.description>
+  
+  <!-- EN: dark-reddish hair -->
+  <Hair_DarkReddish.label>গাঢ়-লালচে চুল</Hair_DarkReddish.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkReddish.description>এই জিন বহনকারীদের একটি বিশেষ চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_DarkReddish.description>
+  
+  <!-- EN: dark-brown hair -->
+  <Hair_DarkSaturatedReddish.label>গাঢ়-বাদামী চুল</Hair_DarkSaturatedReddish.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkSaturatedReddish.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_DarkSaturatedReddish.description>
+  
+  <!-- EN: gray hair -->
+  <Hair_Gray.label>ধূসর চুল</Hair_Gray.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_Gray.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_Gray.description>
+  
+  <!-- EN: ink-black hair -->
+  <Hair_InkBlack.label>কালি-কালো চুল</Hair_InkBlack.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_InkBlack.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_InkBlack.description>
+  
+  <!-- EN: blue hair -->
+  <Hair_LightBlue.label>নীল চুল</Hair_LightBlue.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightBlue.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_LightBlue.description>
+  
+  <!-- EN: green hair -->
+  <Hair_LightGreen.label>সবুজ চুল</Hair_LightGreen.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightGreen.description>এই জিন বহনকারীদের একটি বিশেষ চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_LightGreen.description>
+  
+  <!-- EN: orange hair -->
+  <Hair_LightOrange.label>কমলা চুল</Hair_LightOrange.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightOrange.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_LightOrange.description>
+  
+  <!-- EN: purple hair -->
+  <Hair_LightPurple.label>বেগুনী চুল</Hair_LightPurple.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightPurple.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_LightPurple.description>
+  
+  <!-- EN: teal hair -->
+  <Hair_LightTeal.label>টিল চুল</Hair_LightTeal.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightTeal.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_LightTeal.description>
+  
+  <!-- EN: mid-black hair -->
+  <Hair_MidBlack.label>মাঝারি কালো চুল</Hair_MidBlack.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_MidBlack.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_MidBlack.description>
+  
+  <!-- EN: pink hair -->
+  <Hair_Pink.label>গোলাপী চুল</Hair_Pink.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_Pink.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_Pink.description>
+  
+  <!-- EN: reddish-brown hair -->
+  <Hair_ReddishBrown.label>লালচে-বাদামী চুল</Hair_ReddishBrown.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_ReddishBrown.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_ReddishBrown.description>
+  
+  <!-- EN: sandy-blonde hair -->
+  <Hair_SandyBlonde.label>বালুকাময়-সোনালী চুল</Hair_SandyBlonde.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_SandyBlonde.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_SandyBlonde.description>
+  
+  <!-- EN: snow-white hair -->
+  <Hair_SnowWhite.label>সাদা চুল</Hair_SnowWhite.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_SnowWhite.description>এই জিন বহনকারীদের একটি নির্দিষ্ট চুলের রঙ থাকে। একাধিক চুলের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Hair_SnowWhite.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin1.label>ত্বকের রঙ</Skin_Melanin1.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin1.description>এই জিন বহনকারীদের একটি বিশেষ ত্বকের রঙ থাকে। একাধিক ত্বকের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Skin_Melanin1.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin2.label>ত্বকের রঙ</Skin_Melanin2.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin2.description>এই জিন বহনকারীদের একটি বিশেষ ত্বকের রঙ থাকে। একাধিক ত্বকের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Skin_Melanin2.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin3.label>ত্বকের রঙ</Skin_Melanin3.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin3.description>এই জিন বহনকারীদের একটি বিশেষ ত্বকের রঙ থাকে। একাধিক ত্বকের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Skin_Melanin3.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin4.label>ত্বকের রঙ</Skin_Melanin4.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin4.description>এই জিন বহনকারীদের একটি বিশেষ ত্বকের রঙ থাকে। একাধিক ত্বকের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Skin_Melanin4.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin5.label>ত্বকের রঙ</Skin_Melanin5.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin5.description>এই জিন বহনকারীদের একটি বিশেষ ত্বকের রঙ থাকে। একাধিক ত্বকের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Skin_Melanin5.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin6.label>ত্বকের রঙ</Skin_Melanin6.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin6.description>এই জিন বহনকারীদের একটি বিশেষ ত্বকের রঙ থাকে। একাধিক ত্বকের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Skin_Melanin6.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin7.label>ত্বকের রঙ</Skin_Melanin7.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin7.description>এই জিন বহনকারীদের একটি বিশেষ ত্বকের রঙ থাকে। একাধিক ত্বকের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Skin_Melanin7.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin8.label>ত্বকের রঙ</Skin_Melanin8.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin8.description>এই জিন বহনকারীদের একটি বিশেষ ত্বকের রঙ থাকে। একাধিক ত্বকের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Skin_Melanin8.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin9.label>ত্বকের রঙ</Skin_Melanin9.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin9.description>এই জিন বহনকারীদের একটি বিশেষ ত্বকের রঙ থাকে। একাধিক ত্বকের রঙের জিন থাকলে, একটি র‍্যান্ডমলি নির্বাচন করা হয়।</Skin_Melanin9.description>
+  
+</LanguageData>

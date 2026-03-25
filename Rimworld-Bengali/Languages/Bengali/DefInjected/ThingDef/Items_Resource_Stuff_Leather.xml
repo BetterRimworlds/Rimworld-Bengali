@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: bearskin -->
+  <Leather_Bear.label>ভাল্লুক চামড়া</Leather_Bear.label>
+  <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
+  <Leather_Bear.description>একটি ভালুকের শক্তিশালী পশমযুক্ত চামড়া। অধিকাংশ চামড়ার তুলনায় এটি বেশ খানিকটা বেশি টেকসই এবং সব ধরনের তাপমাত্রার পরিবর্তনে সামান্য ভালো।</Leather_Bear.description>
+
+  <!-- EN: birdskin -->
+  <Leather_Bird.label>পাখির চামড়া</Leather_Bird.label>
+  <!-- EN: Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold. -->
+  <Leather_Bird.description>ত্বকযুক্ত, শুকনো, ঘষে নেওয়া পাখির চামড়া। এটি বেশ নাজুক। পালক ছাড়া, এটি তাপ বা ঠান্ডা থেকে সামান্যই সুরক্ষা দেয়।</Leather_Bird.description>
+
+  <!-- EN: bluefur -->
+  <Leather_Bluefur.label>নীল পশম</Leather_Bluefur.label>
+  <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
+  <Leather_Bluefur.description>মাফালোর পশমযুক্ত চামড়া। এর স্বতন্ত্র নীল আভা এটিকে সহজে চেনা যায়। ঠান্ডা আবহাওয়ায় তাপমাত্রা নিয়ন্ত্রণে এটি খুব উপযোগী।</Leather_Bluefur.description>
+
+  <!-- EN: camelhide -->
+  <Leather_Camel.label>উট চামড়া</Leather_Camel.label>
+  <!-- EN: Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates. -->
+  <Leather_Camel.description>ত্বকযুক্ত, শুকনো, ঘষা উটের চামড়া। গরম আবহাওয়ায় তাপমাত্রা নিয়ন্ত্রণে ভালো।</Leather_Camel.description>
+
+  <!-- EN: chinchilla fur -->
+  <Leather_Chinchilla.label>চিনচিলা পশম</Leather_Chinchilla.label>
+  <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
+  <Leather_Chinchilla.description>চিনচিলা চামড়া, ট্যান করা, শুকানো এবং ঘষে মসৃণ করা। এটি একটি অত্যন্ত বিলাসবহুল এবং অন্তরক পশম হিসাবে পরিচিত, যা ব্যতিক্রমী মূল্যবান।</Leather_Chinchilla.description>
+
+  <!-- EN: dog leather -->
+  <Leather_Dog.label>কুকুর চামড়া</Leather_Dog.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Dog.description>ত্বক পোড়ানো, শুকানো, ঘষা হয়েছে। পোশাক এবং ব্যাগ তৈরির জন্য একটি ভালো ঐতিহ্যবাহী উপাদান।</Leather_Dog.description>
+
+  <!-- EN: elephant leather -->
+  <Leather_Elephant.label>হাতির চামড়া</Leather_Elephant.label>
+  <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
+  <Leather_Elephant.description>ত্বকটি ট্যান করা, শুকানো এবং ঘষা হাতির চামড়া। এটি বেশ শক্ত হলেও, এটি একটি দুর্বল অন্তরক।</Leather_Elephant.description>
+
+  <!-- EN: foxfur -->
+  <Leather_Fox.label>শিয়াল পশম</Leather_Fox.label>
+  <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
+  <Leather_Fox.description>একটি শিয়ালের চামড়া। এটি ঠান্ডা থেকে ভালোভাবে রক্ষা করে এবং বেশ বিলাসবহুল, যা ভালো দামে বিক্রি হয়।</Leather_Fox.description>
+
+  <!-- EN: guinea pig fur -->
+  <Leather_GuineaPig.label>গিনিপিগ পশম</Leather_GuineaPig.label>
+  <!-- EN: Sheets of guinea pig fur. It is delicate, but luxurious. -->
+  <Leather_GuineaPig.description>গিনিপিগের লোমের শীট। এটি সূক্ষ্ম, কিন্তু বিলাসবহুল।</Leather_GuineaPig.description>
+
+  <!-- EN: heavy fur -->
+  <Leather_Heavy.label>ঘন পশম</Leather_Heavy.label>
+  <!-- EN: Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well. -->
+  <Leather_Heavy.description>ঘন চামড়া দীর্ঘ, রুক্ষ পশমের স্তরে আবৃত। এটি একটি বৃহৎ, কষ্টসহিষ্ণু প্রাণী থেকে সংগ্রহ করা হয়েছে। এই পুরু ত্বক খুব ভালোভাবে তাপ নিরোধক এবং সুরক্ষা প্রদান করে।</Leather_Heavy.description>
+  <!-- EN: heavy fur -->
+  <Leather_Heavy.stuffProps.stuffAdjective>ঘন পশম</Leather_Heavy.stuffProps.stuffAdjective>
+
+  <!-- EN: human leather -->
+  <Leather_Human.label>মানুষের চামড়া</Leather_Human.label>
+  <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Human.description>ত্বকের পোঁচ, যা ত্যান করা, শুকানো ও ঘষে পরিষ্কার করা হয়েছে। অধিকাংশ মানুষ এই উপাদানটিকে ভীতিকর মনে করে। কেউ কেউ এটিকে আকর্ষণীয় মনে করে। এটি চামড়ার মতো হলেও, এটি খুব বেশি সুরক্ষা বা তাপ নিরোধক সরবরাহ করে না।</Leather_Human.description>
+
+  <!-- EN: lightleather -->
+  <Leather_Light.label>হালকা চামড়া</Leather_Light.label>
+  <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
+  <Leather_Light.description>হালকা ও পাতলা চামড়া। সম্ভবত কোনো ছোট প্রাণী থেকে সংগ্রহ করা হয়েছে। ঘন চামড়ার মতো তেমন সুরক্ষা দেয় না।</Leather_Light.description>
+  <!-- EN: lightleather -->
+  <Leather_Light.stuffProps.stuffAdjective>হালকা চামড়া</Leather_Light.stuffProps.stuffAdjective>
+
+  <!-- EN: lizardskin -->
+  <Leather_Lizard.label>সরীসৃপ ত্বক</Leather_Lizard.label>
+  <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
+  <Leather_Lizard.description>ঠান্ডা রক্তের সরীসৃপের তামাটে চামড়া। টিকটিকির চামড়া মোটামুটি শক্ত, কিন্তু মোটেও ভালোভাবে তাপ ধরে রাখতে পারে না।</Leather_Lizard.description>
+
+  <!-- EN: panthera fur -->
+  <Leather_Panthera.label>প্যান্থেরা পশম</Leather_Panthera.label>
+  <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
+  <Leather_Panthera.description>একটি বড় বিড়ালের শরীর থেকে পাওয়া নরম, লোমশ চামড়া। এটি ভেদ করা কঠিন এবং তাপে ভালোভাবে নিরোধক হিসেবে কাজ করে।</Leather_Panthera.description>
+
+  <!-- EN: patchleather -->
+  <Leather_Patch.label>প্যাচ চামড়া</Leather_Patch.label>
+  <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
+  <Leather_Patch.description>বিভিন্ন ধরনের চামড়া কেটে সেলাই করে তৈরি করা একটি দুর্বল টেক্সটাইল। এটি তৈরিতে যে ধরনের চামড়া ব্যবহার করা হোক না কেন, প্যাচলেদারের অসম seams এটিকে যেকোনো অক্ষত চামড়ার চেয়ে কম কঠিন এবং কম অন্তরক করে তোলে।</Leather_Patch.description>
+
+  <!-- EN: pigskin -->
+  <Leather_Pig.label>শুয়োরের চামড়া</Leather_Pig.label>
+  <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Pig.description>ত্বক ট্যান করা, শুকানো, এবং পালিশ করা শূকরের চামড়া। এটি ভালো চামড়া হলেও, এটি খুব বেশি সুরক্ষা দেয় না বা অন্তরক হিসেবেও তেমন কার্যকর নয়।</Leather_Pig.description>
+
+  <!-- EN: plainleather -->
+  <Leather_Plain.label>সাধারণ চামড়া</Leather_Plain.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Plain.description>ত্বক পোড়ানো, শুকানো, ঘষা হয়েছে। পোশাক এবং ব্যাগ তৈরির জন্য এটি একটি ভালো ঐতিহ্যবাহী উপাদান।</Leather_Plain.description>
+  <!-- EN: plainleather -->
+  <Leather_Plain.stuffProps.stuffAdjective>সাধারণ চামড়া</Leather_Plain.stuffProps.stuffAdjective>
+
+  <!-- EN: rhinoceros leather -->
+  <Leather_Rhinoceros.label>গন্ডারের চামড়া</Leather_Rhinoceros.label>
+  <!-- EN: Tanned, dried, scraped rhinoceros skin. It is exceptionally durable in combat, but provides little protection from weather. -->
+  <Leather_Rhinoceros.description>ত্বকটি তামাটে, শুকনো, এবং ঘষা দাঁতের মতো গন্ডারের চামড়া। এটি যুদ্ধক্ষেত্রে ব্যতিক্রমীভাবে টেকসই, তবে আবহাওয়া থেকে সামান্য সুরক্ষা প্রদান করে।</Leather_Rhinoceros.description>
+
+  <!-- EN: thrumbofur -->
+  <Leather_Thrumbo.label>থ্রাম্বোফার</Leather_Thrumbo.label>
+  <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
+  <Leather_Thrumbo.description>থ্রাম্বোর পশম চামড়া। বিলাসবহুল এবং অসাধারণভাবে টেকসই। এর অন্তরক ক্ষমতা এবং শক্তির জন্য সর্বোচ্চ মানের কারুশিল্পে ব্যবহৃত হয়।</Leather_Thrumbo.description>
+
+  <!-- EN: wolfskin -->
+  <Leather_Wolf.label>ওল্ফস্কিন</Leather_Wolf.label>
+  <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
+  <Leather_Wolf.description>একটি নরম, লোমশ চামড়া নেকড়ে জাতীয় প্রাণী থেকে সংগ্রহ করা হয়েছে। এটি ভেদ করা কঠিন এবং ঠান্ডা থেকে ভালোভাবে রক্ষা করে।</Leather_Wolf.description>
+
+</LanguageData>

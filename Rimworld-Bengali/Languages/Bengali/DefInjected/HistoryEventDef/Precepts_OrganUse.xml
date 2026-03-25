@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: harvested colonist organ -->
+  <HarvestedOrganFromColonist.label>সংগৃহীত উপনিবেশিক অঙ্গ</HarvestedOrganFromColonist.label>
+  
+  <!-- EN: harvested guest organ -->
+  <HarvestedOrganFromGuest.label>সংগৃহীত অতিথি অঙ্গ</HarvestedOrganFromGuest.label>
+  
+</LanguageData>

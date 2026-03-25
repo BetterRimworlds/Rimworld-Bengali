@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic fox --><!-- EN: zorro ártico -->
+  <Fox_Arctic.label>আর্কটিক জোরো</Fox_Arctic.label><!-- EN: zorra ártica -->
+  <Fox_Arctic.labelFemale>আর্কটিক জরা</Fox_Arctic.labelFemale><!-- EN: zorras árticas -->
+  <Fox_Arctic.labelFemalePlural>আর্কটিক জোররাস</Fox_Arctic.labelFemalePlural><!-- EN: zorro ártico -->
+  <Fox_Arctic.labelMale>আর্কটিক জরো</Fox_Arctic.labelMale><!-- EN: zorros árticos -->
+  <Fox_Arctic.labelMalePlural>আর্কটিক জোরোস</Fox_Arctic.labelMalePlural>
+  <!-- EN: arctic foxes --><!-- EN: zorros árticos -->
+  <Fox_Arctic.labelPlural>আর্কটিক জোরোস</Fox_Arctic.labelPlural>
+  <!-- EN: arctic fox puppy --><!-- EN: cría de zorro ártico -->
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>আর্কটিক শিয়াল শাবক</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <!-- EN: arctic fox puppies --><!-- EN: crías de zorro ártico -->
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>আর্কটিক শিয়ালের বাচ্চা</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural><!-- EN: zorro ártico joven -->
+  <Fox_Arctic.lifeStages.1.label>আর্কটিক জরো অল্পবয়সী</Fox_Arctic.lifeStages.1.label><!-- EN: zorra ártica joven -->
+  <Fox_Arctic.lifeStages.1.labelFemale>জোরা আর্ক্টিকা অল্পবয়স্ক</Fox_Arctic.lifeStages.1.labelFemale><!-- EN: zorras árticas jóvenes -->
+  <Fox_Arctic.lifeStages.1.labelFemalePlural>আর্কটিক জরা অল্পবয়সী</Fox_Arctic.lifeStages.1.labelFemalePlural><!-- EN: zorro ártico joven -->
+  <Fox_Arctic.lifeStages.1.labelMale>তরুণ জরো আর্টিকো</Fox_Arctic.lifeStages.1.labelMale><!-- EN: zorros árticos jóvenes -->
+  <Fox_Arctic.lifeStages.1.labelMalePlural>আর্কটিক জরোস শাবক</Fox_Arctic.lifeStages.1.labelMalePlural><!-- EN: zorros árticos jóvenes -->
+  <Fox_Arctic.lifeStages.1.labelPlural>আর্কটিক জরোস অল্পবয়সী</Fox_Arctic.lifeStages.1.labelPlural><!-- EN: zorro ártico -->
+  <Fox_Arctic.lifeStages.2.label>আর্কটিক জোরো</Fox_Arctic.lifeStages.2.label><!-- EN: zorra ártica -->
+  <Fox_Arctic.lifeStages.2.labelFemale>জোরা আর্ক্টিকা</Fox_Arctic.lifeStages.2.labelFemale><!-- EN: zorras árticas -->
+  <Fox_Arctic.lifeStages.2.labelFemalePlural>আর্কটিক জোররাস</Fox_Arctic.lifeStages.2.labelFemalePlural><!-- EN: zorro ártico -->
+  <Fox_Arctic.lifeStages.2.labelMale>আর্কটিক জোরো</Fox_Arctic.lifeStages.2.labelMale><!-- EN: zorros árticos -->
+  <Fox_Arctic.lifeStages.2.labelMalePlural>আর্কটিক জরোস</Fox_Arctic.lifeStages.2.labelMalePlural><!-- EN: zorros árticos -->
+  <Fox_Arctic.lifeStages.2.labelPlural>আর্কটিক জোরোস</Fox_Arctic.lifeStages.2.labelPlural>
+  
+  <!-- EN: fennec fox --><!-- EN: zorro fénec -->
+  <Fox_Fennec.label>জোরো ফেনেক</Fox_Fennec.label><!-- EN: zorra fénec -->
+  <Fox_Fennec.labelFemale>জোররা ফেনেক</Fox_Fennec.labelFemale><!-- EN: zorras fénec -->
+  <Fox_Fennec.labelFemalePlural>ফেনেকের জোররা</Fox_Fennec.labelFemalePlural><!-- EN: zorro fénec -->
+  <Fox_Fennec.labelMale>জোরো ফেনেক</Fox_Fennec.labelMale><!-- EN: zorros fénec -->
+  <Fox_Fennec.labelMalePlural>ফেনেক জোরোস</Fox_Fennec.labelMalePlural>
+  <!-- EN: fennec foxes --><!-- EN: zorro fénec -->
+  <Fox_Fennec.labelPlural>জোরো ফেনেক</Fox_Fennec.labelPlural>
+  <!-- EN: fennec fox puppy --><!-- EN: cría de zorro fénec -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>ফেনেক শিয়ালের বাচ্চা</Fox_Fennec.lifeStages.fennec_fox_puppy.label><!-- EN: cría de zorra fénec -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale>ফেনেক শিয়ালের বাচ্চা</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale><!-- EN: crías de zorra fénec -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>ফেনেক শৃঙ্গালের বাচ্চা</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>
+  <!-- EN: fennec fox puppies --><!-- EN: crías de zorro fénec -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>ফেনেক শিয়ালের বাচ্চা</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural><!-- EN: zorro fénec joven -->
+  <Fox_Fennec.lifeStages.1.label>যোরো ফেনেক অল্পবয়সী</Fox_Fennec.lifeStages.1.label><!-- EN: zorra fénec joven -->
+  <Fox_Fennec.lifeStages.1.labelFemale>জোরা ফেনেক অল্পবয়স্ক</Fox_Fennec.lifeStages.1.labelFemale><!-- EN: zorras fénec jóvenes -->
+  <Fox_Fennec.lifeStages.1.labelFemalePlural>জোরাস ফেনেক অল্পবয়স্ক</Fox_Fennec.lifeStages.1.labelFemalePlural><!-- EN: zorro fénec joven -->
+  <Fox_Fennec.lifeStages.1.labelMale>আরওরো ফেনেক অল্পবয়স্ক</Fox_Fennec.lifeStages.1.labelMale><!-- EN: zorros fénec jóvenes -->
+  <Fox_Fennec.lifeStages.1.labelMalePlural>যৌবন ফেনেক জোররোস</Fox_Fennec.lifeStages.1.labelMalePlural><!-- EN: zorros fénec jóvenes -->
+  <Fox_Fennec.lifeStages.1.labelPlural>যৌবন ফেনেক জরোস</Fox_Fennec.lifeStages.1.labelPlural><!-- EN: zorro fénec -->
+  <Fox_Fennec.lifeStages.2.label>জোরো ফেনেক</Fox_Fennec.lifeStages.2.label><!-- EN: zorra fénec -->
+  <Fox_Fennec.lifeStages.2.labelFemale>জরা ফেনেক</Fox_Fennec.lifeStages.2.labelFemale><!-- EN: zorras fénec -->
+  <Fox_Fennec.lifeStages.2.labelFemalePlural>জোরাস ফেনেক</Fox_Fennec.lifeStages.2.labelFemalePlural><!-- EN: zorro fénec -->
+  <Fox_Fennec.lifeStages.2.labelMale>জোরো ফেনেক</Fox_Fennec.lifeStages.2.labelMale><!-- EN: zorros fénec -->
+  <Fox_Fennec.lifeStages.2.labelMalePlural>ফেনেক জোররোস</Fox_Fennec.lifeStages.2.labelMalePlural><!-- EN: zorros fénec -->
+  <Fox_Fennec.lifeStages.2.labelPlural>ফেনেক জোররোস</Fox_Fennec.lifeStages.2.labelPlural>
+  
+  <!-- EN: red fox --><!-- EN: zorro rojo -->
+  <Fox_Red.label>র‍্যাভেনাস জরো rojo</Fox_Red.label><!-- EN: zorra roja -->
+  <Fox_Red.labelFemale>জোরা রোজা</Fox_Red.labelFemale><!-- EN: zorras rojas -->
+  <Fox_Red.labelFemalePlural>জোররাস রোখাস</Fox_Red.labelFemalePlural><!-- EN: zorro rojo -->
+  <Fox_Red.labelMale>জোরো রোজো</Fox_Red.labelMale><!-- EN: zorros rojos -->
+  <Fox_Red.labelMalePlural>জোরোস রোজোস</Fox_Red.labelMalePlural>
+  <!-- EN: red foxes --><!-- EN: zorros rojos -->
+  <Fox_Red.labelPlural>র‍্যাভেন-ফক্সes</Fox_Red.labelPlural>
+  <!-- EN: red fox puppy --><!-- EN: cría de zorro rojo -->
+  <Fox_Red.lifeStages.red_fox_puppy.label>লাল শিয়ালের বাচ্চা</Fox_Red.lifeStages.red_fox_puppy.label>
+  <!-- EN: red fox puppies --><!-- EN: crías de zorro rojo -->
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>লাল শিয়ালের বাচ্চা</Fox_Red.lifeStages.red_fox_puppy.labelPlural><!-- EN: zorro rojo joven -->
+  <Fox_Red.lifeStages.1.label>তরুণ জোরো rojo</Fox_Red.lifeStages.1.label><!-- EN: zorra roja joven -->
+  <Fox_Red.lifeStages.1.labelFemale>জোরা রোজা ইয়োভেন</Fox_Red.lifeStages.1.labelFemale><!-- EN: zorras rojas jóvenes -->
+  <Fox_Red.lifeStages.1.labelFemalePlural>তরুণী রোজন জোররা</Fox_Red.lifeStages.1.labelFemalePlural><!-- EN: zorro rojo joven -->
+  <Fox_Red.lifeStages.1.labelMale>যৌবনোজ্জ্বল জরো rojo</Fox_Red.lifeStages.1.labelMale><!-- EN: zorros rojos jóvenes -->
+  <Fox_Red.lifeStages.1.labelMalePlural>তরুণ জোরোস rojos</Fox_Red.lifeStages.1.labelMalePlural><!-- EN: zorros rojos jóvenes -->
+  <Fox_Red.lifeStages.1.labelPlural>তরুণ জোরোস rojos</Fox_Red.lifeStages.1.labelPlural><!-- EN: zorro rojo -->
+  <Fox_Red.lifeStages.2.label>রেড জোরো</Fox_Red.lifeStages.2.label><!-- EN: zorra roja -->
+  <Fox_Red.lifeStages.2.labelFemale>জোরা রোজা</Fox_Red.lifeStages.2.labelFemale><!-- EN: zorras rojas -->
+  <Fox_Red.lifeStages.2.labelFemalePlural>জোররাস রোখাস</Fox_Red.lifeStages.2.labelFemalePlural><!-- EN: zorro rojo -->
+  <Fox_Red.lifeStages.2.labelMale>জররো রোখো</Fox_Red.lifeStages.2.labelMale><!-- EN: zorros rojos -->
+  <Fox_Red.lifeStages.2.labelMalePlural>জোরোস রোজোস</Fox_Red.lifeStages.2.labelMalePlural><!-- EN: zorros rojos -->
+  <Fox_Red.lifeStages.2.labelPlural>র‍্যাডিক্যাল ফক্সes</Fox_Red.lifeStages.2.labelPlural>
+  
+  <!-- EN: arctic wolf --><!-- EN: lobo ártico -->
+  <Wolf_Arctic.label>আর্কটিক লোবো</Wolf_Arctic.label><!-- EN: loba ártica -->
+  <Wolf_Arctic.labelFemale>লোবা আর্টিক</Wolf_Arctic.labelFemale><!-- EN: lobas árticas -->
+  <Wolf_Arctic.labelFemalePlural>লোবাস আর্কটিকাস</Wolf_Arctic.labelFemalePlural><!-- EN: lobo ártico -->
+  <Wolf_Arctic.labelMale>আর্কটিক لوبو</Wolf_Arctic.labelMale><!-- EN: lobos árticos -->
+  <Wolf_Arctic.labelMalePlural>আর্কটিক لوبوস</Wolf_Arctic.labelMalePlural>
+  <!-- EN: arctic wolves --><!-- EN: lobos árticos -->
+  <Wolf_Arctic.labelPlural>আর্কটিক لوبوস</Wolf_Arctic.labelPlural>
+  <!-- EN: arctic wolf puppy --><!-- EN: lobezno ártico -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>লোবেজনো আর্কটিকো</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label><!-- EN: lobezna ártica -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>লোবেজনা আর্ক্টিকা</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale><!-- EN: lobeznas árticas -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>লোবেজناس আর্কটিকাস</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural><!-- EN: lobezno ártico -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>লোবেজনো আর্কটিক</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale><!-- EN: lobeznos árticos -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>লোবেজনোস আর্কটিক</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>
+  <!-- EN: arctic wolf puppies --><!-- EN: lobeznos árticos -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>লোবেজনোস আর্কটিক</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural><!-- EN: lobo ártico joven -->
+  <Wolf_Arctic.lifeStages.1.label>আর্কটিক লোবো অল্পবয়সী</Wolf_Arctic.lifeStages.1.label><!-- EN: loba ártica joven -->
+  <Wolf_Arctic.lifeStages.1.labelFemale>লোবা আর্ক্টিকা অল্পবয়স্ক</Wolf_Arctic.lifeStages.1.labelFemale><!-- EN: lobas árticas jóvenes -->
+  <Wolf_Arctic.lifeStages.1.labelFemalePlural>লোবাস আর্কটিকাস অল্পবয়সী</Wolf_Arctic.lifeStages.1.labelFemalePlural><!-- EN: lobo ártico joven -->
+  <Wolf_Arctic.lifeStages.1.labelMale>আর্কটিক নেকড়ে শাবক</Wolf_Arctic.lifeStages.1.labelMale><!-- EN: lobos árticos jóvenes -->
+  <Wolf_Arctic.lifeStages.1.labelMalePlural>আর্কটিক নেকড়ে শাবক</Wolf_Arctic.lifeStages.1.labelMalePlural><!-- EN: lobos árticos jóvenes -->
+  <Wolf_Arctic.lifeStages.1.labelPlural>আর্কটিক নেকড়ে শাবক</Wolf_Arctic.lifeStages.1.labelPlural><!-- EN: lobo ártico -->
+  <Wolf_Arctic.lifeStages.2.label>আর্কটিক নেকড়ে</Wolf_Arctic.lifeStages.2.label><!-- EN: loba ártica -->
+  <Wolf_Arctic.lifeStages.2.labelFemale>লোবা আর্টিক</Wolf_Arctic.lifeStages.2.labelFemale><!-- EN: lobas árticas -->
+  <Wolf_Arctic.lifeStages.2.labelFemalePlural>লোবাস আর্টিকাস</Wolf_Arctic.lifeStages.2.labelFemalePlural><!-- EN: lobo ártico -->
+  <Wolf_Arctic.lifeStages.2.labelMale>আর্কটিক لوبو</Wolf_Arctic.lifeStages.2.labelMale><!-- EN: lobos árticos -->
+  <Wolf_Arctic.lifeStages.2.labelMalePlural>আর্কটিক নেকড়ে</Wolf_Arctic.lifeStages.2.labelMalePlural><!-- EN: lobos árticos -->
+  <Wolf_Arctic.lifeStages.2.labelPlural>আর্কটিক لوبوস</Wolf_Arctic.lifeStages.2.labelPlural>
+  
+  <!-- EN: timber wolf --><!-- EN: lobo gris -->
+  <Wolf_Timber.label>ধূসর নেকড়ে</Wolf_Timber.label><!-- EN: loba gris -->
+  <Wolf_Timber.labelFemale>লোবা গ্রিস</Wolf_Timber.labelFemale><!-- EN: lobas grises -->
+  <Wolf_Timber.labelFemalePlural>লোবাস গ্রিসেস</Wolf_Timber.labelFemalePlural><!-- EN: lobo gris -->
+  <Wolf_Timber.labelMale>গ্রে উলফ</Wolf_Timber.labelMale><!-- EN: lobos grises -->
+  <Wolf_Timber.labelMalePlural>লোবোস গ্রিসেস</Wolf_Timber.labelMalePlural>
+  <!-- EN: timber wolves --><!-- EN: lobos grises -->
+  <Wolf_Timber.labelPlural>লোবোস গ্রিসেস</Wolf_Timber.labelPlural>
+  <!-- EN: timber wolf puppy --><!-- EN: lobezno gris -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>লোবেজনো গ্রিস</Wolf_Timber.lifeStages.timber_wolf_puppy.label><!-- EN: lobezna gris -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemale>লোবেজনা গ্রিস</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemale><!-- EN: lobeznas grises -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural>লোবেজناس গ্রিসেস</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural><!-- EN: lobezno gris -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelMale>লোবেজনো গ্রিস</Wolf_Timber.lifeStages.timber_wolf_puppy.labelMale><!-- EN: lobeznos grises -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelMalePlural>লোবেজনোস গ্রিসেস</Wolf_Timber.lifeStages.timber_wolf_puppy.labelMalePlural>
+  <!-- EN: timber wolf puppies --><!-- EN: lobeznos grises -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>লোবেজনোস গ্রিসেস</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural><!-- EN: lobo gris joven -->
+  <Wolf_Timber.lifeStages.1.label>তরুণ ধূসর নেকড়ে</Wolf_Timber.lifeStages.1.label><!-- EN: loba gris joven -->
+  <Wolf_Timber.lifeStages.1.labelFemale>লোবা গ্রিস ইয়ং</Wolf_Timber.lifeStages.1.labelFemale><!-- EN: lobas grises jóvenes -->
+  <Wolf_Timber.lifeStages.1.labelFemalePlural>লোবাস গ্রিসেস ইয়ং</Wolf_Timber.lifeStages.1.labelFemalePlural><!-- EN: lobo gris joven -->
+  <Wolf_Timber.lifeStages.1.labelMale>তরুণ গ্রিস لوبو</Wolf_Timber.lifeStages.1.labelMale><!-- EN: lobos grises jóvenes -->
+  <Wolf_Timber.lifeStages.1.labelMalePlural>লোবোস গ্রিসেস ইয়ং</Wolf_Timber.lifeStages.1.labelMalePlural><!-- EN: lobos grises jóvenes -->
+  <Wolf_Timber.lifeStages.1.labelPlural>লোবোস গ্রিসেস ইয়ং</Wolf_Timber.lifeStages.1.labelPlural><!-- EN: lobo gris -->
+  <Wolf_Timber.lifeStages.2.label>ধূসর নেকড়ে</Wolf_Timber.lifeStages.2.label><!-- EN: loba gris -->
+  <Wolf_Timber.lifeStages.2.labelFemale>লোবা গ্রিস</Wolf_Timber.lifeStages.2.labelFemale><!-- EN: lobas grises -->
+  <Wolf_Timber.lifeStages.2.labelFemalePlural>লোবাস গ্রিসেস</Wolf_Timber.lifeStages.2.labelFemalePlural><!-- EN: lobo gris -->
+  <Wolf_Timber.lifeStages.2.labelMale>গ্রে উলফ</Wolf_Timber.lifeStages.2.labelMale><!-- EN: lobos grises -->
+  <Wolf_Timber.lifeStages.2.labelMalePlural>লোবোস গ্রিসেস</Wolf_Timber.lifeStages.2.labelMalePlural><!-- EN: lobos grises -->
+  <Wolf_Timber.lifeStages.2.labelPlural>লোবোস গ্রিসেস</Wolf_Timber.lifeStages.2.labelPlural>
+  
+</LanguageData>

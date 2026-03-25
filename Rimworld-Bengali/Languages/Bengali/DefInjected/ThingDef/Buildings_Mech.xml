@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mini-slug -->
+  <Bullet_MiniSlug.label>মিনি-স্লাগ</Bullet_MiniSlug.label>
+  
+  <!-- EN: burning power cell -->
+  <BurningPowerCell.label>দহনশীল পাওয়ার সেল</BurningPowerCell.label>
+  <!-- EN: A damaged mechanoid power generation unit. The cell has been destabilized by the death of the mechanoid, and is burning down in seconds. When critically damaged, this cell will explode. -->
+  <BurningPowerCell.description>একটি ক্ষতিগ্রস্ত মেকানোইড পাওয়ার জেনারেশন ইউনিট। মেকানোইডটির মৃত্যুর কারণে কোষটি অস্থিতিশীল হয়ে গেছে, এবং কয়েক সেকেন্ডের মধ্যে পুড়ে ছাই হয়ে যাবে। গুরুতরভাবে ক্ষতিগ্রস্ত হলে এই কোষটি বিস্ফোরিত হবে।</BurningPowerCell.description>
+  
+  <!-- EN: mech node -->
+  <Gloomlight.label>মেক নোড</Gloomlight.label>
+  <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
+  <Gloomlight.description>এটি একটি স্বয়ংক্রিয় মেকানোইড নোড, যার কাজ অজানা। মেক নোডগুলি ভেঙে মূল্যবান সম্পদ পাওয়া যেতে পারে—তবে শুধুমাত্র যদি সেগুলি অক্ষত অবস্থায় ধরা যায়। ইউনিট অতিরিক্ত ক্ষতিগ্রস্ত হলে অভ্যন্তরীণ মাইক্রো পাওয়ার সেলটি বিস্ফোরিত হবে এবং উপকরণগুলি নষ্ট হয়ে যাবে।</Gloomlight.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <Gloomlight.comps.CompInspectString.inspectString>মূল্যবান সম্পদের জন্য ভেঙে ফেলুন।</Gloomlight.comps.CompInspectString.inspectString>
+  
+  <!-- EN: mini-slugger -->
+  <Gun_MiniTurretMech.label>মিনি-স্লাগার</Gun_MiniTurretMech.label>
+  <!-- EN: An automatic turret-mounted slug-thrower. -->
+  <Gun_MiniTurretMech.description>একটি স্বয়ংক্রিয় টারেট-মাউন্ট করা স্লাগ-থ্রোয়ার।</Gun_MiniTurretMech.description>
+  <!-- EN: mini-slugger -->
+  <Gun_MiniTurretMech.verbs.Verb_Shoot.label>মিনি-স্লাগার</Gun_MiniTurretMech.verbs.Verb_Shoot.label>
+  
+  <!-- EN: mini-slugger turret -->
+  <Turret_AutoMiniTurret.label>মিনি-স্লাগারটারেট</Turret_AutoMiniTurret.label>
+  <!-- EN: A self-powered defense turret mounted with a weak but long-ranged slug-thrower. May explode when damaged. -->
+  <Turret_AutoMiniTurret.description>এটি একটি স্বয়ংক্রিয় প্রতিরক্ষাটারেট, যাতে দুর্বল কিন্তু দূরপাল্লার স্লাগ-থ্রোয়ার বসানো আছে। ক্ষতিগ্রস্ত হলে বিস্ফোরিত হতে পারে।</Turret_AutoMiniTurret.description>
+  
+</LanguageData>

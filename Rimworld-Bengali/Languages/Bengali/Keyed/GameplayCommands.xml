@@ -1,0 +1,768 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Forbid -->
+  <!-- EN: Forbid -->
+  <CommandForbid>নিষিদ্ধ করুন</CommandForbid>
+  <!-- EN: Allow -->
+  <CommandAllow>অনুমতি দিন</CommandAllow>
+  <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
+  <CommandForbiddenDesc>নিষিদ্ধ: আপনার উপনিবেশ স্থাপনকারীরা এটি ব্যবহার করতে পারবে না। অনুমতি দেওয়ার জন্য এখানে ক্লিক করুন।</CommandForbiddenDesc>
+  <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
+  <CommandNotForbiddenDesc>আপনার উপনিবেশ স্থাপনকারীরা এটি ব্যবহার করতে পারবে। নিষিদ্ধ করতে ক্লিক করুন।</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <!-- EN: Toggle power -->
+  <CommandTogglePowerLabel>বিদ্যুৎ টগল করুন</CommandTogglePowerLabel>
+  <!-- EN: Toggle power. -->
+  <CommandTogglePowerDesc>বিদ্যুৎ চালু বা বন্ধ করুন।</CommandTogglePowerDesc>
+  
+  <!-- EN: Designate toggle power -->
+  <CommandDesignateTogglePowerLabel>বিদ্যুৎ টগল নির্ধারণ করুন</CommandDesignateTogglePowerLabel>
+  <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
+  <CommandDesignateTogglePowerDesc>এই জিনিসটিকে পাওয়ার টগল করার জন্য নির্ধারণ করা হলো। একজন উপনিবেশকারী শীঘ্রই সুইচটি চালু করতে আসবে।</CommandDesignateTogglePowerDesc>
+  
+  <!-- EN: Reconnect -->
+  <CommandTryReconnectLabel>পুনরায় সংযোগ করুন</CommandTryReconnectLabel>
+  <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
+  <CommandTryReconnectDesc>আমার সংযোগ ব্যাসার্ধের মধ্যে অন্য একটি পাওয়ার নেটের সাথে সংযোগ করার চেষ্টা করুন। যদি আমি একটি বিদ্যুতবিহীন নেটের সাথে সংযুক্ত থাকি কিন্তু কাছাকাছি একটি বিদ্যুতপূর্ণ নেট থাকে তবে এটি সহায়ক হবে।</CommandTryReconnectDesc>
+
+  <!-- EN: Gather spot -->
+  <CommandGatherSpotToggleLabel>সমাবেত স্থান</CommandGatherSpotToggleLabel>
+  <!-- EN: Active - colonists will gather around this object. -->
+  <CommandGatherSpotToggleDescActive>সক্রিয় - উপনিবেশ স্থাপনকারীরা এই বস্তুর চারপাশে একত্রিত হবে।</CommandGatherSpotToggleDescActive>
+  <!-- EN: Inactive - colonists will not gather around this object. -->
+  <CommandGatherSpotToggleDescInactive>নিষ্ক্রিয় - উপনিবেশ স্থাপনকারীরা এই বস্তুর চারপাশে একত্রিত হবে না।</CommandGatherSpotToggleDescInactive>
+  
+  <!-- Drafting -->
+  <!-- EN: Draft -->
+  <CommandDraftLabel>মোতায়েন</CommandDraftLabel>
+  <!-- EN: Undraft -->
+  <CommandUndraftLabel>অপসারণ</CommandUndraftLabel>
+  <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
+  <CommandToggleDraftDesc>সামরিক মোতায়েন চালু করুন।\n\nমোতায়েন করা ব্যক্তিরা আদেশ গ্রহণ করে এবং যুদ্ধ করে। তারা কাজ, খাওয়া বা বিশ্রাম করবে না।</CommandToggleDraftDesc>
+  <!-- EN: {1_labelShort} cannot walk. -->
+  <IsIncapped>{1_labelShort} হাঁটতে পারছে না।</IsIncapped>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <ParticipatingInRitual>{0_labelShort} {1}-এ অংশগ্রহণ করছে।</ParticipatingInRitual>
+
+  <!-- EN: Fire at will -->
+  <CommandFireAtWillLabel>ইচ্ছা অনুযায়ী আগুন লাগাও</CommandFireAtWillLabel>
+  <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
+  <CommandFireAtWillDesc>ইচ্ছানুযায়ী ফায়ার টগল করুন।\n\nঅক্ষম করা হলে, এই চরিত্রটি স্বয়ংক্রিয়ভাবে দূরবর্তী লক্ষ্যবস্তুতে গুলি করবে না। এটি নিকট যুদ্ধের সাথে সম্পর্কিত নয়।</CommandFireAtWillDesc>
+  
+  <!-- EN: Clear prioritized work -->
+  <CommandClearPrioritizedWork>গুরুত্বপূর্ণ কাজ</CommandClearPrioritizedWork>
+  <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
+  <CommandClearPrioritizedWorkDesc>অ্যাসাইন করা অগ্রাধিকারপূর্ণ কাজগুলি বাতিল করা হলো। চরিত্রটি তাদের স্বাভাবিক স্ব-নির্দেশিত কার্যকলাপে ফিরে যাবে।</CommandClearPrioritizedWorkDesc>
+  
+  <!-- EN: Cancel -->
+  <CommandCancelConstructionLabel>বাতিল করুন</CommandCancelConstructionLabel>
+  <!-- EN: Cancel this construction. -->
+  <CommandCancelConstructionDesc>এই নির্মাণ বাতিল করুন।</CommandCancelConstructionDesc>
+
+  <!-- EN: Get out of bed -->
+  <CommandGetOutOfBedLabel>বিছানা থেকে উঠুন</CommandGetOutOfBedLabel>
+  <!-- EN: Get out of current bed. -->
+  <CommandGetOutOfBedDesc>বর্তমান বিছানা থেকে বেরিয়ে যান।</CommandGetOutOfBedDesc>
+
+  <!-- EN: Set owner -->
+  <CommandThingSetOwnerLabel>মালিক নির্ধারণ করুন</CommandThingSetOwnerLabel>
+  <!-- EN: Assign this bed to be owned by a specific {0}. -->
+  <CommandBedSetOwnerDesc>এই বিছানাটি নির্দিষ্টভাবে {0}-এর মালিকানাধীন হিসাবে নির্ধারণ করুন।</CommandBedSetOwnerDesc>
+  <!-- EN: Assign this throne to be owned by a specific colonist. -->
+  <CommandThroneSetOwnerDesc>এই সিংহাসনটি একজন নির্দিষ্ট উপনিবেশিককে মালিক হিসেবে নির্ধারণ করুন।</CommandThroneSetOwnerDesc>
+  <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
+  <CommandMeditationSpotSetOwnerDesc>এই ধ্যান স্থানটি নির্দিষ্ট একজন উপনিবেশকের মালিকানায় নির্ধারণ করুন।</CommandMeditationSpotSetOwnerDesc>
+  <!-- EN: Assign colonist -->
+  <CommandGraveAssignColonistLabel>উপনিবেশক নির্ধারণ করুন</CommandGraveAssignColonistLabel>
+  <!-- EN: Assign this grave to be owned by a specific colonist. -->
+  <CommandGraveAssignColonistDesc>এই কবরটি একজন নির্দিষ্ট উপনিবেশকারীর মালিকানায় দিন।</CommandGraveAssignColonistDesc>
+  <!-- EN: Assign -->
+  <BuildingAssign>অর্পিত করুন</BuildingAssign>
+  <!-- EN: Reassign -->
+  <BuildingReassign>পুনঃনিয়োগ করুন</BuildingReassign>
+  <!-- EN: Unassign -->
+  <BuildingUnassign>অ্যাসাইনমেন্ট বাতিল করুন</BuildingUnassign>
+  <!-- EN: For prisoners -->
+  <CommandBedSetForPrisonersLabel>বন্দী</CommandBedSetForPrisonersLabel>
+  <!-- EN: Whether beds in this room should be used by prisoners. -->
+  <CommandBedSetForPrisonersDesc>এই ঘরে খাটগুলো বন্দীদের ব্যবহারের জন্য হবে কিনা।</CommandBedSetForPrisonersDesc>
+  <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
+  <CommandBedSetForPrisonersFailOutdoors>শুধুমাত্র আবদ্ধ স্থানে থাকা বিছানাগুলো বন্দীদের জন্য নির্ধারণ করা যেতে পারে।</CommandBedSetForPrisonersFailOutdoors>
+  <!-- EN: Medical -->
+  <CommandBedSetAsMedicalLabel>চিকিৎসা</CommandBedSetAsMedicalLabel>
+  <!-- EN: Whether this bed is for medical use. -->
+  <CommandBedSetAsMedicalDesc>এই বিছানাটি চিকিৎসার জন্য ব্যবহার করা হবে কিনা।</CommandBedSetAsMedicalDesc>
+  <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
+  <TurningOnPrisonerBedWarning>বন্দী মোড চালু করলে পুরো ঘর প্রভাবিত হবে (যেহেতু বন্দীরা এবং উপনিবেশ স্থাপনকারীরা একই ঘরে ঘুমাতে পারবে না)।\n\nএই ব্যক্তিরা তাদের বিছানার মালিকানা হারাবে:</TurningOnPrisonerBedWarning>
+  <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
+  <TurningOffPrisonerBedWarning>বন্দী মোড বন্ধ করলে পুরো ঘর প্রভাবিত হবে (যেহেতু বন্দীরা এবং কলোনিস্টরা একই ঘরে ঘুমাতে পারে না)।\n\nএই ব্যক্তিরা তাদের বিছানার মালিকানা হারাবে:</TurningOffPrisonerBedWarning>
+  <!-- EN: Are you sure you want to do this? -->
+  <AreYouSure>আপনি কি এটা করতে চান নিশ্চিত?</AreYouSure>
+  <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
+  <ChangingOwnerTypeBedWarning>বিছানার ব্যবহার পরিবর্তন করলে পুরো ঘর প্রভাবিত হবে (যেহেতু বন্দি, দাস এবং কলোনিস্টরা একই ঘরে ঘুমাতে পারবে না)।\n\nএই ব্যক্তিরা তাদের বিছানার মালিকানা হারাবে:</ChangingOwnerTypeBedWarning>
+  
+  <!-- EN: Detonate -->
+  <CommandDetonateLabel>বিস্ফোরণ ঘটানো</CommandDetonateLabel>
+  <!-- EN: Start the countdown to detonation. -->
+  <CommandDetonateDesc>বিস্ফোরণের জন্য গণনা শুরু করুন।</CommandDetonateDesc>
+  
+  <!-- EN: Hide -->
+  <CommandHideLabel>লুকানো</CommandHideLabel>
+  <!-- EN: Unhide -->
+  <CommandUnhideLabel>অদৃশ্য করা বন্ধ করুন</CommandUnhideLabel>
+  
+  <!-- EN: Toggle this plan's visibility.\n\nRight-click to hide or unhide all zones. -->
+  <CommandHidePlanDesc>এই পরিকল্পনার দৃশ্যমানতা পরিবর্তন করুন।\n\nজোনগুলি লুকানোর বা দেখানোর জন্য রাইট-ক্লিক করুন।</CommandHidePlanDesc>
+  <!-- EN: Hide/unhide this zone.\n\nRight-click to hide or unhide all zones. -->
+  <CommandHideZoneDesc>এই অঞ্চলটি লুকান অথবা দেখান।\n\nডান-ক্লিক করে সমস্ত অঞ্চল লুকানো বা দেখানো যাবে।</CommandHideZoneDesc>
+  
+  <!-- EN: Show all zones -->
+  <ShowAllZones>সমস্ত অঞ্চল দেখান</ShowAllZones>
+  <!-- EN: Hide all zones -->
+  <HideAllZones>অזורগুলি লুকান</HideAllZones>
+  <!-- EN: Show all {0} zones -->
+  <ShowAllZoneTypes>{0} অঞ্চলগুলো দেখান।</ShowAllZoneTypes>
+  <!-- EN: Hide all {0} zones -->
+  <HideAllZoneTypes>{0} অঞ্চলগুলি লুকিয়ে রাখুন।</HideAllZoneTypes>
+  <!-- EN: planning -->
+  <Planning>পরিকল্পনা</Planning>
+  
+  <!-- EN: Change color -->
+  <CommandChangeColorPlanLabel>রঙ পরিবর্তন করুন</CommandChangeColorPlanLabel>
+  <!-- EN: Change the color of this plan. -->
+  <CommandChangeColorPlanDesc>এই প্ল্যানটির রং পরিবর্তন করুন।</CommandChangeColorPlanDesc>
+  
+  <!-- EN: Delete -->
+  <CommandDeletePlanLabel>মুছে ফেলা</CommandDeletePlanLabel>
+  <!-- EN: Delete this plan. -->
+  <CommandDeletePlanDesc>এই পরিকল্পনাটি মুছে ফেলুন।</CommandDeletePlanDesc>
+  
+  <!-- EN: Copy -->
+  <CommandCopyPlanLabel>কপি</CommandCopyPlanLabel>
+  <!-- EN: Copy this plan. -->
+  <CommandCopyPlanDesc>এই পরিকল্পনাটি অনুলিপি করুন।</CommandCopyPlanDesc>
+  
+  <!-- EN: Copy selection... -->
+  <CommandCopyPlanSelectionLabel>নকল নির্বাচন…</CommandCopyPlanSelectionLabel>
+  <!-- EN: Copy all plans within a selected area. -->
+  <CommandCopyPlanSelectionDesc>নির্বাচিত এলাকার মধ্যে থাকা সমস্ত নকশা অনুলিপি করুন।</CommandCopyPlanSelectionDesc>
+  <!-- EN: Select area to copy -->
+  <CommandCopyPlanSelectionMouse>গুরুত্বপূর্ণ নিয়ম:\n- কোনো ব্যাখ্যা, নোট অথবা বন্ধনীর মধ্যে মন্তব্য নয়\n- শুধুমাত্র একটি অনুবাদ - কোনো বিকল্প নয় [শুধুমাত্র ১টি</CommandCopyPlanSelectionMouse>
+  <!-- EN: Paste selected area -->
+  <CommandCopyPlanSelectionPasteMouse>নির্বাচিত এলাকা পেস্ট করুন</CommandCopyPlanSelectionPasteMouse>
+
+  <!-- EN: Delete -->
+  <CommandDeleteZoneLabel>মুছে ফেলা</CommandDeleteZoneLabel>
+  <!-- EN: Delete this zone. -->
+  <CommandDeleteZoneDesc>এই অঞ্চলটি মুছে ফেলুন।</CommandDeleteZoneDesc>
+
+  <!-- EN: Copy settings -->
+  <CommandCopyZoneSettingsLabel>সেটিং কপি করুন</CommandCopyZoneSettingsLabel>
+  <!-- EN: Copy this storage's settings to the clipboard so you can paste them onto another zone. -->
+  <CommandCopyZoneSettingsDesc>এই স্টোরেজের সেটিংস ক্লিপবোর্ডে অনুলিপি করুন যাতে আপনি অন্য অঞ্চলে পেস্ট করতে পারেন।</CommandCopyZoneSettingsDesc>
+
+  <!-- EN: Paste settings -->
+  <CommandPasteZoneSettingsLabel>পেস্ট সেটিংস</CommandPasteZoneSettingsLabel>
+  <!-- EN: Overwrite this storage's settings with those previously copied to the clipboard. -->
+  <CommandPasteZoneSettingsDesc>আগে কপি করা সেটিংস দিয়ে এই স্টোরেজের সেটিংস পরিবর্তন করা হবে।</CommandPasteZoneSettingsDesc>
+
+  <!-- EN: Allow sowing -->
+  <CommandAllowSow>চাষ করার অনুমতি দিন</CommandAllowSow>
+  <!-- EN: When disabled, colonists will never sow new plants in this zone. They will still harvest. -->
+  <CommandAllowSowDesc>এই অঞ্চলটি নিষ্ক্রিয় করা হলে, কলোনিস্টরা এখানে নতুন গাছ লাগাতে পারবে না। তারা ফসল সংগ্রহ করতে পারবে।</CommandAllowSowDesc>
+
+  <!-- EN: Allow cutting -->
+  <CommandAllowCut>কাটার অনুমতি দিন</CommandAllowCut>
+  <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest plants matching the growing zone plant type. -->
+  <CommandAllowCutDesc>অক্ষম করা হলে, কলোনিস্টরা এই অঞ্চলে গাছপালা কাটবে না। তারা ইতিমধ্যে খালি স্থানে নতুন গাছপালা রোপণ করবে এবং গ্রোইং জোনের গাছপালার প্রকারের সাথে মেলে এমন গাছপালা সংগ্রহ করবে।</CommandAllowCutDesc>
+  
+  <!-- EN: Select {0_label} -->
+  <CommandSelectStoredThing>{0_লেবেল} নির্বাচন করুন</CommandSelectStoredThing>
+  <!-- EN: Select the item stored in here. -->
+  <CommandSelectStoredThingDesc>এখানে সঞ্চিত বস্তু নির্বাচন করুন।</CommandSelectStoredThingDesc>
+
+  <!-- Artillery -->
+  <!-- EN: Set forced target -->
+  <CommandSetForceAttackTarget>লক্ষ্য নির্ধারণ করা হয়েছে।</CommandSetForceAttackTarget>
+  <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
+  <CommandSetForceAttackTargetDesc>এইটারেটটি একটানা আক্রমণ করার জন্য একটি লক্ষ্য নির্ধারণ করে যতক্ষণ না এটি করতে সক্ষম থাকে।</CommandSetForceAttackTargetDesc>
+  <!-- EN: Stop forced attack -->
+  <CommandStopForceAttack>আক্রমণ বন্ধ করুন</CommandStopForceAttack>
+  <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
+  <CommandStopForceAttackDesc>টারেটকে ইচ্ছামতো ফায়ার করতে দেয় এবং জোর করে আক্রমণ করা বন্ধ করে।</CommandStopForceAttackDesc>
+  <!-- EN: Not currently force-attacking. -->
+  <CommandStopAttackFailNotForceAttacking>বর্তমানে আক্রমণ করছে না।</CommandStopAttackFailNotForceAttacking>
+  <!-- EN: Extract shell -->
+  <CommandExtractShell>খোলস নিষ্কাশন করুন</CommandExtractShell>
+  <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
+  <CommandExtractShellDesc>বর্তমান শেলটি আনলোড করে ভিন্ন গোলাবারুদ দিয়ে প্রতিস্থাপন করা যায়।</CommandExtractShellDesc>
+  <!-- EN: Target beyond maximum range. -->
+  <MessageTargetBeyondMaximumRange>সর্বোচ্চ পাল্লার বাইরে লক্ষ্যবস্তু।</MessageTargetBeyondMaximumRange>
+  <!-- EN: Target below minimum range. -->
+  <MessageTargetBelowMinimumRange>ন্যূনতম পরিসরের নিচে লক্ষ্যবস্তু।</MessageTargetBelowMinimumRange>
+  <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
+  <MessageTurretWontFireBecauseHoldFire>সতর্কতা: মর্টার "আগুন বন্ধ" করা আছে তাই এটি ফায়ার করবে না।</MessageTurretWontFireBecauseHoldFire>
+  
+  <!-- Ship computer core -->
+  <!-- EN: Launch ship -->
+  <CommandShipLaunch>জাহাজ উৎক্ষেপণ</CommandShipLaunch>
+  <!-- EN: Start the ship launch sequence with the current configuration. -->
+  <CommandShipLaunchDesc>বর্তমান কনফিগারেশন সহ জাহাজ উৎক্ষেপণ প্রক্রিয়া শুরু করুন।</CommandShipLaunchDesc>
+  <!-- EN: Show launch report -->
+  <CommandShipLaunchReport>উৎক্ষেপণ প্রতিবেদন দেখান</CommandShipLaunchReport>
+  <!-- EN: Show a readiness report about the ship's launch capability. -->
+  <CommandShipLaunchReportDesc>জাহাজের উৎক্ষেপণ সক্ষমতা সম্পর্কে একটি প্রস্তুতি প্রতিবেদন দেখান।</CommandShipLaunchReportDesc>
+  <!-- EN: Start ship -->
+  <CommandShipStartup>জাহাজ শুরু করুন</CommandShipStartup>
+  <!-- EN: Wake up hibernating ship components. -->
+  <CommandShipStartupDesc>নিদ্রিত জাহাজ উপাদানগুলিকে জাগিয়ে তুলুন।</CommandShipStartupDesc>
+
+  <!-- Pod -->
+  <!-- EN: Eject sleeper -->
+  <CommandPodEject>ঘুমন্তকে বের করুন</CommandPodEject>
+  <!-- EN: Wake up the cryptosleeper and eject them. -->
+  <CommandPodEjectDesc>ক্রিপ্টোস্লিপারকে জাগিয়ে তুলুন এবং তাঁদের বের করে দিন।</CommandPodEjectDesc>
+  <!-- EN: Contains nobody. -->
+  <CommandPodEjectFailEmpty>এখানে কেউ নেই।</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <!-- EN: Passage forbidden -->
+  <CommandToggleDoorForbid>প্রবেশ নিষেধ</CommandToggleDoorForbid>
+  <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
+  <CommandToggleDoorForbidDesc>দরজা নিষিদ্ধ করা হলে, কলোনিস্ট এবং মিত্ররা এর মধ্যে দিয়ে যাবে না। এটি শত্রু বা প্রাণীদের দরজার সাথে মিথস্ক্রিয়াকে প্রভাবিত করে না।</CommandToggleDoorForbidDesc>
+  <!-- EN: Hold open -->
+  <CommandToggleDoorHoldOpen>খুলে ধরুন</CommandToggleDoorHoldOpen>
+  <!-- EN: When active, your colonists will not close the door after passing through. -->
+  <CommandToggleDoorHoldOpenDesc>সক্রিয় হলে, আপনার কলোনিস্টরা দরজা অতিক্রম করার পরে তা বন্ধ করবে না।</CommandToggleDoorHoldOpenDesc>
+
+  <!-- Temperature control -->
+  <!-- EN: Reset -->
+  <CommandResetTemp>রিসেট করুন</CommandResetTemp>
+  <!-- EN: Reset the target temperature to room temperature. -->
+  <CommandResetTempDesc>লক্ষ্য তাপমাত্রা কক্ষ তাপমাত্রায় রিসেট করা হলো।</CommandResetTempDesc>
+  <!-- EN: Raise the target temperature. -->
+  <CommandRaiseTempDesc>লক্ষ্য তাপমাত্রা বাড়ান।</CommandRaiseTempDesc>
+  <!-- EN: Lower the target temperature. -->
+  <CommandLowerTempDesc>তাপমাত্রা কমিয়ে দিন।</CommandLowerTempDesc>
+
+  <!-- Install/reinstall -->
+  <!-- EN: Install -->
+  <CommandInstall>স্থাপন করুন</CommandInstall>
+  <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
+  <CommandInstallDesc>এই জিনিসটি বর্তমানে সংরক্ষণ ও পরিবহনের জন্য প্যাকেজ করা আছে। এই জিনিসটিকে চূড়ান্ত স্থানে স্থাপন করার জন্য এই কমান্ডটি ব্যবহার করুন।</CommandInstallDesc>
+  <!-- EN: Reinstall at... -->
+  <CommandReinstall>পুনরায় ইনস্টল করুন…</CommandReinstall>
+  <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
+  <CommandReinstallDesc>এই জিনিসটিকে সরিয়ে অন্য কোথাও পুনরায় ইনস্টল করার জন্য চিহ্নিত করুন।</CommandReinstallDesc>
+  <!-- EN: Replant -->
+  <CommandReplant>পুনঃরোপণ করুন</CommandReplant>
+  <!-- EN: This tree is currently packaged up for storage and transport. Use this command to replant it in a new location. -->
+  <CommandReplantDesc>এই গাছটি বর্তমানে সংরক্ষণ ও পরিবহণের জন্য প্যাকেজ করা হয়েছে। নতুন স্থানে এটি রোপণ করার জন্য এই কমান্ডটি ব্যবহার করুন।</CommandReplantDesc>
+  
+  <!-- Trade beacon -->
+  <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
+  <CommandMakeBeaconStockpileDesc>এই বিল্ডিংটির চারপাশে একটি স্তূপ তৈরি করুন যা সম্পূর্ণরূপে বিকনের উৎক্ষেপণ ব্যাসার্ধের আকারের সাথে মেলে।</CommandMakeBeaconStockpileDesc>
+  <!-- EN: Create stockpile -->
+  <CommandMakeBeaconStockpileLabel>stockpile তৈরি করুন</CommandMakeBeaconStockpileLabel>
+
+  <!-- Sun lamp -->
+  <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
+  <CommandSunLampMakeGrowingZoneDesc>এই বিল্ডিংটির চারপাশে বাতির আলোর ব্যাসার্ধের সাথে হুবহু মিলে যাওয়া একটি গ্রোইং জোন তৈরি করুন।</CommandSunLampMakeGrowingZoneDesc>
+  <!-- EN: Create growing zone -->
+  <CommandSunLampMakeGrowingZoneLabel>চাষের ক্ষেত্র তৈরি করুন</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Trap -->
+  <!-- EN: Auto rearm -->
+  <CommandAutoRearm>স্বয়ংক্রিয় পুনঃসক্রিয়করণ</CommandAutoRearm>
+  <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
+  <CommandAutoRearmDesc>যদি এটি চালু থাকে, তবে এই ফাঁদটি সক্রিয় হওয়ার পরে স্বয়ংক্রিয়ভাবে প্রতিস্থাপিত হবে।</CommandAutoRearmDesc>
+  
+  <!-- Firefoam popper -->
+  <!-- EN: Auto rebuild -->
+  <CommandAutoRebuild_Building>স্বয়ংক্রিয় পুনর্নির্মাণ</CommandAutoRebuild_Building>
+  <!-- EN: If this is on, {BUILDING_definite} will automatically be replaced after it detonates. -->
+  <CommandAutoRebuild_BuildingDesc>যদি এটি চালু থাকে, তবে {BUILDING_definite} বিস্ফোরিত হওয়ার পরে স্বয়ংক্রিয়ভাবে প্রতিস্থাপিত হবে।</CommandAutoRebuild_BuildingDesc>
+  
+  <!-- Animal control -->
+  <!-- EN: Animals attack -->
+  <CommandReleaseAnimalsLabel>প্রাণী আক্রমণ</CommandReleaseAnimalsLabel>
+  <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
+  <CommandReleaseAnimalsDesc>এটি চালু থাকলে, প্রশিক্ষিত পশুদের দূরের লক্ষ্যবস্তুতে আক্রমণ করার জন্য পাঠানো হয়। এটি বন্ধ থাকলে, তারা কাছাকাছি থেকে যায় এবং প্রশিক্ষকের পাহারায় থাকে।</CommandReleaseAnimalsDesc>
+  <!-- EN: No animals available. -->
+  <CommandReleaseAnimalsFail_NoAnimals>কোনো প্রাণী নেই।</CommandReleaseAnimalsFail_NoAnimals>
+  
+  <!-- Squad attack -->
+  <!-- EN: Attack -->
+  <CommandSquadAttack>আক্রমণ</CommandSquadAttack>
+  <!-- EN: Order selected colonists to attack designated target. -->
+  <CommandSquadAttackDesc>নির্দিষ্ট লক্ষ্যে আক্রমণ করার জন্য নির্বাচিত উপনিবেশবাদীদের নির্দেশ দিন।</CommandSquadAttackDesc>
+  
+  <!-- Melee attack -->
+  <!-- EN: Melee attack -->
+  <CommandMeleeAttack>নিকট যুদ্ধ আক্রমণ</CommandMeleeAttack>
+  <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
+  <CommandMeleeAttackDesc>নির্দিষ্ট লক্ষ্যবস্তুতে শুধুমাত্র মুষ্টি এবং নিকট যুদ্ধ ব্যবহারের জন্য নির্বাচিত উপনিবেশবাদীদের আক্রমণ করার নির্দেশ দিন।</CommandMeleeAttackDesc>
+
+  <!-- Hold fire -->
+  <!-- EN: Hold fire -->
+  <CommandHoldFire>আগুন বন্ধ করুন</CommandHoldFire>
+  <!-- EN: End any ongoing attacks. -->
+  <CommandHoldFireDesc>চলমান আক্রমণ বন্ধ করুন।</CommandHoldFireDesc>
+  
+  <!-- reload -->
+  <!-- EN: No {CHARGENOUN_plural} left. -->
+  <CommandReload_NoCharges>আর কোনো {CHARGENOUN_plural} অবশিষ্ট নেই।</CommandReload_NoCharges>
+  <!-- EN: {COOLDOWNGERUND} for {TIME}. -->
+  <CommandReload_Cooldown>{COOLDOWNGERUND} এর জন্য {TIME}।</CommandReload_Cooldown>
+  <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
+  <CommandReload_NoAmmo>{গণনা} {গুলি_লেবেল} দিয়ে পুনরায় লোড করতে হবে।</CommandReload_NoAmmo>
+  
+  <!-- Select plant to grow -->
+  <!-- EN: Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>রোপণের জন্য গাছ নির্বাচন করুন।</CommandSelectPlantToGrowMulti>
+  <!-- EN: Plant: {0} -->
+  <CommandSelectPlantToGrow>উদ্ভিদ: {0}</CommandSelectPlantToGrow>
+  <!-- EN: Determine which plant should be sown here. -->
+  <CommandSelectPlantToGrowDesc>এখানে কোন গাছ বপন করা উচিত তা নির্ধারণ করুন।</CommandSelectPlantToGrowDesc>
+  
+  <!-- Select mineral to scan for (long-range mineral scanner) -->
+  <!-- EN: Tuned to -->
+  <CommandSelectMineralToScanFor>টিউন করা হয়েছে</CommandSelectMineralToScanFor>
+  <!-- EN: Select the mineral type to scan for. -->
+  <CommandSelectMineralToScanForDesc>খনিজ ধরণ নির্বাচন করুন যা স্ক্যান করতে হবে।</CommandSelectMineralToScanForDesc>
+
+  <!-- Build copy -->
+  <!-- EN: Build copy -->
+  <CommandBuildCopy>নির্মাণ অনুলিপি</CommandBuildCopy>
+  <!-- EN: Build a copy of this building. -->
+  <CommandBuildCopyDesc>এই কাঠামোটির একটি প্রতিরূপ তৈরি করুন।</CommandBuildCopyDesc>
+
+  <!-- Form caravan -->
+  <!-- EN: Form caravan -->
+  <CommandFormCaravan>караভান গঠন করুন</CommandFormCaravan>
+  <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
+  <CommandFormCaravanDesc>নতুন অঞ্চলে ভ্রমণ করতে সক্ষম উপনিবেশিকদের একটি দল তৈরি করুন। উপনিবেশিকরা নির্ধারিত সমস্ত সরবরাহ এবং সাথে থাকা পশু সংগ্রহ করবে, তাদের বর্তমান এলাকা ত্যাগ করবে এবং পরবর্তী নির্দেশের জন্য অপেক্ষা করবে।</CommandFormCaravanDesc>
+  <!-- EN: This spot will be used as a meeting point for the caravan. All goods and animals will be brought here before leaving. -->
+  <CommandFormCaravanDescAtSpot>এই স্থানটি কারওয়ানের মিলনস্থল হিসেবে ব্যবহৃত হবে। যাত্রা শুরুর আগে সমস্ত পণ্য ও পশু এখানে আনা হবে।</CommandFormCaravanDescAtSpot>
+  
+  <!-- Reform caravan -->
+  <!-- EN: Reform caravan -->
+  <CommandReformCaravan>পুনর্গঠন কাফেলা</CommandReformCaravan>
+  <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
+  <CommandReformCaravanDesc>উপনিবেশকদের একটি দলকে পুনর্গঠন করুন। উপনিবেশকরা তাঁদের বর্তমান এলাকা ত্যাগ করে পরবর্তী নির্দেশের জন্য অপেক্ষা করবে।</CommandReformCaravanDesc>
+  <!-- EN: There are still some enemies in this area. -->
+  <CommandReformCaravanFailHostilePawns>এই এলাকায় এখনো কিছু শত্রু আছে।</CommandReformCaravanFailHostilePawns>
+
+  <!-- Send caravan -->
+  <!-- EN: Send caravan -->
+  <CommandSendCaravan>বহর প্রেরণ করুন</CommandSendCaravan>
+  <!-- EN: Send caravan... -->
+  <CommandSendCaravanMultiple>caravan পাঠান…</CommandSendCaravanMultiple>
+  <!-- EN: Send a caravan to this destination from a selected colony which can reach this location. -->
+  <CommandSendCaravanDesc>এই গন্তব্যের উদ্দেশ্যে একটি নির্বাচিত কলোনি থেকে একটি বহর প্রেরণ করুন যা এই স্থানে পৌঁছাতে পারবে।</CommandSendCaravanDesc>
+  <!-- EN: Your settlements have no path to this location. -->
+  <CommandSendCaravanCantReach>আপনার বসতি থেকে এই স্থানে যাওয়ার কোনো পথ নেই।</CommandSendCaravanCantReach>
+
+  <!-- Split caravan -->
+  <!-- EN: Split -->
+  <CommandSplitCaravan>বিচ্ছিন্ন করুন</CommandSplitCaravan>
+  <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
+  <CommandSplitCaravanDesc>এই কাফেলাটিকে দুভাগে ভাগ করুন। কাফেলা দুটি কাছাকাছি থাকলে পরবর্তীতে আবার একটিতে যুক্ত করা যেতে পারে।</CommandSplitCaravanDesc>
+  
+  <!-- Merge caravan -->
+  <!-- EN: Merge -->
+  <CommandMergeCaravans>একত্রিত করুন</CommandMergeCaravans>
+  <!-- EN: Merge selected caravans. -->
+  <CommandMergeCaravansDesc>নির্বাচিত কাফেলাগুলিকে একত্রিত করুন।</CommandMergeCaravansDesc>
+  <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
+  <CommandMergeCaravansFailCaravansNotSelected>যেসব কাফেলাগুলিকে একত্রিত করতে হবে, সেগুলি নির্বাচন করুন। কাফেলাগুলি একে অপরের কাছাকাছি থাকতে হবে।</CommandMergeCaravansFailCaravansNotSelected>
+  <!-- EN: Join -->
+  <CommandJoinCaravan>যোগ দিন</CommandJoinCaravan>
+  
+  <!-- Settle -->
+  <!-- EN: Settle -->
+  <CommandSettle>বসতি স্থাপন করুন</CommandSettle>
+  <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
+  <CommandSettleDesc>এই অঞ্চলে বসতি স্থাপন করুন। আপনার উপনিবেশ স্থাপনকারীরা এই অঞ্চলে প্রবেশ করবে এবং আপনি একটি নতুন বাড়ি তৈরি করা শুরু করতে পারবেন।</CommandSettleDesc>
+  <!-- EN: Your faction can only have one base. -->
+  <CommandSettleFailAlreadyHaveBase>আপনার দল শুধুমাত্র একটি ঘাঁটি রাখতে পারবে।</CommandSettleFailAlreadyHaveBase>
+  <!-- EN: Reached maximum number of colonies. -->
+  <CommandSettleFailReachedMaximumNumberOfBases>সর্বোচ্চ সংখ্যক কলোনিReached হয়েছে।</CommandSettleFailReachedMaximumNumberOfBases>
+  <!-- EN: There isn't anybody there to claim the area. -->
+  <CommandSettleFailNoColonists>সেখানে এলাকাটি দাবি করার মতো কেউ নেই।</CommandSettleFailNoColonists>
+  <!-- EN: There are enemies in this area. -->
+  <CommandSettleFailEnemies>এই এলাকায় শত্রু আছে।</CommandSettleFailEnemies>
+  <!-- EN: Cannot settle here. -->
+  <CommandSettleFailGeneric>এখানে বসতি স্থাপন করা যাবে না।</CommandSettleFailGeneric>
+
+  <!-- Camp -->
+  <!-- EN: Camp -->
+  <CommandCamp>শিবির</CommandCamp>
+  <!-- EN: Set up a temporary camp that can quickly be abandoned. -->
+  <CommandCampDesc>তাৎক্ষণিক পরিত্যক্ত হতে পারে এমন একটি অস্থায়ী শিবির স্থাপন করুন।</CommandCampDesc>
+  <!-- EN: Cannot camp here. -->
+  <CommandCampFailExistingWorldObject>এখানে শিবির করা যাবে না।</CommandCampFailExistingWorldObject>
+  
+  <!-- Abandon home -->
+  <!-- EN: Abandon -->
+  <CommandAbandonHome>পরিত্যাগ করুন</CommandAbandonHome>
+  <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
+  <CommandAbandonHomeDesc>এই এলাকাটি ত্যাগ করুন। এলাকাটি দুর্গম হয়ে যাবে এবং আপনি আর এখানে ফিরে আসতে পারবেন না। আপনার আবাসস্থল ত্যাগ করার পর, আপনি আপনার বহরগুলোর মধ্যে একটিকে নতুন এলাকায় বসতি স্থাপন করার নির্দেশ দিতে পারবেন।</CommandAbandonHomeDesc>
+  <!-- EN: All of your colonists are there. -->
+  <CommandAbandonHomeFailAllColonistsThere>আপনার সকল উপনিবেশবাসী সেখানে আছেন।</CommandAbandonHomeFailAllColonistsThere>
+  
+  <!-- Cancel forming caravan -->
+  <!-- EN: Cancel forming caravan -->
+  <CommandCancelFormingCaravan>বহর গঠন বাতিল করুন</CommandCancelFormingCaravan>
+  <!-- EN: Terminate the caravan formation process. -->
+  <CommandCancelFormingCaravanDesc>караভান গঠন প্রক্রিয়াটি বন্ধ করুন।</CommandCancelFormingCaravanDesc>
+
+  <!-- Remove from caravan -->
+  <!-- EN: Remove from caravan -->
+  <CommandRemoveFromCaravan>বহর থেকে সরান</CommandRemoveFromCaravan>
+  <!-- EN: Remove this person or animal from the caravan. -->
+  <CommandRemoveFromCaravanDesc>এই ব্যক্তি অথবা প্রাণীটিকে বহর থেকে সরিয়ে দিন।</CommandRemoveFromCaravanDesc>
+  
+  <!-- Add to caravan -->
+  <!-- EN: Add to caravan -->
+  <CommandAddToCaravan>караভান-এ যোগ করুন</CommandAddToCaravan>
+  <!-- EN: Add this person or animal to the forming caravan. -->
+  <CommandAddToCaravanDesc>এই ব্যক্তি অথবা প্রাণীকে গঠিত বহরে যোগ করুন।</CommandAddToCaravanDesc>
+  
+  <!-- Force caravan depart -->
+  <!-- EN: Force caravan departure -->
+  <CommandForceCaravanDepart>বহর যাত্রা বাধ্য করুন</CommandForceCaravanDepart>
+  <!-- EN: Force the caravan to depart immediately with only the currently-loaded items. Anyone unable to travel will be left behind. -->
+  <CommandForceCaravanDepartDesc>বর্তমানে বোঝাই করা জিনিসপত্র নিয়ে অবিলম্বে কাফেলাটিকে যাত্রা করতে বাধ্য করুন। যারা ভ্রমণ করতে অক্ষম, তাদের পিছনে ফেলে আসা হবে।</CommandForceCaravanDepartDesc>
+  <!-- EN: Are you sure you want to depart? -->
+  <ConfirmForceDepartIntro>আপনি কি সত্যিই যেতে চান?</ConfirmForceDepartIntro>
+  <!-- EN: The following items are still being loaded and will be left behind: -->
+  <ConfirmForceDepartItemsStillLoading>নিম্নলিখিত জিনিসগুলি এখনও লোড হচ্ছে এবং পিছনে ফেলে রাখা হবে:</ConfirmForceDepartItemsStillLoading>
+  <!-- EN: The following people won't be a part of the caravan: -->
+  <ConfirmForceDepartPawnsNotLeaving>এই ব্যক্তিরা কাফেলায় অংশ নেবে না:</ConfirmForceDepartPawnsNotLeaving>
+  <!-- EN: The following items are loaded onto creatures who won't be a part of the caravan and will be left behind: -->
+  <ConfirmForceDepartItemsOnPawnsNotLeaving>কারাভানের অংশ হবে না এবং পিছনে থেকে যাবে এমন প্রাণীদের উপর নিম্নলিখিত জিনিসগুলি লোড করা হয়েছে:</ConfirmForceDepartItemsOnPawnsNotLeaving>
+  
+  <!-- Show map -->
+  <!-- EN: Zoom in -->
+  <CommandShowMap>জুম ইন</CommandShowMap>
+  <!-- EN: Zoom in on this area. -->
+  <CommandShowMapDesc>এই এলাকাটিতে জুম করুন।</CommandShowMapDesc>
+  
+  <!-- Trade -->
+  <!-- EN: Trade -->
+  <CommandTrade>বাণিজ্য</CommandTrade>
+  <!-- EN: Trade with this faction. -->
+  <CommandTradeDesc>এই দলটির সাথে বাণিজ্য করুন।</CommandTradeDesc>
+  <!-- EN: There isn't any conscious and capable negotiator. -->
+  <CommandTradeFailNoNegotiator>সচেতন এবং সক্ষম আলোচক নেই।</CommandTradeFailNoNegotiator>
+  <!-- EN: None of your people have the required faction permission: {0} -->
+  <CommandTradeFailNeedPermit>আপনার কোনো বসতি স্থাপনকারীর {0} নামক দলের অনুমতি নেই।</CommandTradeFailNeedPermit>
+
+  <!-- Offer gifts -->
+  <!-- EN: Offer gifts -->
+  <CommandOfferGifts>উপহার দিন</CommandOfferGifts>
+  <!-- EN: Offer gifts to this faction. -->
+  <CommandOfferGiftsDesc>এই দলটিকে উপহার দিন।</CommandOfferGiftsDesc>
+
+  <!-- Fulfill request -->
+  <!-- EN: Fulfill trade offer -->
+  <CommandFulfillTradeOffer>বাণিজ্য প্রস্তাব পূরণ করুন</CommandFulfillTradeOffer>
+  <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
+  <CommandFulfillTradeOfferDesc>বসতির চাহিদা অনুযায়ী পণ্য সরবরাহ করুন এবং আপনার পুরস্কার দাবি করুন।</CommandFulfillTradeOfferDesc>
+  <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
+  <CommandFulfillTradeOfferFailInsufficient>আপনার বহরের এই বাণিজ্য প্রস্তাবটি পূরণ করার জন্য {0} থাকতে হবে।</CommandFulfillTradeOfferFailInsufficient>
+  <!-- EN: Give {0}? -->
+  <CommandFulfillTradeOfferConfirm>{0} দিন?</CommandFulfillTradeOfferConfirm>
+  
+  <!-- Take off -->
+  <!-- EN: Take off -->
+  <CommandTakeOff>উড্ডয়ন করুন</CommandTakeOff>
+  <!-- EN: Get on board the ship and escape the planet. -->
+  <CommandTakeOffDesc>জাহাজে উঠুন এবং গ্রহটি থেকে পালান।</CommandTakeOffDesc>
+  <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
+  <CommandTakeOffConfirmation>আপনি কি জাহাজটি উৎক্ষেপণ করতে নিশ্চিত?\n\nএই এলাকার সবাই গ্রহটি ত্যাগ করবে। বাকি সবাই পিছনে থেকে যাবে।</CommandTakeOffConfirmation>
+
+  <!-- Set target fuel level -->
+  <!-- EN: Set target fuel level -->
+  <CommandSetTargetFuelLevel>লক্ষ্য জ্বালানি স্তর নির্ধারণ করুন।</CommandSetTargetFuelLevel>
+  <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
+  <CommandSetTargetFuelLevelDesc>লক্ষ্য জ্বালানি স্তর নির্ধারণ করুন। কলোনিস্টরা এই স্তর পর্যন্ত জ্বালানি পূরণ করার চেষ্টা করবে।</CommandSetTargetFuelLevelDesc>
+
+  <!-- Refueling -->
+  <!-- EN: Toggle automatic refuel -->
+  <CommandToggleAllowAutoRefuel>স্বয়ংক্রিয় রিফুয়েল টগল করুন</CommandToggleAllowAutoRefuel>
+  <!-- EN: This determines whether colonists will automatically refuel this. If enabled, colonists will fill this up to {0}.\n\nAutomatic refueling is currently {ONOFF}. -->
+  <CommandToggleAllowAutoRefuelDesc>এটি নির্ধারণ করে কলোনিস্টরা স্বয়ংক্রিয়ভাবে এটি রিফুয়েল করবে কিনা। যদি সক্রিয় করা হয়, কলোনিস্টরা এটিকে {0} পর্যন্ত পূরণ করবে।\n\nস্বয়ংক্রিয় রিফুয়েলিং বর্তমানে {ONOFF} করা আছে।</CommandToggleAllowAutoRefuelDesc>
+  <!-- EN: This determines whether colonists will automatically refuel these buildings.\n\nAutomatic refueling is currently {ONOFF}. -->
+  <CommandToggleAllowAutoRefuelDescMult>এটি নির্ধারণ করে কলোনিস্টরা স্বয়ংক্রিয়ভাবে এই ভবনগুলোতে রিফুয়েল করবে কিনা।\n\nস্বয়ংক্রিয় রিফুয়েলিং বর্তমানে {চালু/বন্ধ}।</CommandToggleAllowAutoRefuelDescMult>
+
+  <!-- Cancel load -->
+  <!-- EN: Cancel load -->
+  <CommandCancelLoad>লোড বাতিল করুন</CommandCancelLoad>
+  <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
+  <CommandCancelLoadDesc>লোডিং বাতিল করুন এবং যা কিছু লোড করা আছে তা বের করে ফেলুন।</CommandCancelLoadDesc>
+  <!-- EN: Unload all -->
+  <CommandUnload>সবকিছু আনলোড করুন</CommandUnload>
+  <!-- EN: Eject all contents from the {0}. -->
+  <CommandUnloadDesc>{0} থেকে সমস্ত জিনিস বের করে ফেলুন।</CommandUnloadDesc>
+
+  <!-- Launch group -->
+  <!-- EN: Launch -->
+  <CommandLaunchGroup>চালু করুন</CommandLaunchGroup>
+  <!-- EN: Take off and fly to a destination. -->
+  <CommandLaunchGroupDesc>উড্ডয়ন করুন এবং গন্তব্যের দিকে উড়ুন।</CommandLaunchGroupDesc>
+  <!-- EN: Must be loaded first. -->
+  <CommandLaunchGroupFailNotLoaded>প্রথমে লোড করতে হবে।</CommandLaunchGroupFailNotLoaded>
+  <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>এই লোডিং গ্রুপের কিছু পরিবহন পড একটি ফুয়েলিং পোর্টের সাথে সংযুক্ত নয়।</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <!-- EN: Roof blocking launch. -->
+  <CommandLaunchGroupFailUnderRoof>ছাদ উৎক্ষেপণে বাধা দিচ্ছে।</CommandLaunchGroupFailUnderRoof>
+  <!-- EN: Not enough fuel to launch. -->
+  <CommandLaunchGroupFailNoFuel>উৎক্ষেপণের জন্য যথেষ্ট জ্বালানি নেই।</CommandLaunchGroupFailNoFuel>
+  <!-- EN: Over mass capacity. -->
+  <CommandLaunchGroupFailOverMassCapacity>মাত্রাতিরিক্ত ভর।</CommandLaunchGroupFailOverMassCapacity>
+  <!-- EN: On cooldown. -->
+  <CommandLaunchGroupCooldown>কুলডাউনে আছে।</CommandLaunchGroupCooldown>
+  <!-- EN: {0} / {1} kg -->
+  <MassUsageString>{0} / {1} কেজি</MassUsageString>
+
+  <!-- Load transporter -->
+  <!-- EN: Load launch group of {0} -->
+  <CommandLoadTransporter>{0} লোড লঞ্চ গ্রুপ।</CommandLoadTransporter>
+  <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
+  <CommandLoadTransporterDesc>নির্বাচিত ট্রান্সপোর্টারগুলোকে একটি উৎক্ষেপণ দল হিসেবে সংজ্ঞায়িত করে। ভেতরের দিকে কী এবং কাকে লোড করা হবে তা নির্ধারণ করার জন্য লোডিং ডায়ালগ খোলে।</CommandLoadTransporterDesc>
+  <!-- EN: The transport pod is not connected to a fueling port. -->
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>পরিবহন পডটি কোনো জ্বালানি পোর্টের সাথে সংযুক্ত নেই।</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <!-- EN: The pod launcher has no fuel. -->
+  <CommandLoadTransporterFailNoFuel>পড লঞ্চারে জ্বালানি নেই।</CommandLoadTransporterFailNoFuel>
+  
+  <!-- Load transporter (single) -->
+  <!-- EN: Load -->
+  <CommandLoadTransporterSingle>লোড করুন</CommandLoadTransporterSingle>
+  <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
+  <CommandLoadTransporterSingleDesc>লোড করার সংলাপটি খোলে যাতে আপনি সিদ্ধান্ত নিতে পারেন কাকে এবং কী লোড করা উচিত।</CommandLoadTransporterSingleDesc>
+  
+  <!-- Transporters set to load -->
+  <!-- EN: Set to load -->
+  <CommandSetToLoadTransporter>লোড করার জন্য প্রস্তুত</CommandSetToLoadTransporter>
+  <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
+  <CommandSetToLoadTransporterDesc>লোড করার ডায়ালগ খোলে যাতে আপনি সিদ্ধান্ত নিতে পারেন কে বা কী লোড করা উচিত।</CommandSetToLoadTransporterDesc>
+  
+  <!-- Autoload transporters -->
+  <!-- EN: Autoload -->
+  <CommandAutoloadTransporters>স্বয়ংক্রিয় লোড</CommandAutoloadTransporters>
+  <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
+  <CommandAutoloadTransportersDesc>প্রয়োজনীয় পণ্যগুলো পাওয়া মাত্রই স্বয়ংক্রিয়ভাবে লোড করা শুরু বা বন্ধ করুন।</CommandAutoloadTransportersDesc>
+  
+  <!-- Select previous transporter -->
+  <!-- EN: Select previous in launch group -->
+  <CommandSelectPreviousTransporter>লঞ্চ গ্রুপে পূর্ববর্তী নির্বাচন করুন।</CommandSelectPreviousTransporter>
+  <!-- EN: Select previous transport pod in this launch group. -->
+  <CommandSelectPreviousTransporterDesc>এই উৎক্ষেপণ দলের পূর্ববর্তী পরিবহন পডটি নির্বাচন করুন।</CommandSelectPreviousTransporterDesc>
+  
+  <!-- Select all transporters -->
+  <!-- EN: Select launch group -->
+  <CommandSelectAllTransporters>উৎক্ষেপণ দল নির্বাচন করুন</CommandSelectAllTransporters>
+  <!-- EN: Select all transport pods in this launch group. -->
+  <CommandSelectAllTransportersDesc>এই উৎক্ষেপণ গোষ্ঠীতে সমস্ত পরিবহন পড নির্বাচন করুন।</CommandSelectAllTransportersDesc>
+  
+  <!-- Select next transporter -->
+  <!-- EN: Select next in launch group -->
+  <CommandSelectNextTransporter>পরবর্তী উৎক্ষেপণ গ্রুপ নির্বাচন করুন।</CommandSelectNextTransporter>
+  <!-- EN: Select next transport pod in this launch group. -->
+  <CommandSelectNextTransporterDesc>এই উৎক্ষেপণ দলের পরবর্তী পরিবহন পডটি নির্বাচন করুন।</CommandSelectNextTransporterDesc>
+  
+  <!-- Vent -->
+  <!-- EN: Designate open/close -->
+  <CommandDesignateOpenCloseVentLabel>খুলুন/বন্ধ করুন</CommandDesignateOpenCloseVentLabel>
+  <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
+  <CommandDesignateOpenCloseVentDesc>এই ভেন্টটি খোলা বা বন্ধ করার জন্য নির্ধারণ করুন। কাজটি করার জন্য শীঘ্রই একজন উপনিবেশকারী আসবেন।</CommandDesignateOpenCloseVentDesc>
+  
+  <!-- Remove waypoint -->
+  <!-- EN: Remove -->
+  <CommandRemoveWaypointLabel>অপসারণ করুন</CommandRemoveWaypointLabel>
+  <!-- EN: Remove this waypoint. -->
+  <CommandRemoveWaypointDesc>এই ওয়েপয়েন্টটি সরিয়ে ফেলুন।</CommandRemoveWaypointDesc>
+
+  <!-- Pause caravan -->
+  <!-- EN: Rest -->
+  <CommandPauseCaravan>বিশ্রাম</CommandPauseCaravan>
+  <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
+  <CommandToggleCaravanPauseDesc>বিশ্রাম শুরু করুন। এর নিম্নলিখিত সুবিধাগুলি রয়েছে:\n\n  - মানুষ সামাজিকভাবে মিশতে পারবে\n  - {0} গুণ দ্রুত খাবার সংগ্রহ করা যাবে\n  - দৃশ্যমানতা {1} দ্বারা গুণ করা হবে</CommandToggleCaravanPauseDesc>
+  
+  <!-- Show sellable items -->
+  <!-- EN: Show what will buy -->
+  <CommandShowSellableItems>কী কিনবে তা দেখান।</CommandShowSellableItems>
+  <!-- EN: Show everything this trader wants to buy. -->
+  <CommandShowSellableItemsDesc>বণিকের কী কী জিনিস কেনার আছে, তা দেখান।</CommandShowSellableItemsDesc>
+
+  <!-- Attack settlement -->
+  <!-- EN: Attack -->
+  <CommandAttackSettlement>আক্রমণ</CommandAttackSettlement>
+  <!-- EN: Attack this settlement. -->
+  <CommandAttackSettlementDesc>এই বসতিতে আক্রমণ করুন।</CommandAttackSettlementDesc>
+
+  <!-- Send shuttle -->
+  <!-- EN: Send -->
+  <CommandSendShuttle>প্রেরণ করুন</CommandSendShuttle>
+  <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
+  <CommandSendShuttleDesc>উড্ডয়ন শুরু করুন এবং শাটলটিকে তার গন্তব্যের দিকে উড়তে দিন।</CommandSendShuttleDesc>
+  <!-- EN: The shuttle is under a roof. -->
+  <CommandSendShuttleFailUnderRoof>শাটলটি একটি ছাদের নিচে রয়েছে।</CommandSendShuttleFailUnderRoof>
+  <!-- EN: Some of the required items or people are missing. -->
+  <CommandSendShuttleFailMissingRequiredThing>কিছু প্রয়োজনীয় জিনিস বা ব্যক্তি অনুপস্থিত।</CommandSendShuttleFailMissingRequiredThing>
+  
+  <!-- Dismiss shuttle -->
+  <!-- EN: Dismiss -->
+  <CommandShuttleDismiss>বাতিল করুন</CommandShuttleDismiss>
+  <!-- EN: Unload all contents and send the shuttle away. -->
+  <CommandShuttleDismissDesc>সমস্ত জিনিসপত্র খালাস করুন এবং শাটলটি পাঠিয়ে দিন।</CommandShuttleDismissDesc>
+
+  <!-- Place blueprints -->
+  <!-- EN: Place blueprints -->
+  <CommandPlaceBlueprints>ব্লুপ্রিন্ট স্থাপন করুন</CommandPlaceBlueprints>
+  <!-- EN: Place all required blueprints where possible. -->
+  <CommandPlaceBlueprintsDesc>সম্ভব যেখানে সেখানে প্রয়োজনীয় ব্লুপ্রিন্টগুলো রাখুন।</CommandPlaceBlueprintsDesc>
+  <!-- EN: Place {0} blueprints -->
+  <CommandPlaceBlueprintsSpecific>{0} ব্লুপ্রিন্ট স্থাপন করুন</CommandPlaceBlueprintsSpecific>
+  <!-- EN: Place all {0} blueprints where possible. -->
+  <CommandPlaceBlueprintsSpecificDesc>সম্ভব হলে সব {0} ব্লুপ্রিন্ট স্থাপন করুন।</CommandPlaceBlueprintsSpecificDesc>
+
+  <!-- Cancel monument marker -->
+  <!-- EN: Cancel -->
+  <CommandCancelMonumentMarker>বাতিল করুন</CommandCancelMonumentMarker>
+  <!-- EN: Permanently remove this monument marker. -->
+  <CommandCancelMonumentMarkerDesc>এই স্মৃতিস্তম্ভের চিহ্নিতকারীটি স্থায়ীভাবে সরিয়ে ফেলুন।</CommandCancelMonumentMarkerDesc>
+
+  <!-- View quest -->
+  <!-- EN: View quest: {0} -->
+  <CommandViewQuest>অনুসন্ধান দেখুন: {0}</CommandViewQuest>
+  <!-- EN: View this quest in quests tab. -->
+  <CommandViewQuestDesc>অনুসন্ধানগুলো ট্যাবে এই অনুসন্ধানটি দেখুন।</CommandViewQuestDesc>
+  <!-- EN: Open linked quest -->
+  <CommandOpenLinkedQuest>সংযুক্ত অনুসন্ধান খুলুন</CommandOpenLinkedQuest>
+  <!-- EN: Open linked quest in the quests tab. -->
+  <CommandOpenLinkedQuestDesc>অনুসন্ধানগুলি ট্যাবে লিঙ্ক করা অনুসন্ধানটি খুলুন।</CommandOpenLinkedQuestDesc>
+
+  <!-- Carry -->
+  <!-- EN: Drop {0_nameDef} -->
+  <CommandDropPawn>ফেলে দিন {0_nameDef}</CommandDropPawn>
+  <!-- EN: Drop the person being carried. -->
+  <CommandDropPawnDesc>বহন করা ব্যক্তিকে ফেলে দিন।</CommandDropPawnDesc>
+  <!-- EN: Select {0_nameDef} -->
+  <CommandSelectCarriedPawn>{0_nameDef} নির্বাচন করুন</CommandSelectCarriedPawn>
+  <!-- EN: Select the creature being carried. -->
+  <CommandSelectCarriedPawnDesc>বহন করা প্রাণীটি নির্বাচন করুন।</CommandSelectCarriedPawnDesc>
+  <!-- EN: Select {0_label} -->
+  <CommandSelectCarriedThing>{0_লেবেল} নির্বাচন করুন</CommandSelectCarriedThing>
+  <!-- EN: Select the carried item. -->
+  <CommandSelectCarriedThingDesc>পরিবহন করা বস্তু নির্বাচন করুন।</CommandSelectCarriedThingDesc>
+  <!-- EN: Select {0_label} -->
+  <CommandSelectContainerThing>{0_লেবেল} নির্বাচন করুন</CommandSelectContainerThing>
+  <!-- EN: Select the containing item. -->
+  <CommandSelectContainerThingDesc>অন্তর্ভুক্ত আইটেমটি নির্বাচন করুন।</CommandSelectContainerThingDesc>
+  <!-- EN: Select {0_nameDef} -->
+  <CommandSelectCarryingPawn>{0_nameDef} নির্বাচন করুন</CommandSelectCarryingPawn>
+  <!-- EN: Select the carrying creature. -->
+  <CommandSelectCarryingPawnDesc>পরিবহনকারী প্রাণীটি নির্বাচন করুন।</CommandSelectCarryingPawnDesc>
+  <!-- EN: Select {0_nameDef} -->
+  <CommandSelectContainedPawn>{0_nameDef} নির্বাচন করুন</CommandSelectContainedPawn>
+  <!-- EN: Select the contained creature. -->
+  <CommandSelectContainedPawnDesc>আবদ্ধ প্রাণীটি নির্বাচন করুন।</CommandSelectContainedPawnDesc>
+  <!-- EN: Select {0_label} -->
+  <CommandSelectContainedThing>{0_লেবেল} নির্বাচন করুন</CommandSelectContainedThing>
+  <!-- EN: Select the contained item. -->
+  <CommandSelectContainedThingDesc>অন্তর্ভুক্ত আইটেমটি নির্বাচন করুন।</CommandSelectContainedThingDesc>
+
+  <!-- Take a drug -->
+  <!-- EN: Take drug... -->
+  <TakeDrug>ড্রাগ সেবন করুন…</TakeDrug>
+  <!-- EN: Choose a drug from inventory to ingest immediately. -->
+  <TakeDrugDesc>ইনভেন্টরি থেকে একটি ওষুধ বেছে নিয়ে তাৎক্ষণিকভাবে গ্রহণ করুন।</TakeDrugDesc>
+
+  <!-- Build X -->
+  <!-- EN: Build {0} -->
+  <BuildThing>{0} তৈরি করুন</BuildThing>
+
+  <!-- Rituals -->
+  <!-- EN: Leave {RITUAL_label} -->
+  <CommandLeaveRitual>{RITUAL_label}</CommandLeaveRitual>
+  <!-- EN: Stop participating in the {RITUAL_labelDef}. The event will continue as long as it has at least one participant. -->
+  <CommandLeaveRitualDesc>{RITUAL_labelDef} এ অংশগ্রহণ বন্ধ করুন। যতক্ষণ না অন্তত একজন অংশগ্রহণকারী থাকে, ততক্ষণ পর্যন্ত এই অনুষ্ঠান চলতে থাকবে।</CommandLeaveRitualDesc>
+  <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
+  <CommandLeaveLastParticipant>এটি {RITUAL_labelDef} এর শেষ অংশগ্রহণকারী।</CommandLeaveLastParticipant>
+
+  <!-- EN: Cancel {RITUAL_label} -->
+  <CommandCancelRitual>বাতিল করুন {RITUAL_label}</CommandCancelRitual>
+  <!-- EN: End the {RITUAL_labelDef} immediately. You can restart the event later. -->
+  <CommandCancelRitualDesc>{RITUAL_labelDef} অবিলম্বে বন্ধ করুন। আপনি পরে আবার ইভেন্টটি শুরু করতে পারেন।</CommandCancelRitualDesc>
+  <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
+  <CommandCancelRitualConfirm>আপনি কি {RITUAL_labelDef} বাতিল করতে নিশ্চিত?</CommandCancelRitualConfirm>
+
+  <!-- Storage linking -->
+  <!-- EN: Link settings -->
+  <LinkStorageSettings>লিঙ্ক সেটিংস</LinkStorageSettings>
+  <!-- EN: Link storage settings for multiple selected buildings so that they share storage settings.\n\nThe group will start with the settings of whatever you selected first. -->
+  <LinkStorageSettingsDesc>একাধিক নির্বাচিত স্থাপনার জন্য স্টোরেজ সেটিংস লিঙ্ক করুন যাতে তারা সেটিংস শেয়ার করে।\n\nএই দল প্রথম নির্বাচিত স্থাপনার সেটিংস দিয়ে শুরু হবে।</LinkStorageSettingsDesc>
+  <!-- EN: You must select two or more buildings to link their storage settings. -->
+  <LinkStorageDisabledSelectTwo>আপনাকে দুটি বা ততোধিক বিল্ডিং নির্বাচন করতে হবে তাদের স্টোরেজ সেটিংস লিঙ্ক করার জন্য।</LinkStorageDisabledSelectTwo>
+  <!-- EN: Already linked. -->
+  <AlreadyLinked>ইতিমধ্যে সংযুক্ত।</AlreadyLinked>
+  <!-- EN: Unlink settings -->
+  <UnlinkStorageSettings>আনলিঙ্ক সেটিংস</UnlinkStorageSettings>
+  <!-- EN: Unlink this from other buildings' storage settings so its settings can be set independently. -->
+  <UnlinkStorageSettingsDesc>অন্যান্য বিল্ডিংয়ের স্টোরেজ সেটিংস থেকে এটিকে বিচ্ছিন্ন করুন যাতে এর সেটিংস স্বতন্ত্রভাবে নির্ধারণ করা যায়।</UnlinkStorageSettingsDesc>
+  <!-- EN: Linked storage settings -->
+  <LinkedStorageSettings>সংযুক্ত স্টোরেজ সেটিংস</LinkedStorageSettings>
+  <!-- EN: 1 building -->
+  <OneBuilding>১টি স্থাপনা</OneBuilding>
+  <!-- EN: {0} buildings -->
+  <NumBuildings>{0} টি কাঠামো</NumBuildings>
+  <!-- EN: Stores -->
+  <StoresThings>দোকানঘর</StoresThings>
+  <!-- EN: Select all linked -->
+  <SelectAllLinked>লিঙ্কযুক্ত সব নির্বাচন করুন</SelectAllLinked>
+  <!-- EN: Select all storage buildings linked to this. -->
+  <SelectAllLinkedDesc>এইগুলির সাথে যুক্ত সমস্ত স্টোরেজ বিল্ডিং নির্বাচন করুন।</SelectAllLinkedDesc>
+
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <CommandDisabledUnconscious>{0_labelShort} অজ্ঞান।</CommandDisabledUnconscious>
+
+  <!-- Study -->
+  <!-- EN: Toggle study -->
+  <CommandToggleStudy>গবেষণা টগল করুন</CommandToggleStudy>
+  <!-- EN: Determines whether or not wardens will automatically study this. Forbidden things will never be studied. -->
+  <CommandToggleStudyDesc>জেলপালকগণ স্বয়ংক্রিয়ভাবে এটি অধ্যয়ন করবে কিনা তা নির্ধারণ করে। নিষিদ্ধ জিনিসগুলি কখনও অধ্যয়ন করা হবে না।</CommandToggleStudyDesc>
+
+  <!-- Limited use count action -->
+  <!-- EN: No uses left. -->
+  <CommandNoUsesLeft>ব্যবহারের সুযোগ নেই।</CommandNoUsesLeft>
+
+  <!-- Map Portal -->
+  <!-- EN: View {0} -->
+  <CommandViewPocketMapLabel>{0} দেখুন</CommandViewPocketMapLabel>
+  <!-- EN: View the connected {0} map. -->
+  <CommandViewPocketMapDesc>সংযুক্ত {0} মানচিত্রটি দেখুন।</CommandViewPocketMapDesc>
+  <!-- EN: View surface -->
+  <CommandViewSurface>পৃষ্ঠ দেখুন</CommandViewSurface>
+  <!-- EN: View the connected surface map. -->
+  <CommandViewSurfaceDesc>সংযুক্ত পৃষ্ঠের মানচিত্রটি দেখুন।</CommandViewSurfaceDesc>
+
+  <!-- Auto-build pod -->
+  <!-- EN: Auto build transport pod -->
+  <AutoBuildTransportPod>স্বয়ংক্রিয়ভাবে পরিবহন পড তৈরি করুন।</AutoBuildTransportPod>
+  <!-- EN: If on, your colonists will automatically build a new transport pod when possible. -->
+  <AutoBuildTransportPodDesc>যদি চালু থাকে, তবে আপনার কলোনিস্টরা সুযোগ পেলে স্বয়ংক্রিয়ভাবে একটি নতুন পরিবহন পড তৈরি করবে।</AutoBuildTransportPodDesc>
+  
+  <!-- Hacking gizmo -->
+  <!-- EN: Hack... -->
+  <HackGizmo>হ্যাক…</HackGizmo>
+  <!-- EN: Cannot hack -->
+  <CannotChooseHacker>হ্যাকিং করা যাচ্ছে না।</CannotChooseHacker>
+  <!-- EN: Choose hacker -->
+  <CommandChooseHacker>হ্যাকার নির্বাচন করুন</CommandChooseHacker>
+  
+</LanguageData>

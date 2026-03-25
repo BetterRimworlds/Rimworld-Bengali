@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: medical operation speed -->
+  <MedicalOperationSpeed.label>চিকিৎসা অপারেশন গতি</MedicalOperationSpeed.label>
+  <!-- EN: The speed at which the character performs medical operations. -->
+  <MedicalOperationSpeed.description>চরিত্রটি যে গতিতে চিকিৎসা সংক্রান্ত অপারেশন করে।</MedicalOperationSpeed.description>
+  
+  <!-- EN: medical surgery success chance -->
+  <MedicalSurgerySuccessChance.label>চিকিৎসা সার্জারির সাফল্যের সম্ভাবনা</MedicalSurgerySuccessChance.label>
+  <!-- EN: The base chance that a character will succeed when performing a medical operation.\n\nThe actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations.\n\nNo matter how high this stat is, there is always a small chance of failure on any operation. -->
+  <MedicalSurgerySuccessChance.description>কোনো চরিত্র কোনো চিকিৎসা সংক্রান্ত অপারেশন সফলভাবে সম্পন্ন করার প্রাথমিক সম্ভাবনা।\n\nঅপারেশনটি সফল হওয়ার প্রকৃত সম্ভাবনা সুযোগ-সুবিধা, ঘরের পরিচ্ছন্নতা, ব্যবহৃত ওষুধ, সার্জারির জটিলতা এবং অনুপ্রেরণার মতো বিষয়গুলির দ্বারাও প্রভাবিত হয়।\n\nএই পরিসংখ্যানটি যতই বেশি হোক না কেন, যেকোনো অপারেশনে ব্যর্থ হওয়ার সামান্য ঝুঁকি সবসময় থাকে।</MedicalSurgerySuccessChance.description>
+  
+  <!-- EN: medical tend quality -->
+  <MedicalTendQuality.label>চিকিৎসা সেবার মান</MedicalTendQuality.label>
+  <!-- EN: The base quality of tending given when tending wounds and illnesses.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, luck, and so on. -->
+  <MedicalTendQuality.description>ক্ষত এবং অসুস্থতার শুশ্রূষা করার সময় প্রদত্ত শুশ্রূষার প্রাথমিক গুণমান।\n\nওষুধ ব্যবহার, সুবিধা, ভাগ্য ইত্যাদির মতো বিষয়গুলির দ্বারা প্রকৃত শুশ্রূষার গুণমানও প্রভাবিত হবে।</MedicalTendQuality.description>
+  
+  <!-- EN: medical tend speed -->
+  <MedicalTendSpeed.label>চিকিৎসা করার গতি</MedicalTendSpeed.label>
+  <!-- EN: Speed at which the character tends to wounds and illnesses. -->
+  <MedicalTendSpeed.description>চরিত্রটি ক্ষত ও অসুস্থতার চিকিৎসায় যে গতিতে কাজ করে।</MedicalTendSpeed.description>
+  
+</LanguageData>

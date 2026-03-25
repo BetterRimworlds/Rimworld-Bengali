@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: age -->
+  <Age.label>বয়স</Age.label>
+  
+  <!-- EN: allowed area -->
+  <AllowedArea.label>অনুমোদিত এলাকা</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
+  <AllowedAreaWide.label>অনুমোদিত এলাকা</AllowedAreaWide.label>
+  
+  <!-- EN: carry -->
+  <Carry.label>বহন</Carry.label>
+  
+  <!-- EN: drug policy -->
+  <DrugPolicy.label>ড্রাগ নীতি</DrugPolicy.label>
+  
+  <!-- EN: food policy -->
+  <FoodRestriction.label>খাদ্য নীতি</FoodRestriction.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>শত্রুতা প্রতিক্রিয়া</HostilityResponse.headerTip>
+  
+  <!-- EN: name -->
+  <Label.label>নাম</Label.label>
+  <!-- EN: Name -->
+  <Label.headerTip>নাম</Label.headerTip>
+  
+  <!-- EN: name -->
+  <LabelShortWithIcon.label>নাম</LabelShortWithIcon.label>
+  <!-- EN: Name -->
+  <LabelShortWithIcon.headerTip>নাম</LabelShortWithIcon.headerTip>
+  
+  <!-- EN: name -->
+  <LabelWithIcon.label>নাম</LabelWithIcon.label>
+  <!-- EN: Name -->
+  <LabelWithIcon.headerTip>নাম</LabelWithIcon.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>মাস্টার</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>চিকিৎসা যত্ন</MedicalCare.headerTip>
+  
+  <!-- EN: apparel policy -->
+  <Outfit.label>পোশাক নীতি</Outfit.label>
+  
+  <!-- EN: reading policy -->
+  <Reading.label>পঠন নীতি</Reading.label>
+  
+</LanguageData>

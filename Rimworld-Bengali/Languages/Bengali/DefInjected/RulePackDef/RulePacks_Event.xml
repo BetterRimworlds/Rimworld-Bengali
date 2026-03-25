@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] used [ABILITY_label] on [SUBJECT_definite].</li>
+  -->
+  <Event_AbilityUsed.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] ব্যবহার করেছে [ABILITY_label] তে [SUBJECT_definite]।</li>
+  </Event_AbilityUsed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] used [ITEM_indefinite] on [SUBJECT_definite].</li>
+  -->
+  <Event_ItemUsed.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] ব্যবহার করেছে [ITEM_indefinite] তে [SUBJECT_definite]।</li>
+  </Event_ItemUsed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by the attack.</li>
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by [INITIATOR_definite]'s attack.</li>
+    <li>stunned(p=3)->stunned</li>
+    <li>stunned->staggered</li>
+    <li>stunned->dazed</li>
+    <li>stunned->disoriented</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered].</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from the attack.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from [INITIATOR_definite]'s attack.</li>
+    <li>staggered(p=3)->staggered</li>
+    <li>staggered->faltered</li>
+    <li>staggered->wobbled</li>
+    <li>staggered->wavered</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] around blearily.</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] around in confusion.</li>
+    <li>stumbled(p=3)->stumbled</li>
+    <li>stumbled->wavered</li>
+    <li>stumbled->wobbled</li>
+    <li>stumbled->staggered</li>
+  -->
+  <Event_Stun.rulePack.rulesStrings>
+    <li>r_logentry(SUBJECT_gender!=Female)->[SUBJECT_definite] ছিল [stunned]অথবা আক্রমণের কারণে।</li>
+    <li>r_logentry(SUBJECT_gender==Female)->[SUBJECT_definite] ছিল [stunned]আক্রমণ করার জন্য</li>
+    <li>r_logentry(SUBJECT_gender!=Female)->[SUBJECT_definite] ছিল [stunned]অথবা {[INITIATOR_definite]} এর আক্রমণ দ্বারা [INITIATOR_definite]।</li>
+    <li>r_logentry(SUBJECT_gender==Female)->[SUBJECT_definite] ছিল [stunned]এর আক্রমণ [INITIATOR_definite]।</li>
+    <!--Dejar como está sin la última vocal ya que se ha establecido una regla para eso. Zerstrick 16-10-2020-->
+    <li>stunned(p=3)->হতবাক</li>
+    <li>stunned->বিস্মিত</li>
+    <li>stunned->হতবুদ্ধি</li>
+    <li>stunned->দিকভ্রষ্ট</li>
+    <li>r_logentry(SUBJECT_gender!=Female)->[SUBJECT_definite] আছে [staggered]অথবা।</li>
+    <li>r_logentry(SUBJECT_gender==Female)->[SUBJECT_definite] আছে [staggered]।</li>
+    <li>r_logentry(SUBJECT_gender!=Female)->[SUBJECT_definite] আছে [staggered]অথবা আক্রমণের কারণে।</li>
+    <li>r_logentry(SUBJECT_gender==Female)->[SUBJECT_definite] আছে [staggered]আক্রমণ করতে যাচ্ছে।</li>
+    <li>r_logentry(SUBJECT_gender!=Female)->[SUBJECT_definite] আছে [staggered]অথবা {[INITIATOR_definite]} এর আক্রমণ দ্বারা [INITIATOR_definite]।</li>
+    <li>r_logentry(SUBJECT_gender==Female)->[SUBJECT_definite] আছে [staggered]এর আক্রমণ করতে [INITIATOR_definite]।</li>
+    <li>staggered(p=3)->বিস্মিত</li>
+    <li>staggered->দুর্বলতা</li>
+    <li>staggered->কম্পনরোগ</li>
+    <li>staggered->পরিবর্তিত</li>
+    <li>r_logentry(p=0.5,SUBJECT_gender!=Female)->[SUBJECT_definite] আছে [stumbled1]অথবা আশেপাশে।</li>
+    <li>r_logentry(p=0.5,SUBJECT_gender==Female)->[SUBJECT_definite] আছে [stumbled1]আশেপাশে ঘোরাঘুরি করছে।</li>
+    <li>r_logentry(p=3)->[SUBJECT_definite] আছে [stumbled] আশেপাশে।</li>
+    <li>r_logentry(p=0.3,SUBJECT_gender!=Female)->[SUBJECT_definite] আছে [stumbled1]অথবা বিভ্রান্তির মাঝে।</li>
+    <li>r_logentry(p=0.3,SUBJECT_gender==Female)->[SUBJECT_definite] আছে [stumbled1]বিশৃঙ্খলার মাঝে আটকা পড়েছে।</li>
+    <li>r_logentry->[SUBJECT_definite] আছে [stumbled] বিশৃঙ্খলার মাঝে।</li>
+    <li>stumbled(p=3)->বিচলিত হচ্ছে</li>
+    <li>stumbled1->অস্থির করা হয়েছে</li>
+    <li>stumbled->কাঁপা</li>
+    <li>stumbled->ঠেলেঠোকর করে</li>
+  </Event_Stun.rulePack.rulesStrings>
+  
+</LanguageData>

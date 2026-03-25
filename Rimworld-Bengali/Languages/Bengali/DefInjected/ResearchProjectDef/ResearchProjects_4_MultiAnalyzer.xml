@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced fabrication -->
+  <AdvancedFabrication.label>উন্নত উৎপাদন</AdvancedFabrication.label>
+  <!-- EN: Fabricate advanced components from standard components and other materials. -->
+  <AdvancedFabrication.description>মানক উপাদান ও অন্যান্য উপকরণ থেকে উন্নত উপাদান তৈরি করুন।</AdvancedFabrication.description>
+  <!-- EN:
+    <li>subject->advanced component fabrication</li>
+    <li>subject_story->traded advanced components to desperate rimworlders</li>
+    <li>subject_story->learned the secrets of fabricating advanced components and died without revealing them</li>
+    <li>subject_story->balked at the extreme cost of crafting advanced components and chose a simpler lifestyle</li>
+    <li>subject_gerund->fabricating advanced components</li>
+  -->
+  <AdvancedFabrication.generalRules.rulesStrings>
+    <li>subject->উন্নত উপাদান তৈরি</li>
+    <li>subject_FemMas->উন্নত উপাদান তৈরি</li>
+    <li>subject_def->উন্নত উপাদান তৈরির থেকে</li>
+    <li>subject_def2->উন্নত উপাদান তৈরিতে</li>
+    <li>subject_story->হতাশ প্রান্তবাসী ব্যবসায়ীদের সাথে অত্যাধুনিক যন্ত্রাংশ ব্যবসা করেছিল।</li>
+    <li>subject_story->সে উন্নত উপাদান তৈরির গোপন কথা শিখেছিল এবং প্রকাশ না করেই মারা গিয়েছিল।</li>
+    <li>subject_story->সে উন্নত উপাদান তৈরি করার চরম খরচের কারণে রাজি হয়নি এবং একটি সরল জীবনধারা বেছে নিল।</li>
+    <li>subject_gerund->উন্নত উপাদান তৈরি</li>
+  </AdvancedFabrication.generalRules.rulesStrings>
+  
+  <!-- EN: bionic replacements -->
+  <Bionics.label>বায়োনিক প্রতিস্থাপন</Bionics.label>
+  <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
+  <Bionics.description>হারানো অঙ্গ ও চোখ প্রতিস্থাপনের জন্য উচ্চ-প্রযুক্তির বায়োনিক শরীরের অংশ তৈরি করুন। সংযোজনের জন্য দক্ষ চিকিৎসক প্রয়োজন।</Bionics.description>
+  <!-- EN:
+    <li>subject->bionic prosthesis</li>
+    <li>subject_story->worked primarily with disfigured soldiers, crafting bespoke bionic facial elements so they could return to their loved ones</li>
+    <li>subject_story->studied slowed vids of human motion to better craft bionic prosthetics</li>
+    <li>subject_story->was volunteered to have the various prototype bionics  implanted, ending up as more machine than man</li>
+    <li>subject_gerund->constructing bionic prosthetics</li>
+    <li>subject_gerund->utilizing bionic body parts</li>
+  -->
+  <Bionics.generalRules.rulesStrings>
+    <li>subject->বায়োনিক প্রস্থেটিক্স</li>
+    <li>subject_FemMas->বায়োনিক প্রস্থেটিক্সগুলো</li>
+    <li>subject_def->বায়োনিক প্রস্থেটিকগুলির থেকে</li>
+    <li>subject_def2->বায়োনিক প্রস্থেটিকগুলোতে</li>
+    <li>subject_story->তিনি মূলত বিকৃত সৈন্যদের সাথে কাজ করতেন, তাদের জন্য কাস্টম বায়োনিক মুখের অংশ তৈরি করতেন যাতে তারা তাদের প্রিয়জনদের কাছে ফিরে যেতে পারে।</li>
+    <li>subject_story->তিনি জৈবিক প্রস্থেটিক্স তৈরির দক্ষতা বাড়ানোর জন্য ধীর গতিতে মানুষের গতির ভিডিও অধ্যয়ন করেছেন।</li>
+    <li>subject_story->সে নিজেকে বিভিন্ন বায়োনিক প্রোটোটাইপ প্রতিস্থাপন করার জন্য প্রস্তাব দিয়েছিল, শেষ পর্যন্ত সে মানুষ হওয়ার চেয়ে যন্ত্রের মতোই পরিণত হয়েছিল।</li>
+    <li>subject_gerund->বায়োনিক প্রস্থেটিক নির্মাণ</li>
+    <li>subject_gerund->বায়োনিক শরীরের অংশের ব্যবহার</li>
+  </Bionics.generalRules.rulesStrings>
+  
+  <!-- EN: pulse-charged munitions -->
+  <ChargedShot.label>চার্জড পালস গোলাবারুদ</ChargedShot.label>
+  <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
+  <ChargedShot.description>অতিরিক্ত ক্ষতির জন্য পালস-চার্জড গোলাবারুদ নিক্ষেপ করতে সক্ষম অস্ত্র তৈরি করুন। মনে রাখবেন, এগুলোর জন্যও উন্নত উপাদান প্রয়োজন।</ChargedShot.description>
+  <!-- EN:
+    <li>subject->pulse munitions</li>
+    <li>subject_story->studied glitterworld monorails and modified the tech for weapons</li>
+    <li>subject_story->killed a mechanical crawler by kiting it with a charge lance</li>
+    <li>subject_story->learned how to imbue rifle ammunition with retained charge, heavily increasing its lethality</li>
+    <li>subject_gerund->constructing pulse munitions</li>
+    <li>subject_gerund->utilising pulse munitions</li>
+  -->
+  <ChargedShot.generalRules.rulesStrings>
+    <li>subject->পালস গোলাবারুদ</li>
+    <li>subject_FemMas->পালস গোলাবারুদ</li>
+    <li>subject_def->পালস গোলাবারুদ থেকে</li>
+    <li>subject_def2->পালস গোলাবারুদ</li>
+    <li>subject_story->সে একটি উজ্জ্বল বিশ্বের মনোরেলগুলি অধ্যয়ন করেছিল এবং অস্ত্র তৈরির জন্য প্রযুক্তি পরিবর্তন করেছিল।</li>
+    <li>subject_story->একজন যান্ত্রিক শিকারীকে বর্শা দিয়ে আঘাত করে পিছু হটতে বাধ্য করেছে।</li>
+    <li>subject_story->সে রিফেল কার্তুজ লোড করতে শিখেছে, রিটেইনড চার্জ ব্যবহার করে, যা তার মারাত্মক ক্ষমতা অনেক বাড়িয়ে দিয়েছে।</li>
+    <li>subject_gerund->পালস অ্যামুনিশন নির্মাণ</li>
+    <li>subject_gerund->পালস গোলাবারুদ ব্যবহার</li>
+  </ChargedShot.generalRules.rulesStrings>
+  
+  <!-- EN: cryptosleep casket -->
+  <Cryptosleep.label>ক্রিপ্টোঘুমের কফিন</Cryptosleep.label>
+  <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
+  <Cryptosleep.description>ক্রিপ্টোঘুমের কফিন নির্মাণ করুন, যা জীবিত সত্তাকে অনির্দিষ্টকালের জন্য স্থগিত অ্যানিমেশনে রাখতে পারে।</Cryptosleep.description>
+  <!-- EN:
+    <li>subject->cryptosleep</li>
+    <li>subject_story->intended to test a prototype cryptosleep casket and woke a generation later, alone</li>
+    <li>subject_story->sentenced the system's worst criminal to indefinite cryptosleep rather than death</li>
+    <li>subject_story->used a cryptosleep capsule to suspend the terminally ill, so they could see their children once they'd grown up</li>
+    <li>subject_gerund->constructing cryptosleep caskets</li>
+    <li>subject_gerund->inducing cryptosleep</li>
+  -->
+  <Cryptosleep.generalRules.rulesStrings>
+    <li>subject->ক্রিপ্টোনিদ্রা</li>
+    <li>subject_FemMas->ক্রিপ্টোস্বপ্ন</li>
+    <li>subject_def->ক্রিপ্টোঘুম থেকে</li>
+    <li>subject_def2->ক্রিপ্টোনিদ্রায়</li>
+    <li>subject_story->সে একটি ক্রিপ্টো-ঘুমের কফিন প্রোটোটাইপ পরীক্ষা করার উদ্দেশ্যে করেছিলেন এবং এক প্রজন্ম পরে সম্পূর্ণরূপে একা জেগে উঠেছিলেন।{ANYPAWN_gender ? o : a}</li>
+    <li>subject_story->সিস্টেমের সবচেয়ে খারাপ অপরাধীকে মৃত্যুদণ্ডের পরিবর্তে অনির্দিষ্টকালের জন্য ক্রিপ্টোস্लीप-এ sentenced করা হয়েছে।</li>
+    <li>subject_story->তিনি মারাত্মক অসুস্থ রোগীদের রক্ষা করার জন্য একটি ক্রিপ্টো-ঘুমের ক্যাপসুল ব্যবহার করেছিলেন, যাতে তারা তাদের সন্তানরা বড় হওয়ার পরে তাদের দেখতে পারত।</li>
+    <li>subject_gerund->ক্রিপ্টো-ঘুমের কফিন নির্মাণ</li>
+    <li>subject_gerund->ক্রিপ্টো-ঘুমের প্রবর্তন</li>
+  </Cryptosleep.generalRules.rulesStrings>
+  
+  <!-- EN: fabrication -->
+  <Fabrication.label>উৎপাদন</Fabrication.label>
+  <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
+  <Fabrication.description>কম্পোনেন্ট সংযোজন থেকে শুরু করে পাওয়ার আর্মার নির্মাণ পর্যন্ত—বিভিন্ন উচ্চ-প্রযুক্তির প্রকল্প সম্পাদনে সক্ষম উৎপাদন বেঞ্চ তৈরি করুন।</Fabrication.description>
+  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
+  <Fabrication.discoveredLetterText>এখন আপনার কাছে একটি উৎপাদন বেঞ্চ তৈরির প্রযুক্তি রয়েছে—তবে শুরু করতে কিছু উন্নত উপাদানও প্রয়োজন। উন্নত উপাদান সংগ্রহের কয়েকটি উপায় আছে:\n\n -সব আউটল্যান্ডার বসতিতে উন্নত উপাদান বিক্রি হয়। কিনতে একটি কাফেলা পাঠান।\n -কিছু ভ্রমণকারী ব্যবসায়ী উন্নত উপাদান বিক্রি করে। তাদের আমন্ত্রণ জানান বা অপেক্ষা করুন।\n -কিছু মিশনের পুরস্কার হিসেবে উন্নত উপাদান পাওয়া যায়।\n -কিছু বিশেষ হুমকি পরাজিত হলে সেগুলো ফেলে যায়।</Fabrication.discoveredLetterText>
+  <!-- EN: About: Getting advanced components -->
+  <Fabrication.discoveredLetterTitle>উন্নত উপাদান সংগ্রহ সম্পর্কে</Fabrication.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->high-tech fabrication benches</li>
+    <li>subject_story->spent many years crafting advanced components, to make fabrication benches to make more advanced components</li>
+    <li>subject_story->traded everything to build a single fabrication bench</li>
+    <li>subject_story->constructed technological marvels which the feral villagers worshipped as magical</li>
+    <li>subject_gerund->constructing high-tech projects</li>
+    <li>subject_gerund->building high-tech fabrication stations</li>
+  -->
+  <Fabrication.generalRules.rulesStrings>
+    <li>subject->উচ্চ প্রযুক্তির উৎপাদন বেঞ্চ</li>
+    <li>subject_FemMas->উচ্চ প্রযুক্তির উৎপাদন বেঞ্চ</li>
+    <li>subject_def->উচ্চ প্রযুক্তির উৎপাদন বেঞ্চগুলির থেকে</li>
+    <li>subject_def2->উচ্চ প্রযুক্তির উৎপাদন বেঞ্চগুলোতে</li>
+    <li>subject_story->তিনি অনেক বছর ধরে উন্নত উপাদান তৈরি করেছেন, তৈরির বেঞ্চ তৈরি করার জন্য এবং আরও উন্নত উপাদান তৈরি করার জন্য।</li>
+    <li>subject_story->সে একটি মাত্র তৈরির বেঞ্চ বানানোর জন্য সবকিছু বিনিময় করেছিল।</li>
+    <li>subject_story->সে প্রযুক্তিগত বিস্ময় তৈরি করেছিল যা বন্য গ্রামবাসীরা জাদু হিসেবে পূজা করত।</li>
+    <li>subject_gerund->উচ্চ প্রযুক্তি প্রকল্পের নির্মাণ</li>
+    <li>subject_gerund->উচ্চ প্রযুক্তির উৎপাদন স্টেশনের নির্মাণ</li>
+  </Fabrication.generalRules.rulesStrings>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>মাল্টি-অ্যানালাইজার</MultiAnalyzer.label>
+  <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
+  <MultiAnalyzer.description>গবেষণার গতি বাড়ায় এবং উচ্চ-স্তরের গবেষণা প্রকল্পের সুযোগ দেয়—এমন মাল্টি-অ্যানালাইজার নির্মাণ করুন।</MultiAnalyzer.description>
+  <!-- EN:
+    <li>subject->multi-analysis</li>
+    <li>subject_story->automated a research laboratory</li>
+    <li>subject_story->unlocked the trans-spectrum secrets of the universe</li>
+    <li>subject_story->helped identify new stable isotopes</li>
+    <li>subject_gerund->constructing multi-analyzers</li>
+  -->
+  <MultiAnalyzer.generalRules.rulesStrings>
+    <li>subject->বহু বিশ্লেষণ</li>
+    <li>subject_FemMas->মাল্টি-বিশ্লেষণ</li>
+    <li>subject_def->মাল্টিঅ্যানালাইসিস থেকে</li>
+    <li>subject_def2->মাল্টিঅ্যানালাইসিসে</li>
+    <li>subject_story->একটি গবেষণা পরীক্ষাগার স্বয়ংক্রিয় করেছে।</li>
+    <li>subject_story->মহাবিশ্বের ট্রান্স-স্পেকট্রাল গোপনীয়তা উন্মোচন করেছে।</li>
+    <li>subject_story->নতুন স্থিতিশীল আইসোটোপ সনাক্ত করতে সাহায্য করেছিল।</li>
+    <li>subject_gerund->মাল্টি-অ্যানালাইজার নির্মাণ</li>
+  </MultiAnalyzer.generalRules.rulesStrings>
+  
+  <!-- EN: marine armor -->
+  <PoweredArmor.label>মেরিন বর্ম</PoweredArmor.label>
+  <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
+  <PoweredArmor.description>উচ্চ-প্রযুক্তির শক ট্রুপদের ব্যবহৃত সাধারণ উদ্দেশ্যের পাওয়ার্ড মেরিন বর্ম তৈরি করুন। মনে রাখবেন, এগুলোর জন্যও উন্নত উপাদান প্রয়োজন।</PoweredArmor.description>
+  <!-- EN:
+    <li>subject->marine armor</li>
+    <li>subject_story->was employed by the shock troops to maintain their armor</li>
+    <li>subject_story->tested the armor by walking, unarmed, through a hostile feral village without receiving a scratch</li>
+    <li>subject_story->intended the armor as protection against the planet's hostile weather, but it worked well against the pirates too</li>
+    <li>subject_gerund->constructing shock troop armor</li>
+    <li>subject_gerund->constructing marine armor</li>
+    <li>subject_gerund->constructing general-use advanced armor</li>
+  -->
+  <PoweredArmor.generalRules.rulesStrings>
+    <li>subject->সমুদ্রিক বর্ম</li>
+    <li>subject_FemMas->মেরিন স্যুট</li>
+    <li>subject_def->সামুদ্রিক বর্মের থেকে</li>
+    <li>subject_def2->মেরিন আর্মারের দিকে</li>
+    <li>subject_story->নিযুক্ত করা হয়েছিল{ANYPAWN_gender ? o : a} তাদের বর্ম বজায় রাখার জন্য শক ট্রুপস দ্বারা</li>
+    <li>subject_story->সে কোনো আঁচড় ছাড়াই, নিরস্ত্র অবস্থায় একটি প্রতিকূল উপজাতি বসতির মধ্যে দিয়ে হেঁটে বর্ম পরীক্ষা করেছিল।</li>
+    <li>subject_story->আর্মারটি গ্রহের প্রতিকূল আবহাওয়া থেকে রক্ষা করার কথা ছিল, কিন্তু এটি জলদস্যুদের বিরুদ্ধেও বেশ কার্যকর ছিল।</li>
+    <li>subject_gerund->আক্রমণকারী সৈন্যদলের বর্ম তৈরি</li>
+    <li>subject_gerund->সামুদ্রিক বর্ম তৈরি</li>
+    <li>subject_gerund->সাধারণ ব্যবহারের জন্য উন্নত বর্ম তৈরি।</li>
+  </PoweredArmor.generalRules.rulesStrings>
+  
+  <!-- EN: recon armor -->
+  <ReconArmor.label>রিকন বর্ম</ReconArmor.label>
+  <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
+  <ReconArmor.description>চলমান অবস্থায় সুরক্ষার প্রয়োজন এমন স্কাউটদের জন্য ব্যবহৃত হালকা পাওয়ার্ড রিকন বর্ম তৈরি করুন। মনে রাখবেন, এগুলোর জন্যও উন্নত উপাদান প্রয়োজন।</ReconArmor.description>
+  <!-- EN:
+    <li>subject->recon armor</li>
+    <li>subject_story->led the rebel scouts against the Imperial forces, until captured</li>
+    <li>subject_story->crafted powered armor light and resilient enough for the hammer-users to close with the enemy</li>
+    <li>subject_story->intended recon armor more for hunters than soldiers. It sold well, regardless</li>
+    <li>subject_gerund->crafting recon armor</li>
+    <li>subject_gerund->reducing armor weight</li>
+  -->
+  <ReconArmor.generalRules.rulesStrings>
+    <li>subject->reconnaissance বর্ম</li>
+    <li>subject_FemMas->reconnaissance বর্ম</li>
+    <li>subject_def->reconnaissance আর্মারের থেকে</li>
+    <li>subject_def2->reconnaissance বর্মটিতে</li>
+    <li>subject_story->বিদ্রোহী অভিযাত্রীদের সাম্রাজ্যবাদী শক্তির বিরুদ্ধে নেতৃত্ব দিয়েছিলো, যতক্ষণ না তাকে বন্দী করা হয়।</li>
+    <li>subject_story->hammers বহনকারীদের শত্রুদের কাছাকাছি আসার জন্য একটি হালকা এবং টেকসই পাওয়ার আর্মার তৈরি করেছে।</li>
+    <li>subject_story->আমি চেয়েছিলাম যে রিকন আর্মার হান্টারদের জন্য বেশি উপযোগী হোক সৈন্যদের চেয়ে। যাইহোক, এটা ভালো বিক্রি হয়েছে।</li>
+    <li>subject_gerund->অনুসন্ধান বর্ম তৈরি</li>
+    <li>subject_gerund->বর্মের ওজন হ্রাস</li>
+  </ReconArmor.generalRules.rulesStrings>
+  
+  <!-- EN: rocketswarm launcher -->
+  <RocketswarmLauncher.label>রকেটস্বর্ম লঞ্চার</RocketswarmLauncher.label>
+  <!-- EN: Produce rocketswarm launchers, single-burst turrets which can devastate a wide area at a key moment in battle. -->
+  <RocketswarmLauncher.description>রকেটস্বর্ম লঞ্চার তৈরি করুন—এগুলো একবারের বিস্ফোরণে কাজ করা টারেট, যা যুদ্ধের গুরুত্বপূর্ণ মুহূর্তে বিস্তৃত এলাকায় ধ্বংসযজ্ঞ চালাতে পারে।</RocketswarmLauncher.description>
+  <!-- EN:
+    <li>subject->rocket turrets</li>
+    <li>subject_story->testified about the use of rocketswarm launchers against civilian targets</li>
+    <li>subject_story->constructed last-ditch defenses, including traps and launchers, in case the settlement was ever threatened</li>
+    <li>subject_story->started by constructing primitive rockets to reach space, but the high failure rate led to them being repurposed as weapons</li>
+    <li>subject_gerund->constructing rocket turrets</li>
+  -->
+  <RocketswarmLauncher.generalRules.rulesStrings>
+    <li>subject->রকেট টারেট</li>
+    <li>subject_FemMas->রকেট টারেটগুলি</li>
+    <li>subject_def->রকেট টাওয়ারগুলো থেকে</li>
+    <li>subject_def2->রকেট টারেটগুলোতে</li>
+    <li>subject_story->civiles লক্ষ্যবস্তুর বিরুদ্ধে মাল্টিপল রকেট লঞ্চারের ব্যবহার সম্পর্কে সাক্ষ্য দিয়েছে।</li>
+    <li>subject_story->সে বসতি হুমকির মুখে পড়লে ব্যবহারের জন্য ফাঁদ এবং লঞ্চারসহ শেষ মুহূর্তের প্রতিরক্ষা ব্যবস্থা তৈরি করেছিল।</li>
+    <li>subject_story->মহাকাশে পৌঁছানোর জন্য আদিম রকেট তৈরি করা শুরু হয়েছিল, কিন্তু উচ্চ ব্যর্থতার হারের কারণে এগুলোকে অস্ত্র হিসেবে পুনরায় ব্যবহার করা হলো।</li>
+    <li>subject_gerund->রকেট টারেট নির্মাণ</li>
+  </RocketswarmLauncher.generalRules.rulesStrings>
+  
+  <!-- EN: uranium slug turret -->
+  <SniperTurret.label>ইউরেনিয়াম স্লাগ টারেট</SniperTurret.label>
+  <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>বর্ম-ভেদকারী ইউরেনিয়াম স্লাগ টারেট তৈরি করুন। এটি ইউরেনিয়াম স্লাগ নিক্ষেপ করে, যা প্লাস্টিলকে কাগজের মতো ছিঁড়ে ফেলে, তবে কাছাকাছি দূরত্বে কম কার্যকর।</SniperTurret.description>
+  <!-- EN:
+    <li>subject->sniper turrets</li>
+    <li>subject_story->led the clean-up after the war, collecting spent radioactive uranium slugs from the front line</li>
+    <li>subject_story->saw a turret shoot straight through an assault mechanoid and needed to understand how</li>
+    <li>subject_story->researched the effects of ammunition density on armor</li>
+    <li>subject_gerund->constructing sniper turrets</li>
+  -->
+  <SniperTurret.generalRules.rulesStrings>
+    <li>subject->ইউরেনিয়াম বুলেটের টারেটগুলো</li>
+    <li>subject_FemMas->ইউরেনিয়াম বুলেটের টারেটগুলি</li>
+    <li>subject_def->ইউরেনিয়াম বুলেটের টারেটগুলি থেকে</li>
+    <li>subject_def2->ইউরেনিয়াম বুলেটের টারেটগুলোতে</li>
+    <li>subject_story->যুদ্ধ শেষ হওয়ার পরে সে পরিচ্ছন্নতার নেতৃত্ব দিয়েছিল, সামনের সারিতে ব্যবহৃত তেজস্ক্রিয় ইউরেনিয়াম বুলেট সংগ্রহ করছিল।</li>
+    <li>subject_story->সে দেখেছিল কিভাবে একটি টারেট সরাসরি মেকানয়েডদের আক্রমণ ভেদ করে গেছে এবং তাকে বুঝতে হয়েছিল এটা কিভাবে সম্ভব হল।</li>
+    <li>subject_story->গুলি ভর্তি ঘনত্বের বর্মের উপর প্রভাব নিয়ে তিনি গবেষণা করেছেন।</li>
+    <li>subject_gerund->ইউরেনিয়াম বুলেটের টারেট নির্মাণ</li>
+  </SniperTurret.generalRules.rulesStrings>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>জীবনচিহ্ন মনিটর</VitalsMonitor.label>
+  <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
+  <VitalsMonitor.description>হাসপাতালের বিছানার পাশে স্থাপন করলে চিকিৎসার ফলাফল উন্নত করে—এমন জীবনচিহ্ন মনিটর নির্মাণ করুন।</VitalsMonitor.description>
+  <!-- EN:
+    <li>subject->vital signs monitoring</li>
+    <li>subject_story->struggled in an overcrowded hospital and vowed to work for change</li>
+    <li>subject_story->nursed a glassworld survivor back to health</li>
+    <li>subject_story->monitored the isolation ward remotely, sending mechanoids in for treatments</li>
+    <li>subject_gerund->monitoring vital signs</li>
+    <li>subject_gerund->constructing vital signs monitors</li>
+  -->
+  <VitalsMonitor.generalRules.rulesStrings>
+    <li>subject->গুরুত্বপূর্ণ লক্ষণ পর্যবেক্ষণ</li>
+    <li>subject_FemMas->প্রাণ vital লক্ষণগুলির পর্যবেক্ষণ</li>
+    <li>subject_def->প্রাণবন্ত লক্ষণ নিরীক্ষণ থেকে</li>
+    <li>subject_def2->গুরুত্বপূর্ণ লক্ষণগুলির নিরীক্ষণে</li>
+    <li>subject_story->সে একটি জনাকীর্ণ হাসপাতালে যুদ্ধ করেছিল এবং পরিবর্তনের জন্য কাজ করার শপথ নিয়েছিল।</li>
+    <li>subject_story->সে একজন ওয়ার্ল্ডক্রিস্টাল survivor-কে তার সুস্থ হওয়া পর্যন্ত যত্ন নিল।</li>
+    <li>subject_story->সে দূর থেকে কোয়ারেন্টাইন কক্ষটি পর্যবেক্ষণ করছিল এবং চিকিৎসার জন্য মেকানয়েড পাঠাচ্ছিল।</li>
+    <li>subject_gerund->প্রাণবন্ত লক্ষণ নিরীক্ষণ</li>
+    <li>subject_gerund->গুরুত্বপূর্ণ লক্ষণ নিরীক্ষণ যন্ত্র নির্মাণ</li>
+  </VitalsMonitor.generalRules.rulesStrings>
+  
+</LanguageData>

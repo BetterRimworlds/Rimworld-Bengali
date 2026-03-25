@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: create incident -->
+  <CreateIncident.label>ঘটনা তৈরি করুন</CreateIncident.label>
+  
+  <!-- EN: create quest -->
+  <CreateQuest.label>অনুসন্ধান তৈরি করুন</CreateQuest.label>
+  
+  <!-- EN: disable incident -->
+  <DisableIncident.label>ঘটনা নিষ্ক্রিয় করুন</DisableIncident.label>
+  
+  <!-- EN: disable quest -->
+  <DisableQuest.label>অনুসন্ধান নিষ্ক্রিয় করুন</DisableQuest.label>
+  
+  <!-- EN: forced health condition -->
+  <ForcedHediff.label>জোরপূর্বক স্বাস্থ্য অবস্থা</ForcedHediff.label>
+  
+  <!-- EN: forced trait -->
+  <ForcedTrait.label>বাধ্যতামূলক বৈশিষ্ট্য</ForcedTrait.label>
+  
+  <!-- EN: planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>গ্রহ-ঘাতক অস্ত্রIncoming</GameCondition_Planetkiller.label>
+  
+  <!-- EN: game start dialog -->
+  <GameStartDialog.label>গেম শুরু কথোপকথন</GameStartDialog.label>
+  
+  <!-- EN: naked -->
+  <Naked.label>নগ্ন</Naked.label>
+  
+  <!-- EN: no possessions -->
+  <NoPossessions.label>সম্পদহীন</NoPossessions.label>
+  
+  <!-- EN: characters explode on death -->
+  <OnPawnDeathExplode.label>মৃত্যুতে বিস্ফোরিত চরিত্র</OnPawnDeathExplode.label>
+  
+  <!-- EN: allowed age range -->
+  <PawnFilter_Age.label>অনুমোদিত বয়স পরিসীমা</PawnFilter_Age.label>
+  
+  <!-- EN: permanent game condition -->
+  <PermanentGameCondition.label>স্থায়ী খেলার শর্ত</PermanentGameCondition.label>
+  
+  <!-- EN: planet layer type -->
+  <PlanetLayer.label>গ্রহ স্তর ধরণ</PlanetLayer.label>
+  
+  <!-- EN: disallow building -->
+  <Rule_DisallowBuilding.label>নির্মাণ নিষেধাজ্ঞা</Rule_DisallowBuilding.label>
+  
+  <!-- EN: cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>শিকার করতে অক্ষম</Rule_DisallowDesignator_Hunt.label>
+  <!-- EN: Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>শিকার করতে অক্ষম।</Rule_DisallowDesignator_Hunt.description>
+  
+  <!-- EN: cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>খনন করা যায় না</Rule_DisallowDesignator_Mine.label>
+  <!-- EN: Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>খনন করা যায় না।</Rule_DisallowDesignator_Mine.description>
+  
+  <!-- EN: cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>পোষ মানানো সম্ভব নয়</Rule_DisallowDesignator_Tame.label>
+  <!-- EN: Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>প্রাণীদের পোষ মানানো সম্ভব নয়।</Rule_DisallowDesignator_Tame.description>
+  
+  <!-- EN: cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>বীজ বপন করা যায় না</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- EN: Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>মাটিতে গাছপালা রোপণ করা সম্ভব নয়।</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <!-- EN: scattered randomly -->
+  <ScatterThingsAnywhere.label>ছড়ানো এলোমেলোভাবে</ScatterThingsAnywhere.label>
+  
+  <!-- EN: start near -->
+  <ScatterThingsNearPlayerStart.label>শুরুর কাছাকাছি</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: set need level -->
+  <SetNeedLevel.label>প্রয়োজনীয় স্তর নির্ধারণ করুন</SetNeedLevel.label>
+  
+  <!-- EN: start with animal(s) -->
+  <StartingAnimal.label>পশু(সমূহ)</StartingAnimal.label>
+  
+  <!-- EN: start with research -->
+  <StartingResearch.label>গবেষণা শুরু</StartingResearch.label>
+  
+  <!-- EN: start with -->
+  <StartingThing_Defined.label>শুরুর পরিস্থিতি</StartingThing_Defined.label>
+  
+  <!-- EN: stat multiplier -->
+  <StatFactor.label>গুণক প্রভাব</StatFactor.label>
+  
+</LanguageData>

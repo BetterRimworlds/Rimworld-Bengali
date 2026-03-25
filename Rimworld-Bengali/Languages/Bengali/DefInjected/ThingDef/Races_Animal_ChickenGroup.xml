@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>চিকেন</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>সবচেয়ে ঐতিহ্যবাহী খামারের পাখি, মুরগি ডিম এবং মাংসের জন্য পালন করা হয়। এটি খুব দ্রুত বাড়ে এবং খুব প্রায়ই ডিম পাড়ে।</Chicken.description>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>নখর</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>ঠোঁট</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>মাথা</Chicken.tools.head.label>
+  
+  <!-- EN: duck -->
+  <Duck.label>হাঁস</Duck.label>
+  <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
+  <Duck.description>হাঁস একটি বহুল প্রচলিত খামারের পাখি, যা বন্য পরিবেশেতেও দেখা যায়, এবং এর সুস্বাদু মাংসের জন্য পালন করা হয়। এটি দ্রুত বাড়ে কিন্তু খুব কমই ডিম পাড়ে।</Duck.description>
+  <!-- EN: claws -->
+  <Duck.tools.claws.label>নখর</Duck.tools.claws.label>
+  <!-- EN: beak -->
+  <Duck.tools.beak.label>ঠোঁট</Duck.tools.beak.label>
+  <!-- EN: head -->
+  <Duck.tools.head.label>মাথা</Duck.tools.head.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>হাঁস</Goose.label>
+  <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
+  <Goose.description>মানুষের দ্বারা পোষা একটি পাখি, যা ডিম এবং মাংসের জন্য পালন করা হয়। এরা খুব প্রায়ই ডিম পাড়ে, তবে ডিম ফোটাতে দীর্ঘ সময় লাগে।</Goose.description>
+  <!-- EN: claws -->
+  <Goose.tools.claws.label>নখর</Goose.tools.claws.label>
+  <!-- EN: beak -->
+  <Goose.tools.beak.label>ঠোঁট</Goose.tools.beak.label>
+  <!-- EN: head -->
+  <Goose.tools.head.label>মাথা</Goose.tools.head.label>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>টার্কি</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
+  <Turkey.description>এটি একটি ছোট, মোটা, উড়তে অক্ষম পাখি যা এর মজার 'গলগল' ডাকের জন্য পরিচিত। এটি দীর্ঘকাল ধরে গৃহপালিত, তবে বন্য জীবনেও বসবাস করে।</Turkey.description>
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>নখর</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>ঠোঁট</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>মাথা</Turkey.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat --><!-- EN: gato -->
+  <Cat.label>গাতো</Cat.label><!-- EN: gata -->
+  <Cat.labelFemale>গাতা</Cat.labelFemale><!-- EN: gatas -->
+  <Cat.labelFemalePlural>গাতাস</Cat.labelFemalePlural><!-- EN: gato -->
+  <Cat.labelMale>জীবনের পর্যায় ও প্রজাতি</Cat.labelMale><!-- EN: gatos -->
+  <Cat.labelMalePlural>গাতোস</Cat.labelMalePlural><!-- EN: gatos -->
+  <Cat.labelPlural>গাতোস</Cat.labelPlural>
+  <!-- EN: kitten --><!-- EN: cachorro de gato -->
+  <Cat.lifeStages.kitten.label>ক্যাট চোরো</Cat.lifeStages.kitten.label><!-- EN: cachorros de gato -->
+  <Cat.lifeStages.kitten.labelPlural>ক্যাটোরো ডি গাতো শাবক</Cat.lifeStages.kitten.labelPlural><!-- EN: gato joven -->
+  <Cat.lifeStages.1.label>গাতো অল্পবয়স্ক</Cat.lifeStages.1.label><!-- EN: gata joven -->
+  <Cat.lifeStages.1.labelFemale>গাতা ইয়োভেন</Cat.lifeStages.1.labelFemale><!-- EN: gatas jóvenes -->
+  <Cat.lifeStages.1.labelFemalePlural>গাতাস অল্পবয়স্ক</Cat.lifeStages.1.labelFemalePlural><!-- EN: gato joven -->
+  <Cat.lifeStages.1.labelMale>গাতো ইওবেন</Cat.lifeStages.1.labelMale><!-- EN: gatos jóvenes -->
+  <Cat.lifeStages.1.labelMalePlural>গাতোস অল্পবয়স্ক</Cat.lifeStages.1.labelMalePlural><!-- EN: gatos jóvenes -->
+  <Cat.lifeStages.1.labelPlural>গাতোস ইয়ং</Cat.lifeStages.1.labelPlural><!-- EN: gato -->
+  <Cat.lifeStages.2.label>গাতো</Cat.lifeStages.2.label><!-- EN: gata -->
+  <Cat.lifeStages.2.labelFemale>গাতা</Cat.lifeStages.2.labelFemale><!-- EN: gatas -->
+  <Cat.lifeStages.2.labelFemalePlural>গাতাস</Cat.lifeStages.2.labelFemalePlural><!-- EN: gato -->
+  <Cat.lifeStages.2.labelMale>গাতো</Cat.lifeStages.2.labelMale><!-- EN: gatos -->
+  <Cat.lifeStages.2.labelMalePlural>গাতোস</Cat.lifeStages.2.labelMalePlural><!-- EN: gatos -->
+  <Cat.lifeStages.2.labelPlural>গাতোস</Cat.lifeStages.2.labelPlural>
+  
+  <!-- EN: guinea pig --><!-- EN: cobaya -->
+  <GuineaPig.label>কোবায়া</GuineaPig.label><!-- EN: cobayas -->
+  <GuineaPig.labelPlural>কোবায়াস</GuineaPig.labelPlural><!-- EN: cría de cobaya -->
+  <GuineaPig.lifeStages.0.label>কোবায়া বাচ্চা</GuineaPig.lifeStages.0.label><!-- EN: crías de cobaya -->
+  <GuineaPig.lifeStages.0.labelPlural>কোбая ছানা</GuineaPig.lifeStages.0.labelPlural><!-- EN: cobaya joven -->
+  <GuineaPig.lifeStages.1.label>কোবায়া তরুণ</GuineaPig.lifeStages.1.label><!-- EN: cobayas jóvenes -->
+  <GuineaPig.lifeStages.1.labelPlural>কুবায়াছ অল্পবয়সী</GuineaPig.lifeStages.1.labelPlural><!-- EN: cobaya -->
+  <GuineaPig.lifeStages.2.label>কোবায়া</GuineaPig.lifeStages.2.label><!-- EN: cobayas -->
+  <GuineaPig.lifeStages.2.labelPlural>কোবায়াস</GuineaPig.lifeStages.2.labelPlural>
+  
+  <!-- EN: husky --><!-- EN: husky -->
+  <Husky.label>হস্কি</Husky.label>
+  <!-- EN: huskies --><!-- EN: huskies -->
+  <Husky.labelPlural>হাস্কিস</Husky.labelPlural>
+  <!-- EN: husky puppy --><!-- EN: cachorro de husky -->
+  <Husky.lifeStages.husky_puppy.label>হাস্কি কুকুরছানা</Husky.lifeStages.husky_puppy.label>
+  <!-- EN: husky puppies --><!-- EN: cachorros de husky -->
+  <Husky.lifeStages.husky_puppy.labelPlural>হ husky শাবক</Husky.lifeStages.husky_puppy.labelPlural><!-- EN: husky joven -->
+  <Husky.lifeStages.1.label>হস্কি শাবক</Husky.lifeStages.1.label><!-- EN: huskies jóvenes -->
+  <Husky.lifeStages.1.labelPlural>তরুণ হস্কি</Husky.lifeStages.1.labelPlural><!-- EN: husky -->
+  <Husky.lifeStages.2.label>হ husky</Husky.lifeStages.2.label><!-- EN: huskies -->
+  <Husky.lifeStages.2.labelPlural>হাস্কিস</Husky.lifeStages.2.labelPlural>
+  
+  <!-- EN: labrador retriever --><!-- EN: labrador retriever -->
+  <LabradorRetriever.label>ল্যাব্রাডর রিট্রিভার</LabradorRetriever.label><!-- EN: labradores retriever -->
+  <LabradorRetriever.labelPlural>ল্যাব্রাডোর রিট্রিভার</LabradorRetriever.labelPlural>
+  <!-- EN: labrador puppy --><!-- EN: cachorro de labrador -->
+  <LabradorRetriever.lifeStages.labrador_puppy.label>ল্যাব্রাডর কুকুরছানা</LabradorRetriever.lifeStages.labrador_puppy.label>
+  <!-- EN: labrador puppies --><!-- EN: cachorros de labrador -->
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>ল্যাব্রাডর কুকুরছানা</LabradorRetriever.lifeStages.labrador_puppy.labelPlural><!-- EN: labrador joven -->
+  <LabradorRetriever.lifeStages.1.label>ল্যাব্রাডর অল্পবয়সী</LabradorRetriever.lifeStages.1.label><!-- EN: labradores retriever jóvenes -->
+  <LabradorRetriever.lifeStages.1.labelPlural>ল্যাব্রাডোর রিট্রিভার শাবক</LabradorRetriever.lifeStages.1.labelPlural><!-- EN: labrador retriever -->
+  <LabradorRetriever.lifeStages.2.label>ল্যাব্রাডর রিট্রিভার</LabradorRetriever.lifeStages.2.label><!-- EN: labradores retriever -->
+  <LabradorRetriever.lifeStages.2.labelPlural>ল্যাব্রাডোর রিট্রিভার</LabradorRetriever.lifeStages.2.labelPlural>
+  
+  <!-- EN: monkey --><!-- EN: mono -->
+  <Monkey.label>মনো</Monkey.label><!-- EN: mona -->
+  <Monkey.labelFemale>মোনা</Monkey.labelFemale><!-- EN: monas -->
+  <Monkey.labelFemalePlural>মনাস</Monkey.labelFemalePlural><!-- EN: mono -->
+  <Monkey.labelMale>জীবনের পর্যায় ও প্রজাতি</Monkey.labelMale><!-- EN: monos -->
+  <Monkey.labelMalePlural>মনোস</Monkey.labelMalePlural><!-- EN: monos -->
+  <Monkey.labelPlural>মনোস</Monkey.labelPlural><!-- EN: cría de mono -->
+  <Monkey.lifeStages.0.label>বানরের বাচ্চা</Monkey.lifeStages.0.label><!-- EN: cría de mona -->
+  <Monkey.lifeStages.0.labelFemale>ক্রিয়া দে মোনা</Monkey.lifeStages.0.labelFemale><!-- EN: crías de mona -->
+  <Monkey.lifeStages.0.labelFemalePlural>ক্রিয়াস দে মোনা</Monkey.lifeStages.0.labelFemalePlural><!-- EN: crías de mono -->
+  <Monkey.lifeStages.0.labelPlural>বানরের বাচ্চা</Monkey.lifeStages.0.labelPlural><!-- EN: mono joven -->
+  <Monkey.lifeStages.1.label>মনো ইয়োভেন</Monkey.lifeStages.1.label><!-- EN: mona joven -->
+  <Monkey.lifeStages.1.labelFemale>মোনা ইয়োবেন</Monkey.lifeStages.1.labelFemale><!-- EN: monas jóvenes -->
+  <Monkey.lifeStages.1.labelFemalePlural>মোনাস অল্পবয়স্ক</Monkey.lifeStages.1.labelFemalePlural><!-- EN: mono joven -->
+  <Monkey.lifeStages.1.labelMale>মনো ইয়োভেন</Monkey.lifeStages.1.labelMale><!-- EN: monos jóvenes -->
+  <Monkey.lifeStages.1.labelMalePlural>মনোস ইয়ংগেস</Monkey.lifeStages.1.labelMalePlural><!-- EN: monos jóvenes -->
+  <Monkey.lifeStages.1.labelPlural>মনোস ইয়ংগেস</Monkey.lifeStages.1.labelPlural><!-- EN: mono -->
+  <Monkey.lifeStages.2.label>মনো</Monkey.lifeStages.2.label><!-- EN: mona -->
+  <Monkey.lifeStages.2.labelFemale>মনা</Monkey.lifeStages.2.labelFemale><!-- EN: monas -->
+  <Monkey.lifeStages.2.labelFemalePlural>মনাস</Monkey.lifeStages.2.labelFemalePlural><!-- EN: mono -->
+  <Monkey.lifeStages.2.labelMale>জীবনের পর্যায় ও প্রজাতি</Monkey.lifeStages.2.labelMale><!-- EN: monos -->
+  <Monkey.lifeStages.2.labelMalePlural>মনোস</Monkey.lifeStages.2.labelMalePlural><!-- EN: monos -->
+  <Monkey.lifeStages.2.labelPlural>মনোস</Monkey.lifeStages.2.labelPlural>
+  
+  <!-- EN: yorkshire terrier --><!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>यॉर्कশায়ার টেরিয়ার</YorkshireTerrier.label><!-- EN: yorkshire terriers -->
+  <YorkshireTerrier.labelPlural>यॉर्कশায়ার টেরিয়ার্স</YorkshireTerrier.labelPlural>
+  <!-- EN: yorkshire terrier puppy --><!-- EN: cachorro de terrier -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>টেরিয়ার কুকুরছানা</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  <!-- EN: yorkshire terrier puppies --><!-- EN: cachorros de terrier -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>টেরিয়ার কুকুরছানা</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural><!-- EN: yorkshire terrier joven -->
+  <YorkshireTerrier.lifeStages.1.label>यॉर्कশায়ার টেরিয়ার অল্পবয়স্ক</YorkshireTerrier.lifeStages.1.label><!-- EN: yorkshire terrier jóvenes -->
+  <YorkshireTerrier.lifeStages.1.labelPlural>यॉर्कশায়ার টেরিয়ার শাবক</YorkshireTerrier.lifeStages.1.labelPlural><!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.lifeStages.2.label>यॉर्कশায়ার টেরিয়ার</YorkshireTerrier.lifeStages.2.label><!-- EN: yorkshire terriers -->
+  <YorkshireTerrier.lifeStages.2.labelPlural>यॉर्कশায়ার টেরিয়ার্স</YorkshireTerrier.lifeStages.2.labelPlural>
+  
+</LanguageData>

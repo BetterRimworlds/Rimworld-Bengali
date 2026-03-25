@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPod.label>ড্রপ পড</ActiveDropPod.label>
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPodMechanoid.label>ড্রপ পড</ActiveDropPodMechanoid.label>
+  
+  <!-- EN: fire -->
+  <Fire.label>আগুন</Fire.label>
+  
+  <!-- EN: spark -->
+  <Spark.label>স্পার্ক</Spark.label>
+  
+</LanguageData>

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived. -->
+  <AbandonedChild23.description>[PAWN_nameDef] দুর্বলভাবে জন্মগ্রহণ করেন। তাঁর বাবা-মা মনে করেছিলেন যে তিনি কেবল গোত্রের বোঝা হবেন, তাই তাঁরা তাঁকে প্রতিকূল আবহাওয়ার মধ্যে ফেলে রাখেন। কোনোভাবে, তিনি বেঁচে যান।</AbandonedChild23.description>
+  <!-- EN: abandoned child -->
+  <AbandonedChild23.title>পরিত্যক্ত শিশু</AbandonedChild23.title>
+  <AbandonedChild23.titleFemale>পরিত্যক্ত শিশু</AbandonedChild23.titleFemale>
+  <!-- EN: abandoned -->
+  <AbandonedChild23.titleShort>পরিত্যক্ত</AbandonedChild23.titleShort>
+  <AbandonedChild23.titleShortFemale>পরিত্যক্ত</AbandonedChild23.titleShortFemale>
+  
+  <!-- EN: Rather than socialize with the other children, [PAWN_nameDef] preferred to get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read at an early age with books bought from passing traders. -->
+  <Bookworm19.description>অন্যান্য শিশুদের সাথে মেলামেশা করার পরিবর্তে, [PAWN_nameDef] সাহিত্য জগতে হারিয়ে যেতে পছন্দ করত। অল্প বয়সেই তিনি ঘুরে বেড়ানো ব্যবসায়ীদের কাছ থেকে কেনা বই দিয়ে নিজে নিজে পড়তে শিখেছিল।</Bookworm19.description>
+  <!-- EN: bookworm -->
+  <Bookworm19.title>বইয়ের পোকা</Bookworm19.title>
+  <Bookworm19.titleFemale>বইয়ের পোকা</Bookworm19.titleFemale>
+  <!-- EN: bookworm -->
+  <Bookworm19.titleShort>বইপোকা</Bookworm19.titleShort>
+  <Bookworm19.titleShortFemale>বইপোকা</Bookworm19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] had a knack for art. Traders and collectors from many different societies sought to buy [PAWN_possessive] creations. -->
+  <BuddingArtist44.description>[PAWN_nameDef]-এর শিল্পের প্রতি সহজাত দক্ষতা ছিল। বিভিন্ন সমাজের বণিক ও সংগ্রাহকেরা তাঁর সৃষ্টিগুলি কিনতে আগ্রহী ছিলেন।</BuddingArtist44.description>
+  <!-- EN: budding artist -->
+  <BuddingArtist44.title>উদীয়মান শিল্পী</BuddingArtist44.title>
+  <BuddingArtist44.titleFemale>উদীয়মান শিল্পী</BuddingArtist44.titleFemale>
+  <!-- EN: artist -->
+  <BuddingArtist44.titleShort>শিল্পী</BuddingArtist44.titleShort>
+  <BuddingArtist44.titleShortFemale>শিল্পী</BuddingArtist44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] busy, an elder assigned [PAWN_objective] to a hunting party at an early age. -->
+  <Bully70.description>[PAWN_nameDef] মজা করার জন্য অন্যান্য শিশুদের নির্যাতন করত। তাঁকে ব্যস্ত রাখার জন্য, একজন বয়স্ক ব্যক্তি অল্প বয়সে তাঁকে একটি শিকার দলের সাথে নিযুক্ত করেন।</Bully70.description>
+  <!-- EN: bully -->
+  <Bully70.title>গুণ্ডা, উৎপীড়ক</Bully70.title>
+  <Bully70.titleFemale>গুণ্ডা, উৎপীড়ক</Bully70.titleFemale>
+  <!-- EN: bully -->
+  <Bully70.titleShort>গুণ্ডা</Bully70.titleShort>
+  <Bully70.titleShortFemale>গুণ্ডা</Bully70.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
+  <CaveChild30.description>[PAWN_nameDef] একটি বিশাল এবং জটিল গুহা কমপ্লেক্সে বড় হয়েছেন, যা একটি পাহাড়ের গভীরে বিস্তৃত ছিল। তিনি বড়দের গুহাগুলির রক্ষণাবেক্ষণ ও উন্নতিতে সাহায্য করতেন।</CaveChild30.description>
+  <!-- EN: cave child -->
+  <CaveChild30.title>গুহা শিশু</CaveChild30.title>
+  <CaveChild30.titleFemale>গুহা শিশু</CaveChild30.titleFemale>
+  <!-- EN: cave child -->
+  <CaveChild30.titleShort>গুহা শিশু</CaveChild30.titleShort>
+  <CaveChild30.titleShortFemale>গুহা শিশু</CaveChild30.titleShortFemale>
+  
+  <!-- EN: As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft crash. A passing tribe discovered [PAWN_objective] in the wreckage and adopted [PAWN_objective]. -->
+  <CrashBaby32.description>একটি শিশু হিসেবে, [PAWN_nameDef] একটি মারাত্মক মহাকাশযান দুর্ঘটনার একমাত্র জীবিত ছিলেন। একটি যাযাবর গোষ্ঠী ধ্বংসাবশেষের মধ্যে তাঁকে খুঁজে পায় এবং দত্তক নেয়।</CrashBaby32.description>
+  <!-- EN: crash baby -->
+  <CrashBaby32.title>দুর্ঘটনা শিশু</CrashBaby32.title>
+  <CrashBaby32.titleFemale>দুর্ঘটনা শিশু</CrashBaby32.titleFemale>
+  <!-- EN: crashbaby -->
+  <CrashBaby32.titleShort>দুর্ঘটনার শিশু</CrashBaby32.titleShort>
+  <CrashBaby32.titleShortFemale>দুর্ঘটনার শিশু</CrashBaby32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for keeping the tribe's fire going. [PAWN_pronoun] took this responsibility very seriously. -->
+  <FireKeeper44.description>[PAWN_nameDef] উপজাতিদের আগুন জ্বালিয়ে রাখার দায়িত্বে ছিলেন এবং এই দায়িত্বটি তিনি অত্যন্ত গুরুত্বের সাথে নিতেন।</FireKeeper44.description>
+  <!-- EN: fire keeper -->
+  <FireKeeper44.title>আগুন রক্ষক</FireKeeper44.title>
+  <FireKeeper44.titleFemale>আগুন রক্ষক</FireKeeper44.titleFemale>
+  <!-- EN: firekeep -->
+  <FireKeeper44.titleShort>ফায়ারকিপ</FireKeeper44.titleShort>
+  <FireKeeper44.titleShortFemale>ফায়ারকিপ</FireKeeper44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
+  <Herder19.description>[PAWN_nameDef] মাফালো পশুর পাল দেখাশোনা করতেন, শিকারিদের থেকে তাদের রক্ষা করতেন এবং অসুস্থ পশুদের চিকিৎসা করতেন। কাজটি শান্ত প্রকৃতির ছিল, কিন্তু তিনি মানুষের কাছ থেকে দূরে থাকতে পছন্দ করতেন।</Herder19.description>
+  <!-- EN: herder -->
+  <Herder19.title>পালক পশুচারক</Herder19.title>
+  <Herder19.titleFemale>পালক পশুচারক</Herder19.titleFemale>
+  <!-- EN: herder -->
+  <Herder19.titleShort>চারাপালক</Herder19.titleShort>
+  <Herder19.titleShortFemale>চারাপালক</Herder19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
+  <Hideaway7.description>[PAWN_nameDef]'s অতিরিক্ত সুরক্ষাকারী বাবা-মা তাঁকে প্রায় প্রতিদিন বাড়িতে থাকতে উৎসাহিত করতেন। যদিও তাঁর প্রচুর সময় ছিল পড়াশোনা এবং হস্তশিল্পের শখের জন্য, তিনি স্বাভাবিক সামাজিক দক্ষতা অর্জন করতে পারেননি।</Hideaway7.description>
+  <!-- EN: hideaway -->
+  <Hideaway7.title>লুকানো স্থান</Hideaway7.title>
+  <Hideaway7.titleFemale>লুকানো স্থান</Hideaway7.titleFemale>
+  <!-- EN: hideaway -->
+  <Hideaway7.titleShort>আশ্রয়স্থল</Hideaway7.titleShort>
+  <Hideaway7.titleShortFemale>আশ্রয়স্থল</Hideaway7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time. -->
+  <ReclusiveChild81.description>[PAWN_nameDef] প্রায় পাঁচ বছর বয়স না হওয়া পর্যন্ত কথা বলতে শেখেনি। এমনকি তারপরও তিনি নিজের সঙ্গেই থাকতে পছন্দ করতেন।\n\nযাদের তত্ত্বাবধানে ছিলেন, তারা হতাশ হতেন, কারণ তার মধ্যে কয়েক সপ্তাহ ধরে জঙ্গলে ঘুরে বেড়ানোর অভ্যাস ছিল।</ReclusiveChild81.description>
+  <!-- EN: reclusive child -->
+  <ReclusiveChild81.title>অন্তর্মুখী শিশু</ReclusiveChild81.title>
+  <ReclusiveChild81.titleFemale>অন্তর্মুখী শিশু</ReclusiveChild81.titleFemale>
+  <!-- EN: reclusive -->
+  <ReclusiveChild81.titleShort>অন্তর্মুখী</ReclusiveChild81.titleShort>
+  <ReclusiveChild81.titleShortFemale>অন্তর্মুখী</ReclusiveChild81.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds. -->
+  <Scavenger22.description>[PAWN_nameDef] শৈশব কাটিয়েছেন কঠিন কাজ এড়িয়ে গিয়ে ধ্বংসস্তূপ ও পুরাতন কাঠামোয় গুপ্তধন খোঁজার নেশায়। তাঁর সহজাত কৌতূহল প্রায়শই তাঁকে বিপদে ফেলেছে, তবে এর মাধ্যমে অনেক মূল্যবান জিনিসও খুঁজে পেয়েছেন।</Scavenger22.description>
+  <!-- EN: scavenger -->
+  <Scavenger22.title>সংগ্রহকারী</Scavenger22.title>
+  <Scavenger22.titleFemale>সংগ্রহকারী</Scavenger22.titleFemale>
+  <!-- EN: scavenger -->
+  <Scavenger22.titleShort>সংগ্রহকারী</Scavenger22.titleShort>
+  <Scavenger22.titleShortFemale>সংগ্রহকারী</Scavenger22.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops. -->
+  <SoleSurvivor21.description>[PAWN_nameDef]'র পুরো উপজাতি একটি হানাতে নিশ্চিহ্ন হয়ে গিয়েছিল। যদিও তাঁকে অন্য একটি দল দত্তক নিয়েছিল, তবুও তিনি মানসিকভাবে আঘাত পেয়েছিলেন এবং বাড়ির কাছে রান্না ও ফসল ফলানো পছন্দ করতেন।</SoleSurvivor21.description>
+  <!-- EN: sole survivor -->
+  <SoleSurvivor21.title>একমাত্র জীবিত ব্যক্তি</SoleSurvivor21.title>
+  <SoleSurvivor21.titleFemale>একমাত্র জীবিত ব্যক্তি</SoleSurvivor21.titleFemale>
+  <!-- EN: survivor -->
+  <SoleSurvivor21.titleShort>বেঁচে থাকা ব্যক্তি</SoleSurvivor21.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a tribe, running around the village, moving with the muffalo herds, learning essential skills from [PAWN_possessive] parents.\n\n[PAWN_pronoun] never learned to read and never saw a machine that wasn't an ancient ruin. -->
+  <TribeChild40.description>[PAWN_nameDef] একটি উপজাতিতে বড় হয়েছেন, গ্রামজুড়ে ঘুরে বেড়াতেন, মাফালো দলের সাথে চলতেন এবং তাঁর পিতামাতার কাছ থেকে প্রয়োজনীয় দক্ষতা শিখতেন।\n\nতিনি কখনো পড়তে শেখেননি এবং এমন কোনো যন্ত্র দেখেননি যা প্রাচীন ধ্বংসাবশেষ নয়।</TribeChild40.description>
+  <!-- EN: tribe child -->
+  <TribeChild40.title>উপজাতি শিশু</TribeChild40.title>
+  <TribeChild40.titleFemale>উপজাতি শিশু</TribeChild40.titleFemale>
+  <!-- EN: tribal -->
+  <TribeChild40.titleShort>উপজাতি</TribeChild40.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] returned to [PAWN_possessive] village to find that it had been wiped out by bandits. [PAWN_pronoun] swore revenge on the attackers and began a violent rampage across the wilderness. -->
+  <VengefulChild43.description>ছোটবেলায়, [PAWN_nameDef] নিজের গ্রামে ফিরে এসে জানতে পারলেন যে ডাকাতদের দ্বারা সেটি নিশ্চিহ্ন হয়ে গেছে। তিনি আক্রমণকারীদের উপর প্রতিশোধের শপথ নিলেন এবং বন্য অঞ্চলে এক সহিংস তাণ্ডব শুরু করলেন।</VengefulChild43.description>
+  <!-- EN: vengeful child -->
+  <VengefulChild43.title>প্রতিশোধপরায়ণ শিশু</VengefulChild43.title>
+  <VengefulChild43.titleFemale>প্রতিশোধপরায়ণ শিশু</VengefulChild43.titleFemale>
+  <!-- EN: vengeful -->
+  <VengefulChild43.titleShort>প্রতিশোধপরায়ণ</VengefulChild43.titleShort>
+  <VengefulChild43.titleShortFemale>প্রতিশোধপরায়ণ</VengefulChild43.titleShortFemale>
+  
+</LanguageData>

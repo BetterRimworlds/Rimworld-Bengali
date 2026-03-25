@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Level -->
+  <Level>স্তর</Level>
+  <!-- EN: skill level -->
+  <SkillLevel>দক্ষতা স্তর</SkillLevel>
+  <!-- EN: Progress to next learned level -->
+  <ProgressToNextLevel>পরবর্তী শেখা স্তরে অগ্রগতি</ProgressToNextLevel>
+  <!-- EN: Experience -->
+  <Experience>অভিজ্ঞতা</Experience>
+  <!-- EN: Passion -->
+  <Passion>অনুরাগ</Passion>
+  <!-- EN: No passion -->
+  <PassionNone>অনুভূতিহীন</PassionNone>
+  <!-- EN: Passion -->
+  <PassionMinor>অনুরাগ</PassionMinor>
+  <!-- EN: Burning passion -->
+  <PassionMajor>দহনীয় আবেগ</PassionMajor>
+  <!-- EN: Learning speed -->
+  <LearningSpeed>শেখার গতি</LearningSpeed>
+  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
+  <LearnedMaxToday>আজ সর্বোচ্চ শিখলেন ({0}/{1}, আরও শেখা {2} দ্বারা গুণিত)</LearnedMaxToday>
+  <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
+  <ChildrenLearn>শিশুরা বয়স্কদের কাজ করা দেখে এবং একটি পাঠ ডেস্ক-এ পাঠ নিয়ে দক্ষতা অর্জন করে।</ChildrenLearn>
+  <!-- EN: Effects at level {0} -->
+  <EffectsAtLevel>{0} স্তরে প্রভাবগুলি</EffectsAtLevel>
+  <!-- EN: MAX -->
+  <SkillMax>সর্বোচ্চ</SkillMax>
+  <!-- EN: Learned level -->
+  <LearnedLevel>শেখা স্তর</LearnedLevel>
+  <!-- EN: Negative level adjusted to zero. -->
+  <NegativeLevelAdjustedToZero>নেতিবাচক স্তর শূন্যে সমন্বিত।</NegativeLevelAdjustedToZero>
+  <!-- EN: Level capped at {0}. -->
+  <LevelCappedAtMax>স্তর {0} এ সীমাবদ্ধ।</LevelCappedAtMax>
+  <!-- EN: {GENE_label} gene -->
+  <GeneLabelWithDesc>জিন {GENE_label}।</GeneLabelWithDesc>
+  <!-- EN: {TRAITLABEL} trait -->
+  <TraitLabelWithDesc>{TRAITLABEL} বৈশিষ্ট্য।</TraitLabelWithDesc>
+
+  <!-- EN: Barely heard of it -->
+  <Skill0>প্রায় শোনা যায়নি।</Skill0>
+  <!-- EN: Utter beginner -->
+  <Skill1>নতুন হাতেখড়ি</Skill1>
+  <!-- EN: Beginner -->
+  <Skill2>новичок</Skill2>
+  <!-- EN: Basic familiarity -->
+  <Skill3>প্রাথমিক পরিচিতি</Skill3>
+  <!-- EN: Some familiarity -->
+  <Skill4>কিছু পরিচিতি</Skill4>
+  <!-- EN: Significant familiarity -->
+  <Skill5>গুরুত্বপূর্ণ পরিচিতি</Skill5>
+  <!-- EN: Capable amateur -->
+  <Skill6>দক্ষ অপেশাদার</Skill6>
+  <!-- EN: Weak professional -->
+  <Skill7>দুর্বল পেশাদার</Skill7>
+  <!-- EN: Employable professional -->
+  <Skill8>নিয়োগযোগ্য পেশাদার</Skill8>
+  <!-- EN: Solid professional -->
+  <Skill9>কঠিন পেশাদার</Skill9>
+  <!-- EN: Skilled professional -->
+  <Skill10>দক্ষ পেশাদার</Skill10>
+  <!-- EN: Very skilled professional -->
+  <Skill11>অত্যন্ত দক্ষ পেশাদার</Skill11>
+  <!-- EN: Expert -->
+  <Skill12>বিশেষজ্ঞ</Skill12>
+  <!-- EN: Strong expert -->
+  <Skill13>শক্তিশালী বিশেষজ্ঞ</Skill13>
+  <!-- EN: Master -->
+  <Skill14>মাস্টার</Skill14>
+  <!-- EN: Strong master -->
+  <Skill15>শক্তিশালী মাস্টার</Skill15>
+  <!-- EN: Region-known master -->
+  <Skill16>অঞ্চল-পরিচিত মাস্টার</Skill16>
+  <!-- EN: Region-leading master -->
+  <Skill17>অঞ্চল-প্রধান দক্ষ</Skill17>
+  <!-- EN: Planet-known master -->
+  <Skill18>গ্রহ-পরিচিত মাস্টার</Skill18>
+  <!-- EN: Planet-leading master -->
+  <Skill19>গ্রহ-নেতা মাস্টার</Skill19>
+  <!-- EN: Legendary master -->
+  <Skill20>কিংবদন্তী মাস্টার</Skill20>
+  
+</LanguageData>

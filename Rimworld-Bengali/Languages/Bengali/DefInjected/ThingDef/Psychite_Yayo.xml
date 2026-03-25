@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: yayo -->
+  <Yayo.label>ইয়ায়ো</Yayo.label>
+  <!-- EN: A refined powdery preparation of the psychite drug. When snorted, it produces a rapid euphoric high, dramatically reduces the user's need for rest, and suppresses pain. Like all forms of psychite, it is addictive, though it is not as addictive as the cruder flake.\n\nBecause of its high cost and refined appearance, many cultures associate yayo with degenerate wealth. Whether in the throneroom or the boardroom, many hare-brained policy schemes have been developed during yayo-fueled binge parties. -->
+  <Yayo.description>সাইকাইট ড্রাগের একটি পরিশোধিত পাউডার প্রস্তুতি। নাক দিয়ে গ্রহণ করলে, এটি দ্রুত আনন্দদায়ক অনুভূতি তৈরি করে, ব্যবহারকারীর বিশ্রামের প্রয়োজনীয়তা কমিয়ে দেয় এবং ব্যথা দমন করে। সমস্ত সাইকাইটের মতো, এটি আসক্তি তৈরি করে, যদিও এটি crude ফ্লেকের চেয়ে কম আসক্তি তৈরি করে।\n\nউচ্চ মূল্য এবং পরিশোধিত চেহারার কারণে, অনেক সংস্কৃতি ইয়ায়োকে নৈতিক অবক্ষয়ের সাথে যুক্ত করে। সিংহাসন কক্ষে বা বোর্ডরুমে, অনেক অযৌক্তিক নীতি প্রণয়ন করা হয়েছে ইয়ায়ো-fueled binge পার্টিগুলোতে।</Yayo.description>
+  <!-- EN: Snort {0} -->
+  <Yayo.ingestible.ingestCommandString>Snort {0}</Yayo.ingestible.ingestCommandString>
+  <!-- EN: Snorting {0}. -->
+  <Yayo.ingestible.ingestReportString>{0} শুঁকছে।</Yayo.ingestible.ingestReportString>
+  
+</LanguageData>

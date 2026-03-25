@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shield belt -->
+  <Apparel_ShieldBelt.label>ঢাল বেল্ট</Apparel_ShieldBelt.label>
+  <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
+  <Apparel_ShieldBelt.description>এটি একটি প্রজেক্টাইল-বিকর্ষণকারী যন্ত্র। এটি আগত প্রজেক্টাইল বা শার্পনেল থামাতে চেষ্টা করবে, তবে নিকট যুদ্ধ আক্রমণ বা তাপের বিরুদ্ধে কিছুই করবে না। এটি পরিধানকারীকে গুলি করা থেকে বিরত রাখে এবং ইএমপি দ্বারা আঘাত পেলে তাৎক্ষণিকভাবে বন্ধ হয়ে যায়।</Apparel_ShieldBelt.description>
+  
+</LanguageData>

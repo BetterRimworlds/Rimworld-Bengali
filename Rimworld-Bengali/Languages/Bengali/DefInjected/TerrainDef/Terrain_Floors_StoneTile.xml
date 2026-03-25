@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite flagstone -->
+  <FlagstoneGranite.label>গ্রানাইট ফ্ল্যাগস্টোন</FlagstoneGranite.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneGranite.description>মোটামুটিভাবে কাটা পাথরের টাইলস। এগুলো সুন্দর না হলেও রাস্তা এবং বাইরের হাঁটার পথের জন্য ভালো উপরিভাগ তৈরি করে। ফ্ল্যাগস্টোন ভেঙে ফেললে কোনো উপাদান পাওয়া যায় না।</FlagstoneGranite.description>
+  
+  <!-- EN: limestone flagstone -->
+  <FlagstoneLimestone.label>চুনাপাথরের ফ্ল্যাগস্টোন</FlagstoneLimestone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneLimestone.description>অমসৃণ পাথরের টাইলস। এগুলো সুন্দর না হলেও রাস্তা এবং বাইরের হাঁটার পথের জন্য ভালো সারফেস তৈরি করে। ফ্ল্যাগস্টোন ভেঙে ফেললে কোনো রিসোর্স পাওয়া যায় না।</FlagstoneLimestone.description>
+  
+  <!-- EN: marble flagstone -->
+  <FlagstoneMarble.label>মার্বেল ফ্ল্যাগস্টোন</FlagstoneMarble.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneMarble.description>মোটামুটিভাবে কাটা পাথরের টাইলস। এগুলো সুন্দর না হলেও রাস্তা এবং বাইরের হাঁটার পথের জন্য ভালো সারফেস তৈরি করে। ফ্ল্যাগস্টোন ভেঙে ফেললে কোনো রিসোর্স পাওয়া যায় না।</FlagstoneMarble.description>
+  
+  <!-- EN: sandstone flagstone -->
+  <FlagstoneSandstone.label>বেলেপাথরের ফ্ল্যাগস্টোন</FlagstoneSandstone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSandstone.description>অমসৃণ পাথরের টাইলস। এগুলো সুন্দর না হলেও রাস্তা এবং বাইরের হাঁটার পথের জন্য ভালো পৃষ্ঠ তৈরি করে। ফ্ল্যাগস্টোন ভেঙে ফেললে কোনো উপাদান পাওয়া যায় না।</FlagstoneSandstone.description>
+  
+  <!-- EN: slate flagstone -->
+  <FlagstoneSlate.label>স্লেট ফ্ল্যাগস্টোন</FlagstoneSlate.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSlate.description>অমসৃণ পাথরের টাইলস। এগুলো সুন্দর না হলেও রাস্তা এবং বাইরের হাঁটার পথের জন্য ভালো পৃষ্ঠ তৈরি করে। ফ্ল্যাগস্টোন ভেঙে ফেললে কোনো সম্পদ পাওয়া যায় না।</FlagstoneSlate.description>
+  
+  <!-- EN: granite tile -->
+  <TileGranite.label>গ্রানাইট টাইলস</TileGranite.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileGranite.description>castillo-র অনুভূতি দেওয়ার জন্য সাবধানে কাটা এবং বসানো পাথরের টাইলস। এগুলো দেখতে সুন্দর, কিন্তু বসাতে অনেক সময় লাগে।</TileGranite.description>
+  
+  <!-- EN: limestone tile -->
+  <TileLimestone.label>চুনাপাথরের টাইলস</TileLimestone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileLimestone.description>সাবধানে কাটা এবং বসানো পাথরের টাইলস, যা দুর্গ অনুভূতি দেয়। এগুলো দেখতে সুন্দর, কিন্তু স্থাপন করতে অনেক সময় লাগে।</TileLimestone.description>
+  
+  <!-- EN: marble tile -->
+  <TileMarble.label>মার্বেল টাইলস</TileMarble.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileMarble.description>সূক্ষ্মভাবে কাটা এবং বসানো পাথরের টাইলস যা দুর্গ অনুভূতি দেয়। এগুলো দেখতে সুন্দর, কিন্তু স্থাপন করতে অনেক সময় লাগে।</TileMarble.description>
+  
+  <!-- EN: sandstone tile -->
+  <TileSandstone.label>বেলেপাথরের টাইলস</TileSandstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSandstone.description>castillo-র অনুভূতি দেওয়ার জন্য সাবধানে কাটা এবং বসানো পাথরের টাইলস। এগুলো দেখতে সুন্দর, কিন্তু স্থাপন করতে অনেক সময় লাগে।</TileSandstone.description>
+  
+  <!-- EN: slate tile -->
+  <TileSlate.label>স্লেট টাইলস</TileSlate.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSlate.description>castillo-র অনুভূতি দেওয়ার জন্য সাবধানে কাটা এবং বসানো পাথরের টাইলস। এগুলো দেখতে সুন্দর, কিন্তু স্থাপন করতে অনেক সময় লাগে।</TileSlate.description>
+  
+</LanguageData>

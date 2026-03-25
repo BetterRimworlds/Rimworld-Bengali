@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridge -->
+  <Bridge.label>সেতু</Bridge.label>
+  <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
+  <Bridge.description>এটি সহায়ক বিমের উপর নির্মিত একটি সমতল কাঠের পৃষ্ঠ যা জলের উপরে তৈরি করা যেতে পারে। ব্রিজের উপর হালকা কাঠামো নির্মাণ করা যেতে পারে, তবে সাবধান থাকুন - ব্রিজগুলি ভঙ্গুর। একটি ব্রিজ ভেঙে গেলে, তার উপরে থাকা কাঠামোও ভেঙে পড়বে।</Bridge.description>
+  
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drug -->
+  <Drug.label>ড্রাগ</Drug.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>ওষুধ</Medicine.label>
+  
+</LanguageData>

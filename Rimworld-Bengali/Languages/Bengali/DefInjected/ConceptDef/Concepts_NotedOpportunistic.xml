@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animals will attack doors -->
+  <AnimalsDontAttackDoors.label>দরজা আক্রমণকারী প্রাণী</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
+  <AnimalsDontAttackDoors.helpText>মানুষ শিকারী পশুরা আপনার কোনো কলোনিস্টের চলাচল দেখলে দরজার উপর আক্রমণ করবে। তারা নিষ্ক্রিয় টারেটসমূহ-এর উপরও আক্রমণ করবে।</AnimalsDontAttackDoors.helpText>
+  
+  <!-- EN: Bills tab -->
+  <BillsTab.label>বিল ট্যাব</BillsTab.label>
+  <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
+  <BillsTab.helpText>টেবিলে কলোনিস্টদের কাজ করানোর জন্য, টেবিলটি নির্বাচন করুন এবং বিলস ট্যাবটি খুলুন। এখানে, আপনি কী খাবার রান্না করতে চান, কী জিনিস তৈরি করতে চান, কী প্রাণী কাটতে চান তা বলতে পারেন।</BillsTab.helpText>
+  
+  <!-- EN: books -->
+  <Books.label>বই</Books.label>
+  <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
+  <Books.helpText>উপনিবেশীরা বিনোদনের জন্য, দক্ষতা অর্জনের জন্য, গবেষণা আনলক করার জন্য এবং আরও অনেক কারণে বই পড়ে। একটি নির্দিষ্ট বইয়ের প্রভাব জানতে সেটি নির্বাচন করে এর ‘বিস্তারিত’ ট্যাবটি খুলুন।\n\nউপনিবেশীরা কী পড়বে তা নির্বাচন করতে, অ্যাসাইন ট্যাবটি খুলুন এবং পঠন নীতিগুলি কনফিগার করুন।\n\nবইয়ের আলমারিতে বই রাখলে কাছাকাছি বুদ্ধিবৃত্তিক এবং পঠন কাজের উন্নতি ঘটে, সেইসাথে আলমারির সৌন্দর্য বৃদ্ধি পায়। বইয়ের আলমারি একই ঘরে গবেষণার গতি, পठन থেকে অর্জিত অভিজ্ঞতা এবং বিনোদন বৃদ্ধি করে।</Books.helpText>
+  
+  <!-- EN: Build orbital trade beacon -->
+  <BuildOrbitalTradeBeacon.label>কক্ষীয় বাণিজ্য বাতিঘর</BuildOrbitalTradeBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <BuildOrbitalTradeBeacon.helpText>কক্ষীয় ব্যবসায়ীদের কাছে জিনিসপত্র বা রূপা পাঠাতে, আপনাকে একটি কক্ষীয় বাণিজ্য বীকন তৈরি করতে হবে এবং এর কাছে জিনিসপত্রের স্তূপ রাখতে হবে।</BuildOrbitalTradeBeacon.helpText>
+  
+  <!-- EN: Capturing -->
+  <Capturing.label>ক্যাপচারিং</Capturing.label>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpText>যখন কোনো শত্রু মাটিতে ভূপতিত হয় কিন্তু মারা যায় না, তখন আপনি তাদের বন্দী করতে পারেন।\n\nবন্দী করতে, একজন উপনিবেশিককে নির্বাচন করুন, অক্ষম শত্রুর উপর ডান-ক্লিক করুন এবং বন্দী করুন নির্বাচন করুন।\n\nআপনাকে বন্দীদের জন্য চিহ্নিত একটি অতিরিক্ত বিছানা লাগবে।</Capturing.helpText>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpTextController>যখন কোনো শত্রু মাটিতে ভূপতিত হয় কিন্তু মারা যায় না, তখন তাদের বন্দী করা যেতে পারে।\n\nবন্দী করতে, একজন উপনিবেশিককে নির্বাচন করুন, অক্ষম শত্রুর উপর বাম ট্রিগার বোতাম চাপুন এবং বন্দী করুন নির্বাচন করুন।\n\nআপনাকে বন্দীদের জন্য চিহ্নিত একটি অতিরিক্ত বিছানার প্রয়োজন হবে।</Capturing.helpTextController>
+  
+  <!-- EN: Door opening speeds -->
+  <DoorOpenSpeed.label>দরজা খোলার গতি</DoorOpenSpeed.label>
+  <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
+  <DoorOpenSpeed.helpText>বিভিন্ন উপাদানে তৈরি দরজার খোলার গতি ভিন্ন হয়।\n\nসতর্কতা: পাথরের দরজা খুব ধীরে খোলে। এর মধ্যে দিয়ে যে কেউ গেলে উল্লেখযোগ্যভাবে গতি কমে যাবে।</DoorOpenSpeed.helpText>
+  
+  <!-- EN: Drafting for combat -->
+  <Drafting.label>যুদ্ধকৌশল প্রণয়ন</Drafting.label>
+  <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
+  <Drafting.helpText>সরাসরি যুদ্ধের জন্য কলোনিস্টদের নিয়ন্ত্রণ করতে, তাদের নির্বাচন করে DRAFT বোতামটি চাপুন মোতায়েন করুন।\n\nমোতায়েন করা কলোনিস্ট শুধুমাত্র আপনার নির্দেশিত কাজ করবে এবং শুধুমাত্র যুদ্ধ-সম্পর্কিত কাজ করতে পারবে। যাদের কাছে অস্ত্র আছে, তারা সুযোগ পেলে সেগুলো ব্যবহার করবে।\n\nকলোনিস্টদের চিরতরে মোতায়েন করে রাখবেন না - তারা ক্ষুধার্ত হবে এবং অসন্তুষ্ট হবে।</Drafting.helpText>
+  
+  <!-- EN: Drug addiction -->
+  <DrugAddiction.label>মাদক আসক্তি</DrugAddiction.label>
+  <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
+  <DrugAddiction.helpText>আপনার উপনিবেশবাদীদের কোনো ওষুধ নেওয়ার আকাঙ্ক্ষা তাদের প্রয়োজন ট্যাবে পরীক্ষা করতে পারেন।\n\nযতক্ষণ তাদের চাহিদার মাত্রা শূন্য থাকবে, তাদের আসক্তি "প্রত্যাহার" দশায় পরিবর্তিত হবে, যার বিভিন্ন নেতিবাচক পার্শ্বপ্রতিক্রিয়া থাকতে পারে।\n\nতবে, যথেষ্ট সময় ধরে প্রত্যাহার হওয়ার পর, তাদের আসক্তি শেষ হয়ে যাবে এবং ওষুধের প্রয়োজন অদৃশ্য হয়ে যাবে।</DrugAddiction.helpText>
+  
+  <!-- EN: Drug burning -->
+  <DrugBurning.label>ড্রাগ পোড়ানো</DrugBurning.label>
+  <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
+  <DrugBurning.helpText>ড্রাগগুলি উপযোগী হতে পারে, কিন্তু ক্ষতিকর আসক্তিও তৈরি করতে পারে।\n\nযদি আপনি আপনার কলোনিতে ড্রাগ এড়াতে চান, তবে সেগুলিকে ক্যাম্পফায়ারে পোড়ানোর সুযোগ রয়েছে।</DrugBurning.helpText>
+  
+  <!-- EN: Drug policies -->
+  <DrugPolicies.label>ড্রাগ নীতিসমূহ</DrugPolicies.label>
+  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
+  <DrugPolicies.helpText>নির্দিষ্ট সময়সূচীতে উপনিবেশ স্থাপনকারীদের নির্দিষ্ট ওষুধ সেবন করার জন্য নিযুক্ত করা যেতে পারে। উদাহরণস্বরূপ, সংক্রমণ-রোধক ওষুধ নিয়মিতভাবে গ্রহণ করার জন্য অথবা প্রতিদিন একটি বিয়ার পান করে খুশি থাকার জন্য তাঁদের নিযুক্ত করা যেতে পারে।\n\nASSIGN ট্যাবটি খুলুন এবং 'Manage drug policies' বোতামটি চাপুন। একটি নতুন ওষুধ নীতি তৈরি করুন। এরপর, আপনি এই নীতি উপনিবেশ স্থাপনকারীদের নিযুক্ত করতে পারবেন।\n\nউপনিবেশ স্থাপনকারীরা তাঁদের নীতির বাইরেও ওষুধ সেবন করতে পারবে। আপনি তাঁদের কী করতে হবে তা বলতে পারেন, তবে তাঁরা নিজেদের ইচ্ছাকেও অনুসরণ করে!</DrugPolicies.helpText>
+  
+  <!-- EN: Positioning fighters -->
+  <GroupGotoHereDragging.label>যোদ্ধা স্থাপন</GroupGotoHereDragging.label>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpText>ডান-ক্লিক করে টেনে আপনার drafted যোদ্ধাদের একটি লাইনে সাজান।\n\nছড়িয়ে যান - কাছাকাছি থাকা লক্ষ্যবস্তু আঘাত করা সহজ!</GroupGotoHereDragging.helpText>
+  <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpTextController>বাম ট্রিগার বোতামটি ধরে রাখুন এবং টেনে আপনার drafted যোদ্ধাদের একটি লাইনে সাজান।\n\nছড়িয়ে যান - কাছাকাছি থাকা লক্ষ্যবস্তু আঘাত করা সহজ!</GroupGotoHereDragging.helpTextController>
+  
+  <!-- EN: Interacting with traders -->
+  <InteractingWithTraders.label>বণিকদের সাথে মিথস্ক্রিয়া</InteractingWithTraders.label>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpText>মাথার উপরে ? চিহ্ন আছে এমন লোকেদের সাথে আপনি কথা বলতে পারেন।\n\nএকটি কলোনিস্ট নির্বাচন করুন এবং ? চিহ্ন যুক্ত চরিত্রের উপর ডান-ক্লিক করুন।</InteractingWithTraders.helpText>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpTextController>মাথার উপরে ? চিহ্ন আছে এমন লোকেদের সাথে আপনি কথা বলতে পারেন।\n\n? চিহ্নযুক্ত চরিত্রের সাথে একজন উপনিবেশকারী নির্বাচন করুন এবং বাম ট্রিগার বোতাম চাপুন।</InteractingWithTraders.helpTextController>
+  
+  <!-- EN: Using the comms console -->
+  <OpeningComms.label>কমিউনিকেশন কনসোল ব্যবহার</OpeningComms.label>
+  <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
+  <OpeningComms.helpText>যোগাযোগ করার জন্য, একজন উপনিবেশকারীকে নির্বাচন করুন এবং যোগাযোগ কনসোলে ডান-ক্লিক করুন।</OpeningComms.helpText>
+  <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
+  <OpeningComms.helpTextController>যোগাযোগ করার জন্য, একজন উপনিবেশকারীকে নির্বাচন করুন এবং যোগাযোগ কনসোলে বাম ট্রিগার বোতাম চাপুন।</OpeningComms.helpTextController>
+  
+  <!-- EN: Prisoner tab -->
+  <PrisonerTab.label>বন্দী ট্যাব</PrisonerTab.label>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>বন্দীর 'বন্দী' ট্যাবে তাঁদের কেমন আচরণ করা হবে তা নির্ধারণ করুন।\n\nতাঁদের নিয়োগ করা হবে, উপেক্ষা করা হবে নাকি মৃত্যুদণ্ড দেওয়া হবে, এবং কী ধরনের চিকিৎসা পরিষেবা তাঁরা পাবেন, তা আপনি নির্ধারণ করতে পারেন। তাঁদের স্বাস্থ্য ট্যাবে বন্দীর জন্য খাবারের বিধিনিষেধ সেট করতে পারেন।\n\nযাঁদের কাজের ধরন 'গার্ডিয়ান', তাঁরা বন্দীর সাথে যোগাযোগ করবেন।</PrisonerTab.helpText>
+  
+  <!-- EN: Order queueing -->
+  <QueueOrders.label>অর্ডার সারিবদ্ধকরণ</QueueOrders.label>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpText>পনদের নির্দেশ দেওয়ার সময়, আপনি "shift" চেপে ধরে একাধিক আদেশ সারিবদ্ধ করতে পারেন। এটি ড্রাফট করা হয়নি এমন পনদের কাজ দেওয়ার সময়ও কাজ করে।</QueueOrders.helpText>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpTextController>পনদের নির্দেশ দেওয়ার সময়, আপনি {Key:QueueOrder} চেপে ধরে একাধিক আদেশ সারিবদ্ধ করতে পারেন। এটি খসড়াভুক্ত নয় এমন পনদের কাজ দেওয়ার সময়ও কাজ করে।</QueueOrders.helpTextController>
+  
+  <!-- EN: Reforming caravans -->
+  <ReformCaravan.label>বহর সংস্কার</ReformCaravan.label>
+  <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
+  <ReformCaravan.helpText>একটি সংঘর্ষের পর, আপনি সহজেই ওয়ার্ল্ড ভিউ-তে RE-FORM CARAVAN কমান্ড ব্যবহার করে একটি বহর পুনরায় গঠন করতে পারেন।</ReformCaravan.helpText>
+  
+  <!-- EN: Rescuing -->
+  <Rescuing.label>উদ্ধার</Rescuing.label>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpText>আহত ব্যক্তিকে উদ্ধার করতে, একজন সুস্থ উপনিবেশিক নির্বাচন করুন এবং তারপর আহত ব্যক্তির উপর ডান-ক্লিক করুন।\n\nযদি আপনি একজন অ-উপনিবেশিককে উদ্ধার করেন, তবে তারা আপনার উপনিবেশে যোগ দিতে নাও পারে। সুস্থ হওয়ার পরে তারা কেবল চলে যেতে পারে। আপনি যদি নিশ্চিত করতে চান যে তারা যোগ দেবে, তবে তাদের বন্দী করুন এবং নিয়োগ করুন।</Rescuing.helpText>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpTextController>আহত ব্যক্তিকে উদ্ধার করতে, একজন সুস্থ উপনিবেশিককে নির্বাচন করুন এবং তারপর আহত ব্যক্তির উপর বাম ট্রিগার বোতামটি চাপুন।\n\nযদি আপনি একজন অ-উপনিবেশিককে উদ্ধার করেন, তবে তারা আপনার উপনিবেশে যোগ দিতেই পারে না। সুস্থ হওয়ার পরে তারা চলে যেতে পারে। আপনি যদি নিশ্চিত করতে চান যে তারা যোগ দেবে, তবে তাদের বন্দী করুন এবং নিয়োগ করুন।</Rescuing.helpTextController>
+  
+  <!-- EN: Set what plant to grow -->
+  <SetGrowingZonePlant.label>রোপণের জন্য উদ্ভিদ নির্বাচন করুন</SetGrowingZonePlant.label>
+  <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
+  <SetGrowingZonePlant.helpText>জমির প্ল্যান্ট করার অঞ্চলগুলোতে কী লাগাতে হবে, তা নির্ধারণ করা যায়। এমনকি গাছও ফলানো যায়!\n\nজমির প্ল্যান্ট করার অঞ্চলটি নির্বাচন করুন, গ্রোয়িং ট্যাবটি খুলুন এবং 'প্ল্যান্ট' বোতামে ক্লিক করুন।</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shelves -->
+  <Shelves.label>তাক</Shelves.label>
+  <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
+  <Shelves.helpText>আলমারি খোলা জায়গার চেয়ে তিনগুণ বেশি জিনিস সংরক্ষণ করে। আলমারিতে রাখা জিনিস নষ্ট হবে না এবং আশেপাশের সৌন্দর্যকেও প্রভাবিত করবে না।\n\nআপনি আলমারিগুলিকে দলে যুক্ত করতে এবং সেগুলিকে একটি হিসাবে কনফিগার করতে পারেন। প্রথমে, দুটি বা তার বেশি আলমারি নির্বাচন করুন, তারপর 'স্টোরেজ সেটিংস লিঙ্ক করুন'-এ ক্লিক করুন।</Shelves.helpText>
+  
+  <!-- EN: Shield belts -->
+  <ShieldBelts.label>ঢাল বেল্ট</ShieldBelts.label>
+  <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
+  <ShieldBelts.helpText>ঢাল বেল্ট পরিসীমা থেকে আসা বা যাওয়া আক্রমণ বন্ধ করে। এগুলো নিকট যুদ্ধের ওপর কোনো প্রভাব ফেলে না।\n\nঢাল বেল্টের বিরুদ্ধে লড়তে, হয় লক্ষ্যবস্তুর ওপর প্রচুর বন্দুকের গুলি concentrate করুন, অথবা হাতাহাতি করে লড়ুন।</ShieldBelts.helpText>
+  
+  <!-- EN: TV for sick people -->
+  <TVForSickPeople.label>অসুস্থদের জন্য টিভি</TVForSickPeople.label>
+  <!-- EN: Sick people can watch TV while laying in bed. -->
+  <TVForSickPeople.helpText>অসুস্থ ব্যক্তিরা বিছানায় শুয়ে টিভি দেখতে পারে।</TVForSickPeople.helpText>
+  
+</LanguageData>

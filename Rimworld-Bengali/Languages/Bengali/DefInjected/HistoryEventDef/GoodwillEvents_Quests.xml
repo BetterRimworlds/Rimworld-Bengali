@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accepted deserter -->
+  <AcceptedDeserter.label>স্বীকৃত পলাতক</AcceptedDeserter.label>
+  
+  <!-- EN: failed to keep guests happy -->
+  <FailedToKeepLodgersHappy.label>অতিথিদের খুশি রাখতে ব্যর্থ</FailedToKeepLodgersHappy.label>
+  
+  <!-- EN: member missed shuttle -->
+  <MemberMissedShuttle.label>সদস্য অনুপস্থিত শাটল</MemberMissedShuttle.label>
+  
+  <!-- EN: monument construction expired -->
+  <MonumentConstructionExpired.label>স্মারক নির্মাণ সমাপ্ত</MonumentConstructionExpired.label>
+  
+  <!-- EN: monument construction abandoned -->
+  <MonumentConstructionMapRemoved.label>স্মারক নির্মাণ পরিত্যক্ত</MonumentConstructionMapRemoved.label>
+  
+  <!-- EN: destroyed monument -->
+  <MonumentDestroyed.label>ধ্বংসপ্রাপ্ত স্মৃতিস্তম্ভ</MonumentDestroyed.label>
+  
+  <!-- EN: quest completed -->
+  <QuestGoodwillReward.label>অনুসন্ধান সম্পন্ন</QuestGoodwillReward.label>
+  
+  <!-- EN: member arrested -->
+  <QuestPawnArrested.label>সদস্য গ্রেপ্তার</QuestPawnArrested.label>
+  
+  <!-- EN: member lost at colony -->
+  <QuestPawnLost.label>উপনিবেশে সদস্য হারানো</QuestPawnLost.label>
+  
+  <!-- EN: enslaved lent prisoner -->
+  <QuestPrisonerEnslaved.label>দাসী ঋণগ্রস্ত বন্দী</QuestPrisonerEnslaved.label>
+  
+  <!-- EN: recruited lent prisoner -->
+  <QuestPrisonerRecruited.label>দাদনকৃত বন্দী</QuestPrisonerRecruited.label>
+  
+  <!-- EN: shuttle commander missed shuttle -->
+  <ShuttleCommanderMissedShuttle.label>শাটল কমান্ডার অনুপস্থিত শাটল</ShuttleCommanderMissedShuttle.label>
+  
+  <!-- EN: shuttle guards missed shuttle -->
+  <ShuttleGuardsMissedShuttle.label>শাটল প্রহরী শাটল মিস করেছে</ShuttleGuardsMissedShuttle.label>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arrest success chance -->
+  <ArrestSuccessChance.label>গ্রেপ্তারের সাফল্যের সম্ভাবনা</ArrestSuccessChance.label>
+  <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
+  <ArrestSuccessChance.description>এই ব্যক্তি কতটা দক্ষতার সাথে লোকজনকে গ্রেপ্তার করতে পারে। এটি প্রভাবিত করে যে এই ব্যক্তি প্রতিরোধের সম্মুখীন না হয়ে কাউকে গ্রেপ্তার করতে পারবে কিনা।</ArrestSuccessChance.description>
+  
+  <!-- EN: bond chance factor -->
+  <BondAnimalChanceFactor.label>বন্ধন সুযোগ গুণক</BondAnimalChanceFactor.label>
+  <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
+  <BondAnimalChanceFactor.description>কোনো প্রাণীর সাথে interactions-এর সময় bonding হওয়ার সম্ভাবনার গুণক।</BondAnimalChanceFactor.description>
+  
+  <!-- EN: drug sell price improvement -->
+  <DrugSellPriceImprovement.label>মাদক বিক্রয় মূল্য উন্নতি</DrugSellPriceImprovement.label>
+  <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
+  <DrugSellPriceImprovement.description>এই ব্যক্তি যখন চিকিৎসা বহির্ভূত ওষুধ বিক্রি করে, তখন দাম এই শতাংশের দ্বারা উন্নত হয়।</DrugSellPriceImprovement.description>
+  
+  <!-- EN: negotiation ability -->
+  <NegotiationAbility.label>দর কষাকষির ক্ষমতা</NegotiationAbility.label>
+  <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
+  <NegotiationAbility.description>এই ব্যক্তি আলোচনাপটে কতটা দক্ষ, তা নির্দেশ করে।\n\nএটি বন্দী নিয়োগের গতি, উপহার দেওয়ার সময় দলবদ্ধ সম্পর্কের উপর প্রভাব এবং শান্তি আলোচনার ফলাফলকে প্রভাবিত করে।</NegotiationAbility.description>
+  
+  <!-- EN: beauty -->
+  <PawnBeauty.label>সৌন্দর্য</PawnBeauty.label>
+  <!-- EN: How physically attractive this person is. This affects social interactions. -->
+  <PawnBeauty.description>এই ব্যক্তি কতটা শারীরিকভাবে আকর্ষণীয়। এটি সামাজিক interactions-কে প্রভাবিত করে।</PawnBeauty.description>
+  
+  <!-- EN: social impact -->
+  <SocialImpact.label>সামাজিক প্রভাব</SocialImpact.label>
+  <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
+  <SocialImpact.description>অন্যের সামাজিক interactions দ্বারা এই ব্যক্তি কতটা প্রভাবিত হয় তার একটি গুণক।</SocialImpact.description>
+  
+  <!-- EN: tame animal chance -->
+  <TameAnimalChance.label>পশু পোষ মানার সুযোগ</TameAnimalChance.label>
+  <!-- EN: The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>এই ব্যক্তি কোনো প্রাণীকে পোষ মানানোর চেষ্টায় সফল হওয়ার প্রাথমিক সম্ভাবনা।\n\nপ্রাণীটির বন্যতা এই প্রকৃত সম্ভাবনাকে প্রভাবিত করে।\nপোষ মানানোর ব্যর্থ চেষ্টা প্রাণীর আক্রমণ ঘটাতে পারে, বিশেষ করে হিংস্র প্রাণীদের ক্ষেত্রে।</TameAnimalChance.description>
+  
+  <!-- EN: trade price improvement -->
+  <TradePriceImprovement.label>বাণিজ্য মূল্য উন্নতি</TradePriceImprovement.label>
+  <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
+  <TradePriceImprovement.description>এই ব্যক্তি যখন বাণিজ্য আলোচক হিসেবে কাজ করে, তখন ক্রয় এবং বিক্রয়ের দাম এই শতাংশের দ্বারা উন্নত হয়।</TradePriceImprovement.description>
+  
+  <!-- EN: train animal chance -->
+  <TrainAnimalChance.label>প্রাণী প্রশিক্ষণ সম্ভাবনা</TrainAnimalChance.label>
+  <!-- EN: The base chance this person will make progress training an animal on a given attempt.\n\nThe actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>এই ব্যক্তি কোনো প্রাণীকে প্রশিক্ষণ দেওয়ার সময় একটি নির্দিষ্ট প্রচেষ্টায় সফল হওয়ার প্রাথমিক সম্ভাবনা।\n\nকোনো নির্দিষ্ট প্রচেষ্টায় সাফল্যের প্রকৃত সম্ভাবনা প্রাণীর বন্যতা, প্রশিক্ষকের সাথে তার বন্ধন এবং অন্যান্য বিষয়গুলোর ওপরও নির্ভর করে।</TrainAnimalChance.description>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make kibble -->
+  <Make_Kibble.label>খাবার দানা তৈরি করুন</Make_Kibble.label>
+  <!-- EN: Make animal kibble by combining raw meat and plants. -->
+  <Make_Kibble.description>কাঁচা মাংস এবং উদ্ভিদ একত্রিত করে খাবার দানা তৈরি করা যায়।</Make_Kibble.description>
+  <!-- EN: protein -->
+  <Make_Kibble.ingredients.0.filter.customSummary>প্রোটিন</Make_Kibble.ingredients.0.filter.customSummary>
+  <!-- EN: greens -->
+  <Make_Kibble.ingredients.1.filter.customSummary>সবুজ</Make_Kibble.ingredients.1.filter.customSummary>
+  <!-- EN: Making kibble. -->
+  <Make_Kibble.jobString>খাবার দানা তৈরি করা।</Make_Kibble.jobString>
+  
+  <!-- EN: make pemmican -->
+  <Make_Pemmican.label>পেমিকান তৈরি করুন</Make_Pemmican.label>
+  <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
+  <Make_Pemmican.description>পেমিকান তৈরি করুন, মাংস এবং উদ্ভিজ্জ খাবারের একটি সংরক্ষিত সংমিশ্রণ। এর স্বাদ খুব একটা ভালো না হলেও, এটি রেফ্রিজারেশন ছাড়াই দীর্ঘ সময় ধরে টিকে থাকে।</Make_Pemmican.description>
+  <!-- EN: Making pemmican. -->
+  <Make_Pemmican.jobString>পেমিকান তৈরি করা হচ্ছে।</Make_Pemmican.jobString>
+  
+  <!-- EN: make pemmican x4 -->
+  <Make_PemmicanBulk.label>পেমিকান x4</Make_PemmicanBulk.label>
+  <!-- EN: Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
+  <Make_PemmicanBulk.description>পেমিকান তৈরি করুন, মাংস এবং উদ্ভিজ্জ খাবারের একটি সংরক্ষিত সংমিশ্রণ। এর স্বাদ খুব একটা ভালো নয়, তবে এটি রেফ্রিজারেশন ছাড়াই দীর্ঘ সময় ধরে টিকে থাকে।</Make_PemmicanBulk.description>
+  <!-- EN: Making bulk pemmican. -->
+  <Make_PemmicanBulk.jobString>পেমিকান তৈরি করা হচ্ছে।</Make_PemmicanBulk.jobString>
+  
+</LanguageData>

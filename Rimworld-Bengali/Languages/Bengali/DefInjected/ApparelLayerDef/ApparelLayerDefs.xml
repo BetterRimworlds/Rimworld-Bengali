@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: utility -->
+  <Belt.label>উপযোগিতা</Belt.label>
+  
+  <!-- EN: eyes -->
+  <EyeCover.label>চোখ</EyeCover.label>
+  
+  <!-- EN: middle -->
+  <Middle.label>মধ্যম</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>ত্বক</OnSkin.label>
+  
+  <!-- EN: headgear -->
+  <Overhead.label>মাথার পোশাক</Overhead.label>
+  
+  <!-- EN: outer -->
+  <Shell.label>বাহ্যিক স্তর</Shell.label>
+  
+</LanguageData>

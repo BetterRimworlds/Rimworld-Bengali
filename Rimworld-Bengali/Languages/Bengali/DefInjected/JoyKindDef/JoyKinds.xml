@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical consumption -->
+  <Chemical.label>রাসায়নিক গ্রহণ</Chemical.label>
+  
+  <!-- EN: cerebral play -->
+  <Gaming_Cerebral.label>মস্তিষ্কের খেলা</Gaming_Cerebral.label>
+  
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>দক্ষতা খেলা</Gaming_Dexterity.label>
+  
+  <!-- EN: food consumption -->
+  <Gluttonous.label>খাদ্য গ্রহণ</Gluttonous.label>
+  
+  <!-- EN: music -->
+  <HighCulture.label>সংগীত</HighCulture.label>
+  
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>একা বিশ্রাম</Meditative.label>
+  
+  <!-- EN: reading -->
+  <Reading.label>পঠন</Reading.label>
+  
+  <!-- EN: social interaction -->
+  <Social.label>সামাজিক মিথস্ক্রিয়া</Social.label>
+  
+  <!-- EN: telescope study -->
+  <Telescope.label>দূরবীক্ষণ গবেষণা</Telescope.label>
+  
+  <!-- EN: television watching -->
+  <Television.label>টিভি দেখা</Television.label>
+  
+</LanguageData>

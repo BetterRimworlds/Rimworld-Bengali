@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fleeing. -->
+  <ExitMapFlying.reportString>পালানো।</ExitMapFlying.reportString>
+  
+  <!-- EN: laying egg. -->
+  <LayEgg.reportString>ডিম পাড়া।</LayEgg.reportString>
+  
+  <!-- EN: maintaining TargetA. -->
+  <Maintain.reportString>TargetA বজায় রাখা।</Maintain.reportString>
+  
+  <!-- EN: mating with TargetA. -->
+  <Mate.reportString>TargetA-এর সাথে মিলিত হচ্ছে।</Mate.reportString>
+  
+  <!-- EN: nuzzling TargetA. -->
+  <Nuzzle.reportString>targeta-কে আদর করা।</Nuzzle.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <PredatorHunt.reportString>শিকার targeta.</PredatorHunt.reportString>
+  
+</LanguageData>

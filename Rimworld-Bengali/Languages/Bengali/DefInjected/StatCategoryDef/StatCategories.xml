@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ability -->
+  <Ability.label>দক্ষতা</Ability.label>
+  
+  <!-- EN: animal productivity -->
+  <AnimalProductivity.label>প্রাণী উৎপাদনশীলতা</AnimalProductivity.label>
+  
+  <!-- EN: animal -->
+  <Animals.label>প্রাণী</Animals.label>
+  
+  <!-- EN: Apparel -->
+  <Apparel.label>পোশাক</Apparel.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>বেসিক্স</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsImportant.label>বেসিক্স</BasicsImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>মৌলিক বিষয়</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawnImportant.label>বেসিক্স</BasicsNonPawnImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>বেসিক্স</BasicsPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawnImportant.label>মৌলিক বিষয়</BasicsPawnImportant.label>
+  
+  <!-- EN: Building -->
+  <Building.label>বিল্ডিং</Building.label>
+  
+  <!-- EN: effects -->
+  <CapacityEffects.label>প্রভাব</CapacityEffects.label>
+  
+  <!-- EN: Drug -->
+  <Drug.label>ড্রাগ</Drug.label>
+  
+  <!-- EN: drug addiction -->
+  <DrugAddiction.label>ড্রাগ আসক্তি</DrugAddiction.label>
+  
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>সরঞ্জামে অফসেট</EquippedStatOffsets.label>
+  
+  <!-- EN: Genetics -->
+  <Genetics.label>জেনেটিক্স</Genetics.label>
+  
+  <!-- EN: Implant -->
+  <Implant.label>ইমপ্লান্ট</Implant.label>
+  
+  <!-- EN: Mechanoid -->
+  <Mechanoid.label>মেকানোইড</Mechanoid.label>
+  
+  <!-- EN: Meditation -->
+  <Meditation.label>ধ্যান</Meditation.label>
+  
+  <!-- EN: Combat -->
+  <PawnCombat.label>যুদ্ধ</PawnCombat.label>
+  
+  <!-- EN: Food -->
+  <PawnFood.label>খাবার</PawnFood.label>
+  
+  <!-- EN: Health -->
+  <PawnHealth.label>স্বাস্থ্য</PawnHealth.label>
+  
+  <!-- EN: Misc -->
+  <PawnMisc.label>বিবিধ</PawnMisc.label>
+  
+  <!-- EN: Psyfocus -->
+  <PawnPsyfocus.label>সাইকোফোকাস</PawnPsyfocus.label>
+  
+  <!-- EN: Resistances and sensitivities -->
+  <PawnResistances.label>প্রতিরোধ ও সংবেদনশীলতা</PawnResistances.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>সামাজিক</PawnSocial.label>
+  
+  <!-- EN: Work -->
+  <PawnWork.label>কাজ</PawnWork.label>
+  
+  <!-- EN: content source -->
+  <Source.label>বিষয়বস্তু উৎস</Source.label>
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>এই উপাদান দিয়ে তৈরি সরঞ্জামের গুণক</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>এই উপাদান দিয়ে তৈরি হলে গুণক</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>এই উপাদান দিয়ে অফসেট</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>সার্জিক্যাল</Surgery.label>
+  
+  <!-- EN: terrain -->
+  <Terrain.label>ভূখণ্ড</Terrain.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>অস্ত্র</Weapon.label>
+  
+  <!-- EN: Weapon (melee) -->
+  <Weapon_Melee.label>অস্ত্র (নিকট যুদ্ধ)</Weapon_Melee.label>
+  
+  <!-- EN: Weapon (ranged) -->
+  <Weapon_Ranged.label>অস্ত্র (দূরপাল্লার)</Weapon_Ranged.label>
+  
+</LanguageData>

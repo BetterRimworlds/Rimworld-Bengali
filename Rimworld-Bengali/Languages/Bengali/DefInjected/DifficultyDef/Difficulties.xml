@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Custom -->
+  <Custom.label>কাস্টম</Custom.label>
+  <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
+  <Custom.description>এই সেটিংসটি আপনাকে বিস্তারিতভাবে আপনার খেলার ধরণ নির্ধারণ করতে দেয়।\n\n(বিভাগশিরোনাম)সুপারিশ করা হচ্ছে: (/বিভাগশিরোনাম)\n\n- যারা স্ট্যান্ডার্ড খেলার ধরণগুলির মধ্যে একটিতে সন্তুষ্ট, কিন্তু কিছু জিনিস পরিবর্তন করতে চান।\n- যারা নতুন কিছু চেষ্টা করতে চান।</Custom.description>
+  
+  <!-- EN: community builder -->
+  <Easy.label>সম্প্রদায় নির্মাতা</Easy.label>
+  <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
+  <Easy.description>বিপদগন্ধময় একটি কলোনি তৈরি করুন। হুমকি আসবে, তবে সেগুলো দুর্বল থাকবে।\n\n(বিভাগশিরোনাম)সুপারিশ করা হচ্ছে: (/বিভাগশিরোনাম)\n\n- যারা এই ধরনের গেমের সাথে পরিচিত নন।\n- যারা একটি নিখুঁত কলোনি তৈরি করতে চান।\n- যারা বিশ্রাম নিতে চান।</Easy.description>
+  
+  <!-- EN: losing is fun -->
+  <Extreme.label>হারানোই মজা</Extreme.label>
+  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
+  <Extreme.description>এই সেটিংসটি ইচ্ছাকৃতভাবে কঠিন করার জন্য তৈরি করা হয়েছে। বিশাল বিপদ কোনো দয়া ছাড়াই আপনার উপর আঘাত হানতে থাকবে যতক্ষণ না আপনার কলোনি ধ্বংস হয়ে যায়। শুধুমাত্র তখনই এই সেটিংসটি বেছে নিন যদি আপনি সংগ্রাম এবং মৃত্যুর নাটকের মধ্যে আনন্দ পান।\n\n(বিভাগশিরোনাম)সুপারিশ করা হয়েছে: (/বিভাগশিরোনাম)\n\n- অভিজ্ঞ খেলোয়াড়দের জন্য যারা একটি নিষ্ঠুর, অন্যায় চ্যালেঞ্জ মোকাবিলা করতে চান যেখানে এমনকি দারুণ দক্ষতাও মৃত্যুকে আটকাতে পারবে না।\n- যারা ট্র্যাজেডি ভালোবাসেন।\n- ডিজিটাল সাডোম্যাসোকিস্টদের জন্য।</Extreme.description>
+  
+  <!-- EN: blood and dust -->
+  <Hard.label>রক্ত ও ধুলো</Hard.label>
+  <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
+  <Hard.description>নিষ্ঠুর টিকে থাকার চ্যালেঞ্জগুলোর মোকাবিলা করো। ভালোভাবে খেললেও, মানুষ মারা যাবে। বিপদ আসার আগে থেকেই সেগুলোর পূর্বাভাস দিতে হবে এবং সম্ভাব্য সকল সুবিধা খুঁজে নিতে হবে।\n\n(বিভাগশিরোনাম)সুপারিশ করা হচ্ছে: (/বিভাগশিরোনাম)\n\n- অভিজ্ঞ খেলোয়াড়দের জন্য যারা টিকে থাকার জন্য সংগ্রাম করতে চান।</Hard.description>
+  
+  <!-- EN: adventure story -->
+  <Medium.label>দুঃসাহসিক গল্প</Medium.label>
+  <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
+  <Medium.description>এখানে উন্নতি ও বিকাশের সুযোগ আছে, কিন্তু এটি এখনও একটি বিপজ্জনক গ্রহ।\n\n(বিভাগশিরোনাম)সুপারিশ করা হচ্ছে: (/বিভাগশিরোনাম)\n\n- অভিজ্ঞ কৌশল গেমারদের জন্য যারা RimWorld-এর প্রথম গেম খেলছেন।\n- অভিজ্ঞ RimWorld খেলোয়াড়দের জন্য যারা মজার বা অদ্ভুত লক্ষ্য অনুসরণ করতে কিছু অবকাশ চান।</Medium.description>
+  
+  <!-- EN: peaceful -->
+  <Peaceful.label>শান্তিপূর্ণ</Peaceful.label>
+  <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
+  <Peaceful.description>একটি স্যান্ডবক্স পরিবেশে একটি কলোনি তৈরি করুন। প্রধান প্রত্যক্ষ হুমকিগুলো নিষ্ক্রিয় করা হয়েছে, তবে রোগ, মানসিক অবসাদ এবং উন্মত্ত প্রাণীর মতো চ্যালেঞ্জগুলো এখনও ঘটতে পারে।\n\n(বিভাগ শিরোনাম)সুপারিশ করা হচ্ছে: (/বিভাগ শিরোনাম)\n\n- যারা কোনো চাপ ছাড়াই গেমের মেকানিক্স শিখতে চান।\n- যারা কেবল কলোনি তৈরি করতে চান।\n- যারা কেবল বিশ্রাম নিতে চান।</Peaceful.description>
+  
+  <!-- EN: strive to survive -->
+  <Rough.label>বেঁচে থাকার চেষ্টা</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
+  <Rough.description>কঠিন, রুক্ষ গ্রহে টিকে থাকার চেষ্টা করুন। এখানে জয় এবং বিয়োগ দুটোই থাকবে।\n\n(বিভাগশিরোনাম)সুপারিশ করা হচ্ছে: (/বিভাগশিরোনাম)\n\n- অভিজ্ঞ খেলোয়াড়দের জন্য যারা টিকে থাকার জন্য দক্ষতার প্রয়োজন এমন একটি কঠিন গল্প চান।</Rough.description>
+  
+</LanguageData>

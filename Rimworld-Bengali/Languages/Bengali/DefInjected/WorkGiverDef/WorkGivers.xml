@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: release prisoners -->
+  <BasicReleasePrisoner.label>বন্দী মুক্তি</BasicReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <BasicReleasePrisoner.gerund>মুক্তি দেওয়া হচ্ছে</BasicReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <BasicReleasePrisoner.verb>মুক্তি দিন</BasicReleasePrisoner.verb>
+  
+  <!-- EN: build roofs -->
+  <BuildRoofs.label>ছাদ নির্মাণ</BuildRoofs.label>
+  <!-- EN: building roof -->
+  <BuildRoofs.gerund>ছাদ নির্মাণ</BuildRoofs.gerund>
+  <!-- EN: build roof -->
+  <BuildRoofs.verb>ছাদ তৈরি করুন</BuildRoofs.verb>
+  
+  <!-- EN: chat with prisoners -->
+  <ChatWithPrisoner.label>বন্দীদের সাথে কথা বলুন</ChatWithPrisoner.label>
+  <!-- EN: chatting with -->
+  <ChatWithPrisoner.gerund>কথোপকথন চলছে</ChatWithPrisoner.gerund>
+  <!-- EN: chat with -->
+  <ChatWithPrisoner.verb>আলোচনা করুন</ChatWithPrisoner.verb>
+  
+  <!-- EN: clear snow -->
+  <CleanClearSnow.label>বরফ পরিষ্কার</CleanClearSnow.label>
+  <!-- EN: clearing snow -->
+  <CleanClearSnow.gerund>বরফ পরিষ্কার করা</CleanClearSnow.gerund>
+  <!-- EN: clear snow -->
+  <CleanClearSnow.verb>বরফ পরিষ্কার করুন</CleanClearSnow.verb>
+  
+  <!-- EN: clean filth -->
+  <CleanFilth.label>নোংরা পরিষ্করণ</CleanFilth.label>
+  <!-- EN: cleaning -->
+  <CleanFilth.gerund>পরিষ্কার করা</CleanFilth.gerund>
+  <!-- EN: clean -->
+  <CleanFilth.verb>পরিষ্কার করুন</CleanFilth.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <ConstructDeliverResourcesToBlueprints.label>ব্লুপ্রিন্টে সম্পদ সরবরাহ</ConstructDeliverResourcesToBlueprints.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToBlueprints.gerund>কাজে নিযুক্ত</ConstructDeliverResourcesToBlueprints.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToBlueprints.verb>কাজের উপর</ConstructDeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <ConstructDeliverResourcesToFrames.label>ফ্রেমগুলিতে সম্পদ সরবরাহ</ConstructDeliverResourcesToFrames.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToFrames.gerund>কাজের তালিকা</ConstructDeliverResourcesToFrames.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToFrames.verb>কাজের উপরে</ConstructDeliverResourcesToFrames.verb>
+  
+  <!-- EN: construct placed frames -->
+  <ConstructFinishFrames.label>গঠনকৃত স্থাপিত ফ্রেম</ConstructFinishFrames.label>
+  <!-- EN: constructing -->
+  <ConstructFinishFrames.gerund>নির্মাণ চলছে</ConstructFinishFrames.gerund>
+  <!-- EN: construct -->
+  <ConstructFinishFrames.verb>নির্মাণ</ConstructFinishFrames.verb>
+  
+  <!-- EN: remove floors -->
+  <ConstructRemoveFloors.label>মেঝে অপসারণ</ConstructRemoveFloors.label>
+  <!-- EN: removing floor -->
+  <ConstructRemoveFloors.gerund>মেঝে সরানো</ConstructRemoveFloors.gerund>
+  <!-- EN: remove floor -->
+  <ConstructRemoveFloors.verb>মেঝে সরান</ConstructRemoveFloors.verb>
+  
+  <!-- EN: remove foundation -->
+  <ConstructRemoveFoundations.label>ভিত্তি অপসারণ</ConstructRemoveFoundations.label>
+  <!-- EN: removing foundation -->
+  <ConstructRemoveFoundations.gerund>ভিত্তি অপসারণ</ConstructRemoveFoundations.gerund>
+  <!-- EN: remove foundation -->
+  <ConstructRemoveFoundations.verb>ভিত্তি অপসারণ করুন</ConstructRemoveFoundations.verb>
+  
+  <!-- EN: smooth floors -->
+  <ConstructSmoothFloors.label>মসৃণ মেঝে</ConstructSmoothFloors.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothFloors.gerund>মসৃণকরণ</ConstructSmoothFloors.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothFloors.verb>মসৃণ</ConstructSmoothFloors.verb>
+  
+  <!-- EN: smooth walls -->
+  <ConstructSmoothWalls.label>মসৃণ দেয়াল</ConstructSmoothWalls.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothWalls.gerund>মসৃণকরণ</ConstructSmoothWalls.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothWalls.verb>মসৃণ</ConstructSmoothWalls.verb>
+  
+  <!-- EN: fill food hoppers -->
+  <CookFillHopper.label>খাদ্য হপার পূরণ করুন</CookFillHopper.label>
+  <!-- EN: filling -->
+  <CookFillHopper.gerund>পূরণ করা হচ্ছে</CookFillHopper.gerund>
+  <!-- EN: fill -->
+  <CookFillHopper.verb>পূরণ করুন</CookFillHopper.verb>
+  
+  <!-- EN: deconstruct structures -->
+  <Deconstruct.label>গঠন ধ্বংস করুন</Deconstruct.label>
+  <!-- EN: deconstructing -->
+  <Deconstruct.gerund>ডিসমান্টলিং</Deconstruct.gerund>
+  <!-- EN: deconstruct -->
+  <Deconstruct.verb>ভেঙে ফেলা</Deconstruct.verb>
+  
+  <!-- EN: deconstruct structures for blueprints -->
+  <DeconstructForBlueprint.label>ব্লুপ্রিন্টের জন্য কাঠামো ভাঙন</DeconstructForBlueprint.label>
+  <!-- EN: deconstructing -->
+  <DeconstructForBlueprint.gerund>ডিসমান্টলিং</DeconstructForBlueprint.gerund>
+  <!-- EN: deconstruct -->
+  <DeconstructForBlueprint.verb>ভেঙে ফেলা</DeconstructForBlueprint.verb>
+  
+  <!-- EN: deliver food to prisoners -->
+  <DeliverFoodToPrisoner.label>বন্দীদের খাবার সরবরাহ</DeliverFoodToPrisoner.label>
+  <!-- EN: delivering food for -->
+  <DeliverFoodToPrisoner.gerund>খাবার সরবরাহ করছে</DeliverFoodToPrisoner.gerund>
+  <!-- EN: deliver food for -->
+  <DeliverFoodToPrisoner.verb>খাবার সরবরাহ করুন</DeliverFoodToPrisoner.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <DeliverResourcesToBlueprints.label>ব্লুপ্রিন্টে সম্পদ সরবরাহ</DeliverResourcesToBlueprints.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToBlueprints.gerund>ডেলিভারি করা হচ্ছে</DeliverResourcesToBlueprints.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToBlueprints.verb>প্রদান করুন</DeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <DeliverResourcesToFrames.label>ফ্রেমগুলিতে সম্পদ সরবরাহ</DeliverResourcesToFrames.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToFrames.gerund>ডেলিভারি করা হচ্ছে</DeliverResourcesToFrames.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToFrames.verb>প্রদান করুন</DeliverResourcesToFrames.verb>
+  
+  <!-- EN: brew liquors -->
+  <DoBillsBrew.label>মদ তৈরি</DoBillsBrew.label>
+  <!-- EN: brewing at -->
+  <DoBillsBrew.gerund>মদ তৈরি হচ্ছে</DoBillsBrew.gerund>
+  <!-- EN: brew at -->
+  <DoBillsBrew.verb>তৈরি করো এখানে</DoBillsBrew.verb>
+  
+  <!-- EN: butcher creatures -->
+  <DoBillsButcherFlesh.label>পশু জবাই</DoBillsButcherFlesh.label>
+  <!-- EN: butchering at -->
+  <DoBillsButcherFlesh.gerund>কাটা হচ্ছে</DoBillsButcherFlesh.gerund>
+  <!-- EN: butcher at -->
+  <DoBillsButcherFlesh.verb>কসাই করা হচ্ছে</DoBillsButcherFlesh.verb>
+  
+  <!-- EN: cook meals at stove -->
+  <DoBillsCook.label>চুলায় খাবার রান্না</DoBillsCook.label>
+  <!-- EN: cooking at -->
+  <DoBillsCook.gerund>রান্না করছে</DoBillsCook.gerund>
+  <!-- EN: cook at -->
+  <DoBillsCook.verb>রান্নায় নিযুক্ত</DoBillsCook.verb>
+  
+  <!-- EN: cook meals at campfire -->
+  <DoBillsCookCampfire.label>ক্যাম্পফায়ারে খাবার রান্না</DoBillsCookCampfire.label>
+  <!-- EN: cooking at -->
+  <DoBillsCookCampfire.gerund>রান্না করছে</DoBillsCookCampfire.gerund>
+  <!-- EN: cook at -->
+  <DoBillsCookCampfire.verb>রান্নায় নিযুক্ত</DoBillsCookCampfire.verb>
+  
+  <!-- EN: do cremation bills -->
+  <DoBillsCremate.label>দাহ বিল</DoBillsCremate.label>
+  <!-- EN: cremating at -->
+  <DoBillsCremate.gerund>кремаশন হচ্ছে</DoBillsCremate.gerund>
+  <!-- EN: cremate at -->
+  <DoBillsCremate.verb>পোড়ানো শুরু করুন</DoBillsCremate.verb>
+  
+  <!-- EN: fabricate things -->
+  <DoBillsFabricationBench.label>বস্তু তৈরি</DoBillsFabricationBench.label>
+  <!-- EN: fabricating things at -->
+  <DoBillsFabricationBench.gerund>তৈরি করা হচ্ছে:</DoBillsFabricationBench.gerund>
+  <!-- EN: fabricate things at -->
+  <DoBillsFabricationBench.verb>তৈরি করুন এখানে</DoBillsFabricationBench.verb>
+  
+  <!-- EN: do bills at campfire -->
+  <DoBillsHaulCampfire.label>ক্যাম্পফায়ারে বিল করা</DoBillsHaulCampfire.label>
+  <!-- EN: working at -->
+  <DoBillsHaulCampfire.gerund>কাজে নিযুক্ত</DoBillsHaulCampfire.gerund>
+  <!-- EN: work at -->
+  <DoBillsHaulCampfire.verb>কাজে নিযুক্ত</DoBillsHaulCampfire.verb>
+  
+  <!-- EN: make things at machining table -->
+  <DoBillsMachiningTable.label>মেশিনিং টেবিলের কাজ</DoBillsMachiningTable.label>
+  <!-- EN: working at -->
+  <DoBillsMachiningTable.gerund>কাজে নিযুক্ত</DoBillsMachiningTable.gerund>
+  <!-- EN: work at -->
+  <DoBillsMachiningTable.verb>কাজে নিযুক্ত</DoBillsMachiningTable.verb>
+  
+  <!-- EN: make apparel -->
+  <DoBillsMakeApparel.label>পোশাক তৈরি</DoBillsMakeApparel.label>
+  <!-- EN: tailoring at -->
+  <DoBillsMakeApparel.gerund>পোশাক তৈরি করছে</DoBillsMakeApparel.gerund>
+  <!-- EN: tailor at -->
+  <DoBillsMakeApparel.verb>দর্জি tại</DoBillsMakeApparel.verb>
+  
+  <!-- EN: make weapons -->
+  <DoBillsMakeWeapons.label>অস্ত্র তৈরি</DoBillsMakeWeapons.label>
+  <!-- EN: smithing at -->
+  <DoBillsMakeWeapons.gerund>কামকাজ করা হচ্ছে</DoBillsMakeWeapons.gerund>
+  <!-- EN: smith at -->
+  <DoBillsMakeWeapons.verb>স্মিথ-এ</DoBillsMakeWeapons.verb>
+  
+  <!-- EN: operate on animals -->
+  <DoBillsMedicalAnimalOperation.label>পশু পরিচালনা</DoBillsMedicalAnimalOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalAnimalOperation.gerund>কার্যকর করা হচ্ছে</DoBillsMedicalAnimalOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalAnimalOperation.verb>কার্যকর করুন</DoBillsMedicalAnimalOperation.verb>
+  
+  <!-- EN: operate on humanlikes -->
+  <DoBillsMedicalHumanOperation.label>মানুষের মতো প্রাণীদের উপর কাজ</DoBillsMedicalHumanOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalHumanOperation.gerund>কার্যকর করা হচ্ছে</DoBillsMedicalHumanOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalHumanOperation.verb>কার্যকর করুন</DoBillsMedicalHumanOperation.verb>
+  
+  <!-- EN: synthesize drugs -->
+  <DoBillsProduceDrugs.label>ড্রাগ সংশ্লেষণ</DoBillsProduceDrugs.label>
+  <!-- EN: producing drugs at -->
+  <DoBillsProduceDrugs.gerund>ড্রাগ উৎপাদন করছে</DoBillsProduceDrugs.gerund>
+  <!-- EN: produce drugs at -->
+  <DoBillsProduceDrugs.verb>ড্রাগ তৈরি করুন এখানে</DoBillsProduceDrugs.verb>
+  
+  <!-- EN: work at refinery -->
+  <DoBillsRefinery.label>রিফাইনারিতে কাজ</DoBillsRefinery.label>
+  <!-- EN: refining chemicals at -->
+  <DoBillsRefinery.gerund>রাসায়নিক পরিশোধন চলছে</DoBillsRefinery.gerund>
+  <!-- EN: refine chemicals at -->
+  <DoBillsRefinery.verb>রাসায়নিক দ্রব্য পরিশোধন করুন</DoBillsRefinery.verb>
+  
+  <!-- EN: make things at art bench -->
+  <DoBillsSculpt.label>শিল্প বেঞ্চে তৈরি</DoBillsSculpt.label>
+  <!-- EN: sculpting at -->
+  <DoBillsSculpt.gerund>ভাস্কর্য তৈরি করছে</DoBillsSculpt.gerund>
+  <!-- EN: sculpt at -->
+  <DoBillsSculpt.verb>ভাস্কর্য করুন এখানে</DoBillsSculpt.verb>
+  
+  <!-- EN: smelt items -->
+  <DoBillsSmelter.label>গলানো দ্রব্য</DoBillsSmelter.label>
+  <!-- EN: refining at -->
+  <DoBillsSmelter.gerund>পরিশোধন চলছে</DoBillsSmelter.gerund>
+  <!-- EN: refine at -->
+  <DoBillsSmelter.verb>পরিশোধন করুন</DoBillsSmelter.verb>
+  
+  <!-- EN: make stone blocks -->
+  <DoBillsStonecut.label>পাথর ব্লক তৈরি</DoBillsStonecut.label>
+  <!-- EN: cutting stone blocks at -->
+  <DoBillsStonecut.gerund>পাথর ব্লক কাটা হচ্ছে</DoBillsStonecut.gerund>
+  <!-- EN: cut stone blocks at -->
+  <DoBillsStonecut.verb>পাথর ব্লক কাটা শুরু করো।</DoBillsStonecut.verb>
+  
+  <!-- EN: make things at crafting spot -->
+  <DoBillsUseCraftingSpot.label>কারুশিল্প স্থানে তৈরি</DoBillsUseCraftingSpot.label>
+  <!-- EN: crafting at -->
+  <DoBillsUseCraftingSpot.gerund>তৈরি করা হচ্ছে</DoBillsUseCraftingSpot.gerund>
+  <!-- EN: craft at -->
+  <DoBillsUseCraftingSpot.verb>তৈরি করো এখানে</DoBillsUseCraftingSpot.verb>
+  
+  <!-- EN: feed animals -->
+  <DoctorFeedAnimals.label>পশু খাদ্যদান</DoctorFeedAnimals.label>
+  <!-- EN: feeding -->
+  <DoctorFeedAnimals.gerund>খাওয়ানো</DoctorFeedAnimals.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedAnimals.verb>খাবার দেওয়া</DoctorFeedAnimals.verb>
+  
+  <!-- EN: feed patients -->
+  <DoctorFeedHumanlikes.label>রোগী খাওয়ানো</DoctorFeedHumanlikes.label>
+  <!-- EN: feeding -->
+  <DoctorFeedHumanlikes.gerund>খাওয়ানো</DoctorFeedHumanlikes.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedHumanlikes.verb>খাবার</DoctorFeedHumanlikes.verb>
+  
+  <!-- EN: rescue downed allies to bed -->
+  <DoctorRescue.label>অ allies-দের উদ্ধার করে শয্যায় আনা</DoctorRescue.label>
+  <!-- EN: rescuing -->
+  <DoctorRescue.gerund>উদ্ধার করা হচ্ছে</DoctorRescue.gerund>
+  <!-- EN: rescue -->
+  <DoctorRescue.verb>উদ্ধার</DoctorRescue.verb>
+  
+  <!-- EN: tend to patients with urgent needs -->
+  <DoctorTendEmergency.label>জরুরি রোগীর যত্ন</DoctorTendEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendEmergency.gerund>যত্ন নেওয়া</DoctorTendEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendEmergency.verb>যত্ন নেওয়া</DoctorTendEmergency.verb>
+  
+  <!-- EN: tend to animals -->
+  <DoctorTendToAnimals.label>পশু পরিচর্যা</DoctorTendToAnimals.label>
+  <!-- EN: tending to -->
+  <DoctorTendToAnimals.gerund>যত্ন নেওয়া</DoctorTendToAnimals.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToAnimals.verb>যত্ন নেওয়া</DoctorTendToAnimals.verb>
+  
+  <!-- EN: tend to patients -->
+  <DoctorTendToHumanlikes.label>রোগী সেবা</DoctorTendToHumanlikes.label>
+  <!-- EN: tending to -->
+  <DoctorTendToHumanlikes.gerund>যত্ন নেওয়া</DoctorTendToHumanlikes.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToHumanlikes.verb>যত্ন নেওয়া</DoctorTendToHumanlikes.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelf.label>নিজেকে দেখাশোনা</DoctorTendToSelf.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelf.gerund>যত্ন নেওয়া</DoctorTendToSelf.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelf.verb>যত্ন নেওয়া</DoctorTendToSelf.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelfEmergency.label>নিজেকে দেখাশোনা</DoctorTendToSelfEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelfEmergency.gerund>যত্ন নেওয়া</DoctorTendToSelfEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelfEmergency.verb>যত্ন নেওয়া</DoctorTendToSelfEmergency.verb>
+  
+  <!-- EN: execute prisoners -->
+  <DoExecution.label>বন্দী মৃত্যুদণ্ড</DoExecution.label>
+  <!-- EN: executing -->
+  <DoExecution.gerund>কার্য সম্পাদন</DoExecution.gerund>
+  <!-- EN: execute -->
+  <DoExecution.verb>কাজের অগ্রাধিকার</DoExecution.verb>
+  
+  <!-- EN: drill at deep drill -->
+  <Drill.label>গভীর ড্রিল খনন</Drill.label>
+  <!-- EN: drilling -->
+  <Drill.gerund>খনন</Drill.gerund>
+  <!-- EN: drill -->
+  <Drill.verb>ড্রিল</Drill.verb>
+  
+  <!-- EN: eject fuel -->
+  <EjectFuel.label>জ্বালানি নির্গমন</EjectFuel.label>
+  <!-- EN: ejecting fuel from -->
+  <EjectFuel.gerund>জ্বালানি অপসারণ চলছে</EjectFuel.gerund>
+  <!-- EN: eject fuel -->
+  <EjectFuel.verb>জ্বালানি নির্গত করুন</EjectFuel.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>খালি ডিমের বাক্স</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>খালি করা</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>খালি</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>অপরাধী উপনিবেশিকদের মৃত্যুদণ্ড</ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>কার্য সম্পাদন</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>কার্য সম্পাদন</ExecuteGuiltyColonist.verb>
+  
+  <!-- EN: extract skull -->
+  <ExtractSkull.label>খুলি নিষ্কাশন</ExtractSkull.label>
+  <!-- EN: extracting skull of -->
+  <ExtractSkull.gerund>খুলি নিষ্কাশন চলছে</ExtractSkull.gerund>
+  <!-- EN: extract -->
+  <ExtractSkull.verb>নিষ্কাশন</ExtractSkull.verb>
+  
+  <!-- EN: extract trees -->
+  <ExtractTree.label>গাছপালা নিষ্কাশন</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>নিষ্কাশন করা হচ্ছে</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>কাজ ও কর্তব্য</ExtractTree.verb>
+  
+  <!-- EN: feed prisoners -->
+  <FeedPrisoner.label>বন্দী খাওয়ানো</FeedPrisoner.label>
+  <!-- EN: feeding -->
+  <FeedPrisoner.gerund>খাওয়ানো</FeedPrisoner.gerund>
+  <!-- EN: feed -->
+  <FeedPrisoner.verb>খাবার</FeedPrisoner.verb>
+  
+  <!-- EN: fight fires -->
+  <FightFires.label>আগুন নেভানো</FightFires.label>
+  <!-- EN: extinguishing -->
+  <FightFires.gerund>নির্বাপণ</FightFires.gerund>
+  <!-- EN: extinguish -->
+  <FightFires.verb>নির্বাপ করুন</FightFires.verb>
+  
+  <!-- EN: fill fermenting barrels -->
+  <FillFermentingBarrel.label>ফার্মেন্টিং ব্যারেল পূরণ করুন</FillFermentingBarrel.label>
+  <!-- EN: filling -->
+  <FillFermentingBarrel.gerund>পূরণ করা হচ্ছে</FillFermentingBarrel.gerund>
+  <!-- EN: fill -->
+  <FillFermentingBarrel.verb>পূরণ করুন</FillFermentingBarrel.verb>
+  
+  <!-- EN: fill in -->
+  <FillIn.label>পূরণ করুন</FillIn.label>
+  <!-- EN: filling in -->
+  <FillIn.gerund>পূরণ করা হচ্ছে</FillIn.gerund>
+  <!-- EN: fill -->
+  <FillIn.verb>পূরণ করুন</FillIn.verb>
+  
+  <!-- EN: fix broken-down buildings -->
+  <FixBrokenDownBuilding.label>ভাঙা কাঠামো মেরামত করুন</FixBrokenDownBuilding.label>
+  <!-- EN: replacing broken components in -->
+  <FixBrokenDownBuilding.gerund>ভাঙা উপাদান প্রতিস্থাপন করা হচ্ছে।</FixBrokenDownBuilding.gerund>
+  <!-- EN: replace broken components in -->
+  <FixBrokenDownBuilding.verb>ভাঙা উপাদান প্রতিস্থাপন করুন।</FixBrokenDownBuilding.verb>
+  
+  <!-- EN: flick switches -->
+  <Flick.label>ফ্লিক সুইচ</Flick.label>
+  <!-- EN: flicking switch on -->
+  <Flick.gerund>ফ্লিকিং সুইচ চালু করা</Flick.gerund>
+  <!-- EN: flick switch on -->
+  <Flick.verb>ফ্লিক সুইচ চালু করুন</Flick.verb>
+  
+  <!-- EN: operate ground penetrating scanner -->
+  <GroundPenetratingScan.label>ভূগর্ভ অনুসন্ধানী স্ক্যানার পরিচালনা</GroundPenetratingScan.label>
+  <!-- EN: scanning at -->
+  <GroundPenetratingScan.gerund>স্ক্যানিং করা হচ্ছে</GroundPenetratingScan.gerund>
+  <!-- EN: scan at -->
+  <GroundPenetratingScan.verb>স্ক্যান করুন</GroundPenetratingScan.verb>
+  
+  <!-- EN: harvest crops -->
+  <GrowerHarvest.label>ফসল সংগ্রহ</GrowerHarvest.label>
+  <!-- EN: harvesting -->
+  <GrowerHarvest.gerund>সংগ্রহ করা</GrowerHarvest.gerund>
+  <!-- EN: harvest -->
+  <GrowerHarvest.verb>সংগ্রহ</GrowerHarvest.verb>
+  
+  <!-- EN: sow crops -->
+  <GrowerSow.label>শস্য রোপণ</GrowerSow.label>
+  <!-- EN: sowing -->
+  <GrowerSow.gerund>বীজ বপন</GrowerSow.gerund>
+  <!-- EN: sow -->
+  <GrowerSow.verb>বীজ বপন</GrowerSow.verb>
+  
+  <!-- EN: hack buildings -->
+  <Hack.label>হ্যাক কাঠামো</Hack.label>
+  <!-- EN: hacking -->
+  <Hack.gerund>হ্যাকিং</Hack.gerund>
+  <!-- EN: hack -->
+  <Hack.verb>হ্যাকিং</Hack.verb>
+  
+  <!-- EN: feed animals -->
+  <HandlingFeedPatientAnimals.label>পশু খাদ্য</HandlingFeedPatientAnimals.label>
+  <!-- EN: feeding -->
+  <HandlingFeedPatientAnimals.gerund>খাবার দেওয়া</HandlingFeedPatientAnimals.gerund>
+  <!-- EN: feed -->
+  <HandlingFeedPatientAnimals.verb>খাবার দেওয়া</HandlingFeedPatientAnimals.verb>
+  
+  <!-- EN: haul corpses -->
+  <HaulCorpses.label>ক্যাডভার পরিবহন</HaulCorpses.label>
+  <!-- EN: hauling -->
+  <HaulCorpses.gerund>মাল পরিবহন</HaulCorpses.gerund>
+  <!-- EN: haul -->
+  <HaulCorpses.verb>মাল পরিবহন</HaulCorpses.verb>
+  
+  <!-- EN: haul general things -->
+  <HaulGeneral.label>সাধারণ জিনিস পরিবহন</HaulGeneral.label>
+  <!-- EN: hauling -->
+  <HaulGeneral.gerund>মাল পরিবহন</HaulGeneral.gerund>
+  <!-- EN: haul -->
+  <HaulGeneral.verb>মাল পরিবহন</HaulGeneral.verb>
+  
+  <!-- EN: merge things -->
+  <HaulMerge.label>বস্তু একত্রীকরণ</HaulMerge.label>
+  <!-- EN: merging -->
+  <HaulMerge.gerund>একত্রীকরণ</HaulMerge.gerund>
+  <!-- EN: merge -->
+  <HaulMerge.verb>একত্রিত করুন</HaulMerge.verb>
+  
+  <!-- EN: haul to map -->
+  <HaulToPortal.label>মানচিত্রে পরিবহন</HaulToPortal.label>
+  <!-- EN: loading -->
+  <HaulToPortal.gerund>লোড হচ্ছে</HaulToPortal.gerund>
+  <!-- EN: load -->
+  <HaulToPortal.verb>কাজের চাপ</HaulToPortal.verb>
+  
+  <!-- EN: load caravan -->
+  <HelpGatheringItemsForCaravan.label>বোঝাই কাফেলা</HelpGatheringItemsForCaravan.label>
+  <!-- EN: loading -->
+  <HelpGatheringItemsForCaravan.gerund>গুরুত্বপূর্ণ কাজ</HelpGatheringItemsForCaravan.gerund>
+  <!-- EN: load -->
+  <HelpGatheringItemsForCaravan.verb>লোড</HelpGatheringItemsForCaravan.verb>
+  
+  <!-- EN: hunt -->
+  <HunterHunt.label>শিকার</HunterHunt.label>
+  <!-- EN: hunting -->
+  <HunterHunt.gerund>শিকার</HunterHunt.gerund>
+  <!-- EN: hunt -->
+  <HunterHunt.verb>শিকার</HunterHunt.verb>
+  
+  <!-- EN: load transporters -->
+  <LoadTransporters.label>লোডিং ট্রান্সপোর্টার</LoadTransporters.label>
+  <!-- EN: loading -->
+  <LoadTransporters.gerund>গুরুত্বপূর্ণ কাজ</LoadTransporters.gerund>
+  <!-- EN: load -->
+  <LoadTransporters.verb>লোড করুন</LoadTransporters.verb>
+  
+  <!-- EN: operate long range scanner -->
+  <LongRangeScan.label>দীর্ঘ পাল্লার স্ক্যানার পরিচালনা</LongRangeScan.label>
+  <!-- EN: scanning at -->
+  <LongRangeScan.gerund>স্ক্যানিং চলছে</LongRangeScan.gerund>
+  <!-- EN: scan at -->
+  <LongRangeScan.verb>স্ক্যান করুন</LongRangeScan.verb>
+  
+  <!-- EN: milk animals -->
+  <Milk.label>দুধের পশু</Milk.label>
+  <!-- EN: milking -->
+  <Milk.gerund>দুধ নিংড়ানো</Milk.gerund>
+  <!-- EN: milk -->
+  <Milk.verb>দুধ</Milk.verb>
+  
+  <!-- EN: mine -->
+  <Mine.label>খনন</Mine.label>
+  <!-- EN: mining -->
+  <Mine.gerund>খনন</Mine.gerund>
+  <!-- EN: mine -->
+  <Mine.verb>খনন</Mine.verb>
+  
+  <!-- EN: open containers -->
+  <Open.label>খোলা পাত্র</Open.label>
+  <!-- EN: opening -->
+  <Open.gerund>উন্মোচন</Open.gerund>
+  <!-- EN: open -->
+  <Open.verb>খোলা</Open.verb>
+  
+  <!-- EN: paint buildings -->
+  <PaintBuilding.label>বিল্ডিং রং করা</PaintBuilding.label>
+  <!-- EN: painting -->
+  <PaintBuilding.gerund>চিত্রকলা</PaintBuilding.gerund>
+  <!-- EN: paint -->
+  <PaintBuilding.verb>পেইন্ট</PaintBuilding.verb>
+  
+  <!-- EN: paint floor -->
+  <PaintFloor.label>ফ্লোর রং</PaintFloor.label>
+  <!-- EN: painting -->
+  <PaintFloor.gerund>চিত্রাঙ্কন</PaintFloor.gerund>
+  <!-- EN: paint -->
+  <PaintFloor.verb>রং</PaintFloor.verb>
+  
+  <!-- EN: go to bed for emergency treatment -->
+  <PatientGoToBedEmergencyTreatment.label>জরুরি চিকিৎসার জন্য ঘুমাতে যান</PatientGoToBedEmergencyTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedEmergencyTreatment.gerund>চিকিৎসাধীন</PatientGoToBedEmergencyTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedEmergencyTreatment.verb>চিকিৎসা গ্রহণ করুন</PatientGoToBedEmergencyTreatment.verb>
+  
+  <!-- EN: recuperate in bed -->
+  <PatientGoToBedRecuperate.label>বিছানায় বিশ্রাম</PatientGoToBedRecuperate.label>
+  <!-- EN: getting bed rest in -->
+  <PatientGoToBedRecuperate.gerund>বিশ্রামে যাচ্ছে।</PatientGoToBedRecuperate.gerund>
+  <!-- EN: get bed rest in -->
+  <PatientGoToBedRecuperate.verb>বিশ্রামে যান।</PatientGoToBedRecuperate.verb>
+  
+  <!-- EN: go to bed for treatment -->
+  <PatientGoToBedTreatment.label>চিকিৎসার জন্য ঘুমাতে যান</PatientGoToBedTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedTreatment.gerund>চিকিৎসা গ্রহণ করছে</PatientGoToBedTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedTreatment.verb>চিকিৎসা গ্রহণ করুন</PatientGoToBedTreatment.verb>
+  
+  <!-- EN: cut plants -->
+  <PlantsCut.label>উদ্ভিদ কাটা</PlantsCut.label>
+  <!-- EN: cutting -->
+  <PlantsCut.gerund>কাটিং</PlantsCut.gerund>
+  <!-- EN: cut -->
+  <PlantsCut.verb>গুরুত্বপূর্ণ কাজ</PlantsCut.verb>
+  
+  <!-- EN: plant seeds -->
+  <PlantSeed.label>বীজ রোপণ</PlantSeed.label>
+  <!-- EN: planting -->
+  <PlantSeed.gerund>রোপণ</PlantSeed.gerund>
+  <!-- EN: plant -->
+  <PlantSeed.verb>উদ্ভিদ</PlantSeed.verb>
+  
+  <!-- EN: rearm turrets -->
+  <RearmTurrets.label>টারেটসমূহ পুনরায় সক্রিয় করুন</RearmTurrets.label>
+  <!-- EN: rearming -->
+  <RearmTurrets.gerund>পুনরায় অস্ত্রীকরণ</RearmTurrets.gerund>
+  <!-- EN: rearm -->
+  <RearmTurrets.verb>পুনরায় অস্ত্রসজ্জা করুন</RearmTurrets.verb>
+  
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>বন্দী পশু পুনর্বিন্যাস</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>দড়ি বাঁধা</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>দড়ি</RebalanceAnimalsInPens.verb>
+  
+  <!-- EN: refuel buildings -->
+  <Refuel.label>বিল্ডিং রিফুয়েল</Refuel.label>
+  <!-- EN: refueling -->
+  <Refuel.gerund>পুনরায় জ্বালানি</Refuel.gerund>
+  <!-- EN: refuel -->
+  <Refuel.verb>পুনঃজ্বালানি</Refuel.verb>
+  
+  <!-- EN: release prisoners -->
+  <ReleasePrisoner.label>বন্দী মুক্তি</ReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <ReleasePrisoner.gerund>মুক্তি দেওয়া হচ্ছে</ReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <ReleasePrisoner.verb>মুক্তি দিন</ReleasePrisoner.verb>
+  
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>বন্যে ছাড়া</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>মুক্তি দেওয়া হচ্ছে</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>মুক্তি দিন</ReleaseToWild.verb>
+  
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.label>রং অপসারণ</RemovePaintBuilding.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintBuilding.gerund>পেইন্ট সরানো হচ্ছে</RemovePaintBuilding.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.verb>পেইন্ট সরান</RemovePaintBuilding.verb>
+  
+  <!-- EN: remove floor paint -->
+  <RemovePaintFloor.label>মেঝে রং অপসারণ</RemovePaintFloor.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintFloor.gerund>পেইন্ট সরানো হচ্ছে</RemovePaintFloor.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintFloor.verb>পেইন্ট সরান</RemovePaintFloor.verb>
+  
+  <!-- EN: remove roofs -->
+  <RemoveRoofs.label>ছাদ অপসারণ</RemoveRoofs.label>
+  <!-- EN: removing roof -->
+  <RemoveRoofs.gerund>ছাদ সরানো হচ্ছে</RemoveRoofs.gerund>
+  <!-- EN: remove roof -->
+  <RemoveRoofs.verb>ছাদ সরান</RemoveRoofs.verb>
+  
+  <!-- EN: repair damaged things -->
+  <Repair.label>ক্ষতিগ্রস্ত জিনিস মেরামত</Repair.label>
+  <!-- EN: repairing -->
+  <Repair.gerund>মেরামত করা হচ্ছে</Repair.gerund>
+  <!-- EN: repair -->
+  <Repair.verb>মেরামত</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>গাছ রোপণ</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>পুনঃরোপণ</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>পুনঃরোপণ</Replant.verb>
+  
+  <!-- EN: do research -->
+  <Research.label>গবেষণা করা</Research.label>
+  <!-- EN: researching at -->
+  <Research.gerund>গবেষণা চলছে</Research.gerund>
+  <!-- EN: research at -->
+  <Research.verb>গবেষণা চলছে</Research.verb>
+  
+  <!-- EN: shear animals -->
+  <Shear.label>পশু ছাঁটা</Shear.label>
+  <!-- EN: shearing -->
+  <Shear.gerund>ছাঁটাই</Shear.gerund>
+  <!-- EN: shear -->
+  <Shear.verb>কাটা</Shear.verb>
+  
+  <!-- EN: slaughter animals -->
+  <Slaughter.label>পশু জবাই</Slaughter.label>
+  <!-- EN: slaughtering -->
+  <Slaughter.gerund>জবাই করা</Slaughter.gerund>
+  <!-- EN: slaughter -->
+  <Slaughter.verb>slaughter</Slaughter.verb>
+  
+  <!-- EN: strip corpses -->
+  <Strip.label>Corpses stripping</Strip.label>
+  <!-- EN: stripping -->
+  <Strip.gerund>ছিঁড়ে ফেলা</Strip.gerund>
+  <!-- EN: strip -->
+  <Strip.verb>স্ট্রিপ</Strip.verb>
+  
+  <!-- EN: study archotech structures -->
+  <StudyArchotechStructures.label>আর্কোটেক কাঠামো অধ্যয়ন</StudyArchotechStructures.label>
+  <!-- EN: studying -->
+  <StudyArchotechStructures.gerund>অধ্যয়ন চলছে</StudyArchotechStructures.gerund>
+  <!-- EN: study -->
+  <StudyArchotechStructures.verb>অধ্যয়ন</StudyArchotechStructures.verb>
+  
+  <!-- EN: take beer out of fermenting barrels -->
+  <TakeBeerOutOfFermentingBarrel.label>ফার্মেন্টিং ব্যারেল থেকে বিয়ার সরান</TakeBeerOutOfFermentingBarrel.label>
+  <!-- EN: taking beer from -->
+  <TakeBeerOutOfFermentingBarrel.gerund>বিয়ার নেওয়া হচ্ছে</TakeBeerOutOfFermentingBarrel.gerund>
+  <!-- EN: take beer -->
+  <TakeBeerOutOfFermentingBarrel.verb>বিয়ার নিন</TakeBeerOutOfFermentingBarrel.verb>
+  
+  <!-- EN: take prisoners to bed -->
+  <TakePrisonerToBed.label>বন্দীদের বিছানায় নিয়ে যান</TakePrisonerToBed.label>
+  <!-- EN: taking to bed -->
+  <TakePrisonerToBed.gerund>বিছানায় যাওয়া</TakePrisonerToBed.gerund>
+  <!-- EN: take to bed -->
+  <TakePrisonerToBed.verb>বিছানায় নিতে যান</TakePrisonerToBed.verb>
+  
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>দড়ি বাঁধা পশু</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>দড়ি টানা</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>দড়ি</TakeRoamingAnimalsToPen.verb>
+  
+  <!-- EN: take patients to bed for operations -->
+  <TakeToBedToOperate.label>অপারেশনের জন্য রোগীদের শয্যায় নিয়ে যাওয়া</TakeToBedToOperate.label>
+  <!-- EN: taking to operate -->
+  <TakeToBedToOperate.gerund>চালানোর জন্য গ্রহণ করা</TakeToBedToOperate.gerund>
+  <!-- EN: take to operate -->
+  <TakeToBedToOperate.verb>চালানোর জন্য গ্রহণ করুন</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>দড়ি পশু</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>দড়ি টানা</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>দড়ি</TakeToPen.verb>
+  
+  <!-- EN: tame animals -->
+  <Tame.label>পশু প্রশিক্ষণ</Tame.label>
+  <!-- EN: taming -->
+  <Tame.gerund>পোষ মানানো</Tame.gerund>
+  <!-- EN: tame -->
+  <Tame.verb>পোষ মানানো</Tame.verb>
+  
+  <!-- EN: train animals -->
+  <Train.label>প্রাণী প্রশিক্ষণ</Train.label>
+  <!-- EN: training -->
+  <Train.gerund>প্রশিক্ষণ</Train.gerund>
+  <!-- EN: train -->
+  <Train.verb>প্রশিক্ষণ</Train.verb>
+  
+  <!-- EN: uninstall structures -->
+  <Uninstall.label>গঠন অপসারণ করুন</Uninstall.label>
+  <!-- EN: uninstalling -->
+  <Uninstall.gerund>আনইনস্টল করা হচ্ছে</Uninstall.gerund>
+  <!-- EN: uninstall -->
+  <Uninstall.verb>আনইনস্টল করুন</Uninstall.verb>
+  
+  <!-- EN: unload carriers -->
+  <UnloadCarriers.label>মাল পরিবহন আনলোড</UnloadCarriers.label>
+  <!-- EN: unloading -->
+  <UnloadCarriers.gerund>বোঝাই করা হচ্ছে</UnloadCarriers.gerund>
+  <!-- EN: unload -->
+  <UnloadCarriers.verb>বোঝাই করা</UnloadCarriers.verb>
+  
+  <!-- EN: visit sick people -->
+  <VisitSickPawn.label>অসুস্থদের পরিদর্শন</VisitSickPawn.label>
+  <!-- EN: visiting -->
+  <VisitSickPawn.gerund>ভিজিটিং</VisitSickPawn.gerund>
+  <!-- EN: visit -->
+  <VisitSickPawn.verb>ভিজিট করুন</VisitSickPawn.verb>
+  
+</LanguageData>

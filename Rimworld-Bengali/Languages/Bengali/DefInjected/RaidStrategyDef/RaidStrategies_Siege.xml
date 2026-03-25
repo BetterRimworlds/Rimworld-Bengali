@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
+  <Siege.arrivalTextEnemy>মনে হচ্ছে তারা কলোনি অবরোধ করতে এবং দূর থেকে মর্টার দিয়ে আঘাত করতে চায়। আপনি অপেক্ষা করে দেখতে পারেন - অথবা তাদের মোকাবিলা করতে যেতে পারেন।</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>মনে হচ্ছে তারা আপনাকে সাহায্য করার জন্য অবরোধ কৌশল ব্যবহার করতে চাইছে।</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
+  <Siege.letterLabelEnemy>অবস্থান অবরোধ</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <Siege.letterLabelFriendly>বন্ধুত্বপূর্ণ</Siege.letterLabelFriendly>
+  
+</LanguageData>

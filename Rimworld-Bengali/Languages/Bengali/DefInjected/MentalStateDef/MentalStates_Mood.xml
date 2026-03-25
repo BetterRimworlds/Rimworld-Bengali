@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tantrum -->
+  <BedroomTantrum.label>রাগের বহিঃপ্রকাশ</BedroomTantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <BedroomTantrum.baseInspectLine>মানসিক অবস্থা:癇প্রলাপ</BedroomTantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
+  <BedroomTantrum.beginLetter>{0} মেজাজ হারাচ্ছে।\n\nসে তার ঘরের জিনিসপত্র ভাঙতে যাচ্ছে।</BedroomTantrum.beginLetter><!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
+  <BedroomTantrum.beginLetterLabel>{0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room.</BedroomTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <BedroomTantrum.recoveryMessage>{0} আর মেজাজ হারাচ্ছে না।</BedroomTantrum.recoveryMessage>
+  
+  <!-- EN: berserk -->
+  <Berserk.label>উন্মত্ত ক্রোধ</Berserk.label>
+  <!-- EN: Mental state: Berserk -->
+  <Berserk.baseInspectLine>মানসিক অবস্থা: উন্মত্ত</Berserk.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <Berserk.beginLetter>{0} উন্মত্ত হয়ে গেছে।\n\nতা/তিনি যে কাউকে আক্রমণ করবে/করবে।</Berserk.beginLetter><!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <Berserk.beginLetterLabel>{0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees.</Berserk.beginLetterLabel>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <Berserk.recoveryMessage>{0}-এর উন্মত্ত ক্রোধের অবসান হয়েছে।</Berserk.recoveryMessage>
+  
+  <!-- EN: berserk -->
+  <BerserkPermanent.label>উন্মত্ত অবস্থা</BerserkPermanent.label>
+  <!-- EN: Mental state: Berserk -->
+  <BerserkPermanent.baseInspectLine>মানসিক অবস্থা: উন্মত্ত</BerserkPermanent.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <BerserkPermanent.beginLetter>{0} উন্মত্ত হয়ে গেছে।\n\nএ/তিনি যে কাউকে আক্রমণ করবে যাঁর/যিনিকে দেখবেন।</BerserkPermanent.beginLetter>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <BerserkPermanent.recoveryMessage>{0}-এর উন্মত্ত ক্রোধ শেষ হয়েছে।</BerserkPermanent.recoveryMessage>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugExtreme.label>ড্রাগে আসক্তি</Binging_DrugExtreme.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugExtreme.baseInspectLine>মানসিক অবস্থা: {0} অতিরিক্ত গ্রহণ।</Binging_DrugExtreme.baseInspectLine>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugMajor.label>ড্রাগে আসক্তি</Binging_DrugMajor.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugMajor.baseInspectLine>মানসিক অবস্থা: {0} অতিরিক্ত সেবন।</Binging_DrugMajor.baseInspectLine>
+  
+  <!-- EN: binging on food -->
+  <Binging_Food.label>খাবার binge</Binging_Food.label>
+  <!-- EN: Mental state: Pigging out -->
+  <Binging_Food.baseInspectLine>মানসিক অবস্থা: অতিরিক্ত ভোজন।</Binging_Food.baseInspectLine>
+  <!-- EN: {0} is pigging out on food. -->
+  <Binging_Food.beginLetter>{0} অত্যধিক খাবার খাচ্ছে।</Binging_Food.beginLetter>
+  <!-- EN: food binge -->
+  <Binging_Food.beginLetterLabel>খাদ্য উপদ্রব</Binging_Food.beginLetterLabel>
+  <!-- EN: {0} is no longer pigging out on food. -->
+  <Binging_Food.recoveryMessage>{0} আর খাবার binge করছে না।</Binging_Food.recoveryMessage>
+  
+  <!-- EN: corpse obsession -->
+  <CorpseObsession.label>ক্যাড্যাভার আসক্তি</CorpseObsession.label>
+  <!-- EN: Mental state: Corpse obsession -->
+  <CorpseObsession.baseInspectLine>মানসিক অবস্থা: মৃতদেহ বিষয়ক মোহ।</CorpseObsession.baseInspectLine>
+  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see. -->
+  <CorpseObsession.beginLetter>{0} মানসিক ভাবে ভেঙে পড়েছে এবং মৃতদেহ নিয়ে আচ্ছন্ন হয়ে গেছে।\n\nসে একটি মৃতদেহ খুঁজে বের করবে এবং সবার সামনে উপস্থাপন করবে।</CorpseObsession.beginLetter><!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see. -->
+  <CorpseObsession.beginLetterLabel>{0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see.</CorpseObsession.beginLetterLabel>
+  <!-- EN: {0} is no longer having a corpse obsession. -->
+  <CorpseObsession.recoveryMessage>{0} আর মৃতদেহ নিয়ে আচ্ছন্ন নয়।</CorpseObsession.recoveryMessage>
+  
+  <!-- EN: fire starting spree -->
+  <FireStartingSpree.label>আগুন লাগানোর তাণ্ডব</FireStartingSpree.label>
+  <!-- EN: Mental state: Fire starting spree -->
+  <FireStartingSpree.baseInspectLine>মানসিক অবস্থা: অগ্নিসংযোগের প্রবণতা</FireStartingSpree.baseInspectLine>
+  <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
+  <FireStartingSpree.beginLetter>{0} আগুন লাগানোর তাণ্ডব চালাচ্ছে।\n\nকিছুক্ষণ ধরে সে ঘুরে বেড়াবে এবং এলোমেলোভাবে আগুন লাগাবে।</FireStartingSpree.beginLetter><!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
+  <FireStartingSpree.beginLetterLabel>{0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires.</FireStartingSpree.beginLetterLabel>
+  <!-- EN: {0} is no longer on a fire starting spree. -->
+  <FireStartingSpree.recoveryMessage>{0} আর আগুন লাগানোর খেয়ালে নেই।</FireStartingSpree.recoveryMessage>
+  
+  <!-- EN: giving up and leaving -->
+  <GiveUpExit.label>ত্যাগ করে প্রস্থান</GiveUpExit.label>
+  <!-- EN: Mental state: Given up and leaving -->
+  <GiveUpExit.baseInspectLine>মানসিক অবস্থা: হাল ছেড়ে দিয়ে চলে যাওয়া।</GiveUpExit.baseInspectLine>
+  <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
+  <GiveUpExit.beginLetter>{0} এই সম্প্রদায়টিকে ছেড়ে দিয়েছে।\n\nতাঁরা চলে গিয়ে অন্য কোথাও ভালো জীবন শুরু করতে সিদ্ধান্ত নিয়েছেন। প্রস্থান করার সময় আপনি তাঁকে গ্রেপ্তার করার চেষ্টা করতে পারেন। অন্যথায়, হয়তো কোনো একদিন আবার দেখা হতে পারে।</GiveUpExit.beginLetter>
+  <!-- EN: gave up -->
+  <GiveUpExit.beginLetterLabel>হতাশ</GiveUpExit.beginLetterLabel>
+  <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
+  <GiveUpExit.recoveryMessage>{0} মন পরিবর্তন করেছে এবং কলোনিতে ফিরে আসছে।</GiveUpExit.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
+  <InsultingSpree.label>অপমানজনক আক্রমণ</InsultingSpree.label>
+  <!-- EN: Mental state: Insulting spree -->
+  <InsultingSpree.baseInspectLine>মানসিক অবস্থা: অপমানজনক আচরণ</InsultingSpree.baseInspectLine>
+  <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
+  <InsultingSpree.beginLetter>{0} অপমান করা শুরু করেছে।\n\nএঁরা এলোমেলোভাবে অন্যদের অপমান করতে ঘুরে বেড়াবে।</InsultingSpree.beginLetter><!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
+  <InsultingSpree.beginLetterLabel>{0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others.</InsultingSpree.beginLetterLabel>
+  <!-- EN: {0} is no longer on an insulting spree. -->
+  <InsultingSpree.recoveryMessage>{0} আর অপমানজনকভাবে কথা বলছে না।</InsultingSpree.recoveryMessage>
+  
+  <!-- EN: inducing prisoner to escape -->
+  <Jailbreaker.label>বন্দী পালানোর প্ররোচনা</Jailbreaker.label>
+  <!-- EN: Mental state: Jailbreaker -->
+  <Jailbreaker.baseInspectLine>মানসিক অবস্থা: জেলভাঙা</Jailbreaker.baseInspectLine>
+  <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
+  <Jailbreaker.beginLetter>{0} মানসিক ভাবে ভেঙে পড়েছে এবং বন্দীদের পালানোর জন্য প্ররোচিত করবে।</Jailbreaker.beginLetter>
+  <!-- EN: jailbreaker -->
+  <Jailbreaker.beginLetterLabel>জেলব্রেকার</Jailbreaker.beginLetterLabel>
+  <!-- EN: {0} is no longer inducing prisoners to escape. -->
+  <Jailbreaker.recoveryMessage>{0} আর বন্দীদের পালানোর জন্য প্ররোচিত করছে না।</Jailbreaker.recoveryMessage>
+  
+  <!-- EN: murderous rage -->
+  <MurderousRage.label>খুনী ক্রোধ</MurderousRage.label>
+  <!-- EN: Mental state: Murderous rage -->
+  <MurderousRage.baseInspectLine>মানসিক অবস্থা: নরহত্যা-জনিত ক্রোধ</MurderousRage.baseInspectLine>
+  <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
+  <MurderousRage.beginLetter>{0} মারাত্মক ক্রোধে ফেটে পড়েছে।\n\n{0} {1} কে হত্যা করার সিদ্ধান্ত নিয়েছে।</MurderousRage.beginLetter><!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
+  <MurderousRage.beginLetterLabel>{0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}.</MurderousRage.beginLetterLabel>
+  <!-- EN: {0} is no longer in a murderous rage. -->
+  <MurderousRage.recoveryMessage>{0} আর খুনী রাগে নেই।</MurderousRage.recoveryMessage>
+  
+  <!-- EN: sadistic rage -->
+  <SadisticRage.label>নিষ্ঠুর ক্রোধ</SadisticRage.label>
+  <!-- EN: Mental state: Sadistic rage -->
+  <SadisticRage.baseInspectLine>মানসিক অবস্থা: স্যাডিস্টিক ক্রোধ</SadisticRage.baseInspectLine>
+  <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
+  <SadisticRage.beginLetter>{0} একটি সাডিস্টিক ক্রোধে ফেটে পড়েছে।\n\nএখন সে বন্দীদের উপর তার রাগ প্রকাশ করতে যাচ্ছে।</SadisticRage.beginLetter><!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
+  <SadisticRage.beginLetterLabel>{0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners.</SadisticRage.beginLetterLabel>
+  <!-- EN: {0} is no longer in a sadistic rage. -->
+  <SadisticRage.recoveryMessage>{0} আর সাডিস্টিক ক্রোধে নেই।</SadisticRage.recoveryMessage>
+  
+  <!-- EN: slaughterer -->
+  <Slaughterer.label>ঘাতক</Slaughterer.label>
+  <!-- EN: Mental state: Slaughterer -->
+  <Slaughterer.baseInspectLine>মানসিক অবস্থা: কসাই</Slaughterer.baseInspectLine>
+  <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
+  <Slaughterer.beginLetter>{0} মানসিক ভাবে ভেঙে পড়েছে এবং আপনার পশুদের উপর রাগ প্রকাশ করতে যাচ্ছে।</Slaughterer.beginLetter><!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
+  <Slaughterer.beginLetterLabel>{0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals.</Slaughterer.beginLetterLabel>
+  <!-- EN: {0} is no longer slaughtering random animals. -->
+  <Slaughterer.recoveryMessage>{0} আর এলোমেলোভাবে পশু হত্যা করছে না।</Slaughterer.recoveryMessage>
+  
+  <!-- EN: tantrum -->
+  <Tantrum.label>রাগের বহিঃপ্রকাশ</Tantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <Tantrum.baseInspectLine>মানসিক অবস্থা: রাগের বহিঃপ্রকাশ</Tantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
+  <Tantrum.beginLetter>{0} মেজাজ হারাচ্ছে।\n\nএঁরা এলোমেলো আসবাবপত্র, জিনিসপত্র এবং কাঠামো ভেঙে ফেলবে।</Tantrum.beginLetter><!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
+  <Tantrum.beginLetterLabel>{0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures.</Tantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <Tantrum.recoveryMessage>{0} আর মেজাজ হারাচ্ছে না।</Tantrum.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
+  <TargetedInsultingSpree.label>অপমানজনক বিদ্রুপ</TargetedInsultingSpree.label>
+  <!-- EN: Mental state: Insulting spree against {0} -->
+  <TargetedInsultingSpree.baseInspectLine>মানসিক অবস্থা: {0} এর প্রতি অপমানজনক মন্তব্য করা।</TargetedInsultingSpree.baseInspectLine>
+  <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
+  <TargetedInsultingSpree.beginLetter>{0} এখন {1} এর উপর রাগ জমানো শুরু করেছে।\n\nসে {1} এর পিছু পিছু ঘুরবে এবং অপমানজনক কথা বলবে।</TargetedInsultingSpree.beginLetter><!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
+  <TargetedInsultingSpree.beginLetterLabel>{0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults.</TargetedInsultingSpree.beginLetterLabel><!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
+  <TargetedInsultingSpree.recoveryMessage>{0} এখন {1} এর উপর রাগ প্রকাশ করছে।\n\nসে {1} এর পিছু পিছু ঘুরবে এবং অপমানজনক কথা বলবে।</TargetedInsultingSpree.recoveryMessage>
+  
+  <!-- EN: tantrum -->
+  <TargetedTantrum.label>রাগ-আক্রমণ</TargetedTantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <TargetedTantrum.baseInspectLine>মানসিক অবস্থা:癇প্রলাপ</TargetedTantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
+  <TargetedTantrum.beginLetter>{0} মেজাজ হারাচ্ছে।\n\nতাঁরা {1} ধ্বংস করতে যাচ্ছে।</TargetedTantrum.beginLetter><!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
+  <TargetedTantrum.beginLetterLabel>{0}癇প্রকোপ করছে।\n\nসে {1} ধ্বংস করতে যাচ্ছে।</TargetedTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <TargetedTantrum.recoveryMessage>{0} আর মেজাজ হারাচ্ছে না।</TargetedTantrum.recoveryMessage>
+  
+  <!-- EN: sitting alone -->
+  <Wander_OwnRoom.label>একা বসে থাকা</Wander_OwnRoom.label>
+  <!-- EN: Mental state: Hiding in room -->
+  <Wander_OwnRoom.baseInspectLine>মানসিক অবস্থা: ঘরে লুকিয়ে থাকা</Wander_OwnRoom.baseInspectLine>
+  <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.beginLetter>{0} তার ঘরে লুকিয়ে আছে।</Wander_OwnRoom.beginLetter>
+  <!-- EN: hide in room -->
+  <Wander_OwnRoom.beginLetterLabel>ঘরে লুকানো</Wander_OwnRoom.beginLetterLabel>
+  <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.recoveryMessage>{0} আর নিজের ঘরে লুকিয়ে নেই।</Wander_OwnRoom.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic.label>মনোবিহ্বল বিচরণ</Wander_Psychotic.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic.baseInspectLine>মানসিক অবস্থা: সাইকোটিক বিচরণ।</Wander_Psychotic.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic.beginLetter>{0} একটি মানসিক বিকারগ্রস্ত অবস্থায় ঘুরে বেড়াচ্ছে।</Wander_Psychotic.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic.beginLetterLabel>অবশতা</Wander_Psychotic.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic.recoveryMessage>{0} আর মানসিক বিকারগ্রস্ত অবস্থায় ঘুরে বেড়াচ্ছে না।</Wander_Psychotic.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic_Short.label>মানসিক বিভ্রম ভ্রমণ</Wander_Psychotic_Short.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic_Short.baseInspectLine>মানসিক অবস্থা: সাইকোটিক বিচরণ।</Wander_Psychotic_Short.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic_Short.beginLetter>{0} একটি মানসিক বিকারগ্রস্ত অবস্থায় ঘুরে বেড়াচ্ছে।</Wander_Psychotic_Short.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic_Short.beginLetterLabel>অবশতা</Wander_Psychotic_Short.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic_Short.recoveryMessage>{0} আর মানসিক বিকারগ্রস্ত অবস্থায় ঘুরে বেড়াচ্ছে না।</Wander_Psychotic_Short.recoveryMessage>
+  
+  <!-- EN: sad wandering -->
+  <Wander_Sad.label>দুঃখজনক বিচরণ</Wander_Sad.label>
+  <!-- EN: Mental state: Sad wandering -->
+  <Wander_Sad.baseInspectLine>মানসিক অবস্থা: দুঃখজনক বিচরণ।</Wander_Sad.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around in sadness. -->
+  <Wander_Sad.beginLetter>{0} ভেঙে পড়েছে এবং দুঃখের মধ্যে ঘুরে বেড়াচ্ছে।</Wander_Sad.beginLetter>
+  <!-- EN: sad wander -->
+  <Wander_Sad.beginLetterLabel>দুঃখী ভবঘুরে</Wander_Sad.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in sadness. -->
+  <Wander_Sad.recoveryMessage>{0} আর দুঃখের মধ্যে ঘুরে বেড়াচ্ছে না।</Wander_Sad.recoveryMessage>
+  
+</LanguageData>

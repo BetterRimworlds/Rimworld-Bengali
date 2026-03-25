@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: minified thing -->
+  <MinifiedThing.label>ক্ষুদ্র বস্তু</MinifiedThing.label>
+  
+  <!-- EN: minified thing -->
+  <MinifiedThingRealtimeDraw.label>ক্ষুদ্র বস্তু</MinifiedThingRealtimeDraw.label>
+  
+  <!-- EN: minified tree -->
+  <MinifiedTree.label>ক্ষুদ্র গাছ</MinifiedTree.label>
+  
+  <!-- EN: unfinished apparel -->
+  <UnfinishedApparel.label>অসম্পূর্ণ পোশাক</UnfinishedApparel.label>
+  <!-- EN: An unfinished piece of an apparel. -->
+  <UnfinishedApparel.description>একটি পোশাকের অসম্পূর্ণ অংশ।</UnfinishedApparel.description>
+  
+  <!-- EN: unfinished simple armor -->
+  <UnfinishedArmor.label>অসম্পূর্ণ সাধারণ বর্ম</UnfinishedArmor.label>
+  <!-- EN: An unfinished piece of simple armor. -->
+  <UnfinishedArmor.description>একটি অসম্পূর্ণ সাধারণ বর্ম।</UnfinishedArmor.description>
+  
+  <!-- EN: unfinished belt -->
+  <UnfinishedBelt.label>অসম্পূর্ণ বেল্ট</UnfinishedBelt.label>
+  <!-- EN: An unfinished piece of a belt. -->
+  <UnfinishedBelt.description>একটি বেল্টের অসম্পূর্ণ অংশ।</UnfinishedBelt.description>
+  
+  <!-- EN: unfinished component -->
+  <UnfinishedComponent.label>অসম্পূর্ণ উপাদান</UnfinishedComponent.label>
+  <!-- EN: An unfinished component. -->
+  <UnfinishedComponent.description>একটি অসম্পূর্ণ উপাদান।</UnfinishedComponent.description>
+  
+  <!-- EN: unfinished gun -->
+  <UnfinishedGun.label>অসম্পূর্ণ বন্দুক</UnfinishedGun.label>
+  <!-- EN: An unfinished gun of some kind. -->
+  <UnfinishedGun.description>এটি কোনো না কোনো ধরনের একটি অসম্পূর্ণ বন্দুক।</UnfinishedGun.description>
+  
+  <!-- EN: unfinished bionic -->
+  <UnfinishedHealthItemBionic.label>অসম্পূর্ণ বায়োনিক</UnfinishedHealthItemBionic.label>
+  <!-- EN: An unfinished bionic. -->
+  <UnfinishedHealthItemBionic.description>একটি অসম্পূর্ণ বায়োনিক।</UnfinishedHealthItemBionic.description>
+  
+  <!-- EN: unfinished prosthetic -->
+  <UnfinishedHealthItemProsthetic.label>অসম্পূর্ণ কৃত্রিম অঙ্গ</UnfinishedHealthItemProsthetic.label>
+  <!-- EN: An unfinished prosthetic. -->
+  <UnfinishedHealthItemProsthetic.description>একটি অসম্পূর্ণ কৃত্রিম অঙ্গ।</UnfinishedHealthItemProsthetic.description>
+  
+  <!-- EN: unfinished mask -->
+  <UnfinishedMask.label>অসম্পূর্ণ মাস্ক</UnfinishedMask.label>
+  <!-- EN: An unfinished mask. -->
+  <UnfinishedMask.description>একটি অসম্পূর্ণ মুখোশ।</UnfinishedMask.description>
+  
+  <!-- EN: unfinished metal armor -->
+  <UnfinishedMetallicTechArmor.label>অসম্পূর্ণ ধাতব বর্ম</UnfinishedMetallicTechArmor.label>
+  <!-- EN: An unfinished piece of metal armor. -->
+  <UnfinishedMetallicTechArmor.description>একটি অসম্পূর্ণ ধাতব বর্ম।</UnfinishedMetallicTechArmor.description>
+  
+  <!-- EN: unfinished pack -->
+  <UnfinishedPack.label>অসম্পূর্ণ প্যাকেট</UnfinishedPack.label>
+  <!-- EN: An unfinished piece of a pack. -->
+  <UnfinishedPack.description>একটি প্যাকের অসম্পূর্ণ অংশ।</UnfinishedPack.description>
+  
+  <!-- EN: unfinished sculpture -->
+  <UnfinishedSculpture.label>অসম্পূর্ণ ভাস্কর্য</UnfinishedSculpture.label>
+  <!-- EN: An unfinished sculpture. -->
+  <UnfinishedSculpture.description>একটি অসম্পূর্ণ ভাস্কর্য।</UnfinishedSculpture.description>
+  
+  <!-- EN: unfinished advanced armor -->
+  <UnfinishedTechArmor.label>অসম্পূর্ণ উন্নত বর্ম</UnfinishedTechArmor.label>
+  <!-- EN: An unfinished piece of high-tech armor. -->
+  <UnfinishedTechArmor.description>একটি অসম্পূর্ণ উচ্চ-প্রযুক্তি বর্ম।</UnfinishedTechArmor.description>
+  
+  <!-- EN: unfinished weapon -->
+  <UnfinishedWeapon.label>অসম্পূর্ণ অস্ত্র</UnfinishedWeapon.label>
+  <!-- EN: An unfinished weapon. -->
+  <UnfinishedWeapon.description>একটি অসম্পূর্ণ অস্ত্র।</UnfinishedWeapon.description>
+  
+</LanguageData>

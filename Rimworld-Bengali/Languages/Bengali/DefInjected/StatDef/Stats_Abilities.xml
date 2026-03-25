@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: casting time -->
+  <Ability_CastingTime.label>কাস্টিং সময়</Ability_CastingTime.label>
+  <!-- EN: How long it takes to perform this ability. -->
+  <Ability_CastingTime.description>এই ক্ষমতাটি সম্পাদন করতে কত সময় লাগে।</Ability_CastingTime.description>
+  <!-- EN: {0} s -->
+  <Ability_CastingTime.formatString>{0} এর পরিসংখ্যান</Ability_CastingTime.formatString>
+  
+  <!-- EN: detection chance -->
+  <Ability_DetectChancePerEntropy.label>সনাক্তকরণের সম্ভাবনা</Ability_DetectChancePerEntropy.label>
+  <!-- EN: The likelihood of this psychic power being detected when it is used.\n\nSome factions try to enforce laws which restrict some powers to those holding specific titles. When you use a power, there is a chance that the psychic signature will be detected at a distance, which leads to diplomatic consequences. -->
+  <Ability_DetectChancePerEntropy.description>এই মানসিক ক্ষমতা ব্যবহারের সময় সনাক্ত হওয়ার সম্ভাবনা।\n\nকিছু দল আইন প্রয়োগ করার চেষ্টা করে যা নির্দিষ্ট পদাধিকারীদের মধ্যে কিছু ক্ষমতা সীমাবদ্ধ করে। আপনি যখন একটি ক্ষমতা ব্যবহার করেন, তখন একটি সুযোগ থাকে যে মানসিক স্বাক্ষর দূর থেকে সনাক্ত করা যাবে, যা কূটনৈতিক পরিণতির দিকে পরিচালিত করে।</Ability_DetectChancePerEntropy.description>
+  
+  <!-- EN: duration -->
+  <Ability_Duration.label>সময়কাল</Ability_Duration.label>
+  <!-- EN: How long the effects of this ability last. -->
+  <Ability_Duration.description>এই ক্ষমতার প্রভাব কতক্ষণ স্থায়ী হয়।</Ability_Duration.description>
+  <!-- EN: {0} s -->
+  <Ability_Duration.formatString>{0} এর পরিসংখ্যান</Ability_Duration.formatString>
+  
+  <!-- EN: effect radius -->
+  <Ability_EffectRadius.label>প্রভাব ব্যাসার্ধ</Ability_EffectRadius.label>
+  <!-- EN: The radius of the area of effect of this ability. -->
+  <Ability_EffectRadius.description>এই ক্ষমতার প্রভাবের এলাকার ব্যাসার্ধ।</Ability_EffectRadius.description>
+  
+  <!-- EN: neural heat gain -->
+  <Ability_EntropyGain.label>স্নায়ু তাপ বৃদ্ধি</Ability_EntropyGain.label>
+  <!-- EN: How much neural heat will be added as a result of performing this ability. -->
+  <Ability_EntropyGain.description>এই ক্ষমতাটি প্রয়োগ করার ফলে কতটা নিউরাল তাপ যুক্ত হবে।</Ability_EntropyGain.description>
+  
+  <!-- EN: goodwill impact -->
+  <Ability_GoodwillImpact.label>goodwill প্রভাব</Ability_GoodwillImpact.label>
+  <!-- EN: How casting this ability on someone will impact relations with their faction. -->
+  <Ability_GoodwillImpact.description>এই ক্ষমতা ব্যবহার করে কারো উপর প্রভাব ফেললে তাদের দলভুক্তদের সাথে সম্পর্কের উপর কেমন প্রভাব পড়বে।</Ability_GoodwillImpact.description>
+  
+  <!-- EN: psyfocus cost -->
+  <Ability_PsyfocusCost.label>মানসিক খরচ</Ability_PsyfocusCost.label>
+  <!-- EN: How much psyfocus must be spent to perform this ability. -->
+  <Ability_PsyfocusCost.description>এই ক্ষমতাটি সম্পাদন করতে কত পরিমাণ সাইফোকাস ব্যয় করতে হবে।</Ability_PsyfocusCost.description>
+  
+  <!-- EN: range -->
+  <Ability_Range.label>পাল্লা</Ability_Range.label>
+  <!-- EN: The maximum distance to a target of this ability, or to the center of the target location. -->
+  <Ability_Range.description>এই ক্ষমতার লক্ষ্যবস্তুর সর্বোচ্চ দূরত্ব, অথবা লক্ষ্যবস্তুর অবস্থানের কেন্দ্রের দূরত্ব।</Ability_Range.description>
+  
+  <!-- EN: psylink level -->
+  <Ability_RequiredPsylink.label>সাইলিঙ্ক স্তর</Ability_RequiredPsylink.label>
+  <!-- EN: The minimum psylink level required to use this ability. -->
+  <Ability_RequiredPsylink.description>এই ক্ষমতা ব্যবহার করার জন্য প্রয়োজনীয় সর্বনিম্ন সাইলিঙ্ক স্তর।</Ability_RequiredPsylink.description>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wake-up -->
+  <WakeUp.label>ওয়েক-আপ</WakeUp.label>
+  <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. Psycasters on wake-up gain more psyfocus from meditation than they otherwise would. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug. -->
+  <WakeUp.description>এটি একটি কৃত্রিম উত্তেজক। ওয়েক-আপ ব্যবহারকারীর বিশ্রামের প্রয়োজন মেটায়, যা তাঁদের ক্লান্তি ছাড়াই দীর্ঘ সময় ধরে কাজ করতে দেয়। ওয়েক-আপ গ্রহণকালে সাইকাস্টাররা ধ্যানের মাধ্যমে স্বাভাবিকের চেয়ে বেশি সাইফোকাশ অর্জন করে। তবে, ওয়েক-আপ গ্রহণ করলে আসক্তি হওয়ার ঝুঁকি থাকে।\n\nঅনেক বিশ্বের সবচেয়ে প্রতিযোগিতামূলক বিশ্ববিদ্যালয় এবং কোম্পানিতে, উচ্চাকাঙ্ক্ষী ব্যক্তিদের প্রায়শই এই ওষুধের সাথে সম্পর্কের কারণে 'ওয়েক-আপ' বলা হয়।</WakeUp.description>
+  <!-- EN: Take {0} -->
+  <WakeUp.ingestible.ingestCommandString>{0} গ্রহণ করুন</WakeUp.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <WakeUp.ingestible.ingestReportString>{0} গ্রহণ করা হচ্ছে।</WakeUp.ingestible.ingestReportString>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol -->
+  <Chemical_Alcohol.label>অ্যালকোহল</Chemical_Alcohol.label>
+  <!-- EN: Because of an alcohol addiction, this person needs to regularly consume alcohol to avoid withdrawal symptoms. -->
+  <Chemical_Alcohol.description>অ্যালকোহল আসক্তির কারণে, এই ব্যক্তিকে প্রত্যাহার উপসর্গ এড়ানোর জন্য নিয়মিতভাবে অ্যালকোহল পান করতে হয়।</Chemical_Alcohol.description>
+  
+</LanguageData>

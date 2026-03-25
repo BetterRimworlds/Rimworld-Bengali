@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient soldier --><!-- EN: soldado antiguo -->
+  <AncientSoldier.label>প্রাচীন সৈনিক</AncientSoldier.label><!-- EN: soldado antigua -->
+  <AncientSoldier.labelFemale>সোলদাদো আন্তিকুয়া</AncientSoldier.labelFemale><!-- EN: soldados antiguos -->
+  <AncientSoldier.labelPlural>প্রাচীনSoldado</AncientSoldier.labelPlural>
+  
+  <!-- EN: space refugee --><!-- EN: refugiado espacial -->
+  <SpaceRefugee.label>মহাকাশ শরণার্থী</SpaceRefugee.label><!-- EN: refugiada espacial -->
+  <SpaceRefugee.labelFemale>মহাকাশ শরণার্থী</SpaceRefugee.labelFemale><!-- EN: refugiados espaciales -->
+  <SpaceRefugee.labelPlural>মহাকাশ শরণার্থী</SpaceRefugee.labelPlural>
+  
+  <!-- EN: space refugee --><!-- EN: refugiado espacial -->
+  <SpaceRefugee_Clothed.label>মহাকাশ শরণার্থী</SpaceRefugee_Clothed.label><!-- EN: refugiada espacial -->
+  <SpaceRefugee_Clothed.labelFemale>মহাকাশ শরণার্থী</SpaceRefugee_Clothed.labelFemale><!-- EN: refugiados espaciales -->
+  <SpaceRefugee_Clothed.labelPlural>মহাকাশ শরণার্থী</SpaceRefugee_Clothed.labelPlural>
+  
+</LanguageData>

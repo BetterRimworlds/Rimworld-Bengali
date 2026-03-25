@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: do forever -->
+  <Forever.label>চিরকাল করো</Forever.label>
+  
+  <!-- EN: do X times -->
+  <RepeatCount.label>X বার করুন</RepeatCount.label>
+  
+  <!-- EN: do until you have X -->
+  <TargetCount.label>X না হওয়া পর্যন্ত করো</TargetCount.label>
+  
+</LanguageData>

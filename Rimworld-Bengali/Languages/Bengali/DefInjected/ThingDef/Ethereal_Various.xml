@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blight -->
+  <Blight.label>ব্লাইট</Blight.label>
+  
+  <!-- EN: explosion -->
+  <Explosion.label>বিস্ফোরণ</Explosion.label>
+  
+  <!-- EN: flying -->
+  <PawnFlyer.label>উড়ন্ত</PawnFlyer.label>
+  
+  <!-- EN: flying -->
+  <PawnFlyer_Stun.label>উড়ন্ত</PawnFlyer_Stun.label>
+  
+  <!-- EN: disrupted soil -->
+  <PawnGroundSpawner.label>বিপর্যস্ত মাটি</PawnGroundSpawner.label>
+  
+  <!-- EN: proximity trigger -->
+  <RadialTrigger.label>নিকটতা ট্রিগার</RadialTrigger.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>আয়তক্ষেত্র ট্রিগার</RectTrigger.label>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>ঘূর্ণিঝড়</Tornado.label>
+  
+  <!-- EN: trigger container emptied -->
+  <TriggerContainerEmptied.label>ট্রিগার ধারক খালি</TriggerContainerEmptied.label>
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>আনফগড ট্রিগার</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
+  <TunnelHiveSpawner.label>সুরঙ্গ</TunnelHiveSpawner.label>
+  
+</LanguageData>

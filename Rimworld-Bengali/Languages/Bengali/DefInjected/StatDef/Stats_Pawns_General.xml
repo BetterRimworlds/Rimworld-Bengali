@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals learning factor -->
+  <AnimalsLearningFactor.label>প্রাণী শেখার গুণাঙ্ক</AnimalsLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for animals skill. -->
+  <AnimalsLearningFactor.description>প্রাণীদের দক্ষতা শেখার হারের উপর একটি গুণক।</AnimalsLearningFactor.description>
+  
+  <!-- EN: bed hunger rate multiplier -->
+  <BedHungerRateFactor.label>বিছানা ক্ষুধা হার গুণক</BedHungerRateFactor.label>
+  
+  <!-- EN: caravan riding speed -->
+  <CaravanRidingSpeedFactor.label>কারাভান গতি</CaravanRidingSpeedFactor.label>
+  <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
+  <CaravanRidingSpeedFactor.description>একটি কাফেলায় এই পশুতে চড়ে থাকলে একজন ব্যক্তির গতিবেগের উপর যে গুণক প্রয়োগ করা হয়। পশুদের শুধুমাত্র কাফেলায় চড়া যায়।</CaravanRidingSpeedFactor.description>
+  
+  <!-- EN: carrying capacity -->
+  <CarryingCapacity.label>বহন ক্ষমতা</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
+  <CarryingCapacity.description>এই প্রাণীটি হাত, মুখ বা অন্যান্য ম্যানিপুলেটর দিয়ে কী পরিমাণ জিনিস বহন করতে পারে তার পরিমাণ।\n\nএটি দীর্ঘ আন্তঃগ্রহ ভ্রমণের জন্য পণ্য বহন করার ক্ষমতা থেকে আলাদা।</CarryingCapacity.description>
+  
+  <!-- EN: max comfortable temperature -->
+  <ComfyTemperatureMax.label>সর্বোচ্চ আরামদায়ক তাপমাত্রা</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>এই তাপমাত্রার উপরে গেলে ক্যারেক্টাররা অসন্তুষ্ট হবে।\n\nএই তাপমাত্রা উল্লেখযোগ্যভাবে বেড়ে গেলে হিটস্ট্রোক হবে এবং শেষ পর্যন্ত মৃত্যু পর্যন্ত ঘটতে পারে।</ComfyTemperatureMax.description>
+  
+  <!-- EN: min comfortable temperature -->
+  <ComfyTemperatureMin.label>ন্যূনতম আরামদায়ক তাপমাত্রা</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>এই তাপমাত্রার নিচে, চরিত্রগুলো অসুখী হবে।\n\nএই তাপমাত্রা উল্লেখযোগ্যভাবে নিচে নেমে গেলে, তাদের হাইপোথার্মিয়া এবং ফ্রস্টবাইট হবে এবং শেষ পর্যন্ত তারা মারা যাবে।</ComfyTemperatureMin.description>
+  
+  <!-- EN: crawl speed -->
+  <CrawlSpeed.label>ক্রল গতি</CrawlSpeed.label>
+  <!-- EN: Speed of crawling in cells per second. -->
+  <CrawlSpeed.description>কোষ প্রতি সেকেন্ডে হামাগুড়ি দেওয়ার গতি।</CrawlSpeed.description>
+  <!-- EN: {0} c/s -->
+  <CrawlSpeed.formatString>{0} সে/সেকেন্ড</CrawlSpeed.formatString>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>খাবার গ্রহণের গতি</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>খাবার খাওয়ার গতিতে একটি গুণক।</EatingSpeed.description>
+  
+  <!-- EN: EMP resistance -->
+  <EMPResistance.label>ইএমপি প্রতিরোধ</EMPResistance.label>
+  <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
+  <EMPResistance.description>এই মেকানোইডটিতে বিশেষ শিল্ডিং এবং শক-ডিসিপেশন ফিলামেন্ট রয়েছে যা ইএমপি ক্ষতির প্রভাব এই শতাংশে কমিয়ে দেয়। এটি ইএমপি-র কারণে সৃষ্ট স্টানের সময়কাল হ্রাস করে।</EMPResistance.description>
+  
+  <!-- EN: filth rate -->
+  <FilthRate.label>নোংরা হার</FilthRate.label>
+  <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
+  <FilthRate.description>এই প্রাণীটি কতটা ময়লা তৈরি করে।\n\nময়লা উৎপাদনকারী পশুদের বাইরে রাখাই ভালো অথবা খড় ম্যাটিং-এর উপর রাখলে তাদের ময়লা সমস্যা তৈরি করবে না।</FilthRate.description>
+  
+  <!-- EN: flight cooldown -->
+  <FlightCooldown.label>উড্ডয়ন বিলম্ব</FlightCooldown.label>
+  <!-- EN: The rest time needed before this creature can fly again. -->
+  <FlightCooldown.description>এই প্রাণীটি পুনরায় উড়তে পারার আগে প্রয়োজনীয় বিশ্রামের সময়।</FlightCooldown.description>
+  <!-- EN: {0}s -->
+  <FlightCooldown.formatString>: {0}গুলি</FlightCooldown.formatString>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>সংগৃহীত খাদ্য পরিমাণ</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>এই ব্যক্তিটি কারভান করে ভ্রমণ করার সময় প্রতিদিন স্বয়ংক্রিয়ভাবে যে পরিমাণ পুষ্টি সংগ্রহ করবে।</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>বৈশ্বিক শেখার গুণাঙ্ক</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>সমস্ত দক্ষতার জন্য শেখার হারের উপর একটি গুণক।</GlobalLearningFactor.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>রোগ প্রতিরোধ ক্ষমতা লাভের গতি</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>এই চরিত্রটি রোগের বিরুদ্ধে প্রতিরোধ ক্ষমতা কত দ্রুত অর্জন করে।\n\nযদি এটি খুব ধীর হয়, তবে রোগ প্রতিরোধ ক্ষমতা তৈরি হওয়ার আগে চরিত্রটি রোগে মারা যেতে পারে।</ImmunityGainSpeed.description>
+  
+  <!-- EN: injury healing factor -->
+  <InjuryHealingFactor.label>ক্ষত নিরাময় গুণাঙ্ক</InjuryHealingFactor.label>
+  <!-- EN: The multiplier applied to a person's injury healing rate. -->
+  <InjuryHealingFactor.description>একজন ব্যক্তির আঘাত নিরাময়ের হারের উপর প্রয়োগ করা গুণক।</InjuryHealingFactor.description>
+  
+  <!-- EN: recreation fall rate -->
+  <JoyFallRateFactor.label>বিনোদন পতন হার</JoyFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
+  <JoyFallRateFactor.description>একজন ব্যক্তির বিনোদন চাহিদা কমার হারকে প্রভাবিত করে এমন একটি গুণক।</JoyFallRateFactor.description>
+  
+  <!-- EN: leather amount -->
+  <LeatherAmount.label>চামড়ার পরিমাণ</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <LeatherAmount.description>এই প্রাণীটিকে জবাই করার সময় যে পরিমাণ চামড়া পাওয়া যায়। প্রাণীটি পরিষ্কারভাবে জবাই করা না হলে, অথবা মারা যাওয়ার সময় আহত হলে এই মান কমে যায়।</LeatherAmount.description>
+  
+  <!-- EN: lifespan factor -->
+  <LifespanFactor.label>জীবনকাল গুণাঙ্ক</LifespanFactor.label>
+  <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
+  <LifespanFactor.description>জীবনকাল ফ্যাক্টর কোনো প্রাণীর কার্যকর জীবনকাল পরিবর্তন করে, বয়স-সম্পর্কিত রোগ হওয়ার সময় কমিয়ে বা বাড়িয়ে। ১০০% এর বেশি জীবনকাল ফ্যাক্টর রোগের শুরু বিলম্বিত করে এবং সামগ্রিক জীবনকাল বৃদ্ধি করে, যেখানে ১০০% এর কম জীবনকাল ফ্যাক্টর রোগের শুরু ত্বরান্বিত করে এবং জীবনকাল হ্রাস করে।</LifespanFactor.description>
+  
+  <!-- EN: max flight time -->
+  <MaxFlightTime.label>সর্বোচ্চ উড্ডয়ন সময়</MaxFlightTime.label>
+  <!-- EN: The maximum amount of time this creature can stay in flight before landing. -->
+  <MaxFlightTime.description>এই প্রাণীটি অবতরণ করার আগে কতক্ষণ উড়তে পারবে তার সর্বোচ্চ সময়কাল।</MaxFlightTime.description>
+  <!-- EN: {0}s -->
+  <MaxFlightTime.formatString>{0}গুলি</MaxFlightTime.formatString>
+  
+  <!-- EN: max nutrition -->
+  <MaxNutrition.label>সর্বোচ্চ পুষ্টি</MaxNutrition.label>
+  <!-- EN: The amount of nutrition needed to completely fill this creature's stomach. -->
+  <MaxNutrition.description>এই প্রাণীটির পেট সম্পূর্ণরূপে ভরার জন্য প্রয়োজনীয় পুষ্টির পরিমাণ।</MaxNutrition.description>
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>মাংসের পরিমাণ</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <MeatAmount.description>এই প্রাণীটিকে জবাই করলে যে পরিমাণ মাংস পাওয়া যায়। প্রাণীটি পরিষ্কারভাবে জবাই করা না হলে, অথবা মারা যাওয়ার সময় আহত হলে এই মান কমে যায়।</MeatAmount.description>
+  
+  <!-- EN: meditation psyfocus gain -->
+  <MeditationFocusGain.label>ধ্যান মনোনিবেশ লাভ</MeditationFocusGain.label>
+  <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
+  <MeditationFocusGain.description>ধ্যানের প্রতিদিনের মাধ্যমে একজন ব্যক্তি যে পরিমাণ সাইফোকাশ অর্জন করে, ফোকাস বস্তুর কাছ থেকে প্রাপ্ত বোনাসগুলি বাদ দিয়ে।</MeditationFocusGain.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatString>{0} / দিন</MeditationFocusGain.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatStringUnfinalized>{0} / দিন</MeditationFocusGain.formatStringUnfinalized>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>মানসিক বিপর্যয় সীমা</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>কারও মানসিক অবস্থা এই স্তরের নিচে থাকলে, তাদের মানসিক অবসাদ হওয়ার ঝুঁকি থাকে।\n\nমানসিক অবসাদের তীব্রতা নির্ভর করবে তারা থ্রেশহোল্ড থেকে কতটা নিচে আছে তার ওপর।</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
+  <MinimumHandlingSkill.label>ন্যূনতম হ্যান্ডলিং দক্ষতা</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
+  <MinimumHandlingSkill.description>এই প্রাণীটিকে পশুসম্পর্কীয় দক্ষতা এই স্তরের চেয়ে কম থাকলে যে কেউ পোষ মানানো, প্রশিক্ষণ দেওয়া বা নিয়ন্ত্রণ করতে পারবে না।</MinimumHandlingSkill.description>
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>গতি</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>প্রতি সেকেন্ডে ঘরগুলোর মধ্যে নড়াচড়ার গতি।</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} সে/সেকেন্ড</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>ব্যথা সহনশীলতা</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>এই প্রাণীটি ব্যথায় কত মাত্রায় ভূপতিত হবে।</PainShockThreshold.description>
+  
+  <!-- EN: neural heat limit -->
+  <PsychicEntropyMax.label>স্নায়বিক তাপ সীমা</PsychicEntropyMax.label>
+  <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
+  <PsychicEntropyMax.description>একজন ব্যক্তি নিরাপদে সহ্য করতে পারে এমন সর্বোচ্চ নিউরাল তাপের পরিমাণ।</PsychicEntropyMax.description>
+  
+  <!-- EN: neural heat recovery rate -->
+  <PsychicEntropyRecoveryRate.label>স্নায়ু তাপ পুনরুদ্ধার হার</PsychicEntropyRecoveryRate.label>
+  <!-- EN: The rate at which this person reduces neural heat. -->
+  <PsychicEntropyRecoveryRate.description>এই ব্যক্তি নিউরাল তাপ কত দ্রুত হ্রাস করে তার হার।</PsychicEntropyRecoveryRate.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRate.formatString>{0}/সেকেন্ড</PsychicEntropyRecoveryRate.formatString>
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>মানসিক সংবেদনশীলতা</PsychicSensitivity.label>
+  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
+  <PsychicSensitivity.description>আরও সংবেদনশীল ব্যক্তিরা নেতিবাচক মানসিক প্রভাব থেকে বেশি কষ্ট পায়, এবং ইতিবাচক প্রভাব থেকে বেশি উপকৃত হয়। উচ্চ মানসিক সংবেদনশীলতা স্নায়বিক তাপের সীমাও বৃদ্ধি করে।</PsychicSensitivity.description>
+  
+  <!-- EN: sleep fall rate -->
+  <RestFallRateFactor.label>ঘুম কমার হার</RestFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
+  <RestFallRateFactor.description>একজন ব্যক্তির ঘুমের প্রয়োজনীয়তা কত দ্রুত কমে যায় তার ওপর একটি গুণক।</RestFallRateFactor.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>বিশ্রাম হার গুণক</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>একটি প্রাণী ঘুমন্ত অবস্থায় কত দ্রুত বিশ্রাম নেয় তার উপর একটি গুণক।</RestRateMultiplier.description>
+  
+  <!-- EN: toxic environment resistance -->
+  <ToxicEnvironmentResistance.label>বিষাক্ত পরিবেশ প্রতিরোধ</ToxicEnvironmentResistance.label>
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against tox gas, rot stink, toxic fallout, and polluted terrain, but not against direct attacks with venom or injected poison. When this value is higher, exposure to pollution produces proportionally less toxic buildup in the body. -->
+  <ToxicEnvironmentResistance.description>এই প্রাণীটি পরিবেশগত বিষাক্ততার প্রভাবের বিরুদ্ধে কতটা প্রতিরোধী, তা নির্দেশ করে। এটি বিষাক্ত গ্যাস, পচনশীল দুর্গন্ধ, বিষাক্ত তেজস্ক্রিয়তা এবং দূষিত ভূখণ্ড থেকে সুরক্ষা প্রদান করে, তবে বিষাক্ততা বা ইনজেকশনের মাধ্যমে সরাসরি আক্রমণে সুরক্ষা দেয় না। এই মান যত বেশি, দূষণের সংস্পর্শে শরীরের মধ্যে বিষাক্ত উপাদান তত কম জমা হয়।</ToxicEnvironmentResistance.description>
+  
+  <!-- EN: toxic resistance -->
+  <ToxicResistance.label>বিষাক্ত প্রতিরোধ</ToxicResistance.label>
+  <!-- EN: How well this creature resists toxic buildup. -->
+  <ToxicResistance.description>এই প্রাণীটি বিষাক্ত পদার্থ জমা হওয়া কতটা ভালোভাবে প্রতিরোধ করতে পারে।</ToxicResistance.description>
+  
+  <!-- EN: wildness -->
+  <Wildness.label>বন্যতা</Wildness.label>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <Wildness.description>বন্য প্রাণী স্বভাবতই পোষ মানানো, প্রশিক্ষণ দেওয়া এবং নিয়ন্ত্রণ করা কঠিন।</Wildness.description>
+  
+</LanguageData>
