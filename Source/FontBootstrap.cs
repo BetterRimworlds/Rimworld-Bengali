@@ -7,10 +7,10 @@ using Verse;
 
 namespace BetterRimworlds
 {
-    public static class FontBootstrap
+    public class FontBootstrap
     {
-        public static Font LoadedFont;
-        private static FontLanguageConfig _activeConfig;
+        public Font LoadedFont;
+        private FontLanguageConfig _activeConfig;
 
         private static readonly Dictionary<string, FontLanguageConfig> LanguageFonts =
             new Dictionary<string, FontLanguageConfig>
@@ -24,7 +24,8 @@ namespace BetterRimworlds
                         "NotoSansDevanagari-Regular",
                     },
                     packageName: "noto-fonts-extra",
-                    testChars: "अआइईउऊकखगघचछजझटठडढणतथदधनपफबभमयरलवशषसहािीुूृेैोौंःँ्"                ),
+                    testChars: "अआइईउऊकखगघचछजझटठडढणतथदधनपफबभमयरलवशषसहािीुूृेैोौंःँ्"
+                ),
                 ["Bengali"] = new FontLanguageConfig(
                     language: "Bengali",
                     fontSearchNames: new[]
@@ -71,7 +72,7 @@ namespace BetterRimworlds
                 ),
             };
 
-        public static void Init(string language)
+        public void Init(string language)
         {
             if (!LanguageFonts.TryGetValue(language, out _activeConfig))
             {
@@ -92,7 +93,6 @@ namespace BetterRimworlds
                         $"[BetterRimworlds] ERROR: No suitable font found " +
                         $"for {_activeConfig.Language}.\n\n" +
                         $"Please install a {_activeConfig.Language} font:\n" +
-                        //$"{_activeConfig.InstallInstructions}\n\n" +
                         "Then restart RimWorld."
                     );
                     return;
@@ -135,7 +135,7 @@ namespace BetterRimworlds
             }
         }
 
-        public static bool ShouldUseCustomFont()
+        public bool ShouldUseCustomFont()
         {
             return _activeConfig != null
                 && LanguageDatabase.activeLanguage?.folderName == _activeConfig.Language
@@ -200,9 +200,8 @@ namespace BetterRimworlds
                     $"dynamic={font.dynamic}"
                 );
 
-                // Test first 8 script-specific chars
                 var testChars = config.TestChars;
-                var results = new List<string>();
+                var results = new System.Collections.Generic.List<string>();
                 for (int i = 0; i < Math.Min(8, testChars.Length); i++)
                 {
                     char c = testChars[i];

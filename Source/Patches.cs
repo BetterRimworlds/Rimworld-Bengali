@@ -15,27 +15,28 @@ namespace BetterRimworlds
         {
             string activeLang = LanguageDatabase.activeLanguage?.folderName;
 
+            if (activeLang != RimworldBengaliMod.Language)
+                return;
+
             if (_initializedForLanguage == activeLang)
                 return;
 
             _initializedForLanguage = activeLang;
 
-            FontBootstrap.Init(activeLang);
+            RimworldBengaliMod.Bootstrap.Init(activeLang);
 
-            if (!FontBootstrap.ShouldUseCustomFont())
+            if (!RimworldBengaliMod.Bootstrap.ShouldUseCustomFont())
                 return;
 
-            var font = FontBootstrap.LoadedFont;
+            var font = RimworldBengaliMod.Bootstrap.LoadedFont;
 
             foreach (GameFont value in Enum.GetValues(typeof(GameFont)))
             {
                 int i = (int)value;
-
                 Text.fontStyles[i].font = font;
                 Text.textFieldStyles[i].font = font;
                 Text.textAreaStyles[i].font = font;
                 Text.textAreaReadOnlyStyles[i].font = font;
-
                 Log.Message(
                     $"[BetterRimworlds:{activeLang}] " +
                     $"Applied font to GameFont.{value} (size {Text.fontStyles[i].fontSize})"

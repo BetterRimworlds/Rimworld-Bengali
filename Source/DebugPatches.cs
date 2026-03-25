@@ -14,9 +14,13 @@ namespace BetterRimworlds
         {
             if (_logged)
                 return;
+
+            if (LanguageDatabase.activeLanguage?.folderName != RimworldBengaliMod.Language)
+                return;
+
             _logged = true;
 
-            if (FontBootstrap.LoadedFont == null)
+            if (RimworldBengaliMod.Bootstrap.LoadedFont == null)
             {
                 Log.Warning(
                     $"[BetterRimworlds:{RimworldBengaliMod.Language}] " +
@@ -28,8 +32,8 @@ namespace BetterRimworlds
             Log.Message(
                 $"[BetterRimworlds:{RimworldBengaliMod.Language}] DebugPatch: " +
                 $"ActiveLanguage={LanguageDatabase.activeLanguage?.folderName}, " +
-                $"Font={FontBootstrap.LoadedFont.name}, " +
-                $"dynamic={FontBootstrap.LoadedFont.dynamic}"
+                $"Font={RimworldBengaliMod.Bootstrap.LoadedFont.name}, " +
+                $"dynamic={RimworldBengaliMod.Bootstrap.LoadedFont.dynamic}"
             );
         }
     }
