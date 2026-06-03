@@ -1,12 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
+    <TargetFramework>net480</TargetFramework>
     <OutputType>Library</OutputType>
-    <LangVersion>11</LangVersion>
+    <LangVersion>11.0</LangVersion>
     <ProjectGuid>{675CE9D5-460C-496A-A6A9-8D3873EEEE04}</ProjectGuid>
     <RootNamespace>BetterRimworlds</RootNamespace>
     <AssemblyName>Rimworld-Bengali</AssemblyName>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <ImplicitUsings>disable</ImplicitUsings>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
 
@@ -15,9 +15,8 @@
     <Optimize>true</Optimize>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <MainPath>/tmp/rimworld/1.2/Mods/Stargate/1.2/Assemblies</MainPath>
     <DefineConstants>RIMWORLD16</DefineConstants>
-    <OutputPath>/rimworld/1.2/Mods/Stargate/1.6/Assemblies</OutputPath>
+    <OutputPath>../Rimworld-Bengali/Assemblies</OutputPath>
   </PropertyGroup>
 
   <!-- References for Release v1.6 -->
