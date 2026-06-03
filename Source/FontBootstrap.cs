@@ -9,8 +9,12 @@ namespace BetterRimworlds
 {
     public class FontBootstrap
     {
+        private const string BengaliFontUrl =
+            "https://fonts.google.com/noto/specimen/Noto+Sans+Bengali";
+
         public Font LoadedFont;
         private FontLanguageConfig _activeConfig;
+        private static bool _missingFontDialogShown;
 
         private static readonly Dictionary<string, FontLanguageConfig> LanguageFonts =
             new Dictionary<string, FontLanguageConfig>
@@ -89,10 +93,13 @@ namespace BetterRimworlds
 
                 if (match == null)
                 {
+                    ShowMissingFontDialog(_activeConfig);
+
                     Log.Error(
                         $"[BetterRimworlds] ERROR: No suitable font found " +
                         $"for {_activeConfig.Language}.\n\n" +
                         $"Please install a {_activeConfig.Language} font:\n" +
+                        $"{BengaliFontUrl}\n\n" +
                         "Then restart RimWorld."
                     );
                     return;
@@ -163,6 +170,32 @@ namespace BetterRimworlds
             }
 
             return null;
+        }
+
+        private static void ShowMissingFontDialog(FontLanguageConfig config)
+        {
+            if (_missingFontDialogShown)
+                return;
+
+            _missingFontDialogShown = true;
+
+            string message =
+                $"The {config.Language} translation needs Noto Sans Bengali " +
+                "installed on your system before RimWorld starts.\n\n" +
+                "Install Noto Sans Bengali, then restart RimWorld.\n\n" +
+                $"Download it here:\n{BengaliFontUrl}";
+
+            try
+            {
+                Find.WindowStack.Add(new Dialog_MessageBox(message));
+            }
+            catch (Exception ex)
+            {
+                Log.Warning(
+                    $"[BetterRimworlds:{config.Language}] " +
+                    $"Failed to show missing font dialog: {ex}"
+                );
+            }
         }
 
         private static void WarmUpFont(Font font, FontLanguageConfig config)

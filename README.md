@@ -122,6 +122,50 @@ Languages/
 
 ---
 
+## Install the Bengali font
+
+RimWorld must be able to find **Noto Sans Bengali** as a system-installed font.
+The mod includes the font file, but you still need to install it into your operating system.
+
+### Primary method: install the bundled font
+
+After installing the mod, find this file:
+
+```
+RimWorld/Mods/RimWorld-Bengali/Fonts/NotoSansBengali-Regular.ttf
+```
+
+Install it:
+
+**Windows**
+1. Double-click `NotoSansBengali-Regular.ttf`
+2. Click **Install**
+3. Restart RimWorld
+
+**Linux**
+1. Copy `NotoSansBengali-Regular.ttf` to:
+   ```
+   ~/.local/share/fonts/
+   ```
+2. Refresh the font cache:
+   ```
+   fc-cache -f -v
+   ```
+3. Restart RimWorld
+
+**macOS**
+1. Double-click `NotoSansBengali-Regular.ttf`
+2. Click **Install Font** in Font Book
+3. Restart RimWorld
+
+### Alternate source
+
+If the bundled font is missing or you prefer downloading it directly, get **Noto Sans Bengali** here:
+
+https://fonts.google.com/noto/specimen/Noto+Sans+Bengali
+
+---
+
 ## Enable Bengali in RimWorld
 
 After the mod is enabled:
@@ -171,10 +215,10 @@ If another mod includes its own translation files, it may override parts of the 
   - your mod list + load order (if possible)
 
 ### “Text looks weird / missing characters”
-- RimWorld font rendering is sensitive to:
-  - font mods
-  - UI scaling
-- Try disabling font/UI mods to confirm compatibility.
+- Install **Noto Sans Bengali** from the bundled file:
+  - `Mods/RimWorld-Bengali/Fonts/NotoSansBengali-Regular.ttf`
+- Restart RimWorld after installing the font.
+- If text is still missing, try disabling other font/UI mods to confirm compatibility.
 
 ---
 
@@ -198,4 +242,3 @@ Built with the **Autonomo AI** localization pipeline (Automated QA Inspection & 
 
 RimWorld is the property of its respective owner(s).
 This translation mod is an independent community project and is not affiliated with or endorsed by Ludeon Studios.
-
